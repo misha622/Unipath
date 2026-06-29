@@ -1,3 +1,7 @@
+'use client'
+
+import { useState, useMemo } from 'react'
+import { useRouter, useSearchParams } from 'next/navigation'
 import { programs } from '@/data/programs'
 import { EXAMS_BY_COUNTRY, ALL_COUNTRIES, ALL_FIELDS, ALL_LANGUAGES, EU_COUNTRIES, ASIA_COUNTRIES, AMER_COUNTRIES } from '@/data/exams'
 import Link from 'next/link'
@@ -5,135 +9,131 @@ import Link from 'next/link'
 const DEGREES = ['All', 'Bachelor', 'Master', 'PhD', 'MBA', 'LLM', 'Diploma', 'Certificate']
 const DURATIONS = ['All', '1', '1.5', '2', '3', '4', '5', '6']
 
-const BUDGETS = [
-  { label: 'Любая', value: Infinity },
-  { label: 'Бесплатно', value: 0 },
-  { label: 'До €5,000', value: 5000 },
-  { label: 'До €10,000', value: 10000 },
-  { label: 'До €20,000', value: 20000 },
-  { label: 'До €50,000', value: 50000 },
-]
+export default function ExplorePage() {
+  const router = useRouter()
+  const searchParams = useSearchParams()
 
-interface Props {
-  searchParams: { [key: string]: string | undefined }
-}
+  const [search, setSearch] = useState(searchParams.get('search') || '')
+  const [country, setCountry] = useState(searchParams.get('country') || 'All')
+  const [degree, setDegree] = useState(searchParams.get('degree') || 'All')
+  const [field, setField] = useState(searchParams.get('field') || 'All')
+  const [language, setLanguage] = useState(searchParams.get('language') || 'All')
+  const [duration, setDuration] = useState(searchParams.get('duration') || 'All')
+  const [maxBudget, setMaxBudget] = useState(Number(searchParams.get('maxBudget')) || Infinity)
+  const [minIelts, setMinIelts] = useState(Number(searchParams.get('minIelts')) || 0)
+  const [maxIelts, setMaxIelts] = useState(Number(searchParams.get('maxIelts')) || 9)
+  const [minGpa, setMinGpa] = useState(Number(searchParams.get('minGpa')) || 0)
+  const [sort, setSort] = useState(searchParams.get('sort') || 'relevance')
 
-export default function ExplorePage({ searchParams }: Props) {
-  const search = searchParams.search || ''
-  const country = searchParams.country || 'All'
-  const degree = searchParams.degree || 'All'
-  const field = searchParams.field || 'All'
-  const language = searchParams.language || 'All'
-  const duration = searchParams.duration || 'All'
-  const maxBudget = Number(searchParams.maxBudget) || Infinity
-  const minIelts = Number(searchParams.minIelts) || 0
-  const maxIelts = Number(searchParams.maxIelts) || 9
-  const minGpa = Number(searchParams.minGpa) || 0
-  const scholarshipOnly = searchParams.scholarship === '1'
-  const chipFree = searchParams.chipFree === '1'
-  const chipEnglish = searchParams.chipEnglish === '1'
-  const chipEU = searchParams.chipEU === '1'
-  const chipAsia = searchParams.chipAsia === '1'
-  const chipAmer = searchParams.chipAmer === '1'
-  const chipDeadline = searchParams.chipDeadline === '1'
-  const sort = searchParams.sort || 'relevance'
+  // Чипсы
+  const [chipFree, setChipFree] = useState(searchParams.get('chipFree') === '1')
+  const [chipScholarship, setChipScholarship] = useState(searchParams.get('scholarship') === '1')
+  const [chipEnglish, setChipEnglish] = useState(searchParams.get('chipEnglish') === '1')
+  const [chipEU, setChipEU] = useState(searchParams.get('chipEU') === '1')
+  const [chipAsia, setChipAsia] = useState(searchParams.get('chipAsia') === '1')
+  const [chipAmer, setChipAmer] = useState(searchParams.get('chipAmer') === '1')
+  const [chipDeadline, setChipDeadline] = useState(searchParams.get('chipDeadline') === '1')
 
   const now = new Date()
   const sixMonthsFromNow = new Date()
   sixMonthsFromNow.setMonth(sixMonthsFromNow.getMonth() + 6)
 
-  let filtered = programs.filter(p => {
-    if (search && !p.university.toLowerCase().includes(search.toLowerCase())
-        && !p.program.toLowerCase().includes(search.toLowerCase())) return false
-    if (country !== 'All' && p.country !== country) return false
-    if (degree !== 'All' && p.degree !== degree) return false
-    if (field !== 'All' && p.field !== field) return false
-    if (language !== 'All' && p.language !== language) return false
-    if (duration !== 'All' && p.duration !== duration) return false
+  const filtered = useMemo(() => {
+    let result = programs.filter(p => {
+      if (search && !p.university.toLowerCase().includes(search.toLowerCase())
+          && !p.program.toLowerCase().includes(search.toLowerCase())) return false
+      if (country !== 'All' && p.country !== country) return false
+      if (degree !== 'All' && p.degree !== degree) return false
+      if (field !== 'All' && p.field !== field) return false
+      if (language !== 'All' && p.language !== language) return false
+      if (duration !== 'All' && p.duration !== duration) return false
 
-    if (chipFree) { if (p.costPerYear !== 0) return false }
-    else if (scholarshipOnly) { if (!p.scholarship) return false }
-    else { if (p.costPerYear > maxBudget) return false }
+      if (chipFree) { if (p.costPerYear !== 0) return false }
+      else if (chipScholarship) { if (!p.scholarship) return false }
+      else { if (p.costPerYear > maxBudget) return false }
 
-    if (scholarshipOnly && !p.scholarship) return false
-    if (chipEnglish && p.language !== 'English') return false
-    if (chipEU && !EU_COUNTRIES.includes(p.country)) return false
-    if (chipAsia && !ASIA_COUNTRIES.includes(p.country)) return false
-    if (chipAmer && !AMER_COUNTRIES.includes(p.country)) return false
-    if (chipDeadline) {
-      const d = new Date(p.deadline)
-      if (d < now || d > sixMonthsFromNow) return false
+      if (chipEnglish && p.language !== 'English') return false
+      if (chipEU && !EU_COUNTRIES.includes(p.country)) return false
+      if (chipAsia && !ASIA_COUNTRIES.includes(p.country)) return false
+      if (chipAmer && !AMER_COUNTRIES.includes(p.country)) return false
+      if (chipDeadline) {
+        const d = new Date(p.deadline)
+        if (d < now || d > sixMonthsFromNow) return false
+      }
+
+      if (minIelts > 0 && p.ielts < minIelts) return false
+      if (p.ielts > maxIelts) return false
+      if (minGpa > 0 && p.gpa < minGpa) return false
+
+      return true
+    })
+
+    if (sort === 'costAsc') result.sort((a, b) => a.costPerYear - b.costPerYear)
+    else if (sort === 'costDesc') result.sort((a, b) => b.costPerYear - a.costPerYear)
+    else if (sort === 'deadline') result.sort((a, b) => new Date(a.deadline).getTime() - new Date(b.deadline).getTime())
+    else if (sort === 'ieltsAsc') result.sort((a, b) => a.ielts - b.ielts)
+    else if (sort === 'alpha') result.sort((a, b) => a.university.localeCompare(b.university))
+
+    return result
+  }, [search, country, degree, field, language, duration, maxBudget, minIelts, maxIelts, minGpa, sort, chipFree, chipScholarship, chipEnglish, chipEU, chipAsia, chipAmer, chipDeadline])
+
+  const toggleChip = (setter: (v: boolean) => void, current: boolean, linkedSetter?: (v: boolean) => void) => {
+    if (current) {
+      setter(false)
+    } else {
+      setter(true)
+      if (linkedSetter) linkedSetter(false)
     }
-
-    if (minIelts > 0 && p.ielts < minIelts) return false
-    if (p.ielts > maxIelts) return false
-    if (minGpa > 0 && p.gpa < minGpa) return false
-
-    return true
-  })
-
-  // Сортировка
-  if (sort === 'costAsc') filtered.sort((a, b) => a.costPerYear - b.costPerYear)
-  else if (sort === 'costDesc') filtered.sort((a, b) => b.costPerYear - a.costPerYear)
-  else if (sort === 'deadline') filtered.sort((a, b) => new Date(a.deadline).getTime() - new Date(b.deadline).getTime())
-  else if (sort === 'ieltsAsc') filtered.sort((a, b) => a.ielts - b.ielts)
-  else if (sort === 'alpha') filtered.sort((a, b) => a.university.localeCompare(b.university))
+  }
 
   const countryExams = country !== 'All' ? EXAMS_BY_COUNTRY[country] || [] : []
   const internationalExams = EXAMS_BY_COUNTRY['International'] || []
 
   const chips = [
-    { key: 'chipFree', label: 'Бесплатно', active: chipFree },
-    { key: 'scholarship', label: '🎓 Стипендия', active: scholarshipOnly },
-    { key: 'chipEnglish', label: 'На английском', active: chipEnglish },
-    { key: 'chipEU', label: 'Европа', active: chipEU },
-    { key: 'chipAsia', label: 'Азия', active: chipAsia },
-    { key: 'chipAmer', label: 'Америка', active: chipAmer },
-    { key: 'chipDeadline', label: 'Дедлайн < 6 мес.', active: chipDeadline },
+    { label: 'Бесплатно', active: chipFree, onClick: () => toggleChip(setChipFree, chipFree, setChipScholarship) },
+    { label: '🎓 Стипендия', active: chipScholarship, onClick: () => toggleChip(setChipScholarship, chipScholarship, setChipFree) },
+    { label: 'На английском', active: chipEnglish, onClick: () => setChipEnglish(!chipEnglish) },
+    { label: 'Европа', active: chipEU, onClick: () => setChipEU(!chipEU) },
+    { label: 'Азия', active: chipAsia, onClick: () => setChipAsia(!chipAsia) },
+    { label: 'Америка', active: chipAmer, onClick: () => setChipAmer(!chipAmer) },
+    { label: 'Дедлайн < 6 мес.', active: chipDeadline, onClick: () => setChipDeadline(!chipDeadline) },
   ]
-
-  const toggleChipUrl = (key: string, current: boolean) => {
-    const params = new URLSearchParams(searchParams as Record<string, string>)
-    if (key === 'scholarship') {
-      if (current) params.delete('scholarship')
-      else { params.set('scholarship', '1'); params.delete('chipFree') }
-    } else if (key === 'chipFree') {
-      if (current) params.delete('chipFree')
-      else { params.set('chipFree', '1'); params.delete('scholarship') }
-    } else {
-      if (current) params.delete(key)
-      else params.set(key, '1')
-    }
-    const qs = params.toString()
-    return `/explore${qs ? `?${qs}` : ''}`
-  }
 
   return (
     <div className="max-w-7xl mx-auto px-4 py-6">
       <h1 className="text-2xl font-bold text-gray-900 mb-4">UniPath — расширенный поиск университетских программ</h1>
 
       {/* Поиск + Сброс */}
-      <form method="GET" action="/explore" className="flex gap-3 mb-5">
+      <div className="flex gap-3 mb-5">
         <div className="relative flex-1">
           <span className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-400 text-lg">🔍</span>
           <input
             type="text"
-            name="search"
             placeholder="Поиск университета или программы..."
-            defaultValue={search}
+            value={search}
+            onChange={(e) => setSearch(e.target.value)}
             className="w-full pl-10 pr-4 py-3 rounded-xl border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500 text-sm"
           />
         </div>
-        <a href="/explore" className="px-5 py-3 border border-gray-300 rounded-xl text-sm font-medium text-gray-600 hover:bg-gray-50 flex items-center">
+        <button
+          onClick={() => {
+            setSearch(''); setCountry('All'); setDegree('All'); setField('All'); setLanguage('All')
+            setDuration('All'); setMaxBudget(Infinity); setMinIelts(0); setMaxIelts(9); setMinGpa(0)
+            setChipFree(false); setChipScholarship(false); setChipEnglish(false)
+            setChipEU(false); setChipAsia(false); setChipAmer(false); setChipDeadline(false)
+            setSort('relevance')
+          }}
+          className="px-5 py-3 border border-gray-300 rounded-xl text-sm font-medium text-gray-600 hover:bg-gray-50"
+        >
           Сбросить всё
-        </a>
-      </form>
+        </button>
+      </div>
 
       {/* Фильтры */}
-      <form method="GET" action="/explore" className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3 mb-4">
+      <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-3 mb-4">
         <div>
           <label className="block text-xs font-semibold text-gray-500 uppercase mb-1">Страна</label>
-          <select name="country" defaultValue={country} className="w-full px-3 py-2 rounded-lg border border-gray-300 bg-white text-sm">
+          <select value={country} onChange={(e) => setCountry(e.target.value)} className="w-full px-3 py-2 rounded-lg border border-gray-300 bg-white text-sm">
             <option value="All">Все страны</option>
             {ALL_COUNTRIES.filter(c => c !== 'International').map(c => (
               <option key={c} value={c}>{c}</option>
@@ -143,7 +143,7 @@ export default function ExplorePage({ searchParams }: Props) {
 
         <div>
           <label className="block text-xs font-semibold text-gray-500 uppercase mb-1">Степень</label>
-          <select name="degree" defaultValue={degree} className="w-full px-3 py-2 rounded-lg border border-gray-300 bg-white text-sm">
+          <select value={degree} onChange={(e) => setDegree(e.target.value)} className="w-full px-3 py-2 rounded-lg border border-gray-300 bg-white text-sm">
             {DEGREES.map(d => (
               <option key={d} value={d}>{d === 'All' ? 'Все степени' : d}</option>
             ))}
@@ -152,7 +152,7 @@ export default function ExplorePage({ searchParams }: Props) {
 
         <div>
           <label className="block text-xs font-semibold text-gray-500 uppercase mb-1">Область</label>
-          <select name="field" defaultValue={field} className="w-full px-3 py-2 rounded-lg border border-gray-300 bg-white text-sm">
+          <select value={field} onChange={(e) => setField(e.target.value)} className="w-full px-3 py-2 rounded-lg border border-gray-300 bg-white text-sm">
             <option value="All">Все области</option>
             {ALL_FIELDS.map(f => (
               <option key={f} value={f}>{f}</option>
@@ -162,7 +162,7 @@ export default function ExplorePage({ searchParams }: Props) {
 
         <div>
           <label className="block text-xs font-semibold text-gray-500 uppercase mb-1">Язык обучения</label>
-          <select name="language" defaultValue={language} className="w-full px-3 py-2 rounded-lg border border-gray-300 bg-white text-sm">
+          <select value={language} onChange={(e) => setLanguage(e.target.value)} className="w-full px-3 py-2 rounded-lg border border-gray-300 bg-white text-sm">
             <option value="All">Любой</option>
             {ALL_LANGUAGES.map(l => (
               <option key={l} value={l}>{l}</option>
@@ -172,7 +172,7 @@ export default function ExplorePage({ searchParams }: Props) {
 
         <div>
           <label className="block text-xs font-semibold text-gray-500 uppercase mb-1">Длительность</label>
-          <select name="duration" defaultValue={duration} className="w-full px-3 py-2 rounded-lg border border-gray-300 bg-white text-sm">
+          <select value={duration} onChange={(e) => setDuration(e.target.value)} className="w-full px-3 py-2 rounded-lg border border-gray-300 bg-white text-sm">
             <option value="All">Любая</option>
             {DURATIONS.filter(d => d !== 'All').map(d => (
               <option key={d} value={d}>{d} {d === '1' || d === '1.5' ? 'год' : d === '6' ? 'лет' : 'года'}</option>
@@ -182,58 +182,58 @@ export default function ExplorePage({ searchParams }: Props) {
 
         <div>
           <label className="block text-xs font-semibold text-gray-500 uppercase mb-1">Макс. стоимость / год (EUR)</label>
-          <select name="maxBudget" defaultValue={maxBudget} className="w-full px-3 py-2 rounded-lg border border-gray-300 bg-white text-sm">
-            {BUDGETS.map(b => (
-              <option key={b.value} value={b.value}>{b.label}</option>
-            ))}
+          <select value={maxBudget} onChange={(e) => setMaxBudget(Number(e.target.value))} className="w-full px-3 py-2 rounded-lg border border-gray-300 bg-white text-sm">
+            <option value={Infinity}>Любая</option>
+            <option value="0">Бесплатно</option>
+            <option value="5000">До €5,000</option>
+            <option value="10000">До €10,000</option>
+            <option value="20000">До €20,000</option>
+            <option value="50000">До €50,000</option>
           </select>
         </div>
-      </form>
+      </div>
 
-      {/* Ползунки */}
-      <form method="GET" action="/explore" className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-4">
+      {/* Ползунки — работают сразу */}
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-4">
         <div>
           <label className="block text-xs font-semibold text-gray-500 uppercase mb-1">Мин. IELTS</label>
           <div className="flex items-center gap-3">
-            <input type="range" name="minIelts" min="0" max="9" step="0.5" defaultValue={minIelts} className="flex-1" />
+            <input type="range" min="0" max="9" step="0.5" value={minIelts} onChange={(e) => setMinIelts(Number(e.target.value))} className="flex-1" />
             <span className="text-sm font-medium w-10 text-right">{minIelts === 0 ? 'Любой' : minIelts.toFixed(1)}</span>
           </div>
         </div>
         <div>
           <label className="block text-xs font-semibold text-gray-500 uppercase mb-1">Макс. IELTS</label>
           <div className="flex items-center gap-3">
-            <input type="range" name="maxIelts" min="4" max="9" step="0.5" defaultValue={maxIelts} className="flex-1" />
+            <input type="range" min="4" max="9" step="0.5" value={maxIelts} onChange={(e) => setMaxIelts(Number(e.target.value))} className="flex-1" />
             <span className="text-sm font-medium w-10 text-right">{maxIelts.toFixed(1)}</span>
           </div>
         </div>
         <div>
           <label className="block text-xs font-semibold text-gray-500 uppercase mb-1">Мин. GPA (4.0)</label>
           <div className="flex items-center gap-3">
-            <input type="range" name="minGpa" min="0" max="4" step="0.1" defaultValue={minGpa} className="flex-1" />
+            <input type="range" min="0" max="4" step="0.1" value={minGpa} onChange={(e) => setMinGpa(Number(e.target.value))} className="flex-1" />
             <span className="text-sm font-medium w-10 text-right">{minGpa === 0 ? 'Любой' : minGpa.toFixed(1)}</span>
           </div>
         </div>
-      </form>
+      </div>
 
       {/* Чипсы */}
       <div className="flex flex-wrap items-center gap-2 mb-4">
         <span className="text-xs font-semibold text-gray-500 uppercase mr-2">Быстро:</span>
         {chips.map(chip => (
-          <a
-            key={chip.key}
-            href={toggleChipUrl(chip.key, chip.active)}
+          <button
+            key={chip.label}
+            onClick={chip.onClick}
             className={`px-4 py-1.5 rounded-full text-sm font-medium border transition-all
               ${chip.active
                 ? 'bg-blue-50 border-blue-600 text-blue-600 shadow-sm'
-                : 'bg-white border-gray-300 text-gray-600 hover:border-blue-400 hover:text-blue-600'
+                : 'bg-white border-gray-300 text-gray-600 hover:border-blue-400'
               }`}
           >
             {chip.label}
-          </a>
+          </button>
         ))}
-        <button type="submit" className="ml-auto bg-blue-600 text-white px-5 py-2 rounded-lg text-sm font-medium hover:bg-blue-700">
-          Применить
-        </button>
       </div>
 
       {/* Экзамены */}
@@ -258,7 +258,7 @@ export default function ExplorePage({ searchParams }: Props) {
       {/* Мета */}
       <div className="flex justify-between items-center mb-4 pb-3 border-b border-gray-200">
         <span className="text-sm text-gray-600"><strong>{filtered.length}</strong> программ найдено</span>
-        <select name="sort" defaultValue={sort} className="px-3 py-1.5 rounded-lg border border-gray-300 bg-white text-sm">
+        <select value={sort} onChange={(e) => setSort(e.target.value)} className="px-3 py-1.5 rounded-lg border border-gray-300 bg-white text-sm">
           <option value="relevance">Сортировка: по соответствию</option>
           <option value="costAsc">Стоимость: сначала низкая</option>
           <option value="costDesc">Стоимость: сначала высокая</option>
@@ -327,10 +327,7 @@ export default function ExplorePage({ searchParams }: Props) {
                   </span>
                 </div>
                 <div className="mt-2">
-                  <Link
-                    href={`/compare?ids=${p.id}`}
-                    className="text-xs text-gray-400 hover:text-blue-600"
-                  >
+                  <Link href={`/compare?ids=${p.id}`} className="text-xs text-gray-400 hover:text-blue-600">
                     ⚖️ Сравнить
                   </Link>
                 </div>
