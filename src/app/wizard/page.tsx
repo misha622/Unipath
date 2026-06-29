@@ -3,7 +3,8 @@
 import { useState } from 'react'
 import StepFinance from '@/components/wizard/StepFinance'
 import StepSubject from '@/components/wizard/StepSubject'
-import { programs, ProgramData } from '@/data/programs'
+import { programs } from '@/data/programs'
+import type { ProgramData } from '@/types'
 
 export default function WizardPage() {
   const [step, setStep] = useState(1)

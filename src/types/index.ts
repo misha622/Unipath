@@ -1,60 +1,29 @@
-// Типы данных UniPath
+// Единый источник правды для всего проекта
+// Совместим с src/data/programs.ts
 
-export type Program = {
+export interface ProgramData {
   id: string
-  university_id: string
-  title: string
-  degree_level: 'Bachelor' | 'Master' | 'PhD'
-  cost_per_year: {
-    currency: string
-    amount: number
-  }
-  language_req: {
-    ielts?: number
-    toefl?: number
-    ielts_min_section?: number
-  }
-  gpa_req: number // например 4.0 из 5.0
-  deadline: string // ISO дата "2027-03-01"
-  visa_country: string
-  scholarship_available: boolean
-  data_freshness: 'verified_by_uni' | 'parsed_auto' | 'manual_entry'
-  last_updated: string
-  motivation_letter_required: boolean
-  portfolio_required: boolean
-}
-
-export type University = {
-  id: string
-  slug: string
-  name: string
+  university: string
   country: string
   city: string
-  logo_url: string
-  description_short: string
-  description_full: string
-  student_count: number
-  international_student_percent: number
-  website_url: string
-  housing_available: boolean
-  housing_cost_monthly: number // в USD
-  cost_of_living_monthly: number // в USD
+  program: string
+  degree: 'Bachelor' | 'Master' | 'PhD'
+  costPerYear: number
+  currency: string
+  ielts: number
+  gpa: number
+  deadline: string // ISO date "2027-03-15"
+  scholarship: boolean
+  duration: string
+  description: string
 }
 
 export type FilterState = {
-  budget_max: number
-  countries: string[]
-  degree_level: string
-  subject: string
-  ielts_score: number
-  toefl_score: number
-  scholarship_only: boolean
+  search: string
+  country: string
+  degree: string
+  maxBudget: number
+  scholarshipOnly: boolean
 }
 
-export type WizardStep = 'budget' | 'subject' | 'language' | 'location' | 'results'
-
-export type User = {
-  id: string
-  email: string
-  saved_programs: string[] // program ids
-}
+export type SortOption = 'deadline' | 'cost' | 'university'

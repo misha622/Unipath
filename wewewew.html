@@ -1,0 +1,1396 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UniPath · Расширенный поиск программ</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@3.31.0/tabler-icons.min.css">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --font-sans: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+            --surface-1: #f0f2f5;
+            --surface-2: #ffffff;
+            --bg-accent: #eef4ff;
+            --border: #d0d7de;
+            --border-strong: #b0b8c4;
+            --border-accent: #2563eb;
+            --text-primary: #1f2a3a;
+            --text-secondary: #3d4a5c;
+            --text-muted: #6f7d91;
+            --text-accent: #1d4ed8;
+            --text-success: #0b7e4b;
+            --text-warning: #a16207;
+            --text-danger: #b91c1c;
+            --bg-success: #dcfce7;
+            --bg-warning: #fef9c3;
+            --bg-pro: #e0e7ff;
+            --text-pro: #3730a3;
+            --radius: 10px;
+            --shadow-card: 0 2px 8px rgba(0, 0, 0, 0.04);
+        }
+
+        body {
+            font-family: var(--font-sans);
+            background: var(--surface-1);
+            padding: 20px;
+            color: var(--text-primary);
+            line-height: 1.5;
+        }
+
+        .wrap {
+            max-width: 1400px;
+            margin: 0 auto;
+            background: var(--surface-2);
+            padding: 24px 28px 32px;
+            border-radius: 24px;
+            box-shadow: 0 8px 30px rgba(0, 0, 0, 0.04);
+            transition: padding 0.2s;
+        }
+
+        .search-row {
+            display: flex;
+            gap: 12px;
+            margin-bottom: 24px;
+            flex-wrap: wrap;
+        }
+
+        .search-wrap {
+            position: relative;
+            flex: 1 1 280px;
+        }
+
+        .search-wrap i {
+            position: absolute;
+            left: 14px;
+            top: 50%;
+            transform: translateY(-50%);
+            font-size: 20px;
+            color: var(--text-muted);
+            pointer-events: none;
+        }
+
+        #q {
+            width: 100%;
+            padding: 13px 18px 13px 46px;
+            border: 1.5px solid var(--border);
+            border-radius: var(--radius);
+            font-size: 15px;
+            background: var(--surface-2);
+            color: var(--text-primary);
+            transition: border 0.15s, box-shadow 0.15s;
+        }
+
+        #q:focus {
+            outline: none;
+            border-color: var(--border-accent);
+            box-shadow: 0 0 0 4px rgba(37, 99, 235, 0.08);
+        }
+
+        .btn-clear {
+            padding: 11px 24px;
+            border: 1.5px solid var(--border);
+            border-radius: var(--radius);
+            background: var(--surface-2);
+            color: var(--text-secondary);
+            font-size: 14px;
+            font-weight: 500;
+            cursor: pointer;
+            transition: background 0.12s, border-color 0.12s;
+            white-space: nowrap;
+            height: 51px;
+            align-self: flex-start;
+        }
+
+        .btn-clear:hover {
+            background: var(--surface-1);
+            border-color: var(--border-strong);
+        }
+
+        .filters-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+            gap: 16px 18px;
+            margin-bottom: 20px;
+        }
+
+        .filter-group {
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+        }
+
+        .filter-label {
+            font-size: 11px;
+            font-weight: 600;
+            color: var(--text-muted);
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+            margin-bottom: 2px;
+        }
+
+        select.f,
+        input[type="text"].f {
+            width: 100%;
+            padding: 10px 12px;
+            border: 1.5px solid var(--border);
+            border-radius: var(--radius);
+            background: var(--surface-2);
+            color: var(--text-primary);
+            font-size: 14px;
+            cursor: pointer;
+            transition: border 0.12s, box-shadow 0.12s;
+            appearance: auto;
+        }
+
+        select.f:focus,
+        input[type="text"].f:focus {
+            outline: none;
+            border-color: var(--border-accent);
+            box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.06);
+        }
+
+        .range-row {
+            display: flex;
+            align-items: center;
+            gap: 14px;
+            padding-top: 2px;
+        }
+
+        input[type="range"] {
+            flex: 1;
+            height: 6px;
+            background: var(--border);
+            border-radius: 4px;
+            -webkit-appearance: none;
+            appearance: none;
+            accent-color: var(--border-accent);
+        }
+
+        input[type="range"]::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 18px;
+            height: 18px;
+            border-radius: 50%;
+            background: var(--border-accent);
+            cursor: pointer;
+            box-shadow: 0 1px 4px rgba(0, 0, 0, 0.15);
+        }
+
+        input[type="range"]::-moz-range-thumb {
+            width: 18px;
+            height: 18px;
+            border-radius: 50%;
+            border: 0;
+            background: var(--border-accent);
+            cursor: pointer;
+        }
+
+        .range-val {
+            font-size: 13px;
+            color: var(--text-secondary);
+            min-width: 56px;
+            text-align: right;
+            font-weight: 500;
+        }
+
+        .chips-row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px 12px;
+            margin: 18px 0 20px;
+            align-items: center;
+        }
+
+        .chips-row>span:first-child {
+            font-size: 12px;
+            font-weight: 600;
+            color: var(--text-muted);
+            margin-right: 6px;
+        }
+
+        .chip {
+            padding: 6px 18px;
+            border: 1.5px solid var(--border);
+            border-radius: 40px;
+            font-size: 13px;
+            font-weight: 500;
+            cursor: pointer;
+            background: var(--surface-2);
+            color: var(--text-secondary);
+            transition: all 0.12s ease;
+            user-select: none;
+        }
+
+        .chip:hover {
+            border-color: var(--border-accent);
+            color: var(--text-accent);
+        }
+
+        .chip.on {
+            background: var(--bg-accent);
+            border-color: var(--border-accent);
+            color: var(--text-accent);
+            box-shadow: 0 0 0 1px var(--border-accent);
+        }
+
+        .meta-row {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            flex-wrap: wrap;
+            gap: 12px 8px;
+            margin: 14px 0 20px;
+            padding-bottom: 14px;
+            border-bottom: 1.5px solid var(--border);
+        }
+
+        .meta-count {
+            font-size: 14px;
+            color: var(--text-secondary);
+        }
+
+        .meta-count strong {
+            color: var(--text-primary);
+            font-weight: 600;
+        }
+
+        .sort-sel {
+            padding: 8px 14px;
+            border: 1.5px solid var(--border);
+            border-radius: var(--radius);
+            background: var(--surface-2);
+            color: var(--text-secondary);
+            font-size: 13px;
+            cursor: pointer;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(310px, 1fr));
+            gap: 18px;
+            margin-top: 6px;
+        }
+
+        .card {
+            background: var(--surface-2);
+            border: 1.5px solid var(--border);
+            border-radius: 18px;
+            padding: 20px 22px 18px;
+            cursor: default;
+            transition: border-color 0.15s, box-shadow 0.15s;
+            box-shadow: var(--shadow-card);
+            display: flex;
+            flex-direction: column;
+        }
+
+        .card:hover {
+            border-color: var(--border-strong);
+            box-shadow: 0 4px 16px rgba(0, 0, 0, 0.05);
+        }
+
+        .card-top {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            gap: 10px;
+            margin-bottom: 6px;
+        }
+
+        .card-uni {
+            font-size: 16px;
+            font-weight: 600;
+            color: var(--text-primary);
+            line-height: 1.3;
+            flex: 1;
+        }
+
+        .badge {
+            font-size: 10px;
+            font-weight: 600;
+            padding: 4px 12px;
+            border-radius: 30px;
+            white-space: nowrap;
+            letter-spacing: 0.02em;
+            background: var(--border);
+            color: var(--text-secondary);
+            flex-shrink: 0;
+        }
+
+        .badge-b {
+            background: var(--bg-success);
+            color: var(--text-success);
+        }
+        .badge-m {
+            background: var(--bg-accent);
+            color: var(--text-accent);
+        }
+        .badge-p {
+            background: var(--bg-pro);
+            color: var(--text-pro);
+        }
+
+        .card-prog {
+            font-size: 15px;
+            font-weight: 500;
+            color: var(--text-secondary);
+            margin-bottom: 10px;
+        }
+
+        .card-row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px 18px;
+            margin-bottom: 4px;
+        }
+
+        .card-stat {
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            font-size: 13px;
+            color: var(--text-muted);
+        }
+
+        .card-stat i {
+            font-size: 16px;
+            opacity: 0.7;
+        }
+
+        .card-stat strong {
+            color: var(--text-secondary);
+            font-weight: 500;
+        }
+
+        .card-footer {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-top: 16px;
+            padding-top: 14px;
+            border-top: 1.5px solid var(--border);
+            flex-wrap: wrap;
+            gap: 6px 0;
+        }
+
+        .cost {
+            font-size: 15px;
+            font-weight: 600;
+            color: var(--text-primary);
+        }
+
+        .cost-free {
+            color: var(--text-success);
+        }
+
+        .schol-tag {
+            font-size: 10px;
+            font-weight: 600;
+            padding: 2px 12px;
+            border-radius: 30px;
+            background: var(--bg-warning);
+            color: var(--text-warning);
+            margin-left: 6px;
+        }
+
+        .deadline {
+            font-size: 13px;
+            color: var(--text-muted);
+            display: flex;
+            align-items: center;
+            gap: 4px;
+        }
+
+        .deadline i {
+            font-size: 16px;
+        }
+
+        .exam-note {
+            font-size: 12px;
+            color: var(--text-muted);
+            margin-top: 4px;
+            min-height: 20px;
+            font-style: italic;
+        }
+
+        .empty {
+            text-align: center;
+            padding: 60px 20px;
+            color: var(--text-muted);
+        }
+
+        .empty i {
+            font-size: 48px;
+            display: block;
+            margin-bottom: 16px;
+            opacity: 0.3;
+        }
+
+        .sr-only {
+            position: absolute;
+            width: 1px;
+            height: 1px;
+            padding: 0;
+            margin: -1px;
+            overflow: hidden;
+            clip: rect(0, 0, 0, 0);
+            border: 0;
+        }
+
+        @media (max-width: 768px) {
+            .wrap {
+                padding: 18px 16px 24px;
+            }
+            .filters-grid {
+                grid-template-columns: 1fr 1fr;
+                gap: 12px;
+            }
+            .search-row {
+                flex-direction: column;
+                align-items: stretch;
+            }
+            .btn-clear {
+                height: 48px;
+                align-self: stretch;
+                text-align: center;
+            }
+            .grid {
+                grid-template-columns: 1fr;
+            }
+            .meta-row {
+                flex-direction: column;
+                align-items: stretch;
+                gap: 8px;
+            }
+            .sort-sel {
+                width: 100%;
+            }
+            .chip {
+                padding: 5px 14px;
+                font-size: 12px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .filters-grid {
+                grid-template-columns: 1fr;
+                gap: 10px;
+            }
+            .card {
+                padding: 16px 14px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="wrap">
+        <h2 class="sr-only">UniPath — расширенный поиск университетских программ</h2>
+
+        <div class="search-row">
+            <div class="search-wrap">
+                <i class="ti ti-search" aria-hidden="true"></i>
+                <input id="q" type="text" placeholder="Поиск университета или программы...">
+            </div>
+            <button class="btn-clear" onclick="clearAll()">Сбросить всё</button>
+        </div>
+
+        <div class="filters-grid">
+            <div class="filter-group">
+                <span class="filter-label">Страна</span>
+                <select class="f" id="fCountry" onchange="onCountryChange()">
+                    <option value="">Все страны</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <span class="filter-label">Вступительный экзамен</span>
+                <select class="f" id="fExam" onchange="render()">
+                    <option value="">Любой</option>
+                </select>
+                <div class="exam-note" id="examNote"></div>
+            </div>
+            <div class="filter-group">
+                <span class="filter-label">Степень</span>
+                <select class="f" id="fDegree" onchange="render()">
+                    <option value="">Все степени</option>
+                    <option>Bachelor</option>
+                    <option>Master</option>
+                    <option>PhD</option>
+                    <option>MBA</option>
+                    <option>LLM</option>
+                    <option>Diploma</option>
+                    <option>Certificate</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <span class="filter-label">Область</span>
+                <select class="f" id="fField" onchange="render()">
+                    <option value="">Все области</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <span class="filter-label">Язык обучения</span>
+                <select class="f" id="fLang" onchange="render()">
+                    <option value="">Любой</option>
+                </select>
+            </div>
+            <div class="filter-group">
+                <span class="filter-label">Длительность</span>
+                <select class="f" id="fDuration" onchange="render()">
+                    <option value="">Любая</option>
+                    <option value="1">1 год</option>
+                    <option value="1.5">1.5 года</option>
+                    <option value="2">2 года</option>
+                    <option value="3">3 года</option>
+                    <option value="4">4 года</option>
+                    <option value="5">5+ лет</option>
+                </select>
+            </div>
+        </div>
+
+        <div class="filters-grid" style="margin-top:6px">
+            <div class="filter-group">
+                <span class="filter-label">Макс. стоимость / год (EUR)</span>
+                <div class="range-row">
+                    <input type="range" id="fBudget" min="0" max="70000" step="500" value="70000" oninput="onBudget()">
+                    <span class="range-val" id="budgetVal">Любая</span>
+                </div>
+            </div>
+            <div class="filter-group">
+                <span class="filter-label">Мин. IELTS</span>
+                <div class="range-row">
+                    <input type="range" id="fIelts" min="0" max="9" step="0.5" value="0" oninput="onIelts()">
+                    <span class="range-val" id="ieltsVal">Любой</span>
+                </div>
+            </div>
+            <div class="filter-group">
+                <span class="filter-label">Макс. IELTS</span>
+                <div class="range-row">
+                    <input type="range" id="fIeltsMax" min="4" max="9" step="0.5" value="9" oninput="onIeltsMax()">
+                    <span class="range-val" id="ieltsMaxVal">9.0</span>
+                </div>
+            </div>
+            <div class="filter-group">
+                <span class="filter-label">Мин. GPA (4.0)</span>
+                <div class="range-row">
+                    <input type="range" id="fGpa" min="0" max="4" step="0.1" value="0" oninput="onGpa()">
+                    <span class="range-val" id="gpaVal">Любой</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="chips-row" id="chipRow">
+            <span>Быстро:</span>
+            <span class="chip" id="chipFree" onclick="toggleChip('chipFree',render)">Бесплатно</span>
+            <span class="chip" id="chipSchol" onclick="toggleChip('chipSchol',render)">Стипендия</span>
+            <span class="chip" id="chipEnglish" onclick="toggleChip('chipEnglish',render)">На английском</span>
+            <span class="chip" id="chipEU" onclick="toggleChip('chipEU',render)">Европа</span>
+            <span class="chip" id="chipAsia" onclick="toggleChip('chipAsia',render)">Азия</span>
+            <span class="chip" id="chipAmer" onclick="toggleChip('chipAmer',render)">Америка</span>
+            <span class="chip" id="chipDeadline" onclick="toggleChip('chipDeadline',render)">Дедлайн &lt; 6 мес.</span>
+        </div>
+
+        <div class="meta-row">
+            <span class="meta-count"><strong id="resCount">0</strong> программ найдено</span>
+            <select class="sort-sel" id="fSort" onchange="render()">
+                <option value="relevance">Сортировка: по соответствию</option>
+                <option value="costAsc">Стоимость: сначала низкая</option>
+                <option value="costDesc">Стоимость: сначала высокая</option>
+                <option value="deadline">Дедлайн: сначала ближайший</option>
+                <option value="ieltsAsc">IELTS: сначала низкий</option>
+                <option value="alpha">Университет А–Я</option>
+            </select>
+        </div>
+
+        <div class="grid" id="grid"></div>
+        <div class="empty" id="empty" style="display:none">
+            <i class="ti ti-search-off" aria-hidden="true"></i>
+            Нет программ, подходящих под фильтры. Попробуйте расширить поиск.
+        </div>
+    </div>
+
+    <script>
+        // ===================== ВСЕ СТРАНЫ МИРА =====================
+        const ALL_COUNTRIES = [
+            'Afghanistan', 'Albania', 'Algeria', 'Andorra', 'Angola', 'Antigua and Barbuda', 'Argentina',
+            'Armenia', 'Australia', 'Austria', 'Azerbaijan', 'Bahamas', 'Bahrain', 'Bangladesh', 'Barbados',
+            'Belarus', 'Belgium', 'Belize', 'Benin', 'Bhutan', 'Bolivia', 'Bosnia and Herzegovina', 'Botswana',
+            'Brazil', 'Brunei', 'Bulgaria', 'Burkina Faso', 'Burundi', 'Cambodia', 'Cameroon', 'Canada',
+            'Cape Verde', 'Central African Republic', 'Chad', 'Chile', 'China', 'Colombia', 'Comoros',
+            'Congo', 'Costa Rica', 'Croatia', 'Cuba', 'Cyprus', 'Czech Republic', 'Denmark', 'Djibouti',
+            'Dominica', 'Dominican Republic', 'East Timor', 'Ecuador', 'Egypt', 'El Salvador',
+            'Equatorial Guinea', 'Eritrea', 'Estonia', 'Eswatini', 'Ethiopia', 'Fiji', 'Finland', 'France',
+            'Gabon', 'Gambia', 'Georgia', 'Germany', 'Ghana', 'Greece', 'Grenada', 'Guatemala', 'Guinea',
+            'Guinea-Bissau', 'Guyana', 'Haiti', 'Honduras', 'Hong Kong', 'Hungary', 'Iceland', 'India', 'Indonesia',
+            'Iran', 'Iraq', 'Ireland', 'Israel', 'Italy', 'Ivory Coast', 'Jamaica', 'Japan', 'Jordan',
+            'Kazakhstan', 'Kenya', 'Kiribati', 'Kuwait', 'Kyrgyzstan', 'Laos', 'Latvia', 'Lebanon', 'Lesotho',
+            'Liberia', 'Libya', 'Liechtenstein', 'Lithuania', 'Luxembourg', 'Madagascar', 'Malawi', 'Malaysia',
+            'Maldives', 'Mali', 'Malta', 'Marshall Islands', 'Mauritania', 'Mauritius', 'Mexico', 'Micronesia',
+            'Moldova', 'Monaco', 'Mongolia', 'Montenegro', 'Morocco', 'Mozambique', 'Myanmar', 'Namibia',
+            'Nauru', 'Nepal', 'Netherlands', 'New Zealand', 'Nicaragua', 'Niger', 'Nigeria', 'North Korea',
+            'North Macedonia', 'Norway', 'Oman', 'Pakistan', 'Palau', 'Panama', 'Papua New Guinea', 'Paraguay',
+            'Peru', 'Philippines', 'Poland', 'Portugal', 'Qatar', 'Romania', 'Russia', 'Rwanda', 'Saint Kitts and Nevis',
+            'Saint Lucia', 'Saint Vincent and the Grenadines', 'Samoa', 'San Marino', 'Sao Tome and Principe',
+            'Saudi Arabia', 'Senegal', 'Serbia', 'Seychelles', 'Sierra Leone', 'Singapore', 'Slovakia',
+            'Slovenia', 'Solomon Islands', 'Somalia', 'South Africa', 'South Korea', 'Spain', 'Sri Lanka',
+            'Sudan', 'Suriname', 'Sweden', 'Switzerland', 'Syria', 'Taiwan', 'Tajikistan', 'Tanzania',
+            'Thailand', 'Togo', 'Tonga', 'Trinidad and Tobago', 'Tunisia', 'Turkey', 'Turkmenistan',
+            'Tuvalu', 'Uganda', 'Ukraine', 'United Arab Emirates', 'United Kingdom', 'USA', 'Uruguay',
+            'Uzbekistan', 'Vanuatu', 'Vatican City', 'Venezuela', 'Vietnam', 'Yemen', 'Zambia', 'Zimbabwe'
+        ];
+
+        // ===================== ВСЕ ЯЗЫКИ ОБУЧЕНИЯ =====================
+        const ALL_LANGUAGES = [
+            'English', 'German', 'French', 'Spanish', 'Dutch', 'Swedish', 'Finnish', 'Italian',
+            'Japanese', 'Chinese', 'Korean', 'Russian', 'Portuguese', 'Polish', 'Turkish',
+            'Arabic', 'Greek', 'Czech', 'Hungarian', 'Norwegian', 'Danish', 'Romanian',
+            'Hindi', 'Bengali', 'Vietnamese', 'Thai', 'Malay', 'Indonesian', 'Filipino',
+            'Ukrainian', 'Catalan', 'Serbian', 'Croatian', 'Bulgarian', 'Hebrew'
+        ];
+
+        // ===================== ПОЛНЫЙ СПИСОК ВСТУПИТЕЛЬНЫХ ЭКЗАМЕНОВ ПО СТРАНАМ =====================
+        const EXAMS_BY_COUNTRY = {
+            // === МЕЖДУНАРОДНЫЕ ЭКЗАМЕНЫ (доступны для любой страны) ===
+            'International': [
+                { v: 'IELTS', l: 'IELTS (English)' },
+                { v: 'TOEFL', l: 'TOEFL (English)' },
+                { v: 'PTE', l: 'PTE Academic (English)' },
+                { v: 'Duolingo', l: 'Duolingo English Test' },
+                { v: 'Cambridge', l: 'Cambridge English (C1/C2)' },
+                { v: 'TOEIC', l: 'TOEIC (English)' },
+                { v: 'SAT', l: 'SAT' },
+                { v: 'ACT', l: 'ACT' },
+                { v: 'IB', l: 'International Baccalaureate' },
+                { v: 'AP', l: 'Advanced Placement' },
+                { v: 'GRE', l: 'GRE (graduate)' },
+                { v: 'GMAT', l: 'GMAT (MBA)' },
+                { v: 'LSAT', l: 'LSAT (law)' },
+                { v: 'MCAT', l: 'MCAT (medicine)' }
+            ],
+            // === АВСТРАЛИЯ ===
+            'Australia': [
+                { v: 'ATAR', l: 'ATAR' },
+                { v: 'GAMSAT', l: 'GAMSAT (medicine)' },
+                { v: 'UCAT ANZ', l: 'UCAT ANZ (medicine/dentistry)' },
+                { v: 'STAT', l: 'STAT (Special Tertiary Admissions Test)' },
+                { v: 'ISAT', l: 'ISAT (International Student Admissions Test)' },
+                { v: 'IELTS', l: 'IELTS (English)' },
+                { v: 'TOEFL', l: 'TOEFL (English)' },
+                { v: 'PTE', l: 'PTE Academic (English)' }
+            ],
+            // === АВСТРИЯ ===
+            'Austria': [
+                { v: 'Matura', l: 'Matura' },
+                { v: 'Studienberechtigungsprüfung', l: 'SBP entrance exam' },
+                { v: 'IELTS', l: 'IELTS (English)' },
+                { v: 'TOEFL', l: 'TOEFL (English)' },
+                { v: 'ÖSD', l: 'ÖSD (German)' },
+                { v: 'Goethe', l: 'Goethe-Zertifikat (German)' },
+                { v: 'TestDaF', l: 'TestDaF (German)' },
+                { v: 'DSH', l: 'DSH (German)' }
+            ],
+            // === БЕЛЬГИЯ ===
+            'Belgium': [
+                { v: 'Toelatingsexamen', l: 'Toelatingsexamen (medicine/dentistry)' },
+                { v: 'IELTS', l: 'IELTS (English)' },
+                { v: 'TOEFL', l: 'TOEFL (English)' },
+                { v: 'DELF', l: 'DELF/DALF (French)' },
+                { v: 'Goethe', l: 'Goethe-Zertifikat (German)' }
+            ],
+            // === БРАЗИЛИЯ ===
+            'Brazil': [
+                { v: 'ENEM', l: 'ENEM' },
+                { v: 'Vestibular', l: 'Vestibular' },
+                { v: 'IELTS', l: 'IELTS (English)' },
+                { v: 'TOEFL', l: 'TOEFL (English)' },
+                { v: 'CELPE-Bras', l: 'CELPE-Bras (Portuguese)' }
+            ],
+            // === КАНАДА ===
+            'Canada': [
+                { v: 'SAT', l: 'SAT' },
+                { v: 'ACT', l: 'ACT' },
+                { v: 'LSAT', l: 'LSAT (law)' },
+                { v: 'MCAT', l: 'MCAT (medicine)' },
+                { v: 'DAT', l: 'DAT (dentistry)' },
+                { v: 'GRE', l: 'GRE (graduate)' },
+                { v: 'GMAT', l: 'GMAT (MBA)' },
+                { v: 'IELTS', l: 'IELTS (English)' },
+                { v: 'TOEFL', l: 'TOEFL (English)' },
+                { v: 'CAEL', l: 'CAEL (English)' },
+                { v: 'TEF', l: 'TEF (French)' },
+                { v: 'TCF', l: 'TCF (French)' }
+            ],
+            // === ЧИЛИ ===
+            'Chile': [
+                { v: 'PAES', l: 'PAES (Prueba de Acceso a la Educación Superior)' },
+                { v: 'IELTS', l: 'IELTS (English)' },
+                { v: 'TOEFL', l: 'TOEFL (English)' }
+            ],
+            // === КИТАЙ ===
+            'China': [
+                { v: 'Gaokao', l: 'Gaokao' },
+                { v: 'HSK', l: 'HSK (Chinese)' },
+                { v: 'CSC', l: 'CSC scholarship test' },
+                { v: 'IELTS', l: 'IELTS (English)' },
+                { v: 'TOEFL', l: 'TOEFL (English)' }
+            ],
+            // === ЧЕХИЯ ===
+            'Czech Republic': [
+                { v: 'Maturita', l: 'Maturita' },
+                { v: 'Prijimaci', l: 'Přijímací zkouška' },
+                { v: 'IELTS', l: 'IELTS (English)' },
+                { v: 'TOEFL', l: 'TOEFL (English)' },
+                { v: 'CCE', l: 'CCE (Czech)' }
+            ],
+            // === ДАНИЯ ===
+            'Denmark': [
+                { v: 'STX', l: 'STX / HHX diploma' },
+                { v: 'IELTS', l: 'IELTS (English)' },
+                { v: 'TOEFL', l: 'TOEFL (English)' },
+                { v: 'Studieprøven', l: 'Studieprøven (Danish)' }
+            ],
+            // === ФИНЛЯНДИЯ ===
+            'Finland': [
+                { v: 'Ylioppilastutkinto', l: 'Ylioppilastutkinto (Finnish matriculation)' },
+                { v: 'IELTS', l: 'IELTS (English)' },
+                { v: 'TOEFL', l: 'TOEFL (English)' },
+                { v: 'YKI', l: 'YKI (Finnish)' }
+            ],
+            // === ФРАНЦИЯ ===
+            'France': [
+                { v: 'Baccalauréat', l: 'Baccalauréat' },
+                { v: 'CPGE', l: 'CPGE / Grandes Écoles' },
+                { v: 'Concours', l: 'Concours (Grandes Écoles)' },
+                { v: 'TCF', l: 'TCF (French)' },
+                { v: 'DELF', l: 'DELF/DALF (French)' },
+                { v: 'IELTS', l: 'IELTS (English)' },
+                { v: 'TOEFL', l: 'TOEFL (English)' },
+                { v: 'GMAT', l: 'GMAT (MBA)' },
+                { v: 'GRE', l: 'GRE (graduate)' }
+            ],
+            // === ГЕРМАНИЯ ===
+            'Germany': [
+                { v: 'Abitur', l: 'Abitur' },
+                { v: 'TestAS', l: 'TestAS' },
+                { v: 'TestDaF', l: 'TestDaF (German)' },
+                { v: 'DSH', l: 'DSH (German)' },
+                { v: 'Goethe', l: 'Goethe-Zertifikat (German)' },
+                { v: 'Feststellungsprüfung', l: 'Feststellungsprüfung' },
+                { v: 'IELTS', l: 'IELTS (English)' },
+                { v: 'TOEFL', l: 'TOEFL (English)' },
+                { v: 'GMAT', l: 'GMAT (MBA)' },
+                { v: 'GRE', l: 'GRE (graduate)' }
+            ],
+            // === ГОНКОНГ ===
+            'Hong Kong': [
+                { v: 'HKDSE', l: 'HKDSE (Hong Kong Diploma of Secondary Education)' },
+                { v: 'IELTS', l: 'IELTS (English)' },
+                { v: 'TOEFL', l: 'TOEFL (English)' }
+            ],
+            // === ВЕНГРИЯ ===
+            'Hungary': [
+                { v: 'Érettségi', l: 'Érettségi' },
+                { v: 'Stipendium', l: 'Stipendium Hungaricum exam' },
+                { v: 'IELTS', l: 'IELTS (English)' },
+                { v: 'TOEFL', l: 'TOEFL (English)' },
+                { v: 'ECL', l: 'ECL (Hungarian)' }
+            ],
+            // === ИНДИЯ ===
+            'India': [
+                { v: 'JEE', l: 'JEE (engineering)' },
+                { v: 'NEET', l: 'NEET (medicine)' },
+                { v: 'GATE', l: 'GATE (graduate engineering)' },
+                { v: 'CAT', l: 'CAT (MBA)' },
+                { v: 'CLAT', l: 'CLAT (law)' },
+                { v: 'NMAT', l: 'NMAT (MBA)' },
+                { v: 'XAT', l: 'XAT (MBA)' },
+                { v: 'SNAP', l: 'SNAP (MBA)' },
+                { v: 'IELTS', l: 'IELTS (English)' },
+                { v: 'TOEFL', l: 'TOEFL (English)' },
+                { v: 'GMAT', l: 'GMAT (MBA)' },
+                { v: 'GRE', l: 'GRE (graduate)' }
+            ],
+            // === ИЗРАИЛЬ ===
+            'Israel': [
+                { v: 'Bagrut', l: 'Bagrut (Te\'udat Bagrut)' },
+                { v: 'Psychometric', l: 'Psychometric Test' },
+                { v: 'IELTS', l: 'IELTS (English)' },
+                { v: 'TOEFL', l: 'TOEFL (English)' }
+            ],
+            // === ИТАЛИЯ ===
+            'Italy': [
+                { v: 'Maturità', l: 'Maturità' },
+                { v: 'TOLC', l: 'TOLC (university entrance)' },
+                { v: 'TIL', l: 'TIL (Politecnico di Torino)' },
+                { v: 'IMAT', l: 'IMAT (medicine in English)' },
+                { v: 'IELTS', l: 'IELTS (English)' },
+                { v: 'TOEFL', l: 'TOEFL (English)' },
+                { v: 'CILS', l: 'CILS (Italian)' },
+                { v: 'PLIDA', l: 'PLIDA (Italian)' },
+                { v: 'GMAT', l: 'GMAT (MBA)' }
+            ],
+            // === ЯПОНИЯ ===
+            'Japan': [
+                { v: 'EJU', l: 'EJU (Examination for Japanese Univ)' },
+                { v: 'JLPT', l: 'JLPT (Japanese)' },
+                { v: 'MEXT', l: 'MEXT scholarship exam' },
+                { v: 'Common Test', l: 'Common Test for University Admissions' },
+                { v: 'IELTS', l: 'IELTS (English)' },
+                { v: 'TOEFL', l: 'TOEFL (English)' },
+                { v: 'TOEIC', l: 'TOEIC (English)' },
+                { v: 'GRE', l: 'GRE (graduate)' }
+            ],
+            // === КАЗАХСТАН ===
+            'Kazakhstan': [
+                { v: 'ENT', l: 'ЕНТ (Unified National Testing)' },
+                { v: 'IELTS', l: 'IELTS (English)' },
+                { v: 'TOEFL', l: 'TOEFL (English)' }
+            ],
+            // === МЕКСИКА ===
+            'Mexico': [
+                { v: 'EXANI', l: 'EXANI (UNAM)' },
+                { v: 'PAA', l: 'PAA (ITESM)' },
+                { v: 'IELTS', l: 'IELTS (English)' },
+                { v: 'TOEFL', l: 'TOEFL (English)' }
+            ],
+            // === НИДЕРЛАНДЫ ===
+            'Netherlands': [
+                { v: 'VWO', l: 'VWO diploma' },
+                { v: 'CCVX', l: 'CCVX / Boswell-Bèta' },
+                { v: 'GMAT', l: 'GMAT (MBA)' },
+                { v: 'IELTS', l: 'IELTS (English)' },
+                { v: 'TOEFL', l: 'TOEFL (English)' },
+                { v: 'GRE', l: 'GRE (graduate)' }
+            ],
+            // === НОВАЯ ЗЕЛАНДИЯ ===
+            'New Zealand': [
+                { v: 'NCEA', l: 'NCEA (National Certificate of Educational Achievement)' },
+                { v: 'UCAT ANZ', l: 'UCAT ANZ (medicine)' },
+                { v: 'IELTS', l: 'IELTS (English)' },
+                { v: 'TOEFL', l: 'TOEFL (English)' }
+            ],
+            // === НОРВЕГИЯ ===
+            'Norway': [
+                { v: 'Vitnemål', l: 'Vitnemål (Norwegian diploma)' },
+                { v: 'IELTS', l: 'IELTS (English)' },
+                { v: 'TOEFL', l: 'TOEFL (English)' },
+                { v: 'Bergenstesten', l: 'Bergenstesten (Norwegian)' }
+            ],
+            // === ПОЛЬША ===
+            'Poland': [
+                { v: 'Matura', l: 'Matura (Polish baccalaureate)' },
+                { v: 'IELTS', l: 'IELTS (English)' },
+                { v: 'TOEFL', l: 'TOEFL (English)' },
+                { v: 'Egzamin', l: 'Egzamin (Polish)' }
+            ],
+            // === РОССИЯ ===
+            'Russia': [
+                { v: 'EGE', l: 'ЕГЭ (Unified State Exam)' },
+                { v: 'OGE', l: 'ОГЭ (Basic State Exam)' },
+                { v: 'IELTS', l: 'IELTS (English)' },
+                { v: 'TOEFL', l: 'TOEFL (English)' },
+                { v: 'TORFL', l: 'ТРКИ (Russian as Foreign Language)' },
+                { v: 'GMAT', l: 'GMAT (MBA)' },
+                { v: 'GRE', l: 'GRE (graduate)' }
+            ],
+            // === СИНГАПУР ===
+            'Singapore': [
+                { v: 'GCE A-Level', l: 'GCE A-Level' },
+                { v: 'IB', l: 'International Baccalaureate' },
+                { v: 'IELTS', l: 'IELTS (English)' },
+                { v: 'TOEFL', l: 'TOEFL (English)' },
+                { v: 'GMAT', l: 'GMAT (MBA)' },
+                { v: 'GRE', l: 'GRE (graduate)' }
+            ],
+            // === ЮЖНАЯ КОРЕЯ ===
+            'South Korea': [
+                { v: 'CSAT', l: 'CSAT / Suneung' },
+                { v: 'TOPIK', l: 'TOPIK (Korean)' },
+                { v: 'GKS', l: 'GKS scholarship exam' },
+                { v: 'IELTS', l: 'IELTS (English)' },
+                { v: 'TOEFL', l: 'TOEFL (English)' },
+                { v: 'GRE', l: 'GRE (graduate)' }
+            ],
+            // === ИСПАНИЯ ===
+            'Spain': [
+                { v: 'Selectividad', l: 'Selectividad / EBAU' },
+                { v: 'PCE', l: 'PCE (Pruebas de Competencias Específicas)' },
+                { v: 'DELE', l: 'DELE (Spanish)' },
+                { v: 'SIELE', l: 'SIELE (Spanish)' },
+                { v: 'IELTS', l: 'IELTS (English)' },
+                { v: 'TOEFL', l: 'TOEFL (English)' },
+                { v: 'GMAT', l: 'GMAT (MBA)' }
+            ],
+            // === ШВЕЦИЯ ===
+            'Sweden': [
+                { v: 'Högskoleprov', l: 'Högskoleprov (SweSAT)' },
+                { v: 'IELTS', l: 'IELTS (English)' },
+                { v: 'TOEFL', l: 'TOEFL (English)' },
+                { v: 'TISUS', l: 'TISUS (Swedish)' }
+            ],
+            // === ШВЕЙЦАРИЯ ===
+            'Switzerland': [
+                { v: 'Matura', l: 'Swiss Matura' },
+                { v: 'NC', l: 'Numerus clausus' },
+                { v: 'IELTS', l: 'IELTS (English)' },
+                { v: 'TOEFL', l: 'TOEFL (English)' },
+                { v: 'Goethe', l: 'Goethe-Zertifikat (German)' },
+                { v: 'DELF', l: 'DELF/DALF (French)' },
+                { v: 'GMAT', l: 'GMAT (MBA)' }
+            ],
+            // === ТУРЦИЯ ===
+            'Turkey': [
+                { v: 'YKS', l: 'YKS (Higher Education Exam)' },
+                { v: 'YÖS', l: 'YÖS (Foreign Student Exam)' },
+                { v: 'IELTS', l: 'IELTS (English)' },
+                { v: 'TOEFL', l: 'TOEFL (English)' },
+                { v: 'TÖMER', l: 'TÖMER (Turkish)' }
+            ],
+            // === УКРАИНА ===
+            'Ukraine': [
+                { v: 'ZNO', l: 'ZNO / NMT (National Multi-subject Test)' },
+                { v: 'IELTS', l: 'IELTS (English)' },
+                { v: 'TOEFL', l: 'TOEFL (English)' },
+                { v: 'TUL', l: 'Test of Ukrainian as a Foreign Language' }
+            ],
+            // === ВЕЛИКОБРИТАНИЯ ===
+            'United Kingdom': [
+                { v: 'UCAS', l: 'UCAS points' },
+                { v: 'A-Levels', l: 'A-Levels' },
+                { v: 'BMAT', l: 'BMAT (medicine)' },
+                { v: 'UCAT', l: 'UCAT (medicine/dentistry)' },
+                { v: 'LNAT', l: 'LNAT (law)' },
+                { v: 'MAT', l: 'MAT (Mathematics, Oxford)' },
+                { v: 'STEP', l: 'STEP (Mathematics, Cambridge)' },
+                { v: 'TSA', l: 'TSA (Thinking Skills Assessment)' },
+                { v: 'PAT', l: 'PAT (Physics Aptitude Test, Oxford)' },
+                { v: 'ENGAA', l: 'ENGAA (Engineering, Cambridge)' },
+                { v: 'NSAA', l: 'NSAA (Natural Sciences, Cambridge)' },
+                { v: 'IELTS', l: 'IELTS (English)' },
+                { v: 'TOEFL', l: 'TOEFL (English)' },
+                { v: 'PTE', l: 'PTE Academic (English)' },
+                { v: 'GMAT', l: 'GMAT (MBA)' },
+                { v: 'GRE', l: 'GRE (graduate)' }
+            ],
+            // === США ===
+            'USA': [
+                { v: 'SAT', l: 'SAT' },
+                { v: 'ACT', l: 'ACT' },
+                { v: 'GRE', l: 'GRE (graduate)' },
+                { v: 'GMAT', l: 'GMAT (MBA)' },
+                { v: 'LSAT', l: 'LSAT (law)' },
+                { v: 'MCAT', l: 'MCAT (medicine)' },
+                { v: 'DAT', l: 'DAT (dentistry)' },
+                { v: 'PCAT', l: 'PCAT (pharmacy)' },
+                { v: 'OAT', l: 'OAT (optometry)' },
+                { v: 'AP', l: 'AP Exams' },
+                { v: 'IELTS', l: 'IELTS (English)' },
+                { v: 'TOEFL', l: 'TOEFL (English)' },
+                { v: 'PTE', l: 'PTE Academic (English)' },
+                { v: 'Duolingo', l: 'Duolingo English Test' }
+            ],
+            // === УЗБЕКИСТАН ===
+            'Uzbekistan': [
+                { v: 'DTM', l: 'ДТМ (State Test Center)' },
+                { v: 'IELTS', l: 'IELTS (English)' },
+                { v: 'TOEFL', l: 'TOEFL (English)' }
+            ],
+            // === ЮАР ===
+            'South Africa': [
+                { v: 'NSC', l: 'NSC (National Senior Certificate)' },
+                { v: 'NBT', l: 'NBT (National Benchmark Tests)' },
+                { v: 'IELTS', l: 'IELTS (English)' },
+                { v: 'TOEFL', l: 'TOEFL (English)' }
+            ]
+        };
+
+        // ===================== ВСЕ ОБЛАСТИ =====================
+        const ALL_FIELDS = [
+            'Aerospace Engineering', 'Agriculture', 'AI & Machine Learning', 'Anthropology', 'Architecture',
+            'Arts', 'Astronomy', 'Biochemistry', 'Bioinformatics', 'Biology', 'Biomedicine',
+            'Biotechnology', 'Business Administration', 'Chemical Engineering', 'Chemistry',
+            'Civil Engineering', 'Cognitive Science', 'Computer Science', 'Cybersecurity',
+            'Data Science', 'Dentistry', 'Design', 'Economics', 'Education', 'Electrical Engineering',
+            'Energy Engineering', 'Engineering', 'Environmental Science', 'Finance', 'Fine Arts',
+            'Genetics', 'Geography', 'Geology', 'Global Studies', 'History', 'Industrial Engineering',
+            'International Relations', 'Law', 'Linguistics', 'Literature', 'Marine Biology',
+            'Marine Technology', 'Marketing', 'Mathematics', 'Mechanical Engineering', 'Medicine',
+            'Microbiology', 'Molecular Biology', 'Music', 'Neuroscience', 'Nursing', 'Pharmacy',
+            'Philosophy', 'Physics', 'Political Science', 'Psychology', 'Public Health',
+            'Robotics', 'Social Work', 'Sociology', 'Software Engineering', 'Statistics',
+            'Sustainable Energy', 'Theatre', 'Theology', 'Urban Planning', 'Veterinary Science'
+        ];
+
+        // ===================== ДАННЫЕ ПРОГРАММ =====================
+        const DATA = [
+            // === Германия ===
+            { id: '1', u: 'TU Munich', country: 'Germany', city: 'Munich', prog: 'Computer Science', degree: 'Master', cost: 0, lang: 'English', ielts: 7.0, gpa: 3.7, deadline: '2027-01-15', schol: true, dur: '2 years', field: 'Computer Science' },
+            { id: '2', u: 'Heidelberg University', country: 'Germany', city: 'Heidelberg', prog: 'Molecular Biosciences', degree: 'PhD', cost: 0, lang: 'English', ielts: 7.0, gpa: 3.8, deadline: '2027-03-01', schol: true, dur: '3 years', field: 'Biology' },
+            { id: '3', u: 'RWTH Aachen University', country: 'Germany', city: 'Aachen', prog: 'Mechanical Engineering', degree: 'Master', cost: 0, lang: 'English', ielts: 7.0, gpa: 3.5, deadline: '2027-01-15', schol: false, dur: '2 years', field: 'Engineering' },
+            { id: '4', u: 'LMU Munich', country: 'Germany', city: 'Munich', prog: 'Physics', degree: 'Bachelor', cost: 0, lang: 'German', ielts: 6.5, gpa: 3.5, deadline: '2027-05-15', schol: false, dur: '3 years', field: 'Physics' },
+            { id: '5', u: 'Humboldt University Berlin', country: 'Germany', city: 'Berlin', prog: 'Economics', degree: 'Master', cost: 0, lang: 'English', ielts: 7.0, gpa: 3.5, deadline: '2027-03-31', schol: false, dur: '2 years', field: 'Economics' },
+            { id: '6', u: 'FU Berlin', country: 'Germany', city: 'Berlin', prog: 'Law', degree: 'Master', cost: 0, lang: 'German', ielts: 6.5, gpa: 3.3, deadline: '2027-04-30', schol: false, dur: '2 years', field: 'Law' },
+            { id: '7', u: 'KIT Karlsruhe', country: 'Germany', city: 'Karlsruhe', prog: 'Electrical Engineering', degree: 'Bachelor', cost: 0, lang: 'German', ielts: 6.0, gpa: 3.2, deadline: '2027-07-15', schol: false, dur: '3 years', field: 'Engineering' },
+            { id: '8', u: 'TU Berlin', country: 'Germany', city: 'Berlin', prog: 'Cybersecurity', degree: 'Master', cost: 0, lang: 'English', ielts: 7.0, gpa: 3.5, deadline: '2027-04-15', schol: true, dur: '2 years', field: 'Cybersecurity' },
+
+            // === Нидерланды ===
+            { id: '9', u: 'Delft University of Technology', country: 'Netherlands', city: 'Delft', prog: 'Aerospace Engineering', degree: 'Master', cost: 18750, lang: 'English', ielts: 7.0, gpa: 3.6, deadline: '2027-04-01', schol: true, dur: '2 years', field: 'Aerospace Engineering' },
+            { id: '10', u: 'Erasmus University Rotterdam', country: 'Netherlands', city: 'Rotterdam', prog: 'Psychology', degree: 'Bachelor', cost: 9000, lang: 'English', ielts: 7.0, gpa: 3.5, deadline: '2027-01-31', schol: false, dur: '3 years', field: 'Psychology' },
+            { id: '11', u: 'University of Amsterdam', country: 'Netherlands', city: 'Amsterdam', prog: 'AI & Machine Learning', degree: 'Master', cost: 17500, lang: 'English', ielts: 7.0, gpa: 3.7, deadline: '2027-02-01', schol: true, dur: '2 years', field: 'AI & Machine Learning' },
+            { id: '12', u: 'University of Amsterdam', country: 'Netherlands', city: 'Amsterdam', prog: 'Computational Science', degree: 'Bachelor', cost: 9000, lang: 'English', ielts: 7.0, gpa: 3.5, deadline: '2027-04-01', schol: false, dur: '3 years', field: 'Computer Science' },
+            { id: '13', u: 'Leiden University', country: 'Netherlands', city: 'Leiden', prog: 'International Law', degree: 'Master', cost: 16500, lang: 'English', ielts: 7.0, gpa: 3.4, deadline: '2027-05-01', schol: true, dur: '1 year', field: 'Law' },
+
+            // === Франция ===
+            { id: '14', u: 'École Polytechnique', country: 'France', city: 'Palaiseau', prog: 'Data Science', degree: 'Master', cost: 15000, lang: 'English', ielts: 7.0, gpa: 3.8, deadline: '2027-03-31', schol: true, dur: '2 years', field: 'Data Science' },
+            { id: '15', u: 'HEC Paris', country: 'France', city: 'Paris', prog: 'Business Administration', degree: 'Master', cost: 22000, lang: 'English', ielts: 7.5, gpa: 3.7, deadline: '2027-03-01', schol: true, dur: '2 years', field: 'Business Administration' },
+            { id: '16', u: 'Sciences Po', country: 'France', city: 'Paris', prog: 'International Relations', degree: 'Master', cost: 14000, lang: 'English', ielts: 7.5, gpa: 3.5, deadline: '2027-01-15', schol: true, dur: '2 years', field: 'International Relations' },
+            { id: '17', u: 'ENS Paris', country: 'France', city: 'Paris', prog: 'Mathematics', degree: 'Master', cost: 5000, lang: 'French', ielts: 7.0, gpa: 3.9, deadline: '2027-03-15', schol: true, dur: '2 years', field: 'Mathematics' },
+            { id: '18', u: 'Sorbonne University', country: 'France', city: 'Paris', prog: 'Biology', degree: 'Master', cost: 4000, lang: 'French', ielts: 6.5, gpa: 3.4, deadline: '2027-05-31', schol: false, dur: '2 years', field: 'Biology' },
+
+            // === Испания ===
+            { id: '19', u: 'IE University', country: 'Spain', city: 'Madrid', prog: 'Business Administration', degree: 'Bachelor', cost: 25000, lang: 'English', ielts: 6.5, gpa: 3.3, deadline: '2027-04-30', schol: true, dur: '4 years', field: 'Business Administration' },
+            { id: '20', u: 'University of Barcelona', country: 'Spain', city: 'Barcelona', prog: 'Architecture', degree: 'Bachelor', cost: 3500, lang: 'Spanish', ielts: 6.0, gpa: 3.0, deadline: '2027-06-30', schol: false, dur: '5 years', field: 'Architecture' },
+            { id: '21', u: 'Complutense University of Madrid', country: 'Spain', city: 'Madrid', prog: 'Medicine', degree: 'Bachelor', cost: 4500, lang: 'Spanish', ielts: 6.0, gpa: 3.7, deadline: '2027-06-30', schol: false, dur: '6 years', field: 'Medicine' },
+
+            // === Италия ===
+            { id: '22', u: 'Politecnico di Milano', country: 'Italy', city: 'Milan', prog: 'Design & Engineering', degree: 'Master', cost: 4000, lang: 'English', ielts: 6.5, gpa: 3.4, deadline: '2027-04-15', schol: true, dur: '2 years', field: 'Design' },
+            { id: '23', u: 'University of Bologna', country: 'Italy', city: 'Bologna', prog: 'Business Administration', degree: 'Bachelor', cost: 3000, lang: 'English', ielts: 5.5, gpa: 2.8, deadline: '2027-04-30', schol: true, dur: '3 years', field: 'Business Administration' },
+            { id: '24', u: 'Bocconi University', country: 'Italy', city: 'Milan', prog: 'Economics', degree: 'Bachelor', cost: 14000, lang: 'English', ielts: 7.0, gpa: 3.6, deadline: '2027-02-28', schol: true, dur: '3 years', field: 'Economics' },
+
+            // === Швеция ===
+            { id: '25', u: 'KTH Royal Institute of Technology', country: 'Sweden', city: 'Stockholm', prog: 'Electrical Engineering', degree: 'Master', cost: 16000, lang: 'English', ielts: 7.0, gpa: 3.6, deadline: '2027-01-16', schol: true, dur: '2 years', field: 'Engineering' },
+            { id: '26', u: 'Karolinska Institute', country: 'Sweden', city: 'Stockholm', prog: 'Biomedicine', degree: 'Bachelor', cost: 16000, lang: 'English', ielts: 6.5, gpa: 3.5, deadline: '2027-01-16', schol: false, dur: '3 years', field: 'Biomedicine' },
+            { id: '27', u: 'Stockholm School of Economics', country: 'Sweden', city: 'Stockholm', prog: 'Finance', degree: 'Master', cost: 23000, lang: 'English', ielts: 7.5, gpa: 3.8, deadline: '2027-02-01', schol: true, dur: '1.5 years', field: 'Finance' },
+
+            // === Норвегия ===
+            { id: '28', u: 'University of Oslo', country: 'Norway', city: 'Oslo', prog: 'Law', degree: 'Master', cost: 0, lang: 'English', ielts: 6.5, gpa: 3.2, deadline: '2027-03-01', schol: false, dur: '2 years', field: 'Law' },
+            { id: '29', u: 'NTNU Trondheim', country: 'Norway', city: 'Trondheim', prog: 'Marine Technology', degree: 'Master', cost: 0, lang: 'English', ielts: 6.5, gpa: 3.3, deadline: '2027-02-01', schol: false, dur: '2 years', field: 'Marine Technology' },
+
+            // === Финляндия ===
+            { id: '30', u: 'University of Helsinki', country: 'Finland', city: 'Helsinki', prog: 'Computer Science', degree: 'Master', cost: 18000, lang: 'English', ielts: 6.5, gpa: 3.3, deadline: '2027-01-31', schol: true, dur: '2 years', field: 'Computer Science' },
+            { id: '31', u: 'Aalto University', country: 'Finland', city: 'Espoo', prog: 'Industrial Engineering', degree: 'Master', cost: 15000, lang: 'English', ielts: 7.0, gpa: 3.5, deadline: '2027-01-31', schol: true, dur: '2 years', field: 'Industrial Engineering' },
+            { id: '32', u: 'Aalto University', country: 'Finland', city: 'Espoo', prog: 'Architecture', degree: 'Bachelor', cost: 15000, lang: 'English', ielts: 6.5, gpa: 3.3, deadline: '2027-01-31', schol: true, dur: '3 years', field: 'Architecture' },
+
+            // === Дания ===
+            { id: '33', u: 'Technical University of Denmark', country: 'Denmark', city: 'Kongens Lyngby', prog: 'Sustainable Energy', degree: 'Master', cost: 16000, lang: 'English', ielts: 7.0, gpa: 3.5, deadline: '2027-03-01', schol: true, dur: '2 years', field: 'Sustainable Energy' },
+            { id: '34', u: 'Copenhagen Business School', country: 'Denmark', city: 'Copenhagen', prog: 'Finance', degree: 'Master', cost: 0, lang: 'English', ielts: 7.0, gpa: 3.5, deadline: '2027-03-01', schol: false, dur: '2 years', field: 'Finance' },
+            { id: '35', u: 'University of Copenhagen', country: 'Denmark', city: 'Copenhagen', prog: 'Public Health', degree: 'Master', cost: 16000, lang: 'English', ielts: 7.0, gpa: 3.5, deadline: '2027-03-01', schol: false, dur: '2 years', field: 'Public Health' },
+
+            // === Австрия ===
+            { id: '36', u: 'University of Vienna', country: 'Austria', city: 'Vienna', prog: 'Arts', degree: 'Bachelor', cost: 1500, lang: 'German', ielts: 6.0, gpa: 2.5, deadline: '2027-06-30', schol: false, dur: '3 years', field: 'Arts' },
+            { id: '37', u: 'Vienna University of Technology', country: 'Austria', city: 'Vienna', prog: 'Software Engineering', degree: 'Master', cost: 3600, lang: 'English', ielts: 7.0, gpa: 3.5, deadline: '2027-04-30', schol: false, dur: '2 years', field: 'Software Engineering' },
+            { id: '38', u: 'Vienna University of Economics', country: 'Austria', city: 'Vienna', prog: 'Economics', degree: 'Bachelor', cost: 1500, lang: 'German', ielts: 6.5, gpa: 3.0, deadline: '2027-06-30', schol: false, dur: '3 years', field: 'Economics' },
+
+            // === Бельгия ===
+            { id: '39', u: 'KU Leuven', country: 'Belgium', city: 'Leuven', prog: 'Medicine', degree: 'Master', cost: 6000, lang: 'Dutch', ielts: 7.5, gpa: 4.0, deadline: '2027-03-01', schol: false, dur: '4 years', field: 'Medicine' },
+            { id: '40', u: 'Ghent University', country: 'Belgium', city: 'Ghent', prog: 'Bioinformatics', degree: 'Master', cost: 6000, lang: 'English', ielts: 7.0, gpa: 3.5, deadline: '2027-03-01', schol: true, dur: '2 years', field: 'Bioinformatics' },
+
+            // === Швейцария ===
+            { id: '41', u: 'ETH Zurich', country: 'Switzerland', city: 'Zurich', prog: 'Robotics, Systems & Control', degree: 'Master', cost: 1600, lang: 'English', ielts: 7.0, gpa: 3.8, deadline: '2027-12-15', schol: true, dur: '2 years', field: 'Robotics' },
+            { id: '42', u: 'University of Geneva', country: 'Switzerland', city: 'Geneva', prog: 'International Relations', degree: 'Master', cost: 1000, lang: 'English', ielts: 7.0, gpa: 3.5, deadline: '2027-03-01', schol: true, dur: '2 years', field: 'International Relations' },
+
+            // === Чехия ===
+            { id: '43', u: 'Charles University', country: 'Czech Republic', city: 'Prague', prog: 'Computer Science', degree: 'Bachelor', cost: 6000, lang: 'English', ielts: 6.0, gpa: 3.0, deadline: '2027-02-28', schol: true, dur: '3 years', field: 'Computer Science' },
+            { id: '44', u: 'Czech Technical University', country: 'Czech Republic', city: 'Prague', prog: 'Cybersecurity', degree: 'Master', cost: 5000, lang: 'English', ielts: 6.5, gpa: 3.3, deadline: '2027-04-30', schol: false, dur: '2 years', field: 'Cybersecurity' },
+
+            // === Польша ===
+            { id: '45', u: 'University of Warsaw', country: 'Poland', city: 'Warsaw', prog: 'Data Science', degree: 'Master', cost: 4000, lang: 'English', ielts: 6.5, gpa: 3.5, deadline: '2027-03-15', schol: true, dur: '2 years', field: 'Data Science' },
+            { id: '46', u: 'Warsaw University of Technology', country: 'Poland', city: 'Warsaw', prog: 'Electrical Engineering', degree: 'Bachelor', cost: 3500, lang: 'English', ielts: 6.0, gpa: 3.0, deadline: '2027-05-31', schol: false, dur: '3 years', field: 'Engineering' },
+
+            // === Венгрия ===
+            { id: '47', u: 'Budapest University of Technology', country: 'Hungary', city: 'Budapest', prog: 'Software Engineering', degree: 'Master', cost: 5500, lang: 'English', ielts: 6.5, gpa: 3.3, deadline: '2027-05-31', schol: true, dur: '2 years', field: 'Software Engineering' },
+            { id: '48', u: 'Central European University', country: 'Hungary', city: 'Vienna', prog: 'Cognitive Science', degree: 'Master', cost: 14000, lang: 'English', ielts: 7.0, gpa: 3.5, deadline: '2027-02-15', schol: true, dur: '2 years', field: 'Cognitive Science' },
+
+            // === Япония ===
+            { id: '49', u: 'University of Tokyo', country: 'Japan', city: 'Tokyo', prog: 'Systems Innovation', degree: 'Master', cost: 4900, lang: 'English', ielts: 6.5, gpa: 3.5, deadline: '2027-11-01', schol: true, dur: '2 years', field: 'Engineering' },
+            { id: '50', u: 'Kyoto University', country: 'Japan', city: 'Kyoto', prog: 'Informatics', degree: 'PhD', cost: 4900, lang: 'English', ielts: 6.5, gpa: 3.7, deadline: '2027-11-30', schol: true, dur: '3 years', field: 'Computer Science' },
+
+            // === Южная Корея ===
+            { id: '51', u: 'KAIST', country: 'South Korea', city: 'Daejeon', prog: 'Electrical Engineering', degree: 'Master', cost: 3000, lang: 'English', ielts: 6.5, gpa: 3.5, deadline: '2027-09-15', schol: true, dur: '2 years', field: 'Engineering' },
+            { id: '52', u: 'Yonsei University', country: 'South Korea', city: 'Seoul', prog: 'Business Administration', degree: 'Bachelor', cost: 9000, lang: 'English', ielts: 6.5, gpa: 3.2, deadline: '2027-11-30', schol: true, dur: '4 years', field: 'Business Administration' },
+            { id: '53', u: 'Seoul National University', country: 'South Korea', city: 'Seoul', prog: 'Chemical Engineering', degree: 'PhD', cost: 2500, lang: 'English', ielts: 6.5, gpa: 3.7, deadline: '2027-09-30', schol: true, dur: '4 years', field: 'Chemical Engineering' },
+
+            // === Китай ===
+            { id: '54', u: 'Tsinghua University', country: 'China', city: 'Beijing', prog: 'Computer Science', degree: 'Master', cost: 4500, lang: 'English', ielts: 6.5, gpa: 3.6, deadline: '2027-12-31', schol: true, dur: '3 years', field: 'Computer Science' },
+            { id: '55', u: 'Peking University', country: 'China', city: 'Beijing', prog: 'Economics', degree: 'Bachelor', cost: 4000, lang: 'English', ielts: 6.0, gpa: 3.3, deadline: '2027-03-31', schol: true, dur: '4 years', field: 'Economics' },
+            { id: '56', u: 'Fudan University', country: 'China', city: 'Shanghai', prog: 'Business Administration', degree: 'Master', cost: 18000, lang: 'English', ielts: 7.0, gpa: 3.4, deadline: '2027-03-31', schol: true, dur: '2 years', field: 'Business Administration' },
+
+            // === США ===
+            { id: '57', u: 'MIT', country: 'USA', city: 'Cambridge', prog: 'Computer Science', degree: 'PhD', cost: 60000, lang: 'English', ielts: 7.5, gpa: 4.0, deadline: '2027-12-15', schol: true, dur: '5 years', field: 'Computer Science' },
+            { id: '58', u: 'Stanford University', country: 'USA', city: 'Stanford', prog: 'AI & Machine Learning', degree: 'Master', cost: 60500, lang: 'English', ielts: 7.5, gpa: 3.9, deadline: '2027-12-01', schol: false, dur: '1.5 years', field: 'AI & Machine Learning' },
+            { id: '59', u: 'University of Michigan', country: 'USA', city: 'Ann Arbor', prog: 'Law', degree: 'Master', cost: 55000, lang: 'English', ielts: 7.5, gpa: 3.7, deadline: '2027-02-15', schol: true, dur: '1 year', field: 'Law' },
+            { id: '60', u: 'Columbia University', country: 'USA', city: 'New York', prog: 'Architecture', degree: 'Master', cost: 62000, lang: 'English', ielts: 7.0, gpa: 3.5, deadline: '2027-01-05', schol: true, dur: '3 years', field: 'Architecture' },
+
+            // === Канада ===
+            { id: '61', u: 'University of Toronto', country: 'Canada', city: 'Toronto', prog: 'Computer Science', degree: 'Bachelor', cost: 40000, lang: 'English', ielts: 6.5, gpa: 3.5, deadline: '2027-01-13', schol: true, dur: '4 years', field: 'Computer Science' },
+            { id: '62', u: 'McGill University', country: 'Canada', city: 'Montreal', prog: 'Medicine', degree: 'Master', cost: 18000, lang: 'English', ielts: 7.0, gpa: 3.7, deadline: '2027-09-15', schol: true, dur: '4 years', field: 'Medicine' },
+            { id: '63', u: 'UBC', country: 'Canada', city: 'Vancouver', prog: 'Environmental Science', degree: 'Bachelor', cost: 36000, lang: 'English', ielts: 6.5, gpa: 3.4, deadline: '2027-01-15', schol: true, dur: '4 years', field: 'Environmental Science' },
+
+            // === Австралия ===
+            { id: '64', u: 'University of Melbourne', country: 'Australia', city: 'Melbourne', prog: 'Data Science', degree: 'Master', cost: 31000, lang: 'English', ielts: 7.0, gpa: 3.5, deadline: '2027-10-31', schol: true, dur: '2 years', field: 'Data Science' },
+            { id: '65', u: 'Australian National University', country: 'Australia', city: 'Canberra', prog: 'Physics', degree: 'PhD', cost: 28000, lang: 'English', ielts: 7.0, gpa: 3.7, deadline: '2027-08-31', schol: true, dur: '4 years', field: 'Physics' },
+            { id: '66', u: 'University of Sydney', country: 'Australia', city: 'Sydney', prog: 'Law', degree: 'Bachelor', cost: 33000, lang: 'English', ielts: 7.0, gpa: 3.5, deadline: '2027-10-31', schol: false, dur: '4 years', field: 'Law' },
+
+            // === Великобритания ===
+            { id: '67', u: 'University of Cambridge', country: 'United Kingdom', city: 'Cambridge', prog: 'Computer Science', degree: 'Bachelor', cost: 33000, lang: 'English', ielts: 7.5, gpa: 4.0, deadline: '2027-10-15', schol: true, dur: '3 years', field: 'Computer Science' },
+            { id: '68', u: 'University of Oxford', country: 'United Kingdom', city: 'Oxford', prog: 'Law', degree: 'Bachelor', cost: 33000, lang: 'English', ielts: 7.5, gpa: 4.0, deadline: '2027-10-15', schol: true, dur: '3 years', field: 'Law' },
+            { id: '69', u: 'Imperial College London', country: 'United Kingdom', city: 'London', prog: 'Engineering', degree: 'Master', cost: 38000, lang: 'English', ielts: 7.0, gpa: 3.7, deadline: '2027-01-31', schol: true, dur: '1 year', field: 'Engineering' },
+            { id: '70', u: 'LSE', country: 'United Kingdom', city: 'London', prog: 'Economics', degree: 'Master', cost: 35000, lang: 'English', ielts: 7.5, gpa: 3.8, deadline: '2027-04-30', schol: true, dur: '1 year', field: 'Economics' },
+            { id: '71', u: 'UCL', country: 'United Kingdom', city: 'London', prog: 'Architecture', degree: 'Master', cost: 34000, lang: 'English', ielts: 7.0, gpa: 3.5, deadline: '2027-03-31', schol: false, dur: '2 years', field: 'Architecture' },
+            { id: '72', u: 'University of Edinburgh', country: 'United Kingdom', city: 'Edinburgh', prog: 'Informatics', degree: 'Master', cost: 30000, lang: 'English', ielts: 7.0, gpa: 3.6, deadline: '2027-04-30', schol: true, dur: '1 year', field: 'Computer Science' },
+
+            // === Сингапур ===
+            { id: '73', u: 'NUS Singapore', country: 'Singapore', city: 'Singapore', prog: 'Computer Science', degree: 'Master', cost: 22000, lang: 'English', ielts: 6.5, gpa: 3.6, deadline: '2027-04-30', schol: true, dur: '2 years', field: 'Computer Science' },
+            { id: '74', u: 'NTU Singapore', country: 'Singapore', city: 'Singapore', prog: 'Electrical Engineering', degree: 'Bachelor', cost: 28000, lang: 'English', ielts: 6.5, gpa: 3.4, deadline: '2027-03-01', schol: true, dur: '4 years', field: 'Engineering' },
+
+            // === Гонконг ===
+            { id: '75', u: 'Hong Kong University', country: 'Hong Kong', city: 'Hong Kong', prog: 'Finance', degree: 'Master', cost: 26000, lang: 'English', ielts: 7.0, gpa: 3.5, deadline: '2027-03-31', schol: false, dur: '1 year', field: 'Finance' },
+            { id: '76', u: 'HKUST', country: 'Hong Kong', city: 'Hong Kong', prog: 'AI & Machine Learning', degree: 'Master', cost: 24000, lang: 'English', ielts: 6.5, gpa: 3.5, deadline: '2027-02-28', schol: true, dur: '1 year', field: 'AI & Machine Learning' },
+
+            // === Бразилия ===
+            { id: '77', u: 'University of São Paulo', country: 'Brazil', city: 'São Paulo', prog: 'Engineering', degree: 'Bachelor', cost: 0, lang: 'Portuguese', ielts: 5.0, gpa: 3.0, deadline: '2027-12-31', schol: false, dur: '5 years', field: 'Engineering' },
+
+            // === Индия ===
+            { id: '78', u: 'IIT Bombay', country: 'India', city: 'Mumbai', prog: 'Computer Science', degree: 'Bachelor', cost: 2000, lang: 'English', ielts: 6.0, gpa: 3.8, deadline: '2027-06-15', schol: true, dur: '4 years', field: 'Computer Science' },
+
+            // === Россия ===
+            { id: '79', u: 'Moscow State University', country: 'Russia', city: 'Moscow', prog: 'Physics', degree: 'Bachelor', cost: 4000, lang: 'Russian', ielts: 6.0, gpa: 3.5, deadline: '2027-08-15', schol: true, dur: '4 years', field: 'Physics' },
+            { id: '80', u: 'Higher School of Economics', country: 'Russia', city: 'Moscow', prog: 'Economics', degree: 'Master', cost: 5000, lang: 'English', ielts: 6.5, gpa: 3.4, deadline: '2027-07-01', schol: true, dur: '2 years', field: 'Economics' },
+
+            // === Турция ===
+            { id: '81', u: 'Boğaziçi University', country: 'Turkey', city: 'Istanbul', prog: 'Computer Engineering', degree: 'Bachelor', cost: 3000, lang: 'English', ielts: 6.5, gpa: 3.6, deadline: '2027-07-15', schol: true, dur: '4 years', field: 'Computer Science' },
+        ];
+
+        // ===================== ФУНКЦИИ =====================
+        function toggleChip(id, cb) {
+            const el = document.getElementById(id);
+            if (el) el.classList.toggle('on');
+            if (cb) cb();
+        }
+
+        function onBudget() {
+            const v = +document.getElementById('fBudget').value;
+            document.getElementById('budgetVal').textContent = v >= 70000 ? 'Любая' : '€' + v.toLocaleString();
+            render();
+        }
+
+        function onIelts() {
+            const v = +document.getElementById('fIelts').value;
+            document.getElementById('ieltsVal').textContent = v === 0 ? 'Любой' : v.toFixed(1);
+            render();
+        }
+
+        function onIeltsMax() {
+            const v = +document.getElementById('fIeltsMax').value;
+            document.getElementById('ieltsMaxVal').textContent = v.toFixed(1);
+            render();
+        }
+
+        function onGpa() {
+            const v = +document.getElementById('fGpa').value;
+            document.getElementById('gpaVal').textContent = v === 0 ? 'Любой' : v.toFixed(1);
+            render();
+        }
+
+        function onCountryChange() {
+            const c = document.getElementById('fCountry').value;
+            const sel = document.getElementById('fExam');
+            const note = document.getElementById('examNote');
+
+            // Очищаем список
+            sel.innerHTML = '<option value="">Любой</option>';
+
+            // Всегда показываем международные экзамены
+            if (EXAMS_BY_COUNTRY['International']) {
+                const optgroup = document.createElement('optgroup');
+                optgroup.label = '— Международные экзамены —';
+                EXAMS_BY_COUNTRY['International'].forEach(e => {
+                    const o = document.createElement('option');
+                    o.value = e.v;
+                    o.textContent = e.l;
+                    optgroup.appendChild(o);
+                });
+                sel.appendChild(optgroup);
+            }
+
+            // Если выбрана конкретная страна, добавляем её экзамены
+            if (c && EXAMS_BY_COUNTRY[c]) {
+                const optgroup = document.createElement('optgroup');
+                optgroup.label = '— Экзамены ' + c + ' —';
+                EXAMS_BY_COUNTRY[c].forEach(e => {
+                    // Проверяем, не дублируется ли с международными
+                    const internationalExams = EXAMS_BY_COUNTRY['International'].map(x => x.v);
+                    if (!internationalExams.includes(e.v)) {
+                        const o = document.createElement('option');
+                        o.value = e.v;
+                        o.textContent = e.l;
+                        optgroup.appendChild(o);
+                    }
+                });
+                sel.appendChild(optgroup);
+                note.textContent = 'Все экзамены для ' + c + ' + международные';
+            } else if (c && !EXAMS_BY_COUNTRY[c]) {
+                note.textContent = 'Показаны международные экзамены (нет данных по ' + c + ')';
+            } else {
+                note.textContent = 'Выберите страну для отображения её экзаменов';
+            }
+
+            render();
+        }
+
+        function clearAll() {
+            document.getElementById('q').value = '';
+            document.getElementById('fCountry').value = '';
+            document.getElementById('fExam').innerHTML = '<option value="">Любой</option>';
+            document.getElementById('examNote').textContent = '';
+            document.getElementById('fDegree').value = '';
+            document.getElementById('fField').value = '';
+            document.getElementById('fLang').value = '';
+            document.getElementById('fDuration').value = '';
+            document.getElementById('fBudget').value = 70000;
+            document.getElementById('fIelts').value = 0;
+            document.getElementById('fIeltsMax').value = 9;
+            document.getElementById('fGpa').value = 0;
+            document.getElementById('budgetVal').textContent = 'Любая';
+            document.getElementById('ieltsVal').textContent = 'Любой';
+            document.getElementById('ieltsMaxVal').textContent = '9.0';
+            document.getElementById('gpaVal').textContent = 'Любой';
+            ['chipFree', 'chipSchol', 'chipEnglish', 'chipEU', 'chipAsia', 'chipAmer', 'chipDeadline'].forEach(id => {
+                const el = document.getElementById(id);
+                if (el) el.classList.remove('on');
+            });
+            render();
+        }
+
+        function render() {
+            const q = document.getElementById('q').value.toLowerCase().trim();
+            const country = document.getElementById('fCountry').value;
+            const degree = document.getElementById('fDegree').value;
+            const field = document.getElementById('fField').value;
+            const lang = document.getElementById('fLang').value;
+            const dur = document.getElementById('fDuration').value;
+            const budget = +document.getElementById('fBudget').value;
+            const ieltsMin = +document.getElementById('fIelts').value;
+            const ieltsMax = +document.getElementById('fIeltsMax').value;
+            const gpaMin = +document.getElementById('fGpa').value;
+            const sort = document.getElementById('fSort').value;
+            const chipFree = document.getElementById('chipFree').classList.contains('on');
+            const chipSchol = document.getElementById('chipSchol').classList.contains('on');
+            const chipEng = document.getElementById('chipEnglish').classList.contains('on');
+            const chipEU = document.getElementById('chipEU').classList.contains('on');
+            const chipAsia = document.getElementById('chipAsia').classList.contains('on');
+            const chipAmer = document.getElementById('chipAmer').classList.contains('on');
+            const chipDead = document.getElementById('chipDeadline').classList.contains('on');
+            const now = new Date();
+            const sixMo = new Date();
+            sixMo.setMonth(sixMo.getMonth() + 6);
+
+            const EU = ['Germany', 'Netherlands', 'France', 'Spain', 'Italy', 'Sweden', 'Norway', 'Finland', 'Denmark', 'Austria', 'Belgium', 'Switzerland', 'Czech Republic', 'Poland', 'Hungary'];
+            const ASIA = ['Japan', 'South Korea', 'China', 'Singapore', 'Hong Kong', 'Taiwan', 'Malaysia', 'Thailand', 'India'];
+            const AMER = ['USA', 'Canada', 'Brazil', 'Mexico', 'Argentina', 'Chile'];
+
+            let res = DATA.filter(p => {
+                if (q && !p.u.toLowerCase().includes(q) && !p.prog.toLowerCase().includes(q) && !p.city.toLowerCase().includes(q) && !p.country.toLowerCase().includes(q)) return false;
+                if (country && p.country !== country) return false;
+                if (degree && p.degree !== degree) return false;
+                if (field && p.field !== field) return false;
+                if (lang && p.lang !== lang) return false;
+                if (dur) {
+                    const pd = parseFloat(p.dur);
+                    if (dur === '5') { if (pd < 5) return false; } else { if (Math.abs(pd - parseFloat(dur)) > 0.05) return false; }
+                }
+                if (budget < 70000 && p.cost > budget) return false;
+                if (chipFree && p.cost !== 0) return false;
+                if (chipSchol && !p.schol) return false;
+                if (chipEng && p.lang !== 'English') return false;
+                if (chipEU && !EU.includes(p.country)) return false;
+                if (chipAsia && !ASIA.includes(p.country)) return false;
+                if (chipAmer && !AMER.includes(p.country)) return false;
+                if (ieltsMin > 0 && p.ielts < ieltsMin) return false;
+                if (p.ielts > ieltsMax) return false;
+                if (gpaMin > 0 && p.gpa < gpaMin) return false;
+                if (chipDead) { const d = new Date(p.deadline); if (d < now || d > sixMo) return false; }
+                return true;
+            });
+
+            if (sort === 'costAsc') res.sort((a, b) => a.cost - b.cost);
+            else if (sort === 'costDesc') res.sort((a, b) => b.cost - a.cost);
+            else if (sort === 'deadline') res.sort((a, b) => new Date(a.deadline) - new Date(b.deadline));
+            else if (sort === 'ieltsAsc') res.sort((a, b) => a.ielts - b.ielts);
+            else if (sort === 'alpha') res.sort((a, b) => a.u.localeCompare(b.u));
+
+            document.getElementById('resCount').textContent = res.length;
+            const grid = document.getElementById('grid');
+            const empty = document.getElementById('empty');
+            if (res.length === 0) { grid.innerHTML = '';
+                empty.style.display = 'block'; return; }
+            empty.style.display = 'none';
+
+            grid.innerHTML = res.map(p => {
+                const badgeCls = p.degree === 'Bachelor' ? 'badge-b' : p.degree === 'Master' ? 'badge-m' : 'badge-p';
+                const costHtml = p.cost === 0 ? '<span class="cost cost-free">Бесплатно</span>' : `<span class="cost">€${p.cost.toLocaleString()}/год</span>`;
+                const dl = new Date(p.deadline);
+                const days = Math.ceil((dl - new Date()) / (1000 * 60 * 60 * 24));
+                const dlColor = days < 0 ? 'var(--text-muted)' : days <= 60 ? 'var(--text-danger)' : days <= 180 ? 'var(--text-warning)' : 'var(--text-success)';
+                return `<div class="card">
+                <div class="card-top">
+                  <div class="card-uni">${p.u}</div>
+                  <span class="badge ${badgeCls}">${p.degree}</span>
+                </div>
+                <div class="card-prog">${p.prog}</div>
+                <div class="card-row">
+                  <span class="card-stat"><i class="ti ti-map-pin" aria-hidden="true"></i><strong>${p.city}, ${p.country}</strong></span>
+                  <span class="card-stat"><i class="ti ti-clock" aria-hidden="true"></i><strong>${p.dur}</strong></span>
+                  <span class="card-stat"><i class="ti ti-language" aria-hidden="true"></i><strong>${p.lang}</strong></span>
+                </div>
+                <div class="card-row" style="margin-top:5px">
+                  <span class="card-stat"><i class="ti ti-certificate" aria-hidden="true"></i>IELTS <strong>${p.ielts}</strong></span>
+                  <span class="card-stat"><i class="ti ti-school" aria-hidden="true"></i>GPA <strong>${p.gpa}</strong></span>
+                </div>
+                <div class="card-footer">
+                  <div>${costHtml}${p.schol ? '&nbsp;<span class="schol-tag">Стипендия</span>' : ''}</div>
+                  <div class="deadline" style="color:${dlColor}"><i class="ti ti-calendar-event" aria-hidden="true"></i> ${days < 0 ? 'Закрыт' : days + ' дн.'}</div>
+                </div>
+              </div>`;
+            }).join('');
+        }
+
+        (function init() {
+            // Страны
+            const cSel = document.getElementById('fCountry');
+            ALL_COUNTRIES.sort().forEach(c => {
+                const o = document.createElement('option');
+                o.value = c;
+                o.textContent = c;
+                cSel.appendChild(o);
+            });
+
+            // Области
+            const fSel = document.getElementById('fField');
+            ALL_FIELDS.sort().forEach(f => {
+                const o = document.createElement('option');
+                o.value = f;
+                o.textContent = f;
+                fSel.appendChild(o);
+            });
+
+            // Языки
+            const lSel = document.getElementById('fLang');
+            ALL_LANGUAGES.sort().forEach(l => {
+                const o = document.createElement('option');
+                o.value = l;
+                o.textContent = l;
+                lSel.appendChild(o);
+            });
+
+            document.getElementById('q').addEventListener('input', render);
+            render();
+        })();
+    </script>
+</body>
+</html>

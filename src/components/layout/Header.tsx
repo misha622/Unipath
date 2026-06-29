@@ -10,6 +10,7 @@ export default function Header() {
         <nav className="hidden md:flex gap-6 text-sm font-medium text-gray-600">
           <Link href="/wizard" className="hover:text-blue-600">Подбор</Link>
           <Link href="/explore" className="hover:text-blue-600">Все вузы</Link>
+          <Link href="/exams" className="hover:text-blue-600">Экзамены</Link>
         </nav>
         <Link
           href="/auth"
