@@ -668,6 +668,9 @@ video {
 .h-4 {
   height: 1rem;
 }
+.max-h-48 {
+  max-height: 12rem;
+}
 .min-h-screen {
   min-height: 100vh;
 }
@@ -779,6 +782,9 @@ video {
 }
 .overflow-x-auto {
   overflow-x: auto;
+}
+.overflow-y-auto {
+  overflow-y: auto;
 }
 .whitespace-nowrap {
   white-space: nowrap;

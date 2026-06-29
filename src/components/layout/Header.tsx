@@ -11,6 +11,7 @@ export default function Header() {
           <Link href="/wizard" className="hover:text-blue-600">Подбор</Link>
           <Link href="/explore" className="hover:text-blue-600">Все вузы</Link>
           <Link href="/exams" className="hover:text-blue-600">Экзамены</Link>
+          <Link href="/universities" className="hover:text-blue-600">Вузы</Link>
         </nav>
         <Link
           href="/auth"
