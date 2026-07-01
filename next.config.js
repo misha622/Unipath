@@ -4,6 +4,7 @@ const nextConfig = {
     remotePatterns: [
       { protocol: 'https', hostname: '**' },
     ],
+    unoptimized: true,
   },
   async redirects() {
     return [
@@ -14,6 +15,13 @@ const nextConfig = {
       },
     ]
   },
+  // Продакшен-оптимизации
+  compiler: {
+    removeConsole: process.env.NODE_ENV === 'production',
+  },
+  poweredByHeader: false,
+  reactStrictMode: true,
+  swcMinify: true,
 }
 
 module.exports = nextConfig
