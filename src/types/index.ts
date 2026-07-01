@@ -7,7 +7,7 @@ export interface ProgramData {
   country: string
   city: string
   program: string
-  degree: 'Bachelor' | 'Master' | 'PhD'
+  degree: 'Bachelor' | 'Master' | 'PhD' | 'MBA' | 'LLM' | 'Diploma' | 'Certificate'
   costPerYear: number
   currency: string
   ielts: number

@@ -5,7 +5,6 @@ import { useState } from 'react'
 interface StepSubjectProps {
   onNext: (subject: string) => void
 }
-
 const SUBJECTS = [
   'Computer Science',
   'Data Science & AI',
