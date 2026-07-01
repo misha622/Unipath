@@ -1,0 +1,4843 @@
+{
+  "country_name": "Slovak Republic",
+  "country_id": "Slovak Republic",
+  "institutions": [
+    {
+      "id": "666",
+      "iau_id": "IAU-000666",
+      "name": "Academy of Art in Banská Bystrica",
+      "alt_name": "Akadémia umení v Banskej Bystrici",
+      "detail_url": "https://whed.net/detail_institution.php?Jjo2MF0tQzhWCmAK",
+      "iau_link": "https://www.whed.net/institutions/IAU-000666",
+      "address": {
+        "Street": "Ul. J. Kollára 22",
+        "City": "Banská Bystrica",
+        "Post Code": "97401",
+        "WWW": "https://www.aku.sk"
+      },
+      "website": "https://www.aku.sk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1997,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to August (September-January; February-August)",
+      "languages": [
+        "Slovak"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Drama",
+          "fields": [
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Faculty : Fine Arts",
+          "fields": [
+            "Graphic Arts",
+            "Graphic Design",
+            "Painting and Drawing",
+            "Photography",
+            "Sculpture",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Faculty : Performing Arts",
+          "fields": [
+            "Conducting",
+            "Music",
+            "Music Theory and Composition",
+            "Musical Instruments",
+            "Singing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalár",
+          "fields": [
+            "Fine Arts",
+            "Graphic Arts",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Magister",
+          "fields": [
+            "Acting",
+            "Conducting",
+            "Graphic Arts",
+            "Music Theory and Composition",
+            "Musical Instruments",
+            "Painting and Drawing",
+            "Photography",
+            "Sculpture",
+            "Singing",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Doktor",
+          "fields": [
+            "Fine Arts",
+            "Theatre"
+          ]
+        }
+      ],
+      "accreditation": "Accreditation Commission of the Ministry of Education of the Slovak Republic",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Michal Murin"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1997",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "21099",
+      "iau_id": "IAU-021099",
+      "name": "Academy of Fine Arts and Design in Bratislava",
+      "alt_name": "Vysoká škola výtvarných umení v Bratislave (VŠVU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyRQLjNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-021099",
+      "address": {
+        "Street": "Hviezdoslavovo nám 18",
+        "City": "Bratislava",
+        "Post Code": "814 37",
+        "WWW": "https://www.vsvu.sk"
+      },
+      "website": "https://www.vsvu.sk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "October to June (October-January; February-May)",
+      "languages": [
+        "Slovak"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Applied Arts",
+          "fields": [
+            "Ceramic Art",
+            "Glass Art",
+            "Jewellery Art"
+          ]
+        },
+        {
+          "name": "Department/Division : Architecture",
+          "fields": [
+            "Architecture"
+          ]
+        },
+        {
+          "name": "Department/Division : Conservation and Restoration",
+          "fields": [
+            "Architectural Restoration",
+            "Restoration of Works of Art"
+          ]
+        },
+        {
+          "name": "Department/Division : Design",
+          "fields": [
+            "Communication Arts",
+            "Design",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Department/Division : Drawing",
+          "fields": [
+            "Painting and Drawing"
+          ]
+        },
+        {
+          "name": "Department/Division : Intermedia and Multimedia",
+          "fields": [
+            "Media Studies",
+            "Multimedia"
+          ]
+        },
+        {
+          "name": "Department/Division : Painting and Other Media",
+          "fields": [
+            "Painting and Drawing"
+          ]
+        },
+        {
+          "name": "Department/Division : Photography and New Media",
+          "fields": [
+            "Photography"
+          ]
+        },
+        {
+          "name": "Department/Division : Printmaking and Other Media",
+          "fields": [
+            "Printing and Printmaking"
+          ]
+        },
+        {
+          "name": "Department/Division : Sculpture, Object, Installation",
+          "fields": [
+            "Sculpture"
+          ]
+        },
+        {
+          "name": "Department/Division : Textile",
+          "fields": [
+            "Fashion Design",
+            "Textile Design"
+          ]
+        },
+        {
+          "name": "Department/Division : Theory and History of Art",
+          "fields": [
+            "Architecture",
+            "Art History",
+            "Fine Arts"
+          ]
+        },
+        {
+          "name": "Department/Division : Visual Communication",
+          "fields": [
+            "Communication Studies",
+            "Visual Arts"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalár",
+          "fields": [
+            "Design",
+            "Fine Arts"
+          ]
+        },
+        {
+          "name": "Magister",
+          "fields": [
+            "Architecture",
+            "Design",
+            "Fine Arts",
+            "Media Studies",
+            "Multimedia",
+            "Painting and Drawing",
+            "Performing Arts",
+            "Photography",
+            "Printing and Printmaking",
+            "Restoration of Works of Art",
+            "Sculpture",
+            "Textile Design",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Doktor",
+          "fields": [
+            "Architecture",
+            "Design",
+            "Fine Arts",
+            "Restoration of Works of Art"
+          ]
+        }
+      ],
+      "accreditation": "Accreditation Commission of the Slovak Republic",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Bohunka Koklesová"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Jana Hojstričová"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Marcel Benčík"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded as Academy of Fine Arts 1949",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "21090",
+      "iau_id": "IAU-021090",
+      "name": "Academy of Performing Arts in Bratislava",
+      "alt_name": "Vysoká škola múzických umení v Bratislave (VŠMU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyRQLjNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-021090",
+      "address": {
+        "Street": "Ventúrska 3",
+        "City": "Bratislava",
+        "Post Code": "813 01",
+        "WWW": "https://www.vsmu.sk"
+      },
+      "website": "https://www.vsmu.sk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1949,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June (September-January; January-June)",
+      "languages": [
+        "Slovak",
+        "English",
+        "German"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Film and Television",
+          "fields": [
+            "Cinema and Television",
+            "Display and Stage Design",
+            "Film",
+            "Performing Arts",
+            "Photography",
+            "Sound Engineering (Acoustics)",
+            "Theatre",
+            "Video"
+          ]
+        },
+        {
+          "name": "Faculty : Music and Dance",
+          "fields": [
+            "Conducting",
+            "Dance",
+            "Music",
+            "Music Theory and Composition",
+            "Musical Instruments",
+            "Performing Arts",
+            "Religious Music",
+            "Singing"
+          ]
+        },
+        {
+          "name": "Faculty : Theatre",
+          "fields": [
+            "Acting",
+            "Display and Stage Design",
+            "Performing Arts",
+            "Theatre"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalár",
+          "fields": [
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Magister",
+          "fields": [
+            "Cinema and Television",
+            "Conducting",
+            "Dance",
+            "Music",
+            "Musical Instruments",
+            "Opera",
+            "Photography",
+            "Singing",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Doktor",
+          "fields": [
+            "Theatre"
+          ]
+        }
+      ],
+      "accreditation": "Accreditation Commission of the Government of the Slovak Republic",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Mária Heinzová"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Jana Cibulčíková"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Matúš Benža"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1949 incorporating two faculties: the Faculty of Music and the Faculty of Drama. The Department of Dance was attached to the Faculty of Music. The Faculty of Drama was divided into the Faculty of Drama and Puppet Art and the Faculty of Film and Television in 1990",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "655",
+      "iau_id": "IAU-000655",
+      "name": "Academy of the Police Force in Bratislava",
+      "alt_name": "Akadémia Policajného zboru v Bratislave (APZ)",
+      "detail_url": "https://whed.net/detail_institution.php?Jjo2MF0tQzRVCmAK",
+      "iau_link": "https://www.whed.net/institutions/IAU-000655",
+      "address": {
+        "Street": "Sklabinská 1",
+        "City": "Bratislava",
+        "Post Code": "835 17",
+        "WWW": "https://www.akademiapz.sk"
+      },
+      "website": "https://www.akademiapz.sk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1992,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to August (September-February; March-August)",
+      "languages": [
+        "Slovak"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Administrative Law",
+          "fields": [
+            "Administrative Law"
+          ]
+        },
+        {
+          "name": "Department/Division : Criminal and Forensic Sciences",
+          "fields": [
+            "Criminal Law",
+            "Forensic Medicine and Dentistry"
+          ]
+        },
+        {
+          "name": "Department/Division : Criminal Law",
+          "fields": [
+            "Criminal Law"
+          ]
+        },
+        {
+          "name": "Department/Division : Criminal Police",
+          "fields": [
+            "Criminology",
+            "Police Studies"
+          ]
+        },
+        {
+          "name": "Department/Division : Criminology",
+          "fields": [
+            "Criminology"
+          ]
+        },
+        {
+          "name": "Department/Division : Foreign Languages",
+          "fields": [
+            "Modern Languages"
+          ]
+        },
+        {
+          "name": "Department/Division : Investigation",
+          "fields": [
+            "Police Studies"
+          ]
+        },
+        {
+          "name": "Department/Division : Management and Information Science",
+          "fields": [
+            "Computer Science",
+            "Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Physical Education and Sports",
+          "fields": [
+            "Physical Education",
+            "Sports"
+          ]
+        },
+        {
+          "name": "Department/Division : Police Sciences",
+          "fields": [
+            "Police Studies"
+          ]
+        },
+        {
+          "name": "Department/Division : Private Law",
+          "fields": [
+            "Civil Law",
+            "Private Law"
+          ]
+        },
+        {
+          "name": "Department/Division : Public Administration and Crisis Management",
+          "fields": [
+            "Finance",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "Department/Division : Public Law",
+          "fields": [
+            "Public Law"
+          ]
+        },
+        {
+          "name": "Department/Division : Social Sciences",
+          "fields": [
+            "Social Sciences"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalár",
+          "fields": [
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Magister",
+          "fields": [
+            "Protective Services",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Doktor",
+          "fields": [
+            "Welfare and Protective Services"
+          ]
+        }
+      ],
+      "accreditation": "Accreditation Commission of the Government of the Slovak Republic.",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Lucia Kurilovská"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Štefan Kočan"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Mojmír Mamojka"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1992. Acquired present status and title 1996",
+      "periodicals": [
+        "Police Theory and Practice Publications and Citation Index of the Academy",
+        "Police Theory and Practice",
+        "Publications and Citation Index of the Academy"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "16839",
+      "iau_id": "IAU-016839",
+      "name": "Alexander Dubcek University in Trencin",
+      "alt_name": "Trenčianska univerzita Alexandra Dubčeka v Trenčíne (TnUAD)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhYLFNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016839",
+      "address": {
+        "Street": "Študentská 2",
+        "City": "Trenčín",
+        "Post Code": "911 50",
+        "WWW": "https://tnuni.sk"
+      },
+      "website": "https://tnuni.sk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1997,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to August (September-January; February-August)",
+      "languages": [
+        "Slovak"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Political Sciences",
+          "fields": [
+            "Political Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Industrial Technology",
+          "fields": [
+            "Ceramics and Glass Technology",
+            "Chemical Engineering",
+            "Chemistry",
+            "Industrial Engineering",
+            "Materials Engineering",
+            "Physical Chemistry",
+            "Polymer and Plastics Technology",
+            "Rubber Technology",
+            "Technology",
+            "Textile Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Mechatronics",
+          "fields": [
+            "Electrical and Electronic Engineering",
+            "Information Technology",
+            "Mechanical Engineering",
+            "Microelectronics"
+          ]
+        },
+        {
+          "name": "Faculty : Social and Economic Relations",
+          "fields": [
+            "Business Administration",
+            "Economics",
+            "Human Resources",
+            "Social Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Special Technology",
+          "fields": [
+            "Industrial Engineering",
+            "Mechanical Engineering",
+            "Production Engineering",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Institute : Public Health Care and Nursing",
+          "fields": [
+            "Laboratory Techniques",
+            "Nursing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalár",
+          "fields": [
+            "Automotive Engineering",
+            "Electronic Engineering",
+            "Laboratory Techniques",
+            "Materials Engineering",
+            "Mechanical Engineering",
+            "Nursing",
+            "Power Engineering",
+            "Public Administration",
+            "Textile Technology"
+          ]
+        },
+        {
+          "name": "Magister",
+          "fields": [
+            "Automotive Engineering",
+            "Electronic Engineering",
+            "Human Resources",
+            "Materials Engineering",
+            "Mechanical Engineering",
+            "Power Engineering"
+          ]
+        },
+        {
+          "name": "Doktor",
+          "fields": [
+            "Electronic Engineering",
+            "Engineering",
+            "Materials Engineering",
+            "Mechanical Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Accreditation Commission of the Government of the Slovak Republic",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Jozef Habánik"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1997",
+      "periodicals": [
+        "Acta Academica Trenchiniensis Social and Economic Review TnU TRENDY",
+        "Acta Academica Trenchiniensis",
+        "Social and Economic Review",
+        "TnU TRENDY"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "21088",
+      "iau_id": "IAU-021088",
+      "name": "College of International Business ISM Slovakia in Prešov",
+      "alt_name": "Vysoká škola medzinárodného podnikania ISM Slovakia v Prešove",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyRQLiNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-021088",
+      "address": {
+        "Street": "Duchnovičovo námestie 1",
+        "City": "Prešov",
+        "Post Code": "080 01",
+        "WWW": "http://www.ismpo.sk"
+      },
+      "website": "http://www.ismpo.sk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2005,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Slovak"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Business and Management",
+          "fields": [
+            "Economics",
+            "Ethics",
+            "International Business",
+            "Management",
+            "Public Relations",
+            "Social and Community Services"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalár",
+          "fields": [
+            "Business Administration",
+            "Economics",
+            "Ethics",
+            "International Business"
+          ]
+        },
+        {
+          "name": "Magister",
+          "fields": [
+            "Business Administration",
+            "Ethics",
+            "Psychology",
+            "Social and Community Services"
+          ]
+        }
+      ],
+      "accreditation": "Accreditation Commission of the Government of the Slovak Republic",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Marek Storoška"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Eva Hvizdová"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2005",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "21087",
+      "iau_id": "IAU-021087",
+      "name": "College of Management in Trenčíne",
+      "alt_name": "Vysoká škola manažmentu v Trenčíne (VŠM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyRQLiM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-021087",
+      "address": {
+        "Street": "Bezručova 64",
+        "City": "Trenčín",
+        "Post Code": "911 01",
+        "WWW": "http://www.vsm.sk"
+      },
+      "website": "http://www.vsm.sk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "September to June",
+      "languages": [
+        "English",
+        "Slovak"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Economics and Finance",
+          "fields": [
+            "Economics",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Department/Division : Humanities and Social Sciences",
+          "fields": [
+            "Arts and Humanities",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Department/Division : Languages",
+          "fields": [
+            "Modern Languages"
+          ]
+        },
+        {
+          "name": "Department/Division : Management",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Information Technology",
+            "International Business",
+            "International Relations and Diplomacy",
+            "Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Marketing and Communication",
+          "fields": [
+            "Communication Studies",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Department/Division : Mathematics, Statistics, and Information Technologies",
+          "fields": [
+            "Computer Science",
+            "Information Technology",
+            "Mathematics",
+            "Statistics"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalár",
+          "fields": [
+            "Business Administration",
+            "Management"
+          ]
+        },
+        {
+          "name": "Magister",
+          "fields": [
+            "Business Administration",
+            "Management"
+          ]
+        },
+        {
+          "name": "Doktor",
+          "fields": [
+            "Management"
+          ]
+        }
+      ],
+      "accreditation": "Accreditation Commission of the Government of the Slovak Republic",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Edita Hekelova"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Antónia Valašíková"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded in 1999 by the City University of Seattle",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20672",
+      "iau_id": "IAU-020672",
+      "name": "Comenius University in Bratislava",
+      "alt_name": "Univerzita Komenského v Bratislave (UK)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BWLVMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020672",
+      "address": {
+        "Street": "P.O. Box 440Šafárikovo námestie 6",
+        "City": "Bratislava 1",
+        "Post Code": "814 99",
+        "WWW": "https://uniba.sk"
+      },
+      "website": "https://uniba.sk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1919,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to August",
+      "languages": [
+        "Slovak",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Education",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Faculty : Evangelical Theology",
+          "fields": [
+            "Protestant Theology",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Management",
+          "fields": [
+            "Management"
+          ]
+        },
+        {
+          "name": "Faculty : Mathematics, Physics and Informatics",
+          "fields": [
+            "Computer Science",
+            "Mathematics",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Faculty : Natural Sciences",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Environmental Studies",
+            "Geography",
+            "Geology",
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Pharmacy",
+          "fields": [
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Faculty : Philosophy",
+          "fields": [
+            "Philosophy"
+          ]
+        },
+        {
+          "name": "Faculty : Physical Education and Sports",
+          "fields": [
+            "Physical Education",
+            "Sports"
+          ]
+        },
+        {
+          "name": "Faculty : Social and Economic Sciences",
+          "fields": [
+            "Economics",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Institute : Roman Catholic Theology",
+          "fields": [
+            "Catholic Theology",
+            "Theology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalár",
+          "fields": [
+            "Computer Science",
+            "Economics",
+            "European Studies",
+            "Law",
+            "Management",
+            "Mathematics",
+            "Physics",
+            "Psychology",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Doktor lekárstva/ Magister/ Inžinier",
+          "fields": [
+            "Dentistry",
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Magister",
+          "fields": [
+            "Economics",
+            "European Studies",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Doktor",
+          "fields": [
+            "European Studies",
+            "Psychology"
+          ]
+        }
+      ],
+      "accreditation": "Accreditation Commission of the Government of the Slovak Republic",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Marek Števček"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Zuzana Kovacicova"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Jozef Tancer"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1919, the oldest university in the Slovak Republic. Follows the traditions of Academia Istropolitana, established 1467, renamed The Slovak University 1939, and acquired present title 1954",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20673",
+      "iau_id": "IAU-020673",
+      "name": "Constantine the Philosopher University in Nitra",
+      "alt_name": "Univerzita Konštantína Filozofa v Nitre (UKF)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BWLVMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020673",
+      "address": {
+        "Street": "Trieda A. Hlinku 1",
+        "City": "Nitra",
+        "Post Code": "949 01",
+        "WWW": "https://www.ukf.sk"
+      },
+      "website": "https://www.ukf.sk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1959,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June (September-January; February-June)",
+      "languages": [
+        "Slovak",
+        "Hungarian"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Arts",
+          "fields": [
+            "Archaeology",
+            "Arts and Humanities",
+            "Cultural Studies",
+            "Education",
+            "History",
+            "Linguistics",
+            "Literature",
+            "Modern Languages",
+            "Native Language Education",
+            "Philosophy",
+            "Political Sciences",
+            "Religious Practice",
+            "Social Sciences",
+            "Teacher Trainers Education",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Faculty : Central European Studies",
+          "fields": [
+            "European Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Education",
+            "Foreign Languages Education",
+            "Music",
+            "Pedagogy",
+            "Primary Education",
+            "Special Education",
+            "Sports",
+            "Teacher Training",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Faculty : Natural Sciences",
+          "fields": [
+            "Biological and Life Sciences",
+            "Chemistry",
+            "Earth Sciences",
+            "Ecology",
+            "Education",
+            "Environmental Studies",
+            "Mathematics and Computer Science",
+            "Natural Sciences",
+            "Physics",
+            "Secondary Education"
+          ]
+        },
+        {
+          "name": "Faculty : Social Sciences and Health Care",
+          "fields": [
+            "Health Sciences",
+            "Nursing",
+            "Physical Therapy",
+            "Social Sciences",
+            "Social Work"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalár",
+          "fields": [
+            "Archaeology",
+            "Arts and Humanities",
+            "Biology",
+            "English",
+            "Natural Sciences",
+            "Physics",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Magister",
+          "fields": [
+            "Aesthetics",
+            "Civics",
+            "English",
+            "Ethics",
+            "Ethnology",
+            "French",
+            "German",
+            "History",
+            "Italian",
+            "Literature",
+            "Philosophy",
+            "Psychology",
+            "Russian",
+            "Slavic Languages",
+            "Spanish"
+          ]
+        },
+        {
+          "name": "Doktor",
+          "fields": [
+            "Aesthetics",
+            "Archaeology",
+            "Cultural Studies",
+            "English",
+            "Ethics",
+            "Ethnology",
+            "Literature",
+            "Philosophy",
+            "Political Sciences",
+            "Slavic Languages",
+            "Sociology",
+            "Translation and Interpretation"
+          ]
+        }
+      ],
+      "accreditation": "Accreditation Commission of the Government of the Slovak Republic.",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Libor Vozár"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Ľubica Ehrenholdová"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Martina Pavlíková"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1959 as Nitra Pedagogical Institute to train teachers for both Slovak and Hungarian schools. Later became Faculty of Education. Acquired present status 1992 and title 1996",
+      "periodicals": [
+        "Nový čas",
+        "Nový čas"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "21098",
+      "iau_id": "IAU-021098",
+      "name": "Danubius University",
+      "alt_name": "Vysoká škola Danubius (VŠD)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyRQLjNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-021098",
+      "address": {
+        "Street": "Richterova č. 1171",
+        "City": "Sládkovičovo",
+        "Post Code": "925 21",
+        "WWW": "https://www.vsdanubius.sk"
+      },
+      "website": "https://www.vsdanubius.sk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2005,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Slovak"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Administrative Law",
+            "Civil Law",
+            "Commercial Law",
+            "Constitutional Law",
+            "Criminal Law",
+            "Economics",
+            "English",
+            "European Union Law",
+            "Finance",
+            "Government",
+            "Human Rights",
+            "International Law",
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Public Policy and Public Administration",
+          "fields": [
+            "Economics",
+            "Information Technology",
+            "Management",
+            "Public Administration",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Faculty : Social Studies",
+          "fields": [
+            "History",
+            "International Relations and Diplomacy",
+            "Journalism",
+            "Social Sciences",
+            "Social Studies",
+            "Social Work"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalár",
+          "fields": [
+            "Law",
+            "Public Administration",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Magister",
+          "fields": [
+            "Law",
+            "Public Administration",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Doktor",
+          "fields": [
+            "Commercial Law"
+          ]
+        }
+      ],
+      "accreditation": "Accreditation Commission of the Government of the Slovak Republic",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Peter Plavčan"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Rastislav Funta"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2005 as Vysoká škola v Sládkovicove (University of Sládkovičovo). Acquired present title 2012",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "3921",
+      "iau_id": "IAU-003921",
+      "name": "DTI University",
+      "alt_name": "Vysoká škola DTI",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sU0RSLDBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003921",
+      "address": {
+        "Street": "Sládkovičova 533/20",
+        "City": "Dubnica nad Váhom",
+        "Post Code": "018 41",
+        "WWW": "http://www.dti.sk"
+      },
+      "website": "http://www.dti.sk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2006,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Slovak"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Didactics, Technology and Educational Technologies",
+          "fields": [
+            "Technology",
+            "Technology Education"
+          ]
+        },
+        {
+          "name": "Department/Division : Pedagogical and Psychological Sciences",
+          "fields": [
+            "Pedagogy",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Department/Division : Vocational Subject and Information Technologies",
+          "fields": [
+            "Economics",
+            "Electrical Engineering",
+            "Engineering",
+            "Information Technology",
+            "Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalár",
+          "fields": [
+            "Business Education",
+            "Management",
+            "Teacher Training",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Magister",
+          "fields": [
+            "Business Education",
+            "Economics",
+            "Technology",
+            "Technology Education"
+          ]
+        },
+        {
+          "name": "Doktor",
+          "fields": [
+            "Management",
+            "Pedagogy"
+          ]
+        }
+      ],
+      "accreditation": "Accreditation Commission of the Government of the Slovak Republic",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Tomáš Lengyelfalusy"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Miroslav Škoda"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2006 as Dubnica Institute of Technology in Dubnica nad Váhom. Acquired current title 2016.",
+      "periodicals": [
+        "Acta Technologica Dubnicae",
+        "Acta Technologica Dubnicae"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "27168",
+      "iau_id": "IAU-027168",
+      "name": "Ján Albrecht Academy of Music and Arts - Banská Štiavnica",
+      "alt_name": "Hudobná a umelecká akadémia Jána Albrechta - Banská Štiavnica (HUAJA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzxRLUNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-027168",
+      "address": {
+        "Street": "Botanická 354/2",
+        "City": "Banská Štiavnica",
+        "Post Code": "96901",
+        "WWW": "https://huaja.org"
+      },
+      "website": "https://huaja.org",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2011,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Slovak"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Music Performance and Theory",
+          "fields": [
+            "Music",
+            "Music Theory and Composition"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalár",
+          "fields": [
+            "Music Theory and Composition"
+          ]
+        },
+        {
+          "name": "Magister",
+          "fields": [
+            "Music Theory and Composition"
+          ]
+        },
+        {
+          "name": "Doktor",
+          "fields": [
+            "Music Theory and Composition"
+          ]
+        }
+      ],
+      "accreditation": "Accreditation Commission of the Government of the Slovak Republic",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Egon Krák"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2011",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20670",
+      "iau_id": "IAU-020670",
+      "name": "János Selye University in Komárno",
+      "alt_name": "Univerzita Jánosa Selyeho v Komárne",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BWLVNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020670",
+      "address": {
+        "Street": "Bratislavská cesta 3322",
+        "City": "Komárno",
+        "Post Code": "945 01",
+        "WWW": "https://www.ujs.sk"
+      },
+      "website": "https://www.ujs.sk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2003,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Slovak"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Economics",
+          "fields": [
+            "Economics"
+          ]
+        },
+        {
+          "name": "Faculty : Pedagogy",
+          "fields": [
+            "Education",
+            "Pedagogy"
+          ]
+        },
+        {
+          "name": "Faculty : Reformed Theology",
+          "fields": [
+            "Theology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalár",
+          "fields": [
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Magister",
+          "fields": [
+            "Economics",
+            "Management",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Doktor",
+          "fields": [
+            "Economics",
+            "Management"
+          ]
+        }
+      ],
+      "accreditation": "Accreditation Commission of the Government of the Slovak Republic",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "György Juhász"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "József Liszka"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Tibor Kmeť"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2003",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20674",
+      "iau_id": "IAU-020674",
+      "name": "Matej Bel University in Banská Bystrica",
+      "alt_name": "Univerzita Mateja Bela v Banskej Bystrici (UMB)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BWLVMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020674",
+      "address": {
+        "Street": "Národná 12",
+        "City": "Banská Bystrica",
+        "Post Code": "974 01",
+        "WWW": "https://www.umb.sk"
+      },
+      "website": "https://www.umb.sk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1992,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June (September-January; February-June)",
+      "languages": [
+        "Slovak",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Economics",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Business Computing",
+            "Commercial Law",
+            "Computer Science",
+            "Cultural Studies",
+            "Development Studies",
+            "Economic History",
+            "Economics",
+            "Engineering",
+            "Environmental Management",
+            "European Studies",
+            "Finance",
+            "Hotel Management",
+            "Human Resources",
+            "Insurance",
+            "International Economics",
+            "Management",
+            "Marketing",
+            "Mathematics",
+            "Public Administration",
+            "Regional Planning",
+            "Regional Studies",
+            "Sociology",
+            "Statistics",
+            "Tourism",
+            "Writing"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Art Education",
+            "Civics",
+            "Education",
+            "Educational Sciences",
+            "Ethics",
+            "Fine Arts",
+            "Foreign Languages Education",
+            "Humanities and Social Science Education",
+            "Mathematics Education",
+            "Music Education",
+            "Native Language Education",
+            "Pedagogy",
+            "Physical Education",
+            "Preschool Education",
+            "Primary Education",
+            "Psychology",
+            "Religious Education",
+            "Social Work",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Faculty : Humanities",
+          "fields": [
+            "American Studies",
+            "Cultural Studies",
+            "English Studies",
+            "Ethics",
+            "European Studies",
+            "Germanic Studies",
+            "History",
+            "Hungarian",
+            "Linguistics",
+            "Literature",
+            "Native Language",
+            "Philosophy",
+            "Physical Education",
+            "Slavic Languages",
+            "Sports"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Administrative Law",
+            "Civil Law",
+            "Commercial Law",
+            "Comparative Law",
+            "Constitutional Law",
+            "Criminal Law",
+            "Economics",
+            "European Union Law",
+            "History of Law",
+            "International Law",
+            "International Relations and Diplomacy",
+            "Labour Law",
+            "Law",
+            "Logic",
+            "Public Law",
+            "Social Welfare"
+          ]
+        },
+        {
+          "name": "Faculty : Natural Sciences",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Ecology",
+            "Environmental Management",
+            "Environmental Studies",
+            "Geography",
+            "Mathematics",
+            "Museum Studies",
+            "Natural Sciences",
+            "Physics",
+            "Science Education",
+            "Technology Education"
+          ]
+        },
+        {
+          "name": "Faculty : Political Science and International Relations",
+          "fields": [
+            "Anthropology",
+            "Comparative Politics",
+            "Geography (Human)",
+            "History",
+            "International Economics",
+            "International Relations and Diplomacy",
+            "Modern Languages",
+            "Political Sciences",
+            "Sociology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalár",
+          "fields": [
+            "Management"
+          ]
+        },
+        {
+          "name": "Magister",
+          "fields": [
+            "Banking",
+            "Finance",
+            "International Relations and Diplomacy",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Doktor",
+          "fields": [
+            "Business Administration",
+            "Economics",
+            "Ethics",
+            "History",
+            "International Relations and Diplomacy",
+            "Linguistics",
+            "Management",
+            "Mathematics",
+            "Music",
+            "Pedagogy",
+            "Philosophy",
+            "Physical Education",
+            "Political Sciences",
+            "Preschool Education",
+            "Primary Education",
+            "Slavic Languages",
+            "Statistics",
+            "Theology",
+            "Translation and Interpretation",
+            "Visual Arts"
+          ]
+        }
+      ],
+      "accreditation": "Accreditation Commission of the Government of the Slovak Republic.",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Vladimír Hiadlovský"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Katarína Chovancová"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1992 incorporating the Pedagogical Faculty and the School of Economics, reorganized as Higher Pedagogical School 1954, Pedagogical Faculty 1964, Branch of the Faculty of Commerce of the School of Economics in Bratislava 1973, Faculty of the Economics of Services and Tourism 1977",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "13323",
+      "iau_id": "IAU-013323",
+      "name": "Pan-European University",
+      "alt_name": "Paneurópska vysoká škola (PEVŠ)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyxTLEMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-013323",
+      "address": {
+        "Street": "Tomášikova 20",
+        "City": "Bratislava",
+        "Post Code": "820 09",
+        "WWW": "https://www.paneurouni.com"
+      },
+      "website": "https://www.paneurouni.com",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2004,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Slovak",
+        "Finnish"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Economics and Business",
+          "fields": [
+            "Business Administration",
+            "Economics",
+            "Management",
+            "Political Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Informatics",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Civil Law",
+            "European Union Law",
+            "International Law",
+            "Law",
+            "Private Law"
+          ]
+        },
+        {
+          "name": "Faculty : Mass Media",
+          "fields": [
+            "Mass Communication",
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Psychology",
+          "fields": [
+            "Psychology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalár",
+          "fields": [
+            "Computer Science",
+            "International Relations and Diplomacy"
+          ]
+        },
+        {
+          "name": "Magister",
+          "fields": [
+            "Business Administration",
+            "Computer Science",
+            "Economics",
+            "Law",
+            "Mass Communication",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Doktor",
+          "fields": [
+            "Law",
+            "Mass Communication",
+            "Psychology"
+          ]
+        }
+      ],
+      "accreditation": "Accreditation Commission of the Government of Slovak Republic.",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Juraj Stern"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Slavomír Rudenko"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2004 as Bratislavská vysoká škola Práva (Bratislava School of Law). Acquired present title 2010",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20677",
+      "iau_id": "IAU-020677",
+      "name": "Pavel Jozef Šafárik University in Košice",
+      "alt_name": "Univerzita Pavla Jozefa Šafárika v Košiciach (UPJŠ)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BWLVM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020677",
+      "address": {
+        "Street": "Šrobárova 2",
+        "City": "Košice",
+        "Post Code": "04180",
+        "WWW": "https://www.upjs.sk"
+      },
+      "website": "https://www.upjs.sk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1959,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to August (September-February; February-August)",
+      "languages": [
+        "Slovak",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Academy : Christian",
+          "fields": [
+            "Anthropology",
+            "Ethics"
+          ]
+        },
+        {
+          "name": "Centre : Information and Communication Technologies",
+          "fields": [
+            "Information Technology",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Arts",
+          "fields": [
+            "American Studies",
+            "Classical Languages",
+            "Communication Studies",
+            "Education",
+            "Educational Psychology",
+            "English Studies",
+            "Ethics",
+            "Germanic Studies",
+            "History",
+            "Philology",
+            "Philosophy",
+            "Psychology",
+            "Romance Languages",
+            "Slavic Languages",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Administrative Law",
+            "Canon Law",
+            "Civil Law",
+            "Commercial Law",
+            "Comparative Law",
+            "Constitutional Law",
+            "Criminal Law",
+            "European Union Law",
+            "Finance",
+            "Fiscal Law",
+            "Government",
+            "History of Law",
+            "Human Rights",
+            "International Law",
+            "Justice Administration",
+            "Labour Law",
+            "Law",
+            "Notary Studies",
+            "Taxation"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Anatomy",
+            "Biochemistry",
+            "Biomedicine",
+            "Biophysics",
+            "Clinical Psychology",
+            "Dentistry",
+            "Embryology and Reproduction Biology",
+            "Forensic Medicine and Dentistry",
+            "Histology",
+            "Medicine",
+            "Nursing",
+            "Obstetrics and Gynaecology",
+            "Pathology",
+            "Pharmacology",
+            "Pharmacy",
+            "Physiology",
+            "Public Health",
+            "Surgery"
+          ]
+        },
+        {
+          "name": "Faculty : Public Administration",
+          "fields": [
+            "Economics",
+            "Law",
+            "Political Sciences",
+            "Public Administration",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Faculty : Science",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Ecology",
+            "Geography",
+            "Mathematics",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Institute : Physical Education and Sports",
+          "fields": [
+            "Physical Education",
+            "Sports"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalár",
+          "fields": [
+            "Fine Arts",
+            "Law",
+            "Medicine",
+            "Natural Sciences",
+            "Public Administration",
+            "Sports"
+          ]
+        },
+        {
+          "name": "Doktor lekárstva/ Magister/ Inžinier",
+          "fields": [
+            "Dentistry",
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Magister",
+          "fields": [
+            "Fine Arts",
+            "Law",
+            "Natural Sciences",
+            "Nursing",
+            "Physical Therapy",
+            "Public Administration",
+            "Public Health"
+          ]
+        },
+        {
+          "name": "Doktor",
+          "fields": [
+            "Law",
+            "Medicine",
+            "Natural Sciences",
+            "Public Administration"
+          ]
+        }
+      ],
+      "accreditation": "Accreditation Commission of the Government of the Slovak Republic.",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Pavol Sovák"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1959, from the Faculty of Medicine in Košice (established in 1948 as part of Komenius University, Bratislava) and of Faculty of Arts in Prešov, replacing Universitas Cassoviensis founded 1657. Closed during World War I. Faculties in Prešov established as separate University 1997",
+      "periodicals": [
+        "Acta Juridica Cassoviensia Folia Facultatis Medicae Universitatis Safarikianae Cassoviensis",
+        "Acta Juridica Cassoviensia",
+        "Folia Facultatis Medicae",
+        "Universitatis Safarikianae Cassoviensis"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "21078",
+      "iau_id": "IAU-021078",
+      "name": "School of Economics and Management of Public Administration in Bratislava",
+      "alt_name": "Vysoká škola ekonómie a manažmentu verejnej správy v Bratislave (VŠEMVS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyRQLVNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-021078",
+      "address": {
+        "Street": "Furdekova 16",
+        "City": "Bratislava",
+        "Post Code": "851 04",
+        "WWW": "http://www.vsemvs.sk"
+      },
+      "website": "http://www.vsemvs.sk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2003,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Slovak"
+      ],
+      "faculties": [
+        {
+          "name": "Institute : Economics and Management",
+          "fields": [
+            "Business Administration",
+            "Economics",
+            "Finance",
+            "Management",
+            "Marketing",
+            "Modern Languages",
+            "Small Business"
+          ]
+        },
+        {
+          "name": "Institute : Public Administration",
+          "fields": [
+            "Computer Science",
+            "Law",
+            "Leisure Studies",
+            "Public Administration",
+            "Sports"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalár",
+          "fields": [
+            "Management",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "Magister",
+          "fields": [
+            "Management",
+            "Public Administration"
+          ]
+        }
+      ],
+      "accreditation": "Accreditation Commission of the Government of the Slovak Republic",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Viera Cibáková"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Ľuboš Cibák"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Michal FABUŠ Fabuš"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2003",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "15487",
+      "iau_id": "IAU-015487",
+      "name": "Slovak Medical University",
+      "alt_name": "Slovenská zdravotnícka univerzita v Bratislave (SZU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzRULiM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-015487",
+      "address": {
+        "Street": "Limbová 12",
+        "City": "Bratislava",
+        "Post Code": "883 03",
+        "WWW": "http://www.szu.sk"
+      },
+      "website": "http://www.szu.sk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1953,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Slovak"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Health Sciences",
+          "fields": [
+            "Health Sciences",
+            "Nursing",
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Acupuncture and Oriental Medicine",
+            "Anaesthesiology",
+            "Cardiology",
+            "Child Care and Development",
+            "Clinical Psychology",
+            "Dentistry",
+            "Dermatology",
+            "Diabetology",
+            "Embryology and Reproduction Biology",
+            "Endocrinology",
+            "Forensic Medicine and Dentistry",
+            "Gastroenterology",
+            "Genetics",
+            "Gerontology",
+            "Haematology",
+            "Health Administration",
+            "Hepatology",
+            "Immunology",
+            "Medicine",
+            "Nephrology",
+            "Neurology",
+            "Nutrition",
+            "Obstetrics and Gynaecology",
+            "Occupational Health",
+            "Oncology",
+            "Ophthalmology",
+            "Orthodontics",
+            "Orthopaedics",
+            "Otorhinolaryngology",
+            "Paediatrics",
+            "Pedagogy",
+            "Pharmacology",
+            "Pharmacy",
+            "Physical Therapy",
+            "Pneumology",
+            "Psychiatry and Mental Health",
+            "Radiology",
+            "Rehabilitation and Therapy",
+            "Rheumatology",
+            "Social and Preventive Medicine",
+            "Speech Therapy and Audiology",
+            "Surgery",
+            "Tropical Medicine",
+            "Urology",
+            "Venereology"
+          ]
+        },
+        {
+          "name": "Faculty : Nursing and Health Professional Studies",
+          "fields": [
+            "Community Health",
+            "Health Education",
+            "Laboratory Techniques",
+            "Midwifery",
+            "Nursing",
+            "Nutrition",
+            "Paediatrics",
+            "Pharmacy",
+            "Physical Therapy",
+            "Physiology",
+            "Radiology",
+            "Social Sciences",
+            "Social Work",
+            "Surgery"
+          ]
+        },
+        {
+          "name": "Faculty : Public Health",
+          "fields": [
+            "Behavioural Sciences",
+            "Epidemiology",
+            "Health Administration",
+            "Public Health",
+            "Social and Preventive Medicine"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalár",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Doktor lekárstva/ Magister/ Inžinier",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Magister",
+          "fields": []
+        },
+        {
+          "name": "Doktor",
+          "fields": []
+        }
+      ],
+      "accreditation": "Accreditation Commission of the Government of the Slovak Republic",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Peter Šimko"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Jaromir Pastorek"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1953, acquired present status and title 2002",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "15484",
+      "iau_id": "IAU-015484",
+      "name": "Slovak University of Agriculture in Nitra",
+      "alt_name": "Slovenská pol'nohospodárska univerzita v Nitre (SPU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzRULiMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-015484",
+      "address": {
+        "Street": "Tr. Andreja Hlinku 2",
+        "City": "Nitra",
+        "Post Code": "949 76",
+        "WWW": "https://www.uniag.sk"
+      },
+      "website": "https://www.uniag.sk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1941,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to September (September-January; February-September)",
+      "languages": [
+        "Slovak"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Distance Learning Education",
+          "fields": [
+            "Agronomy",
+            "Animal Husbandry",
+            "Biology",
+            "Botany",
+            "Crop Production",
+            "Environmental Studies",
+            "Food Science",
+            "Nutrition",
+            "Plant Pathology",
+            "Soil Science",
+            "Veterinary Science",
+            "Zoology"
+          ]
+        },
+        {
+          "name": "Faculty : Agrobiology and Food Resources",
+          "fields": [
+            "Agronomy",
+            "Animal Husbandry",
+            "Biology",
+            "Botany",
+            "Crop Production",
+            "Environmental Studies",
+            "Food Science",
+            "Nutrition",
+            "Plant Pathology",
+            "Soil Science",
+            "Veterinary Science",
+            "Zoology"
+          ]
+        },
+        {
+          "name": "Faculty : Biotechnology and Food Sciences",
+          "fields": [
+            "Biochemistry",
+            "Biology",
+            "Biotechnology",
+            "Food Science",
+            "Food Technology",
+            "Microbiology"
+          ]
+        },
+        {
+          "name": "Faculty : Economics and Management",
+          "fields": [
+            "Agricultural Management",
+            "Business Administration",
+            "Computer Science",
+            "Economics",
+            "Farm Management",
+            "Finance",
+            "Information Technology",
+            "Marketing",
+            "Mathematics",
+            "Modern Languages",
+            "Science Education",
+            "Social Sciences",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Agricultural Engineering",
+            "Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : European Studies and Regional Development",
+          "fields": [
+            "Development Studies",
+            "Ecology",
+            "Environmental Management",
+            "European Studies",
+            "Law",
+            "Public Administration",
+            "Regional Planning",
+            "Rural Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Horticulture and Landscape Engineering",
+          "fields": [
+            "Horticulture",
+            "Landscape Architecture"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalár",
+          "fields": [
+            "Agriculture"
+          ]
+        },
+        {
+          "name": "Doktor lekárstva/ Magister/ Inžinier",
+          "fields": [
+            "Engineering"
+          ]
+        },
+        {
+          "name": "Magister",
+          "fields": [
+            "Agricultural Business",
+            "Agricultural Economics",
+            "Agricultural Engineering",
+            "Agricultural Equipment",
+            "Agriculture",
+            "Animal Husbandry",
+            "Biology",
+            "Biotechnology",
+            "Botany",
+            "Ecology",
+            "Environmental Management",
+            "Environmental Studies",
+            "Food Technology",
+            "Genetics",
+            "Horticulture",
+            "Landscape Architecture",
+            "Nutrition",
+            "Parks and Recreation",
+            "Plant Pathology",
+            "Regional Studies",
+            "Rural Studies",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Doktor",
+          "fields": [
+            "Agricultural Business",
+            "Agricultural Economics",
+            "Agricultural Equipment",
+            "Agricultural Management",
+            "Agriculture",
+            "Animal Husbandry",
+            "Biotechnology",
+            "Environmental Management",
+            "Genetics",
+            "Horticulture",
+            "Landscape Architecture",
+            "Molecular Biology",
+            "Nutrition"
+          ]
+        }
+      ],
+      "accreditation": "Accreditation Commission of the Government of the Slovak Republic",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Klaudia Halászová"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Peter Bielik"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1941 as part of the Technical University of Bratislava, reorganized 1952 as University of Agriculture in Nitra, and acquired present status and title 1996",
+      "periodicals": [
+        "Acta fytotechnica Acta operativo-oeconomica Acta technologica agriculturae Acta zootechnica",
+        "Acta fytotechnica",
+        "Acta operativo-oeconomica",
+        "Acta technologica agriculturae",
+        "Acta zootechnica"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "15486",
+      "iau_id": "IAU-015486",
+      "name": "Slovak University of Technology in Bratislava",
+      "alt_name": "Slovenská technická univerzita v Bratislave (STU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzRULiM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-015486",
+      "address": {
+        "Street": "Vazovova 5",
+        "City": "Bratislava",
+        "Post Code": "812 43",
+        "WWW": "https://www.stuba.sk"
+      },
+      "website": "https://www.stuba.sk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1938,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June (September-January; February-June)",
+      "languages": [
+        "Slovak",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Architecture",
+          "fields": [
+            "Architectural and Environmental Design",
+            "Architectural Restoration",
+            "Architecture",
+            "Industrial Design",
+            "Interior Design",
+            "Landscape Architecture",
+            "Regional Planning",
+            "Structural Architecture",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "Faculty : Chemical and Food Technology",
+          "fields": [
+            "Analytical Chemistry",
+            "Biochemistry",
+            "Bioengineering",
+            "Biomedical Engineering",
+            "Biotechnology",
+            "Chemical Engineering",
+            "Chemistry",
+            "Electronics and Automation",
+            "Environmental Engineering",
+            "Food Science",
+            "Information Technology",
+            "Inorganic Chemistry",
+            "Management",
+            "Materials Engineering",
+            "Mathematics",
+            "Modern Languages",
+            "Nutrition",
+            "Organic Chemistry",
+            "Petroleum and Gas Engineering",
+            "Physical Chemistry",
+            "Physical Education",
+            "Polymer and Plastics Technology",
+            "Sports"
+          ]
+        },
+        {
+          "name": "Faculty : Civil Engineering",
+          "fields": [
+            "Architecture",
+            "Arts and Humanities",
+            "Building Technologies",
+            "Civil Engineering",
+            "Construction Engineering",
+            "Environmental Engineering",
+            "Hydraulic Engineering",
+            "Materials Engineering",
+            "Mathematics",
+            "Modern Languages",
+            "Physical Education",
+            "Physics",
+            "Sanitary Engineering",
+            "Structural Architecture",
+            "Surveying and Mapping",
+            "Transport Engineering",
+            "Water Management"
+          ]
+        },
+        {
+          "name": "Faculty : Electrical Engineering and Information Technology",
+          "fields": [
+            "Computer Engineering",
+            "Computer Science",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Electronics and Automation",
+            "Energy Engineering",
+            "Information Technology",
+            "Materials Engineering",
+            "Mathematics",
+            "Modern Languages",
+            "Nuclear Engineering",
+            "Physical Education",
+            "Physical Engineering",
+            "Power Engineering",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Informatics and Information Technology",
+          "fields": [
+            "Computer Networks",
+            "Computer Science",
+            "Information Technology",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Materials Science and Technology",
+          "fields": [
+            "Arts and Humanities",
+            "Computer Science",
+            "Electronics and Automation",
+            "Environmental Engineering",
+            "Industrial Engineering",
+            "Industrial Management",
+            "Materials Engineering",
+            "Mathematics",
+            "Production Engineering",
+            "Safety Engineering",
+            "Technology Education"
+          ]
+        },
+        {
+          "name": "Faculty : Mechanical Engineering",
+          "fields": [
+            "Arts and Humanities",
+            "Electronic Engineering",
+            "Electronics and Automation",
+            "Environmental Engineering",
+            "Hydraulic Engineering",
+            "Materials Engineering",
+            "Mechanical Engineering",
+            "Natural Sciences",
+            "Power Engineering",
+            "Safety Engineering",
+            "Social Sciences",
+            "Transport Engineering"
+          ]
+        },
+        {
+          "name": "Institute : Management",
+          "fields": [
+            "Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalár",
+          "fields": [
+            "Civil Engineering",
+            "Engineering"
+          ]
+        },
+        {
+          "name": "Doktor lekárstva/ Magister/ Inžinier",
+          "fields": [
+            "Architecture",
+            "Biotechnology",
+            "Building Technologies",
+            "Chemical Engineering",
+            "Computer Engineering",
+            "Computer Networks",
+            "Computer Science",
+            "Cosmetology",
+            "Design",
+            "Electronics and Automation",
+            "Engineering",
+            "Environmental Engineering",
+            "Food Technology",
+            "Industrial Engineering",
+            "Information Technology",
+            "Water Science"
+          ]
+        },
+        {
+          "name": "Doktor",
+          "fields": [
+            "Applied Chemistry",
+            "Applied Mathematics",
+            "Architecture",
+            "Biochemistry",
+            "Building Technologies",
+            "Chemical Engineering",
+            "Chemistry",
+            "Design",
+            "Economics",
+            "Electronic Engineering",
+            "Electronics and Automation",
+            "Information Technology",
+            "Landscape Architecture",
+            "Materials Engineering",
+            "Mathematics",
+            "Mechanics",
+            "Nutrition",
+            "Organic Chemistry",
+            "Physical Engineering",
+            "Power Engineering",
+            "Production Engineering",
+            "Robotics",
+            "Software Engineering",
+            "Surveying and Mapping",
+            "Telecommunications Engineering",
+            "Town Planning",
+            "Urban Studies",
+            "Water Science"
+          ]
+        }
+      ],
+      "accreditation": "Accreditation Commission of the Government of the Slovak Republic.",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Miroslav Fikar"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Monika Bakošová"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Ľubica Vitková"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1938 at Košice, moved to Martin and to Bratislava 1939. Acquired present status 1991",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "21101",
+      "iau_id": "IAU-021101",
+      "name": "St. Elisabeth University of Health Care and Social Work",
+      "alt_name": "Vysoká škola zdravotníctva a sociálnej práce Sv. Alžbety",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyRRLCMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-021101",
+      "address": {
+        "Street": "P.O. Box 104Nám.1.mája č. 1",
+        "City": "Bratislava",
+        "Post Code": "810 00",
+        "WWW": "https://www.vssvalzbety.sk"
+      },
+      "website": "https://www.vssvalzbety.sk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2003,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Slovak"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Department/Division : Missiology",
+          "fields": [
+            "Missionary Studies"
+          ]
+        },
+        {
+          "name": "Department/Division : Psychology",
+          "fields": [
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Department/Division : Social Work",
+          "fields": [
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Department/Division : Sociology",
+          "fields": [
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Department/Division : Tropical Health",
+          "fields": [
+            "Tropical Medicine"
+          ]
+        },
+        {
+          "name": "Faculty : Prenatal and Perinatal Psychology, Medicine and Social Sciences",
+          "fields": [
+            "Clinical Psychology",
+            "Dental Technology",
+            "Health Administration",
+            "Health Sciences",
+            "Laboratory Techniques",
+            "Nursing",
+            "Psychology",
+            "Social Sciences",
+            "Sociology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalár",
+          "fields": [
+            "Health Sciences",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Magister",
+          "fields": [
+            "Nursing",
+            "Public Health",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Doktor",
+          "fields": []
+        }
+      ],
+      "accreditation": "Accreditation Commission of the Government of the Slovak Republic",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Vladimír Krčméry"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Mariana Mrázová"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Alexandra Stanová"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2003",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "16238",
+      "iau_id": "IAU-016238",
+      "name": "Technical University in Zvolen",
+      "alt_name": "Technická univerzita vo Zvolene (TUZ)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhSLFNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016238",
+      "address": {
+        "Street": "Ul. T. G. Masaryka 24",
+        "City": "Zvolen",
+        "Post Code": "960 01",
+        "WWW": "https://www.tuzvo.sk"
+      },
+      "website": "https://www.tuzvo.sk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1770,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to August (September-February; February-August)",
+      "languages": [
+        "Slovak"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Ecology and Environmental Sciences",
+          "fields": [
+            "Animal Husbandry",
+            "Biochemistry",
+            "Biological and Life Sciences",
+            "Biotechnology",
+            "Botany",
+            "Ecology",
+            "Environmental Engineering",
+            "Environmental Management",
+            "Environmental Studies",
+            "Fishery",
+            "Geochemistry",
+            "Geography",
+            "Inorganic Chemistry",
+            "Landscape Architecture",
+            "Microbiology",
+            "Molecular Biology",
+            "Natural Resources",
+            "Organic Chemistry",
+            "Plant Pathology",
+            "Soil Conservation",
+            "Soil Management",
+            "Soil Science",
+            "Waste Management",
+            "Zoology"
+          ]
+        },
+        {
+          "name": "Faculty : Environmental and Manufacturing Technology",
+          "fields": [
+            "Electronic Engineering",
+            "Environmental Engineering",
+            "Industrial Design",
+            "Production Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Forestry",
+          "fields": [
+            "Agricultural Management",
+            "Botany",
+            "Ecology",
+            "Environmental Studies",
+            "Farm Management",
+            "Forest Economics",
+            "Forest Management",
+            "Forest Products",
+            "Forestry",
+            "Landscape Architecture",
+            "Surveying and Mapping",
+            "Zoology"
+          ]
+        },
+        {
+          "name": "Faculty : Wood Sciences and Technology",
+          "fields": [
+            "Engineering Management",
+            "Furniture Design",
+            "Industrial Engineering",
+            "Interior Design",
+            "Materials Engineering",
+            "Production Engineering",
+            "Wood Technology"
+          ]
+        },
+        {
+          "name": "Institute : Foreign Languages",
+          "fields": [
+            "Modern Languages"
+          ]
+        },
+        {
+          "name": "Institute : Physical Education and Sport",
+          "fields": [
+            "Physical Education",
+            "Sports"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalár",
+          "fields": [
+            "Agricultural Economics",
+            "Agricultural Management",
+            "Agriculture",
+            "Economics",
+            "Fine Arts",
+            "Forestry",
+            "Industrial Engineering",
+            "Management",
+            "Safety Engineering",
+            "Wood Technology"
+          ]
+        },
+        {
+          "name": "Doktor lekárstva/ Magister/ Inžinier",
+          "fields": [
+            "Agricultural Economics",
+            "Agricultural Management",
+            "Agriculture",
+            "Ecology",
+            "Environmental Studies",
+            "Forestry"
+          ]
+        },
+        {
+          "name": "Magister",
+          "fields": [
+            "Agricultural Economics",
+            "Agricultural Management",
+            "Agriculture",
+            "Ecology",
+            "Environmental Studies",
+            "Forestry"
+          ]
+        },
+        {
+          "name": "Doktor",
+          "fields": [
+            "Economics",
+            "Farm Management",
+            "Forest Products",
+            "Forestry",
+            "Furniture Design",
+            "Management"
+          ]
+        }
+      ],
+      "accreditation": "Accreditation Commission of the Government of the Slovak Republic",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Rudolf Kropil"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Andrej Jankech"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Branislav Olah"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1770 as Academy of Mining and Forestry in Banska Stiavnica, relocated in Zwolen 1846, reorganized in 1952 as University of Forestry and Wood Technology (VSLD) in Zvolen, and acquired present status and title in 1991",
+      "periodicals": [
+        "Acta Facultatis Forestalis Zvolen Acta Facultatis Xylologiae",
+        "Acta Facultatis Forestalis Zvolen",
+        "Acta Facultatis Xylologiae"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "16236",
+      "iau_id": "IAU-016236",
+      "name": "Technical University of Košice",
+      "alt_name": "Technická univerzita v Košiciach (TUK)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhSLFM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016236",
+      "address": {
+        "Street": "Letná 9",
+        "City": "Košice",
+        "Post Code": "042 00",
+        "WWW": "http://www.tuke.sk"
+      },
+      "website": "http://www.tuke.sk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1952,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to August",
+      "languages": [
+        "Slovak",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Information and Telecommunication Technologies",
+          "fields": [
+            "Information Technology",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Department/Division : Engineering Education",
+          "fields": [
+            "Educational Technology",
+            "Engineering",
+            "Technology Education"
+          ]
+        },
+        {
+          "name": "Department/Division : Languages",
+          "fields": [
+            "European Languages",
+            "Foreign Languages Education",
+            "Modern Languages"
+          ]
+        },
+        {
+          "name": "Department/Division : Physical Education",
+          "fields": [
+            "Physical Education",
+            "Sports"
+          ]
+        },
+        {
+          "name": "Department/Division : Social Sciences",
+          "fields": [
+            "Ethics",
+            "Psychology",
+            "Social Sciences",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Faculty : Aeronautics",
+          "fields": [
+            "Aeronautical and Aerospace Engineering",
+            "Air Transport",
+            "Electronic Engineering",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Faculty : Arts",
+          "fields": [
+            "Architecture",
+            "Art History",
+            "Design",
+            "Fine Arts",
+            "Media Studies",
+            "Multimedia"
+          ]
+        },
+        {
+          "name": "Faculty : Civil Engineering",
+          "fields": [
+            "Building Technologies",
+            "Civil Engineering",
+            "Construction Engineering",
+            "Environmental Engineering",
+            "Geological Engineering",
+            "Materials Engineering",
+            "Structural Architecture"
+          ]
+        },
+        {
+          "name": "Faculty : Economics",
+          "fields": [
+            "Applied Mathematics",
+            "Banking",
+            "Business Computing",
+            "Economics",
+            "Finance",
+            "Management",
+            "Marketing",
+            "Regional Planning"
+          ]
+        },
+        {
+          "name": "Faculty : Electrical Engineering and Informatics",
+          "fields": [
+            "Artificial Intelligence",
+            "Computer Science",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Electronics and Automation",
+            "Multimedia",
+            "Physics",
+            "Power Engineering",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Manufacturing Technologies",
+          "fields": [
+            "Arts and Humanities",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Production Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Mechanical Engineering",
+          "fields": [
+            "Applied Mathematics",
+            "Biomedical Engineering",
+            "Economics",
+            "Electronic Engineering",
+            "Electronics and Automation",
+            "Engineering Management",
+            "Environmental Engineering",
+            "Management",
+            "Mechanical Engineering",
+            "Mechanics",
+            "Power Engineering",
+            "Robotics",
+            "Safety Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Metallurgy",
+          "fields": [
+            "Ceramics and Glass Technology",
+            "Chemistry",
+            "Materials Engineering",
+            "Metal Techniques",
+            "Metallurgical Engineering",
+            "Petroleum and Gas Engineering",
+            "Thermal Engineering",
+            "Waste Management"
+          ]
+        },
+        {
+          "name": "Faculty : Mining, Ecology, Process Control and Geotechnology",
+          "fields": [
+            "Applied Mathematics",
+            "Earth Sciences",
+            "Ecology",
+            "Engineering Management",
+            "Environmental Management",
+            "Geology",
+            "Mining Engineering",
+            "Tourism",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Institute : Computer Technology",
+          "fields": [
+            "Computer Engineering"
+          ]
+        },
+        {
+          "name": "Institute : Lifelong Education",
+          "fields": [
+            "Development Studies",
+            "Regional Planning",
+            "Town Planning",
+            "Urban Studies"
+          ]
+        },
+        {
+          "name": "Institute : Regional and Community Development",
+          "fields": [
+            "Development Studies",
+            "Regional Planning",
+            "Town Planning",
+            "Urban Studies"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalár",
+          "fields": [
+            "Engineering"
+          ]
+        },
+        {
+          "name": "Doktor lekárstva/ Magister/ Inžinier",
+          "fields": [
+            "Analytical Chemistry",
+            "Ceramic Art",
+            "Energy Engineering",
+            "Materials Engineering",
+            "Metallurgical Engineering",
+            "Production Engineering"
+          ]
+        },
+        {
+          "name": "Magister",
+          "fields": [
+            "Analytical Chemistry",
+            "Ceramic Art",
+            "Energy Engineering",
+            "Materials Engineering",
+            "Metallurgical Engineering",
+            "Production Engineering"
+          ]
+        },
+        {
+          "name": "Doktor",
+          "fields": [
+            "Analytical Chemistry",
+            "Ceramic Art",
+            "Energy Engineering",
+            "Materials Engineering",
+            "Metallurgical Engineering",
+            "Production Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Accreditation Commission of the Government of the Slovak Republic",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Stanislav Kmeť"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Marcel Behún"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Radovan Hudák"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1952. Acquired present status and title 1991",
+      "periodicals": [
+        "Acta Avionica Acta Electrotechnica et Informatica Acta Mechanica Slovaca Acta Metallurgica Slovaca Acta montanistica Slovaca Halo TU Transactions of Universities of Košice",
+        "Acta Avionica",
+        "Acta Electrotechnica et Informatica",
+        "Acta Mechanica Slovaca",
+        "Acta Metallurgica Slovaca",
+        "Acta montanistica Slovaca",
+        "Halo TU",
+        "Transactions of Universities of Košice"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "10186",
+      "iau_id": "IAU-010186",
+      "name": "The Catholic University in Ružomberok",
+      "alt_name": "Katolícka univerzita v Ružomberku – Universitas Catholica in Ružomberok (KU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM2BRLiM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-010186",
+      "address": {
+        "Street": "Hrabovská cesta 1A",
+        "City": "Ružomberok",
+        "Post Code": "034 01",
+        "WWW": "http://www.ku.sk"
+      },
+      "website": "http://www.ku.sk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2000,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Slovak"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Information and Communication Technologies",
+          "fields": [
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Computer Education",
+            "Computer Science",
+            "English",
+            "Geography",
+            "German",
+            "History",
+            "Management",
+            "Mathematics Education",
+            "Music",
+            "Music Education",
+            "Musical Instruments",
+            "Native Language",
+            "Pedagogy",
+            "Physics",
+            "Preschool Education",
+            "Primary Education",
+            "Psychology",
+            "Religious Education",
+            "Religious Music",
+            "Science Education",
+            "Singing",
+            "Social Studies",
+            "Social Work",
+            "Special Education",
+            "Teacher Training",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences",
+          "fields": [
+            "Biological and Life Sciences",
+            "Ethics",
+            "Health Administration",
+            "Medicine",
+            "Midwifery",
+            "Nursing",
+            "Physical Therapy",
+            "Protective Services",
+            "Public Health",
+            "Radiology"
+          ]
+        },
+        {
+          "name": "Faculty : Philisophy",
+          "fields": [
+            "Education",
+            "English",
+            "German",
+            "Germanic Studies",
+            "History",
+            "Journalism",
+            "Native Language",
+            "Philosophy",
+            "Political Sciences",
+            "Psychology",
+            "Religious Studies",
+            "Slavic Languages",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Faculty : Theology",
+          "fields": [
+            "Bible",
+            "Canon Law",
+            "Catholic Theology",
+            "Christian Religious Studies",
+            "Civics",
+            "Ethics",
+            "Family Studies",
+            "History of Religion",
+            "Philosophy",
+            "Religious Education",
+            "Social Work",
+            "Theology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalár",
+          "fields": [
+            "Art Education",
+            "Biology",
+            "Computer Science",
+            "Italian",
+            "Mathematics",
+            "Music Education",
+            "Physical Education",
+            "Religious Studies",
+            "Russian"
+          ]
+        },
+        {
+          "name": "Magister",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "English",
+            "Geography",
+            "History",
+            "Journalism",
+            "Mathematics",
+            "Music Education",
+            "Nursing",
+            "Philosophy",
+            "Religious Education",
+            "Social Work",
+            "Special Education"
+          ]
+        },
+        {
+          "name": "Doktor",
+          "fields": [
+            "Christian Religious Studies",
+            "History",
+            "Music Education",
+            "Nursing",
+            "Philosophy",
+            "Religious Education"
+          ]
+        }
+      ],
+      "accreditation": "Accreditation Commission of the Government of Slovak Republic.",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Jaroslav Demko"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Ján Kamoďa"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Imrich Andrási"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2000 by transformation of St Andrew's Catechetical and Pedagogical Faculty Ružomberok by the Bishop's Conference of Slovakia and the National Council of Slovak Republic. Acquired present status 2002",
+      "periodicals": [
+        "Disputationes Scientificae Universitatis Catholicae in Ružomberok",
+        "Disputationes Scientificae Universitatis Catholicae in Ružomberok"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "15901",
+      "iau_id": "IAU-015901",
+      "name": "University of Central Europe in Skalica",
+      "alt_name": "Stredoeurópska vysoká škola v Skalici (SEVS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzRZLCMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-015901",
+      "address": {
+        "Street": "KráĽovská 386/11",
+        "City": "Skalica",
+        "Post Code": "909 01",
+        "WWW": "http://www.sevs.sk"
+      },
+      "website": "http://www.sevs.sk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2005,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Slovak"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Environmental Studies",
+          "fields": [
+            "Commercial Law",
+            "Communication Studies",
+            "Cultural Studies",
+            "Ecology",
+            "Economics",
+            "Environmental Management",
+            "Environmental Studies",
+            "European Studies",
+            "Finance",
+            "Geography (Human)",
+            "Labour Law",
+            "Management",
+            "Marketing",
+            "Natural Resources",
+            "Philosophy",
+            "Psychology",
+            "Public Administration",
+            "Public Relations",
+            "Regional Planning",
+            "Social Policy",
+            "Sociology",
+            "Taxation",
+            "Tourism",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "Course/Programme : International Relations",
+          "fields": [
+            "Civil Law",
+            "Civil Security",
+            "Commercial Law",
+            "Computer Science",
+            "Economics",
+            "European Union Law",
+            "Geography (Human)",
+            "International Law",
+            "International Relations and Diplomacy",
+            "International Studies",
+            "Law",
+            "Management",
+            "Marketing",
+            "Modern Languages",
+            "Political Sciences",
+            "Public Law",
+            "Social Policy",
+            "Statistics"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalár",
+          "fields": [
+            "Environmental Management",
+            "Environmental Studies",
+            "International Relations and Diplomacy"
+          ]
+        },
+        {
+          "name": "Magister",
+          "fields": [
+            "Environmental Management",
+            "International Relations and Diplomacy"
+          ]
+        },
+        {
+          "name": "Doktor",
+          "fields": [
+            "Environmental Management"
+          ]
+        }
+      ],
+      "accreditation": "Accreditation Commission of the Government of the Slovak Republic",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Jozef Minďaš"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Jozef Vlcej"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2005",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "4447",
+      "iau_id": "IAU-004447",
+      "name": "University of Economics in Bratislava",
+      "alt_name": "Ekonomická univerzita v Bratislave (EUBA)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIzBULVBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004447",
+      "address": {
+        "Street": "Dolnozemská cesta 1",
+        "City": "Bratislava",
+        "Post Code": "852 35",
+        "WWW": "https://euba.sk"
+      },
+      "website": "https://euba.sk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1940,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June (September-January; February-June)",
+      "languages": [
+        "Slovak",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Applied Languages",
+          "fields": [
+            "Communication Studies",
+            "English",
+            "German",
+            "Linguistics",
+            "Modern Languages",
+            "Romance Languages",
+            "Slavic Languages",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Faculty : Business Computing",
+          "fields": [
+            "Accountancy",
+            "Actuarial Science",
+            "Business Computing",
+            "Computer Science",
+            "Econometrics",
+            "Economics",
+            "Finance",
+            "Information Technology",
+            "Mathematics",
+            "Mathematics and Computer Science",
+            "Operations Research",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Faculty : Business Economics",
+          "fields": [
+            "Business Administration",
+            "Business Computing",
+            "Economics",
+            "Finance",
+            "Management",
+            "Marketing",
+            "Mathematics",
+            "Modern Languages"
+          ]
+        },
+        {
+          "name": "Faculty : Business Management",
+          "fields": [
+            "Business Administration",
+            "Economics",
+            "Finance",
+            "Industrial Management",
+            "Information Management",
+            "Management",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Faculty : Commerce",
+          "fields": [
+            "Business Administration",
+            "Business and Commerce",
+            "Business Computing",
+            "Commercial Law",
+            "Information Technology",
+            "International Business",
+            "International Economics",
+            "International Relations and Diplomacy",
+            "Management",
+            "Marketing",
+            "Safety Engineering",
+            "Service Trades",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : International Relations",
+          "fields": [
+            "International Economics",
+            "International Law",
+            "International Relations and Diplomacy",
+            "Political Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : National Economy",
+          "fields": [
+            "Banking",
+            "Computer Science",
+            "Development Studies",
+            "Economic and Finance Policy",
+            "Economics",
+            "Finance",
+            "History",
+            "Human Resources",
+            "Insurance",
+            "Pedagogy",
+            "Public Administration",
+            "Taxation"
+          ]
+        },
+        {
+          "name": "Institute : Economics and Management",
+          "fields": [
+            "Economics",
+            "Management"
+          ]
+        },
+        {
+          "name": "Institute : International Programmes",
+          "fields": [
+            "American Studies",
+            "Eastern European Studies",
+            "Latin American Studies"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalár",
+          "fields": [
+            "Economics",
+            "Management"
+          ]
+        },
+        {
+          "name": "Doktor lekárstva/ Magister/ Inžinier",
+          "fields": [
+            "Economics",
+            "Management"
+          ]
+        },
+        {
+          "name": "Magister",
+          "fields": [
+            "International Business",
+            "Management",
+            "Marketing",
+            "Modern Languages",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Doktor",
+          "fields": [
+            "Economics",
+            "Management"
+          ]
+        }
+      ],
+      "accreditation": "Accreditation Commission of the Government of the Slovak Republic.",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ferdinand Daňo"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Mária Dziurová"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Boris Mattoš"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1940 as private Institute of Commerce, acquired present status and denomination in 1992",
+      "periodicals": [
+        "EKONOMICKÉ ROZHĽADY (Economic Review)",
+        "EKONOMICKÉ ROZHĽADY (Economic Review)"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "13727",
+      "iau_id": "IAU-013727",
+      "name": "University of Prešov in Prešov",
+      "alt_name": "Prešovská univerzita v Prešove (PU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyxXLEM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-013727",
+      "address": {
+        "Street": "Ul. 17. novembra 15",
+        "City": "Prešov",
+        "Post Code": "080 01",
+        "WWW": "https://www.unipo.sk"
+      },
+      "website": "https://www.unipo.sk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1997,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June (September-February; February-June)",
+      "languages": [
+        "Slovak"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Arts",
+          "fields": [
+            "Aesthetics",
+            "American Studies",
+            "Art History",
+            "Arts and Humanities",
+            "Civics",
+            "Clinical Psychology",
+            "Communication Studies",
+            "Contemporary History",
+            "Cultural Studies",
+            "Education",
+            "Educational Psychology",
+            "English",
+            "English Studies",
+            "Ethics",
+            "French",
+            "Germanic Studies",
+            "History",
+            "Hotel Management",
+            "Industrial and Organizational Psychology",
+            "Information Sciences",
+            "Library Science",
+            "Linguistics",
+            "Media Studies",
+            "Medieval Studies",
+            "Modern Languages",
+            "Philology",
+            "Philosophy",
+            "Political Sciences",
+            "Prehistory",
+            "Psychology",
+            "Romance Languages",
+            "Russian",
+            "Slavic Languages",
+            "Social Work",
+            "Spanish",
+            "Tourism",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Art Education",
+            "Communication Studies",
+            "Cultural Studies",
+            "Education",
+            "Education of the Handicapped",
+            "Educational Psychology",
+            "Literature",
+            "Mathematics Education",
+            "Modern Languages",
+            "Music Education",
+            "Native Language Education",
+            "Natural Sciences",
+            "Pedagogy",
+            "Physical Education",
+            "Preschool Education",
+            "Primary Education",
+            "Science Education",
+            "Special Education",
+            "Technology",
+            "Technology Education"
+          ]
+        },
+        {
+          "name": "Faculty : Greek Catholic Theology",
+          "fields": [
+            "Bible",
+            "Canon Law",
+            "Catholic Theology",
+            "Christian Religious Studies",
+            "Philosophy",
+            "Religious Education",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences",
+          "fields": [
+            "Dental Hygiene",
+            "Midwifery",
+            "Nursing",
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "Faculty : Humanities and Natural Sciences",
+          "fields": [
+            "Biology",
+            "Civics",
+            "Development Studies",
+            "Ecology",
+            "Ethics",
+            "Fine Arts",
+            "Geography",
+            "Geography (Human)",
+            "Humanities and Social Science Education",
+            "Mathematics",
+            "Modern Languages",
+            "Music",
+            "Native Language",
+            "Natural Resources",
+            "Pedagogy",
+            "Physics",
+            "Psychology",
+            "Regional Studies",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Management",
+          "fields": [
+            "Business Computing",
+            "Economics",
+            "Environmental Management",
+            "Finance",
+            "Hotel Management",
+            "Industrial and Organizational Psychology",
+            "International Business",
+            "Law",
+            "Management",
+            "Marketing",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Orthodox Theology",
+          "fields": [
+            "Ancient Civilizations",
+            "Ancient Religions",
+            "Bible",
+            "Greek (Classical)",
+            "Orthodox Theology",
+            "Religious Education",
+            "Religious Practice",
+            "Social Work",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Faculty : Sports",
+          "fields": [
+            "Physical Education",
+            "Sports"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalár",
+          "fields": [
+            "Education",
+            "Religious Studies"
+          ]
+        },
+        {
+          "name": "Magister",
+          "fields": [
+            "Education",
+            "Geography",
+            "Management",
+            "Physical Education",
+            "Religious Studies",
+            "Sports"
+          ]
+        },
+        {
+          "name": "Doktor",
+          "fields": [
+            "Christian Religious Studies",
+            "Education",
+            "Geography",
+            "Management",
+            "Sports"
+          ]
+        }
+      ],
+      "accreditation": "Accreditation Commission of the Government of the Slovak Republic",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Peter Kónya"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Kvetoslava Matlovičová"
+        }
+      ],
+      "statistics": {
+        "Students Part Time:": "3011"
+      },
+      "history": "Founded 1997, former branch of 'Pavol Jozef Šafárik' University in Košice",
+      "periodicals": [
+        "Prešovská Univerzita",
+        "Prešovská Univerzita"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "21073",
+      "iau_id": "IAU-021073",
+      "name": "University of Security Management in Košice",
+      "alt_name": "Vysoká škola bezpečnostného manažérstva v Košiciach",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyRQLVMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-021073",
+      "address": {
+        "Street": "Košťova 1",
+        "City": "Košice",
+        "Post Code": "040 01",
+        "WWW": "https://www.vsbm.sk"
+      },
+      "website": "https://www.vsbm.sk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2006,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Slovak"
+      ],
+      "faculties": [
+        {
+          "name": "Institute : Civil Security",
+          "fields": [
+            "Civil Security"
+          ]
+        },
+        {
+          "name": "Institute : Economic and Logistic Security",
+          "fields": [
+            "Economics",
+            "Protective Services",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Institute : Environmental Security",
+          "fields": [
+            "Environmental Studies",
+            "Protective Services"
+          ]
+        },
+        {
+          "name": "Institute : Humanitarian and Technological Sciences",
+          "fields": [
+            "Arts and Humanities",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Institute : Law and Crime Prevention",
+          "fields": [
+            "Criminal Law",
+            "Criminology",
+            "Law"
+          ]
+        },
+        {
+          "name": "Institute : Technical and Technological Security",
+          "fields": [
+            "Protective Services",
+            "Technology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalár",
+          "fields": [
+            "Economics",
+            "Law",
+            "Management"
+          ]
+        },
+        {
+          "name": "Doktor lekárstva/ Magister/ Inžinier",
+          "fields": [
+            "Economics",
+            "Law",
+            "Management"
+          ]
+        }
+      ],
+      "accreditation": "Accreditation Commission of the Government of the Slovak Republic",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Marián Mesároš"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Gabriel Hrubý"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2006",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20678",
+      "iau_id": "IAU-020678",
+      "name": "University of Ss. Cyril and Methodius in Trnava",
+      "alt_name": "Univerzita sv. Cyrila a Metoda v Trnave (UCM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BWLVNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020678",
+      "address": {
+        "Street": "Námestie J. Herdu 2",
+        "City": "Trnava",
+        "Post Code": "917 01",
+        "WWW": "https://www.ucm.sk"
+      },
+      "website": "https://www.ucm.sk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1997,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to August (September-January; February-August)",
+      "languages": [
+        "Slovak",
+        "German",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Arts",
+          "fields": [
+            "Arts and Humanities",
+            "English",
+            "Ethnology",
+            "German",
+            "History",
+            "Literature",
+            "Modern Languages",
+            "Pedagogy",
+            "Philology",
+            "Philosophy",
+            "Psychology",
+            "Romance Languages",
+            "Slavic Languages",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Faculty : Mass Media Communication",
+          "fields": [
+            "Marketing",
+            "Mass Communication",
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Natural Sciences",
+          "fields": [
+            "Applied Mathematics",
+            "Chemistry",
+            "Mathematics and Computer Science",
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Social Sciences",
+          "fields": [
+            "Political Sciences",
+            "Public Administration",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Institute : Physiotherapy,Balneology and Medical Rehabilitation",
+          "fields": [
+            "Physical Therapy",
+            "Rehabilitation and Therapy"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalár",
+          "fields": [
+            "Chemistry",
+            "Ethnology",
+            "History",
+            "Modern Languages",
+            "Philosophy",
+            "Psychology",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Magister",
+          "fields": [
+            "Chemistry",
+            "Ethnology",
+            "History",
+            "Modern Languages",
+            "Philosophy",
+            "Psychology",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Doktor",
+          "fields": [
+            "English",
+            "Ethnology",
+            "German",
+            "Philosophy",
+            "Psychology"
+          ]
+        }
+      ],
+      "accreditation": "Accreditation Commission of the Government of the Slovak Republic.",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Roman Boča"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1997",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "16859",
+      "iau_id": "IAU-016859",
+      "name": "University of Trnava in Trnave",
+      "alt_name": "Trnavská univerzita v Trnave (TU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhYLTNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016859",
+      "address": {
+        "Street": "Hornopotočná 23",
+        "City": "Trnava",
+        "Post Code": "918 43",
+        "WWW": "https://www.truni.sk"
+      },
+      "website": "https://www.truni.sk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1992,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June (September-December; February-June)",
+      "languages": [
+        "Slovak"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Arts",
+          "fields": [
+            "Archaeology",
+            "Art History",
+            "Arts and Humanities",
+            "Classical Languages",
+            "Ethics",
+            "History",
+            "Philosophy",
+            "Political Sciences",
+            "Psychology",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Arts and Humanities",
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Education",
+            "English",
+            "Ethics",
+            "Foreign Languages Education",
+            "German",
+            "Mathematics",
+            "Mathematics Education",
+            "Modern Languages",
+            "Native Language",
+            "Native Language Education",
+            "Pedagogy",
+            "Physics",
+            "Preschool Education",
+            "Primary Education",
+            "Psychology",
+            "Science Education"
+          ]
+        },
+        {
+          "name": "Faculty : Health Care and Social Work",
+          "fields": [
+            "Epidemiology",
+            "Health Administration",
+            "Health Sciences",
+            "Hygiene",
+            "Laboratory Techniques",
+            "Nursing",
+            "Physical Therapy",
+            "Public Health",
+            "Social Welfare",
+            "Social Work",
+            "Tropical Medicine"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Civil Law",
+            "European Union Law",
+            "International Law",
+            "Law",
+            "Private Law",
+            "Public Law"
+          ]
+        },
+        {
+          "name": "Faculty : Theology",
+          "fields": [
+            "Bible",
+            "Canon Law",
+            "Catholic Theology",
+            "Greek (Classical)",
+            "Hebrew",
+            "Latin",
+            "Pastoral Studies",
+            "Philosophy",
+            "Social Work",
+            "Theology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalár",
+          "fields": [
+            "Education",
+            "Law",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Magister",
+          "fields": [
+            "Christian Religious Studies",
+            "Family Studies",
+            "Laboratory Techniques",
+            "Law",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Doktor",
+          "fields": [
+            "Christian Religious Studies",
+            "History",
+            "Laboratory Techniques",
+            "Law",
+            "Philosophy",
+            "Psychology",
+            "Theology"
+          ]
+        }
+      ],
+      "accreditation": "Accreditation Commission of the Government of the Slovak Republic.",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "René Bílik"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Zuzana Nevolna"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Milos Lichner"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1992, acquired present status and title 1997",
+      "periodicals": [
+        "Universitas Tyrnaviensis Quarterly",
+        "Universitas Tyrnaviensis Quarterly"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20680",
+      "iau_id": "IAU-020680",
+      "name": "University of Veterinary Medicine and Pharmacy in Košice",
+      "alt_name": "Univerzita veterinárskeho lekárstva a farmácie v Košiciach",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BWLiNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020680",
+      "address": {
+        "Street": "Komenského 73",
+        "City": "Košice",
+        "Post Code": "04181",
+        "WWW": "http://www.uvlf.sk"
+      },
+      "website": "http://www.uvlf.sk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1949,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June",
+      "languages": [
+        "Slovak",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Animal Nutrition, Dietetics and Animal Husbandry",
+          "fields": [
+            "Animal Husbandry",
+            "Dietetics",
+            "Nutrition",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Department/Division : Chemistry, Biology and Biochemistry",
+          "fields": [
+            "Biochemistry",
+            "Biology",
+            "Chemistry",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Department/Division : Ecology",
+          "fields": [
+            "Ecology",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Department/Division : Food Hygiene and Food Technology",
+          "fields": [
+            "Food Science",
+            "Food Technology"
+          ]
+        },
+        {
+          "name": "Department/Division : Infectious Diseases and Parasitology",
+          "fields": [
+            "Epidemiology",
+            "Parasitology",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Department/Division : Normal Anatomy, Histology and Physiology",
+          "fields": [
+            "Anatomy",
+            "Histology",
+            "Physiology",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Department/Division : Obstetrics, Gynaecology and Andrology",
+          "fields": [
+            "Obstetrics and Gynaecology"
+          ]
+        },
+        {
+          "name": "Department/Division : Pathological Anatomy, Physiology and Genetics",
+          "fields": [
+            "Anatomy",
+            "Genetics",
+            "Physiology"
+          ]
+        },
+        {
+          "name": "Department/Division : Pharmacy, Pharmacology and Toxicology",
+          "fields": [
+            "Pharmacology",
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Department/Division : Surgery, Orthopaedics and Radiology",
+          "fields": [
+            "Orthopaedics",
+            "Radiology",
+            "Surgery"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalár",
+          "fields": [
+            "Agriculture",
+            "Biology",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Doktor lekárstva/ Magister/ Inžinier",
+          "fields": [
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Doktor",
+          "fields": [
+            "Biochemistry",
+            "Ecology",
+            "Embryology and Reproduction Biology",
+            "Epidemiology",
+            "Food Science",
+            "Microbiology",
+            "Pharmacology",
+            "Physiology",
+            "Surgery",
+            "Toxicology",
+            "Veterinary Science"
+          ]
+        }
+      ],
+      "accreditation": "Accreditation Commission of the Government of the Slovak Republic; Ministry of Education.",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Jana Mojžišová"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Tomko Martin"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Zita Faixova"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1949, became Veterinary Faculty, branch of the newly established Agricultural University, Nitra 1952. Acquired status as an independent public institution 1969. Acquired present status 1991 and title 2010",
+      "periodicals": [
+        "Folia Veterinaria",
+        "Folia Veterinaria"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "21852",
+      "iau_id": "IAU-021852",
+      "name": "University of Zilina",
+      "alt_name": "Žilinská univerzita v Žiline (ZU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyRYLTMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-021852",
+      "address": {
+        "Street": "Univerzitná 8215/1",
+        "City": "Žilina",
+        "Post Code": "010 26",
+        "WWW": "https://www.uniza.sk"
+      },
+      "website": "https://www.uniza.sk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1953,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June (September-January; February-June)",
+      "languages": [
+        "Slovak"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Aviation Training and Education",
+          "fields": [
+            "Aeronautical and Aerospace Engineering",
+            "Air Transport",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Faculty : Civil Engineering",
+          "fields": [
+            "Bridge Engineering",
+            "Building Technologies",
+            "Civil Engineering",
+            "Geophysics",
+            "Railway Engineering",
+            "Road Engineering",
+            "Structural Architecture",
+            "Surveying and Mapping",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "Faculty : Electrical Engineering",
+          "fields": [
+            "Biomedical Engineering",
+            "Electrical and Electronic Engineering",
+            "Electrical Engineering",
+            "Electronics and Automation",
+            "Energy Engineering",
+            "Mechanical Engineering",
+            "Multimedia",
+            "Physics",
+            "Power Engineering",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Humanities",
+          "fields": [
+            "Applied Mathematics",
+            "Art Education",
+            "Education",
+            "English",
+            "Foreign Languages Education",
+            "Mathematics",
+            "Music Education",
+            "Pedagogy"
+          ]
+        },
+        {
+          "name": "Faculty : Management Science and Informatics",
+          "fields": [
+            "Computer Networks",
+            "Computer Science",
+            "Data Science",
+            "Econometrics",
+            "Electronics and Automation",
+            "Information Management",
+            "Information Technology",
+            "Management",
+            "Management Systems",
+            "Marketing",
+            "Mathematics and Computer Science",
+            "Multimedia",
+            "Systems Analysis",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Faculty : Mechanical Engineering",
+          "fields": [
+            "Applied Mathematics",
+            "Electronics and Automation",
+            "Engineering Drawing and Design",
+            "Heating and Refrigeration",
+            "Hydraulic Engineering",
+            "Industrial Design",
+            "Industrial Engineering",
+            "Materials Engineering",
+            "Measurement and Precision Engineering",
+            "Mechanical Engineering",
+            "Mechanical Equipment and Maintenance",
+            "Mechanics",
+            "Power Engineering",
+            "Railway Engineering",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Operation and Economics of Transport and Communications",
+          "fields": [
+            "Air Transport",
+            "Economics",
+            "Marine Transport",
+            "Mathematics",
+            "Railway Transport",
+            "Road Transport",
+            "Social Sciences",
+            "Transport and Communications",
+            "Transport Economics",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Faculty : Securiy Engineering",
+          "fields": [
+            "Engineering",
+            "Safety Engineering",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Institute : Foreign Languages",
+          "fields": [
+            "English",
+            "French",
+            "German",
+            "Latin",
+            "Russian",
+            "Slavic Languages"
+          ]
+        },
+        {
+          "name": "Institute : Forensic Engineering",
+          "fields": [
+            "Law",
+            "Transport and Communications"
+          ]
+        },
+        {
+          "name": "Institute : High Mountain Biology",
+          "fields": [
+            "Biology",
+            "Ecology",
+            "Microbiology",
+            "Mountain Studies",
+            "Zoology"
+          ]
+        },
+        {
+          "name": "Institute : Information and Communication Technologies",
+          "fields": [
+            "Computer Engineering",
+            "Computer Networks",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Institute : Physical Education",
+          "fields": [
+            "Physical Education",
+            "Sports"
+          ]
+        },
+        {
+          "name": "Research Division : Transport",
+          "fields": [
+            "Air Transport",
+            "Applied Mathematics",
+            "Electronic Engineering",
+            "Information Technology",
+            "Marine Transport",
+            "Railway Transport",
+            "Road Transport",
+            "Transport Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalár",
+          "fields": [
+            "Engineering"
+          ]
+        },
+        {
+          "name": "Doktor lekárstva/ Magister/ Inžinier",
+          "fields": [
+            "Engineering"
+          ]
+        },
+        {
+          "name": "Magister",
+          "fields": []
+        },
+        {
+          "name": "Doktor",
+          "fields": []
+        }
+      ],
+      "accreditation": "Accreditation Commission of the Government of the Slovak Republic.",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Jozef Jandačka"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Vladimir Konecny"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Jozef Ristvej"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1953 as the Faculty of Railway Engineering of the Czech Technical University Prague. Detached and re-established 1959 as the University of Transport, a separate Institution and moved to Žilina 1960. Acquired present status and name 1996",
+      "periodicals": [
+        "Komunikácie (Communications) Materials Engineering Proceedings of  the Scientific Conferences of the University of Žilina Proceedings of the Conference Transcom Works and Studies of the University of Žilina",
+        "Komunikácie (Communications)",
+        "Materials Engineering",
+        "Proceedings of  the Scientific Conferences of the University of Žilina",
+        "Proceedings of the Conference Transcom",
+        "Works and Studies of the University of Žilina"
+      ],
+      "student_body": "co-ed"
+    }
+  ]
+}

@@ -1,0 +1,4599 @@
+{
+  "country_name": "Palestine",
+  "country_id": "Palestine",
+  "institutions": [
+    {
+      "id": "30917",
+      "iau_id": "IAU-030917",
+      "name": "Al Zaytona University of Science and Technology",
+      "alt_name": "Al-Zaytoonah University of Science and Technology (ZUST)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sU2BZLDM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-030917",
+      "address": {
+        "Street": "P.O. Box 10Hisham’s Palace St",
+        "City": "Jericho",
+        "WWW": "https://alistiqlal.edu.ps"
+      },
+      "website": "https://alistiqlal.edu.ps",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1998,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Administrative Sciences",
+          "fields": [
+            "Administration",
+            "Information Management",
+            "International Relations and Diplomacy",
+            "Military Science",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "Faculty : Arts and Humanities",
+          "fields": [
+            "Arts and Humanities",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Institute : Training and Development",
+          "fields": [
+            "Criminology",
+            "English",
+            "Law",
+            "Management Systems",
+            "Military Science",
+            "Police Studies",
+            "Psychology",
+            "Public Administration"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma",
+          "fields": [
+            "Criminology",
+            "English",
+            "Law",
+            "Management Systems",
+            "Military Science",
+            "Police Studies",
+            "Psychology",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Criminology",
+            "English",
+            "Law",
+            "Management Systems",
+            "Military Science",
+            "Police Studies",
+            "Psychology",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Public Administration"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Nour Aldin Abulrub"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Nayef Jarrad"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Moawiyah M. Ibrahim"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1998 as “The Palestinian Academy for Security Sciences”. Acquired present status 2011",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "763",
+      "iau_id": "IAU-000763",
+      "name": "Al-Aqsa University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?Jjo2MF0tUzhTCmAK",
+      "iau_link": "https://www.whed.net/institutions/IAU-000763",
+      "address": {
+        "Street": "P.O. Box 1804Irsal Street, Kanan Bld, 4th floor",
+        "City": "Ramallah",
+        "Province": "West Bank",
+        "WWW": "https://www.qou.edu"
+      },
+      "website": "https://www.qou.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1985,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September 1st. to May 31st. first semester from September to early January; Second semester from (Mid January to May); also (2) Summer Semesters, (June to end of August).",
+      "languages": [
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Continuing Education and Communication Service",
+          "fields": [
+            "Communication Studies",
+            "Continuing Education"
+          ]
+        },
+        {
+          "name": "Centre : Information and Communication Technology",
+          "fields": [
+            "Computer Networks",
+            "Information Technology",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Centre : Media Production",
+          "fields": [
+            "Educational Technology",
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "Centre : Open Learning Center",
+          "fields": [
+            "e-Learning",
+            "e- Course design"
+          ]
+        },
+        {
+          "name": "Department/Division : Research and Postgraduate Studies",
+          "fields": [
+            "Distance Education",
+            "Information Sciences",
+            "Public Administration",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Faculty : Administration and Economic Sciences",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Economics",
+            "Finance",
+            "Health Administration",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Agriculture",
+          "fields": [
+            "Agriculture",
+            "Animal Husbandry",
+            "Food Science",
+            "Horticulture",
+            "Plant and Crop Protection",
+            "Rural Planning"
+          ]
+        },
+        {
+          "name": "Faculty : Arts",
+          "fields": [
+            "Arabic",
+            "English",
+            "Hebrew"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Arabic",
+            "Biology",
+            "Chemistry",
+            "English",
+            "History",
+            "Islamic Studies",
+            "Mathematics",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Faculty : Graduate Studies",
+          "fields": [
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Media",
+          "fields": [
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Social and Family Development",
+          "fields": [
+            "Child Care and Development",
+            "Family Studies",
+            "Social Work",
+            "Special Education"
+          ]
+        },
+        {
+          "name": "Faculty : Technology and Applied Sciences",
+          "fields": [
+            "Computer Science",
+            "Information Technology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma",
+          "fields": [
+            "Education",
+            "Educational and Student Counselling",
+            "Special Education"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Administration",
+            "Agriculture",
+            "Arabic",
+            "Economics",
+            "Education",
+            "English",
+            "Hebrew",
+            "Media Studies",
+            "Social Sciences",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Accountancy",
+            "Arabic",
+            "Educational Administration",
+            "Educational Psychology",
+            "Finance",
+            "Human Resources",
+            "International Relations and Diplomacy",
+            "Leadership",
+            "Literature",
+            "Management",
+            "Media Studies",
+            "Social Work"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ibrahim Al Shaer"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Marwan Darwish"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Lina Abu Hilal"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "23481"
+      },
+      "history": "Founded 1985. Acquired present status 1991. At present there are 20 educational Branches and Study Centres in the major cities of Palestine,.",
+      "periodicals": [
+        "QOU's Refereed Research Journal Resalat Jamiat Al-Quds Al Maftooha",
+        "QOU's Refereed Research Journal",
+        "Resalat Jamiat Al-Quds Al Maftooha"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "9761",
+      "iau_id": "IAU-009761",
+      "name": "Al-Azhar University - Gaza",
+      "alt_name": "Jame'at Al-Azhar Bi Ghazza – Jame'at Al-Azhar Bi Ghazza (AUG)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMzxWLDBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009761",
+      "address": {
+        "Street": "P.O. Box 89Main Campus, Abu Dis",
+        "City": "Abu Dis",
+        "WWW": "https://www.alquds.edu"
+      },
+      "website": "https://www.alquds.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1984,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "October to June (October-January; February-June); Also summer course from Augsut to September",
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Advancement of Peace and Democracy",
+          "fields": [
+            "Peace and Disarmament"
+          ]
+        },
+        {
+          "name": "Centre : Islamic Research",
+          "fields": [
+            "Islamic Studies"
+          ]
+        },
+        {
+          "name": "Centre : Jerusalem Studies",
+          "fields": [
+            "Linguistics",
+            "Modern Languages"
+          ]
+        },
+        {
+          "name": "Centre : Political Prisoners Affairs",
+          "fields": [
+            "Civil Law"
+          ]
+        },
+        {
+          "name": "Centre : Women and Gender Studies",
+          "fields": [
+            "Gender Studies",
+            "Women's Studies"
+          ]
+        },
+        {
+          "name": "College : Graduate Studies",
+          "fields": [
+            "Arabic",
+            "Archaeology",
+            "Arts and Humanities",
+            "Development Studies",
+            "English",
+            "Fine Arts",
+            "Geography",
+            "History",
+            "Media Studies",
+            "Music",
+            "Philosophy",
+            "Physical Education",
+            "Political Sciences",
+            "Social Work",
+            "Urban Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Arts",
+          "fields": [
+            "Arabic",
+            "Archaeology",
+            "Arts and Humanities",
+            "Development Studies",
+            "English",
+            "Fine Arts",
+            "Geography",
+            "History",
+            "Media Studies",
+            "Music",
+            "Philosophy",
+            "Physical Education",
+            "Political Sciences",
+            "Social Work",
+            "Urban Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Business and Economics",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Banking",
+            "Business Administration",
+            "Economics",
+            "Finance",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Da'wa and Religious Studies",
+          "fields": [
+            "Islamic Law",
+            "Islamic Theology",
+            "Religious Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Dentistry",
+          "fields": [
+            "Dentistry",
+            "Orthodontics",
+            "Periodontics"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Curriculum",
+            "Primary Education",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Computer Engineering",
+            "Electronic Engineering",
+            "Engineering",
+            "Materials Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Health Professions",
+          "fields": [
+            "Health Education",
+            "Laboratory Techniques",
+            "Midwifery",
+            "Nursing",
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Faculty : Pharmacy",
+          "fields": [
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Faculty : Public Health",
+          "fields": [
+            "Public Health"
+          ]
+        },
+        {
+          "name": "Faculty : Quran and Islamic Studies",
+          "fields": [
+            "Islamic Studies",
+            "Koran"
+          ]
+        },
+        {
+          "name": "Faculty : Science and Technology",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Earth Sciences",
+            "Environmental Studies",
+            "Food Technology",
+            "Information Technology",
+            "Mathematics",
+            "Natural Sciences",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Institute : Applied Research",
+          "fields": [
+            "Regional Studies"
+          ]
+        },
+        {
+          "name": "Institute : Archaeology",
+          "fields": [
+            "Archaeology"
+          ]
+        },
+        {
+          "name": "Institute : Economics and Business Studies",
+          "fields": [
+            "Business and Commerce",
+            "Economics"
+          ]
+        },
+        {
+          "name": "Institute : Modern Media",
+          "fields": [
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "Institute : Regional Studies",
+          "fields": [
+            "American Studies",
+            "Asian Studies",
+            "Middle Eastern Studies"
+          ]
+        },
+        {
+          "name": "Institute : Sustainable Development",
+          "fields": [
+            "Health Education"
+          ]
+        },
+        {
+          "name": "Research Division : Health",
+          "fields": [
+            "Health Education"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Administration",
+            "Computer Engineering",
+            "Dentistry",
+            "Electronic Engineering",
+            "Fine Arts",
+            "Health Administration",
+            "Islamic Theology",
+            "Koran",
+            "Law",
+            "Medicine",
+            "Missionary Studies",
+            "Pharmacy",
+            "Public Health"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Accountancy",
+            "Applied Mathematics",
+            "Arabic",
+            "Business Administration",
+            "Chemistry",
+            "Civil Law",
+            "Communication Disorders",
+            "Community Health",
+            "Economics",
+            "Educational Administration",
+            "Educational and Student Counselling",
+            "Health Administration",
+            "Islamic Studies",
+            "Literature",
+            "Media Studies",
+            "Middle Eastern Studies",
+            "Molecular Biology",
+            "Nursing",
+            "Organic Chemistry",
+            "Physics",
+            "Public Health",
+            "Public Law",
+            "Teacher Training",
+            "Technology"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Imad Abu Kishek"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Motasem Hamdan"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Asma Badr"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1984.",
+      "periodicals": [
+        "Science Journal",
+        "Science Journal"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "16381",
+      "iau_id": "IAU-016381",
+      "name": "Arab American University",
+      "alt_name": "(AAUP)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhTLiMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016381",
+      "address": {
+        "Street": "P.O. Box 7",
+        "City": "Nablus",
+        "Province": "West Bank",
+        "WWW": "https://www.najah.edu"
+      },
+      "website": "https://www.najah.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1918,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "August to May (August-December; January-May)",
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Centre :  Energy Research",
+          "fields": [
+            "Natural Resources"
+          ]
+        },
+        {
+          "name": "Centre : An Najah University Life Support Training",
+          "fields": [
+            "Cardiology",
+            "Physical Therapy",
+            "Respiratory Therapy"
+          ]
+        },
+        {
+          "name": "Centre : An-Najah Bio-Sciences Unit (NBU)",
+          "fields": [
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Centre : An-Najah Business Innovation and Partnership",
+          "fields": [
+            "Business and Commerce"
+          ]
+        },
+        {
+          "name": "Centre : An-Najah Center for Cancer and Stem Cell Research",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Centre : Architectural Conservation Unit",
+          "fields": [
+            "Architectural Restoration"
+          ]
+        },
+        {
+          "name": "Centre : Biological, Chemical and Drug Analysis",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Toxicology"
+          ]
+        },
+        {
+          "name": "Centre : Community Service",
+          "fields": [
+            "Social and Community Services"
+          ]
+        },
+        {
+          "name": "Centre : Computer Science",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Centre : Construction and Transportation Research",
+          "fields": [
+            "Construction Engineering",
+            "Transport and Communications"
+          ]
+        },
+        {
+          "name": "Centre : Continuing Education",
+          "fields": [
+            "Continuing Education"
+          ]
+        },
+        {
+          "name": "Centre : E-Learning",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Centre : Earth Sciences and Seismic Engineering",
+          "fields": [
+            "Earth Sciences",
+            "Seismology"
+          ]
+        },
+        {
+          "name": "Centre : Excellence in Learning and Teaching",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Centre : Human Rights and Democracy",
+          "fields": [
+            "Human Rights"
+          ]
+        },
+        {
+          "name": "Centre : International Grants and Projects",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Centre : Language Resources",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Centre : Measurement and Evaluation",
+          "fields": [
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "Centre : Media",
+          "fields": [
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "Centre : Opinion Polls and Survey Studies",
+          "fields": [
+            "Social Studies"
+          ]
+        },
+        {
+          "name": "Centre : Poison Control and Drug Information",
+          "fields": [
+            "Toxicology"
+          ]
+        },
+        {
+          "name": "Centre : Students with Disabilities Care",
+          "fields": [
+            "Regional Planning",
+            "Urban Studies"
+          ]
+        },
+        {
+          "name": "Centre : Urban and Regional Planning",
+          "fields": [
+            "Regional Planning",
+            "Urban Studies"
+          ]
+        },
+        {
+          "name": "Centre : Veterinary Health",
+          "fields": [
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Centre : Water and Environmental Studies",
+          "fields": [
+            "Environmental Studies",
+            "Water Science"
+          ]
+        },
+        {
+          "name": "College : Community",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Aeronautical and Aerospace Engineering",
+            "Architecture",
+            "Banking",
+            "Business Administration",
+            "Civil Engineering",
+            "E-Business/Commerce",
+            "Education",
+            "Finance",
+            "Marketing",
+            "Medical Auxiliaries",
+            "Pharmacy",
+            "Sales Techniques",
+            "Secretarial Studies",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "College : Technology",
+          "fields": [
+            "Automation",
+            "Computer Engineering",
+            "Computer Networks",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Graphic Design",
+            "Heating and Refrigeration",
+            "Industrial Engineering",
+            "Interior Design",
+            "Mechanical Engineering",
+            "Multimedia",
+            "Production Engineering",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Study of Involuntary Migration",
+          "fields": [
+            "Demography and Population"
+          ]
+        },
+        {
+          "name": "Faculty : Agriculture and Veterinary Medicine",
+          "fields": [
+            "Agricultural Economics",
+            "Animal Husbandry",
+            "Crop Production",
+            "Food Technology",
+            "Nutrition",
+            "Plant and Crop Protection",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Faculty : Arts",
+          "fields": [
+            "Arabic",
+            "Archaeology",
+            "Arts and Humanities",
+            "English",
+            "French",
+            "Geography",
+            "History",
+            "Literature",
+            "Social Work",
+            "Sociology",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Economics and and Social Sciences",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Economics",
+            "Finance",
+            "Geography",
+            "Journalism",
+            "Marketing",
+            "Political Sciences",
+            "Printing and Printmaking",
+            "Psychology",
+            "Public Relations",
+            "Radio and Television Broadcasting",
+            "Social Work",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Faculty : Educational Sciences and Teachers Training",
+          "fields": [
+            "Arabic",
+            "Educational Administration",
+            "Educational and Student Counselling",
+            "Educational Sciences",
+            "Educational Technology",
+            "English",
+            "Pedagogy",
+            "Physical Education",
+            "Primary Education",
+            "Psychology",
+            "Social Studies",
+            "Teacher Trainers Education",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering and Information Technology",
+          "fields": [
+            "Architecture",
+            "Building Technologies",
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Construction Engineering",
+            "Electrical Engineering",
+            "Energy Engineering",
+            "Engineering",
+            "Environmental Engineering",
+            "Industrial Engineering",
+            "Information Management",
+            "Information Sciences",
+            "Information Technology",
+            "Management",
+            "Materials Engineering",
+            "Mechanical Engineering",
+            "Mechatronics",
+            "Telecommunications Engineering",
+            "Urban Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Fine Arts",
+          "fields": [
+            "Ceramic Art",
+            "Ceramics and Glass Technology",
+            "Design",
+            "Fashion Design",
+            "Fine Arts",
+            "Graphic Design",
+            "Interior Design",
+            "Music",
+            "Painting and Drawing",
+            "Sculpture"
+          ]
+        },
+        {
+          "name": "Faculty : Graduate Studies",
+          "fields": [
+            "Animal Husbandry",
+            "Applied Linguistics",
+            "Arabic",
+            "Arts and Humanities",
+            "Business Administration",
+            "Construction Engineering",
+            "Curriculum",
+            "Educational Administration",
+            "Energy Engineering",
+            "Engineering",
+            "Environmental Studies",
+            "Geography",
+            "Health Sciences",
+            "History",
+            "Islamic Law",
+            "Law",
+            "Management",
+            "Medicine",
+            "Natural Sciences",
+            "Nursing",
+            "Pedagogy",
+            "Pharmacy",
+            "Physical Education",
+            "Plant and Crop Protection",
+            "Political Sciences",
+            "Private Law",
+            "Psychiatry and Mental Health",
+            "Public Health",
+            "Public Law",
+            "Road Engineering",
+            "Taxation",
+            "Town Planning",
+            "Water Science"
+          ]
+        },
+        {
+          "name": "Faculty : Humanities",
+          "fields": [
+            "American Studies",
+            "Arabic",
+            "English Studies",
+            "French Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "International Relations and Diplomacy",
+            "Private Law",
+            "Public Law"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine and Health Sciences",
+          "fields": [
+            "Anaesthesiology",
+            "Biomedical Engineering",
+            "Biomedicine",
+            "Cardiology",
+            "Cosmetology",
+            "Dental Technology",
+            "Laboratory Techniques",
+            "Medical Auxiliaries",
+            "Medicine",
+            "Midwifery",
+            "Nursing",
+            "Optometry",
+            "Pharmacy",
+            "Radiology",
+            "Speech Therapy and Audiology"
+          ]
+        },
+        {
+          "name": "Faculty : Science",
+          "fields": [
+            "Applied Chemistry",
+            "Biology",
+            "Chemistry",
+            "Electronic Engineering",
+            "Mathematics",
+            "Physics",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Faculty : Sharia",
+          "fields": [
+            "Banking",
+            "Islamic Law",
+            "Religious Studies"
+          ]
+        },
+        {
+          "name": "Institute : Forensic Medicine",
+          "fields": [
+            "Forensic Medicine and Dentistry"
+          ]
+        },
+        {
+          "name": "Institute : Korean Palestinian IT",
+          "fields": [
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Institute : Najah National University Hospital (NNUH)",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Institute : Palestinian Child",
+          "fields": [
+            "Rehabilitation and Therapy"
+          ]
+        },
+        {
+          "name": "Institute : Water and Environmental Studies",
+          "fields": [
+            "Environmental Engineering",
+            "Environmental Studies",
+            "Water Management"
+          ]
+        },
+        {
+          "name": "Laboratory : Central Medical",
+          "fields": [
+            "Medicine"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma",
+          "fields": [
+            "Accountancy",
+            "Agricultural Economics",
+            "Animal Husbandry",
+            "Applied Chemistry",
+            "Applied Linguistics",
+            "Arabic",
+            "Archaeology",
+            "Architecture",
+            "Arts and Humanities",
+            "Banking",
+            "Biology",
+            "Biomedicine",
+            "Building Technologies",
+            "Business Administration",
+            "Business Computing",
+            "Ceramic Art",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Construction Engineering",
+            "Continuing Education",
+            "Crop Production",
+            "Curriculum",
+            "Demography and Population",
+            "Design",
+            "Earth Sciences",
+            "Economics",
+            "Educational Administration",
+            "Educational and Student Counselling",
+            "Educational Sciences",
+            "Educational Technology",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Energy Engineering",
+            "Engineering",
+            "English",
+            "Environmental Engineering",
+            "Environmental Studies",
+            "Finance",
+            "Fine Arts",
+            "Food Technology",
+            "French",
+            "Geography",
+            "Graphic Design",
+            "Health Sciences",
+            "Heating and Refrigeration",
+            "History",
+            "Human Rights",
+            "Industrial Engineering",
+            "Information Management",
+            "Information Sciences",
+            "Information Technology",
+            "Islamic Law",
+            "Laboratory Techniques",
+            "Law",
+            "Literature",
+            "Management",
+            "Marketing",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Medical Auxiliaries",
+            "Medicine",
+            "Midwifery",
+            "Music",
+            "Natural Resources",
+            "Natural Sciences",
+            "Nursing",
+            "Nutrition",
+            "Optometry",
+            "Painting and Drawing",
+            "Pedagogy",
+            "Pharmacy",
+            "Physical Education",
+            "Physics",
+            "Plant and Crop Protection",
+            "Political Sciences",
+            "Primary Education",
+            "Private Law",
+            "Psychiatry and Mental Health",
+            "Psychology",
+            "Public Health",
+            "Public Law",
+            "Regional Planning",
+            "Religious Studies",
+            "Road Engineering",
+            "Sculpture",
+            "Seismology",
+            "Social and Community Services",
+            "Social Studies",
+            "Social Work",
+            "Sociology",
+            "Statistics",
+            "Taxation",
+            "Technology",
+            "Telecommunications Engineering",
+            "Tourism",
+            "Town Planning",
+            "Toxicology",
+            "Transport and Communications",
+            "Urban Studies",
+            "Veterinary Science",
+            "Water Management",
+            "Water Science"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Agricultural Economics",
+            "Animal Husbandry",
+            "Applied Chemistry",
+            "Applied Linguistics",
+            "Arabic",
+            "Archaeology",
+            "Architecture",
+            "Arts and Humanities",
+            "Banking",
+            "Biology",
+            "Biomedicine",
+            "Building Technologies",
+            "Business Administration",
+            "Business Computing",
+            "Ceramic Art",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Construction Engineering",
+            "Continuing Education",
+            "Crop Production",
+            "Curriculum",
+            "Demography and Population",
+            "Design",
+            "Earth Sciences",
+            "Economics",
+            "Educational Administration",
+            "Educational and Student Counselling",
+            "Educational Sciences",
+            "Educational Technology",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Energy Engineering",
+            "Engineering",
+            "English",
+            "Environmental Engineering",
+            "Environmental Studies",
+            "Finance",
+            "Fine Arts",
+            "Food Technology",
+            "French",
+            "Geography",
+            "Graphic Design",
+            "Health Sciences",
+            "Heating and Refrigeration",
+            "History",
+            "Human Rights",
+            "Industrial Engineering",
+            "Information Management",
+            "Information Sciences",
+            "Information Technology",
+            "Islamic Law",
+            "Laboratory Techniques",
+            "Law",
+            "Literature",
+            "Management",
+            "Marketing",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Medical Auxiliaries",
+            "Medicine",
+            "Midwifery",
+            "Music",
+            "Natural Resources",
+            "Natural Sciences",
+            "Nursing",
+            "Nutrition",
+            "Optometry",
+            "Painting and Drawing",
+            "Pedagogy",
+            "Pharmacy",
+            "Physical Education",
+            "Physics",
+            "Plant and Crop Protection",
+            "Political Sciences",
+            "Primary Education",
+            "Private Law",
+            "Psychiatry and Mental Health",
+            "Psychology",
+            "Public Health",
+            "Public Law",
+            "Regional Planning",
+            "Religious Studies",
+            "Road Engineering",
+            "Sculpture",
+            "Seismology",
+            "Social and Community Services",
+            "Social Studies",
+            "Social Work",
+            "Sociology",
+            "Statistics",
+            "Taxation",
+            "Technology",
+            "Telecommunications Engineering",
+            "Tourism",
+            "Town Planning",
+            "Toxicology",
+            "Transport and Communications",
+            "Urban Studies",
+            "Veterinary Science",
+            "Water Management",
+            "Water Science"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Accountancy",
+            "Agricultural Business",
+            "Anaesthesiology",
+            "Animal Husbandry",
+            "Arabic",
+            "Architecture",
+            "Artificial Intelligence",
+            "Biological and Life Sciences",
+            "Business Administration",
+            "Chemistry",
+            "Clinical Psychology",
+            "Computer Science",
+            "Criminal Law",
+            "Crop Production",
+            "Curriculum",
+            "Economics",
+            "Education of the Gifted",
+            "Educational Administration",
+            "Educational and Student Counselling",
+            "Educational Psychology",
+            "Electrical Engineering",
+            "Energy Engineering",
+            "Engineering",
+            "Engineering Management",
+            "English",
+            "Environmental Engineering",
+            "Environmental Studies",
+            "Finance",
+            "Food Technology",
+            "Geography",
+            "History",
+            "Koran",
+            "Law",
+            "Linguistics",
+            "Literature",
+            "Management",
+            "Mathematics",
+            "Mathematics and Computer Science",
+            "Mathematics Education",
+            "Medicine",
+            "Nursing",
+            "Nutrition",
+            "Pharmacology",
+            "Pharmacy",
+            "Physical Education",
+            "Physics",
+            "Private Law",
+            "Public Health",
+            "Public Law",
+            "Public Relations",
+            "Regional Planning",
+            "Science Education",
+            "Surveying and Mapping",
+            "Taxation",
+            "Town Planning",
+            "Translation and Interpretation",
+            "Transport Engineering",
+            "Women's Studies"
+          ]
+        },
+        {
+          "name": "Doctorate",
+          "fields": [
+            "Arabic",
+            "Chemistry",
+            "Koran",
+            "Literature",
+            "Pharmacology",
+            "Pharmacy",
+            "Physics",
+            "Teacher Training"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Abdel Nasser Zaid"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Abdulsalam Alkaiyat"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Kherieh Rasass"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2025-2026",
+        "Students Total:": "25000"
+      },
+      "history": "Founded 1918 as An-Najah Nabulsi School, acquired present status and title 1977.",
+      "periodicals": [
+        "An-Najah University’s Journal of Human Science An-Najah University’s Journal of Natura Science Palestinian Journal of Medicine and Pharmacy (PMP)",
+        "An-Najah University’s Journal of Human Science",
+        "An-Najah University’s Journal of Natura Science",
+        "Palestinian Journal of Medicine and Pharmacy (PMP)"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "27487",
+      "iau_id": "IAU-027487",
+      "name": "Bethlehem Bible College",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzxULiM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-027487",
+      "address": {
+        "Street": "P.O. Box 14",
+        "City": "Birzeit",
+        "Province": "West Bank",
+        "WWW": "https://www.birzeit.edu"
+      },
+      "website": "https://www.birzeit.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1924,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to July (September-January; February to July). Summer session, July to August.",
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Continuing Education",
+          "fields": [
+            "Continuing Education"
+          ]
+        },
+        {
+          "name": "Centre : Development Studies",
+          "fields": [
+            "Development Studies"
+          ]
+        },
+        {
+          "name": "Centre : Information Technology Centre of Excellence",
+          "fields": [
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Centre : Media Development",
+          "fields": [
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Arts",
+          "fields": [
+            "Anthropology",
+            "Arabic",
+            "Archaeology",
+            "Cultural Studies",
+            "Education",
+            "English",
+            "French",
+            "Geography",
+            "History",
+            "Literature",
+            "Media Studies",
+            "Philosophy",
+            "Physical Education",
+            "Psychology",
+            "Sociology",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Faculty : Commerce and Economics",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Business and Commerce",
+            "Economics",
+            "Finance",
+            "Management"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Civil Engineering",
+            "Electrical Engineering",
+            "Mechanical Engineering",
+            "Structural Architecture"
+          ]
+        },
+        {
+          "name": "Faculty : Graduate Studies",
+          "fields": [
+            "Applied Chemistry",
+            "Arabic",
+            "Business Administration",
+            "Community Health",
+            "Development Studies",
+            "Education",
+            "Environmental Engineering",
+            "Environmental Studies",
+            "Gender Studies",
+            "Geography",
+            "Health Sciences",
+            "History",
+            "Human Rights",
+            "Hydraulic Engineering",
+            "International Studies",
+            "Islamic Studies",
+            "Islamic Theology",
+            "Laboratory Techniques",
+            "Law",
+            "Mathematics and Computer Science",
+            "Public Health",
+            "Sociology",
+            "Statistics",
+            "Town Planning",
+            "Water Science"
+          ]
+        },
+        {
+          "name": "Faculty : Information Technology",
+          "fields": [
+            "Computer Science",
+            "Information Technology",
+            "Systems Analysis"
+          ]
+        },
+        {
+          "name": "Faculty : Law and Public Administration",
+          "fields": [
+            "Law",
+            "Political Sciences",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "Faculty : Nursing and Allied Health Professions",
+          "fields": [
+            "Dietetics",
+            "Nursing",
+            "Nutrition"
+          ]
+        },
+        {
+          "name": "Faculty : Science",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Mathematics",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Institute : Community and Public Health",
+          "fields": [
+            "Community Health",
+            "Public Health"
+          ]
+        },
+        {
+          "name": "Institute : Environmental and Water Studies",
+          "fields": [
+            "Environmental Studies",
+            "Water Science"
+          ]
+        },
+        {
+          "name": "Institute : International Studies",
+          "fields": [
+            "International Studies"
+          ]
+        },
+        {
+          "name": "Institute : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Institute : Women's Studies",
+          "fields": [
+            "Women's Studies"
+          ]
+        },
+        {
+          "name": "Laboratory : Testing Laboratory",
+          "fields": [
+            "Environmental Studies",
+            "Occupational Health"
+          ]
+        },
+        {
+          "name": "Unit : Palestine and Arab Studies",
+          "fields": [
+            "Arabic",
+            "Social Sciences"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Anthropology",
+            "Applied Chemistry",
+            "Arabic",
+            "Archaeology",
+            "Biology",
+            "Business Administration",
+            "Business and Commerce",
+            "Chemistry",
+            "Civil Engineering",
+            "Community Health",
+            "Computer Science",
+            "Continuing Education",
+            "Cultural Studies",
+            "Development Studies",
+            "Dietetics",
+            "Economics",
+            "Education",
+            "Electrical Engineering",
+            "Engineering",
+            "English",
+            "Environmental Engineering",
+            "Environmental Studies",
+            "Finance",
+            "Fine Arts",
+            "French",
+            "Gender Studies",
+            "Geography",
+            "Health Sciences",
+            "History",
+            "Human Rights",
+            "Hydraulic Engineering",
+            "Information Technology",
+            "International Studies",
+            "Islamic Studies",
+            "Islamic Theology",
+            "Laboratory Techniques",
+            "Law",
+            "Literature",
+            "Management",
+            "Mathematics",
+            "Mathematics and Computer Science",
+            "Mechanical Engineering",
+            "Media Studies",
+            "Nursing",
+            "Nutrition",
+            "Occupational Health",
+            "Philosophy",
+            "Physical Education",
+            "Physics",
+            "Political Sciences",
+            "Psychology",
+            "Public Administration",
+            "Public Health",
+            "Social Sciences",
+            "Sociology",
+            "Statistics",
+            "Structural Architecture",
+            "Systems Analysis",
+            "Town Planning",
+            "Translation and Interpretation",
+            "Water Science",
+            "Women's Studies"
+          ]
+        },
+        {
+          "name": "Higher Diploma",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Business Administration",
+            "Community Health",
+            "Cultural Studies",
+            "Development Studies",
+            "Economics",
+            "Education",
+            "Environmental Engineering",
+            "Environmental Studies",
+            "Gender Studies",
+            "Geography",
+            "Human Rights",
+            "International Relations and Diplomacy",
+            "Islamic Studies",
+            "Landscape Architecture",
+            "Law",
+            "Medical Technology",
+            "Sociology",
+            "Statistics",
+            "Town Planning",
+            "Water Science"
+          ]
+        },
+        {
+          "name": "Doctorate",
+          "fields": [
+            "Computer Science",
+            "Social Sciences"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Talal Shahwan"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Asem Khalil"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Iyad Tumar"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Ihab Abu Ajamieh"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Raghda Shamali"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2024-2025",
+        "Students Total:": "13719"
+      },
+      "history": "Founded 1924 as school, acquired present status and title 1972. A public/non-governmental Institution financed by student fees and contributions.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "1630",
+      "iau_id": "IAU-001630",
+      "name": "Bethlehem University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sMzhTLGBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-001630",
+      "address": {
+        "Street": "P.O. Box 108Rimal St",
+        "City": "Gaza",
+        "Province": "Gaza Strip",
+        "WWW": "https://www.iugaza.edu.ps"
+      },
+      "website": "https://www.iugaza.edu.ps",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1978,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "October to June (September-January; February-June). Also Summer Semester (July-August)",
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Aural History",
+          "fields": [
+            "Folklore",
+            "History",
+            "Social Studies"
+          ]
+        },
+        {
+          "name": "Centre : Continuing Education and Community Service",
+          "fields": [
+            "Development Studies",
+            "Social and Community Services"
+          ]
+        },
+        {
+          "name": "Centre : Environmental and Rural Studies",
+          "fields": [
+            "Ecology",
+            "Environmental Studies",
+            "Marine Science and Oceanography",
+            "Natural Resources",
+            "Rural Studies",
+            "Waste Management"
+          ]
+        },
+        {
+          "name": "Centre : Holy Koran",
+          "fields": [
+            "Islamic Studies",
+            "Koran"
+          ]
+        },
+        {
+          "name": "Centre : IT Affairs",
+          "fields": [
+            "Computer Networks",
+            "Computer Science",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Arts",
+          "fields": [
+            "Arabic",
+            "Archaeology",
+            "Arts and Humanities",
+            "English",
+            "Geography",
+            "History",
+            "Information Sciences",
+            "Journalism",
+            "Public Relations",
+            "Social and Community Services"
+          ]
+        },
+        {
+          "name": "Faculty : Commerce",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Business and Commerce",
+            "Economics",
+            "Political Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Arabic",
+            "Computer Education",
+            "Education",
+            "Educational and Student Counselling",
+            "Educational Technology",
+            "English",
+            "Foreign Languages Education",
+            "Islamic Studies",
+            "Mathematics",
+            "Mathematics Education",
+            "Primary Education",
+            "Science Education",
+            "Social Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Civil Engineering",
+            "Computer Engineering",
+            "Electrical Engineering",
+            "Engineering",
+            "Environmental Engineering",
+            "Industrial Engineering",
+            "Structural Architecture"
+          ]
+        },
+        {
+          "name": "Faculty : Fundamentals of Religion",
+          "fields": [
+            "Religion"
+          ]
+        },
+        {
+          "name": "Faculty : Information Technology",
+          "fields": [
+            "Computer Science",
+            "Information Technology",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Medicine",
+            "Surgery"
+          ]
+        },
+        {
+          "name": "Faculty : Nursing",
+          "fields": [
+            "Health Sciences",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Faculty : Science",
+          "fields": [
+            "Biochemistry",
+            "Biology",
+            "Biotechnology",
+            "Chemistry",
+            "Computer Science",
+            "Earth Sciences",
+            "Environmental Studies",
+            "Mathematics",
+            "Mathematics and Computer Science",
+            "Medical Technology",
+            "Natural Sciences",
+            "Optometry",
+            "Physics",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Faculty : Sharia and Law",
+          "fields": [
+            "Islamic Law",
+            "Islamic Theology",
+            "Koran",
+            "Law",
+            "Religious Education"
+          ]
+        },
+        {
+          "name": "Laboratory : Food Analysis",
+          "fields": [
+            "Food Science",
+            "Food Technology"
+          ]
+        },
+        {
+          "name": "Laboratory : Medical Technology",
+          "fields": [
+            "Medical Technology"
+          ]
+        },
+        {
+          "name": "Laboratory : Nursing Skills",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Laboratory : Psychology",
+          "fields": [
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Laboratory : Soil and Materials Testing",
+          "fields": [
+            "Building Technologies",
+            "Materials Engineering",
+            "Soil Science"
+          ]
+        },
+        {
+          "name": "Laboratory : Support Technology",
+          "fields": [
+            "Business and Commerce",
+            "Education",
+            "Engineering",
+            "Fine Arts",
+            "Information Technology",
+            "Islamic Theology",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Unit : Architecture Conservation and Urban Rehabilitation",
+          "fields": [
+            "Business and Commerce",
+            "Education",
+            "Engineering",
+            "Fine Arts",
+            "Information Technology",
+            "Islamic Theology",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Unit : Business Research and Studies",
+          "fields": [
+            "Business and Commerce",
+            "Education",
+            "Engineering",
+            "Fine Arts",
+            "Information Technology",
+            "Islamic Theology",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Unit : Energy Research and Development",
+          "fields": [
+            "Business and Commerce",
+            "Education",
+            "Engineering",
+            "Fine Arts",
+            "Information Technology",
+            "Islamic Theology",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Unit : Projects and Research",
+          "fields": [
+            "Business and Commerce",
+            "Education",
+            "Engineering",
+            "Fine Arts",
+            "Information Technology",
+            "Islamic Theology",
+            "Nursing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Business and Commerce",
+            "Education",
+            "Engineering",
+            "Fine Arts",
+            "Information Technology",
+            "Islamic Theology",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Higher Diploma",
+          "fields": [
+            "Education",
+            "Higher Education",
+            "Islamic Studies",
+            "Psychiatry and Mental Health"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Accountancy",
+            "Architecture",
+            "Biological and Life Sciences",
+            "Business Administration",
+            "Chemistry",
+            "Civil Engineering",
+            "Comparative Law",
+            "Computer Engineering",
+            "Curriculum",
+            "Design",
+            "Education",
+            "Finance",
+            "Islamic Law",
+            "Islamic Studies",
+            "Islamic Theology",
+            "Law",
+            "Literature",
+            "Mathematics",
+            "Modern History",
+            "Physics",
+            "Religion"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Nasser Ismail Farahat"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Aleyan Abdullah El-Holy"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Amani Abdel Fattah Al-Maqadma"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Khaled Abdel Raouf Al-Hallaq"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1978 as direct continuation of Palestine Religious Institute (Al-Azhar) in Gaza.",
+      "periodicals": [
+        "University Research Journal",
+        "University Research Journal"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "27489",
+      "iau_id": "IAU-027489",
+      "name": "Dar Al-Kalima University College of Arts and Culture",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzxULiNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-027489",
+      "address": {
+        "Street": "P.O. Box 198Ein Sara Street, Wadi al-haria",
+        "City": "Hebron",
+        "Province": "West Bank",
+        "WWW": "https://www.ppu.edu"
+      },
+      "website": "https://www.ppu.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1978,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "College : Administrative Science and Informatics",
+          "fields": [
+            "Business Administration",
+            "Computer Science",
+            "E-Business/Commerce",
+            "Information Technology",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "College : Applied Professions",
+          "fields": [
+            "Administration",
+            "Computer Science",
+            "Engineering"
+          ]
+        },
+        {
+          "name": "College : Applied Sciences",
+          "fields": [
+            "Applied Physics",
+            "Computer Science",
+            "Electronic Engineering",
+            "Mathematics",
+            "Modern Languages"
+          ]
+        },
+        {
+          "name": "College : Engineering",
+          "fields": [
+            "Architecture",
+            "Automotive Engineering",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Electrical Engineering",
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "College : Information Technology and Computer Engineering",
+          "fields": [
+            "Computer Engineering",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "College : Medicine",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Department/Division : Continuing Education",
+          "fields": [
+            "Continuing Education"
+          ]
+        },
+        {
+          "name": "Research Division : Biotechnology",
+          "fields": [
+            "Biotechnology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Applied Physics",
+            "Architecture",
+            "Automotive Engineering",
+            "Biotechnology",
+            "Business Administration",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Continuing Education",
+            "E-Business/Commerce",
+            "Economics",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Engineering",
+            "Information Technology",
+            "Marketing",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Medicine",
+            "Modern Languages",
+            "Multimedia",
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Architecture",
+            "Biotechnology",
+            "Computer Science",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Energy Engineering",
+            "Environmental Engineering",
+            "Finance",
+            "Mathematics",
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "Doctorate",
+          "fields": [
+            "Information Technology"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Mustafa Abu Safa"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Raed Amro"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Ayman Sultan"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1978.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "27475",
+      "iau_id": "IAU-027475",
+      "name": "Gaza University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzxULVM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-027475",
+      "address": {
+        "Street": "P.O. Box 7Jaffa Street",
+        "City": "Tulkarem",
+        "Province": "West Bank",
+        "WWW": "https://ptuk.edu.ps"
+      },
+      "website": "https://ptuk.edu.ps",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1930,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June",
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "College : Agricultural Sciences and Technology",
+          "fields": [
+            "Agriculture",
+            "Biotechnology",
+            "Environmental Engineering",
+            "Horticulture",
+            "Meteorology",
+            "Sustainable Development"
+          ]
+        },
+        {
+          "name": "College : Applied Science",
+          "fields": [
+            "Applied Mathematics",
+            "Chemistry",
+            "Computer Science",
+            "Molecular Biology",
+            "Physics"
+          ]
+        },
+        {
+          "name": "College : Arts and Educational Sciences",
+          "fields": [
+            "Accountancy",
+            "Applied Linguistics",
+            "Banking",
+            "Design",
+            "E-Business/Commerce",
+            "English",
+            "Finance",
+            "Graphic Arts",
+            "Industrial Management",
+            "Media Studies",
+            "Technology Education"
+          ]
+        },
+        {
+          "name": "College : Business and Economics",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Banking",
+            "Business Computing",
+            "Finance"
+          ]
+        },
+        {
+          "name": "College : Engineering and Technology",
+          "fields": [
+            "Architectural and Environmental Design",
+            "Building Technologies",
+            "Civil Engineering",
+            "Computer Engineering",
+            "E-Business/Commerce",
+            "Electrical Engineering",
+            "Energy Engineering",
+            "Industrial Engineering",
+            "Mechanical Engineering",
+            "Safety Engineering",
+            "Sports",
+            "Sustainable Development",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "College : Information Technology",
+          "fields": [
+            "Computer Science",
+            "Data Science",
+            "Information Management",
+            "Information Sciences",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "College : Palestine Technical College",
+          "fields": [
+            "Accountancy",
+            "Architecture",
+            "Automotive Engineering",
+            "Banking",
+            "Computer Networks",
+            "Electronics and Automation",
+            "Fashion Design",
+            "Finance",
+            "Food Technology",
+            "Graphic Design",
+            "Heating and Refrigeration",
+            "Industrial Engineering",
+            "Interior Design",
+            "Mathematics and Computer Science",
+            "Multimedia"
+          ]
+        },
+        {
+          "name": "College : Physical Education and Sports Sciences",
+          "fields": [
+            "Physical Education",
+            "Sports",
+            "Sports Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Intermediate Diploma",
+          "fields": [
+            "Accountancy",
+            "Applied Mathematics",
+            "Automotive Engineering",
+            "Banking",
+            "Biotechnology",
+            "Chemistry",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Construction Engineering",
+            "Design",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Electronics and Automation",
+            "Environmental Engineering",
+            "Finance",
+            "Food Science",
+            "Food Technology",
+            "Horticulture",
+            "Industrial Management",
+            "Information Management",
+            "Information Technology",
+            "Mechanical Engineering",
+            "Media Studies",
+            "Molecular Biology",
+            "Physical Education",
+            "Physics",
+            "Telecommunications Engineering",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Applied Mathematics",
+            "Automotive Engineering",
+            "Banking",
+            "Biotechnology",
+            "Chemistry",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Construction Engineering",
+            "Design",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Electronics and Automation",
+            "Environmental Engineering",
+            "Finance",
+            "Food Science",
+            "Food Technology",
+            "Horticulture",
+            "Industrial Management",
+            "Information Management",
+            "Information Technology",
+            "Mechanical Engineering",
+            "Media Studies",
+            "Molecular Biology",
+            "Physical Education",
+            "Physics",
+            "Telecommunications Engineering",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Higher Diploma",
+          "fields": [
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Agricultural Business",
+            "Agricultural Management",
+            "Agriculture",
+            "Biotechnology",
+            "Computer Science",
+            "E-Business/Commerce",
+            "Finance",
+            "Forest Management",
+            "Leadership",
+            "Mathematics",
+            "Natural Resources",
+            "Physics",
+            "Public Administration",
+            "Sports",
+            "Sports Management",
+            "Technology Education",
+            "Vocational Education",
+            "Water Science"
+          ]
+        }
+      ],
+      "accreditation": "Ministry oh Higher Education and Scientific Research",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Hussein Shanak"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Rezek Estaiteh"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Mahmoud Abuthaher"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Saed Khayat"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2021-2022",
+        "Staff Full Time Total:": "382",
+        "Students Statistics Year:": "2025-2026",
+        "Students Male:": "4073",
+        "Students Female:": "6153",
+        "Students Total:": "12500"
+      },
+      "history": "Founded 1930 as Palestine Technical College - Tulkam-Khadoury. Acquired present status 2007.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "781",
+      "iau_id": "IAU-000781",
+      "name": "Hebron University",
+      "alt_name": "Al-Khalil University (HU)",
+      "detail_url": "https://whed.net/detail_institution.php?Jjo2MF0tU0BRCmAK",
+      "iau_link": "https://www.whed.net/institutions/IAU-000781",
+      "address": {
+        "Street": "P.O. Box 1075Headquarters - Gaza City of Al-Zahra",
+        "City": "Gaza",
+        "WWW": "https://up.edu.ps"
+      },
+      "website": "https://up.edu.ps",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "College : Intermediate Studies",
+          "fields": [
+            "Marketing",
+            "Nursing",
+            "Public Relations",
+            "Secretarial Studies"
+          ]
+        },
+        {
+          "name": "College : Medicine and Health Sciences",
+          "fields": [
+            "Biotechnology",
+            "Dentistry",
+            "Health Sciences",
+            "Medicine",
+            "Nutrition",
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Faculty : Dentistry",
+          "fields": [
+            "Dentistry"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Education",
+            "English",
+            "Primary Education"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering and Urban Planning",
+          "fields": [
+            "Architecture",
+            "Civil Engineering",
+            "Software Engineering",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "Faculty : Finance and Business Administration",
+          "fields": [
+            "Accountancy",
+            "Business and Commerce",
+            "Finance",
+            "Management"
+          ]
+        },
+        {
+          "name": "Faculty : Islamic Studies",
+          "fields": [
+            "Islamic Theology",
+            "Religious Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Law and Legal Practice",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Media and Communication",
+          "fields": [
+            "Mass Communication",
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Media and Information Technology",
+          "fields": [
+            "Information Management",
+            "Information Technology",
+            "Marketing",
+            "Multimedia",
+            "Public Relations"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma",
+          "fields": [
+            "Medical Auxiliaries",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Architecture",
+            "Biotechnology",
+            "Business Administration",
+            "Business and Commerce",
+            "Civil Engineering",
+            "Dentistry",
+            "Education",
+            "Engineering",
+            "English",
+            "Finance",
+            "Health Administration",
+            "Health Sciences",
+            "Information Management",
+            "Information Technology",
+            "Islamic Theology",
+            "Law",
+            "Management",
+            "Marketing",
+            "Mass Communication",
+            "Media Studies",
+            "Medicine",
+            "Multimedia",
+            "Nutrition",
+            "Pharmacy",
+            "Primary Education",
+            "Public Relations",
+            "Religious Studies",
+            "Software Engineering",
+            "Town Planning"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Salem A. Sabbah"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Nabil Abu Shaba"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Muhammad Abu Sadah"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2014-2015",
+        "Staff Full Time Total:": "80",
+        "Students Statistics Year:": "2014-2015",
+        "Students Total:": "1906"
+      },
+      "history": "Created 2005.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "7703",
+      "iau_id": "IAU-007703",
+      "name": "Ibn Sina College of Health Sciences",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tUzxQLFBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007703",
+      "address": {
+        "Street": "Salfit Street, Al-Laban Al-Sharqiya",
+        "City": "Salfit",
+        "WWW": "https://zust.edu.ps"
+      },
+      "website": "https://zust.edu.ps",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2014,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "College : Technical Community Studies",
+          "fields": [
+            "Computer Science",
+            "Control Engineering",
+            "Cybersecurity",
+            "Data Science",
+            "Energy Engineering",
+            "Robotics",
+            "Structural Architecture"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering and Technology",
+          "fields": [
+            "Computer Science",
+            "Control Engineering",
+            "Cybersecurity",
+            "Data Science",
+            "Energy Engineering",
+            "Robotics",
+            "Structural Architecture"
+          ]
+        },
+        {
+          "name": "Faculty : Management and Business",
+          "fields": [
+            "Accountancy",
+            "E-Business/Commerce",
+            "Finance",
+            "Human Resources",
+            "Logistics Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Natural and Health Sciences",
+          "fields": [
+            "Food Technology",
+            "Health Administration",
+            "Laboratory Techniques",
+            "Microbiology",
+            "Nursing",
+            "Paramedical Sciences"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma",
+          "fields": [
+            "Computer Science",
+            "Cosmetology",
+            "Graphic Design",
+            "Insurance",
+            "Interior Design",
+            "Marketing",
+            "Mechanical Equipment and Maintenance",
+            "Medical Technology",
+            "Nursing",
+            "Protective Services",
+            "Secretarial Studies",
+            "Technology",
+            "Telecommunications Technology"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Computer Science",
+            "Control Engineering",
+            "Cybersecurity",
+            "Data Science",
+            "E-Business/Commerce",
+            "Energy Engineering",
+            "Finance",
+            "Food Technology",
+            "Health Administration",
+            "Human Resources",
+            "Laboratory Techniques",
+            "Logistics Management",
+            "Marketing",
+            "Microbiology",
+            "Nursing",
+            "Paramedical Sciences",
+            "Robotics",
+            "Structural Architecture"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Dawood Al-Zaatari"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Fahoum Shalabi"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2014, started academic activities 2020",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "27479",
+      "iau_id": "IAU-027479",
+      "name": "Israa University",
+      "alt_name": "(IUSG)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzxULVNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-027479",
+      "address": {
+        "Street": "P.O. Box 4051",
+        "City": "Gaza",
+        "Province": "Gaza Strip",
+        "WWW": "https://www.alaqsa.edu.ps"
+      },
+      "website": "https://www.alaqsa.edu.ps",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1991,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June. Also summer session (June to August)",
+      "languages": [
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "College : Education",
+          "fields": [
+            "Education",
+            "Pedagogy",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "College : Physical Education and Sports",
+          "fields": [
+            "Physical Education",
+            "Sports"
+          ]
+        },
+        {
+          "name": "Faculty : Applied Sciences",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Mathematics",
+            "Physics",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Arts and Human Sciences",
+          "fields": [
+            "Arabic",
+            "English",
+            "French",
+            "Geography",
+            "History",
+            "Islamic Studies",
+            "Library Science",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Faculty : Computing and Information Technology",
+          "fields": [
+            "Computer Networks",
+            "Computer Science",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Fine Arts",
+          "fields": [
+            "Ceramic Art",
+            "Graphic Design",
+            "Photography",
+            "Textile Design",
+            "Weaving"
+          ]
+        },
+        {
+          "name": "Faculty : Management and Finance",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Faculty : Media",
+          "fields": [
+            "Journalism",
+            "Media Studies",
+            "Multimedia",
+            "Radio and Television Broadcasting"
+          ]
+        },
+        {
+          "name": "Faculty : Medical Sciences",
+          "fields": [
+            "Medical Technology",
+            "Nursing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": []
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ayman Mahmoud Sobh"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Raed Hussein Al-Hajjar"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Nabil Abdullah"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1991. Acquired present status and title 2001.",
+      "periodicals": [
+        "Journal of Applied Sciences Journal of Human Sciences",
+        "Journal of Applied Sciences",
+        "Journal of Human Sciences"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "27496",
+      "iau_id": "IAU-027496",
+      "name": "Makassed University College",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzxULjM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-027496",
+      "address": {
+        "Street": "P.O. Box 1277Jamal Abdl Naser St.",
+        "City": "Gaza",
+        "Province": "Gaza Strip",
+        "Post Code": "-",
+        "WWW": "http://www.alazhar.edu.ps"
+      },
+      "website": "http://www.alazhar.edu.ps",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1991,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to August (Sept to Jan; Feb to June; June to Aug)",
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Agriculture and Environment",
+          "fields": [
+            "Agriculture",
+            "Animal Husbandry",
+            "Environmental Management",
+            "Food Science",
+            "Plant and Crop Protection"
+          ]
+        },
+        {
+          "name": "Faculty : Applied Medical Sciences",
+          "fields": [
+            "Laboratory Techniques",
+            "Physical Therapy",
+            "Radiology"
+          ]
+        },
+        {
+          "name": "Faculty : Arts and Human Sciences",
+          "fields": [
+            "Arabic",
+            "English",
+            "French",
+            "Geography",
+            "History",
+            "Literature",
+            "Middle Eastern Studies",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Faculty : Dentistry",
+          "fields": [
+            "Dentistry"
+          ]
+        },
+        {
+          "name": "Faculty : Economics and Administrative Sciences",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Economics",
+            "Political Sciences",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Foreign Languages Education",
+            "Mathematics Education",
+            "Native Language Education",
+            "Primary Education",
+            "Science Education",
+            "Teacher Trainers Education"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering and Information Technology",
+          "fields": [
+            "Engineering",
+            "Information Technology",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Law",
+            "Private Law",
+            "Public Law"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Anatomy",
+            "Immunology",
+            "Obstetrics and Gynaecology",
+            "Paediatrics",
+            "Pathology",
+            "Pharmacology",
+            "Physiology",
+            "Social and Preventive Medicine"
+          ]
+        },
+        {
+          "name": "Faculty : Pharmacy",
+          "fields": [
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Faculty : Science",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Geography",
+            "Geology",
+            "Industrial Chemistry",
+            "Mathematics",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Faculty : Sharia",
+          "fields": [
+            "Islamic Law"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Agriculture",
+            "Arabic",
+            "Chemistry",
+            "Computer Engineering",
+            "Dentistry",
+            "Economics",
+            "Education",
+            "English",
+            "Environmental Management",
+            "French",
+            "Geochemistry",
+            "Geography",
+            "Geology",
+            "History",
+            "Laboratory Techniques",
+            "Law",
+            "Literature",
+            "Mathematics",
+            "Medicine",
+            "Microbiology",
+            "Middle Eastern Studies",
+            "Pharmacy",
+            "Physical Therapy",
+            "Physics",
+            "Political Sciences",
+            "Sociology",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Agriculture",
+            "Arabic",
+            "Chemistry",
+            "Computer Engineering",
+            "Economics",
+            "Education",
+            "Engineering",
+            "English",
+            "Environmental Management",
+            "French",
+            "Geography",
+            "Geology",
+            "History",
+            "Laboratory Techniques",
+            "Law",
+            "Literature",
+            "Mathematics",
+            "Microbiology",
+            "Middle Eastern Studies",
+            "Physical Therapy",
+            "Physics",
+            "Political Sciences",
+            "Sociology",
+            "Statistics"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ahmed A. El Tayyan"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Omar K. A. Melad"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1991. Acquired status 1992.",
+      "periodicals": [
+        "Journal of Al-Azhar University-Gaza (Humanities) Journal of Al-Azhar University-Gaza (Natural Sciences)",
+        "Journal of Al-Azhar University-Gaza (Humanities)",
+        "Journal of Al-Azhar University-Gaza (Natural Sciences)"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "27481",
+      "iau_id": "IAU-027481",
+      "name": "Modern University College",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzxULiMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-027481",
+      "address": {
+        "Street": "P.O. Box 24013 Zababdeh",
+        "City": "Jenin",
+        "Province": "West Bank",
+        "WWW": "https://www.aaup.edu"
+      },
+      "website": "https://www.aaup.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1996,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "October to July",
+      "languages": [
+        "English",
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "College : Graduate Studies",
+          "fields": [
+            "Applied Mathematics",
+            "Business Administration",
+            "Commercial Law",
+            "Computer Science",
+            "Peace and Disarmament"
+          ]
+        },
+        {
+          "name": "Faculty : Administrative and Financial Sciences",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Finance",
+            "Human Resources",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Allied Medical Sciences",
+          "fields": [
+            "Community Health",
+            "Environmental Management",
+            "Medical Auxiliaries",
+            "Medical Technology",
+            "Nursing",
+            "Occupational Therapy",
+            "Pharmacy",
+            "Physical Therapy",
+            "Speech Therapy and Audiology"
+          ]
+        },
+        {
+          "name": "Faculty : Arts",
+          "fields": [
+            "Arabic",
+            "Education",
+            "English",
+            "Foreign Languages Education",
+            "Mathematics Education",
+            "Native Language Education",
+            "Primary Education",
+            "Science Education"
+          ]
+        },
+        {
+          "name": "Faculty : Data Science",
+          "fields": [
+            "Data Science",
+            "Finance",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Faculty : Dentistry",
+          "fields": [
+            "Dental Technology",
+            "Dentistry"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Architecture",
+            "Biomedical Engineering",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Electrical Engineering",
+            "Mechanical Engineering",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Information Technology",
+          "fields": [
+            "Computer Networks",
+            "Computer Science",
+            "Multimedia",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Islamic Law",
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Modern Media",
+          "fields": [
+            "Communication Studies",
+            "Media Studies",
+            "Multimedia",
+            "Public Relations"
+          ]
+        },
+        {
+          "name": "Faculty : Modern Sciences",
+          "fields": [
+            "E-Business/Commerce",
+            "Industrial Design",
+            "Interior Design",
+            "Optometry"
+          ]
+        },
+        {
+          "name": "Faculty : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Faculty : Pharmacy",
+          "fields": [
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Faculty : Sciences",
+          "fields": [
+            "Applied Chemistry",
+            "Biology",
+            "Biotechnology",
+            "Chemistry",
+            "Mathematics",
+            "Physics",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Faculty : Sport Sciences",
+          "fields": [
+            "Sports"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma",
+          "fields": [
+            "Banking",
+            "Dental Technology",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Computer Science",
+            "Dentistry",
+            "Environmental Studies",
+            "Finance",
+            "Health Administration",
+            "Health Sciences",
+            "Information Management",
+            "Information Technology",
+            "Law",
+            "Management",
+            "Marketing",
+            "Medical Technology",
+            "Multimedia",
+            "Nursing",
+            "Occupational Therapy",
+            "Physical Therapy",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Higher Diploma",
+          "fields": [
+            "Oral Pathology"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Applied Mathematics",
+            "Business Administration",
+            "Commercial Law",
+            "Computer Science",
+            "Peace and Disarmament"
+          ]
+        },
+        {
+          "name": "Doctorate",
+          "fields": [
+            "Education",
+            "Educational Administration",
+            "Educational Psychology",
+            "Information Technology",
+            "Nursing",
+            "Physics",
+            "Special Education"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ali Zedan Abu Zuhri"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Muayad Abu Saa"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Fadi Jumaa"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2021-2022",
+        "Staff Full Time Total:": "254",
+        "Students Statistics Year:": "2021-2022",
+        "Students Total:": "13483"
+      },
+      "history": "Founded 1996 as the first private university in Palestine. Started programs 2000.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "13276",
+      "iau_id": "IAU-013276",
+      "name": "Palestine Ahliya University",
+      "alt_name": "Palestine National University (PAU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyxSLVM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-013276",
+      "address": {
+        "Street": "270 Hebron-Jerusalem Street",
+        "City": "Bethlehem",
+        "WWW": "https://bethbc.edu"
+      },
+      "website": "https://bethbc.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2000,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Biblical Studies",
+          "fields": [
+            "Bible"
+          ]
+        },
+        {
+          "name": "Course/Programme : Christian Leadership and Ministry",
+          "fields": [
+            "Christian Religious Studies"
+          ]
+        },
+        {
+          "name": "Course/Programme : Hebrew",
+          "fields": [
+            "Hebrew"
+          ]
+        },
+        {
+          "name": "Course/Programme : Mass Media",
+          "fields": [
+            "Media Studies"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma",
+          "fields": [
+            "Hebrew",
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Bible"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Christian Religious Studies"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Jack Sara"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Munther Isaac"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2000",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "13277",
+      "iau_id": "IAU-013277",
+      "name": "Palestine College of Nursing - Khan Younis",
+      "alt_name": "(PCN)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyxSLVM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-013277",
+      "address": {
+        "Street": "P.O. Box 114075 Rue des Frères Bethlehem",
+        "City": "Jerusalem",
+        "Post Code": "92248",
+        "WWW": "https://www.bethlehem.edu"
+      },
+      "website": "https://www.bethlehem.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1973,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "August to June (August-December; January-June)",
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Biotechnology Education and Training",
+          "fields": [
+            "Biotechnology"
+          ]
+        },
+        {
+          "name": "Centre : Palestinian Heritage",
+          "fields": [
+            "Heritage Preservation"
+          ]
+        },
+        {
+          "name": "Centre : Teaching Excellence",
+          "fields": [
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Faculty : Arts",
+          "fields": [
+            "Arabic",
+            "Arts and Humanities",
+            "English",
+            "Religious Studies",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Business Administration",
+          "fields": [
+            "Accountancy",
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Education",
+            "Pedagogy",
+            "Preschool Education",
+            "Primary Education"
+          ]
+        },
+        {
+          "name": "Faculty : Nursing and Health Sciences",
+          "fields": [
+            "Midwifery",
+            "Nursing",
+            "Occupational Therapy",
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "Faculty : Science",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Institute : Community Partnership",
+          "fields": [
+            "Hotel Management",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Institute : Hotel Management and Tourism",
+          "fields": [
+            "Hotel Management",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Institute : Leadership",
+          "fields": [
+            "Leadership"
+          ]
+        },
+        {
+          "name": "Research Division : Heriditary",
+          "fields": [
+            "Genetics"
+          ]
+        },
+        {
+          "name": "Research Division : Water and Soil Environment",
+          "fields": [
+            "Soil Science",
+            "Water Science"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma",
+          "fields": [
+            "Education",
+            "Paediatrics",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Intermediate Diploma",
+          "fields": [
+            "Hotel Management",
+            "Religious Studies",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Arabic",
+            "Biology",
+            "Business Administration",
+            "Chemistry",
+            "Education",
+            "English",
+            "Fine Arts",
+            "Geography",
+            "History",
+            "Hotel Management",
+            "Literature",
+            "Mathematics",
+            "Mathematics Education",
+            "Midwifery",
+            "Nursing",
+            "Occupational Therapy",
+            "Physical Therapy",
+            "Physics",
+            "Preschool Education",
+            "Religious Studies",
+            "Social Work",
+            "Sociology",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Higher Diploma",
+          "fields": [
+            "Education",
+            "Paediatrics"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Biotechnology",
+            "Development Studies",
+            "International Relations and Diplomacy",
+            "Nursing",
+            "Oncology",
+            "Social Work",
+            "Tourism"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Hernán Santos"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Iman Saca"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Peter Iorlano"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1973 by the American De La Salle Brothers and tracing its origins to a College they opened in 1893. A private Institution recognized by the Ministry of Higher Education and sponsored by the Holy See.",
+      "periodicals": [
+        "Journal",
+        "Journal"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "13280",
+      "iau_id": "IAU-013280",
+      "name": "Palestine Technical College - Deir Al-Balah",
+      "alt_name": "(PCDB)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyxSLiNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-013280",
+      "address": {
+        "Street": "Mureir Mountain",
+        "City": "Bethlehem",
+        "WWW": "https://www.daralkalima.edu.ps"
+      },
+      "website": "https://www.daralkalima.edu.ps",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2006,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Cultural Heritage and Tourism Studies",
+          "fields": [
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Department/Division : Performing Arts",
+          "fields": [
+            "Acting",
+            "Music",
+            "Performing Arts",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Department/Division : Sports",
+          "fields": [
+            "Sports",
+            "Sports Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Visual Arts",
+          "fields": [
+            "Ceramic Art",
+            "Film",
+            "Fine Arts",
+            "Glass Art",
+            "Graphic Design",
+            "Interior Design"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma",
+          "fields": [
+            "Art Education",
+            "Film",
+            "Fine Arts",
+            "Glass Art"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Design",
+            "Film",
+            "Fine Arts",
+            "Graphic Design",
+            "Interior Design",
+            "Performing Arts",
+            "Sports Management",
+            "Tourism",
+            "Visual Arts"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Mitri Raheb"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Jalal Odeh"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2006",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "13279",
+      "iau_id": "IAU-013282-013279",
+      "name": "Palestine Technical University - Khadouri – Palestine Technical University - Khadouri / Al-Aroub Branch",
+      "alt_name": "(PTKU - Aroub Branch)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyxSLVNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-013282-013279",
+      "address": {
+        "Street": "P.O. Box 5041Aoun Al Shawa Street - Tal Al Hawa",
+        "City": "Gaza",
+        "WWW": "http://gu.edu.ps"
+      },
+      "website": "http://gu.edu.ps",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2007,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "College : Computer Science and Information Technology",
+          "fields": [
+            "Computer Science",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "College : Engineering",
+          "fields": [
+            "Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Administrative and Financial Sciences",
+          "fields": [
+            "Administration",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Faculty : Communication and Languages",
+          "fields": [
+            "Arabic",
+            "English"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Law"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Administration",
+            "Arabic",
+            "Computer Science",
+            "Education",
+            "Engineering",
+            "English",
+            "Finance",
+            "Information Technology",
+            "Law"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "International Relations Officer",
+          "name": "Ali A. Mansour"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2007.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "13281",
+      "iau_id": "IAU-013282-013281",
+      "name": "Palestine Technical University - Khadouri – Palestine Technical University - Khadouri / Ramallah Branch",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyxSLiMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-013282-013281",
+      "address": {
+        "Street": "P.O. Box 4014 University Street",
+        "City": "Hebron",
+        "Province": "West Bank",
+        "WWW": "https://www.hebron.edu"
+      },
+      "website": "https://www.hebron.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1971,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June (September-January; February-June)",
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Agricultural Center for Training and Extension",
+          "fields": [
+            "Agricultural Economics",
+            "Agriculture",
+            "Animal Husbandry",
+            "Food Technology",
+            "Irrigation",
+            "Nutrition",
+            "Plant and Crop Protection",
+            "Soil Science"
+          ]
+        },
+        {
+          "name": "Centre : Educational and Psychological Research",
+          "fields": [
+            "Agricultural Economics",
+            "Agriculture",
+            "Animal Husbandry",
+            "Food Technology",
+            "Irrigation",
+            "Nutrition",
+            "Plant and Crop Protection",
+            "Soil Science"
+          ]
+        },
+        {
+          "name": "Centre : eLearning",
+          "fields": [
+            "Agricultural Economics",
+            "Agriculture",
+            "Animal Husbandry",
+            "Food Technology",
+            "Irrigation",
+            "Nutrition",
+            "Plant and Crop Protection",
+            "Soil Science"
+          ]
+        },
+        {
+          "name": "Centre : Excellence Center",
+          "fields": [
+            "Agricultural Economics",
+            "Agriculture",
+            "Animal Husbandry",
+            "Food Technology",
+            "Irrigation",
+            "Nutrition",
+            "Plant and Crop Protection",
+            "Soil Science"
+          ]
+        },
+        {
+          "name": "Centre : Plant Protection Research Center",
+          "fields": [
+            "Agricultural Economics",
+            "Agriculture",
+            "Animal Husbandry",
+            "Food Technology",
+            "Irrigation",
+            "Nutrition",
+            "Plant and Crop Protection",
+            "Soil Science"
+          ]
+        },
+        {
+          "name": "Centre : Radiation Pollution",
+          "fields": [
+            "Agricultural Economics",
+            "Agriculture",
+            "Animal Husbandry",
+            "Food Technology",
+            "Irrigation",
+            "Nutrition",
+            "Plant and Crop Protection",
+            "Soil Science"
+          ]
+        },
+        {
+          "name": "Centre : Renewable Energy",
+          "fields": [
+            "Agricultural Economics",
+            "Agriculture",
+            "Animal Husbandry",
+            "Food Technology",
+            "Irrigation",
+            "Nutrition",
+            "Plant and Crop Protection",
+            "Soil Science"
+          ]
+        },
+        {
+          "name": "Centre : Research & Consultation",
+          "fields": [
+            "Agricultural Economics",
+            "Agriculture",
+            "Animal Husbandry",
+            "Food Technology",
+            "Irrigation",
+            "Nutrition",
+            "Plant and Crop Protection",
+            "Soil Science"
+          ]
+        },
+        {
+          "name": "Centre : Strategic Studies",
+          "fields": [
+            "Agricultural Economics",
+            "Agriculture",
+            "Animal Husbandry",
+            "Food Technology",
+            "Irrigation",
+            "Nutrition",
+            "Plant and Crop Protection",
+            "Soil Science"
+          ]
+        },
+        {
+          "name": "Department/Division : Continuing Education",
+          "fields": [
+            "Agricultural Economics",
+            "Agriculture",
+            "Animal Husbandry",
+            "Food Technology",
+            "Irrigation",
+            "Nutrition",
+            "Plant and Crop Protection",
+            "Soil Science"
+          ]
+        },
+        {
+          "name": "Faculty : Agriculture",
+          "fields": [
+            "Agricultural Economics",
+            "Agriculture",
+            "Animal Husbandry",
+            "Food Technology",
+            "Irrigation",
+            "Nutrition",
+            "Plant and Crop Protection",
+            "Soil Science"
+          ]
+        },
+        {
+          "name": "Faculty : Arts",
+          "fields": [
+            "Arabic",
+            "English",
+            "Geography",
+            "History",
+            "Mass Communication"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Education",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Faculty : Finance and Management",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Finance",
+            "Marketing",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "Faculty : Information Technology",
+          "fields": [
+            "Computer Science",
+            "Information Technology",
+            "Multimedia"
+          ]
+        },
+        {
+          "name": "Faculty : Islamic Studies and Shari'a",
+          "fields": [
+            "Islamic Studies",
+            "Islamic Theology",
+            "Religious Education"
+          ]
+        },
+        {
+          "name": "Faculty : Law and Political Sciences",
+          "fields": [
+            "Islamic Law",
+            "Political Sciences",
+            "Private Law",
+            "Public Law"
+          ]
+        },
+        {
+          "name": "Faculty : Nursing",
+          "fields": [
+            "Midwifery",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Faculty : Pharmacy and Medical Sciences",
+          "fields": [
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Faculty : Science and Technology",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Mathematics",
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "Graduate School : Graduate Studies",
+          "fields": [
+            "Agriculture",
+            "Arabic",
+            "Chemistry",
+            "History",
+            "Islamic Law",
+            "Linguistics",
+            "Literature",
+            "Management",
+            "Mathematics",
+            "Plant and Crop Protection",
+            "Psychology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Agricultural Economics",
+            "Agriculture",
+            "Animal Husbandry",
+            "Arabic",
+            "Biology",
+            "Business Administration",
+            "Chemistry",
+            "Computer Science",
+            "Crop Production",
+            "Education",
+            "English",
+            "Environmental Studies",
+            "Finance",
+            "Food Science",
+            "French",
+            "Geography",
+            "History",
+            "Information Technology",
+            "Islamic Law",
+            "Islamic Theology",
+            "Law",
+            "Management",
+            "Marketing",
+            "Mass Communication",
+            "Mathematics",
+            "Midwifery",
+            "Nursing",
+            "Nutrition",
+            "Pharmacy",
+            "Political Sciences",
+            "Private Law",
+            "Psychology",
+            "Public Administration",
+            "Public Law",
+            "Religious Education",
+            "Secondary Education",
+            "Soil Science"
+          ]
+        },
+        {
+          "name": "Higher Diploma",
+          "fields": [
+            "Business Administration",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Agriculture",
+            "Arabic",
+            "Business Administration",
+            "Chemistry",
+            "Crop Production",
+            "English",
+            "History",
+            "Information Technology",
+            "Islamic Law",
+            "Islamic Theology",
+            "Management",
+            "Mathematics",
+            "Psychology"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Salah Alzaroo"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Mohammed Ziyad Jabari"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Nabil Hasasneh"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Muna Irziqat"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2017-2018",
+        "Students Total:": "9743",
+        "Students Part Time:": "8"
+      },
+      "history": "Founded 1971 as the first public higher education institution established in Palestine.",
+      "periodicals": [
+        "Hebron University Research Journal",
+        "Hebron University Research Journal"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "4395",
+      "iau_id": "IAU-004395",
+      "name": "University College for Educational Sciences",
+      "alt_name": "University College of Educational Sciences",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIyxZLTBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004395",
+      "address": {
+        "City": "Nablus",
+        "Province": "West Bank",
+        "WWW": "https://ibnsina.edu.moh.ps"
+      },
+      "website": "https://ibnsina.edu.moh.ps",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1971,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Health Sciences",
+            "Nursing"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Health. Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Amal Abu Awad"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1971 as Ibn Sina Nursing and Midwifery College.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "27497",
+      "iau_id": "IAU-027497",
+      "name": "University College of Ability Development",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzxULjM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-027497",
+      "address": {
+        "Street": "972 Zahra City, Alhoria Street",
+        "City": "Gaza",
+        "WWW": "https://en.israa.edu.ps"
+      },
+      "website": "https://en.israa.edu.ps",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2014,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "College : Intermediate Studies",
+          "fields": [
+            "Medical Auxiliaries",
+            "Secretarial Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Administrative and Financial Sciences",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Finance",
+            "Management"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering and Information Technology",
+          "fields": [
+            "Engineering",
+            "Heating and Refrigeration",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Humanities",
+          "fields": [
+            "Arts and Humanities"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Medical Sciences",
+          "fields": [
+            "Nursing",
+            "Pharmacy"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma",
+          "fields": [
+            "Accountancy",
+            "Arts and Humanities",
+            "Business Administration",
+            "Clinical Psychology",
+            "Computer Engineering",
+            "Computer Networks",
+            "Engineering",
+            "English",
+            "Finance",
+            "Heating and Refrigeration",
+            "Human Rights",
+            "Information Technology",
+            "Law",
+            "Management",
+            "Mechanical Engineering",
+            "Medical Auxiliaries",
+            "Medical Technology",
+            "Nursing",
+            "Pharmacy",
+            "Political Sciences",
+            "Secretarial Studies"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Arts and Humanities",
+            "Business Administration",
+            "Clinical Psychology",
+            "Computer Engineering",
+            "Computer Networks",
+            "Engineering",
+            "English",
+            "Finance",
+            "Heating and Refrigeration",
+            "Human Rights",
+            "Information Technology",
+            "Law",
+            "Management",
+            "Mechanical Engineering",
+            "Medical Auxiliaries",
+            "Medical Technology",
+            "Nursing",
+            "Pharmacy",
+            "Political Sciences",
+            "Secretarial Studies"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Adnan Al-Hajjar"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Nabil Abu Shmalla"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2019-2020",
+        "Staff Full Time Total:": "41",
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "277"
+      },
+      "history": "Founded 2014",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "19979",
+      "iau_id": "IAU-019979",
+      "name": "University College of Applied Sciences",
+      "alt_name": "(UCAS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RZLVNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019979",
+      "address": {
+        "Street": "next to Mount of Olives",
+        "City": "Jerusalem",
+        "Province": "West Bank",
+        "WWW": "https://www.makassed.org/ar/university"
+      },
+      "website": "https://www.makassed.org/ar/university",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2000,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "College : Islamic Studies",
+          "fields": [
+            "Islamic Studies"
+          ]
+        },
+        {
+          "name": "College : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Nursing"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Faisal Snow"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Minah Ramadan"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2000.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    }
+  ]
+}

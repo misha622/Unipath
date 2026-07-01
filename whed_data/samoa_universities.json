@@ -1,0 +1,264 @@
+{
+  "country_name": "Samoa",
+  "country_id": "Samoa",
+  "institutions": [
+    {
+      "id": "10876",
+      "iau_id": "IAU-010876",
+      "name": "National University of Samoa",
+      "alt_name": "Le Iunivesite Aoao o Samoa (NUS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM2BYLVM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-010876",
+      "address": {
+        "Street": "PO Box 1622",
+        "City": "Apia",
+        "WWW": "http://www.nus.edu.ws"
+      },
+      "website": "http://www.nus.edu.ws",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1984,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "February to November (February-June; July-November)",
+      "languages": [
+        "English",
+        "Samoan"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Samoan Studies",
+          "fields": [
+            "Anthropology",
+            "Archaeology",
+            "Cultural Studies",
+            "Native Language",
+            "Pacific Area Studies"
+          ]
+        },
+        {
+          "name": "Faculty :  Business and Entrepreneurship",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Commercial Law",
+            "Finance",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Applied Science",
+          "fields": [
+            "Dental Hygiene",
+            "Environmental Management",
+            "Health Administration",
+            "Health Education",
+            "Medical Technology",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Faculty : Arts",
+          "fields": [
+            "Anthropology",
+            "Chinese",
+            "Communication Studies",
+            "English",
+            "French",
+            "Geography",
+            "History",
+            "Japanese",
+            "Journalism",
+            "Political Sciences",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Education",
+            "Physical Education",
+            "Secondary Education",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Faculty : Science",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Mathematics",
+            "Nautical Science",
+            "Physics",
+            "Science Education"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Certificate",
+          "fields": [
+            "Arts and Humanities",
+            "Business and Commerce",
+            "Education",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Diploma",
+          "fields": [
+            "Arts and Humanities",
+            "Business and Commerce",
+            "Education",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Arts and Humanities",
+            "Business and Commerce",
+            "Education",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Graduate Diploma",
+          "fields": [
+            "Education",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Arts and Humanities"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Le’apai Tu’ua ‘Ilaoa Asofou So’o"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Valovalo Pauga Tusani"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1984 by statutory authority of the National University of Samoa Act. Funded almost entirely by Government grants. The Western Samoa Teachers College was amalgamated to the University in 1997 to create its Faculty of Education. Acquired present status and title 2006.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20579",
+      "iau_id": "IAU-020579",
+      "name": "University of the South Pacific, School of Agriculture and Food Technology",
+      "alt_name": "(USP)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BVLVNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020579",
+      "address": {
+        "Street": "Alafua CampusPrivate Mail Bag",
+        "City": "Apia",
+        "WWW": "http://www.usp.ac.fj/index.php?id=4697"
+      },
+      "website": "http://www.usp.ac.fj/index.php?id=4697",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1977,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "February to November (February-June; July-November)",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Agricultural Economics, Extension and Education",
+          "fields": [
+            "Agricultural Business",
+            "Agricultural Economics",
+            "Agricultural Education",
+            "Agricultural Equipment",
+            "Farm Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Animal Science",
+          "fields": [
+            "Animal Husbandry",
+            "Cattle Breeding"
+          ]
+        },
+        {
+          "name": "Department/Division : Crop Science",
+          "fields": [
+            "Biotechnology",
+            "Crop Production",
+            "Farm Management",
+            "Harvest Technology"
+          ]
+        },
+        {
+          "name": "Department/Division : Soil Science and Agricultural Engineering",
+          "fields": [
+            "Agricultural Equipment",
+            "Harvest Technology",
+            "Soil Management"
+          ]
+        },
+        {
+          "name": "Institute : Research, Extension and Training in Agriculture",
+          "fields": [
+            "Agriculture"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Certificate",
+          "fields": [
+            "Agriculture"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Agricultural Business",
+            "Agricultural Education",
+            "Agriculture"
+          ]
+        },
+        {
+          "name": "Graduate Diploma",
+          "fields": [
+            "Agriculture"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Agriculture"
+          ]
+        },
+        {
+          "name": "Ph.D.",
+          "fields": [
+            "Agriculture"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": "Founded 1977 with the objective of being the centre of academic excellence in Agriculture and related disciplines. It functions independently of Central Government.",
+      "periodicals": [],
+      "student_body": null
+    }
+  ]
+}

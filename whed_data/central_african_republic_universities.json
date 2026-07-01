@@ -1,0 +1,313 @@
+{
+  "country_name": "Central African Republic",
+  "country_id": "Central African Republic",
+  "institutions": [
+    {
+      "id": "24734",
+      "iau_id": "IAU-024734",
+      "name": "EUCLID",
+      "alt_name": "Pôle Universitaire Euclide – Euclid University",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBXLFMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024734",
+      "address": {
+        "Street": "Campus ENAM, BP 157, Avenue de France",
+        "City": "Bangui",
+        "WWW": "http://www.euclid.int"
+      },
+      "website": "http://www.euclid.int",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "French",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Online distance learning",
+          "fields": [
+            "Business Administration",
+            "Finance",
+            "International Relations and Diplomacy",
+            "Public Health",
+            "Theology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Master I/II",
+          "fields": [
+            "Business Administration",
+            "Education",
+            "Finance",
+            "International Relations and Diplomacy",
+            "Public Administration",
+            "Public Health",
+            "Sustainable Development",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Doctorat",
+          "fields": [
+            "Business Administration",
+            "Education",
+            "Finance",
+            "International Relations and Diplomacy",
+            "Public Administration",
+            "Public Health",
+            "Sustainable Development",
+            "Theology"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l'Enseignement supérieur et de la Recherche",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Faustin-Archange Touadera"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Abdoulaye Sépou"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Winston Dookeran"
+        }
+      ],
+      "statistics": {},
+      "history": "EUCLID was registred in 2008 under a United Nations Treaty, under the references 49006 and 49007. EUCLID offers online and distance learning programmes",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "19564",
+      "iau_id": "IAU-019564",
+      "name": "University of Bangui",
+      "alt_name": "Université de Bangui",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RVLUMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019564",
+      "address": {
+        "Street": "Avenue des Martyrs, BP 1450",
+        "City": "Bangui",
+        "WWW": "https://www.univ-bangui.org"
+      },
+      "website": "https://www.univ-bangui.org",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1969,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June (September-December; January-March; April-June)",
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Arts and Humanities",
+          "fields": [
+            "Anthropology",
+            "Arts and Humanities",
+            "Communication Studies",
+            "Educational Sciences",
+            "English",
+            "Geography (Human)",
+            "History",
+            "Information Sciences",
+            "Modern Languages",
+            "Philosophy",
+            "Social Sciences",
+            "Sociology",
+            "Spanish"
+          ]
+        },
+        {
+          "name": "Faculty : Health and Sciences",
+          "fields": [
+            "Anaesthesiology",
+            "Biomedicine",
+            "Community Health",
+            "Health Education",
+            "Health Sciences",
+            "Laboratory Techniques",
+            "Medicine",
+            "Midwifery",
+            "Nursing",
+            "Obstetrics and Gynaecology",
+            "Paediatrics",
+            "Public Health",
+            "Social Work",
+            "Surgery"
+          ]
+        },
+        {
+          "name": "Faculty : Law and Economics",
+          "fields": [
+            "Economics",
+            "Law",
+            "Management",
+            "Private Law",
+            "Public Law",
+            "Rural Planning"
+          ]
+        },
+        {
+          "name": "Institute : Applied Linguistics",
+          "fields": [
+            "Applied Linguistics",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Institute : Business Management",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Institute : Rural Development",
+          "fields": [
+            "Cattle Breeding",
+            "Forestry",
+            "Rural Studies",
+            "Water Management"
+          ]
+        },
+        {
+          "name": "Institute : Technology and Science",
+          "fields": [
+            "Biology",
+            "Building Technologies",
+            "Chemistry",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Geological Engineering",
+            "Geology",
+            "Industrial Engineering",
+            "Mathematics",
+            "Mining Engineering",
+            "Physics",
+            "Science Education",
+            "Technology"
+          ]
+        },
+        {
+          "name": "School : Higher Teacher Training College",
+          "fields": [
+            "Agricultural Education",
+            "Agricultural Engineering",
+            "Agriculture",
+            "Arts and Humanities",
+            "Biological and Life Sciences",
+            "Cattle Breeding",
+            "Earth Sciences",
+            "Educational and Student Counselling",
+            "Educational Psychology",
+            "English",
+            "Forestry",
+            "Geography",
+            "Geography (Human)",
+            "History",
+            "Mathematics",
+            "Mathematics Education",
+            "Modern Languages",
+            "Pedagogy",
+            "Physics",
+            "Primary Education",
+            "Secondary Education",
+            "Teacher Training"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diplôme universitaire de Technologie",
+          "fields": [
+            "Agriculture",
+            "Civil Engineering",
+            "Computer Science",
+            "Geology",
+            "Industrial Engineering",
+            "Management",
+            "Mining Engineering"
+          ]
+        },
+        {
+          "name": "Licence",
+          "fields": [
+            "Arts and Humanities",
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Development Studies",
+            "Economics",
+            "Law",
+            "Management",
+            "Mathematics",
+            "Natural Sciences",
+            "Physics",
+            "Rural Planning"
+          ]
+        },
+        {
+          "name": "Diplôme d'Ingénieur",
+          "fields": [
+            "Cattle Breeding",
+            "Forestry",
+            "Rural Studies"
+          ]
+        },
+        {
+          "name": "Doctorat en Médecine",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Master I/II",
+          "fields": [
+            "Anthropology",
+            "Applied Linguistics",
+            "Arts and Humanities",
+            "Biology",
+            "Business Administration",
+            "Chemistry",
+            "Computer Science",
+            "Economics",
+            "Educational Sciences",
+            "Geography (Human)",
+            "History",
+            "Law",
+            "Mathematics",
+            "Modern Languages",
+            "Sociology",
+            "Translation and Interpretation"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l'Enseignement supérieur et de la Recherche",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Gérard Gresenguet"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1969. Formerly Institut d'Etudes juridiques of the Fondation de l'Enseignement supérieur en Afrique centrale. Acquired present status 1985",
+      "periodicals": [
+        "Annales Revue d'Histoire et d'Archéologie Centrafricaine",
+        "Annales",
+        "Revue d'Histoire et d'Archéologie Centrafricaine"
+      ],
+      "student_body": "co-ed"
+    }
+  ]
+}

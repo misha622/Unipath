@@ -1,0 +1,3165 @@
+{
+  "country_name": "North Macedonia (Republic of)",
+  "country_id": "North Macedonia (Republic of)",
+  "institutions": [
+    {
+      "id": "6382",
+      "iau_id": "IAU-006382",
+      "name": "American University of Europe - FON",
+      "alt_name": "(AUE-FON)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tQyxYLEBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-006382",
+      "address": {
+        "Street": "Bul Goce Delcev, 9",
+        "City": "Skopje",
+        "Post Code": "10000",
+        "WWW": "https://www.ukim.edu.mk"
+      },
+      "website": "https://www.ukim.edu.mk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1949,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "October to June (October-January; February-June)",
+      "languages": [
+        "Macedonian",
+        "Turkish",
+        "Albanian"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Agricultural Science and Food",
+          "fields": [
+            "Agricultural Economics",
+            "Agricultural Engineering",
+            "Agricultural Equipment",
+            "Agriculture",
+            "Animal Husbandry",
+            "Botany",
+            "Cattle Breeding",
+            "Crop Production",
+            "Fruit Production",
+            "Genetics",
+            "Horticulture",
+            "Mechanical Engineering",
+            "Microbiology",
+            "Plant and Crop Protection",
+            "Soil Conservation",
+            "Soil Science",
+            "Vegetable Production",
+            "Viticulture"
+          ]
+        },
+        {
+          "name": "Faculty : Architecture",
+          "fields": [
+            "Architectural and Environmental Design",
+            "Architecture",
+            "Building Technologies",
+            "Graphic Design",
+            "Mathematics",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "Faculty : Civil Engineering",
+          "fields": [
+            "Building Technologies",
+            "Civil Engineering",
+            "Construction Engineering",
+            "Hydraulic Engineering",
+            "Irrigation",
+            "Mathematics",
+            "Power Engineering",
+            "Railway Engineering",
+            "Surveying and Mapping",
+            "Water Science"
+          ]
+        },
+        {
+          "name": "Faculty : Computer Science and Engineering",
+          "fields": [
+            "Computer Engineering",
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Faculty : Dentistry",
+          "fields": [
+            "Dental Technology",
+            "Dentistry",
+            "Oral Pathology"
+          ]
+        },
+        {
+          "name": "Faculty : Dramatic Arts",
+          "fields": [
+            "Acting",
+            "Cinema and Television",
+            "Film",
+            "Theatre",
+            "Writing"
+          ]
+        },
+        {
+          "name": "Faculty : Economics",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Computer Science",
+            "Economics",
+            "Finance",
+            "International Economics",
+            "Management",
+            "Marketing",
+            "Mathematics and Computer Science",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Faculty : Electrical Engineering and Information Technology",
+          "fields": [
+            "Computer Science",
+            "Electrical and Electronic Engineering",
+            "Electronics and Automation",
+            "Information Technology",
+            "Physics",
+            "Power Engineering",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Fine Arts",
+          "fields": [
+            "Art Education",
+            "Fine Arts",
+            "Graphic Arts",
+            "Painting and Drawing",
+            "Sculpture",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Faculty : Forestry",
+          "fields": [
+            "Botany",
+            "Environmental Management",
+            "Forest Biology",
+            "Forest Economics",
+            "Forest Management",
+            "Forest Products",
+            "Forestry",
+            "Wood Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Furniture and Interior Design",
+          "fields": [
+            "Furniture Design",
+            "Interior Design"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Civil Law",
+            "Criminology",
+            "International Law",
+            "International Relations and Diplomacy",
+            "Journalism",
+            "Law",
+            "Political Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Mechanical Engineering",
+          "fields": [
+            "Hydraulic Engineering",
+            "Machine Building",
+            "Mathematics and Computer Science",
+            "Mechanical Engineering",
+            "Mechanical Equipment and Maintenance",
+            "Metal Techniques",
+            "Power Engineering",
+            "Production Engineering",
+            "Thermal Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Anaesthesiology",
+            "Anatomy",
+            "Cardiology",
+            "Endocrinology",
+            "Epidemiology",
+            "Haematology",
+            "Health Sciences",
+            "Medicine",
+            "Nephrology",
+            "Neurology",
+            "Nursing",
+            "Obstetrics and Gynaecology",
+            "Ophthalmology",
+            "Orthopaedics",
+            "Otorhinolaryngology",
+            "Physical Therapy",
+            "Physiology",
+            "Plastic Surgery",
+            "Psychology",
+            "Radiology",
+            "Rheumatology",
+            "Surgery",
+            "Toxicology",
+            "Urology"
+          ]
+        },
+        {
+          "name": "Faculty : Music",
+          "fields": [
+            "Conducting",
+            "Music",
+            "Music Theory and Composition",
+            "Musical Instruments",
+            "Musicology",
+            "Singing"
+          ]
+        },
+        {
+          "name": "Faculty : Natural Sciences and Mathematics",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Geography",
+            "Mathematics",
+            "Natural Sciences",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Faculty : Pedagogy",
+          "fields": [
+            "Library Science",
+            "Pedagogy",
+            "Preschool Education",
+            "Primary Education"
+          ]
+        },
+        {
+          "name": "Faculty : Pharmacy",
+          "fields": [
+            "Analytical Chemistry",
+            "Biochemistry",
+            "Botany",
+            "Computer Science",
+            "Immunology",
+            "Inorganic Chemistry",
+            "Molecular Biology",
+            "Organic Chemistry",
+            "Pharmacology",
+            "Pharmacy",
+            "Toxicology"
+          ]
+        },
+        {
+          "name": "Faculty : Philology",
+          "fields": [
+            "Albanian",
+            "Comparative Literature",
+            "English",
+            "German",
+            "Native Language",
+            "Philology",
+            "Romance Languages",
+            "Slavic Languages",
+            "Translation and Interpretation",
+            "Turkish"
+          ]
+        },
+        {
+          "name": "Faculty : Philosophy",
+          "fields": [
+            "Archaeology",
+            "Art History",
+            "Classical Languages",
+            "Family Studies",
+            "Gender Studies",
+            "History",
+            "Pedagogy",
+            "Philosophy",
+            "Protective Services",
+            "Psychology",
+            "Social Policy",
+            "Social Work",
+            "Sociology",
+            "Special Education"
+          ]
+        },
+        {
+          "name": "Faculty : Physical Education, Sport and Health",
+          "fields": [
+            "Health Sciences",
+            "Physical Education",
+            "Sports"
+          ]
+        },
+        {
+          "name": "Faculty : Technology and Metallurgy",
+          "fields": [
+            "Biotechnology",
+            "Industrial Design",
+            "Inorganic Chemistry",
+            "Metallurgical Engineering",
+            "Organic Chemistry",
+            "Technology",
+            "Textile Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Theology in Skopje",
+          "fields": [
+            "Theology"
+          ]
+        },
+        {
+          "name": "Faculty : Veterinary Medicine",
+          "fields": [
+            "Gender Studies",
+            "Microbiology",
+            "Pathology",
+            "Veterinary Science",
+            "Zoology"
+          ]
+        },
+        {
+          "name": "Institute : Agriculture",
+          "fields": [
+            "Agriculture",
+            "Chemistry",
+            "Fruit Production",
+            "Horticulture",
+            "Plant and Crop Protection",
+            "Viticulture"
+          ]
+        },
+        {
+          "name": "Institute : Cattle Breeding",
+          "fields": [
+            "Animal Husbandry",
+            "Cattle Breeding",
+            "Zoology"
+          ]
+        },
+        {
+          "name": "Institute : Earthquake Engineering and Seismology",
+          "fields": [
+            "Building Technologies",
+            "Computer Science",
+            "Engineering Management",
+            "Geology",
+            "Geophysics",
+            "Safety Engineering",
+            "Seismology"
+          ]
+        },
+        {
+          "name": "Institute : Economics",
+          "fields": [
+            "Business Administration",
+            "Business and Commerce",
+            "Development Studies",
+            "Economic and Finance Policy",
+            "Economics",
+            "Finance",
+            "International Economics",
+            "International Relations and Diplomacy",
+            "Management",
+            "Marketing",
+            "Small Business",
+            "Taxation"
+          ]
+        },
+        {
+          "name": "Institute : Folklore",
+          "fields": [
+            "Cultural Studies",
+            "Dance",
+            "Folklore",
+            "Music",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Institute : Macedonian Language",
+          "fields": [
+            "Cultural Studies",
+            "Literature",
+            "Native Language",
+            "Slavic Languages",
+            "Terminology"
+          ]
+        },
+        {
+          "name": "Institute : Macedonian Literature",
+          "fields": [
+            "Comparative Literature",
+            "Documentation Techniques",
+            "Literature",
+            "Native Language",
+            "Regional Studies"
+          ]
+        },
+        {
+          "name": "Institute : National History",
+          "fields": [
+            "Ancient Civilizations",
+            "Documentation Techniques",
+            "History",
+            "Library Science",
+            "Medieval Studies",
+            "Modern History",
+            "Publishing and Book Trade"
+          ]
+        },
+        {
+          "name": "Institute : Sociology, Political Science and Law",
+          "fields": [
+            "Communication Studies",
+            "Criminology",
+            "Cultural Studies",
+            "Demography and Population",
+            "Ethnology",
+            "Human Resources",
+            "Human Rights",
+            "International Relations and Diplomacy",
+            "Law",
+            "Marketing",
+            "Media Studies",
+            "Political Sciences",
+            "Social Sciences",
+            "Sociology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma za završen prv ciklus na studii - Diplomiran",
+          "fields": [
+            "Agriculture",
+            "Architecture",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Dentistry",
+            "Economics",
+            "Engineering",
+            "Fine Arts",
+            "Forestry",
+            "Mechanical Engineering",
+            "Medicine",
+            "Music",
+            "Natural Sciences",
+            "Pharmacy",
+            "Philology",
+            "Philosophy",
+            "Physical Education",
+            "Physical Therapy",
+            "Sports Management",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Diploma za završen vtor ciklus na studii - Magister",
+          "fields": [
+            "Agriculture",
+            "Architecture",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Dentistry",
+            "Economics",
+            "Engineering",
+            "Fine Arts",
+            "Forestry",
+            "Mechanical Engineering",
+            "Medicine",
+            "Music",
+            "Natural Sciences",
+            "Pharmacy",
+            "Philology",
+            "Philosophy",
+            "Physical Education",
+            "Physical Therapy",
+            "Sports Management",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Diploma za završeni specialistički studii",
+          "fields": [
+            "Cosmetology",
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Doktor",
+          "fields": [
+            "Agriculture",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Dentistry",
+            "Engineering",
+            "Forestry",
+            "Pharmacy",
+            "Philosophy",
+            "Physical Education",
+            "Physical Therapy"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Biljana Angelova"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Marija Manevska"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Elena Damjanoska"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2024-2025",
+        "Students Total:": "22000"
+      },
+      "history": "Founded 1949, incorporating faculties of Letters (1946) and Agriculture and Medicine (1947).",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "1694",
+      "iau_id": "IAU-001694",
+      "name": "Business Academy Smilevski",
+      "alt_name": "Biznis Akademija Smilevski (BAS)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sMzhZLWBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-001694",
+      "address": {
+        "Street": "Str. Kiro Gligorov br. 5",
+        "City": "Skopje",
+        "Post Code": "10000",
+        "WWW": "https://fon.edu.mk"
+      },
+      "website": "https://fon.edu.mk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "October to May (October-January; February-May)",
+      "languages": [
+        "Macedonian",
+        "English",
+        "Albanian"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Architecture",
+          "fields": [
+            "Architecture"
+          ]
+        },
+        {
+          "name": "Faculty : Communication and Information Technology",
+          "fields": [
+            "Communication Studies",
+            "Computer Engineering",
+            "Computer Networks",
+            "Computer Science",
+            "Information Technology",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Design and Multimedia",
+          "fields": [
+            "Design",
+            "Multimedia"
+          ]
+        },
+        {
+          "name": "Faculty : Economics",
+          "fields": [
+            "Banking",
+            "Economics",
+            "Finance",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Foreign Languages",
+          "fields": [
+            "Albanian",
+            "European Languages",
+            "Foreign Languages Education",
+            "Linguistics",
+            "Slavic Languages",
+            "Translation and Interpretation",
+            "Turkish"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Political Sciences",
+          "fields": [
+            "International Relations and Diplomacy",
+            "Journalism",
+            "Political Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Security and Detective Studies",
+          "fields": [
+            "Criminology",
+            "Law",
+            "Police Studies",
+            "Protective Services"
+          ]
+        },
+        {
+          "name": "Faculty : Sport and Sport Management",
+          "fields": [
+            "Sports",
+            "Sports Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma za završen prv ciklus na studii - Diplomiran",
+          "fields": [
+            "Banking",
+            "Design",
+            "Economics",
+            "European Union Law",
+            "Finance",
+            "Information Technology",
+            "International Relations and Diplomacy",
+            "Law",
+            "Multimedia",
+            "Political Sciences",
+            "Sports"
+          ]
+        },
+        {
+          "name": "Diploma za završen vtor ciklus na studii - Magister",
+          "fields": [
+            "Banking",
+            "Design",
+            "Economics",
+            "European Union Law",
+            "Finance",
+            "Information Technology",
+            "International Relations and Diplomacy",
+            "Law",
+            "Multimedia",
+            "Political Sciences",
+            "Sports"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Nano Ruzhin"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Blagoja Spirkoski"
+        }
+      ],
+      "statistics": {},
+      "history": "Previously part of European University of Macedonia (Evropskij Univerzitet Respublika Makedonija) as Faculty of Social Sciences, 2003. Became FON University in 2005. Acquired present title and status 2020.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20926",
+      "iau_id": "IAU-020926",
+      "name": "Euro College, Kumanovo",
+      "alt_name": "Euro Kolej, Kumanovo – Higher Education Professional Institution for Business Studies Euro College",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BZLEM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020926",
+      "address": {
+        "Street": "Jane Sandanski 111, bar 2",
+        "City": "Skopje",
+        "Post Code": "1000",
+        "WWW": "http://www.bas.edu.mk"
+      },
+      "website": "http://www.bas.edu.mk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2007,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Macedonian"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Operational Management",
+          "fields": [
+            "Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Strategic Management",
+          "fields": [
+            "Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma za završen prv ciklus na studii - Diplomiran",
+          "fields": [
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Diploma za završen vtor ciklus na studii - Magister",
+          "fields": [
+            "Management"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Daniela Karadakov"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Lidija Stefanovska"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2007.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "4909",
+      "iau_id": "IAU-004909",
+      "name": "European University Republic of Macedonia",
+      "alt_name": "Evropski Univerzitet vo Republika Makedonija",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tI0RQLjBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004909",
+      "address": {
+        "Street": "Done Bozinov 41",
+        "City": "Kumanovo",
+        "Post Code": "1300",
+        "WWW": "https://www.eurocollege.edu.mk"
+      },
+      "website": "https://www.eurocollege.edu.mk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2003,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Macedonian"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Business Administration",
+          "fields": [
+            "Accountancy",
+            "Behavioural Sciences",
+            "Business Administration",
+            "Commercial Law",
+            "Communication Studies",
+            "Computer Engineering",
+            "Computer Networks",
+            "Ethics",
+            "Finance",
+            "Human Resources",
+            "Industrial and Organizational Psychology",
+            "Information Management",
+            "Information Technology",
+            "Insurance",
+            "International Business",
+            "Leadership",
+            "Management",
+            "Marketing",
+            "Statistics",
+            "Transport Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma za završen prv ciklus na studii - Diplomiran",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Diploma za završen vtor ciklus na studii - Magister",
+          "fields": [
+            "Business Administration"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ljubisa Petrusevski"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Kosta Alcevski"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2003.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20681",
+      "iau_id": "IAU-020681",
+      "name": "Goce Delchev University, Stip",
+      "alt_name": "Univerzitet Gotse Delchev vo Štip (UGD)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BWLiMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020681",
+      "address": {
+        "Street": "Kliment Ohridski Blvd 68",
+        "City": "Skopje",
+        "Post Code": "1000",
+        "WWW": "https://www.eu.edu.mk"
+      },
+      "website": "https://www.eu.edu.mk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "October to May (October-January; February-May)",
+      "languages": [
+        "Macedonian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Art and Design",
+          "fields": [
+            "Fashion Design",
+            "Graphic Arts",
+            "Interior Design"
+          ]
+        },
+        {
+          "name": "Faculty : Computer Science",
+          "fields": [
+            "Computer Engineering",
+            "Computer Networks",
+            "Computer Science",
+            "Multimedia"
+          ]
+        },
+        {
+          "name": "Faculty : Dentistry",
+          "fields": [
+            "Dentistry"
+          ]
+        },
+        {
+          "name": "Faculty : Detectives and Criminology",
+          "fields": [
+            "Criminal Law",
+            "Criminology"
+          ]
+        },
+        {
+          "name": "Faculty : Economics",
+          "fields": [
+            "Finance",
+            "Health Administration",
+            "Management",
+            "Marketing",
+            "Taxation"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Law"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma za završen prv ciklus na studii - Diplomiran",
+          "fields": [
+            "Computer Science",
+            "Design",
+            "Finance",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Diploma za završen vtor ciklus na studii - Magister",
+          "fields": [
+            "Design",
+            "Economics",
+            "Finance",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Doktor",
+          "fields": [
+            "Dentistry"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Stojanka Maneva-Chuposka"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Elizabeta Stamevska"
+        }
+      ],
+      "statistics": {},
+      "history": "Created in 2001 as Faculty of Social Science. Obtained current status 2005.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "6239",
+      "iau_id": "IAU-006239",
+      "name": "Integrated Business Faculty",
+      "alt_name": "Fakultet za Biznis Ekonomija – Business Economy High Professional School - Skopje (FBE)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tQyhTLjBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-006239",
+      "address": {
+        "Street": "Krste Misirkov bbP.O. Box 201",
+        "City": "Štip",
+        "Post Code": "2000",
+        "WWW": "https://www.ugd.edu.mk"
+      },
+      "website": "https://www.ugd.edu.mk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2007,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Macedonian"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Agriculture",
+          "fields": [
+            "Agriculture",
+            "Crop Production",
+            "Development Studies",
+            "Oenology",
+            "Viticulture"
+          ]
+        },
+        {
+          "name": "Faculty : Computer Science",
+          "fields": [
+            "Business Computing",
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Faculty : Economics",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Economics",
+            "Finance",
+            "Health Administration",
+            "Insurance",
+            "International Economics",
+            "Management"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Archiving",
+            "Education",
+            "Educational Sciences",
+            "Library Science",
+            "Pedagogy",
+            "Philosophy of Education",
+            "Preschool Education",
+            "Primary Education",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Faculty : Electrical Engineering",
+          "fields": [
+            "Electrical Engineering",
+            "Electronics and Automation"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "European Union Law",
+            "International Relations and Diplomacy",
+            "Journalism",
+            "Law",
+            "Public Administration",
+            "Public Relations"
+          ]
+        },
+        {
+          "name": "Faculty : Mechanical Engineering",
+          "fields": [
+            "Machine Building",
+            "Mechanical Engineering",
+            "Production Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Dental Technology",
+            "Dentistry",
+            "Laboratory Techniques",
+            "Medicine",
+            "Nursing",
+            "Optometry",
+            "Pharmacy",
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "Faculty : Music",
+          "fields": [
+            "Jazz and Popular Music",
+            "Music",
+            "Music Education",
+            "Musical Instruments",
+            "Singing"
+          ]
+        },
+        {
+          "name": "Faculty : Natural and Technical Sciences",
+          "fields": [
+            "Architecture",
+            "Civil Engineering",
+            "Computer Graphics",
+            "Furniture Design",
+            "Geography",
+            "Geological Engineering",
+            "Mineralogy",
+            "Mining Engineering",
+            "Petroleum and Gas Engineering",
+            "Technology",
+            "Textile Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Philology",
+          "fields": [
+            "Archaeology",
+            "English",
+            "French",
+            "German",
+            "History",
+            "Italian",
+            "Literature",
+            "Native Language",
+            "Philology",
+            "Slavic Languages",
+            "Turkish"
+          ]
+        },
+        {
+          "name": "Faculty : Tourism and Business",
+          "fields": [
+            "Cooking and Catering",
+            "Dietetics",
+            "Nutrition",
+            "Tourism",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Institute : Archaeology and History",
+          "fields": [
+            "Archaeology",
+            "History"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma za završen prv ciklus na studii - Diplomiran",
+          "fields": [
+            "Architecture",
+            "Architecture and Planning",
+            "Civil Engineering",
+            "Geology",
+            "Interior Design",
+            "Landscape Architecture",
+            "Mining Engineering"
+          ]
+        },
+        {
+          "name": "Diploma za završen vtor ciklus na studii - Magister",
+          "fields": [
+            "Architecture",
+            "Architecture and Planning",
+            "Civil Engineering",
+            "Geology",
+            "Interior Design",
+            "Landscape Architecture",
+            "Mining Engineering"
+          ]
+        },
+        {
+          "name": "Doktor",
+          "fields": [
+            "Agriculture",
+            "Computer Engineering",
+            "Computer Science",
+            "Crop Production",
+            "Economics",
+            "Education",
+            "Electrical Engineering",
+            "Law",
+            "Mechanical Engineering",
+            "Medicine",
+            "Music",
+            "Philology",
+            "Soil Science",
+            "Technology",
+            "Tourism",
+            "Transport Management"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Blazo Boev"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Misko Dzidrov"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2007.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "11535",
+      "iau_id": "IAU-011535",
+      "name": "International Balkan University",
+      "alt_name": "Megjunaroden Balkanski Univerzitet (IBU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyRVLFM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-011535",
+      "address": {
+        "Street": "ul. '3-ta Makedonska Brigada' no. 66A - Floor 1",
+        "City": "Skopje",
+        "Post Code": "1000",
+        "WWW": "http://www.fbe.edu.mk"
+      },
+      "website": "http://www.fbe.edu.mk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Macedonian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Banking",
+          "fields": [
+            "Banking"
+          ]
+        },
+        {
+          "name": "Course/Programme : Financial Management",
+          "fields": [
+            "Finance"
+          ]
+        },
+        {
+          "name": "Course/Programme : Marketing Management",
+          "fields": [
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Course/Programme : Regional and Local Business Development",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Course/Programme : Sustainable Development - Environmental Economy",
+          "fields": [
+            "Development Studies",
+            "Economics",
+            "Environmental Studies"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma za završen prv ciklus na studii - Diplomiran",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Economics",
+            "Finance",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Diploma za završen vtor ciklus na studii - Magister",
+          "fields": [
+            "Banking",
+            "Business Administration",
+            "Economics",
+            "Finance",
+            "Management",
+            "Marketing"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Biljana Gjozinska"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Vesna Stojanova"
+        }
+      ],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "11536",
+      "iau_id": "IAU-011536",
+      "name": "International Slavic University Gavrilo Romanovich Derzhavin Sveti Nikole",
+      "alt_name": "Megjunaroden Slavjanski Univerzitet \"Gavrilo Romanovich Derzhavin\" Sveti Nikole (IUS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyRVLFM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-011536",
+      "address": {
+        "Street": "Makedonsko-Kosovska Brigada bb.",
+        "City": "Skopje",
+        "Post Code": "1000",
+        "WWW": "https://www.ibu.edu.mk"
+      },
+      "website": "https://www.ibu.edu.mk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Art and Design",
+          "fields": [
+            "Fashion Design",
+            "Graphic Design",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Faculty : Communications",
+          "fields": [
+            "Media Studies",
+            "Public Relations"
+          ]
+        },
+        {
+          "name": "Faculty : Dental Medicine",
+          "fields": [
+            "Dentistry"
+          ]
+        },
+        {
+          "name": "Faculty : Economics and Administrative Sciences",
+          "fields": [
+            "Banking",
+            "Business Administration",
+            "E-Business/Commerce",
+            "Economics",
+            "International Economics",
+            "Management"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "English",
+            "Turkish"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Architecture",
+            "Artificial Intelligence",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Electrical and Electronic Engineering",
+            "Industrial Engineering",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Humanities and Social Sciences",
+          "fields": [
+            "Clinical Psychology",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Administrative Law",
+            "Criminal Law",
+            "International Law",
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Vocational Medical School",
+          "fields": [
+            "Midwifery",
+            "Nursing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma za završen prv ciklus na studii - Diplomiran",
+          "fields": [
+            "Architecture",
+            "Artificial Intelligence",
+            "Banking",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Dentistry",
+            "E-Business/Commerce",
+            "English",
+            "Fashion Design",
+            "Graphic Design",
+            "Industrial Engineering",
+            "International Economics",
+            "Law",
+            "Management",
+            "Media Studies",
+            "Midwifery",
+            "Nursing",
+            "Psychology",
+            "Public Relations",
+            "Turkish",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Diploma za završen vtor ciklus na studii - Magister",
+          "fields": [
+            "Administrative Law",
+            "Architecture",
+            "Business Administration",
+            "Civil Engineering",
+            "Clinical Psychology",
+            "Computer Engineering",
+            "Criminal Law",
+            "English",
+            "Graphic Design",
+            "Industrial Engineering",
+            "International Economics",
+            "International Law",
+            "Public Relations",
+            "Turkish",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Doktor",
+          "fields": [
+            "Architecture",
+            "Computer Engineering",
+            "Economics",
+            "English",
+            "Turkish"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Mehmet Dursun Erdem"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Mevludin Ibish"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded in 2006 by the Foundation of Development for Education and Culture '(USKUP), Skopje through integration of the New Balkan Faculty and New Balkan Technical Sciences. Faculties received accreditation 2007.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "11537",
+      "iau_id": "IAU-011537",
+      "name": "International University of Struga",
+      "alt_name": "Megjunaroden Univerzitet Struga (IUST)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyRVLFM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-011537",
+      "address": {
+        "Street": "Maršal Tito 77",
+        "City": "Sveti Nikole",
+        "Post Code": "2220",
+        "WWW": "http://msu.edu.mk"
+      },
+      "website": "http://msu.edu.mk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2004,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Macedonian",
+        "English",
+        "Russian"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Economics and Organization of Entrepreneurship",
+          "fields": [
+            "Banking",
+            "Economics",
+            "Finance",
+            "Human Resources",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Informatics",
+          "fields": [
+            "Computer Engineering",
+            "Computer Networks",
+            "Computer Science",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Psychology",
+          "fields": [
+            "Clinical Psychology",
+            "Psychology",
+            "Social Psychology"
+          ]
+        },
+        {
+          "name": "Faculty : Safety Engineering",
+          "fields": [
+            "Fire Science",
+            "Protective Services"
+          ]
+        },
+        {
+          "name": "Institute : Art and Culture",
+          "fields": [
+            "Cultural Studies",
+            "Fine Arts"
+          ]
+        },
+        {
+          "name": "Institute : Engineering Economics",
+          "fields": [
+            "Economics"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma za završen prv ciklus na studii - Diplomiran",
+          "fields": [
+            "Computer Science",
+            "Economics",
+            "Engineering",
+            "Fire Science",
+            "Law",
+            "Psychology",
+            "Safety Engineering"
+          ]
+        },
+        {
+          "name": "Diploma za završen vtor ciklus na studii - Magister",
+          "fields": [
+            "Clinical Psychology",
+            "Computer Science",
+            "Economics",
+            "Engineering",
+            "Fire Science",
+            "Human Resources",
+            "Management",
+            "Marketing",
+            "Protective Services",
+            "Psychology"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Lence Petreska"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2004 as International Slavic Institute Gavril Romanovich Derzhavin, Sveti Nikole. Acquired present name and status 2013.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "23353",
+      "iau_id": "IAU-023353",
+      "name": "International Vision University",
+      "alt_name": "Uluslararası Vizyon Üniversitesi (IVU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyxTLTMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-023353",
+      "address": {
+        "Street": "Ezerski Lozja N-1",
+        "City": "Struga",
+        "Post Code": "6330",
+        "WWW": "https://iust.edu.mk/"
+      },
+      "website": "https://iust.edu.mk/",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2007,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Macedonian"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Economics",
+          "fields": [
+            "Business Administration",
+            "Economics",
+            "Finance",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Information Technology",
+          "fields": [
+            "Computer Science",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Criminology",
+            "Law",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "Faculty : Political Sciences",
+          "fields": [
+            "International Relations and Diplomacy",
+            "Political Sciences"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma za završen prv ciklus na studii - Diplomiran",
+          "fields": [
+            "Computer Science",
+            "Economics",
+            "International Relations and Diplomacy",
+            "Law"
+          ]
+        },
+        {
+          "name": "Diploma za završen vtor ciklus na studii - Magister",
+          "fields": [
+            "Business Administration",
+            "Computer Science",
+            "Criminology",
+            "Economics",
+            "Information Technology",
+            "International Relations and Diplomacy",
+            "Law"
+          ]
+        },
+        {
+          "name": "Doktor",
+          "fields": [
+            "Economics",
+            "Law",
+            "Political Sciences"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Armen Kadriu"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2007.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "11965",
+      "iau_id": "IAU-011965",
+      "name": "MIT University, Skopje",
+      "alt_name": "MIT Univerzitet, Skopje (MIT)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyRZLUM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-011965",
+      "address": {
+        "Street": "ul. Major C. Filiposki, 1",
+        "City": "Gostivar",
+        "Post Code": "1230",
+        "WWW": "https://vision.edu.mk/anasayfa/ing"
+      },
+      "website": "https://vision.edu.mk/anasayfa/ing",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Macedonian"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Architecture",
+          "fields": [
+            "Architecture",
+            "Design"
+          ]
+        },
+        {
+          "name": "Faculty : Economics",
+          "fields": [
+            "Economics"
+          ]
+        },
+        {
+          "name": "Faculty : Information Sciences",
+          "fields": [
+            "Information Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Social Sciences",
+          "fields": [
+            "Psychology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma za završen prv ciklus na studii - Diplomiran",
+          "fields": [
+            "Architecture",
+            "Economics",
+            "Information Sciences",
+            "Law",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Diploma za završen vtor ciklus na studii - Magister",
+          "fields": [
+            "Architecture",
+            "Business Administration",
+            "Economics",
+            "Information Sciences",
+            "Law",
+            "Psychology"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Fadil Hoca"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Vesna Poposka"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Elanur Loç"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2015-2016",
+        "Staff Full Time Total:": "20",
+        "Students Statistics Year:": "2015-2016",
+        "Students Total:": "420",
+        "Students Foreign Total:": "147"
+      },
+      "history": "Created 2014.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "27257",
+      "iau_id": "IAU-027257",
+      "name": "Mother Teresa University, Skopje",
+      "alt_name": "Universiteti \"Nënë Tereza\" Skopje",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzxSLTM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-027257",
+      "address": {
+        "Street": "bul.Treta Makedonska Brigada 66aMacedonia Square, City Gallery",
+        "City": "Skopje",
+        "Post Code": "1000",
+        "WWW": "https://www.mit.edu.mk"
+      },
+      "website": "https://www.mit.edu.mk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2007,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "October to June",
+      "languages": [
+        "Macedonian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "College : Aviation",
+          "fields": [
+            "Aeronautical and Aerospace Engineering",
+            "Air Transport"
+          ]
+        },
+        {
+          "name": "College : Medical Cosmetology and Physiotherapy",
+          "fields": [
+            "Cosmetology",
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "Faculty : Architecture",
+          "fields": [
+            "Architecture",
+            "Design",
+            "Engineering",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "Faculty : Computer Science and Technology",
+          "fields": [
+            "Computer Engineering",
+            "Computer Science",
+            "E-Business/Commerce",
+            "Information Management",
+            "Information Technology",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Dental Medicine",
+          "fields": [
+            "Dentistry"
+          ]
+        },
+        {
+          "name": "Faculty : Economics",
+          "fields": [
+            "Economics"
+          ]
+        },
+        {
+          "name": "Faculty : Environmental Resources Management",
+          "fields": [
+            "Agricultural Business",
+            "Ecology",
+            "Environmental Studies",
+            "Natural Resources"
+          ]
+        },
+        {
+          "name": "Faculty : Management",
+          "fields": [
+            "Business Administration",
+            "Economics",
+            "Finance",
+            "Government",
+            "Health Administration",
+            "Management",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "Faculty : Political Sciences and Diplomacy",
+          "fields": [
+            "International Relations and Diplomacy",
+            "Political Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Psychology",
+          "fields": [
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Faculty : Security Science",
+          "fields": [
+            "Civil Security",
+            "Criminology",
+            "Protective Services"
+          ]
+        },
+        {
+          "name": "Faculty : Tourism Management",
+          "fields": [
+            "Cooking and Catering",
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma za završen prv ciklus na studii - Diplomiran",
+          "fields": [
+            "Accountancy",
+            "Aeronautical and Aerospace Engineering",
+            "Agricultural Business",
+            "Architecture",
+            "Banking",
+            "Business Computing",
+            "Civil Security",
+            "Computer Science",
+            "Cooking and Catering",
+            "Cosmetology",
+            "Criminology",
+            "Dentistry",
+            "Environmental Management",
+            "Finance",
+            "Food Technology",
+            "Health Administration",
+            "Information Technology",
+            "Insurance",
+            "International Relations and Diplomacy",
+            "Management",
+            "Marketing",
+            "Physical Therapy",
+            "Psychology",
+            "Public Administration",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Diploma za završen vtor ciklus na studii - Magister",
+          "fields": [
+            "Accountancy",
+            "Agricultural Business",
+            "Architecture",
+            "Banking",
+            "Civil Security",
+            "Criminal Law",
+            "Criminology",
+            "Dentistry",
+            "Design",
+            "Finance",
+            "Food Technology",
+            "Health Administration",
+            "Insurance",
+            "International Relations and Diplomacy",
+            "Management",
+            "Psychology",
+            "Public Administration",
+            "Town Planning",
+            "Waste Management",
+            "Water Management"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Biljana Apostolova"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2016-2017",
+        "Staff Full Time Total:": "14",
+        "Students Statistics Year:": "2016-2017",
+        "Students Total:": "834"
+      },
+      "history": "Founded 2007.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20948",
+      "iau_id": "IAU-020948",
+      "name": "School of Journalism and Public Relations, Skopje",
+      "alt_name": "Visokata škola za novinarstvo i odnosi so javnosta, Skpoje (VS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BZLSNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020948",
+      "address": {
+        "Street": "rr. Mirçe Acev nr. 4 – kati VII",
+        "City": "Skopje",
+        "Post Code": "1000",
+        "WWW": "http://unt.edu.mk"
+      },
+      "website": "http://unt.edu.mk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2016,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Albanian",
+        "Macedonian"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Civil Engineering and Architecture",
+          "fields": [
+            "Architecture",
+            "Civil Engineering",
+            "Design",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "Faculty : Informatics",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Faculty : Social Sciences",
+          "fields": [
+            "European Studies",
+            "Social Policy",
+            "Social Sciences",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Faculty : Technical Sciences",
+          "fields": [
+            "Electronic Engineering",
+            "Energy Engineering",
+            "Engineering",
+            "Industrial and Production Economics",
+            "Industrial Management",
+            "Mechanical Engineering",
+            "Transport Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Technological Sciences",
+          "fields": [
+            "Food Technology",
+            "Materials Engineering",
+            "Metal Techniques",
+            "Metallurgical Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma za završen prv ciklus na studii - Diplomiran",
+          "fields": [
+            "Architecture",
+            "Civil Engineering",
+            "Computer Science",
+            "Design",
+            "Engineering",
+            "European Studies",
+            "Industrial and Production Economics",
+            "Industrial Management",
+            "International Relations and Diplomacy",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "Diploma za završen vtor ciklus na studii - Magister",
+          "fields": [
+            "Architecture",
+            "Civil Engineering",
+            "Computer Science",
+            "Design",
+            "Food Technology",
+            "Software Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Bekim Fetaji"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Blerim Saiti"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2016.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20690",
+      "iau_id": "IAU-020690",
+      "name": "South East European University",
+      "alt_name": "Univerzitet na Jugoistocna Evropa – SEE University",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BWLjNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020690",
+      "address": {
+        "Street": "ul. Jurij Gagarin 17/1-1",
+        "City": "Skopje",
+        "Post Code": "1000",
+        "WWW": "https://vs.edu.mk"
+      },
+      "website": "https://vs.edu.mk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2008,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Macedonian"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Corporate Communications and Public Relations",
+          "fields": [
+            "Communication Studies",
+            "Public Relations"
+          ]
+        },
+        {
+          "name": "Course/Programme : Journalism and Production",
+          "fields": [
+            "Journalism",
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "Course/Programme : Media Management and Multimedia",
+          "fields": [
+            "Management",
+            "Media Studies",
+            "Multimedia"
+          ]
+        },
+        {
+          "name": "Course/Programme : Strategic Communications Management",
+          "fields": [
+            "Communication Studies",
+            "Management",
+            "Mass Communication"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma za završen prv ciklus na studii - Diplomiran",
+          "fields": [
+            "Journalism",
+            "Public Relations"
+          ]
+        },
+        {
+          "name": "Diploma za završen vtor ciklus na studii - Magister",
+          "fields": [
+            "Journalism"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Zaneta Trajkoska"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Bojan Georgievski"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2008.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20683",
+      "iau_id": "IAU-020683",
+      "name": "St.Kliment Ohridski University, Bitola",
+      "alt_name": "Univerzitet Sv. Kliment Ohridski Bitola (UKLO)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BWLiMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020683",
+      "address": {
+        "Street": "Ilindenska n.335",
+        "City": "Tetovo",
+        "Post Code": "1200",
+        "WWW": "https://www.seeu.edu.mk"
+      },
+      "website": "https://www.seeu.edu.mk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2001,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "October to June.",
+      "languages": [
+        "Albanian",
+        "Macedonian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Business and Economics",
+          "fields": [
+            "Accountancy",
+            "Agricultural Business",
+            "Business Administration",
+            "Economics",
+            "Finance",
+            "Health Administration",
+            "Information Technology",
+            "Management",
+            "Marketing",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Contemporary Sciences and Technologies",
+          "fields": [
+            "Business Computing",
+            "Computer Engineering",
+            "Computer Science",
+            "Information Technology",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Languages, Cultures and Communications",
+          "fields": [
+            "Albanian",
+            "Communication Studies",
+            "Cultural Studies",
+            "English",
+            "German",
+            "Literature",
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Civil Law",
+            "Criminal Law",
+            "Criminology",
+            "International Law",
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Public Administration and Political Science",
+          "fields": [
+            "Human Resources",
+            "International Business",
+            "Management",
+            "Political Sciences",
+            "Public Administration",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Institute : Environment and Health",
+          "fields": [
+            "Environmental Studies",
+            "Health Sciences"
+          ]
+        },
+        {
+          "name": "Institute : Languages, Cultures and Communications",
+          "fields": [
+            "Albanian",
+            "Communication Studies",
+            "Educational Administration",
+            "English",
+            "German"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma za završen prv ciklus na studii - Diplomiran",
+          "fields": [
+            "Business Administration",
+            "Engineering",
+            "Law",
+            "Modern Languages",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Diploma za završen vtor ciklus na studii - Magister",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Business Administration",
+            "Business Computing",
+            "Civil Law",
+            "Computer Science",
+            "Constitutional Law",
+            "Criminal Law",
+            "Educational Administration",
+            "Foreign Languages Education",
+            "German",
+            "Information Technology",
+            "International Law",
+            "International Relations and Diplomacy",
+            "Management",
+            "Marketing",
+            "Mass Communication",
+            "Political Sciences",
+            "Public Administration",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Doktor",
+          "fields": [
+            "Business Administration",
+            "Computer Science",
+            "Economics",
+            "Political Sciences",
+            "Public Administration"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Abdylmenaf Bexheti"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Xhevair Memedi"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Besa Arifi"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2001.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20684",
+      "iau_id": "IAU-020684",
+      "name": "University American College in Skopje",
+      "alt_name": "Univerzitet Amerikan Kolej Skopje",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BWLiMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020684",
+      "address": {
+        "Street": "Bulevar '1 Maj' bb",
+        "City": "Bitola",
+        "Post Code": "7000",
+        "WWW": "https://www.uklo.edu.mk"
+      },
+      "website": "https://www.uklo.edu.mk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1979,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to May (September-January; February-May)",
+      "languages": [
+        "Macedonian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Administration and Information Systems Management",
+          "fields": [
+            "Administration",
+            "Engineering Management",
+            "Information Management",
+            "Information Sciences",
+            "International Business",
+            "Public Administration",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Biotechnical Sciences",
+          "fields": [
+            "Animal Husbandry",
+            "Biotechnology",
+            "Farm Management"
+          ]
+        },
+        {
+          "name": "Faculty : Economics",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Business Computing",
+            "E-Business/Commerce",
+            "Economics",
+            "Finance",
+            "International Business",
+            "International Economics",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Computer Education",
+            "Education",
+            "English",
+            "Foreign Languages Education",
+            "French",
+            "German",
+            "Library Science",
+            "Preschool Education",
+            "Technology Education"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Security",
+          "fields": [
+            "Civil Security",
+            "Criminology",
+            "Finance",
+            "Protective Services"
+          ]
+        },
+        {
+          "name": "Faculty : Technical Sciences",
+          "fields": [
+            "Computer Engineering",
+            "Computer Graphics",
+            "Environmental Engineering",
+            "Industrial Management",
+            "Information Technology",
+            "Mechanical Engineering",
+            "Power Engineering",
+            "Road Engineering",
+            "Transport Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Technology and Technical Sciences",
+          "fields": [
+            "Food Technology",
+            "Nutrition"
+          ]
+        },
+        {
+          "name": "Faculty : Tourism and Hospitality",
+          "fields": [
+            "Cooking and Catering",
+            "Dietetics",
+            "Hotel and Restaurant",
+            "Insurance",
+            "Nutrition",
+            "Tourism",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Faculty : Veterinary Science",
+          "fields": [
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Institute : Tobacco",
+          "fields": [
+            "Agronomy",
+            "Chemistry",
+            "Genetics"
+          ]
+        },
+        {
+          "name": "School : Medicine",
+          "fields": [
+            "Health Sciences",
+            "Laboratory Techniques",
+            "Medicine",
+            "Midwifery",
+            "Nursing",
+            "Physical Therapy",
+            "Radiology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma za završen prv ciklus na studii - Diplomiran",
+          "fields": [
+            "Criminology",
+            "Economics",
+            "Education",
+            "Engineering",
+            "Health Sciences",
+            "Information Technology",
+            "Law",
+            "Tourism",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Diploma za završen vtor ciklus na studii - Magister",
+          "fields": [
+            "Animal Husbandry",
+            "Biotechnology",
+            "Business Administration",
+            "Computer Science",
+            "Criminology",
+            "Economics",
+            "Education",
+            "Engineering",
+            "Farm Management",
+            "Food Science",
+            "Information Technology",
+            "Marketing",
+            "Protective Services",
+            "Software Engineering",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Doktor",
+          "fields": [
+            "Economics",
+            "Education",
+            "Engineering",
+            "Food Technology",
+            "Information Technology",
+            "International Law",
+            "Protective Services",
+            "Tourism"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Sasho Korunovski"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Ofelija Hristovska"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Kaliopa Stilinovic"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2017-2018",
+        "Staff Full Time Total:": "370",
+        "Students Statistics Year:": "2018-2019",
+        "Students Total:": "4139",
+        "Students Foreign Total:": "85"
+      },
+      "history": "Founded 1979, incorporating previously existing institutions in the Southwest Macedonian Region founded between 1924 and 1979.",
+      "periodicals": [
+        "Horizonti",
+        "Horizonti"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20706",
+      "iau_id": "IAU-020706",
+      "name": "University of Audiovisual Arts, European Film, Theater and Dance Academy",
+      "alt_name": "Univerzitet za Audiovizuelni Umetnosti - Evropska Filmska Akademija ESRA Pariz-Skopje- Njujork – European Film Academy ESRA-Skopje Paris-New York",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BXLCM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020706",
+      "address": {
+        "Street": "Bul. Treta makedonska brigada no.60",
+        "City": "Skopje",
+        "Post Code": "1000",
+        "WWW": "https://uacs.edu.mk"
+      },
+      "website": "https://uacs.edu.mk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "September to June",
+      "languages": [
+        "English",
+        "Macedonian"
+      ],
+      "faculties": [
+        {
+          "name": "School : Architecture and Design",
+          "fields": [
+            "Architecture",
+            "Interior Design"
+          ]
+        },
+        {
+          "name": "School : Business Economics and Management",
+          "fields": [
+            "Business Administration",
+            "Economics",
+            "Finance",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "School : Computer Science and Information Technology",
+          "fields": [
+            "Computer Networks",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "School : Foreign Languages",
+          "fields": [
+            "Communication Studies",
+            "English",
+            "Foreign Languages Education",
+            "Literature",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "School : Legal Studies",
+          "fields": [
+            "Administrative Law",
+            "Law",
+            "Public Law"
+          ]
+        },
+        {
+          "name": "School : Political Science",
+          "fields": [
+            "Human Rights",
+            "International Relations and Diplomacy",
+            "Political Sciences"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma za završen vtor ciklus na studii - Magister",
+          "fields": [
+            "Architecture",
+            "Banking",
+            "Business Administration",
+            "Design",
+            "Economics",
+            "English",
+            "Finance",
+            "Law",
+            "Management",
+            "Marketing",
+            "Political Sciences"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Tome Nenovski"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Marjan I. Bojadjiev"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Venera Krliu-Handjiski"
+        }
+      ],
+      "statistics": {},
+      "history": "Created 2005. Obtained status 2006.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "23349",
+      "iau_id": "IAU-023349",
+      "name": "University of Information Science and Technology 'St. Paul the Apostle', Ohrid",
+      "alt_name": "Univerzitet za informatički nauki i tehnologii 'Sv. Apostol Pavle' (UIST)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyxTLSNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-023349",
+      "address": {
+        "Street": "st.Nicholas Rusinski no.1",
+        "City": "Skopje",
+        "Post Code": "1000",
+        "WWW": "http://www.esra.com.mk"
+      },
+      "website": "http://www.esra.com.mk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2007,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Macedonian"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Film",
+          "fields": [
+            "Cinema and Television",
+            "Design",
+            "Film",
+            "Photography",
+            "Radio and Television Broadcasting"
+          ]
+        },
+        {
+          "name": "Faculty : Sound Production and Applied Music",
+          "fields": [
+            "Music",
+            "Music Theory and Composition",
+            "Sound Engineering (Acoustics)"
+          ]
+        },
+        {
+          "name": "Faculty : Theatre",
+          "fields": [
+            "Acting",
+            "Display and Stage Design",
+            "Multimedia",
+            "Music",
+            "Music Theory and Composition",
+            "Theatre"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma za završen prv ciklus na studii - Diplomiran",
+          "fields": [
+            "Film",
+            "Music",
+            "Music Theory and Composition",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Diploma za završen vtor ciklus na studii - Magister",
+          "fields": [
+            "Film",
+            "Sound Engineering (Acoustics)",
+            "Theatre"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Jordan Plevnesh"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2007 on the model of the French ESRA Film School.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "3916",
+      "iau_id": "IAU-003916",
+      "name": "University of Tetova",
+      "alt_name": "Universitetit Shtetëror i Tetovës",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sU0RRLUBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003916",
+      "address": {
+        "Street": "Partizanska bb.",
+        "City": "Ohrid",
+        "Post Code": "6000",
+        "WWW": "http://uist.edu.mk"
+      },
+      "website": "http://uist.edu.mk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Macedonian"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Applied Information Technology, Machine Intelligence and Robotics",
+          "fields": [
+            "Computer Engineering",
+            "Robotics"
+          ]
+        },
+        {
+          "name": "Faculty : Communication Networks and Security",
+          "fields": [
+            "Computer Networks",
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Faculty : Computer Science and Engineering",
+          "fields": [
+            "Computer Engineering",
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Faculty : Information and Communication Science",
+          "fields": [
+            "Information Sciences",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Information Systems, Visualization, Multimedia and Animation",
+          "fields": [
+            "Computer Graphics",
+            "Information Sciences",
+            "Information Technology",
+            "Multimedia"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma za završen prv ciklus na studii - Diplomiran",
+          "fields": [
+            "Computer Engineering",
+            "Computer Science",
+            "Information Sciences"
+          ]
+        },
+        {
+          "name": "Diploma za završen vtor ciklus na studii - Magister",
+          "fields": [
+            "Computer Engineering",
+            "Computer Science",
+            "Information Sciences"
+          ]
+        },
+        {
+          "name": "Doktor",
+          "fields": [
+            "Computer Science",
+            "Telecommunications Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ninoslav Marina"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Olgica Apostolova"
+        }
+      ],
+      "statistics": {},
+      "history": "Created 2009.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20709",
+      "iau_id": "IAU-020709",
+      "name": "University of Tourism and Management in Skopje",
+      "alt_name": "Univerzitet za Turizam i Menadzhment Skopje (UTMS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BXLCNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020709",
+      "address": {
+        "Street": "Rruga e Ilindenit pn",
+        "City": "Tetovo",
+        "Post Code": "1200",
+        "WWW": "https://unite.edu.mk"
+      },
+      "website": "https://unite.edu.mk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Albanian",
+        "Macedonian"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Agriculture and Biotechnology",
+          "fields": [
+            "Agricultural Business",
+            "Agriculture",
+            "Animal Husbandry",
+            "Biotechnology",
+            "Crop Production"
+          ]
+        },
+        {
+          "name": "Faculty : Applied Sciences",
+          "fields": [
+            "Architecture",
+            "Architecture and Planning",
+            "Civil Engineering",
+            "Construction Engineering",
+            "Electronic Engineering",
+            "Mechanical Engineering",
+            "Road Engineering",
+            "Town Planning",
+            "Transport Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Arts",
+          "fields": [
+            "Aesthetics",
+            "Art History",
+            "Fine Arts",
+            "Graphic Design",
+            "Music",
+            "Painting and Drawing",
+            "Sculpture",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Faculty : Business Administration",
+          "fields": [
+            "Business Administration",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "Faculty : Economics",
+          "fields": [
+            "Albanian",
+            "Economics",
+            "Finance",
+            "Marketing",
+            "Modern Languages",
+            "Public Administration",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Food Technology and Nutrition",
+          "fields": [
+            "Food Technology",
+            "Nutrition"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Administrative Law",
+            "Civil Law",
+            "Constitutional Law",
+            "Criminal Law",
+            "Human Rights",
+            "International Relations and Diplomacy",
+            "Modern Languages"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Dentistry",
+            "Nursing",
+            "Obstetrics and Gynaecology",
+            "Pharmacy",
+            "Physical Therapy",
+            "Speech Therapy and Audiology"
+          ]
+        },
+        {
+          "name": "Faculty : Natural Sciences and Mathematics",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Ecology",
+            "Geography",
+            "Mathematics and Computer Science",
+            "Pharmacy",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Faculty : Pedagogy",
+          "fields": [
+            "Pedagogy",
+            "Preschool Education",
+            "Special Education",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Faculty : Philology",
+          "fields": [
+            "Albanian",
+            "English",
+            "French",
+            "German",
+            "Italian",
+            "Literature",
+            "Native Language"
+          ]
+        },
+        {
+          "name": "Faculty : Philosophy",
+          "fields": [
+            "Arabic",
+            "History",
+            "Pedagogy",
+            "Philosophy",
+            "Psychology",
+            "Sociology",
+            "Turkish"
+          ]
+        },
+        {
+          "name": "Faculty : Physical Education",
+          "fields": [
+            "Physical Education",
+            "Sports",
+            "Sports Management"
+          ]
+        },
+        {
+          "name": "Institute : Technology and Ecology",
+          "fields": [
+            "Ecology",
+            "Technology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma za završen prv ciklus na studii - Diplomiran",
+          "fields": [
+            "Agricultural Business",
+            "Animal Husbandry",
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Crop Production",
+            "Design",
+            "Ecology",
+            "Economics",
+            "Electronic Engineering",
+            "Fine Arts",
+            "Geography",
+            "History",
+            "Law",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Modern Languages",
+            "Music",
+            "Pedagogy",
+            "Pharmacy",
+            "Philosophy",
+            "Physical Education",
+            "Physics",
+            "Psychology",
+            "Sociology",
+            "Special Education",
+            "Teacher Training",
+            "Theatre",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Diploma za završen vtor ciklus na studii - Magister",
+          "fields": [
+            "Albanian",
+            "Architecture",
+            "Biology",
+            "Chemistry",
+            "Civil Engineering",
+            "Computer Science",
+            "Ecology",
+            "Economics",
+            "Electronic Engineering",
+            "Engineering Management",
+            "English",
+            "French",
+            "Geography",
+            "German",
+            "History",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Pedagogy",
+            "Psychology",
+            "Slavic Languages",
+            "Sociology",
+            "Tourism"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Jusuf Zejneli"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Ibrahim Neziri"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Hatibe Deari"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Salajdin Salihi"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded in 1994. Obtained current status 2007.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    }
+  ]
+}

@@ -1,0 +1,443 @@
+{
+  "country_name": "Bhutan",
+  "country_id": "Bhutan",
+  "institutions": [
+    {
+      "id": "25413",
+      "iau_id": "IAU-025413",
+      "name": "Khesar Gyalpo University of Medical Sciences of Bhutan",
+      "alt_name": "(KGUMSB)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRULDMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025413",
+      "address": {
+        "Street": "PO Box 046, Old Medical BlockJDWNRH",
+        "City": "Thimphu",
+        "WWW": "http://www.kgumsb.edu.bt"
+      },
+      "website": "http://www.kgumsb.edu.bt",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [],
+      "faculties": [
+        {
+          "name": "Academy : Health Sciences",
+          "fields": [
+            "Midwifery",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Faculty : Nursing and Public Health",
+          "fields": [
+            "Clinical Psychology",
+            "Community Health",
+            "Dental Hygiene",
+            "Dental Technology",
+            "Medical Technology",
+            "Midwifery",
+            "Nursing",
+            "Pharmacy",
+            "Physical Therapy",
+            "Public Health"
+          ]
+        },
+        {
+          "name": "Faculty : Postgraduate Medicine",
+          "fields": [
+            "Anaesthesiology",
+            "Medicine",
+            "Obstetrics and Gynaecology",
+            "Ophthalmology",
+            "Orthopaedics",
+            "Paediatrics",
+            "Surgery"
+          ]
+        },
+        {
+          "name": "Faculty : Traditional Medicine",
+          "fields": [
+            "Traditional Eastern Medicine"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma",
+          "fields": [
+            "Community Health",
+            "Dental Hygiene",
+            "Dental Technology",
+            "Medical Technology",
+            "Nursing",
+            "Pharmacy",
+            "Physical Therapy",
+            "Traditional Eastern Medicine"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Clinical Psychology",
+            "Medicine",
+            "Midwifery",
+            "Nursing",
+            "Public Health",
+            "Traditional Eastern Medicine"
+          ]
+        },
+        {
+          "name": "Medical Doctorate",
+          "fields": [
+            "Anaesthesiology",
+            "Medicine",
+            "Obstetrics and Gynaecology",
+            "Ophthalmology",
+            "Orthopaedics",
+            "Paediatrics",
+            "Surgery"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Kinzang P. Tshering"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Tashi Tobgay"
+        }
+      ],
+      "statistics": {},
+      "history": "Created in 2012 as University of Medical Sciences Bhutan (UMSB). Acquired current title and status 2015.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "25414",
+      "iau_id": "IAU-025414",
+      "name": "Royal Institute of Management",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRULDMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025414",
+      "address": {
+        "Street": "Post Box No. 416",
+        "City": "Thimphu",
+        "Post Code": "11001",
+        "WWW": "http://www.rim.edu.bt"
+      },
+      "website": "http://www.rim.edu.bt",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [],
+      "faculties": [
+        {
+          "name": "Course/Programme : Business Administration",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Course/Programme : Financial Management",
+          "fields": [
+            "Finance"
+          ]
+        },
+        {
+          "name": "Course/Programme : National Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Course/Programme : Public Administration",
+          "fields": [
+            "Public Administration"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Postgraduate Diploma/Certificate",
+          "fields": [
+            "Finance",
+            "Law",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Business Administration"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Tshewang Tandin"
+        }
+      ],
+      "statistics": {},
+      "history": "Created in 1986 and incorporated as an autonomous institute in 1990 under the Royal Charter with a Board of Directors as its governing authority.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "14128",
+      "iau_id": "IAU-014128",
+      "name": "Royal University of Bhutan",
+      "alt_name": "(RUB)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzBRLENAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-014128",
+      "address": {
+        "Street": "PO Box 708, Lower MotithangSemtokha",
+        "City": "Thimphu",
+        "WWW": "https://www.rub.edu.bt"
+      },
+      "website": "https://www.rub.edu.bt",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2003,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "July to June or February to December, depending on each college or institute.",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "College : Gaeddu College of Business Studies",
+          "fields": [
+            "Business Administration",
+            "Business and Commerce"
+          ]
+        },
+        {
+          "name": "College : Gyalpozhing College of Information Technology",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "College : Jigme Namgyel Engineering College",
+          "fields": [
+            "Civil Engineering",
+            "Electrical and Electronic Engineering",
+            "Power Engineering",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "College : Language and Cultural Studies",
+          "fields": [
+            "Cultural Studies",
+            "Native Language"
+          ]
+        },
+        {
+          "name": "College : Natural Resources",
+          "fields": [
+            "Agriculture",
+            "Animal Husbandry",
+            "Environmental Management",
+            "Food Science",
+            "Forestry",
+            "Natural Resources"
+          ]
+        },
+        {
+          "name": "College : Norbuling Rigter College",
+          "fields": [
+            "Business Administration",
+            "Business and Commerce"
+          ]
+        },
+        {
+          "name": "College : Paro College of Education",
+          "fields": [
+            "Education",
+            "Educational Administration",
+            "Native Language Education",
+            "Primary Education",
+            "Secondary Education",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "College : Royal Thimphu College",
+          "fields": [
+            "Anthropology",
+            "Business and Commerce",
+            "Economics",
+            "English",
+            "Environmental Management",
+            "History",
+            "Mass Communication",
+            "Nursing",
+            "Political Sciences"
+          ]
+        },
+        {
+          "name": "College : Samtse College of Education",
+          "fields": [
+            "Education",
+            "Educational Psychology",
+            "Higher Education",
+            "Library Science",
+            "Primary Education",
+            "Science Education",
+            "Secondary Education"
+          ]
+        },
+        {
+          "name": "College : Science and Technology",
+          "fields": [
+            "Architecture",
+            "Civil Engineering",
+            "Electrical Engineering",
+            "Information Technology",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "College : Sherubtse College",
+          "fields": [
+            "Biological and Life Sciences",
+            "Chemistry",
+            "Computer Science",
+            "Demography and Population",
+            "Economics",
+            "English",
+            "Environmental Studies",
+            "Geography",
+            "Mathematics",
+            "Media Studies",
+            "Native Language",
+            "Physics",
+            "Political Sciences",
+            "Sociology",
+            "South and Southeast Asian Languages"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma",
+          "fields": [
+            "Civil Engineering",
+            "Communication Arts",
+            "Computer Networks",
+            "Electrical Engineering",
+            "Library Science",
+            "Mechanical Engineering",
+            "Physical Education",
+            "Preschool Education",
+            "Surveying and Mapping",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Agriculture",
+            "Animal Husbandry",
+            "Architecture",
+            "Business Administration",
+            "Business and Commerce",
+            "Civil Engineering",
+            "Computer Science",
+            "Electrical Engineering",
+            "Environmental Studies",
+            "Food Science",
+            "Forestry",
+            "Information Technology",
+            "Modern Languages",
+            "Native Language",
+            "Native Language Education",
+            "Power Engineering",
+            "Primary Education",
+            "Secondary Education",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Postgraduate Diploma/Certificate",
+          "fields": [
+            "Education",
+            "Educational Psychology",
+            "Higher Education",
+            "Native Language Education"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Business Administration",
+            "Development Studies",
+            "Educational Administration",
+            "Educational Psychology",
+            "Energy Engineering",
+            "Native Language Education",
+            "Natural Resources",
+            "Science Education"
+          ]
+        },
+        {
+          "name": "PhD",
+          "fields": [
+            "Environmental Studies"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Chewang Rinzin"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Karma Tshering"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Rinchen Dorji"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Lobzang Nima"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2024-2025",
+        "Staff Full Time Male:": "342",
+        "Staff Full Time Female:": "147",
+        "Staff Full Time Total:": "53",
+        "Students Statistics Year:": "2024-2025",
+        "Students Male:": "3784",
+        "Students Female:": "3442",
+        "Students Total:": "7226"
+      },
+      "history": "Founded 2003 by Royal Decree. A federated organization of nine constituent colleges and two private affiliated colleges.",
+      "periodicals": [
+        "Bhutan Journal of Research and Development",
+        "Bhutan Journal of Research and Development"
+      ],
+      "student_body": "co-ed"
+    }
+  ]
+}

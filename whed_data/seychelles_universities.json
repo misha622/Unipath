@@ -1,0 +1,109 @@
+{
+  "country_name": "Seychelles",
+  "country_id": "Seychelles",
+  "institutions": [
+    {
+      "id": "24548",
+      "iau_id": "IAU-024548",
+      "name": "University of Seychelles",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBVLSNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024548",
+      "address": {
+        "Street": "Anse Royale CampusPO Box 1348",
+        "City": "Anse Royale",
+        "Province": "Mahe",
+        "WWW": "https://unisey.ac.sc"
+      },
+      "website": "https://unisey.ac.sc",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Arts and Social Development",
+          "fields": [
+            "Computer Science",
+            "Education",
+            "English",
+            "French",
+            "Humanities and Social Science Education",
+            "Information Technology",
+            "Preschool Education",
+            "Primary Education",
+            "Secondary Education",
+            "Social and Community Services",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Faculty : Business and Sustainable Development",
+          "fields": [
+            "Business and Commerce",
+            "Environmental Management",
+            "Law",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Research and Innovation",
+          "fields": [
+            "Economics",
+            "Education",
+            "Environmental Studies",
+            "International Relations and Diplomacy",
+            "Island Studies",
+            "Native Language",
+            "Sustainable Development"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's degree",
+          "fields": [
+            "Business Administration",
+            "Economics",
+            "Information Technology",
+            "Law",
+            "Preschool Education",
+            "Primary Education",
+            "Secondary Education",
+            "Social Sciences",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Master's degree",
+          "fields": [
+            "Business Administration",
+            "Education",
+            "Peace and Disarmament"
+          ]
+        }
+      ],
+      "accreditation": "Seychelles Qualifications Authority (SQA)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Joëlle Perreau"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Betty-Mai Sofa"
+        }
+      ],
+      "statistics": {},
+      "history": "Created 2009",
+      "periodicals": [],
+      "student_body": null
+    }
+  ]
+}

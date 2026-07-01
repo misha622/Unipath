@@ -1,0 +1,1807 @@
+{
+  "country_name": "Namibia",
+  "country_id": "Namibia",
+  "institutions": [
+    {
+      "id": "29987",
+      "iau_id": "IAU-029987",
+      "name": "Botho University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0RZLiM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-029987",
+      "address": {
+        "Street": "Private Bag 1400521-31 Hercules StreetDorado Park Ext 1",
+        "City": "Windhoek",
+        "Province": "Khomas",
+        "Post Code": "9000",
+        "WWW": "https://ium.edu.na"
+      },
+      "website": "https://ium.edu.na",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1993,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "Mid-January to mid-December",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Languages and Communication",
+          "fields": [
+            "English"
+          ]
+        },
+        {
+          "name": "Centre : Short Courses",
+          "fields": [
+            "Accountancy",
+            "Computer Science",
+            "English",
+            "Management",
+            "Modern Languages",
+            "Sales Techniques",
+            "Secretarial Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Education",
+            "Educational Administration",
+            "Higher Education",
+            "Preschool Education",
+            "Primary Education",
+            "Secondary Education"
+          ]
+        },
+        {
+          "name": "Faculty : Environment and Sustainability Sciences",
+          "fields": [
+            "Agricultural Management",
+            "Aquaculture",
+            "Environmental Studies",
+            "Hotel Management",
+            "Natural Resources",
+            "Natural Sciences",
+            "Sustainable Development",
+            "Tourism",
+            "Transport Management",
+            "Water Management"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences",
+          "fields": [
+            "Health Administration",
+            "Health Sciences",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Faculty : Information and Communication Technology",
+          "fields": [
+            "Business Computing",
+            "Computer Science",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Strategic Management and Business Administration",
+          "fields": [
+            "Administration",
+            "Business Administration",
+            "Finance",
+            "Human Resources",
+            "Management",
+            "Marketing",
+            "Public Administration",
+            "Small Business"
+          ]
+        },
+        {
+          "name": "Graduate School : Business",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "School : Medicine",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "School : Postgraduate Studies and Research",
+          "fields": [
+            "Business Administration",
+            "Education",
+            "Educational Administration",
+            "Finance",
+            "Health Administration",
+            "Higher Education",
+            "Hotel Management",
+            "Human Resources",
+            "Information Technology",
+            "International Relations and Diplomacy",
+            "Management",
+            "Marketing",
+            "Public Administration",
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma",
+          "fields": [
+            "Accountancy",
+            "Agriculture",
+            "Aquaculture",
+            "Business Administration",
+            "Business Computing",
+            "Communication Studies",
+            "Ecology",
+            "Education",
+            "Educational Administration",
+            "Electrical Engineering",
+            "English",
+            "Environmental Management",
+            "Environmental Studies",
+            "Finance",
+            "Health Sciences",
+            "Hotel Management",
+            "Human Resources",
+            "Logistics Management",
+            "Management",
+            "Marine Science and Oceanography",
+            "Marketing",
+            "Nursing",
+            "Preschool Education",
+            "Primary Education",
+            "Secondary Education",
+            "Software Engineering",
+            "Tourism",
+            "Transport Engineering",
+            "Water Management"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Agriculture",
+            "Aquaculture",
+            "Business Administration",
+            "Business Computing",
+            "Communication Studies",
+            "Ecology",
+            "Education",
+            "Educational Administration",
+            "Electrical Engineering",
+            "English",
+            "Environmental Management",
+            "Environmental Studies",
+            "Finance",
+            "Health Sciences",
+            "Hotel Management",
+            "Human Resources",
+            "Logistics Management",
+            "Management",
+            "Marine Science and Oceanography",
+            "Marketing",
+            "Nursing",
+            "Preschool Education",
+            "Primary Education",
+            "Secondary Education",
+            "Software Engineering",
+            "Tourism",
+            "Transport Engineering",
+            "Water Management"
+          ]
+        },
+        {
+          "name": "Postgraduate Diploma",
+          "fields": [
+            "Business Administration",
+            "Education",
+            "Environmental Studies",
+            "Finance",
+            "Higher Education",
+            "Human Resources",
+            "Logistics Management",
+            "Management",
+            "Nursing",
+            "Public Administration",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Agricultural Management",
+            "Aquaculture",
+            "Business Administration",
+            "Ecology",
+            "Educational Administration",
+            "Entrepreneurship",
+            "Environmental Management",
+            "Environmental Studies",
+            "Finance",
+            "Health Administration",
+            "Health Sciences",
+            "Hotel Management",
+            "Human Resources",
+            "Information Management",
+            "Information Technology",
+            "International Relations and Diplomacy",
+            "Logistics Management",
+            "Management",
+            "Marine Transport",
+            "Marketing",
+            "Natural Resources",
+            "Nursing",
+            "Public Administration",
+            "Sanitary Engineering",
+            "Sustainable Development",
+            "Tourism",
+            "Water Management"
+          ]
+        },
+        {
+          "name": "Doctorate",
+          "fields": [
+            "Business Administration",
+            "Ecology",
+            "Education",
+            "Hotel Management",
+            "Information Technology",
+            "International Relations and Diplomacy",
+            "Logistics Management",
+            "Natural Resources",
+            "Natural Sciences",
+            "Sustainable Development",
+            "Tourism",
+            "Transport Management",
+            "Water Management"
+          ]
+        }
+      ],
+      "accreditation": "Namibia Qualifications Authority (NQA); National Council for Higher Education (NCHE)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Osmund Damian Mwandemele"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Aquilinus T. Nashilindo"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Charles Makanyeza"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Hendrina Udjombala"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Gerry Wilson Munyama"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2025-2026",
+        "Staff Full Time Total:": "71",
+        "Students Statistics Year:": "2025-2026",
+        "Students Total:": "24031"
+      },
+      "history": "Founded 1993 as Institute of Higher Education (IHE). Acquired present status and title 2002",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "24538",
+      "iau_id": "IAU-024538",
+      "name": "Business School of Excellence",
+      "alt_name": "(BSE)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBVLFNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024538",
+      "address": {
+        "Street": "P.O. Box 40271Ausspannplatz",
+        "City": "Windhoek",
+        "WWW": "https://namibia.bothouniversity.com"
+      },
+      "website": "https://namibia.bothouniversity.com",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2018,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Computer Science",
+          "fields": [
+            "Computer Networks",
+            "Computer Science",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Management",
+          "fields": [
+            "Accountancy",
+            "Health Administration",
+            "Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Computer Science",
+            "Health Administration",
+            "Management"
+          ]
+        }
+      ],
+      "accreditation": "Namibia Qualifications Authority (NQA)",
+      "officers": [],
+      "statistics": {},
+      "history": "Founded 2018. Franchised from Botho University in Botswana",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "30029",
+      "iau_id": "IAU-030029",
+      "name": "I-Care Health Training Institute",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sU2BQLENEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-030029",
+      "address": {
+        "Street": "Yang-Tze Building 2nd FloorC/O Sam Nujoma Drv and Nelson Mandela Ave",
+        "City": "Windhoek",
+        "WWW": "https://www.bse.com.na"
+      },
+      "website": "https://www.bse.com.na",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2009,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Education",
+          "fields": [
+            "Education",
+            "Educational Administration",
+            "Mathematics Education",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Course/Programme : Logistics",
+          "fields": [
+            "Management",
+            "Transport Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Logistics Management",
+            "Transport Management"
+          ]
+        }
+      ],
+      "accreditation": "Namibia Qualifications Authority",
+      "officers": [
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Fanie Oosthuizen"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2009.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "24539",
+      "iau_id": "IAU-024539",
+      "name": "Institute for Open Learning",
+      "alt_name": "(IOL)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBVLFNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024539",
+      "address": {
+        "Street": "Erf 159 Rendsburger StreetLafrenz Industrial",
+        "City": "Windhoek",
+        "WWW": "https://icare-health.org"
+      },
+      "website": "https://icare-health.org",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2017,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Nursing"
+          ]
+        }
+      ],
+      "accreditation": "Namibia Qualifications Authority (NQA); National Council for Higher Education (NCHE)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Johannes J. George"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2017",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "30000",
+      "iau_id": "IAU-030000",
+      "name": "International Training College-Lingua",
+      "alt_name": "(ITCL)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sU2BQLCNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-030000",
+      "address": {
+        "Street": "P.O. Box 11363c/o Robert Mugabe & Dr. Kenneth David Kaunda Street",
+        "City": "Windhoek",
+        "WWW": "https://www.iol.na"
+      },
+      "website": "https://www.iol.na",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2005,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Education",
+          "fields": [
+            "Education",
+            "Preschool Education",
+            "Primary Education",
+            "Secondary Education"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma",
+          "fields": [
+            "Preschool Education",
+            "Primary Education",
+            "Secondary Education"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Education",
+            "Primary Education"
+          ]
+        }
+      ],
+      "accreditation": "Namibia Qualifications Authority (NQA); National Council for Higher Education (NCHE)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ilana Calitz"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Hipa Murangi"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2016-2017",
+        "Students Total:": "53000"
+      },
+      "history": "Founded 2005.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "13637",
+      "iau_id": "IAU-013637",
+      "name": "Namibia University of Science and Technology",
+      "alt_name": "(NUST)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyxWLFM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-013637",
+      "address": {
+        "Street": "PO Box 8057961 Hosea Kutako DriveGammams Training CentreOpposite Pioneers Park Cemetery",
+        "City": "Windhoek",
+        "WWW": "https://www.collegelingua.net"
+      },
+      "website": "https://www.collegelingua.net",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2001,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Business and Management",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Business Administration",
+            "Finance",
+            "Human Resources",
+            "Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Information Technology",
+          "fields": [
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Department/Division : Law",
+          "fields": [
+            "Commercial Law",
+            "Labour Law",
+            "Law"
+          ]
+        },
+        {
+          "name": "Department/Division : Tourism and Hospitality",
+          "fields": [
+            "Hotel Management",
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Computer Networks",
+            "Finance",
+            "Human Resources",
+            "Information Technology",
+            "Software Engineering",
+            "Tourism"
+          ]
+        }
+      ],
+      "accreditation": "Namibia Qualifications Authority (NQA); National Council for Higher Education (NCHE)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ingrid Mettler"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2001",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "30034",
+      "iau_id": "IAU-030034",
+      "name": "Namibian College of Open Learning",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sU2BQLFMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-030034",
+      "address": {
+        "Street": "13 Jackson Kaujeua StreetPrivate Bag 13388",
+        "City": "Windhoek",
+        "WWW": "https://www.nust.na"
+      },
+      "website": "https://www.nust.na",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1985,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "February to November (February-June; July-November)",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Open and Lifelong Learning",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Communication Studies",
+            "Economics",
+            "Education",
+            "English",
+            "Finance",
+            "Hotel Management",
+            "Human Resources",
+            "Management",
+            "Marketing",
+            "Modern Languages",
+            "Public Administration",
+            "Secretarial Studies",
+            "Tourism",
+            "Transport and Communications",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Faculty : Commerce, Human Sciences and Education",
+          "fields": [
+            "Accountancy",
+            "Business and Commerce",
+            "Communication Arts",
+            "Communication Studies",
+            "Econometrics",
+            "Economics",
+            "Education",
+            "English",
+            "Finance",
+            "Government",
+            "Higher Education",
+            "Hotel Management",
+            "Human Resources",
+            "Laboratory Techniques",
+            "Labour and Industrial Relations",
+            "Logistics Management",
+            "Management",
+            "Marketing",
+            "Modern Languages",
+            "Police Studies",
+            "Public Administration",
+            "Social Sciences",
+            "Sports Management",
+            "Technology Education",
+            "Tourism",
+            "Vocational Education"
+          ]
+        },
+        {
+          "name": "Faculty : Computing and Informatics",
+          "fields": [
+            "Computer Engineering",
+            "Computer Networks",
+            "Computer Science",
+            "Information Technology",
+            "Journalism",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering and Built Environment",
+          "fields": [
+            "Architecture",
+            "Architecture and Planning",
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Construction Engineering",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Environmental Engineering",
+            "Industrial Engineering",
+            "Mechanical Engineering",
+            "Metallurgical Engineering",
+            "Mining Engineering",
+            "Power Engineering",
+            "Surveying and Mapping",
+            "Water Management"
+          ]
+        },
+        {
+          "name": "Faculty : Health, Natural Resources and Applied Sciences",
+          "fields": [
+            "Actuarial Science",
+            "Agricultural Business",
+            "Agriculture",
+            "Biology",
+            "Chemistry",
+            "Environmental Studies",
+            "Health Administration",
+            "Health Sciences",
+            "Horticulture",
+            "Laboratory Techniques",
+            "Mathematics",
+            "Medical Science",
+            "Natural Resources",
+            "Natural Sciences",
+            "Nutrition",
+            "Physics",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Graduate School : Business",
+          "fields": [
+            "Business Administration",
+            "International Business"
+          ]
+        },
+        {
+          "name": "Institute : Land, Livelihoods and Housing",
+          "fields": [
+            "Accountancy",
+            "Agricultural Business",
+            "Agriculture",
+            "Architecture",
+            "Architecture and Planning",
+            "Business Administration",
+            "Business and Commerce",
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Communication Arts",
+            "Communication Studies",
+            "Computer Engineering",
+            "Computer Networks",
+            "Computer Science",
+            "Cooking and Catering",
+            "Criminal Law",
+            "Econometrics",
+            "Economics",
+            "Education",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Engineering",
+            "English",
+            "Entrepreneurship",
+            "Environmental Engineering",
+            "Environmental Management",
+            "Finance",
+            "Health Sciences",
+            "Hotel Management",
+            "Human Resources",
+            "Industrial Engineering",
+            "Information Technology",
+            "International Business",
+            "Journalism",
+            "Labour and Industrial Relations",
+            "Linguistics",
+            "Logistics Management",
+            "Management",
+            "Marine Engineering",
+            "Marketing",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Metallurgical Engineering",
+            "Mining Engineering",
+            "Modern Languages",
+            "Natural Resources",
+            "Natural Sciences",
+            "Power Engineering",
+            "Public Administration",
+            "Real Estate",
+            "Regional Planning",
+            "Rural Studies",
+            "Secretarial Studies",
+            "Social Sciences",
+            "Software Engineering",
+            "Statistics",
+            "Surveying and Mapping",
+            "Technology",
+            "Tourism",
+            "Town Planning",
+            "Transport and Communications",
+            "Transport Engineering",
+            "Transport Management",
+            "Water Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Agricultural Business",
+            "Agriculture",
+            "Architecture",
+            "Architecture and Planning",
+            "Business Administration",
+            "Business and Commerce",
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Communication Arts",
+            "Communication Studies",
+            "Computer Engineering",
+            "Computer Networks",
+            "Computer Science",
+            "Cooking and Catering",
+            "Criminal Law",
+            "Econometrics",
+            "Economics",
+            "Education",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Engineering",
+            "English",
+            "Entrepreneurship",
+            "Environmental Engineering",
+            "Environmental Management",
+            "Finance",
+            "Health Sciences",
+            "Hotel Management",
+            "Human Resources",
+            "Industrial Engineering",
+            "Information Technology",
+            "International Business",
+            "Journalism",
+            "Labour and Industrial Relations",
+            "Linguistics",
+            "Logistics Management",
+            "Management",
+            "Marine Engineering",
+            "Marketing",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Metallurgical Engineering",
+            "Mining Engineering",
+            "Modern Languages",
+            "Natural Resources",
+            "Natural Sciences",
+            "Power Engineering",
+            "Public Administration",
+            "Real Estate",
+            "Regional Planning",
+            "Rural Studies",
+            "Secretarial Studies",
+            "Social Sciences",
+            "Software Engineering",
+            "Statistics",
+            "Surveying and Mapping",
+            "Technology",
+            "Tourism",
+            "Town Planning",
+            "Transport and Communications",
+            "Transport Engineering",
+            "Transport Management",
+            "Water Management"
+          ]
+        },
+        {
+          "name": "Postgraduate Diploma",
+          "fields": [
+            "Astronomy and Space Science",
+            "Business Administration",
+            "Business Computing",
+            "Information Technology",
+            "Meteorology"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Accountancy",
+            "Agricultural Business",
+            "Applied Linguistics",
+            "Architecture",
+            "Astronomy and Space Science",
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Design",
+            "Econometrics",
+            "Electronic Engineering",
+            "Energy Engineering",
+            "English",
+            "Environmental Engineering",
+            "Human Resources",
+            "Industrial Engineering",
+            "Information Technology",
+            "Landscape Architecture",
+            "Logistics Management",
+            "Management",
+            "Marine Engineering",
+            "Marketing",
+            "Mechanical Engineering",
+            "Metallurgical Engineering",
+            "Mining Engineering",
+            "Natural Resources",
+            "Power Engineering",
+            "Real Estate",
+            "Regional Planning",
+            "Rural Studies",
+            "Surveying and Mapping",
+            "Town Planning",
+            "Transport Engineering",
+            "Transport Management",
+            "Water Management"
+          ]
+        },
+        {
+          "name": "Doctorate",
+          "fields": [
+            "Astronomy and Space Science",
+            "Computer Science",
+            "Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Namibia Qualification Authority (NQA); National Council for Higher Education (NCHE);",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Erold Naomab"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Sifiso Nyathi"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1985 as Technikon Namibia. Became Polytechnic of Namibia in 1994, incorporating the Technikon Namibia and College for Out-of-School Training. Acquired current title and status 1996.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "30035",
+      "iau_id": "IAU-030035",
+      "name": "Namibian Institute of Public Administration and Management",
+      "alt_name": "(NIPAM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sU2BQLFM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-030035",
+      "address": {
+        "Street": "Erf 2030 Independence AvenueKatutura",
+        "City": "Windhoek",
+        "WWW": "https://namcol.edu.na"
+      },
+      "website": "https://namcol.edu.na",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1998,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Education",
+          "fields": [
+            "Child Care and Development",
+            "Education",
+            "Educational Administration",
+            "Preschool Education",
+            "Primary Education",
+            "Social and Community Services"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Development Studies",
+            "Education",
+            "Preschool Education",
+            "Primary Education"
+          ]
+        },
+        {
+          "name": "Postgraduate Diploma",
+          "fields": [
+            "Educational Administration"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Development Studies",
+            "Social and Community Services"
+          ]
+        }
+      ],
+      "accreditation": "Namibia Qualifications Authority (NQA)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "J. Nitschke"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Ndeshimona Afunde"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1998",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "30030",
+      "iau_id": "IAU-030030",
+      "name": "River Higher Institute of Technology",
+      "alt_name": "(RHIT)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sU2BQLFNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-030030",
+      "address": {
+        "Street": "Paul Nash StreetOlympia",
+        "City": "Windhoek",
+        "WWW": "https://www.nipam.na"
+      },
+      "website": "https://www.nipam.na",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2010,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Public Sector Management",
+          "fields": [
+            "Public Administration"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Public Administration"
+          ]
+        }
+      ],
+      "accreditation": "Namibia Qualifications Authority (NQA)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Maria Nangolo"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2010",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "24540",
+      "iau_id": "IAU-024540",
+      "name": "Triumphant College",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBVLSNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024540",
+      "address": {
+        "Street": "P.O. Bo 40792No 4 Sauerstrasse Windhoek North",
+        "City": "Windhoek",
+        "WWW": "https://riverhigherinstitute.edu.na"
+      },
+      "website": "https://riverhigherinstitute.edu.na",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Business and Public Administration",
+          "fields": [
+            "Business Administration",
+            "Business and Commerce",
+            "Human Resources"
+          ]
+        },
+        {
+          "name": "Faculty : Health and Human Services",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Faculty : Hospitality and Culinary Arts",
+          "fields": [
+            "Cooking and Catering",
+            "Hotel and Restaurant",
+            "Hotel Management",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Liberal Arts and Education",
+          "fields": [
+            "Education",
+            "Primary Education",
+            "Secondary Education"
+          ]
+        },
+        {
+          "name": "Faculty : Science, Engineering, and Technology",
+          "fields": [
+            "Computer Science",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Engineering",
+            "Information Technology",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Institute : Renewable Energy",
+          "fields": [
+            "Energy Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Nursing",
+            "Primary Education",
+            "Secondary Education"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Business Administration"
+          ]
+        }
+      ],
+      "accreditation": "Namibia Qualifications Authority (NQA); National Council for Higher Education (NCHE)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Elmarie Myburgh"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded as Monitronic Success College since 1999. Acquired present title 2023.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20320",
+      "iau_id": "IAU-020320",
+      "name": "University of Namibia",
+      "alt_name": "(UNAM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BTLENgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020320",
+      "address": {
+        "Street": "P.O. Box 6506Erf 482 Kornalyn Street",
+        "City": "Windhoek",
+        "WWW": "https://triumphant.edu.na"
+      },
+      "website": "https://triumphant.edu.na",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2006,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "School : Business and Management Studies",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Advertising and Publicity",
+            "Business Administration",
+            "Human Resources",
+            "Marketing",
+            "Secretarial Studies",
+            "Sports Management",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "School : Education",
+          "fields": [
+            "Education",
+            "Preschool Education",
+            "Primary Education"
+          ]
+        },
+        {
+          "name": "School : Engineering",
+          "fields": [
+            "Computer Science",
+            "Construction Engineering",
+            "Data Science",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Information Technology",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "School : Humanities and Law",
+          "fields": [
+            "Industrial and Organizational Psychology",
+            "Journalism",
+            "Law",
+            "Media Studies",
+            "Psychology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Banking",
+            "Business and Commerce",
+            "Computer Science",
+            "Education",
+            "Finance",
+            "Human Resources",
+            "Industrial and Organizational Psychology",
+            "Information Technology",
+            "Journalism",
+            "Logistics Management",
+            "Management",
+            "Media Studies",
+            "Primary Education",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Banking",
+            "Business and Commerce",
+            "Computer Science",
+            "Education",
+            "Finance",
+            "Human Resources",
+            "Industrial and Organizational Psychology",
+            "Information Technology",
+            "Journalism",
+            "Logistics Management",
+            "Management",
+            "Media Studies",
+            "Primary Education",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Postgraduate Diploma",
+          "fields": [
+            "Management",
+            "Secondary Education"
+          ]
+        }
+      ],
+      "accreditation": "Namibia Qualifications Authority (NQA); National Council for Higher Education (NCHE)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Geoffrey E. Kiangi"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Collin P. Madziwo"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2006.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "24541",
+      "iau_id": "IAU-024541",
+      "name": "Welwitchia Health Training Centre",
+      "alt_name": "(WELWITCHIA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBVLSMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024541",
+      "address": {
+        "Street": "Private Bag 13301340 Mandume Ndemufayo AvenuePioneerspark",
+        "City": "Windhoek",
+        "WWW": "https://www.unam.edu.na"
+      },
+      "website": "https://www.unam.edu.na",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1992,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "January to November",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Language",
+          "fields": [
+            "African Languages",
+            "Communication Studies",
+            "English",
+            "Modern Languages",
+            "Writing"
+          ]
+        },
+        {
+          "name": "Centre : Open, Distance and eLearning",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Continuing Education",
+            "Educational Administration",
+            "Epidemiology",
+            "Government",
+            "Labour and Industrial Relations",
+            "Management",
+            "Nursing",
+            "Primary Education",
+            "Public Relations",
+            "Secondary Education",
+            "Taxation"
+          ]
+        },
+        {
+          "name": "Centre : Postgraduate Studies",
+          "fields": [
+            "Biochemistry",
+            "Business Administration",
+            "Chemistry",
+            "Demography and Population",
+            "Economics",
+            "Engineering",
+            "English",
+            "Gender Studies",
+            "German",
+            "Heritage Preservation",
+            "Information Technology",
+            "Law",
+            "Mathematics",
+            "Microbiology",
+            "Modern Languages",
+            "Nursing",
+            "Performing Arts",
+            "Political Sciences",
+            "Protective Services",
+            "Psychology",
+            "Public Administration",
+            "Public Health",
+            "Special Education",
+            "Statistics",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Faculty : Agriculture, Engineering & Natural Sciences",
+          "fields": [
+            "Agriculture",
+            "Building Technologies",
+            "Civil Engineering",
+            "Engineering",
+            "Fishery",
+            "Military Science",
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Commerce, Management & Law",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Business Administration",
+            "Business and Commerce",
+            "Government",
+            "International Relations and Diplomacy",
+            "Law",
+            "Management"
+          ]
+        },
+        {
+          "name": "Faculty : Education & Human Sciences",
+          "fields": [
+            "Arts and Humanities",
+            "Education",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences & Veterinary Medicine",
+          "fields": [
+            "Dentistry",
+            "Health Sciences",
+            "Medicine",
+            "Nursing",
+            "Pharmacy",
+            "Public Health",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Institute : Confucius Institute",
+          "fields": [
+            "Asian Studies",
+            "Chinese"
+          ]
+        },
+        {
+          "name": "School : Accounting",
+          "fields": [
+            "Accountancy"
+          ]
+        },
+        {
+          "name": "School : Agriculture & Fisheries Sciences",
+          "fields": [
+            "Agricultural Economics",
+            "Agriculture",
+            "Animal Husbandry",
+            "Aquaculture",
+            "Crop Production",
+            "Ecology",
+            "Environmental Studies",
+            "Fishery",
+            "Food Science",
+            "Food Technology",
+            "Tourism",
+            "Veterinary Science",
+            "Wildlife"
+          ]
+        },
+        {
+          "name": "School : Allied Health Sciences",
+          "fields": [
+            "Health Sciences"
+          ]
+        },
+        {
+          "name": "School : Business Management, Governance & Economics",
+          "fields": [
+            "Administration",
+            "Business Administration",
+            "Economics",
+            "Government",
+            "Taxation"
+          ]
+        },
+        {
+          "name": "School : Dentistry",
+          "fields": [
+            "Dentistry"
+          ]
+        },
+        {
+          "name": "School : Diplomatic Studies",
+          "fields": [
+            "Political Sciences"
+          ]
+        },
+        {
+          "name": "School : Education",
+          "fields": [
+            "Business Education",
+            "Continuing Education",
+            "Curriculum",
+            "Education",
+            "Educational Administration",
+            "Educational Psychology",
+            "Educational Sciences",
+            "Educational Testing and Evaluation",
+            "Foreign Languages Education",
+            "Humanities and Social Science Education",
+            "Mathematics Education",
+            "Physical Education",
+            "Preschool Education",
+            "Primary Education",
+            "Science Education",
+            "Social Sciences",
+            "Special Education"
+          ]
+        },
+        {
+          "name": "School : Engineering & The Built Environment",
+          "fields": [
+            "Civil Engineering",
+            "Computer Engineering",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Engineering",
+            "Environmental Engineering",
+            "Industrial Engineering",
+            "Mechanical Engineering",
+            "Mining Engineering"
+          ]
+        },
+        {
+          "name": "School : Humanities, Society & Development",
+          "fields": [
+            "Arts and Humanities",
+            "Environmental Studies",
+            "Geography (Human)",
+            "History",
+            "Information Sciences",
+            "Literature",
+            "Mass Communication",
+            "Modern Languages",
+            "Performing Arts",
+            "Sociology",
+            "Tourism",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "School : Law",
+          "fields": [
+            "Civil Law",
+            "Commercial Law",
+            "Justice Administration",
+            "Law",
+            "Private Law",
+            "Public Law"
+          ]
+        },
+        {
+          "name": "School : Medicine",
+          "fields": [
+            "Anatomy",
+            "Behavioural Sciences",
+            "Biochemistry",
+            "Community Health",
+            "Medicine",
+            "Microbiology",
+            "Obstetrics and Gynaecology",
+            "Paediatrics",
+            "Pathology",
+            "Psychiatry and Mental Health",
+            "Surgery"
+          ]
+        },
+        {
+          "name": "School : Military Science",
+          "fields": [
+            "Military Science"
+          ]
+        },
+        {
+          "name": "School : Namibia Business School",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "School : Nursing and Public Health",
+          "fields": [
+            "Health Sciences",
+            "Midwifery",
+            "Nursing",
+            "Public Health",
+            "Radiology"
+          ]
+        },
+        {
+          "name": "School : Pharmacy",
+          "fields": [
+            "Applied Chemistry",
+            "Pharmacology",
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "School : Science",
+          "fields": [
+            "Biochemistry",
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Demography and Population",
+            "Engineering",
+            "Geology",
+            "Mathematics",
+            "Physics",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "School : Veterinary Medicine",
+          "fields": [
+            "Veterinary Science"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Aeronautical and Aerospace Engineering",
+            "Agricultural Economics",
+            "Agriculture",
+            "Animal Husbandry",
+            "Business Administration",
+            "Communication Studies",
+            "Computer Science",
+            "Crop Production",
+            "Demography and Population",
+            "Dental Surgery",
+            "Education",
+            "Electrical Engineering",
+            "Engineering",
+            "Food Science",
+            "Food Technology",
+            "Information Sciences",
+            "Law",
+            "Marine Science and Oceanography",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Media Studies",
+            "Medicine",
+            "Metallurgical Engineering",
+            "Mining Engineering",
+            "Nursing",
+            "Occupational Therapy",
+            "Pharmacy",
+            "Physical Therapy",
+            "Preschool Education",
+            "Primary Education",
+            "Radiology",
+            "Secondary Education",
+            "Social Work",
+            "Statistics",
+            "Surgery",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Postgraduate Diploma",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Health Sciences",
+            "Heritage Preservation",
+            "Nursing",
+            "Protective Services"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Accountancy",
+            "Agricultural Economics",
+            "Agriculture",
+            "Animal Husbandry",
+            "Applied Mathematics",
+            "Biochemistry",
+            "Chemistry",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Crop Production",
+            "Demography and Population",
+            "Economics",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Energy Engineering",
+            "Engineering",
+            "Entrepreneurship",
+            "Environmental Studies",
+            "Finance",
+            "Fishery",
+            "Food Science",
+            "Food Technology",
+            "Geology",
+            "Information Technology",
+            "Law",
+            "Management",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Metallurgical Engineering",
+            "Microbiology",
+            "Mining Engineering",
+            "Natural Resources",
+            "Nuclear Engineering",
+            "Nuclear Physics",
+            "Physics",
+            "Political Sciences",
+            "Public Administration",
+            "Statistics",
+            "Surveying and Mapping",
+            "Wildlife"
+          ]
+        },
+        {
+          "name": "Doctorate",
+          "fields": [
+            "Agricultural Economics",
+            "Agriculture",
+            "Animal Husbandry",
+            "Aquaculture",
+            "Biochemistry",
+            "Business Administration",
+            "Computer Science",
+            "Crop Production",
+            "Economics",
+            "English",
+            "Fishery",
+            "Food Science",
+            "Food Technology",
+            "Geography",
+            "Geology",
+            "Law",
+            "Management",
+            "Natural Sciences",
+            "Nursing",
+            "Political Sciences",
+            "Public Administration",
+            "Wildlife"
+          ]
+        }
+      ],
+      "accreditation": "Namibia Qualifications Authority (NQA); National Council for Higher Education (NCHE)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Kenneth Matengu"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1992 to provide a University responsive to the needs, culture and values of Namibia through highest quality education and research for students who may benefit from them, regardless of race, colour, gender, ethnic origin, religion, creed, social and economic status or physical condition.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    }
+  ]
+}

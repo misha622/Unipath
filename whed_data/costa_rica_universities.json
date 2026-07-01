@@ -1,0 +1,3304 @@
+{
+  "country_name": "Costa Rica",
+  "country_id": "Costa Rica",
+  "institutions": [
+    {
+      "id": "17143",
+      "iau_id": "IAU-017143",
+      "name": "American University",
+      "alt_name": "Universidad Americana",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxRLSMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017143",
+      "address": {
+        "Street": "Apartado 2060Ciudad Universitaria Rodrígo Facio",
+        "City": "San José",
+        "Post Code": "11501-2060",
+        "WWW": "https://www.ucr.ac.cr"
+      },
+      "website": "https://www.ucr.ac.cr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1940,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "February to December (February-July; August-December)",
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : Atlantico",
+          "fields": [
+            "Agriculture",
+            "Business Administration",
+            "Education",
+            "Environmental Engineering",
+            "Public Health",
+            "Rehabilitation and Therapy"
+          ]
+        },
+        {
+          "name": "Campus : Guanacaste",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Education",
+            "Engineering",
+            "English",
+            "Law",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Campus : Occidente",
+          "fields": [
+            "Design",
+            "Education",
+            "Environmental Management",
+            "Law",
+            "Psychology",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Campus : Pacifico",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Engineering",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Campus : Sur",
+          "fields": [
+            "Agricultural Economics",
+            "Education",
+            "English",
+            "International Business",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Agronomy",
+          "fields": [
+            "Agricultural Economics",
+            "Agronomy",
+            "Animal Husbandry",
+            "Food Technology",
+            "Zoology"
+          ]
+        },
+        {
+          "name": "Faculty : Arts",
+          "fields": [
+            "Acting",
+            "Art History",
+            "Conducting",
+            "Design",
+            "Fine Arts",
+            "Graphic Arts",
+            "Graphic Design",
+            "Music",
+            "Musical Instruments",
+            "Painting and Drawing",
+            "Sculpture",
+            "Singing",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Faculty : Economics",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Economics",
+            "Health Administration",
+            "Public Administration",
+            "Statistics",
+            "Taxation"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Civics",
+            "Education",
+            "Educational Administration",
+            "Foreign Languages Education",
+            "Higher Education",
+            "Humanities and Social Science Education",
+            "Library Science",
+            "Mathematics Education",
+            "Music Education",
+            "Physical Education",
+            "Primary Education",
+            "Science Education",
+            "Special Education"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Agricultural Engineering",
+            "Architecture",
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Computer Science",
+            "Electrical Engineering",
+            "Engineering",
+            "Industrial Engineering",
+            "Information Technology",
+            "Mechanical Engineering",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Letters",
+          "fields": [
+            "English",
+            "Foreign Languages Education",
+            "Literature",
+            "Modern Languages",
+            "Native Language Education",
+            "Philology",
+            "Philosophy",
+            "Spanish"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Dentistry",
+            "Medical Auxiliaries",
+            "Medical Technology",
+            "Medicine",
+            "Microbiology",
+            "Nursing",
+            "Nutrition",
+            "Pharmacy",
+            "Physical Therapy",
+            "Public Health",
+            "Speech Therapy and Audiology",
+            "Surgery"
+          ]
+        },
+        {
+          "name": "Faculty : Science",
+          "fields": [
+            "Actuarial Science",
+            "Biology",
+            "Chemistry",
+            "Geology",
+            "Mathematics",
+            "Mathematics Education",
+            "Meteorology",
+            "Natural Sciences",
+            "Physics",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Faculty : Social Sciences",
+          "fields": [
+            "Anthropology",
+            "Archiving",
+            "Communication Studies",
+            "Geography",
+            "History",
+            "Mass Communication",
+            "Political Sciences",
+            "Psychology",
+            "Social Sciences",
+            "Social Work",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Research Division : Abnormal Haemoglobin and Related Disorders",
+          "fields": [
+            "Pathology"
+          ]
+        },
+        {
+          "name": "Research Division : Agricultural Economics and Agribusiness",
+          "fields": [
+            "Agricultural Business"
+          ]
+        },
+        {
+          "name": "Research Division : Agriculture",
+          "fields": [
+            "Agriculture"
+          ]
+        },
+        {
+          "name": "Research Division : Agronomy",
+          "fields": [
+            "Agronomy"
+          ]
+        },
+        {
+          "name": "Research Division : Animal Nutrition",
+          "fields": [
+            "Animal Husbandry"
+          ]
+        },
+        {
+          "name": "Research Division : Atomic, Molecular and Nuclear Sciences",
+          "fields": [
+            "Atomic and Molecular Physics",
+            "Nuclear Physics"
+          ]
+        },
+        {
+          "name": "Research Division : Cellular and Molecular Biology",
+          "fields": [
+            "Cell Biology",
+            "Molecular Biology"
+          ]
+        },
+        {
+          "name": "Research Division : Central American History",
+          "fields": [
+            "History",
+            "Latin American Studies"
+          ]
+        },
+        {
+          "name": "Research Division : Clodomiro Picado",
+          "fields": [
+            "ICP"
+          ]
+        },
+        {
+          "name": "Research Division : Crop Protection",
+          "fields": [
+            "Crop Production"
+          ]
+        },
+        {
+          "name": "Research Division : Economics",
+          "fields": [
+            "Economics"
+          ]
+        },
+        {
+          "name": "Research Division : Education",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Research Division : Electro-Chemistry and Chemical Energy",
+          "fields": [
+            "Chemistry"
+          ]
+        },
+        {
+          "name": "Research Division : Engineering",
+          "fields": [
+            "Engineering"
+          ]
+        },
+        {
+          "name": "Research Division : Environmental Pollution",
+          "fields": [
+            "Environmental Studies"
+          ]
+        },
+        {
+          "name": "Research Division : Food Science and Technology",
+          "fields": [
+            "Food Science",
+            "Food Technology"
+          ]
+        },
+        {
+          "name": "Research Division : Geology",
+          "fields": [
+            "Geology"
+          ]
+        },
+        {
+          "name": "Research Division : Geophysics",
+          "fields": [
+            "Geophysics",
+            "Seismology"
+          ]
+        },
+        {
+          "name": "Research Division : Grains and Seeds",
+          "fields": [
+            "Plant Pathology"
+          ]
+        },
+        {
+          "name": "Research Division : Health Sciences",
+          "fields": [
+            "Health Sciences"
+          ]
+        },
+        {
+          "name": "Research Division : Latin American Identity and Culture",
+          "fields": [
+            "Cultural Studies",
+            "Latin American Studies"
+          ]
+        },
+        {
+          "name": "Research Division : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Research Division : Linguistics",
+          "fields": [
+            "Linguistics"
+          ]
+        },
+        {
+          "name": "Research Division : Materials Engineering",
+          "fields": [
+            "Materials Engineering"
+          ]
+        },
+        {
+          "name": "Research Division : Mathematics and Applied Mathematics",
+          "fields": [
+            "Applied Mathematics",
+            "Mathematics"
+          ]
+        },
+        {
+          "name": "Research Division : Mathematics and Meta-Mathematics",
+          "fields": [
+            "Mathematics"
+          ]
+        },
+        {
+          "name": "Research Division : Microstructures",
+          "fields": [
+            "Microelectronics"
+          ]
+        },
+        {
+          "name": "Research Division : Natural Products",
+          "fields": [
+            "Natural Resources"
+          ]
+        },
+        {
+          "name": "Research Division : Pharmacy",
+          "fields": [
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Research Division : Philosophy",
+          "fields": [
+            "Philosophy"
+          ]
+        },
+        {
+          "name": "Research Division : Population Studies",
+          "fields": [
+            "Demography and Population"
+          ]
+        },
+        {
+          "name": "Research Division : Psychology",
+          "fields": [
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Research Division : Public Administration",
+          "fields": [
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "Research Division : Sea Sciences and Limnology",
+          "fields": [
+            "Limnology",
+            "Marine Science and Oceanography"
+          ]
+        },
+        {
+          "name": "Research Division : Social Studies",
+          "fields": [
+            "Social Studies"
+          ]
+        },
+        {
+          "name": "Research Division : Space Studies",
+          "fields": [
+            "CINESPA"
+          ]
+        },
+        {
+          "name": "Research Division : Tropical Diseases",
+          "fields": [
+            "Tropical Medicine"
+          ]
+        },
+        {
+          "name": "Research Division : Women's Studies",
+          "fields": [
+            "Women's Studies"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diplomado",
+          "fields": [
+            "Accountancy",
+            "Actuarial Science",
+            "Administration",
+            "Agricultural Economics",
+            "Agricultural Engineering",
+            "Agronomy",
+            "Animal Husbandry",
+            "Anthropology",
+            "Archiving",
+            "Art History",
+            "Biology",
+            "Chemistry",
+            "Communication Studies",
+            "Computer Science",
+            "Economics",
+            "Electrical Engineering",
+            "English",
+            "Foreign Languages Education",
+            "French",
+            "Geography",
+            "Geology",
+            "Graphic Design",
+            "History",
+            "Humanities and Social Science Education",
+            "Law",
+            "Library Science",
+            "Mathematics Education",
+            "Mechanical Engineering",
+            "Medical Auxiliaries",
+            "Medical Technology",
+            "Medicine",
+            "Meteorology",
+            "Music",
+            "Music Education",
+            "Native Language Education",
+            "Nutrition",
+            "Philology",
+            "Philosophy",
+            "Physical Therapy",
+            "Physics",
+            "Political Sciences",
+            "Preschool Education",
+            "Primary Education",
+            "Psychology",
+            "Public Administration",
+            "Public Health",
+            "Science Education",
+            "Social Work",
+            "Sociology",
+            "Special Education",
+            "Statistics",
+            "Surveying and Mapping",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Bachillerato Universitario",
+          "fields": [
+            "Accountancy",
+            "Actuarial Science",
+            "Administration",
+            "Agricultural Economics",
+            "Agricultural Engineering",
+            "Agronomy",
+            "Animal Husbandry",
+            "Anthropology",
+            "Archiving",
+            "Art History",
+            "Biology",
+            "Chemistry",
+            "Communication Studies",
+            "Computer Science",
+            "Economics",
+            "Electrical Engineering",
+            "English",
+            "Foreign Languages Education",
+            "French",
+            "Geography",
+            "Geology",
+            "Graphic Design",
+            "History",
+            "Humanities and Social Science Education",
+            "Law",
+            "Library Science",
+            "Mathematics Education",
+            "Mechanical Engineering",
+            "Medical Auxiliaries",
+            "Medical Technology",
+            "Medicine",
+            "Meteorology",
+            "Music",
+            "Music Education",
+            "Native Language Education",
+            "Nutrition",
+            "Philology",
+            "Philosophy",
+            "Physical Therapy",
+            "Physics",
+            "Political Sciences",
+            "Preschool Education",
+            "Primary Education",
+            "Psychology",
+            "Public Administration",
+            "Public Health",
+            "Science Education",
+            "Social Work",
+            "Sociology",
+            "Special Education",
+            "Statistics",
+            "Surveying and Mapping",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Accountancy",
+            "Actuarial Science",
+            "Agricultural Engineering",
+            "Agronomy",
+            "Animal Husbandry",
+            "Anthropology",
+            "Architecture",
+            "Archiving",
+            "Biology",
+            "Business Administration",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civil Engineering",
+            "Communication Studies",
+            "Computer Science",
+            "Dentistry",
+            "Design",
+            "Education",
+            "Educational Administration",
+            "Educational and Student Counselling",
+            "Electrical Engineering",
+            "Food Science",
+            "Food Technology",
+            "Geography",
+            "Geology",
+            "Graphic Design",
+            "History",
+            "Industrial Engineering",
+            "Law",
+            "Library Science",
+            "Mathematics",
+            "Mathematics Education",
+            "Mechanical Engineering",
+            "Medicine",
+            "Meteorology",
+            "Microbiology",
+            "Music",
+            "Nursing",
+            "Nutrition",
+            "Pharmacy",
+            "Philology",
+            "Philosophy",
+            "Physical Therapy",
+            "Political Sciences",
+            "Preschool Education",
+            "Primary Education",
+            "Psychology",
+            "Public Administration",
+            "Public Health",
+            "Social Work",
+            "Sociology",
+            "Speech Therapy and Audiology",
+            "Surveying and Mapping",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Especialidad Profesional",
+          "fields": [
+            "Forensic Medicine and Dentistry",
+            "Meteorology"
+          ]
+        },
+        {
+          "name": "Maestría",
+          "fields": [
+            "Agricultural Business",
+            "Agriculture",
+            "Anthropology",
+            "Applied Mathematics",
+            "Architecture",
+            "Astrophysics",
+            "Biology",
+            "Biomedicine",
+            "Business Administration",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civil Engineering",
+            "Communication Arts",
+            "Computer Science",
+            "Construction Engineering",
+            "Curriculum",
+            "Dentistry",
+            "Economics",
+            "Educational Sciences",
+            "Electrical Engineering",
+            "Environmental Management",
+            "Film",
+            "Food Science",
+            "Foreign Languages Education",
+            "Geography",
+            "Geological Engineering",
+            "Gerontology",
+            "Higher Education",
+            "History",
+            "Hotel Management",
+            "Hydraulic Engineering",
+            "Immunology",
+            "Industrial Chemistry",
+            "Industrial Engineering",
+            "Law",
+            "Library Science",
+            "Linguistics",
+            "Literature",
+            "Mathematics",
+            "Mathematics Education",
+            "Mechanical Engineering",
+            "Medicine",
+            "Meteorology",
+            "Microbiology",
+            "Music",
+            "Native Language Education",
+            "Nursing",
+            "Nutrition",
+            "Parasitology",
+            "Parks and Recreation",
+            "Pharmacy",
+            "Physics",
+            "Political Sciences",
+            "Psychology",
+            "Public Administration",
+            "Public Health",
+            "Social Work",
+            "Sociology",
+            "Sports",
+            "Statistics",
+            "Surgery",
+            "Tourism",
+            "Transport Engineering",
+            "Visual Arts",
+            "Women's Studies"
+          ]
+        },
+        {
+          "name": "Doctorado Académico",
+          "fields": [
+            "Agriculture",
+            "Arts and Humanities",
+            "Biomedicine",
+            "Business Administration",
+            "Computer Science",
+            "Education",
+            "Engineering",
+            "Fine Arts",
+            "Government",
+            "Medicine",
+            "Natural Sciences",
+            "Philosophy",
+            "Political Sciences",
+            "Social Sciences",
+            "Theatre"
+          ]
+        }
+      ],
+      "accreditation": "Consejo Nacional de Rectores (CONARE); Sistema Nacional de Acreditación de la Educación Superior (SINAES)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Carlos Araya Leandro"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Rosa Julia Cerdas González"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Luis Adrián Rodríguez"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1940, incorporating former schools of the Universidad de Santo Tomás. An autonomous institution",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "17193",
+      "iau_id": "IAU-017193",
+      "name": "Autonomous University of Central America",
+      "alt_name": "Universidad Autónoma de Centro América (UACA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxRLjMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017193",
+      "address": {
+        "Street": "Apartado 1901-1002Barrio Los Yoses, frente a Pollos KentuckyCalle 21",
+        "City": "San José",
+        "WWW": "http://www.uam.ac.cr"
+      },
+      "website": "http://www.uam.ac.cr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1997,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Englsh Language Education",
+          "fields": [
+            "English",
+            "Foreign Languages Education"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachillerato Universitario",
+          "fields": [
+            "Foreign Languages Education"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Foreign Languages Education"
+          ]
+        }
+      ],
+      "accreditation": "Sistema Nacional de Acreditación de la Educación Superior (SINAES)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Rosa María Monge Monge"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1997",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17288",
+      "iau_id": "IAU-017288",
+      "name": "Catholic University of Costa Rica",
+      "alt_name": "Universidad Católica de Costa Rica",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxSLiNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017288",
+      "address": {
+        "Street": "De Servicentro la Galera, 800 Metros NorteCurridabat",
+        "City": "San José",
+        "Post Code": "11803",
+        "WWW": "http://www.uaca.ac.cr"
+      },
+      "website": "http://www.uaca.ac.cr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1976,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "January to December (January-April; May-August; September-December)",
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Education and Sport",
+          "fields": [
+            "Physical Education",
+            "Sports"
+          ]
+        },
+        {
+          "name": "Course/Programme : Health Sciences",
+          "fields": [
+            "Medicine",
+            "Nursing",
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "Course/Programme : Law",
+          "fields": [
+            "Law"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachillerato Universitario",
+          "fields": [
+            "Health Sciences",
+            "Law",
+            "Nursing",
+            "Physical Education",
+            "Sports"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Law",
+            "Medicine",
+            "Nursing",
+            "Physical Education"
+          ]
+        }
+      ],
+      "accreditation": "Sistema Nacional de Acreditación de la Educación Superior (SINAES)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "José Guillermo Malavassi Vargas"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1976 as an independent institution authorized by the government. Includes eight independent self-governing Colleges",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "8427",
+      "iau_id": "IAU-008427",
+      "name": "Central American Institute of Public Administration",
+      "alt_name": "Instituto Centroamericano de Administración Pública (ICAP)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uIzBSLVBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-008427",
+      "address": {
+        "Street": "Apartado postal 519-2100",
+        "City": "San José",
+        "WWW": "https://www.ucatolica.ac.cr"
+      },
+      "website": "https://www.ucatolica.ac.cr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1993,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "January to December (January-April; May-August; September-December)",
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Education",
+          "fields": [
+            "Education",
+            "Religious Education",
+            "Secondary Education"
+          ]
+        },
+        {
+          "name": "Course/Programme : Psychology",
+          "fields": [
+            "Psychology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachillerato Universitario",
+          "fields": [
+            "Education",
+            "Psychology",
+            "Religious Education"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Psychology",
+            "Religious Education",
+            "Secondary Education"
+          ]
+        }
+      ],
+      "accreditation": "Sistema Nacional de Acreditación de la Educación Superior (SINAES)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Fernando Felipe Sánchez Campos"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1993 by the Conferencia Episcopal de Costa Rica. Also known as Universidad Católica de Costa Rica Anselmo Llorente y Lafuente",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "9103",
+      "iau_id": "IAU-009103",
+      "name": "Costa Rica Institute of Technology",
+      "alt_name": "Instituto Tecnológico de Costa Rica – Tecnológico de Costa Rica (TEC) (ITCR)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMyRQLFBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009103",
+      "address": {
+        "Street": "100 metros sur y 75 metros oeste de la heladería Pops,Curridabat",
+        "City": "San José",
+        "WWW": "https://icap.ac.cr"
+      },
+      "website": "https://icap.ac.cr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1954,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "January to December",
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Public Administration",
+          "fields": [
+            "Accountancy",
+            "Air Transport",
+            "Business Administration",
+            "Development Studies",
+            "Health Administration",
+            "Human Resources",
+            "International Economics",
+            "Management",
+            "Public Administration"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Maestría",
+          "fields": [
+            "Accountancy",
+            "Air Transport",
+            "Health Administration",
+            "Human Resources",
+            "Management",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "Doctorado Académico",
+          "fields": [
+            "Business Administration",
+            "International Economics",
+            "Public Administration"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Alexander López"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1954, postgraduate programme added 1980",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "17735",
+      "iau_id": "IAU-017735",
+      "name": "EARTH University",
+      "alt_name": "Universidad EARTH (EARTH)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxXLFM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017735",
+      "address": {
+        "City": "Cártago",
+        "Post Code": "159-7050",
+        "WWW": "https://www.tec.ac.cr"
+      },
+      "website": "https://www.tec.ac.cr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1971,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "February to November (February-May; August-November)",
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : Alajuela",
+          "fields": [
+            "Computer Engineering"
+          ]
+        },
+        {
+          "name": "Campus : Limón",
+          "fields": [
+            "Business Administration",
+            "Computer Engineering",
+            "Production Engineering"
+          ]
+        },
+        {
+          "name": "Campus : San Carlos",
+          "fields": [
+            "Agricultural Engineering",
+            "Business Administration",
+            "Computer Engineering",
+            "Production Engineering",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Campus : San José",
+          "fields": [
+            "Architecture",
+            "Business Administration",
+            "Computer Engineering",
+            "Rural Planning",
+            "Technology Education"
+          ]
+        },
+        {
+          "name": "School : Agricultural Engineering",
+          "fields": [
+            "Agricultural Engineering"
+          ]
+        },
+        {
+          "name": "School : Agrobusiness",
+          "fields": [
+            "Agricultural Business"
+          ]
+        },
+        {
+          "name": "School : Biology",
+          "fields": [
+            "Biology",
+            "Biotechnology"
+          ]
+        },
+        {
+          "name": "School : Business Administration",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "School : Chemistry",
+          "fields": [
+            "Chemistry"
+          ]
+        },
+        {
+          "name": "School : Computer Engineering",
+          "fields": [
+            "Computer Engineering",
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "School : Construction Engineering",
+          "fields": [
+            "Construction Engineering"
+          ]
+        },
+        {
+          "name": "School : Culture and Sport",
+          "fields": [
+            "Cultural Studies",
+            "Sports"
+          ]
+        },
+        {
+          "name": "School : Electrical and Mechanical Engineering",
+          "fields": [
+            "Electrical Engineering",
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "School : Electronic Engineering",
+          "fields": [
+            "Electronic Engineering"
+          ]
+        },
+        {
+          "name": "School : Forestry Engineering",
+          "fields": [
+            "Forestry"
+          ]
+        },
+        {
+          "name": "School : Industrial Design",
+          "fields": [
+            "Industrial Design"
+          ]
+        },
+        {
+          "name": "School : Language",
+          "fields": [
+            "Communication Studies",
+            "English"
+          ]
+        },
+        {
+          "name": "School : Material Science and Engineering",
+          "fields": [
+            "Materials Engineering"
+          ]
+        },
+        {
+          "name": "School : Mathematics",
+          "fields": [
+            "Mathematics"
+          ]
+        },
+        {
+          "name": "School : Occupational Safety and Environmental Health",
+          "fields": [
+            "Environmental Engineering",
+            "Occupational Health",
+            "Safety Engineering"
+          ]
+        },
+        {
+          "name": "School : Physics",
+          "fields": [
+            "Physics"
+          ]
+        },
+        {
+          "name": "School : Production Engineering",
+          "fields": [
+            "Production Engineering"
+          ]
+        },
+        {
+          "name": "School : Social Sciences",
+          "fields": [
+            "Law",
+            "Philosophy",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "School : Technology Education",
+          "fields": [
+            "Technology Education"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachillerato Universitario",
+          "fields": [
+            "Bioengineering",
+            "Business Administration",
+            "Computer Engineering",
+            "Industrial Engineering",
+            "Preschool Education",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Agricultural Engineering",
+            "Architecture",
+            "Bioengineering",
+            "Business Administration",
+            "Computer Engineering",
+            "Construction Engineering",
+            "Electronic Engineering",
+            "Engineering Drawing and Design",
+            "Environmental Engineering",
+            "Forestry",
+            "Industrial Engineering",
+            "Information Management",
+            "Materials Engineering",
+            "Mathematics Education",
+            "Mechanical Engineering",
+            "Physical Engineering",
+            "Technology Education"
+          ]
+        },
+        {
+          "name": "Maestría",
+          "fields": [
+            "Biomedical Engineering",
+            "Business Administration",
+            "Computer Science",
+            "Electronic Engineering",
+            "Engineering Management",
+            "Environmental Management",
+            "Forestry",
+            "Information Management",
+            "Natural Resources",
+            "Occupational Health",
+            "Production Engineering",
+            "Road Engineering",
+            "Technology Education",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Doctorado Académico",
+          "fields": [
+            "Business Administration",
+            "Engineering",
+            "Natural Sciences"
+          ]
+        }
+      ],
+      "accreditation": "Consejo Nacional de Rectores (CONARE); Sistema Nacional de Acreditación de la Educación Superior (SINAES); Canadian Engineering Accreditation Board",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "María Estrada Sánchez"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Silvia Elena Watson Araya"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Marisela Bonilla Freer"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1971. A State institution financed by the government",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17769",
+      "iau_id": "IAU-017769",
+      "name": "Federated University of Costa Rica",
+      "alt_name": "Universidad Federada de Costa Rica (UNIFE)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxXLUNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017769",
+      "address": {
+        "Street": "Apartado 4442-1000",
+        "City": "San José",
+        "WWW": "https://www.earth.ac.cr/en"
+      },
+      "website": "https://www.earth.ac.cr/en",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1990,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "January to December (3 trimesters)",
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Agricultural Sciences",
+          "fields": [
+            "Agriculture"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Agriculture"
+          ]
+        }
+      ],
+      "accreditation": "Sistema Nacional de Acreditatión de la Educatión Superior (SINAES)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Arturo Condo"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Yanine Chan Blanco"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Sylvia Escalante"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1990",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "17774",
+      "iau_id": "IAU-017774",
+      "name": "Fidelitas University",
+      "alt_name": "Universidad Fidélitas",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxXLVMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017774",
+      "address": {
+        "Street": "Apartado 250-2120frente Principal del Museo Nacional",
+        "City": "San José",
+        "WWW": "http://www.ufederada.ac.cr"
+      },
+      "website": "http://www.ufederada.ac.cr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1995,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "January to December (January-May; May-August; September-December)",
+      "languages": [
+        "Spanish",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "College : San Judas",
+          "fields": [
+            "Education",
+            "Health Sciences",
+            "Journalism",
+            "Medicine",
+            "Surgery"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachillerato Universitario",
+          "fields": [
+            "Health Sciences",
+            "Journalism"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Medicine"
+          ]
+        }
+      ],
+      "accreditation": "Sistema Nacional de Acreditación de la Educación Superior (SINAES)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Helia Betancourt Plasencia"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1995",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17744",
+      "iau_id": "IAU-017744",
+      "name": "Free School of Law University",
+      "alt_name": "Universidad Escuela Libre de Derecho – Escuela Libre de Derecho",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxXLSMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017744",
+      "address": {
+        "Street": "Apartado 8063-1000Escuela Santa Marta de Montes de Oca",
+        "City": "San José",
+        "WWW": "http://www.ufidelitas.ac.cr"
+      },
+      "website": "http://www.ufidelitas.ac.cr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1980,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "January to December (January-April; May-August; September-December)",
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Education",
+          "fields": [
+            "Educational Sciences",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Faculty : Economic and Social Sciences",
+          "fields": [
+            "Accountancy",
+            "Advertising and Publicity",
+            "Business Administration",
+            "Design",
+            "Law",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Civil Engineering",
+            "Computer Engineering",
+            "Electrical Engineering",
+            "Industrial Engineering",
+            "Mechanical Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachillerato Universitario",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Industrial Engineering",
+            "Law"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Finance",
+            "Industrial Engineering",
+            "Law",
+            "Marketing"
+          ]
+        }
+      ],
+      "accreditation": "Sistema Nacional de Acreditación de la Educación Superior (SINAES)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Emilia Gazel Leitón"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1980 as Collegium Fidelitas, acquired present status and title 1995",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17799",
+      "iau_id": "IAU-017799",
+      "name": "Hispano-American University",
+      "alt_name": "Universidad Hispanoamericana",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxXLjNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017799",
+      "address": {
+        "Street": "Zapote, 75 metros al oeste del Registro Nacional",
+        "City": "San José",
+        "WWW": "https://uescuelalibre.cr"
+      },
+      "website": "https://uescuelalibre.cr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1996,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Law",
+          "fields": [
+            "Law"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachillerato Universitario",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Law"
+          ]
+        }
+      ],
+      "accreditation": "Sistema Nacional de Acreditación de la Educación Superior (SINAES)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ricardo Guerrero Portilla"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1996",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17865",
+      "iau_id": "IAU-017865",
+      "name": "International University of the Americas",
+      "alt_name": "Universidad Internacional de las Américas (UIA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxYLUM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017865",
+      "address": {
+        "Street": "Apartado 408-1002100 Oeste y 100 Norte Santa TeresitaBarrio Aranjuez",
+        "City": "San José",
+        "WWW": "https://uh.ac.cr"
+      },
+      "website": "https://uh.ac.cr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1992,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "January to December (January-May; May-September; September-December)",
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Architecture and Engineering",
+          "fields": [
+            "Architecture",
+            "Computer Engineering",
+            "Electronic Engineering",
+            "Industrial Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Economic Sciences",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Bilingual and Bicultural Education",
+            "Education",
+            "Educational Administration",
+            "Preschool Education",
+            "Primary Education"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences",
+          "fields": [
+            "Medicine",
+            "Nursing",
+            "Nutrition",
+            "Psychology",
+            "Surgery"
+          ]
+        },
+        {
+          "name": "Faculty : Social Sciences",
+          "fields": [
+            "Advertising and Publicity",
+            "Design",
+            "Law",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "School : Postgraduate Studies",
+          "fields": [
+            "Accountancy",
+            "Bilingual and Bicultural Education",
+            "Business Administration",
+            "Finance",
+            "Foreign Languages Education",
+            "Human Resources",
+            "Marketing",
+            "Nutrition",
+            "Psychology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachillerato Universitario",
+          "fields": [
+            "Accountancy",
+            "Bilingual and Bicultural Education",
+            "Business Administration",
+            "Finance",
+            "Foreign Languages Education",
+            "Human Resources",
+            "Marketing",
+            "Nutrition",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Accountancy",
+            "Bilingual and Bicultural Education",
+            "Finance",
+            "Foreign Languages Education",
+            "Human Resources",
+            "Management",
+            "Marketing",
+            "Medicine",
+            "Nursing",
+            "Nutrition",
+            "Preschool Education",
+            "Psychology"
+          ]
+        }
+      ],
+      "accreditation": "Sistema Nacional de Acreditación de la Educación Superior (SINAES)",
+      "officers": [],
+      "statistics": {},
+      "history": "Founded 1992. A private institution authorized by the government",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "17920",
+      "iau_id": "IAU-017920",
+      "name": "Latin American University of Science and Technology",
+      "alt_name": "Universidad Latinoamericana de Ciencia y Tecnología (ULACIT)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxZLENgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017920",
+      "address": {
+        "Street": "Apartado 1447-1002",
+        "City": "San José",
+        "WWW": "https://uia.ac.cr"
+      },
+      "website": "https://uia.ac.cr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1986,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "January to December (January-April; May-August; September-December)",
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Economic Sciences",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Economics",
+            "International Business",
+            "International Economics"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering and Architecture",
+          "fields": [
+            "Architecture",
+            "Computer Engineering",
+            "Electrical Engineering",
+            "Engineering",
+            "Industrial Engineering",
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences",
+          "fields": [
+            "Medicine",
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Faculty : Languages",
+          "fields": [
+            "English",
+            "Modern Languages"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Social Sciences",
+          "fields": [
+            "Advertising and Publicity",
+            "International Relations and Diplomacy",
+            "Social Sciences",
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachillerato Universitario",
+          "fields": [
+            "Information Management",
+            "Journalism",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Information Management",
+            "Information Technology",
+            "Journalism",
+            "Radio and Television Broadcasting",
+            "Software Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Sistema Nacional de Acreditación de la Educación Superior (SINAES)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Máximo Sequeira Alemán"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1986 by the International Foundation of the Americas. Acquired present status 1987",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "17911",
+      "iau_id": "IAU-017911",
+      "name": "Latin University of Costa Rica",
+      "alt_name": "Universidad Latina de Costa Rica (ULATINA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxZLDMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017911",
+      "address": {
+        "Street": "Apartado 10235",
+        "City": "San José",
+        "Post Code": "1000",
+        "WWW": "http://www.ulacit.ac.cr"
+      },
+      "website": "http://www.ulacit.ac.cr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1988,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "January to December",
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Business Administration",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Educational Administration",
+            "Law",
+            "Multimedia"
+          ]
+        },
+        {
+          "name": "Course/Programme : Dentistry",
+          "fields": [
+            "Dentistry"
+          ]
+        },
+        {
+          "name": "Course/Programme : Engineering",
+          "fields": [
+            "Computer Engineering",
+            "Electronic Engineering",
+            "Industrial Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachillerato Universitario",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Computer Networks",
+            "Information Technology",
+            "Law",
+            "Multimedia",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Computer Networks",
+            "Dentistry",
+            "Information Technology",
+            "Law",
+            "Software Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Sistema Nacional de Acreditación de la Educación Superior (SINAES)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Marianela Núñez Piedra"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1988",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "24012",
+      "iau_id": "IAU-024012",
+      "name": "National Technical University",
+      "alt_name": "Universidad Técnica Nacional",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBQLDMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024012",
+      "address": {
+        "Street": "Apartado 1561-2050300 Norte y 150 Este de Muñoz y NanneLourdes",
+        "City": "San Pedro de Montes de Oca",
+        "WWW": "http://www.ulatina.ac.cr"
+      },
+      "website": "http://www.ulatina.ac.cr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "January to December (January-April; May-August; September-December)",
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Economics",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Business Administration",
+            "Economics",
+            "Human Resources",
+            "International Relations and Diplomacy"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Education",
+            "English",
+            "History",
+            "Philosophy",
+            "Special Education"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering and Architecture",
+          "fields": [
+            "Architecture",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Engineering",
+            "Software Engineering",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences",
+          "fields": [
+            "Dentistry",
+            "Health Sciences",
+            "Nursing",
+            "Optometry",
+            "Pharmacy",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Faculty : Social Sciences",
+          "fields": [
+            "Advertising and Publicity",
+            "Journalism",
+            "Law",
+            "Public Relations",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Tourism and Environmental Management",
+          "fields": [
+            "Biological and Life Sciences",
+            "Hotel and Restaurant",
+            "Hotel Management",
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachillerato Universitario",
+          "fields": [
+            "Business Administration",
+            "Business Computing",
+            "Computer Science",
+            "Ecology",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Hotel Management",
+            "Industrial Engineering",
+            "Information Technology",
+            "Mechanical Engineering",
+            "Optometry",
+            "Public Relations",
+            "Software Engineering",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Architecture",
+            "Business Administration",
+            "Business Computing",
+            "Civil Engineering",
+            "Dentistry",
+            "Electronic Engineering",
+            "Finance",
+            "Human Resources",
+            "Industrial Engineering",
+            "International Business",
+            "Marketing",
+            "Mechanical Engineering",
+            "Medicine",
+            "Nursing",
+            "Optometry",
+            "Pharmacy",
+            "Psychology",
+            "Telecommunications Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Sistema Nacional de Acreditación de la Educación Superior (SINAES)",
+      "officers": [],
+      "statistics": {},
+      "history": "Founded as college 1979, acquired present status 1989. Branches in major cities in Costa Rica and Panama",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17994",
+      "iau_id": "IAU-017994",
+      "name": "National University",
+      "alt_name": "Universidad Nacional (UNA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxZLjMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017994",
+      "address": {
+        "Street": "Sede Central, Villa Bonita",
+        "City": "Alajuela",
+        "WWW": "https://www.utn.ac.cr"
+      },
+      "website": "https://www.utn.ac.cr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : Atenas",
+          "fields": [
+            "Agricultural Engineering",
+            "Food Technology",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Campus : Central",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Business and Commerce",
+            "Electronic Engineering",
+            "Hotel Management",
+            "Human Resources",
+            "Industrial Engineering",
+            "Mechanical Engineering",
+            "Occupational Health",
+            "Production Engineering",
+            "Safety Engineering",
+            "Software Engineering",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Campus : Guanacaste",
+          "fields": [
+            "Agricultural Engineering",
+            "Environmental Engineering",
+            "Information Technology",
+            "Irrigation",
+            "Management",
+            "Safety Engineering",
+            "Water Management"
+          ]
+        },
+        {
+          "name": "Campus : Pacífico",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Graphic Design",
+            "Hotel Management",
+            "Information Technology",
+            "Production Engineering"
+          ]
+        },
+        {
+          "name": "Campus : San Carlos",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Business and Commerce",
+            "Human Resources",
+            "Occupational Health",
+            "Safety Engineering",
+            "Software Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diplomado",
+          "fields": [
+            "Accountancy",
+            "Agricultural Engineering",
+            "Animal Husbandry",
+            "Aquaculture",
+            "Education",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Energy Engineering",
+            "English",
+            "Environmental Engineering",
+            "Food Technology",
+            "Forestry",
+            "Graphic Design",
+            "Hotel and Restaurant",
+            "Human Resources",
+            "Hydraulic Engineering",
+            "Information Technology",
+            "International Business",
+            "Irrigation",
+            "Management",
+            "Measurement and Precision Engineering",
+            "Photography",
+            "Production Engineering",
+            "Secondary Education",
+            "Software Engineering",
+            "Taxation",
+            "Tourism",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Bachillerato Universitario",
+          "fields": [
+            "Accountancy",
+            "Agricultural Engineering",
+            "Animal Husbandry",
+            "Aquaculture",
+            "Education",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Energy Engineering",
+            "English",
+            "Environmental Engineering",
+            "Food Technology",
+            "Forestry",
+            "Graphic Design",
+            "Hotel and Restaurant",
+            "Human Resources",
+            "Hydraulic Engineering",
+            "Information Technology",
+            "International Business",
+            "Irrigation",
+            "Management",
+            "Measurement and Precision Engineering",
+            "Photography",
+            "Production Engineering",
+            "Secondary Education",
+            "Software Engineering",
+            "Taxation",
+            "Tourism",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Accountancy",
+            "Animal Husbandry",
+            "Education",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Environmental Engineering",
+            "Food Technology",
+            "Forestry",
+            "Graphic Design",
+            "Hotel Management",
+            "Human Resources",
+            "Hydraulic Engineering",
+            "Information Technology",
+            "International Business",
+            "Irrigation",
+            "Management",
+            "Measurement and Precision Engineering",
+            "Mechanical Engineering",
+            "Production Engineering",
+            "Software Engineering",
+            "Taxation",
+            "Transport Management",
+            "Veterinary Science"
+          ]
+        }
+      ],
+      "accreditation": "Consejo Nacional de Rectores (CONARE); Sistema Nacional de Acreditación de la Educación Superior (SINAES)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Emmanuel González Alvarado"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Eduardo Selva Villegas"
+        }
+      ],
+      "statistics": {},
+      "history": "Created 2008",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17872",
+      "iau_id": "IAU-017872",
+      "name": "San Isidro Labrador International University",
+      "alt_name": "Universidad Internacional San Isidro Labrador",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxYLVMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017872",
+      "address": {
+        "Street": "Avenida 1, Calle 1",
+        "City": "Heredia",
+        "Province": "Heredia",
+        "Post Code": "86-3000",
+        "WWW": "http://www.una.ac.cr"
+      },
+      "website": "http://www.una.ac.cr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1973,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "February to November (Two semesters divided into: February-June and August-November)",
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Exact and Natural Sciences",
+          "fields": [
+            "Biology",
+            "Computer Science",
+            "Earth Sciences",
+            "Industrial Chemistry",
+            "Information Technology",
+            "Mathematics",
+            "Natural Sciences",
+            "Science Education",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences",
+          "fields": [
+            "Epidemiology",
+            "Health Sciences",
+            "Parks and Recreation",
+            "Physical Education",
+            "Sports",
+            "Sports Medicine",
+            "Toxicology",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Faculty : Land and Sea Sciences",
+          "fields": [
+            "Agricultural Engineering",
+            "Earth Sciences",
+            "Environmental Management",
+            "Forestry",
+            "Geography",
+            "Marine Science and Oceanography",
+            "Surveying and Mapping",
+            "Tropical Agriculture",
+            "Tropical Medicine"
+          ]
+        },
+        {
+          "name": "Faculty : Philosophy and Letters",
+          "fields": [
+            "Applied Linguistics",
+            "English",
+            "French",
+            "Gender Studies",
+            "Human Rights",
+            "Information Sciences",
+            "Justice Administration",
+            "Latin American Studies",
+            "Library Science",
+            "Literature",
+            "Philosophy",
+            "Publishing and Book Trade",
+            "Spanish",
+            "Theology",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Faculty : Social Sciences",
+          "fields": [
+            "Business Education",
+            "Economics",
+            "History",
+            "International Business",
+            "International Relations and Diplomacy",
+            "Leadership",
+            "Management",
+            "Psychology",
+            "Social Policy",
+            "Social Sciences",
+            "Social Studies",
+            "Sociology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diplomado",
+          "fields": [
+            "Acting",
+            "Administration",
+            "Agricultural Engineering",
+            "Art Education",
+            "Bioengineering",
+            "Biology",
+            "Biotechnology",
+            "Business Education",
+            "Communication Arts",
+            "Dance",
+            "Economics",
+            "Educational and Student Counselling",
+            "English",
+            "Environmental Engineering",
+            "Foreign Languages Education",
+            "Forestry",
+            "French",
+            "Geography",
+            "Hydraulic Engineering",
+            "Industrial Chemistry",
+            "Information Technology",
+            "International Business",
+            "International Relations and Diplomacy",
+            "Library Science",
+            "Linguistics",
+            "Marine Biology",
+            "Mathematics Education",
+            "Music",
+            "Music Education",
+            "Native Language Education",
+            "Pedagogy",
+            "Philosophy",
+            "Physical Education",
+            "Preschool Education",
+            "Primary Education",
+            "Psychology",
+            "Religious Education",
+            "Science Education",
+            "Singing",
+            "Sociology",
+            "Special Education",
+            "Surveying and Mapping",
+            "Theology",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Bachillerato Universitario",
+          "fields": [
+            "Acting",
+            "Administration",
+            "Agricultural Engineering",
+            "Art Education",
+            "Bioengineering",
+            "Biology",
+            "Biotechnology",
+            "Business Education",
+            "Communication Arts",
+            "Dance",
+            "Economics",
+            "Educational and Student Counselling",
+            "English",
+            "Environmental Engineering",
+            "Foreign Languages Education",
+            "Forestry",
+            "French",
+            "Geography",
+            "Hydraulic Engineering",
+            "Industrial Chemistry",
+            "Information Technology",
+            "International Business",
+            "International Relations and Diplomacy",
+            "Library Science",
+            "Linguistics",
+            "Marine Biology",
+            "Mathematics Education",
+            "Music",
+            "Music Education",
+            "Native Language Education",
+            "Pedagogy",
+            "Philosophy",
+            "Physical Education",
+            "Preschool Education",
+            "Primary Education",
+            "Psychology",
+            "Religious Education",
+            "Science Education",
+            "Singing",
+            "Sociology",
+            "Special Education",
+            "Surveying and Mapping",
+            "Theology",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Acting",
+            "Administration",
+            "Agricultural Engineering",
+            "Applied Linguistics",
+            "Art Education",
+            "Biology",
+            "Biotechnology",
+            "Business Education",
+            "Communication Arts",
+            "Economics",
+            "Educational Administration",
+            "Educational and Student Counselling",
+            "Environmental Engineering",
+            "Forestry",
+            "Geography",
+            "Humanities and Social Science Education",
+            "Hydraulic Engineering",
+            "Industrial Chemistry",
+            "Information Technology",
+            "International Business",
+            "International Relations and Diplomacy",
+            "Library Science",
+            "Linguistics",
+            "Mathematics Education",
+            "Music",
+            "Music Education",
+            "Pedagogy",
+            "Philosophy",
+            "Preschool Education",
+            "Primary Education",
+            "Psychology",
+            "Religious Education",
+            "Science Education",
+            "Secretarial Studies",
+            "Singing",
+            "Sociology",
+            "Special Education",
+            "Sports",
+            "Surveying and Mapping",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Maestría",
+          "fields": [
+            "Agriculture",
+            "Animal Husbandry",
+            "Apiculture",
+            "Applied Linguistics",
+            "Economics",
+            "Educational Technology",
+            "Entomology",
+            "Environmental Management",
+            "Environmental Studies",
+            "Epidemiology",
+            "Finance",
+            "Forest Management",
+            "History",
+            "Human Resources",
+            "Human Rights",
+            "Information Management",
+            "Information Technology",
+            "International Relations and Diplomacy",
+            "Justice Administration",
+            "Latin American Studies",
+            "Literature",
+            "Management",
+            "Marine Science and Oceanography",
+            "Marketing",
+            "Natural Resources",
+            "Occupational Health",
+            "Physics",
+            "Religious Studies",
+            "Sports",
+            "Surveying and Mapping",
+            "Theology",
+            "Toxicology",
+            "Translation and Interpretation",
+            "Transport Management",
+            "Tropical Medicine"
+          ]
+        },
+        {
+          "name": "Doctorado Académico",
+          "fields": [
+            "Economics",
+            "Latin American Studies",
+            "Natural Sciences",
+            "Social Sciences",
+            "Sociology",
+            "Sports"
+          ]
+        }
+      ],
+      "accreditation": "Consejo Nacional de Rectores (CONARE); Sistema Nacional de Acreditación de la Educación Superior (SINAES)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Francisco González Alvarado"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Marianela Rojas Garbanzo"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Evelyn Apú Álvarez"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1973.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "17741",
+      "iau_id": "IAU-017741",
+      "name": "San Marcos University",
+      "alt_name": "Universidad San Marcos – Universidad en Ciencias Administrativas San Marcos (USAM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxXLSMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017741",
+      "address": {
+        "Street": "2 Km al norte del Liceo UNESCOSan Isidro",
+        "City": "Pérez Zeledón",
+        "WWW": "https://uisil.ac.cr"
+      },
+      "website": "https://uisil.ac.cr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1997,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Business Administration",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Course/Programme : Education",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Course/Programme : Engineering",
+          "fields": [
+            "Systems Analysis"
+          ]
+        },
+        {
+          "name": "Course/Programme : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Course/Programme : Tourism",
+          "fields": [
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachillerato Universitario",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Business Administration"
+          ]
+        }
+      ],
+      "accreditation": "Sistema Nacional de Acreditación de la Educación Superior (SINAES)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Carlos Cortés Sandí"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Ariel Hidalgo Brenes"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1997",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17747",
+      "iau_id": "IAU-017747",
+      "name": "State University of Distance Education",
+      "alt_name": "Universidad Estatal a Distancia (UNED)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxXLSM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017747",
+      "address": {
+        "Street": "100 metros este del Parque MorazánAvenida 3, Calle 11",
+        "City": "San José",
+        "WWW": "https://www.usanmarcos.ac.cr"
+      },
+      "website": "https://www.usanmarcos.ac.cr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1996,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Accountancy",
+          "fields": [
+            "Accountancy"
+          ]
+        },
+        {
+          "name": "Course/Programme : Business Administration",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Course/Programme : Marketing",
+          "fields": [
+            "Finance",
+            "Human Resources",
+            "Management",
+            "Marketing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachillerato Universitario",
+          "fields": [
+            "Accountancy",
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Finance",
+            "Human Resources",
+            "Management"
+          ]
+        }
+      ],
+      "accreditation": "Sistema Nacional de Acreditación de la Educación Superior (SINAES)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Henry Rodríguez Serrano"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Marco Esquivel Barquero"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1996",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "2178",
+      "iau_id": "IAU-002178",
+      "name": "Tropical Agriculture Research and Higher Education Centre",
+      "alt_name": "Centro Agronómico Tropical de Investigación y Enseñanza (CATIE)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sQyRXLmBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-002178",
+      "address": {
+        "Street": "Apartado 474-2050De la Rotonda La Betania 500m al este, Carretera a Sabanilla, Mercedes de Montes de Oca",
+        "City": "San José",
+        "WWW": "https://www.uned.ac.cr"
+      },
+      "website": "https://www.uned.ac.cr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1977,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "January to November (January-April; May-August; September-November)",
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "School : Administrative Sciences",
+          "fields": [
+            "Administration",
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "School : Education",
+          "fields": [
+            "Civics",
+            "Education",
+            "Educational Psychology",
+            "Educational Technology",
+            "English",
+            "French",
+            "Mathematics Education",
+            "Preschool Education",
+            "Primary Education",
+            "Science Education",
+            "Secondary Education",
+            "Special Education",
+            "Teacher Training",
+            "Technology Education"
+          ]
+        },
+        {
+          "name": "School : Exact and Natural Sciences",
+          "fields": [
+            "Agricultural Engineering",
+            "Computer Science",
+            "Health Administration",
+            "Industrial Engineering",
+            "Mathematics",
+            "Natural Resources",
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "School : Social Sciences",
+          "fields": [
+            "Commercial Law",
+            "Constitutional Law",
+            "Criminology",
+            "Family Studies",
+            "Human Rights",
+            "International Law",
+            "Labour Law",
+            "Social Work"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diplomado",
+          "fields": [
+            "Secretarial Studies"
+          ]
+        },
+        {
+          "name": "Bachillerato Universitario",
+          "fields": [
+            "Accountancy",
+            "Agricultural Engineering",
+            "Agricultural Management",
+            "Business Administration",
+            "Computer Engineering",
+            "Criminology",
+            "Distance Education",
+            "Education",
+            "Environmental Management",
+            "Finance",
+            "Foreign Languages Education",
+            "Health Administration",
+            "Human Resources",
+            "Industrial Engineering",
+            "International Business",
+            "Library Science",
+            "Marketing",
+            "Mathematics Education",
+            "Music",
+            "Police Studies",
+            "Religious Education",
+            "Science Education",
+            "Special Education",
+            "Teacher Training",
+            "Theology",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Accountancy",
+            "Agricultural Engineering",
+            "Business Administration",
+            "Computer Engineering",
+            "Criminology",
+            "Educational Administration",
+            "Environmental Management",
+            "Finance",
+            "Foreign Languages Education",
+            "Health Administration",
+            "Human Resources",
+            "Industrial Engineering",
+            "International Business",
+            "Library Science",
+            "Marketing",
+            "Mathematics Education",
+            "Music",
+            "Police Studies",
+            "Religious Education",
+            "Science Education",
+            "Special Education",
+            "Teacher Training",
+            "Theology",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Maestría",
+          "fields": [
+            "Accountancy",
+            "Agriculture",
+            "Business Administration",
+            "Commercial Law",
+            "Constitutional Law",
+            "Criminology",
+            "Distance Education",
+            "Educational Administration",
+            "Educational Psychology",
+            "Educational Technology",
+            "Environmental Management",
+            "Health Administration",
+            "Human Rights",
+            "International Business",
+            "Labour Law",
+            "Mass Communication",
+            "Natural Resources",
+            "Social Welfare"
+          ]
+        },
+        {
+          "name": "Doctorado Académico",
+          "fields": [
+            "Administration",
+            "Education",
+            "Law",
+            "Natural Sciences"
+          ]
+        }
+      ],
+      "accreditation": "Consejo Nacional de Rectores (CONARE); Sistema Nacional de Acreditación de la Educación Superior (SINAES)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Rodrigo Arias Camacho"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Heidy Rosales Sánchez"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1977 to give access to higher education to those who are unable to attend university, particularly those living in rural areas. An autonomous institution financed by the State",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "18163",
+      "iau_id": "IAU-018163",
+      "name": "University for Peace",
+      "alt_name": "Universidad para la Paz (UPEACE)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BRLUMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018163",
+      "address": {
+        "Street": "Apartado 7170Escuela de Postgrado",
+        "City": "Turrialba",
+        "WWW": "https://www.catie.ac.cr"
+      },
+      "website": "https://www.catie.ac.cr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1946,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Spanish",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "School : Graduate",
+          "fields": [
+            "Agriculture",
+            "Economics",
+            "Forest Management",
+            "Forestry",
+            "Sociology",
+            "Tropical Agriculture"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Maestría",
+          "fields": [
+            "Agriculture",
+            "Economics",
+            "Environmental Management",
+            "Forest Management",
+            "Forestry"
+          ]
+        },
+        {
+          "name": "Doctorado Académico",
+          "fields": [
+            "Agriculture",
+            "Natural Resources"
+          ]
+        }
+      ],
+      "accreditation": "Sistema Nacional de Acreditación de la Educación Superior (SINAES)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Muhammad Ibrahim"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1946, acquired present status 1973",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "17470",
+      "iau_id": "IAU-017470",
+      "name": "University of Ibero-America",
+      "alt_name": "Universidad de Iberoamérica (UNIBE)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxULVNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017470",
+      "address": {
+        "Street": "PO Box 138-6100",
+        "City": "San José",
+        "WWW": "https://www.upeace.org"
+      },
+      "website": "https://www.upeace.org",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1980,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "September to June",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Environment and Development",
+          "fields": [
+            "Development Studies",
+            "Economics",
+            "Environmental Studies",
+            "International Relations and Diplomacy",
+            "Peace and Disarmament",
+            "Political Sciences"
+          ]
+        },
+        {
+          "name": "Department/Division : International Law",
+          "fields": [
+            "Human Rights",
+            "Peace and Disarmament",
+            "Religion"
+          ]
+        },
+        {
+          "name": "Department/Division : Peace and Conflict Studies",
+          "fields": [
+            "Economics",
+            "Government",
+            "Human Rights",
+            "International Relations and Diplomacy",
+            "Peace and Disarmament"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Maestría",
+          "fields": [
+            "Environmental Studies",
+            "Gender Studies",
+            "Human Rights",
+            "International Law",
+            "Peace and Disarmament"
+          ]
+        }
+      ],
+      "accreditation": "Sistema Nacional de Acreditación de la Educación Superior (SINAES)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Francisco Rojas Aravena"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Juan Carlos Sainz-Borgo"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1980 by the General Assembly of the United Nations, and also has local accreditation in Costa Rica.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "17425",
+      "iau_id": "IAU-017425",
+      "name": "University of Medical Sciences",
+      "alt_name": "Universidad de Ciencias Médicas (UCIMED)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxULEM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017425",
+      "address": {
+        "Street": "Apartado 11870-1000200 mts. este del ICE de Tibás",
+        "City": "San José",
+        "Post Code": "11870-1000",
+        "WWW": "http://www.unibe.ac.cr"
+      },
+      "website": "http://www.unibe.ac.cr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1995,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "January to December",
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Faculty : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Faculty : Pharmacy",
+          "fields": [
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Faculty : Psychology",
+          "fields": [
+            "Psychology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachillerato Universitario",
+          "fields": [
+            "Medicine",
+            "Nursing",
+            "Pharmacy",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Medicine",
+            "Nursing",
+            "Pharmacy",
+            "Psychology"
+          ]
+        }
+      ],
+      "accreditation": "Sistema Nacional de Acreditación de la Educación Superior (SINAES)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Israel Hernández Morales"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1995",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "18337",
+      "iau_id": "IAU-018337",
+      "name": "University Saint Paula",
+      "alt_name": "Universidad Santa Paula (USP)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BTLFM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018337",
+      "address": {
+        "Street": "Apartado 638-1007Sabana Oeste, 400 Oeste del Ministerio de Agricultura",
+        "City": "San José",
+        "WWW": "https://ucimed.com"
+      },
+      "website": "https://ucimed.com",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1976,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "January to December (January-June; July-December)",
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Medical Sciences",
+          "fields": [
+            "Chemistry",
+            "Microbiology"
+          ]
+        },
+        {
+          "name": "Department/Division : Medicine",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Department/Division : Nutrition",
+          "fields": [
+            "Nutrition"
+          ]
+        },
+        {
+          "name": "Department/Division : Pharmacy",
+          "fields": [
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Department/Division : Physiotherapy",
+          "fields": [
+            "Physical Therapy"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachillerato Universitario",
+          "fields": [
+            "Chemistry",
+            "Microbiology",
+            "Nutrition",
+            "Pharmacy",
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Chemistry",
+            "Medicine",
+            "Microbiology",
+            "Nutrition",
+            "Pharmacy",
+            "Physical Therapy"
+          ]
+        }
+      ],
+      "accreditation": "Sistema Nacional de Acreditación de la Educación Superior (SINAES)",
+      "officers": [],
+      "statistics": {},
+      "history": "Founded 1976.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "18496",
+      "iau_id": "IAU-018496",
+      "name": "Veritas University",
+      "alt_name": "Universidad Veritas (UVERITAS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BULjM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018496",
+      "address": {
+        "City": "Curridabat",
+        "Province": "San José",
+        "Post Code": "11803",
+        "WWW": "https://usantapaula.com"
+      },
+      "website": "https://usantapaula.com",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1994,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "School : Occupational Therapy",
+          "fields": [
+            "Occupational Therapy"
+          ]
+        },
+        {
+          "name": "School : Physical Therapy",
+          "fields": [
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "School : Respiratory Therapy",
+          "fields": [
+            "Respiratory Therapy"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachillerato Universitario",
+          "fields": [
+            "Occupational Therapy",
+            "Physical Therapy",
+            "Respiratory Therapy"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Occupational Therapy",
+            "Physical Therapy",
+            "Respiratory Therapy"
+          ]
+        }
+      ],
+      "accreditation": "Sistema Nacional de Acreditación de la Educación Superior (SINAES)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Rocío Valverde Gallegos"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1994",
+      "periodicals": [],
+      "student_body": "co-ed"
+    }
+  ]
+}

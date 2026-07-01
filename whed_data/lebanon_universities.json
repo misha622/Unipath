@@ -1,0 +1,6226 @@
+{
+  "country_name": "Lebanon",
+  "country_id": "Lebanon",
+  "institutions": [
+    {
+      "id": "26473",
+      "iau_id": "IAU-026473",
+      "name": "Academic University College for Non-Violence and Human Rights",
+      "alt_name": "(AUNOHR)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzhULVMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-026473",
+      "address": {
+        "Street": "P.O. Box 11-0236Riad El Solh",
+        "City": "Beirut",
+        "Post Code": "1107 2020",
+        "WWW": "https://www.aub.edu.lb"
+      },
+      "website": "https://www.aub.edu.lb",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1866,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "August to July",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Advanced Mathematical Sciences",
+          "fields": [
+            "Mathematics"
+          ]
+        },
+        {
+          "name": "Centre : Agricultural Research and Education",
+          "fields": [
+            "Agriculture",
+            "Landscape Architecture"
+          ]
+        },
+        {
+          "name": "Centre : Arab and Middle Eastern Studies",
+          "fields": [
+            "Arabic",
+            "Middle Eastern Studies"
+          ]
+        },
+        {
+          "name": "Centre : Behavioural Research",
+          "fields": [
+            "Arts and Humanities",
+            "Behavioural Sciences",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Centre : Central Research Science Lab",
+          "fields": [
+            "Kamal A. Shair"
+          ]
+        },
+        {
+          "name": "Centre : Research on Population and Health",
+          "fields": [
+            "Demography and Population",
+            "Health Sciences"
+          ]
+        },
+        {
+          "name": "Centre : Science and Mathematics Education",
+          "fields": [
+            "Mathematics Education",
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "Centre : Teaching and Learning",
+          "fields": [
+            "CTL"
+          ]
+        },
+        {
+          "name": "Faculty : Agricultural and Food Sciences",
+          "fields": [
+            "Agricultural Economics",
+            "Agriculture",
+            "Dietetics",
+            "Food Science",
+            "Irrigation",
+            "Landscape Architecture",
+            "Nutrition",
+            "Soil Science",
+            "Zoology"
+          ]
+        },
+        {
+          "name": "Faculty : Arts and Science",
+          "fields": [
+            "Anthropology",
+            "Arabic",
+            "Archaeology",
+            "Art History",
+            "Arts and Humanities",
+            "Behavioural Sciences",
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Economics",
+            "Education",
+            "English",
+            "Fine Arts",
+            "Geology",
+            "History",
+            "Mathematics",
+            "Middle Eastern Studies",
+            "Philosophy",
+            "Physics",
+            "Political Sciences",
+            "Psychology",
+            "Public Administration",
+            "Social Sciences",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering and Architecture",
+          "fields": [
+            "Architecture",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Electrical Engineering",
+            "Engineering",
+            "Environmental Engineering",
+            "Graphic Design",
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences",
+          "fields": [
+            "Demography and Population",
+            "Environmental Studies",
+            "Epidemiology",
+            "Health Administration",
+            "Health Education",
+            "Health Sciences",
+            "Laboratory Techniques",
+            "Public Health"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Anatomy",
+            "Biochemistry",
+            "Immunology",
+            "Medicine",
+            "Microbiology",
+            "Obstetrics and Gynaecology",
+            "Ophthalmology",
+            "Orthodontics",
+            "Paediatrics",
+            "Pathology",
+            "Pharmacology",
+            "Physiology",
+            "Psychiatry and Mental Health",
+            "Surgery"
+          ]
+        },
+        {
+          "name": "Institute : Financial Economics",
+          "fields": [
+            "Economics",
+            "Finance"
+          ]
+        },
+        {
+          "name": "School : Business",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "School : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Unit : Environment and Sustainable Development",
+          "fields": [
+            "Environmental Studies"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Agricultural Business",
+            "Agriculture",
+            "Anthropology",
+            "Applied Mathematics",
+            "Arabic",
+            "Archaeology",
+            "Architecture",
+            "Art History",
+            "Biology",
+            "Business Administration",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Construction Engineering",
+            "Dietetics",
+            "Economics",
+            "Electrical Engineering",
+            "English",
+            "Food Science",
+            "Geology",
+            "Graphic Design",
+            "History",
+            "Industrial Engineering",
+            "Laboratory Techniques",
+            "Landscape Architecture",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Media Studies",
+            "Medical Technology",
+            "Nursing",
+            "Philosophy",
+            "Physics",
+            "Political Sciences",
+            "Primary Education",
+            "Psychology",
+            "Public Administration",
+            "Speech Therapy and Audiology",
+            "Statistics",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Professional Doctorate",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Teaching Diploma",
+          "fields": [
+            "Computer Education",
+            "Foreign Languages Education",
+            "Health Education",
+            "Humanities and Social Science Education",
+            "Mathematics Education",
+            "Native Language Education",
+            "Primary Education",
+            "Science Education"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Agricultural Economics",
+            "American Studies",
+            "Anthropology",
+            "Art History",
+            "Biochemistry",
+            "Biomedical Engineering",
+            "Business Administration",
+            "Clinical Psychology",
+            "Computer Science",
+            "Demography and Population",
+            "Economics",
+            "Education",
+            "Energy Engineering",
+            "Engineering Management",
+            "Environmental Engineering",
+            "Environmental Management",
+            "Epidemiology",
+            "Finance",
+            "Food Science",
+            "Food Technology",
+            "Human Resources",
+            "International Studies",
+            "Irrigation",
+            "Islamic Studies",
+            "Meat and Poultry",
+            "Media Studies",
+            "Microbiology",
+            "Middle Eastern Studies",
+            "Neurosciences",
+            "Nutrition",
+            "Orthodontics",
+            "Pharmacology",
+            "Physiology",
+            "Plant and Crop Protection",
+            "Plant Pathology",
+            "Public Health",
+            "Rural Studies",
+            "Sociology",
+            "Urban Studies",
+            "Water Management"
+          ]
+        },
+        {
+          "name": "Doctorate",
+          "fields": [
+            "Biomedicine",
+            "Cell Biology",
+            "History",
+            "Middle Eastern Studies",
+            "Molecular Biology",
+            "Physics"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education; Directorate General of Higher Education; Middle States Commission on Higher Education (MSCHE); New York State Education Department (NYSED)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Fadlo Khoury"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Mary Jaber Nachar"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Imad B. Baalbaki"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2019-2020",
+        "Staff Full Time Total:": "982",
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "8736"
+      },
+      "history": "Founded 1866 as Syrian Protestant College with School of Medicine added 1867 and Pharmacy 1871. Rechartered as American University of Beirut 1920. Institutional Accreditation granted 2004. A private non-denominational institution under charter from the educational authorities of the State of New York, USA, with a self-perpetuating Board of Trustees. Supported by fees, income from an endowment, and private gifts and donations. No organic relationship with any government, religious body, etc.",
+      "periodicals": [
+        "Arab Political Documents Berytus",
+        "Arab Political Documents",
+        "Berytus"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "918",
+      "iau_id": "IAU-000918",
+      "name": "American University of Culture and Education",
+      "alt_name": "(AUCE)",
+      "detail_url": "https://whed.net/detail_institution.php?Jjo2MF0uMyRYCmAK",
+      "iau_link": "https://www.whed.net/institutions/IAU-000918",
+      "address": {
+        "Street": "1 University RoadPO Box 40016",
+        "City": "Hadat-Baabda",
+        "Post Code": "40016",
+        "WWW": "https://ua.edu.lb"
+      },
+      "website": "https://ua.edu.lb",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Arabic",
+        "French",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Business Administration",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Finance",
+            "Human Resources",
+            "Information Management",
+            "International Business",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Computer Engineering",
+            "Computer Networks",
+            "Engineering",
+            "Multimedia",
+            "Software Engineering",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Information and Communication",
+          "fields": [
+            "Advertising and Publicity",
+            "Graphic Arts",
+            "Information Sciences",
+            "Journalism",
+            "Radio and Television Broadcasting"
+          ]
+        },
+        {
+          "name": "Faculty : Music and Musicology",
+          "fields": [
+            "Art Therapy",
+            "Music",
+            "Music Education",
+            "Musicology"
+          ]
+        },
+        {
+          "name": "Faculty : Public Health",
+          "fields": [
+            "Dental Technology",
+            "Nursing",
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "Faculty : Sports Sciences",
+          "fields": [
+            "Physical Education",
+            "Sports",
+            "Sports Management"
+          ]
+        },
+        {
+          "name": "Faculty : Theological Science and Pastoral Studies",
+          "fields": [
+            "Pastoral Studies",
+            "Religion",
+            "Theology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Advertising and Publicity",
+            "Banking",
+            "Business Administration",
+            "Computer Engineering",
+            "Computer Science",
+            "Dental Technology",
+            "Finance",
+            "Graphic Arts",
+            "Human Resources",
+            "Information Management",
+            "Information Sciences",
+            "Journalism",
+            "Marketing",
+            "Multimedia",
+            "Music",
+            "Music Education",
+            "Musicology",
+            "Nursing",
+            "Pastoral Studies",
+            "Physical Education",
+            "Physical Therapy",
+            "Public Relations",
+            "Radio and Television Broadcasting",
+            "Software Engineering",
+            "Sports",
+            "Telecommunications Engineering",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Licence",
+          "fields": [
+            "Accountancy",
+            "Advertising and Publicity",
+            "Art Therapy",
+            "Banking",
+            "Business Administration",
+            "Communication Arts",
+            "Computer Science",
+            "Dental Technology",
+            "Finance",
+            "Graphic Arts",
+            "Graphic Design",
+            "Human Resources",
+            "Information Sciences",
+            "Laboratory Techniques",
+            "Management",
+            "Marketing",
+            "Mass Communication",
+            "Media Studies",
+            "Multimedia",
+            "Music",
+            "Music Education",
+            "Musicology",
+            "Nursing",
+            "Pastoral Studies",
+            "Physical Education",
+            "Physical Therapy",
+            "Radio and Television Broadcasting",
+            "Sports",
+            "Sports Management",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Diplôme d'Ingénieur",
+          "fields": [
+            "Computer Engineering",
+            "Computer Networks",
+            "Multimedia",
+            "Software Engineering",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Maîtrise",
+          "fields": [
+            "Art Therapy",
+            "Media Studies",
+            "Music",
+            "Music Education",
+            "Musicology"
+          ]
+        },
+        {
+          "name": "Teaching Diploma",
+          "fields": [
+            "Music",
+            "Music Education",
+            "Musicology",
+            "Physical Education",
+            "Sports",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Diplôme d'Etudes approfondies",
+          "fields": [
+            "Music",
+            "Musicology"
+          ]
+        },
+        {
+          "name": "Diplôme de Spécialité",
+          "fields": [
+            "Gerontology",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Accountancy",
+            "Advertising and Publicity",
+            "Banking",
+            "Bible",
+            "Business Administration",
+            "Computer Engineering",
+            "Computer Science",
+            "Finance",
+            "Human Resources",
+            "Information Management",
+            "Information Sciences",
+            "International Business",
+            "Journalism",
+            "Management",
+            "Marketing",
+            "Mass Communication",
+            "Music",
+            "Nursing",
+            "Pastoral Studies",
+            "Physical Education",
+            "Radio and Television Broadcasting",
+            "Religious Studies",
+            "Special Education",
+            "Sports",
+            "Sports Management",
+            "Telecommunications Engineering",
+            "Theology",
+            "Transport Management"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education in Lebanon; Certification of the Swiss Agency of Accreditation and Quality Assurance (AAQ)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Michel Saghbiny"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Ziad Maatouk"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Rony Darazi"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2019–2020",
+        "Staff Full Time Total:": "243",
+        "Students Statistics Year:": "2019–2020",
+        "Students Total:": "3824",
+        "Students Foreign Total:": "81"
+      },
+      "history": "Antonine University (UA) is a private Lebanese Catholic University founded in 1996 under the supervision of the Antonine Maronite Order (OAM). It is dedicated to developing the talents of women and men in the joy of truth. It leads them into acquiring knowledge and expertise and helps them become qualified for the service of society. Antonine University was accredited by the Swiss Agency of Accreditation and Quality Assurance (AAQ) in 2017. The University accomplishes its mission under rigorous standards of excellence, integrity, ethics, and respect for diversity. It promotes scientific research and professionalism driven by innovation. In addition to the its main campus located in Hadat - Baabda (Mount Lebanon), Antonine University has two other campuses located in Nabi Ayla - Zahle (Bekaa) and in Mejdlaya - Zgharta (North Lebanon).",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "925",
+      "iau_id": "IAU-000925",
+      "name": "American University of Science and Technology",
+      "alt_name": "(AUST)",
+      "detail_url": "https://whed.net/detail_institution.php?Jjo2MF0uMyhVCmAK",
+      "iau_link": "https://www.whed.net/institutions/IAU-000925",
+      "address": {
+        "Street": "Omar Bayhum StreetTayyouneh",
+        "City": "Beirut",
+        "Post Code": "2058 4518",
+        "WWW": "https://www.aou.edu.lb"
+      },
+      "website": "https://www.aou.edu.lb",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2002,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "September to August",
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Business Studies",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Business Education",
+            "Economics",
+            "Human Resources",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Computer Studies",
+          "fields": [
+            "Artificial Intelligence",
+            "Business Computing",
+            "Computer Networks",
+            "Computer Science",
+            "Graphic Design",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Education Studies",
+          "fields": [
+            "Education",
+            "Primary Education"
+          ]
+        },
+        {
+          "name": "Faculty : Language Studies",
+          "fields": [
+            "English",
+            "Translation and Interpretation"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Art Education",
+            "Business Administration",
+            "Business Computing",
+            "Computer Engineering",
+            "Computer Networks",
+            "Computer Science",
+            "Economics",
+            "English",
+            "Finance",
+            "Graphic Design",
+            "Human Resources",
+            "Information Technology",
+            "Literature",
+            "Management",
+            "Marketing",
+            "Multimedia",
+            "Primary Education",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Business Administration",
+            "Finance",
+            "Human Resources",
+            "Software Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education; Lebanese Government and OUVS (Open University Validating Services)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Yara Abdallah"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Dani Aoun"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2023-2024",
+        "Staff Full Time Total:": "43",
+        "Students Statistics Year:": "2024-2025",
+        "Students Total:": "2850"
+      },
+      "history": "Founded 2002. A private accredited Institution-subsidiary of Open University in Britain",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "927",
+      "iau_id": "IAU-000927",
+      "name": "American University of Technology",
+      "alt_name": "(AUT)",
+      "detail_url": "https://whed.net/detail_institution.php?Jjo2MF0uMyhXCmAK",
+      "iau_link": "https://www.whed.net/institutions/IAU-000927",
+      "address": {
+        "Street": "Al Boustani",
+        "City": "Beirut",
+        "Post Code": "11-5020",
+        "WWW": "https://www.bau.edu.lb"
+      },
+      "website": "https://www.bau.edu.lb",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1960,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "Three semesters: Autumn, Spring, Summer",
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Architecture - Design and Built Environment",
+          "fields": [
+            "Architectural and Environmental Design",
+            "Architecture",
+            "Structural Architecture"
+          ]
+        },
+        {
+          "name": "Faculty : Business Administration",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Economics",
+            "Finance",
+            "Management",
+            "Taxation"
+          ]
+        },
+        {
+          "name": "Faculty : Dentistry",
+          "fields": [
+            "Dentistry",
+            "Oral Pathology",
+            "Orthodontics",
+            "Surgery"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Civil Engineering",
+            "Computer Engineering",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Engineering",
+            "Environmental Engineering",
+            "Industrial Engineering",
+            "Industrial Management",
+            "Mechanical Engineering",
+            "Petroleum and Gas Engineering",
+            "Power Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences",
+          "fields": [
+            "Laboratory Techniques",
+            "Nursing",
+            "Nutrition",
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "Faculty : Human Sciences",
+          "fields": [
+            "Arabic",
+            "English",
+            "French",
+            "Geography",
+            "History",
+            "Literature",
+            "Mass Communication",
+            "Philosophy",
+            "Psychology",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Faculty : Law and Political Sciences",
+          "fields": [
+            "Law",
+            "Political Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Medicine",
+            "Surgery"
+          ]
+        },
+        {
+          "name": "Faculty : Pharmacy",
+          "fields": [
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Faculty : Science",
+          "fields": [
+            "Biology",
+            "Biotechnology",
+            "Chemistry",
+            "Computer Science",
+            "Environmental Studies",
+            "Information Technology",
+            "Mathematics",
+            "Physics"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Arabic",
+            "Architecture",
+            "Banking",
+            "Biochemistry",
+            "Biology",
+            "Biomedical Engineering",
+            "Business Administration",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Dentistry",
+            "Dietetics",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "English",
+            "Fashion Design",
+            "Finance",
+            "French",
+            "Graphic Design",
+            "Health Sciences",
+            "History",
+            "Industrial Engineering",
+            "Information Management",
+            "Interior Design",
+            "Laboratory Techniques",
+            "Law",
+            "Literature",
+            "Machine Building",
+            "Management",
+            "Marketing",
+            "Mass Communication",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Medicine",
+            "Nursing",
+            "Nutrition",
+            "Petroleum and Gas Engineering",
+            "Pharmacy",
+            "Physical Therapy",
+            "Physics",
+            "Psychology",
+            "Sociology",
+            "Surgery",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Professional Doctorate",
+          "fields": [
+            "Business Administration",
+            "Pharmacy",
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "Teaching Diploma",
+          "fields": [
+            "Foreign Languages Education"
+          ]
+        },
+        {
+          "name": "Diplôme de Spécialité",
+          "fields": [
+            "Dental Technology",
+            "Dentistry",
+            "Orthodontics",
+            "Paediatrics",
+            "Periodontics",
+            "Surgery"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Accountancy",
+            "Analytical Chemistry",
+            "Applied Physics",
+            "Arabic",
+            "Architectural Restoration",
+            "Architecture",
+            "Biochemistry",
+            "Business Administration",
+            "Chemical Engineering",
+            "Chemistry",
+            "Clinical Psychology",
+            "Computer Engineering",
+            "Computer Graphics",
+            "Computer Science",
+            "Dental Technology",
+            "Dentistry",
+            "Economics",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "English",
+            "Finance",
+            "Food Science",
+            "French",
+            "Haematology",
+            "Health Sciences",
+            "Heritage Preservation",
+            "History",
+            "Human Resources",
+            "Hygiene",
+            "Immunology",
+            "Industrial Design",
+            "Industrial Engineering",
+            "Information Sciences",
+            "Laboratory Techniques",
+            "Library Science",
+            "Literature",
+            "Machine Building",
+            "Management",
+            "Marketing",
+            "Mass Communication",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Medicine",
+            "Microbiology",
+            "Nursing",
+            "Nutrition",
+            "Obstetrics and Gynaecology",
+            "Ophthalmology",
+            "Orthodontics",
+            "Paediatrics",
+            "Periodontics",
+            "Pharmacology",
+            "Pharmacy",
+            "Physics",
+            "Physiology",
+            "Political Sciences",
+            "Private Law",
+            "Psychology",
+            "Public Law",
+            "Radiophysics",
+            "Social and Preventive Medicine",
+            "Sociology",
+            "Statistics",
+            "Surgery",
+            "Telecommunications Engineering",
+            "Town Planning",
+            "Toxicology"
+          ]
+        },
+        {
+          "name": "Doctorate",
+          "fields": [
+            "Accountancy",
+            "Analytical Chemistry",
+            "Ancient Civilizations",
+            "Arabic",
+            "Architecture",
+            "Behavioural Sciences",
+            "Biochemistry",
+            "Biology",
+            "Chemistry",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Contemporary History",
+            "Dental Technology",
+            "Dentistry",
+            "Economics",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "English",
+            "French",
+            "History",
+            "Human Resources",
+            "Industrial and Organizational Psychology",
+            "Information Sciences",
+            "Law",
+            "Library Science",
+            "Linguistics",
+            "Literature",
+            "Machine Building",
+            "Management",
+            "Marketing",
+            "Mass Communication",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Medicine",
+            "Medieval Studies",
+            "Microbiology",
+            "Modern History",
+            "Obstetrics and Gynaecology",
+            "Orthodontics",
+            "Paediatrics",
+            "Periodontics",
+            "Pharmacology",
+            "Pharmacy",
+            "Physics",
+            "Physiology",
+            "Political Sciences",
+            "Psychology",
+            "Sociology",
+            "Surgery",
+            "Telecommunications Engineering",
+            "Town Planning",
+            "Toxicology"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education; Foundation for International Business Administration Accreditation (FIBAA); Accreditation Agency in Health and Social Science (AHPGS); Association of Chartered Certified Accountants (ACCA); Royal Institute of British Architects (RIBA); Engineering Accreditation Commission (EAC) of ABET; Canadian Council for Accreditation of Pharmacy Programs (CCAPP); Association for Dental Education in Europe (ADEE); European Society of Endontology (ESE); World Confederation for Physical Therapy (WCPT); European Association for the Study of Obesity (EASO), UK",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Wael Nabil Abdel Salam"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Omar Houri"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Zina Ariss"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Amani Bsat"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2024-2025",
+        "Students Total:": "8843"
+      },
+      "history": "Founded 1960 by the Lebanese El-Bir and El-Ihsan Society",
+      "periodicals": [
+        "APJ Architecture and Planning Journal BAU Journal Creative Sustainable Development BAU Journal Health & Wellbeing BAU Journal of Legal Studies BAU Journal Science & Technology BAU Journal Society Culture, & Human Behavior",
+        "APJ Architecture and Planning Journal",
+        "BAU Journal Creative Sustainable Development",
+        "BAU Journal Health & Wellbeing",
+        "BAU Journal of Legal Studies",
+        "BAU Journal Science & Technology",
+        "BAU Journal Society Culture, & Human Behavior"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "1107",
+      "iau_id": "IAU-001107",
+      "name": "Arts, Science and Technology University in Lebanon",
+      "alt_name": "(AUL)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sMyRQLVBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-001107",
+      "address": {
+        "Street": "P.O. Box 446",
+        "City": "Jounieh",
+        "WWW": "https://www.usek.edu.lb"
+      },
+      "website": "https://www.usek.edu.lb",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1961,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "September to July",
+      "languages": [
+        "French",
+        "English",
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Agricultural Sciences and Food Sciences",
+          "fields": [
+            "Agriculture",
+            "Dietetics",
+            "Food Science",
+            "Food Technology",
+            "Nutrition"
+          ]
+        },
+        {
+          "name": "Faculty : Fine and Applied Arts",
+          "fields": [
+            "Architecture",
+            "Fine Arts",
+            "Graphic Design",
+            "Interior Design",
+            "Performing Arts",
+            "Religious Art",
+            "Theatre",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Faculty : Letters",
+          "fields": [
+            "Arabic",
+            "Business and Commerce",
+            "Communication Studies",
+            "English",
+            "French",
+            "Journalism",
+            "Literature",
+            "Modern Languages",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Faculty : Philosophy and Human Sciences",
+          "fields": [
+            "Clinical Psychology",
+            "Education",
+            "Educational Psychology",
+            "Educational Technology",
+            "Industrial and Organizational Psychology",
+            "Philosophy",
+            "Psychology",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Religious and Oriental Studies",
+          "fields": [
+            "Oriental Studies",
+            "Religious Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Sciences",
+          "fields": [
+            "Biological and Life Sciences",
+            "Chemistry",
+            "Computer Science",
+            "Mathematics",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Theology",
+          "fields": [
+            "Family Studies",
+            "Pastoral Studies",
+            "Religion",
+            "Religious Studies",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Institute : History",
+          "fields": [
+            "Archaeology",
+            "Art History",
+            "History"
+          ]
+        },
+        {
+          "name": "Institute : Liturgy",
+          "fields": [
+            "Christian Religious Studies",
+            "Religion"
+          ]
+        },
+        {
+          "name": "Institute : Nursing Sciences",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Institute : Political and Administrative Sciences",
+          "fields": [
+            "International Relations and Diplomacy",
+            "Political Sciences",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "School : Business",
+          "fields": [
+            "Accountancy",
+            "Business Computing",
+            "Finance",
+            "Hotel and Restaurant",
+            "Hotel Management",
+            "Information Technology",
+            "International Business",
+            "Management",
+            "Marketing",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "School : Engineering",
+          "fields": [
+            "Chemical Engineering",
+            "Computer Engineering",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Mechanical Engineering",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "School : Law and Political Science",
+          "fields": [
+            "Commercial Law",
+            "International Law",
+            "Law",
+            "Political Sciences",
+            "Private Law",
+            "Public Law"
+          ]
+        },
+        {
+          "name": "School : Medicine and Medical Sciences",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "School : Music and Performing Arts",
+          "fields": [
+            "Music",
+            "Music Education",
+            "Music Theory and Composition",
+            "Musicology",
+            "Religious Music",
+            "Singing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Actuarial Science",
+            "Agricultural Engineering",
+            "Applied Mathematics",
+            "Arabic",
+            "Architecture",
+            "Biochemistry",
+            "Biology",
+            "Biomedical Engineering",
+            "Business Administration",
+            "Chemical Engineering",
+            "Chemistry",
+            "Cinema and Television",
+            "Civil Engineering",
+            "Communication Arts",
+            "Computer Engineering",
+            "Computer Science",
+            "Design",
+            "Dietetics",
+            "Education",
+            "Electrical and Electronic Engineering",
+            "Electrical Engineering",
+            "Engineering",
+            "English",
+            "Finance",
+            "Fine Arts",
+            "Food Science",
+            "Food Technology",
+            "French",
+            "Health Sciences",
+            "History",
+            "Holy Writings",
+            "Hotel Management",
+            "Human Rights",
+            "Information Technology",
+            "International Relations and Diplomacy",
+            "Journalism",
+            "Law",
+            "Literature",
+            "Management",
+            "Marketing",
+            "Mass Communication",
+            "Materials Engineering",
+            "Mechanical Engineering",
+            "Media Studies",
+            "Middle Eastern Studies",
+            "Modern Languages",
+            "Museum Studies",
+            "Music",
+            "Music Education",
+            "Nursing",
+            "Nutrition",
+            "Pastoral Studies",
+            "Performing Arts",
+            "Petroleum and Gas Engineering",
+            "Philosophy",
+            "Political Sciences",
+            "Preschool Education",
+            "Psychology",
+            "Public Administration",
+            "Public Law",
+            "Religious Art",
+            "Religious Education",
+            "Restoration of Works of Art",
+            "Social Sciences",
+            "Telecommunications Engineering",
+            "Theology",
+            "Translation and Interpretation",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Professional Doctorate",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Teaching Diploma",
+          "fields": [
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Diplôme de Spécialité",
+          "fields": [
+            "Anaesthesiology",
+            "Biology",
+            "Cardiology",
+            "Dermatology",
+            "Endocrinology",
+            "Gastroenterology",
+            "Immunology",
+            "Medicine",
+            "Nephrology",
+            "Neurology",
+            "Obstetrics and Gynaecology",
+            "Oncology",
+            "Ophthalmology",
+            "Orthopaedics",
+            "Otorhinolaryngology",
+            "Paediatrics",
+            "Pathology",
+            "Pneumology",
+            "Psychiatry and Mental Health",
+            "Radiology",
+            "Surgery",
+            "Urology"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Actuarial Science",
+            "Applied Mathematics",
+            "Arabic",
+            "Architecture",
+            "Banking",
+            "Biochemistry",
+            "Biology",
+            "Biomedical Engineering",
+            "Biotechnology",
+            "Business Administration",
+            "Chemical Engineering",
+            "Chemistry",
+            "Cinema and Television",
+            "Civil Engineering",
+            "Commercial Law",
+            "Communication Arts",
+            "Comparative Law",
+            "Computer Engineering",
+            "Computer Science",
+            "Criminology",
+            "Education",
+            "Educational Administration",
+            "Educational Technology",
+            "Electrical and Electronic Engineering",
+            "Engineering",
+            "English",
+            "Environmental Engineering",
+            "Finance",
+            "Fine Arts",
+            "Food Technology",
+            "French",
+            "History",
+            "Human Resources",
+            "Industrial Engineering",
+            "Information Sciences",
+            "Interior Design",
+            "International Business",
+            "International Law",
+            "International Relations and Diplomacy",
+            "Journalism",
+            "Literature",
+            "Management",
+            "Mass Communication",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Media Studies",
+            "Middle Eastern Studies",
+            "Museum Studies",
+            "Music",
+            "Neurosciences",
+            "Nutrition",
+            "Oenology",
+            "Performing Arts",
+            "Petroleum and Gas Engineering",
+            "Philosophy",
+            "Political Sciences",
+            "Private Law",
+            "Psychology",
+            "Public Law",
+            "Religious Studies",
+            "Restoration of Works of Art",
+            "Social Sciences",
+            "Social Work",
+            "Telecommunications Engineering",
+            "Theology",
+            "Translation and Interpretation",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Doctorate",
+          "fields": [
+            "Arabic",
+            "Archaeology",
+            "Art History",
+            "Business Administration",
+            "Educational Sciences",
+            "English",
+            "German",
+            "Law",
+            "Linguistics",
+            "Literature",
+            "Museum Studies",
+            "Music",
+            "Music Education",
+            "Philosophy",
+            "Psychology",
+            "Religious Art",
+            "Restoration of Works of Art",
+            "Social Sciences",
+            "Theology",
+            "Translation and Interpretation",
+            "Visual Arts"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Talal Hachem"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Elias Hanna"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Pascal Damien"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Rima Mattar"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2025-2026",
+        "Students Total:": "7097"
+      },
+      "history": "Founded 1961 and run by the Lebanese Maronite Order",
+      "periodicals": [
+        "Actes des colloques de l'Université Saint-Esprit de Kaslik Annales de Philosophie et des Sciences Humaines Collection de la bibliothèque de l'Université Saint-Esprit de Kalik Maronite Encyclopaedia Parole de l'Orient Revue des Lettres et de Traduction Revue juridique Revue Théologique de Kaslik - RThk Sciences et Technologies",
+        "Actes des colloques de l'Université Saint-Esprit de Kaslik",
+        "Annales de Philosophie et des Sciences Humaines",
+        "Collection de la bibliothèque de l'Université Saint-Esprit de Kalik",
+        "Maronite Encyclopaedia",
+        "Parole de l'Orient",
+        "Revue des Lettres et de Traduction",
+        "Revue juridique",
+        "Revue Théologique de Kaslik - RThk",
+        "Sciences et Technologies"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "9851",
+      "iau_id": "IAU-009851",
+      "name": "Beirut Islamic University",
+      "alt_name": "Jamiat Bayrut al islamiyyah (BIU)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uM0BVLDBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009851",
+      "address": {
+        "Street": "P.O. Box 30014Khaldeh Highway",
+        "City": "Khaldeh",
+        "Province": "Choueifat",
+        "WWW": "https://www.iul.edu.lb"
+      },
+      "website": "https://www.iul.edu.lb",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1994,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "1995/1996",
+      "languages": [
+        "Arabic",
+        "English",
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Economics and Business Administration",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Business Computing",
+            "Economics",
+            "Finance",
+            "Health Administration",
+            "Industrial Management",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Biomedical Engineering",
+            "Computer Engineering",
+            "Engineering",
+            "Surveying and Mapping",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Islamic Studies",
+          "fields": [
+            "Islamic Law",
+            "Islamic Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Commercial Law",
+            "Law",
+            "Private Law",
+            "Public Law"
+          ]
+        },
+        {
+          "name": "Faculty : Literature and Humanities",
+          "fields": [
+            "Arabic",
+            "Arts and Humanities",
+            "English",
+            "French",
+            "Geography",
+            "History",
+            "Literature",
+            "Modern Languages",
+            "Philosophy",
+            "Psychology",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Faculty : Nursing and Health Sciences",
+          "fields": [
+            "Dietetics",
+            "Laboratory Techniques",
+            "Midwifery",
+            "Nursing",
+            "Nutrition",
+            "Physical Therapy",
+            "Speech Therapy and Audiology"
+          ]
+        },
+        {
+          "name": "Faculty : Political, Administrative and Diplomatic Sciences",
+          "fields": [
+            "Administration",
+            "International Relations and Diplomacy",
+            "Political Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Science and Arts",
+          "fields": [
+            "Biochemistry",
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Graphic Design",
+            "Interior Design",
+            "Mathematics",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Faculty : Tourism Sciences",
+          "fields": [
+            "Hotel and Restaurant",
+            "Hotel Management",
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Administration",
+            "Air Transport",
+            "Banking",
+            "Biology",
+            "Biomedical Engineering",
+            "Business Computing",
+            "Chemistry",
+            "Computer Engineering",
+            "Computer Science",
+            "Economics",
+            "Finance",
+            "Food Technology",
+            "Graphic Design",
+            "Hotel and Restaurant",
+            "Industrial Engineering",
+            "Interior Design",
+            "Law",
+            "Management",
+            "Marketing",
+            "Mathematics",
+            "Midwifery",
+            "Nursing",
+            "Physical Therapy",
+            "Speech Therapy and Audiology",
+            "Surveying and Mapping",
+            "Telecommunications Engineering",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Licence",
+          "fields": [
+            "Arabic",
+            "English",
+            "French",
+            "Geography (Human)",
+            "History",
+            "Islamic Studies",
+            "Literature",
+            "Philosophy",
+            "Psychology",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Accountancy",
+            "Arabic",
+            "Banking",
+            "Business Administration",
+            "Economics",
+            "Educational Administration",
+            "Finance",
+            "French",
+            "Geography (Human)",
+            "Health Administration",
+            "History",
+            "Hotel and Restaurant",
+            "Information Management",
+            "International Relations and Diplomacy",
+            "Islamic Studies",
+            "Literature",
+            "Management",
+            "Philosophy",
+            "Private Law",
+            "Psychology",
+            "Public Law",
+            "Tourism",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Doctorate",
+          "fields": [
+            "Arabic",
+            "International Relations and Diplomacy",
+            "Islamic Studies",
+            "Law",
+            "Literature"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education; Association of Lebanon universities(UAOLB)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Hassan Lakiss"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Mohamad Jaber"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Viviane Al Hassanieh"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1994, sponsored by the Higher Islamic Shiite Council",
+      "periodicals": [
+        "Islamic History Review News of the University",
+        "Islamic History Review",
+        "News of the University"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "9850",
+      "iau_id": "IAU-009850",
+      "name": "City University",
+      "alt_name": "Al-Manar University of Tripoli (CITYU)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uM0BVLGBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009850",
+      "address": {
+        "Street": "Near Mechref Entrance",
+        "City": "Damour",
+        "Province": "Al-Chouf",
+        "WWW": "https://www.mubs.edu.lb"
+      },
+      "website": "https://www.mubs.edu.lb",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2000,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English",
+        "French",
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "Academy : British Academy in Lebanon",
+          "fields": [
+            "Business Administration",
+            "Hotel and Restaurant",
+            "Leadership",
+            "Management",
+            "Sports Management",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Arts and Sciences",
+          "fields": [
+            "Computer Science",
+            "Educational Administration",
+            "Preschool Education",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Faculty : Business Administration",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Business Computing",
+            "Finance",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Fine Arts and Design",
+          "fields": [
+            "Graphic Design",
+            "Interior Design"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences",
+          "fields": [
+            "Dietetics",
+            "Nursing",
+            "Nutrition",
+            "Optometry",
+            "Public Health"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Business Computing",
+            "Computer Engineering",
+            "Computer Science",
+            "Dietetics",
+            "Education",
+            "Educational Administration",
+            "Finance",
+            "Foreign Languages Education",
+            "Graphic Design",
+            "Humanities and Social Science Education",
+            "Interior Design",
+            "Management",
+            "Marketing",
+            "Mathematics Education",
+            "Native Language Education",
+            "Nursing",
+            "Nutrition",
+            "Optometry",
+            "Preschool Education",
+            "Primary Education",
+            "Public Health",
+            "Science Education",
+            "Social Work",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Licence",
+          "fields": [
+            "Management"
+          ]
+        },
+        {
+          "name": "Teaching Diploma",
+          "fields": [
+            "Computer Education",
+            "Education",
+            "Foreign Languages Education",
+            "Humanities and Social Science Education",
+            "Mathematics Education",
+            "Native Language Education",
+            "Science Education",
+            "Secondary Education"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Business Administration",
+            "Computer Science",
+            "Social Work"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Nael Alami"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Bassem Kaissi"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2024-2025",
+        "Staff Full Time Total:": "90",
+        "Students Statistics Year:": "2024-2025",
+        "Students Total:": "1546"
+      },
+      "history": "Founded 2000. Formerly known as MECAT (Al Mahaad Al Jamee Lilidara wal Ouloum) and acquired present status and title 2007",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "4308",
+      "iau_id": "IAU-004308",
+      "name": "ESA Business School",
+      "alt_name": "Ecole supérieure des Affaires (ESA)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIyxQLmBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004308",
+      "address": {
+        "Street": "P.O. Box 72Zouk Mikael",
+        "City": "Zouk Mosbeh",
+        "Province": "Kaserwan",
+        "WWW": "https://www.ndu.edu.lb"
+      },
+      "website": "https://www.ndu.edu.lb",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1978,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "September-December (Fall Semester); January-May (Spring Semester); end of May-July (Summer Semester - 5.5 weeks)",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Continuing Education",
+          "fields": [
+            "Business Administration",
+            "Computer Science",
+            "English",
+            "Hotel Management",
+            "Leadership",
+            "Management",
+            "Modern Languages",
+            "Music"
+          ]
+        },
+        {
+          "name": "Department/Division : Lifelong Learning Center (LLC)",
+          "fields": [
+            "Arts and Humanities",
+            "Business Administration",
+            "Communication Studies",
+            "Media Studies",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Architecture, Arts and Design",
+          "fields": [
+            "Architecture",
+            "Design",
+            "Fashion Design",
+            "Fine Arts",
+            "Graphic Design",
+            "Interior Design",
+            "Landscape Architecture",
+            "Music Education",
+            "Musicology",
+            "Photography"
+          ]
+        },
+        {
+          "name": "Faculty : Business Administration and Economics",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Economics",
+            "Finance",
+            "Health Administration",
+            "Hotel and Restaurant",
+            "Hotel Management",
+            "Human Resources",
+            "International Business",
+            "Leadership",
+            "Management",
+            "Marketing",
+            "Tourism",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Electrical Engineering",
+            "Engineering",
+            "Mechanical Engineering",
+            "Petroleum and Gas Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Humanities",
+          "fields": [
+            "Advertising and Publicity",
+            "Applied Linguistics",
+            "Arabic",
+            "Arts and Humanities",
+            "Clinical Psychology",
+            "Communication Arts",
+            "Education",
+            "Educational Psychology",
+            "English",
+            "Industrial and Organizational Psychology",
+            "Journalism",
+            "Marketing",
+            "Mass Communication",
+            "Media Studies",
+            "Philology",
+            "Physical Education",
+            "Psychology",
+            "Radio and Television Broadcasting",
+            "Religious Studies",
+            "Sociology",
+            "Special Education",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Faculty : Law and Political Science",
+          "fields": [
+            "American Studies",
+            "Comparative Law",
+            "Criminal Law",
+            "European Studies",
+            "Gender Studies",
+            "International Law",
+            "International Relations and Diplomacy",
+            "Mediterranean Studies",
+            "Middle Eastern Studies",
+            "Political Sciences",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "Faculty : Natural and Applied Sciences",
+          "fields": [
+            "Actuarial Science",
+            "Astronomy and Space Science",
+            "Biochemistry",
+            "Biology",
+            "Biotechnology",
+            "Business Computing",
+            "Chemistry",
+            "Computer Graphics",
+            "Computer Science",
+            "Dietetics",
+            "Environmental Studies",
+            "Geography",
+            "Industrial Chemistry",
+            "Information Sciences",
+            "Information Technology",
+            "Insurance",
+            "Laboratory Techniques",
+            "Mathematics",
+            "Mathematics and Computer Science",
+            "Mathematics Education",
+            "Medical Technology",
+            "Natural Sciences",
+            "Nutrition",
+            "Pharmacology",
+            "Physics",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Faculty : Nursing and Health Sciences",
+          "fields": [
+            "Dietetics",
+            "Food Technology",
+            "Health Sciences",
+            "Laboratory Techniques",
+            "Nursing",
+            "Nutrition"
+          ]
+        },
+        {
+          "name": "Research Division : Applied Research Center in Education",
+          "fields": [
+            "Curriculum",
+            "Education",
+            "Educational Research"
+          ]
+        },
+        {
+          "name": "Research Division : Lebanese Emigration Research Center",
+          "fields": [
+            "Demography and Population"
+          ]
+        },
+        {
+          "name": "Research Division : NDU Libraries Department of Special Collections",
+          "fields": [
+            "Heritage Preservation"
+          ]
+        },
+        {
+          "name": "Research Division : Sustainable Development Center",
+          "fields": [
+            "Environmental Management",
+            "Environmental Studies",
+            "Water Management",
+            "Water Science"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Actuarial Science",
+            "Advertising and Publicity",
+            "American Studies",
+            "Architecture",
+            "Banking",
+            "Biochemistry",
+            "Biology",
+            "Business Administration",
+            "Business Computing",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civil Engineering",
+            "Clinical Psychology",
+            "Communication Arts",
+            "Communication Studies",
+            "Computer Engineering",
+            "Computer Graphics",
+            "Computer Science",
+            "Dietetics",
+            "Economics",
+            "Education",
+            "Educational Psychology",
+            "Electrical Engineering",
+            "Engineering",
+            "English",
+            "Environmental Studies",
+            "European Studies",
+            "Fashion Design",
+            "Film",
+            "Finance",
+            "Food Science",
+            "Food Technology",
+            "Graphic Design",
+            "Health Sciences",
+            "Hotel and Restaurant",
+            "Hotel Management",
+            "Human Resources",
+            "Industrial and Organizational Psychology",
+            "Information Management",
+            "Information Technology",
+            "Interior Design",
+            "International Business",
+            "International Relations and Diplomacy",
+            "Jazz and Popular Music",
+            "Journalism",
+            "Laboratory Techniques",
+            "Law",
+            "Management",
+            "Marketing",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Media Studies",
+            "Mediterranean Studies",
+            "Music",
+            "Musicology",
+            "Nutrition",
+            "Petroleum and Gas Engineering",
+            "Photography",
+            "Physical Education",
+            "Physics",
+            "Political Sciences",
+            "Public Administration",
+            "Radio and Television Broadcasting",
+            "Sports",
+            "Surveying and Mapping",
+            "Telecommunications Engineering",
+            "Tourism",
+            "Translation and Interpretation",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Teaching Diploma",
+          "fields": [
+            "Education",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Actuarial Science",
+            "Advertising and Publicity",
+            "Applied Linguistics",
+            "Applied Mathematics",
+            "Architecture",
+            "Astrophysics",
+            "Biology",
+            "Business Administration",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Design",
+            "Education",
+            "Educational Administration",
+            "Educational Psychology",
+            "Educational Technology",
+            "Electrical Engineering",
+            "English",
+            "Finance",
+            "Food Science",
+            "Food Technology",
+            "Foreign Languages Education",
+            "Human Resources",
+            "Human Rights",
+            "Industrial Chemistry",
+            "Insurance",
+            "International Law",
+            "International Relations and Diplomacy",
+            "Journalism",
+            "Literature",
+            "Management",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Media Studies",
+            "Music",
+            "Nutrition",
+            "Political Sciences",
+            "Psychology",
+            "Public Administration",
+            "Public Relations",
+            "Radio and Television Broadcasting",
+            "Special Education",
+            "Town Planning",
+            "Translation and Interpretation"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education; New England Commission of Higher Education (NECHE)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Fr. Bechara Khoury"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Antoine Farhat"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Michel El Hayek"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Mirna Nehme"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Jessica R. El-Khoury"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2021-2022",
+        "Staff Full Time Total:": "279",
+        "Students Statistics Year:": "2021-2022",
+        "Students Total:": "4407"
+      },
+      "history": "Founded 1978 as Louaizé Centre for Higher Education, affiliated to Beirut University College. Acquired present status and title 1987",
+      "periodicals": [
+        "NDU Chronicle (e-bulletin) We Magazine",
+        "NDU Chronicle (e-bulletin)",
+        "We Magazine"
+      ],
+      "student_body": null
+    },
+    {
+      "id": "749",
+      "iau_id": "IAU-000749",
+      "name": "Global University",
+      "alt_name": "Al Jamiaa Al Aalamia (GU)",
+      "detail_url": "https://whed.net/detail_institution.php?Jjo2MF0tUzBZCmAK",
+      "iau_link": "https://www.whed.net/institutions/IAU-000749",
+      "address": {
+        "Street": "Saida – Tyre International Highway",
+        "City": "Zahrani",
+        "WWW": "https://pu.edu.lb"
+      },
+      "website": "https://pu.edu.lb",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2012,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "Fall Semester: October to January; Spring Semester: February to May; Summer Semester: July to August",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Continuing Education",
+          "fields": [
+            "Accountancy",
+            "Artificial Intelligence",
+            "Communication Arts",
+            "Data Science",
+            "Education",
+            "English",
+            "Entrepreneurship",
+            "Finance",
+            "Health Sciences",
+            "Human Resources",
+            "Leadership",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "College : Architecture and Design",
+          "fields": [
+            "Architecture"
+          ]
+        },
+        {
+          "name": "College : Arts and Sciences",
+          "fields": [
+            "Communication Arts",
+            "Computer Science",
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "College : Business",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Entrepreneurship",
+            "Finance",
+            "Human Resources",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "College : Engineering",
+          "fields": [
+            "Civil Engineering",
+            "Electrical Engineering",
+            "Environmental Engineering",
+            "Mechanical Engineering",
+            "Petroleum and Gas Engineering",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "College : Law and Political Science",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "College : Public Health",
+          "fields": [
+            "Public Health",
+            "Speech Therapy and Audiology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Architecture",
+            "Business Administration",
+            "Civil Engineering",
+            "Communication Arts",
+            "Computer Science",
+            "Electrical Engineering",
+            "Entrepreneurship",
+            "Environmental Engineering",
+            "Finance",
+            "Human Resources",
+            "Law",
+            "Management",
+            "Marketing",
+            "Mechanical Engineering",
+            "Media Studies",
+            "Petroleum and Gas Engineering",
+            "Public Health",
+            "Speech Therapy and Audiology",
+            "Telecommunications Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Imad Zbib"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Bassel Berry"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Ahmad Sanjar"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2022-2023",
+        "Staff Full Time Total:": "51",
+        "Students Statistics Year:": "2022-2023",
+        "Students Total:": "1064"
+      },
+      "history": "Founded 2012",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "9853",
+      "iau_id": "IAU-009853",
+      "name": "Haigazian University",
+      "alt_name": "Jamiat Haikazian (HU)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uM0BVLFBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009853",
+      "address": {
+        "Street": "BP 17-5208Mar Mikhaël, Rue de Damas",
+        "City": "Beirut",
+        "Post Code": "1104 2020",
+        "WWW": "https://www.usj.edu.lb"
+      },
+      "website": "https://www.usj.edu.lb",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1875,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "September to June (September-January; February-June)",
+      "languages": [
+        "French",
+        "English",
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Arabic Research and Studies",
+          "fields": [
+            "Arabic"
+          ]
+        },
+        {
+          "name": "Centre : Banking",
+          "fields": [
+            "Banking",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Centre : Euro-Lebanese Intercultural Studies",
+          "fields": [
+            "Arts and Humanities",
+            "Cultural Studies"
+          ]
+        },
+        {
+          "name": "Centre : Japanese",
+          "fields": [
+            "Japanese"
+          ]
+        },
+        {
+          "name": "Centre : Modern Languages",
+          "fields": [
+            "Modern Languages"
+          ]
+        },
+        {
+          "name": "Faculty : Arts and Humanities",
+          "fields": [
+            "Anthropology",
+            "Archaeology",
+            "Arts and Humanities",
+            "Clinical Psychology",
+            "Communication Studies",
+            "Contemporary History",
+            "Educational Psychology",
+            "Environmental Studies",
+            "French",
+            "Geography",
+            "History",
+            "Human Resources",
+            "Industrial and Organizational Psychology",
+            "International Relations and Diplomacy",
+            "Literature",
+            "Philosophy",
+            "Psychology",
+            "Public Relations",
+            "Sociology",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Business Administration and Management",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Finance",
+            "Health Administration",
+            "Management"
+          ]
+        },
+        {
+          "name": "Faculty : Dentistry",
+          "fields": [
+            "Dentistry",
+            "Oral Pathology",
+            "Orthodontics"
+          ]
+        },
+        {
+          "name": "Faculty : Economics",
+          "fields": [
+            "Banking",
+            "Economics",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Education",
+            "Educational Administration",
+            "Educational and Student Counselling",
+            "Educational Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Law and Political Science",
+          "fields": [
+            "Commercial Law",
+            "Law",
+            "Political Sciences",
+            "Private Law",
+            "Public Law"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Biology",
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Faculty : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Faculty : Pharmacy",
+          "fields": [
+            "Biology",
+            "Dietetics",
+            "Nutrition",
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Faculty : Religious Sciences",
+          "fields": [
+            "Religion",
+            "Religious Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Science",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Earth Sciences",
+            "Mathematics",
+            "Natural Sciences",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Institute : Business Administration",
+          "fields": [
+            "Advertising and Publicity",
+            "Business Computing",
+            "Hotel Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Institute : Communication and Information",
+          "fields": [
+            "Information Sciences",
+            "Telecommunications Services"
+          ]
+        },
+        {
+          "name": "Institute : Confucius",
+          "fields": [
+            "Chinese"
+          ]
+        },
+        {
+          "name": "Institute : Health and Social Protection",
+          "fields": [
+            "Health Administration",
+            "Public Health",
+            "Social Welfare"
+          ]
+        },
+        {
+          "name": "Institute : Insurance Studies",
+          "fields": [
+            "Insurance"
+          ]
+        },
+        {
+          "name": "Institute : Islamic-Christian Studies",
+          "fields": [
+            "Christian Religious Studies",
+            "Comparative Religion",
+            "Islamic Studies"
+          ]
+        },
+        {
+          "name": "Institute : Oriental Literature",
+          "fields": [
+            "Arabic",
+            "Education",
+            "History",
+            "Islamic Studies",
+            "Philosophy"
+          ]
+        },
+        {
+          "name": "Institute : Physiotherapy",
+          "fields": [
+            "Neurological Therapy",
+            "Osteopathy",
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "Institute : Political Science",
+          "fields": [
+            "Political Sciences"
+          ]
+        },
+        {
+          "name": "Institute : Psychomotricity",
+          "fields": [
+            "Psychometrics",
+            "Rehabilitation and Therapy"
+          ]
+        },
+        {
+          "name": "Institute : Religious Sciences",
+          "fields": [
+            "Religious Studies"
+          ]
+        },
+        {
+          "name": "Institute : Speech Therapy",
+          "fields": [
+            "Speech Therapy and Audiology"
+          ]
+        },
+        {
+          "name": "Institute : Teachers",
+          "fields": [
+            "Educational Sciences",
+            "Preschool Education",
+            "Primary Education",
+            "Special Education"
+          ]
+        },
+        {
+          "name": "Institute : Theatre, Audiovisual and Film Studies",
+          "fields": [
+            "Cinema and Television",
+            "Film",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Laboratory : Biochemistry",
+          "fields": [
+            "Biochemistry"
+          ]
+        },
+        {
+          "name": "Laboratory : Biostatical and Medical Epidemiology",
+          "fields": [
+            "Epidemiology"
+          ]
+        },
+        {
+          "name": "Laboratory : Cartography",
+          "fields": [
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "Laboratory : E-learning Technologies",
+          "fields": [
+            "Pedagogy"
+          ]
+        },
+        {
+          "name": "Laboratory : Experimental Psychology",
+          "fields": [
+            "Experimental Psychology"
+          ]
+        },
+        {
+          "name": "Laboratory : Human Hispathology",
+          "fields": [
+            "Histology",
+            "Pathology"
+          ]
+        },
+        {
+          "name": "Laboratory : Medical Computer Science",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Laboratory : Medical Genetics",
+          "fields": [
+            "Genetics"
+          ]
+        },
+        {
+          "name": "Laboratory : Mineralized Tissues",
+          "fields": [
+            "Genetics"
+          ]
+        },
+        {
+          "name": "Laboratory : Molecular Biology",
+          "fields": [
+            "Molecular Biology"
+          ]
+        },
+        {
+          "name": "Laboratory : Pharmacology",
+          "fields": [
+            "Pharmacology"
+          ]
+        },
+        {
+          "name": "Laboratory : Physiology",
+          "fields": [
+            "Physiology"
+          ]
+        },
+        {
+          "name": "Laboratory : Socio-economical Reality",
+          "fields": [
+            "Economics"
+          ]
+        },
+        {
+          "name": "Laboratory : Teaching Pedagogy",
+          "fields": [
+            "Pedagogy",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Laboratory : Teledetection",
+          "fields": [
+            "Geography"
+          ]
+        },
+        {
+          "name": "Laboratory : Tourism",
+          "fields": [
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Laboratory : Toxicology",
+          "fields": [
+            "Toxicology"
+          ]
+        },
+        {
+          "name": "Research Division : Arabic Terminology",
+          "fields": [
+            "Arabic",
+            "Terminology"
+          ]
+        },
+        {
+          "name": "Research Division : Archeology",
+          "fields": [
+            "Archaeology",
+            "Prehistory"
+          ]
+        },
+        {
+          "name": "Research Division : Bioequivalence and Medicament Control",
+          "fields": [
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Research Division : Chemistry and Physics",
+          "fields": [
+            "Chemistry",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Research Division : Christian Arabs",
+          "fields": [
+            "Religious Studies"
+          ]
+        },
+        {
+          "name": "Research Division : Construction",
+          "fields": [
+            "Construction Engineering"
+          ]
+        },
+        {
+          "name": "Research Division : Economics",
+          "fields": [
+            "Economics"
+          ]
+        },
+        {
+          "name": "Research Division : Electrical Industries and Telecommunications",
+          "fields": [
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Research Division : Ethics",
+          "fields": [
+            "Ethics"
+          ]
+        },
+        {
+          "name": "Research Division : European Union Studies",
+          "fields": [
+            "European Union Law",
+            "Law",
+            "Regional Studies"
+          ]
+        },
+        {
+          "name": "Research Division : Michel Henry",
+          "fields": [
+            "French"
+          ]
+        },
+        {
+          "name": "Research Division : Middle East Markets",
+          "fields": [
+            "Business and Commerce",
+            "Middle Eastern Studies"
+          ]
+        },
+        {
+          "name": "Research Division : Modelling and Information Technology",
+          "fields": [
+            "Computer Networks",
+            "Data Science",
+            "Information Sciences",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Research Division : Modern Arab World Studies",
+          "fields": [
+            "Middle Eastern Studies"
+          ]
+        },
+        {
+          "name": "Research Division : Religious Interpretation",
+          "fields": [
+            "Religious Studies"
+          ]
+        },
+        {
+          "name": "Research Division : Rights of the Arab World",
+          "fields": [
+            "Middle Eastern Studies"
+          ]
+        },
+        {
+          "name": "Research Division : Water and Environment",
+          "fields": [
+            "Environmental Studies",
+            "Water Science"
+          ]
+        },
+        {
+          "name": "School : Agro-industry",
+          "fields": [
+            "Agricultural Engineering"
+          ]
+        },
+        {
+          "name": "School : Engineering",
+          "fields": [
+            "Building Technologies",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Construction Engineering",
+            "Electrical and Electronic Equipment and Maintenance",
+            "Electrical Engineering",
+            "Engineering",
+            "Environmental Engineering",
+            "Mechanical Engineering",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "School : Medical Laboratory Techniques",
+          "fields": [
+            "Laboratory Techniques"
+          ]
+        },
+        {
+          "name": "School : Mediterranean Agronomy",
+          "fields": [
+            "Agronomy"
+          ]
+        },
+        {
+          "name": "School : Midwifery",
+          "fields": [
+            "Midwifery"
+          ]
+        },
+        {
+          "name": "School : Social Work Training",
+          "fields": [
+            "Social and Community Services",
+            "Social Work",
+            "Special Education"
+          ]
+        },
+        {
+          "name": "School : Translation and Interpretation",
+          "fields": [
+            "Modern Languages",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Unit : Open University",
+          "fields": [
+            "Architecture",
+            "Art History",
+            "Economics",
+            "History",
+            "Hygiene",
+            "Law",
+            "Literature",
+            "Musicology",
+            "Painting and Drawing",
+            "Philosophy",
+            "Political Sciences",
+            "Religious Studies"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diplôme d'Université",
+          "fields": [
+            "Child Care and Development",
+            "Cognitive Sciences",
+            "Community Health",
+            "Dental Technology",
+            "Dentistry",
+            "Ethics",
+            "Gastroenterology",
+            "Health Education",
+            "Health Sciences",
+            "Information Management",
+            "Islamic Studies",
+            "Nursing",
+            "Obstetrics and Gynaecology",
+            "Occupational Health",
+            "Oncology",
+            "Pathology",
+            "Pedagogy",
+            "Pharmacology",
+            "Religion",
+            "Religious Studies",
+            "Social Work",
+            "Surgery"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Banking",
+            "Business Administration",
+            "Fashion Design",
+            "Hotel and Restaurant",
+            "Speech Therapy and Audiology"
+          ]
+        },
+        {
+          "name": "Licence",
+          "fields": [
+            "Administration",
+            "Advertising and Publicity",
+            "Anthropology",
+            "Archaeology",
+            "Biological and Life Sciences",
+            "Biology",
+            "Business Administration",
+            "Business Computing",
+            "Chemistry",
+            "Clinical Psychology",
+            "Contemporary History",
+            "Cultural Studies",
+            "Economics",
+            "Educational Psychology",
+            "Environmental Studies",
+            "French",
+            "Hotel Management",
+            "Insurance",
+            "International Relations and Diplomacy",
+            "Laboratory Techniques",
+            "Labour and Industrial Relations",
+            "Law",
+            "Literature",
+            "Mathematics",
+            "Midwifery",
+            "Modern Languages",
+            "Nursing",
+            "Nutrition",
+            "Orthopaedics",
+            "Pedagogy",
+            "Philosophy",
+            "Physics",
+            "Preschool Education",
+            "Primary Education",
+            "Psychology",
+            "Radio and Television Broadcasting",
+            "Regional Planning",
+            "Rehabilitation and Therapy",
+            "Religious Studies",
+            "Social Work",
+            "Sociology",
+            "Special Education",
+            "Telecommunications Engineering",
+            "Theatre",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Certificat d'Aptitude pédagogique de l'Enseignement secondaire",
+          "fields": [
+            "Pedagogy"
+          ]
+        },
+        {
+          "name": "Diplôme d'Etudes supérieures",
+          "fields": [
+            "Dental Technology",
+            "Dentistry",
+            "Oral Pathology",
+            "Orthodontics",
+            "Paediatrics",
+            "Periodontics",
+            "Surgery"
+          ]
+        },
+        {
+          "name": "Diplôme d'Ingénieur",
+          "fields": [
+            "Agricultural Business",
+            "Agronomy",
+            "Biomedicine",
+            "Civil Engineering",
+            "Computer Science",
+            "Construction Engineering",
+            "Electrical Engineering",
+            "Engineering",
+            "Environmental Studies",
+            "Mechanical Engineering",
+            "Transport and Communications",
+            "Water Science"
+          ]
+        },
+        {
+          "name": "Professional Doctorate",
+          "fields": [
+            "Dentistry",
+            "Medicine",
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Diplôme d'Etudes supérieures spécialisées",
+          "fields": [
+            "Biology",
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Maîtrise",
+          "fields": [
+            "Biological and Life Sciences",
+            "Cosmetology",
+            "Cultural Studies",
+            "Dentistry",
+            "Development Studies",
+            "Educational and Student Counselling",
+            "Educational Psychology",
+            "Food Science",
+            "Health Administration",
+            "Laboratory Techniques",
+            "Paediatrics",
+            "Pedagogy",
+            "Pharmacy",
+            "Safety Engineering",
+            "Telecommunications Engineering",
+            "Theatre",
+            "Tourism",
+            "Transport Management",
+            "Writing"
+          ]
+        },
+        {
+          "name": "Diplôme d'Etudes approfondies",
+          "fields": [
+            "Banking",
+            "Law",
+            "Private Law",
+            "Public Law"
+          ]
+        },
+        {
+          "name": "Magistère",
+          "fields": [
+            "Arabic",
+            "Education",
+            "History",
+            "Islamic Studies",
+            "Philosophy"
+          ]
+        },
+        {
+          "name": "Diplôme de Spécialité",
+          "fields": [
+            "Anaesthesiology",
+            "Anatomy",
+            "Cardiology",
+            "Child Care and Development",
+            "Dermatology",
+            "Endocrinology",
+            "Gastroenterology",
+            "Genetics",
+            "Medical Technology",
+            "Medicine",
+            "Nephrology",
+            "Neurological Therapy",
+            "Neurology",
+            "Obstetrics and Gynaecology",
+            "Oncology",
+            "Ophthalmology",
+            "Orthopaedics",
+            "Otorhinolaryngology",
+            "Paediatrics",
+            "Pathology",
+            "Plastic Surgery",
+            "Pneumology",
+            "Psychiatry and Mental Health",
+            "Radiology",
+            "Rheumatology",
+            "Surgery",
+            "Urology"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Actuarial Science",
+            "Advertising and Publicity",
+            "Anthropology",
+            "Archaeology",
+            "Banking",
+            "Biochemistry",
+            "Bioengineering",
+            "Biology",
+            "Business Administration",
+            "Business Computing",
+            "Cinema and Television",
+            "Clinical Psychology",
+            "Communication Studies",
+            "Computer Networks",
+            "Contemporary History",
+            "Cultural Studies",
+            "Dental Technology",
+            "Dentistry",
+            "Economic and Finance Policy",
+            "Economics",
+            "Education",
+            "Educational Administration",
+            "Educational Sciences",
+            "Electrical Engineering",
+            "Family Studies",
+            "Film",
+            "Finance",
+            "Food Technology",
+            "French",
+            "Genetics",
+            "Health Administration",
+            "Health Sciences",
+            "Hotel Management",
+            "Human Resources",
+            "Industrial Engineering",
+            "Information Sciences",
+            "Information Technology",
+            "Insurance",
+            "International Relations and Diplomacy",
+            "Labour and Industrial Relations",
+            "Literature",
+            "Management",
+            "Marketing",
+            "Mathematics and Computer Science",
+            "Measurement and Precision Engineering",
+            "Mediterranean Studies",
+            "Microbiology",
+            "Nursing",
+            "Nutrition",
+            "Obstetrics and Gynaecology",
+            "Occupational Therapy",
+            "Oral Pathology",
+            "Orthodontics",
+            "Orthopaedics",
+            "Paediatrics",
+            "Peace and Disarmament",
+            "Pedagogy",
+            "Pharmacology",
+            "Philosophy",
+            "Physical Therapy",
+            "Physiology",
+            "Political Sciences",
+            "Preschool Education",
+            "Primary Education",
+            "Psychology",
+            "Regional Planning",
+            "Rehabilitation and Therapy",
+            "Religious Studies",
+            "Social Problems",
+            "Sociology",
+            "Soil Science",
+            "Sound Engineering (Acoustics)",
+            "Telecommunications Engineering",
+            "Theatre",
+            "Tourism",
+            "Toxicology",
+            "Translation and Interpretation",
+            "Water Science"
+          ]
+        },
+        {
+          "name": "Doctorate",
+          "fields": [
+            "Anthropology",
+            "Arabic",
+            "Archaeology",
+            "Biological and Life Sciences",
+            "Chemistry",
+            "Civil Engineering",
+            "Education",
+            "Educational Sciences",
+            "Electrical Engineering",
+            "French",
+            "Geography",
+            "Health Sciences",
+            "History",
+            "Islamic Studies",
+            "Law",
+            "Literature",
+            "Mathematics",
+            "Medicine",
+            "Modern Languages",
+            "Philosophy",
+            "Physics",
+            "Psychology",
+            "Sociology",
+            "Theatre"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "François Boëdec s.j."
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Fadi Geara"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Toufic Rizk"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Carla Eddé"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1875 by the Society of Jesus. Title of University confirmed by Pope Leo XIII 1881. Faculty of Medicine established 1883 by agreement with French Government. A private institution. Received some financial assistance from the French State until 1975 when the University became an autonomous institution financed by tuition fees and government subsidies. University Regional Centres at: Ras Maska (North Lebanon), Zahlé/Hazerta (Bekaa) and Saïda-Bramieh (South Lebanon). University Foreign Centres in Abudhabi (United Arab Emirates)",
+      "periodicals": [
+        "ACES - Actualités cliniques et scientifiques Al-bayanat al-massihyia al-islamyia al mouchtaraka Annales d'histoire - Tempora Annales de Géographie - Géosphères Annales de l'Institut de langues et de traduction - Al-Kimiya Annales de l'Institut de lettres orientales Annales de la Faculté de droit Annales de lettres françaises- Acanthe Annales de philosophie - Iris Annales de psychologie et des sciences de l'éducation - Psy-écho Annales de sociologie et d'anthropologie - Communautés et sociétés Annuaire de l'Université de St.-Joseph Attalkih al-istinahi al-moutajanes wa ghair al-moutajanes Bulletin annuel de la Faculté de médecine Bulletin intérieur de l'Institut libanais d'éducateurs CEMAM  Reports Chroniques politiques Chroniques sociales Chronologies du CEMAM Conférences de l'ALDEC Déclarations communes islamo-chrétiennes Enseignement continu post-universitaire Etudes de droit libanais Fondements théologiques du dialogue islamo-chrétien Hommes et sociétés du Proche-Orient - Nouvelle série Journées d'études post-universitaires L'Orient des dieux La revue de l'Institut libanais d'éducateurs Livret Thèses et mémoires soutenus à l'Institut de lettres orientales(1968-2002) Mélanges de l'Université Saint-Joseph Méthode rhétorique et herméneutique Proche-Orient chrétien Proche-Orient Etudes économiques Proche-Orient Etudes en management Proche-Orient Etudes juridiques Publications techniques et scientifiques de l'ESIB Questions de bioéthique au regard de l'Islam et du Christianisme - Conférence à deux voix Regards Rôle culturel des chrétiens dans le monde arabe- Cahiers de l'Orient chrétien Tahadyiat attafahum lilmoutabadal Travaux et Jours",
+        "ACES - Actualités cliniques et scientifiques",
+        "Al-bayanat al-massihyia al-islamyia al mouchtaraka",
+        "Annales d'histoire - Tempora",
+        "Annales de Géographie - Géosphères",
+        "Annales de l'Institut de langues et de traduction - Al-Kimiya",
+        "Annales de l'Institut de lettres orientales",
+        "Annales de la Faculté de droit",
+        "Annales de lettres françaises- Acanthe",
+        "Annales de philosophie - Iris",
+        "Annales de psychologie et des sciences de l'éducation - Psy-écho",
+        "Annales de sociologie et d'anthropologie - Communautés et sociétés",
+        "Annuaire de l'Université de St.-Joseph",
+        "Attalkih al-istinahi al-moutajanes wa ghair al-moutajanes",
+        "Bulletin annuel de la Faculté de médecine",
+        "Bulletin intérieur de l'Institut libanais d'éducateurs",
+        "CEMAM  Reports",
+        "Chroniques politiques",
+        "Chroniques sociales",
+        "Chronologies du CEMAM",
+        "Conférences de l'ALDEC",
+        "Déclarations communes islamo-chrétiennes",
+        "Enseignement continu post-universitaire",
+        "Etudes de droit libanais",
+        "Fondements théologiques du dialogue islamo-chrétien",
+        "Hommes et sociétés du Proche-Orient - Nouvelle série",
+        "Journées d'études post-universitaires",
+        "L'Orient des dieux",
+        "La revue de l'Institut libanais d'éducateurs",
+        "Livret Thèses et mémoires soutenus à l'Institut de lettres orientales(1968-2002)",
+        "Mélanges de l'Université Saint-Joseph",
+        "Méthode rhétorique et herméneutique",
+        "Proche-Orient chrétien",
+        "Proche-Orient Etudes économiques",
+        "Proche-Orient Etudes en management",
+        "Proche-Orient Etudes juridiques",
+        "Publications techniques et scientifiques de l'ESIB",
+        "Questions de bioéthique au regard de l'Islam et du Christianisme - Conférence à deux voix",
+        "Regards",
+        "Rôle culturel des chrétiens dans le monde arabe- Cahiers de l'Orient chrétien",
+        "Tahadyiat attafahum lilmoutabadal",
+        "Travaux et Jours"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "7537",
+      "iau_id": "IAU-007537",
+      "name": "Holy Family University - Batroon",
+      "alt_name": "Université Sainte Famille - Batroun (USF)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tUzRTLVBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007537",
+      "address": {
+        "Street": "P.O. Box 100",
+        "City": "Tripoli",
+        "Province": "Abou Samra",
+        "WWW": "http://www.balamand.edu.lb"
+      },
+      "website": "http://www.balamand.edu.lb",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1936,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "October to August (October-February; February-June;July-August)",
+      "languages": [
+        "English",
+        "French",
+        "Arabic",
+        "Greek"
+      ],
+      "faculties": [
+        {
+          "name": "Academy : Fine Arts",
+          "fields": [
+            "Advertising and Publicity",
+            "Architecture",
+            "Cinema and Television",
+            "Fine Arts",
+            "Graphic Design",
+            "Interior Design",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "Centre : Christian and Muslim Studies",
+          "fields": [
+            "Christian Religious Studies",
+            "Islamic Studies"
+          ]
+        },
+        {
+          "name": "Centre : Computer",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Centre : Engineering and Environmental Studies",
+          "fields": [
+            "Engineering",
+            "Environmental Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Arts and Sciences",
+          "fields": [
+            "Arabic",
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Cultural Studies",
+            "Education",
+            "English",
+            "English Studies",
+            "Environmental Studies",
+            "French",
+            "French Studies",
+            "History",
+            "Mass Communication",
+            "Mathematics",
+            "Philosophy",
+            "Physical Education",
+            "Physics",
+            "Political Sciences",
+            "Psychology",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Faculty : Business and Management",
+          "fields": [
+            "Business Administration",
+            "Business and Commerce",
+            "Economics",
+            "Hotel Management",
+            "Management",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Aeronautical and Aerospace Engineering",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Electrical Engineering",
+            "Engineering",
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences",
+          "fields": [
+            "Health Education",
+            "Health Sciences",
+            "Laboratory Techniques",
+            "Nursing",
+            "Public Health"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine and Medical Sciences",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Faculty : Postgraduate Medical Education",
+          "fields": [
+            "Anaesthesiology",
+            "Cardiology",
+            "Gastroenterology",
+            "Medicine",
+            "Obstetrics and Gynaecology",
+            "Oncology",
+            "Orthopaedics",
+            "Paediatrics",
+            "Pneumology",
+            "Radiology",
+            "Surgery",
+            "Urology"
+          ]
+        },
+        {
+          "name": "Faculty : Science",
+          "fields": [
+            "Computer Science",
+            "Mathematics",
+            "Natural Sciences",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Institute : Technology",
+          "fields": [
+            "Agricultural Engineering",
+            "Business Administration",
+            "Civil Engineering",
+            "Computer Networks",
+            "Construction Engineering",
+            "Electronic Engineering",
+            "Food Science",
+            "Maintenance Technology",
+            "Management",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Institute : Theology",
+          "fields": [
+            "Theology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diplôme d'Université",
+          "fields": [
+            "Library Science",
+            "Nutrition",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Aeronautical and Aerospace Engineering",
+            "Agricultural Engineering",
+            "Animal Husbandry",
+            "Arabic",
+            "Architecture",
+            "Banking",
+            "Biology",
+            "Business Administration",
+            "Chemical Engineering",
+            "Chemistry",
+            "Cinema and Television",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Graphics",
+            "Computer Networks",
+            "Construction Engineering",
+            "Crop Production",
+            "Design",
+            "Dietetics",
+            "Economics",
+            "Education",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "English",
+            "Environmental Studies",
+            "Finance",
+            "Food Science",
+            "Food Technology",
+            "French",
+            "Graphic Design",
+            "Health Sciences",
+            "History",
+            "Hotel Management",
+            "Information Sciences",
+            "Information Technology",
+            "Interior Design",
+            "International Relations and Diplomacy",
+            "Journalism",
+            "Laboratory Techniques",
+            "Library Science",
+            "Literature",
+            "Maintenance Technology",
+            "Management",
+            "Marketing",
+            "Mass Communication",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Media Studies",
+            "Nursing",
+            "Nutrition",
+            "Philosophy",
+            "Physical Education",
+            "Physics",
+            "Political Sciences",
+            "Psychology",
+            "Public Health",
+            "Radio and Television Broadcasting",
+            "Software Engineering",
+            "Telecommunications Engineering",
+            "Theology",
+            "Tourism",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Licence",
+          "fields": [
+            "Advertising and Publicity",
+            "Architecture",
+            "Cinema and Television",
+            "Computer Graphics",
+            "Fashion Design",
+            "Graphic Design",
+            "Industrial Design",
+            "Interior Design",
+            "Landscape Architecture",
+            "Media Studies",
+            "Multimedia",
+            "Painting and Drawing",
+            "Photography",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Professional Doctorate",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Teaching Diploma",
+          "fields": [
+            "Art Education",
+            "Business Education",
+            "Computer Education",
+            "Foreign Languages Education",
+            "Humanities and Social Science Education",
+            "Mathematics Education",
+            "Native Language Education",
+            "Physical Education",
+            "Science Education"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Accountancy",
+            "Advertising and Publicity",
+            "Aeronautical and Aerospace Engineering",
+            "Air Transport",
+            "Arabic",
+            "Architecture",
+            "Artificial Intelligence",
+            "Behavioural Sciences",
+            "Biology",
+            "Biomedical Engineering",
+            "Biomedicine",
+            "Business Administration",
+            "Chemistry",
+            "Christian Religious Studies",
+            "Cinema and Television",
+            "Civil Engineering",
+            "Clinical Psychology",
+            "Cognitive Sciences",
+            "Computer Engineering",
+            "Computer Graphics",
+            "Computer Networks",
+            "Construction Engineering",
+            "Curriculum",
+            "Design",
+            "Economics",
+            "Educational Administration",
+            "Educational Psychology",
+            "Educational Technology",
+            "Electronic Engineering",
+            "Electronics and Automation",
+            "Engineering Management",
+            "English",
+            "Environmental Engineering",
+            "Environmental Studies",
+            "Finance",
+            "Food Science",
+            "Food Technology",
+            "Foreign Languages Education",
+            "French",
+            "Graphic Design",
+            "Health Administration",
+            "History",
+            "Human Resources",
+            "Hydraulic Engineering",
+            "Immunology",
+            "Industrial Engineering",
+            "Information Management",
+            "Information Sciences",
+            "Information Technology",
+            "Interior Design",
+            "International Relations and Diplomacy",
+            "Laboratory Techniques",
+            "Landscape Architecture",
+            "Library Science",
+            "Literature",
+            "Marine Engineering",
+            "Mass Communication",
+            "Materials Engineering",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Media Studies",
+            "Microbiology",
+            "Molecular Biology",
+            "Multimedia",
+            "Museum Studies",
+            "Nursing",
+            "Petroleum and Gas Engineering",
+            "Philosophy",
+            "Photography",
+            "Physical Education",
+            "Physics",
+            "Political Sciences",
+            "Power Engineering",
+            "Public Health",
+            "Religious Studies",
+            "Robotics",
+            "Software Engineering",
+            "Sports Management",
+            "Telecommunications Engineering",
+            "Theology",
+            "Thermal Engineering",
+            "Town Planning",
+            "Translation and Interpretation",
+            "Transport Engineering",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Doctorate",
+          "fields": [
+            "Theology"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education; Accreditation, Certification, and Quality Assurance Institute (ACQUIN), Germany",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Elias Warrak"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Georges Bahr"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Rami Abboud"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2025-2026",
+        "Students Total:": "5600",
+        "Students Foreign Total:": "550"
+      },
+      "history": "Founded 1936. Acquired present title and status 1988",
+      "periodicals": [
+        "Al-Markab Annals of the Faculty of Arts and Social Sciences Chronos",
+        "Al-Markab",
+        "Annals of the Faculty of Arts and Social Sciences",
+        "Chronos"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "27415",
+      "iau_id": "IAU-027415",
+      "name": "International University of Beirut",
+      "alt_name": "(BIU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzxULDM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-027415",
+      "address": {
+        "Street": "P.O.Box 17Youssef El Hani Street, Gemayzeh",
+        "City": "Beirut",
+        "Post Code": "5227",
+        "WWW": "https://www.aunohr.edu.lb"
+      },
+      "website": "https://www.aunohr.edu.lb",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2014,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Nonviolence and Human Rights",
+          "fields": [
+            "Civics",
+            "Education",
+            "Human Rights",
+            "Peace and Disarmament",
+            "Social and Community Services"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Civics",
+            "Human Rights",
+            "Mass Communication",
+            "Media Studies",
+            "Peace and Disarmament",
+            "Philosophy",
+            "Social and Community Services"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Civics",
+            "Human Rights",
+            "Mass Communication",
+            "Media Studies",
+            "Peace and Disarmament",
+            "Philosophy",
+            "Social and Community Services"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education: Ministerial Decree No. 487 - 04.09.2014 and Ministerial License to proceed for academic activities No. 714 / M / 2015 dated 18.08.2015",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Elham Kallab"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Hussain Shaban"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2014 at the initiative of Drs. Walid Slaybi and Ogarit Younan, AUNOHR is founded on the pillars of non-violent pedagogy, both in form and content. Received ministerial license 2015. AUNOHR has signed a protocol with the Lebanese University (Al Jamiat Al-Lubnaniya) allowing it to use certain parts of its buildings. AUNOHR is also building a major university campus worthy of the concept of non-violence and will be the first university campus to provide non-violent majors in Lebanon and the Arab world",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "9844",
+      "iau_id": "IAU-009844",
+      "name": "Jinan University",
+      "alt_name": "Jamiat al-jinan – . (JU)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uM0BULWBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009844",
+      "address": {
+        "Street": "Badaro CampusP.O. Box 14-5840 Mazraa",
+        "City": "Beirut",
+        "Post Code": "11052070",
+        "WWW": "https://auce.edu.lb"
+      },
+      "website": "https://auce.edu.lb",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1983,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Academy : Hospitality",
+          "fields": [
+            "Cooking and Catering",
+            "Hotel Management",
+            "Human Resources",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Course/Programme : Freshman Studies",
+          "fields": [
+            "Arts and Humanities",
+            "Behavioural Sciences",
+            "English",
+            "Health Sciences",
+            "History",
+            "Mathematics",
+            "Natural Sciences",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Course/Programme : MBA",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Faculty : Arts and Science",
+          "fields": [
+            "Computer Science",
+            "English",
+            "Literature",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Faculty : Business",
+          "fields": [
+            "Accountancy",
+            "Advertising and Publicity",
+            "Banking",
+            "Business Administration",
+            "Finance",
+            "Human Resources",
+            "Information Management",
+            "Marketing",
+            "Tourism",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Faculty : Fine Arts",
+          "fields": [
+            "Fine Arts",
+            "Graphic Design",
+            "Interior Design"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Advertising and Publicity",
+            "Banking",
+            "Business Administration",
+            "Communication Studies",
+            "Computer Science",
+            "Economics",
+            "English",
+            "Finance",
+            "Fine Arts",
+            "Foreign Languages Education",
+            "Graphic Design",
+            "Hotel and Restaurant",
+            "Human Resources",
+            "Information Management",
+            "Interior Design",
+            "International Business",
+            "Marketing",
+            "Tourism",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Business Administration",
+            "Computer Science"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Abdel Salam Amin Nabulsi"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Hani Haidoura"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1983 as C&E College. Acquired present status and title 2000",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "10886",
+      "iau_id": "IAU-010886",
+      "name": "Lebanese American University",
+      "alt_name": "(LAU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM2BYLiM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-010886",
+      "address": {
+        "Street": "Ave. Alfred NaccacheAshrafieh",
+        "City": "Beirut",
+        "WWW": "http://www.aust.edu.lb"
+      },
+      "website": "http://www.aust.edu.lb",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1994,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English",
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Arts and Science",
+          "fields": [
+            "Arts and Humanities",
+            "Biomedical Engineering",
+            "Communication Arts",
+            "Computer Engineering",
+            "Computer Science",
+            "Fine Arts",
+            "Graphic Design",
+            "Interior Design",
+            "Mathematics",
+            "Molecular Biology",
+            "Social Sciences",
+            "Toxicology",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Faculty : Business and Economics",
+          "fields": [
+            "Accountancy",
+            "Advertising and Publicity",
+            "Business Administration",
+            "Finance",
+            "Management",
+            "Marketing",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Biomedical Engineering",
+            "Computer Engineering",
+            "Electronic Engineering",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences",
+          "fields": [
+            "Medical Technology",
+            "Molecular Biology",
+            "Optics",
+            "Optometry",
+            "Toxicology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Advertising and Publicity",
+            "Banking",
+            "Biomedical Engineering",
+            "Business Administration",
+            "Communication Arts",
+            "Computer Engineering",
+            "Computer Science",
+            "Economics",
+            "Electronic Engineering",
+            "Engineering",
+            "English",
+            "Fashion Design",
+            "Finance",
+            "Fine Arts",
+            "Food Science",
+            "Forensic Medicine and Dentistry",
+            "Graphic Design",
+            "Hotel and Restaurant",
+            "Human Resources",
+            "Information Management",
+            "Information Technology",
+            "Interior Design",
+            "International Business",
+            "International Relations and Diplomacy",
+            "Journalism",
+            "Laboratory Techniques",
+            "Management",
+            "Marketing",
+            "Mass Communication",
+            "Medical Technology",
+            "Nursing",
+            "Nutrition",
+            "Optics",
+            "Pharmacy",
+            "Public Relations",
+            "Radio and Television Broadcasting",
+            "Radiology",
+            "Telecommunications Engineering",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Teaching Diploma",
+          "fields": [
+            "Business Education",
+            "Computer Education",
+            "Foreign Languages Education",
+            "Humanities and Social Science Education",
+            "Mathematics Education",
+            "Native Language Education",
+            "Science Education"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Accountancy",
+            "Art Management",
+            "Biomedical Engineering",
+            "Biotechnology",
+            "Business Administration",
+            "Communication Arts",
+            "Computer Engineering",
+            "Computer Science",
+            "Design",
+            "Economics",
+            "Electronic Engineering",
+            "Finance",
+            "Human Resources",
+            "Information Management",
+            "Information Technology",
+            "Insurance",
+            "Management",
+            "Marketing",
+            "Optics",
+            "Optometry",
+            "Telecommunications Engineering",
+            "Toxicology"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education; Evalag (Evaluation Agency Baden-Württemberg, Germany)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Hiam Sakr"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Nabeel Haidar"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2019-2020",
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "5513",
+        "Students Foreign Total:": "580"
+      },
+      "history": "Founded 1994 as the American Universal College. Acquired present title and status 2007",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "19755",
+      "iau_id": "IAU-019755",
+      "name": "Lebanese Canadian University",
+      "alt_name": "Université Libano-Canadienne (LCU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RXLTM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019755",
+      "address": {
+        "Street": "P.O. Box 20Byblos Highway",
+        "City": "Halat-Fidar",
+        "Province": "Mount Lebanon",
+        "WWW": "http://aut.edu"
+      },
+      "website": "http://aut.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2000,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "October to June",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Applied Sciences",
+          "fields": [
+            "Business Computing",
+            "Computer Science",
+            "Information Technology",
+            "Nutrition",
+            "Water Management"
+          ]
+        },
+        {
+          "name": "Faculty : Arts and Humanities",
+          "fields": [
+            "Communication Arts",
+            "Graphic Design",
+            "Interior Design",
+            "Public Relations",
+            "Radio and Television Broadcasting"
+          ]
+        },
+        {
+          "name": "Faculty : Business Administration",
+          "fields": [
+            "Accountancy",
+            "Advertising and Publicity",
+            "Banking",
+            "Business Administration",
+            "Economics",
+            "Finance",
+            "Hotel Management",
+            "Human Resources",
+            "Management",
+            "Marketing",
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Advertising and Publicity",
+            "Business Administration",
+            "Cinema and Television",
+            "Communication Studies",
+            "Computer Science",
+            "Dietetics",
+            "Economics",
+            "English",
+            "Environmental Studies",
+            "Finance",
+            "Graphic Design",
+            "Hotel and Restaurant",
+            "Information Management",
+            "Information Technology",
+            "Interior Design",
+            "Journalism",
+            "Literature",
+            "Management",
+            "Marketing",
+            "Natural Resources",
+            "Nutrition",
+            "Public Health",
+            "Public Relations",
+            "Translation and Interpretation",
+            "Transport Management",
+            "Water Science"
+          ]
+        },
+        {
+          "name": "Teaching Diploma",
+          "fields": [
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Communication Studies",
+            "Computer Science",
+            "Finance",
+            "Hotel and Restaurant",
+            "Information Management",
+            "Information Technology",
+            "Marketing"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ghada Sakr Hinain"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Marcel Hinain"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Michel Najjar"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2000",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "10889",
+      "iau_id": "IAU-010889",
+      "name": "Lebanese German University",
+      "alt_name": "(LGU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM2BYLiNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-010889",
+      "address": {
+        "Street": "Cola",
+        "City": "Beirut",
+        "WWW": "http://www.aul.edu.lb"
+      },
+      "website": "http://www.aul.edu.lb",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2000,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English",
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Business Administration",
+          "fields": [
+            "Accountancy",
+            "Advertising and Publicity",
+            "Banking",
+            "Business Administration",
+            "Finance",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Computer Engineering",
+            "Electronic Engineering",
+            "Mechanical Engineering",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Humanities",
+          "fields": [
+            "Anthropology",
+            "Communication Studies",
+            "Literature",
+            "Performing Arts",
+            "Religious Studies",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Faculty : Science and Fine Arts",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Environmental Studies",
+            "Graphic Design",
+            "Interior Design",
+            "Mathematics",
+            "Physics",
+            "Statistics"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Actuarial Science",
+            "Advertising and Publicity",
+            "Banking",
+            "Biology",
+            "Business Administration",
+            "Chemistry",
+            "Computer Engineering",
+            "Computer Science",
+            "English",
+            "Finance",
+            "Graphic Design",
+            "Hotel and Restaurant",
+            "Human Resources",
+            "Information Management",
+            "Interior Design",
+            "Journalism",
+            "Literature",
+            "Management",
+            "Marketing",
+            "Mathematics",
+            "Physics",
+            "Radio and Television Broadcasting",
+            "Statistics",
+            "Telecommunications Engineering",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Teaching Diploma",
+          "fields": [
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Computer Engineering",
+            "Computer Science",
+            "Electronic Engineering",
+            "Mechanical Engineering",
+            "Telecommunications Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Adnan Hamzeh"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2000 as Institute of Management and University Computer Science. Acquired present title and status 2007",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "10888",
+      "iau_id": "IAU-010888",
+      "name": "Lebanese International University",
+      "alt_name": "(LIU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM2BYLiNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-010888",
+      "address": {
+        "Street": "P.O. Box 14 6236Ibn Rushd Street, South of Dar Al Fatwa",
+        "City": "Beirut",
+        "WWW": "http://www.biu.edu.lb"
+      },
+      "website": "http://www.biu.edu.lb",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1982,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Islamic Sharia",
+          "fields": [
+            "Islamic Law",
+            "Islamic Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Comparative Law",
+            "Islamic Law",
+            "Law"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Islamic Law"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Comparative Law",
+            "Islamic Law",
+            "Islamic Studies",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Doctorate",
+          "fields": [
+            "Comparative Law",
+            "Islamic Studies",
+            "Law"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Anas Tabbarah"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Ali Hassan Al-Tawil"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1982 as College of the Islamic Call. Acquired present status and title 1996",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "27421",
+      "iau_id": "IAU-027421",
+      "name": "Lebanese Red Cross University Institute for Nursing Sciences",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzxULEMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-027421",
+      "address": {
+        "Street": "Muhieddine Makkouk Blvd.Abou Samra",
+        "City": "Tripoli",
+        "Province": "Abou Samra",
+        "WWW": "https://cityu.edu.lb"
+      },
+      "website": "https://cityu.edu.lb",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1990,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English",
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "Academy : Cisco Networking",
+          "fields": [
+            "English"
+          ]
+        },
+        {
+          "name": "Course/Programme : Freshman",
+          "fields": [
+            "English"
+          ]
+        },
+        {
+          "name": "Course/Programme : Intensive English",
+          "fields": [
+            "English"
+          ]
+        },
+        {
+          "name": "Course/Programme : Travel and Tourism Extension (IATA)",
+          "fields": [
+            "Architecture",
+            "Fine Arts",
+            "Furniture Design",
+            "Graphic Design",
+            "Industrial Design",
+            "Interior Design",
+            "Photography"
+          ]
+        },
+        {
+          "name": "Faculty : Architecture and Design",
+          "fields": [
+            "Architecture",
+            "Fine Arts",
+            "Furniture Design",
+            "Graphic Design",
+            "Industrial Design",
+            "Interior Design",
+            "Photography"
+          ]
+        },
+        {
+          "name": "Faculty : Arts and Human Sciences",
+          "fields": [
+            "Arabic",
+            "English",
+            "French",
+            "Literature",
+            "Philosophy",
+            "Primary Education",
+            "Psychology",
+            "Sociology",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Faculty : Business Administration",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Economics",
+            "Finance",
+            "Information Management",
+            "Management",
+            "Marketing",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering and Information Technology",
+          "fields": [
+            "Biomedical Engineering",
+            "Computer Engineering",
+            "Computer Networks",
+            "Computer Science",
+            "Electronic Engineering",
+            "Industrial Engineering",
+            "Information Technology",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Maritime Studies",
+          "fields": [
+            "Marine Transport"
+          ]
+        },
+        {
+          "name": "Faculty : Public Health",
+          "fields": [
+            "Nursing",
+            "Nutrition",
+            "Public Health",
+            "Speech Therapy and Audiology"
+          ]
+        },
+        {
+          "name": "Faculty : Tourism",
+          "fields": [
+            "Hotel Management",
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Agricultural Engineering",
+            "Arabic",
+            "Architecture",
+            "Biomedical Engineering",
+            "Business Computing",
+            "Civil Engineering",
+            "Computer Science",
+            "Economics",
+            "Education",
+            "Electronic Engineering",
+            "Engineering",
+            "English",
+            "Finance",
+            "Fine Arts",
+            "French",
+            "Industrial Engineering",
+            "Information Technology",
+            "Management",
+            "Marine Engineering",
+            "Marine Transport",
+            "Marketing",
+            "Nursing",
+            "Occupational Health",
+            "Petroleum and Gas Engineering",
+            "Philosophy",
+            "Psychology",
+            "Sociology",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Business Administration"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Edgard Rizk"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Ranim El Sayed El Sayed"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Arwa Haddad Helou"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "662"
+      },
+      "history": "Founded 1990 as Al-Manar University of Tripoli (Jamiat al-manar), courses started 2003",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "752",
+      "iau_id": "IAU-000752",
+      "name": "Lebanese University",
+      "alt_name": "Al Jamiat Al-Lubnaniya – Université Libanaise (UL)",
+      "detail_url": "https://whed.net/detail_institution.php?Jjo2MF0tUzRSCmAK",
+      "iau_link": "https://www.whed.net/institutions/IAU-000752",
+      "address": {
+        "Street": "289, rue ClemenceauP.O. Box 113-7318",
+        "City": "Beirut",
+        "WWW": "http://www.esa.edu.lb"
+      },
+      "website": "http://www.esa.edu.lb",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1996,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Business Administration",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Course/Programme : Executive MBA",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Course/Programme : Innovation and Entrepreneurship",
+          "fields": [
+            "Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : International Management (Graduate)",
+          "fields": [
+            "International Business",
+            "Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : MBA",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Course/Programme : Specialized Masters",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Department/Division : Grande Ecole Programmes",
+          "fields": [
+            "Business Administration"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Business Administration",
+            "Communication Studies",
+            "International Business",
+            "International Relations and Diplomacy",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Doctorate",
+          "fields": [
+            "Business Administration"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Maxence Duault"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Jacqueline Hacher"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Raji El Khoury"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "450"
+      },
+      "history": "Founded 1996 by the French and Lebanese Governments. Instituted by Decree no 9033",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "24834",
+      "iau_id": "IAU-024834",
+      "name": "Lebanese-French University of Technology and Applied Sciences",
+      "alt_name": "Université de Technologie et de Sciences Appliquées Libano-Française (ULF)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBYLFMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024834",
+      "address": {
+        "Street": "Batrakieh Street",
+        "City": "Beirut",
+        "Post Code": "15-5085",
+        "WWW": "http://www.gu.edu.lb"
+      },
+      "website": "http://www.gu.edu.lb",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1992,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "October to September (autumn semester, 4 months, spring semester, 4 months, summer semester, 2 months)",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Administrative Sciences",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Computer Science",
+            "Finance",
+            "Health Administration",
+            "Human Resources",
+            "Information Management",
+            "Information Sciences",
+            "Information Technology",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences",
+          "fields": [
+            "Dietetics",
+            "Health Sciences",
+            "Laboratory Techniques",
+            "Midwifery",
+            "Nursing",
+            "Nutrition",
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "Faculty : Literature and Humanities",
+          "fields": [
+            "Arabic",
+            "Communication Studies",
+            "Education",
+            "English",
+            "French",
+            "Geography",
+            "History",
+            "Islamic Studies",
+            "Linguistics",
+            "Literature",
+            "Media Studies",
+            "Political Sciences",
+            "Translation and Interpretation"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Arabic",
+            "Computer Science",
+            "Dietetics",
+            "Education",
+            "Health Administration",
+            "Human Resources",
+            "Information Management",
+            "Information Technology",
+            "Islamic Studies",
+            "Laboratory Techniques",
+            "Literature",
+            "Management",
+            "Marketing",
+            "Nursing",
+            "Nutrition",
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "Teaching Diploma",
+          "fields": [
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Arabic",
+            "Business Administration",
+            "Education",
+            "Islamic Studies",
+            "Literature"
+          ]
+        }
+      ],
+      "accreditation": "Association of Arab Universities (AARU); Ministry of Higher Education of Lebanon",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Adnan Traboulsi"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Ghaleb El Araissi"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Ahmad Shatila"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1992. Acquired current status and title 1999",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "9845",
+      "iau_id": "IAU-009845",
+      "name": "Makassed University of Beirut",
+      "alt_name": "Jamiat al-Makassed (MUB)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uM0BULTBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009845",
+      "address": {
+        "Street": "P.O. Box: 11-1748Riad el Solh",
+        "City": "Beirut",
+        "Post Code": "1107 2090",
+        "WWW": "http://www.haigazian.edu.lb"
+      },
+      "website": "http://www.haigazian.edu.lb",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1955,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "October to June (October-February; February-June)",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Business Administration and Economics",
+          "fields": [
+            "Accountancy",
+            "Advertising and Publicity",
+            "Business Administration",
+            "Economics",
+            "Finance",
+            "Hotel Management",
+            "Law",
+            "Management Systems"
+          ]
+        },
+        {
+          "name": "School : Arts and Sciences",
+          "fields": [
+            "Arts and Humanities",
+            "Behavioural Sciences",
+            "Mathematics",
+            "Natural Sciences",
+            "Social Sciences"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Advertising and Publicity",
+            "Arabic",
+            "Armenian",
+            "Biology",
+            "Business Administration",
+            "Chemistry",
+            "Communication Studies",
+            "Computer Science",
+            "Dietetics",
+            "Economics",
+            "Education",
+            "English",
+            "Finance",
+            "History",
+            "Hotel and Restaurant",
+            "Human Resources",
+            "Information Management",
+            "Laboratory Techniques",
+            "Literature",
+            "Mathematics",
+            "Music",
+            "Nutrition",
+            "Physics",
+            "Political Sciences",
+            "Preschool Education",
+            "Primary Education",
+            "Psychology",
+            "Social Work",
+            "Special Education"
+          ]
+        },
+        {
+          "name": "Teaching Diploma",
+          "fields": [
+            "Special Education",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Education",
+            "Finance",
+            "Human Resources",
+            "Management",
+            "Marketing",
+            "Psychology"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Paul Haidostian"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Tamar Keshishian"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "600"
+      },
+      "history": "Founded 1955, acquired present status 1996",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "10589",
+      "iau_id": "IAU-010589",
+      "name": "Middle East University",
+      "alt_name": "Kulliat Al-Sharq al-Awsat (MEU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM2BVLiNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-010589",
+      "address": {
+        "Street": "Rue HadadyPO Box 4001",
+        "City": "Batroon",
+        "Province": "Norht Lebanon",
+        "Post Code": "4001",
+        "WWW": "http://www.usf.edu.lb"
+      },
+      "website": "http://www.usf.edu.lb",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2009,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "October to July",
+      "languages": [
+        "French",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Business and Management",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Computing",
+            "Finance",
+            "Insurance",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Education and Specialized Education",
+          "fields": [
+            "Education",
+            "Educational Administration",
+            "Pedagogy",
+            "Special Education",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Faculty : Health",
+          "fields": [
+            "Laboratory Techniques",
+            "Medical Auxiliaries",
+            "Medical Technology",
+            "Midwifery",
+            "Nursing",
+            "Physical Therapy"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Pedagogy",
+            "Special Education"
+          ]
+        },
+        {
+          "name": "Teaching Diploma",
+          "fields": [
+            "Civics",
+            "Computer Education",
+            "Education",
+            "Foreign Languages Education",
+            "Higher Education Teacher Training",
+            "Humanities and Social Science Education",
+            "Mathematics Education",
+            "Science Education"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Education",
+            "Educational Administration",
+            "Pedagogy"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Hilda Chelala"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Maha Nehme"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Micheline Frem"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Josiane Abi Khattar"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2009",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "13876",
+      "iau_id": "IAU-013876",
+      "name": "Rafik Hariri University",
+      "alt_name": "(RHU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyxYLVM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-013876",
+      "address": {
+        "Street": "P.O. 146404Mouseitbeh Mazraa",
+        "City": "Beirut",
+        "WWW": "http://b-iu.edu.lb"
+      },
+      "website": "http://b-iu.edu.lb",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2012,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "School : Arts",
+          "fields": [
+            "Fine Arts",
+            "Information Sciences"
+          ]
+        },
+        {
+          "name": "School : Business",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "School : Education",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "School : Engineering",
+          "fields": [
+            "Engineering"
+          ]
+        },
+        {
+          "name": "School : Literature and Sciences",
+          "fields": [
+            "Arts and Humanities",
+            "Mathematics and Computer Science",
+            "Natural Sciences"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Advertising and Publicity",
+            "Banking",
+            "Biomedical Engineering",
+            "Business Administration",
+            "Communication Arts",
+            "Computer Engineering",
+            "Computer Science",
+            "Economics",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "English",
+            "Finance",
+            "Foreign Languages Education",
+            "Graphic Design",
+            "Hotel and Restaurant",
+            "Industrial Engineering",
+            "Information Management",
+            "Information Technology",
+            "Interior Design",
+            "International Business",
+            "Journalism",
+            "Literature",
+            "Management",
+            "Marketing",
+            "Mathematics",
+            "Mathematics Education",
+            "Mechanical Engineering",
+            "Physics",
+            "Preschool Education",
+            "Public Relations",
+            "Radio and Television Broadcasting",
+            "Science Education",
+            "Surveying and Mapping",
+            "Telecommunications Engineering",
+            "Tourism",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Teaching Diploma",
+          "fields": [
+            "Teacher Training"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ali Tarabay"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2012",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "19750",
+      "iau_id": "IAU-019750",
+      "name": "Sagesse University",
+      "alt_name": "Université La Sagesse – Jamiat Al-Hikmat (ULS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RXLTNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019750",
+      "address": {
+        "Street": "P.O. Box 818Zaytoun Abi-Samra",
+        "City": "Tripoli",
+        "Province": "Abou Samra",
+        "WWW": "http://www.jinan.edu.lb"
+      },
+      "website": "http://www.jinan.edu.lb",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1988,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "September to June",
+      "languages": [
+        "Arabic",
+        "French",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : \"Mona Haddad\" International Human Rights Teaching Session",
+          "fields": [
+            "Human Rights"
+          ]
+        },
+        {
+          "name": "Course/Programme : Nursing Express",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Course/Programme : The Scientific Miracle - Zaghloul El Najar",
+          "fields": [
+            "Islamic Law",
+            "Koran"
+          ]
+        },
+        {
+          "name": "Faculty : Business Administration",
+          "fields": [
+            "Accountancy",
+            "Advertising and Publicity",
+            "Business Administration",
+            "Business Computing",
+            "Economics",
+            "Finance",
+            "International Business",
+            "Marketing",
+            "Taxation"
+          ]
+        },
+        {
+          "name": "Faculty : Communication",
+          "fields": [
+            "Communication Studies",
+            "Journalism",
+            "Radio and Television Broadcasting"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Faculty : Literature and Humanities",
+          "fields": [
+            "Arts and Humanities",
+            "Education",
+            "Islamic Studies",
+            "Literature",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Faculty : Public Health",
+          "fields": [
+            "Laboratory Techniques",
+            "Medical Technology",
+            "Nursing",
+            "Public Health",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Faculty : Sciences",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Mathematics",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Institute : Political Science",
+          "fields": [
+            "Political Sciences"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Advertising and Publicity",
+            "Biochemistry",
+            "Biology",
+            "Business Computing",
+            "Communication Arts",
+            "Computer Science",
+            "Economics",
+            "Finance",
+            "Journalism",
+            "Laboratory Techniques",
+            "Management",
+            "Marketing",
+            "Nursing",
+            "Political Sciences",
+            "Preschool Education",
+            "Primary Education",
+            "Public Health",
+            "Radio and Television Broadcasting",
+            "Taxation",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Teaching Diploma",
+          "fields": [
+            "Foreign Languages Education",
+            "Humanities and Social Science Education",
+            "Native Language Education",
+            "Preschool Education",
+            "Primary Education"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Accountancy",
+            "Arabic",
+            "Business Computing",
+            "Curriculum",
+            "Educational Administration",
+            "Finance",
+            "Health Administration",
+            "Health Education",
+            "Human Resources",
+            "Human Rights",
+            "Islamic Law",
+            "Islamic Studies",
+            "Journalism",
+            "Koran",
+            "Management",
+            "Marketing",
+            "Mass Communication",
+            "Pedagogy",
+            "Public Health",
+            "Radio and Television Broadcasting"
+          ]
+        },
+        {
+          "name": "Doctorate",
+          "fields": [
+            "Arabic",
+            "Business Administration",
+            "Islamic Law",
+            "Islamic Studies"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Abed Amin Yakan"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Bassam Hijazi"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Rabih Harrouk"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Rani Haddad"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1988. Acquired present status 1999",
+      "periodicals": [
+        "Jinan Journal for Scientific Research",
+        "Jinan Journal for Scientific Research"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "8146",
+      "iau_id": "IAU-008146",
+      "name": "Saint Paul Institute for Philosophy and Theology",
+      "alt_name": "Institut Saint-Paul de Philosophie et de Théologie (Saint Paul Institute for Philosophy and Theology)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uIyRULUBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-008146",
+      "address": {
+        "Street": "P.O. Box 13-5053Chouran",
+        "City": "Beirut",
+        "Post Code": "1102 2801",
+        "WWW": "https://www.lau.edu.lb"
+      },
+      "website": "https://www.lau.edu.lb",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1924,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "October to September (October-February; February-June). Also 2 summer sessions (July to September)",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Institute : Banking and Finance",
+          "fields": [
+            "Banking",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Institute : Diplomacy and Conflict Transformation",
+          "fields": [
+            "International Relations and Diplomacy",
+            "Peace and Disarmament"
+          ]
+        },
+        {
+          "name": "Institute : Family  and Enterpreneurial Business",
+          "fields": [
+            "Management"
+          ]
+        },
+        {
+          "name": "Institute : Hospitality and Tourism Management",
+          "fields": [
+            "Hotel and Restaurant",
+            "Hotel Management",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Institute : Islamic Art and Architecture",
+          "fields": [
+            "Architecture",
+            "Art Education"
+          ]
+        },
+        {
+          "name": "Institute : Media Training and Research",
+          "fields": [
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "Institute : Migration Studies",
+          "fields": [
+            "Demography and Population"
+          ]
+        },
+        {
+          "name": "Institute : Peace and Justice Education",
+          "fields": [
+            "Peace and Disarmament"
+          ]
+        },
+        {
+          "name": "Institute : Software",
+          "fields": [
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Institute : Teacher Training",
+          "fields": [
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Institute : Urban Planning",
+          "fields": [
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "Institute : Water Resources and Environmental Technology",
+          "fields": [
+            "Environmental Studies",
+            "Water Science"
+          ]
+        },
+        {
+          "name": "Institute : Women's Studies in the Arab World",
+          "fields": [
+            "Women's Studies"
+          ]
+        },
+        {
+          "name": "School : Architecture and Design",
+          "fields": [
+            "Architecture",
+            "Computer Graphics",
+            "Design",
+            "Fine Arts",
+            "Graphic Design",
+            "Interior Design"
+          ]
+        },
+        {
+          "name": "School : Arts and Science",
+          "fields": [
+            "Arts and Humanities",
+            "Chemistry",
+            "Computer Science",
+            "Education",
+            "Mathematics",
+            "Molecular Biology",
+            "Natural Sciences",
+            "Nutrition",
+            "Philosophy",
+            "Political Sciences",
+            "Psychology",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "School : Business",
+          "fields": [
+            "Business Administration",
+            "Business and Commerce",
+            "Economics",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "School : Engineering",
+          "fields": [
+            "Civil Engineering",
+            "Computer Engineering",
+            "Electrical Engineering",
+            "Environmental Engineering",
+            "Industrial Engineering",
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "School : Medicine",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "School : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "School : Pharmacy",
+          "fields": [
+            "Pharmacy"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Arabic",
+            "Architecture",
+            "Biological and Life Sciences",
+            "Biology",
+            "Business Administration",
+            "Business and Commerce",
+            "Chemistry",
+            "Cinema and Television",
+            "Civil Engineering",
+            "Communication Arts",
+            "Computer Engineering",
+            "Computer Science",
+            "Dietetics",
+            "Economics",
+            "Education",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Engineering",
+            "English",
+            "Fashion Design",
+            "Film",
+            "Fine Arts",
+            "Graphic Design",
+            "History",
+            "Hotel and Restaurant",
+            "Industrial Engineering",
+            "Interior Design",
+            "International Relations and Diplomacy",
+            "Journalism",
+            "Literature",
+            "Mass Communication",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Multimedia",
+            "Nursing",
+            "Nutrition",
+            "Performing Arts",
+            "Petroleum and Gas Engineering",
+            "Pharmacy",
+            "Philosophy",
+            "Political Sciences",
+            "Psychology",
+            "Social and Community Services",
+            "Social Work",
+            "Tourism",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Professional Doctorate",
+          "fields": [
+            "Medicine",
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Teaching Diploma",
+          "fields": [
+            "Education of the Gifted",
+            "Education of the Handicapped"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Actuarial Science",
+            "Applied Mathematics",
+            "Biological and Life Sciences",
+            "Business Administration",
+            "Civil Engineering",
+            "Commercial Law",
+            "Computer Engineering",
+            "Computer Science",
+            "Demography and Population",
+            "Economics",
+            "Education",
+            "Engineering Management",
+            "Environmental Engineering",
+            "Fine Arts",
+            "Gender Studies",
+            "Human Resources",
+            "Industrial Engineering",
+            "International Relations and Diplomacy",
+            "International Studies",
+            "Journalism",
+            "Mathematics and Computer Science",
+            "Medicine",
+            "Molecular Biology",
+            "Multimedia",
+            "Nutrition",
+            "Pharmacy",
+            "Religious Art"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education;New England Commission of Higher Education (NECHE); University of the State of New York-Albany; American Council on Pharmaceutical Education; French Government; Arab Foundation of Engineering Organisations",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Chaouki Abdallah"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "George E. Nasr"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Roy Majdalani"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Dina Abdul Rahman"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2025-2026",
+        "Students Total:": "9765"
+      },
+      "history": "Founded 1924 by the United Presbyterian Church, USA. Acquired present status 1994. Campuses in Beirut, Byblos, Sidon",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "11125",
+      "iau_id": "IAU-011125",
+      "name": "University of Sciences and Arts in Lebanon",
+      "alt_name": "(USAL)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyRRLEM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-011125",
+      "address": {
+        "Street": "P.O. Box 32Zouk Mikael",
+        "City": "Aintoura",
+        "Province": "Kesrouan",
+        "WWW": "https://www.lcu.edu.lb"
+      },
+      "website": "https://www.lcu.edu.lb",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2000,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English",
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Arts and Sciences",
+          "fields": [
+            "Computer Science",
+            "Geography",
+            "Graphic Design",
+            "Interior Design",
+            "Mathematics",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "Faculty : Business Administration",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Business Computing",
+            "Economics",
+            "Human Resources",
+            "Management",
+            "Marketing",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Education Sciences",
+          "fields": [
+            "Educational Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Humanities",
+          "fields": [
+            "Arts and Humanities"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Advertising and Publicity",
+            "Bioengineering",
+            "Biology",
+            "Biotechnology",
+            "Business Computing",
+            "Computer Engineering",
+            "Computer Science",
+            "Dietetics",
+            "Economics",
+            "Education",
+            "Environmental Studies",
+            "Finance",
+            "Graphic Design",
+            "Hotel and Restaurant",
+            "Human Resources",
+            "Interior Design",
+            "International Business",
+            "Management",
+            "Marketing",
+            "Mathematics",
+            "Nutrition",
+            "Physical Education",
+            "Social Work",
+            "Surveying and Mapping",
+            "Telecommunications Engineering",
+            "Tourism",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "Teaching Diploma",
+          "fields": [
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Accountancy",
+            "Bioengineering",
+            "Biotechnology",
+            "Business Administration",
+            "Business Computing",
+            "Computer Engineering",
+            "Economics",
+            "Finance",
+            "Hotel and Restaurant",
+            "Human Resources",
+            "International Business",
+            "International Relations and Diplomacy",
+            "Management",
+            "Marketing",
+            "Surveying and Mapping",
+            "Telecommunications Engineering",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Doctorate",
+          "fields": [
+            "Business Administration",
+            "International Relations and Diplomacy"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education; European Foundation for Management Development (EFMD); Association to Advance Collegiate Schools of Business (AACSB); International Organization for Standardization (ISO); International Federation of Surveyors (FIG); Arab Union of Surveyors",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Rony Abi Nakhlé"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Fady Bader"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2019-2020",
+        "Staff Full Time Total:": "150",
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "1500"
+      },
+      "history": "Founded 2000, acquired present status 2008",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "20603",
+      "iau_id": "IAU-020603",
+      "name": "University of Tripoli Lebanon",
+      "alt_name": "(UT)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BWLCMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020603",
+      "address": {
+        "Street": "Sahel Alma, JouniehP.O. Box 206",
+        "City": "Jounieh",
+        "Province": "Kaserwan",
+        "WWW": "http://www.lgu.edu.lb"
+      },
+      "website": "http://www.lgu.edu.lb",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1999,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English",
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Continuing Education",
+          "fields": [
+            "Rehabilitation and Therapy"
+          ]
+        },
+        {
+          "name": "Faculty : Business and Insurance",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Finance",
+            "Hotel Management",
+            "Human Resources",
+            "Insurance",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Education and Arts",
+          "fields": [
+            "Film",
+            "Performing Arts",
+            "Preschool Education",
+            "Primary Education",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Faculty : Public Health",
+          "fields": [
+            "Biomedical Engineering",
+            "Laboratory Techniques",
+            "Nursing",
+            "Nutrition",
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "Institute : Chartered Insurance",
+          "fields": [
+            "Insurance"
+          ]
+        },
+        {
+          "name": "Institute : Mutual Management",
+          "fields": [
+            "Music",
+            "Musical Instruments"
+          ]
+        },
+        {
+          "name": "School : JHGuitarSchool",
+          "fields": [
+            "Music",
+            "Musical Instruments"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diplôme d'Université",
+          "fields": [
+            "Rehabilitation and Therapy"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Biomedical Engineering",
+            "Business Administration",
+            "Dietetics",
+            "Finance",
+            "Foreign Languages Education",
+            "Health Administration",
+            "Hotel Management",
+            "Human Resources",
+            "Information Management",
+            "Insurance",
+            "Laboratory Techniques",
+            "Management",
+            "Marketing",
+            "Medical Technology",
+            "Nutrition",
+            "Performing Arts",
+            "Physical Therapy",
+            "Preschool Education",
+            "Primary Education",
+            "Treatment Techniques"
+          ]
+        },
+        {
+          "name": "Professional Doctorate",
+          "fields": [
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Business Administration",
+            "Educational Administration",
+            "Finance",
+            "Health Administration",
+            "Human Resources",
+            "International Business",
+            "Management",
+            "Marketing",
+            "Media Studies",
+            "Public Health",
+            "Safety Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Samir Matar"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Jihane Hosry"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Marianne Adaimi"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Pierre El Khoury"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1999 as Institut d'Enseignement supérieur de Physiothérapie. Acquired present title and status 2007",
+      "periodicals": [],
+      "student_body": null
+    }
+  ]
+}

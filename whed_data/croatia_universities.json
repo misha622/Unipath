@@ -1,0 +1,5281 @@
+{
+  "country_name": "Croatia",
+  "country_id": "Croatia",
+  "institutions": [
+    {
+      "id": "22653",
+      "iau_id": "IAU-022653",
+      "name": "Algebra Bernays University",
+      "alt_name": "Sveučilište Algebra Bernays",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyhWLTMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-022653",
+      "address": {
+        "Street": "Zagrebačka 30",
+        "City": "Pula",
+        "Post Code": "52100",
+        "WWW": "https://www.unipu.hr"
+      },
+      "website": "https://www.unipu.hr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2006,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "October to September",
+      "languages": [
+        "Croatian"
+      ],
+      "faculties": [
+        {
+          "name": "Academy : Music",
+          "fields": [
+            "Music",
+            "Music Education",
+            "Musical Instruments",
+            "Singing"
+          ]
+        },
+        {
+          "name": "Faculty : Economics and Tourism",
+          "fields": [
+            "Economics",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Education Sciences",
+          "fields": [
+            "Education",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Computer Engineering",
+            "Mechanical Engineering",
+            "Production Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Humanities",
+          "fields": [
+            "Arts and Humanities",
+            "Classical Languages",
+            "History",
+            "Native Language",
+            "Philology",
+            "Romance Languages"
+          ]
+        },
+        {
+          "name": "Faculty : Informatics",
+          "fields": [
+            "Computer Education",
+            "Computer Science",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Faculty : Natural Sciences",
+          "fields": [
+            "Marine Biology",
+            "Marine Science and Oceanography"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma preddiplomskog sveucilisnog studija - sveučilišni prvostupnik (baccalaureus)",
+          "fields": [
+            "Economics",
+            "Finance",
+            "Information Management",
+            "Management",
+            "Marketing",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Diploma stručnog studija - stručni prvostupnik (baccalaureus)",
+          "fields": [
+            "Nursing",
+            "Preschool Education",
+            "Production Engineering"
+          ]
+        },
+        {
+          "name": "Diploma diplomskog sveučilišnog studija - magistar",
+          "fields": [
+            "Economics",
+            "Finance",
+            "Information Management",
+            "Management",
+            "Marketing",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Diploma poslijediplomskog specijalističkog studija - sveučilišni specijalist",
+          "fields": [
+            "Development Studies",
+            "Human Resources",
+            "Marketing",
+            "Regional Studies"
+          ]
+        },
+        {
+          "name": "Diploma poslijediplomskog sveučilišnog studija - doktor znanosti/doktor umjetnosti",
+          "fields": [
+            "International Economics"
+          ]
+        }
+      ],
+      "accreditation": "Agency for Science and Higher Education (AZVO)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Marinko Škare"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Mirjana Radetic-Paic"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Ivona Peternel"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Valter Boljunčić"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2024-2025",
+        "Staff Full Time Total:": "144",
+        "Students Statistics Year:": "2024-2025",
+        "Students Total:": "3042"
+      },
+      "history": "Founded 2006",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "22654",
+      "iau_id": "IAU-022654",
+      "name": "Aspira University College",
+      "alt_name": "Visoka škola Aspira – Aspira University College of Management and Design",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyhWLTMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-022654",
+      "address": {
+        "Street": "Trg Republike Hrvatske 14",
+        "City": "Zagreb",
+        "Post Code": "10000",
+        "WWW": "https://www.unizg.hr"
+      },
+      "website": "https://www.unizg.hr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1669,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "October to June (October-January; February-June)",
+      "languages": [
+        "Croatian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Academy : Dramatic Arts",
+          "fields": [
+            "Film",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Academy : Fine Arts",
+          "fields": [
+            "Fine Arts"
+          ]
+        },
+        {
+          "name": "Academy : Music",
+          "fields": [
+            "Music"
+          ]
+        },
+        {
+          "name": "Centre : Croatian Studies",
+          "fields": [
+            "Cultural Studies",
+            "Philology",
+            "Religious Studies",
+            "Serbocroatian",
+            "Social Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Agriculture",
+          "fields": [
+            "Agricultural Economics",
+            "Agricultural Engineering",
+            "Agriculture",
+            "Animal Husbandry",
+            "Horticulture",
+            "Landscape Architecture",
+            "Plant Pathology"
+          ]
+        },
+        {
+          "name": "Faculty : Architecture",
+          "fields": [
+            "Architectural and Environmental Design",
+            "Architecture",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "Faculty : Catholic Theology",
+          "fields": [
+            "Catholic Theology"
+          ]
+        },
+        {
+          "name": "Faculty : Chemical Engineering and Technology",
+          "fields": [
+            "Chemical Engineering",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Civil Engineering",
+          "fields": [
+            "Civil Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Economics and Business",
+          "fields": [
+            "Business and Commerce",
+            "Business Computing",
+            "Economics",
+            "International Business",
+            "Management"
+          ]
+        },
+        {
+          "name": "Faculty : Education and Rehabilitation",
+          "fields": [
+            "Art Therapy",
+            "Behavioural Sciences",
+            "Criminal Law",
+            "Rehabilitation and Therapy",
+            "Speech Therapy and Audiology"
+          ]
+        },
+        {
+          "name": "Faculty : Electrical Engineering and Computer Science",
+          "fields": [
+            "Computer Science",
+            "Electrical Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Food Technology and Biotechnology",
+          "fields": [
+            "Biotechnology",
+            "Food Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Forestry",
+          "fields": [
+            "Forestry"
+          ]
+        },
+        {
+          "name": "Faculty : Geodesy",
+          "fields": [
+            "Earth Sciences",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "Faculty : Geotechnical Engineering",
+          "fields": [
+            "Earth Sciences",
+            "Geophysics"
+          ]
+        },
+        {
+          "name": "Faculty : Graphic Arts",
+          "fields": [
+            "Graphic Arts"
+          ]
+        },
+        {
+          "name": "Faculty : Humanities and Social Sciences",
+          "fields": [
+            "Arts and Humanities",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Kinesiology",
+          "fields": [
+            "Physical Education",
+            "Sports",
+            "Sports Medicine"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Mechanical Engineering and Naval Architecture",
+          "fields": [
+            "Mechanical Engineering",
+            "Naval Architecture"
+          ]
+        },
+        {
+          "name": "Faculty : Metallurgy",
+          "fields": [
+            "Metallurgical Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Mining, Geology, and Petroleum Engineering",
+          "fields": [
+            "Geological Engineering",
+            "Mining Engineering",
+            "Petroleum and Gas Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Organization and Information Studies",
+          "fields": [
+            "Business Administration",
+            "Information Management",
+            "Information Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Pharmacy and Biochemistry",
+          "fields": [
+            "Biochemistry",
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Faculty : Philosophy",
+          "fields": [
+            "Archaeology",
+            "Art History",
+            "Comparative Literature",
+            "English",
+            "Ethnology",
+            "French",
+            "German",
+            "Greek",
+            "History",
+            "Humanities and Social Science Education",
+            "Hungarian",
+            "Information Sciences",
+            "Italian",
+            "Latin",
+            "Linguistics",
+            "Modern Languages",
+            "Philosophy",
+            "Phonetics",
+            "Polish",
+            "Psychology",
+            "Scandinavian Languages",
+            "Serbocroatian",
+            "Slavic Languages",
+            "Sociology",
+            "Spanish"
+          ]
+        },
+        {
+          "name": "Faculty : Political Science",
+          "fields": [
+            "Political Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Science",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Geography",
+            "Geology",
+            "Geophysics",
+            "Mathematics",
+            "Natural Sciences",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Faculty : Teacher Education",
+          "fields": [
+            "Education",
+            "Teacher Trainers Education",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Faculty : Textile Technology",
+          "fields": [
+            "Textile Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Transport and Traffic Engineering",
+          "fields": [
+            "Road Transport",
+            "Transport Engineering",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Faculty : Veterinary Science",
+          "fields": [
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "School : Dental Medicine",
+          "fields": [
+            "Dentistry"
+          ]
+        },
+        {
+          "name": "School : Medicine",
+          "fields": [
+            "Medicine"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Svjedodžba stručnog studija - stručni pristupnik",
+          "fields": [
+            "Metallurgical Engineering"
+          ]
+        },
+        {
+          "name": "Diploma preddiplomskog sveucilisnog studija - sveučilišni prvostupnik (baccalaureus)",
+          "fields": [
+            "Acting",
+            "Aeronautical and Aerospace Engineering",
+            "Agricultural Economics",
+            "Agricultural Engineering",
+            "Agriculture",
+            "Air Transport",
+            "Animal Husbandry",
+            "Anthropology",
+            "Applied Chemistry",
+            "Archaeology",
+            "Architecture",
+            "Art Education",
+            "Art History",
+            "Biochemistry",
+            "Biotechnology",
+            "Business Administration",
+            "Business Computing",
+            "Chemical Engineering",
+            "Cinema and Television",
+            "Civil Engineering",
+            "Communication Arts",
+            "Communication Studies",
+            "Comparative Literature",
+            "Computer Engineering",
+            "Conducting",
+            "Cultural Studies",
+            "Czech",
+            "Dance",
+            "Dentistry",
+            "Dutch",
+            "Ecology",
+            "Economics",
+            "Education of the Socially Disadvantaged",
+            "Electrical Engineering",
+            "English",
+            "Environmental Engineering",
+            "Environmental Studies",
+            "Ethnology",
+            "Fashion Design",
+            "Film",
+            "Food Technology",
+            "Forestry",
+            "French",
+            "Geological Engineering",
+            "German",
+            "Graphic Design",
+            "Greek",
+            "Hindi",
+            "History",
+            "Horticulture",
+            "Hungarian",
+            "Industrial Design",
+            "Industrial Engineering",
+            "Information Sciences",
+            "Information Technology",
+            "Italian",
+            "Journalism",
+            "Landscape Architecture",
+            "Latin",
+            "Linguistics",
+            "Literature",
+            "Marine Transport",
+            "Materials Engineering",
+            "Mechanical Engineering",
+            "Media Studies",
+            "Medicine",
+            "Metallurgical Engineering",
+            "Mining Engineering",
+            "Music",
+            "Music Education",
+            "Music Theory and Composition",
+            "Musical Instruments",
+            "Musicology",
+            "Nautical Science",
+            "Naval Architecture",
+            "Nutrition",
+            "Painting and Drawing",
+            "Pedagogy",
+            "Petroleum and Gas Engineering",
+            "Pharmacy",
+            "Philosophy",
+            "Phonetics",
+            "Physical Therapy",
+            "Plant and Crop Protection",
+            "Polish",
+            "Political Sciences",
+            "Portuguese",
+            "Postal Services",
+            "Preschool Education",
+            "Printing and Printmaking",
+            "Psychology",
+            "Radio and Television Broadcasting",
+            "Railway Transport",
+            "Rehabilitation and Therapy",
+            "Religious Education",
+            "Religious Music",
+            "Religious Studies",
+            "Road Transport",
+            "Romanian",
+            "Russian",
+            "Sculpture",
+            "Serbocroatian",
+            "Singing",
+            "Slavic Languages",
+            "Social Work",
+            "Sociology",
+            "Spanish",
+            "Speech Therapy and Audiology",
+            "Surveying and Mapping",
+            "Swahili",
+            "Telecommunications Services",
+            "Textile Design",
+            "Textile Technology",
+            "Theatre",
+            "Theology",
+            "Town Planning",
+            "Transport Management",
+            "Turkish",
+            "Veterinary Science",
+            "Wood Technology"
+          ]
+        },
+        {
+          "name": "Diploma diplomskog sveučilišnog studija - magistar",
+          "fields": [
+            "Acting",
+            "Aeronautical and Aerospace Engineering",
+            "Agricultural Business",
+            "Agricultural Engineering",
+            "Agricultural Equipment",
+            "Agriculture",
+            "Air Transport",
+            "Animal Husbandry",
+            "Anthropology",
+            "Applied Chemistry",
+            "Applied Mathematics",
+            "Archaeology",
+            "Architecture",
+            "Architecture and Planning",
+            "Art Education",
+            "Art History",
+            "Biochemistry",
+            "Bioengineering",
+            "Biology",
+            "Biotechnology",
+            "Business Administration",
+            "Business and Commerce",
+            "Business Computing",
+            "Chemical Engineering",
+            "Chemistry",
+            "Cinema and Television",
+            "Civil Engineering",
+            "Communication Arts",
+            "Communication Studies",
+            "Comparative Literature",
+            "Computer Education",
+            "Computer Engineering",
+            "Conducting",
+            "Construction Engineering",
+            "Cultural Studies",
+            "Czech",
+            "Dairy",
+            "Data Science",
+            "Dentistry",
+            "Design",
+            "Development Studies",
+            "Ecology",
+            "Economics",
+            "Education of the Socially Disadvantaged",
+            "Electrical Engineering",
+            "Engineering",
+            "English",
+            "Environmental Engineering",
+            "Environmental Management",
+            "Environmental Studies",
+            "Ethnology",
+            "Fashion Design",
+            "Film",
+            "Fishery",
+            "Floriculture",
+            "Food Science",
+            "Food Technology",
+            "Foreign Languages Education",
+            "Forest Management",
+            "Forest Products",
+            "Forestry",
+            "French",
+            "Fruit Production",
+            "Genetics",
+            "Geography",
+            "Geography (Human)",
+            "Geological Engineering",
+            "Geology",
+            "Geophysics",
+            "German",
+            "Graphic Arts",
+            "Graphic Design",
+            "Greek",
+            "Heritage Preservation",
+            "Hindi",
+            "History",
+            "Horticulture",
+            "Humanities and Social Science Education",
+            "Hungarian",
+            "Hydraulic Engineering",
+            "Industrial Design",
+            "Industrial Engineering",
+            "Information Sciences",
+            "Information Technology",
+            "Italian",
+            "Journalism",
+            "Landscape Architecture",
+            "Latin",
+            "Law",
+            "Linguistics",
+            "Literature",
+            "Management",
+            "Marine Transport",
+            "Materials Engineering",
+            "Mathematics",
+            "Mathematics and Computer Science",
+            "Mathematics Education",
+            "Meat and Poultry",
+            "Mechanical Engineering",
+            "Media Studies",
+            "Medicine",
+            "Metallurgical Engineering",
+            "Mineralogy",
+            "Mining Engineering",
+            "Molecular Biology",
+            "Multimedia",
+            "Music",
+            "Music Education",
+            "Music Theory and Composition",
+            "Musical Instruments",
+            "Musicology",
+            "Natural Resources",
+            "Naval Architecture",
+            "Nutrition",
+            "Packaging Technology",
+            "Painting and Drawing",
+            "Paleontology",
+            "Petroleum and Gas Engineering",
+            "Petrology",
+            "Pharmacy",
+            "Philosophy",
+            "Phonetics",
+            "Physical Therapy",
+            "Physics",
+            "Plant and Crop Protection",
+            "Polish",
+            "Political Sciences",
+            "Portuguese",
+            "Postal Services",
+            "Preschool Education",
+            "Primary Education",
+            "Printing and Printmaking",
+            "Psychology",
+            "Publishing and Book Trade",
+            "Radio and Television Broadcasting",
+            "Railway Transport",
+            "Rehabilitation and Therapy",
+            "Religious Education",
+            "Religious Studies",
+            "Restoration of Works of Art",
+            "Road Transport",
+            "Romanian",
+            "Russian",
+            "Safety Engineering",
+            "Science Education",
+            "Sculpture",
+            "Serbocroatian",
+            "Singing",
+            "Slavic Languages",
+            "Social Policy",
+            "Social Work",
+            "Sociology",
+            "Software Engineering",
+            "Spanish",
+            "Special Education",
+            "Speech Therapy and Audiology",
+            "Surveying and Mapping",
+            "Swedish",
+            "Technology Education",
+            "Telecommunications Engineering",
+            "Telecommunications Services",
+            "Textile Design",
+            "Textile Technology",
+            "Theatre",
+            "Tourism",
+            "Town Planning",
+            "Traditional and Complementary Medicine and Therapy",
+            "Transport and Communications",
+            "Transport Engineering",
+            "Transport Management",
+            "Turkish",
+            "Vegetable Production",
+            "Veterinary Science",
+            "Viticulture",
+            "Water Management",
+            "Wildlife",
+            "Wood Technology"
+          ]
+        },
+        {
+          "name": "Diploma poslijediplomskog specijalističkog studija - sveučilišni specijalist",
+          "fields": [
+            "Agricultural Business",
+            "Animal Husbandry",
+            "Bridge Engineering",
+            "Business Administration",
+            "Civil Engineering",
+            "E-Business/Commerce",
+            "Economics",
+            "Environmental Engineering",
+            "Environmental Management",
+            "European Studies",
+            "Fishery",
+            "Human Rights",
+            "Hydraulic Engineering",
+            "International Relations and Diplomacy",
+            "Management",
+            "Peace and Disarmament",
+            "Private Law",
+            "Public Administration",
+            "Town Planning",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Diploma poslijediplomskog sveučilišnog studija - doktor znanosti/doktor umjetnosti",
+          "fields": [
+            "Aeronautical and Aerospace Engineering",
+            "Agriculture",
+            "Anthropology",
+            "Applied Chemistry",
+            "Archaeology",
+            "Architecture",
+            "Art History",
+            "Biochemistry",
+            "Bioengineering",
+            "Biology",
+            "Biomedicine",
+            "Biotechnology",
+            "Business Administration",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civil Engineering",
+            "Cognitive Sciences",
+            "Computer Engineering",
+            "Contemporary History",
+            "Cultural Studies",
+            "Demography and Population",
+            "Dentistry",
+            "Economics",
+            "Electrical Engineering",
+            "Environmental Management",
+            "Ethnology",
+            "Fashion Design",
+            "Film",
+            "Food Technology",
+            "Forestry",
+            "Geography",
+            "Geological Engineering",
+            "Geology",
+            "Graphic Arts",
+            "Graphic Design",
+            "Health Sciences",
+            "History",
+            "Information Sciences",
+            "Law",
+            "Linguistics",
+            "Literature",
+            "Marine Science and Oceanography",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Medieval Studies",
+            "Metallurgical Engineering",
+            "Mining Engineering",
+            "Modern History",
+            "Naval Architecture",
+            "Neurosciences",
+            "Nutrition",
+            "Painting and Drawing",
+            "Pedagogy",
+            "Performing Arts",
+            "Petroleum and Gas Engineering",
+            "Pharmacy",
+            "Philosophy",
+            "Physical Therapy",
+            "Physics",
+            "Political Sciences",
+            "Preschool Education",
+            "Protective Services",
+            "Psychology",
+            "Rehabilitation and Therapy",
+            "Religious Studies",
+            "Sculpture",
+            "Serbocroatian",
+            "Social Policy",
+            "Social Work",
+            "Sociology",
+            "Special Education",
+            "Surveying and Mapping",
+            "Textile Technology",
+            "Theology",
+            "Town Planning",
+            "Transport Engineering",
+            "Veterinary Science",
+            "Water Management",
+            "Wood Technology"
+          ]
+        }
+      ],
+      "accreditation": "Agency for Science and Higher Education (AZVO)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Stjepan Lakušić"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Tibor Pentek"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Jurica Pavičić"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Krešimir Jurak"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2024-2025",
+        "Students Total:": "68935"
+      },
+      "history": "Founded 1669 as Royal Academy of Sciences by edict of Emperor Leopold I granting University status to the existing Jesuit Academy of the Royal Free City of Zagreb. Reorganized 1874 as University of Zagreb, the largest and oldest Croatian university",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "7585",
+      "iau_id": "IAU-007585",
+      "name": "Catholic University of Croatia",
+      "alt_name": "Hrvatsko katoličko sveučilište (UNICATH)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tUzRYLTBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007585",
+      "address": {
+        "Street": "Palmotićeva ulica 82/1",
+        "City": "Zagreb",
+        "Post Code": "10000",
+        "WWW": "https://vern.hr"
+      },
+      "website": "https://vern.hr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "October to September",
+      "languages": [
+        "Croatian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Applied Mathematics and Information Technology",
+          "fields": [
+            "Applied Mathematics",
+            "Computer Science",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Department/Division : Economics and Marketing",
+          "fields": [
+            "Economics",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Department/Division : Entrepreneurship and Management",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Department/Division : Finance, Accountancy and Law",
+          "fields": [
+            "Accountancy",
+            "Finance",
+            "Law"
+          ]
+        },
+        {
+          "name": "Department/Division : Languages and Culture",
+          "fields": [
+            "Cultural Studies",
+            "Modern Languages"
+          ]
+        },
+        {
+          "name": "Department/Division : Psychology and Communications",
+          "fields": [
+            "Communication Studies",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Department/Division : Tourism",
+          "fields": [
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma stručnog studija - stručni prvostupnik (baccalaureus)",
+          "fields": [
+            "Business Computing",
+            "Cinema and Television",
+            "Economics",
+            "Film",
+            "Hotel Management",
+            "Journalism",
+            "Management",
+            "Media Studies",
+            "Multimedia",
+            "Public Relations",
+            "Small Business",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Diploma specijalističkog diplomskog stručnog studija - stručni specijalist",
+          "fields": [
+            "Accountancy",
+            "Cinema and Television",
+            "Communication Studies",
+            "Film",
+            "Finance",
+            "Human Resources",
+            "Information Technology",
+            "Management",
+            "Tourism"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Science, Education and Sports of the Republic of Croatia; Agency for Science and Higher Education (AZVO)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Vedran Mornar"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Ana Ivanisevic"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Iva Biondić"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2019-2020",
+        "Staff Full Time Total:": "72",
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "1850"
+      },
+      "history": "Created 2000 as one of the first business colleges in Croatia. Began operating as a higher education institution in 2000 and became a business university of applied science in 2007. Acquired university status 2020",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "22655",
+      "iau_id": "IAU-022655",
+      "name": "College for Information Technologies, Zagreb",
+      "alt_name": "Visoka škola za informacijske tehnologije u Zagrebu (VSITE)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyhWLTM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-022655",
+      "address": {
+        "Street": "Gradišćanska 24",
+        "City": "Zagreb",
+        "Post Code": "10000",
+        "WWW": "https://www.algebra.hr"
+      },
+      "website": "https://www.algebra.hr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1998,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Croatian"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Graduate Studies",
+          "fields": [
+            "Communication Arts",
+            "Communication Studies",
+            "Computer Engineering",
+            "Computer Graphics",
+            "Computer Science",
+            "Data Science",
+            "Graphic Design",
+            "Management",
+            "Marketing",
+            "Multimedia",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Department/Division : Undergraduate Studies",
+          "fields": [
+            "Communication Arts",
+            "Communication Studies",
+            "Computer Engineering",
+            "Computer Graphics",
+            "Computer Science",
+            "Data Science",
+            "Design",
+            "Leadership",
+            "Management",
+            "Marketing",
+            "Software Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma stručnog studija - stručni prvostupnik (baccalaureus)",
+          "fields": [
+            "Communication Arts",
+            "Computer Engineering",
+            "Computer Graphics",
+            "Computer Science",
+            "Graphic Design",
+            "Marketing",
+            "Multimedia",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Diploma specijalističkog diplomskog stručnog studija - stručni specijalist",
+          "fields": [
+            "Communication Studies",
+            "Computer Engineering",
+            "Computer Graphics",
+            "Data Science",
+            "Design",
+            "Leadership",
+            "Management",
+            "Marketing",
+            "Software Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Agency for Science and Higher Education (AZVO)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Mislav Balković"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Nataša Trojak"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Lidija Šimrak"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "15000"
+      },
+      "history": "Founded 1998, formerly known as College for Applied Computer Engineering \"Algebra\". Became Algebra University College. Merged with Edward Bernays University of Applied Sciences acquired  present title \"Algebra Bernays University\" in 2024.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "22673",
+      "iau_id": "IAU-022673",
+      "name": "College for Safety",
+      "alt_name": "Visoka škola za sigurnost (VSS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyhWLVMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-022673",
+      "address": {
+        "Street": "Mike Tripala 6",
+        "City": "Split",
+        "Post Code": "21000",
+        "WWW": "http://www.aspira.hr"
+      },
+      "website": "http://www.aspira.hr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2008,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Croatian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Computer Engineering",
+          "fields": [
+            "Computer Engineering"
+          ]
+        },
+        {
+          "name": "Department/Division : Gastronomy",
+          "fields": [
+            "Cooking and Catering"
+          ]
+        },
+        {
+          "name": "Department/Division : Hospitality and Tourism",
+          "fields": [
+            "Hotel and Restaurant",
+            "Hotel Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Sports Management",
+          "fields": [
+            "Sports Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma stručnog studija - stručni prvostupnik (baccalaureus)",
+          "fields": [
+            "Computer Engineering",
+            "Hotel and Restaurant",
+            "Sports Management",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Diploma specijalističkog diplomskog stručnog studija - stručni specijalist",
+          "fields": [
+            "Hotel and Restaurant",
+            "Sports Management",
+            "Tourism"
+          ]
+        }
+      ],
+      "accreditation": "Agency for Science and Higher Education (AZVO)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Alen Jerkunica"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Toni Miljaktoni"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Tihana Banko"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Žarko Bilić"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2019-2020",
+        "Staff Full Time Total:": "23"
+      },
+      "history": "Founded 2008",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "20840",
+      "iau_id": "IAU-020840",
+      "name": "College of Applied Sciences Lavoslav Ruzicka in Vukovar",
+      "alt_name": "Veleučilište \"Lavoslav Ružička\" u Vukovaru – Polytechnic \"Lavoslav Ružička\" in Vukovar (VEVU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BYLSNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020840",
+      "address": {
+        "Street": "Ilica 242 (ulaz iz Domobranske ulice)",
+        "City": "Zagreb",
+        "Post Code": "10000",
+        "WWW": "https://www.unicath.hr"
+      },
+      "website": "https://www.unicath.hr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2006,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Croatian"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Communication Sciences",
+          "fields": [
+            "Communication Studies"
+          ]
+        },
+        {
+          "name": "Department/Division : History",
+          "fields": [
+            "History"
+          ]
+        },
+        {
+          "name": "Department/Division : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Department/Division : Psychology",
+          "fields": [
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Department/Division : Sociology",
+          "fields": [
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Department/Division : Theology",
+          "fields": [
+            "Theology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma preddiplomskog sveucilisnog studija - sveučilišni prvostupnik (baccalaureus)",
+          "fields": [
+            "Communication Studies",
+            "History",
+            "Nursing",
+            "Psychology",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Diploma diplomskog sveučilišnog studija - magistar",
+          "fields": [
+            "Communication Studies",
+            "History",
+            "Nursing",
+            "Psychology",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Diploma poslijediplomskog sveučilišnog studija - doktor znanosti/doktor umjetnosti",
+          "fields": [
+            "History",
+            "Sociology"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Science, Education and Sports of the Republic of Croatia; Agency for Science and Higher Education (AZVO)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Željko Tanjić"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Branka Roščić"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Gordan Črpić"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Jasna Ćurković Nimac"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2006",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "22664",
+      "iau_id": "IAU-022664",
+      "name": "College of Slavonski Brod",
+      "alt_name": "Veleučilište u Slavonskom Brodu",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyhWLUMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-022664",
+      "address": {
+        "Street": "Klaićeva 7",
+        "City": "Zagreb",
+        "Post Code": "10000",
+        "WWW": "https://www.vsite.hr"
+      },
+      "website": "https://www.vsite.hr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2006,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Croatian"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Information Technology",
+          "fields": [
+            "Information Technology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma stručnog studija - stručni prvostupnik (baccalaureus)",
+          "fields": [
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Diploma specijalističkog diplomskog stručnog studija - stručni specijalist",
+          "fields": [
+            "Information Technology"
+          ]
+        }
+      ],
+      "accreditation": "Agency for Science and Higher Education (AZVO)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Milorad Nikitović"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Ninoslav Čerkez"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Vladimir Krstic"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Vladimir Krstić"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2019-2020",
+        "Staff Full Time Total:": "14"
+      },
+      "history": "Founded 2006",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "22652",
+      "iau_id": "IAU-022652",
+      "name": "EFFECTUS University College for Law and Finance",
+      "alt_name": "EFFECTUS Studij Financije i Pravo - Visoko Učilište",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyhWLTMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-022652",
+      "address": {
+        "Street": "Ivana Lucica 5",
+        "City": "Zagreb",
+        "Post Code": "10000",
+        "WWW": "http://www.vss.hr"
+      },
+      "website": "http://www.vss.hr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1997,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Croatian"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Safety Engineering",
+          "fields": [
+            "Safety Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma stručnog studija - stručni prvostupnik (baccalaureus)",
+          "fields": [
+            "Safety Engineering"
+          ]
+        },
+        {
+          "name": "Diploma specijalističkog diplomskog stručnog studija - stručni specijalist",
+          "fields": [
+            "Safety Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Agency for Science and Higher Education (AZVO)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Liljana Dolšak"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2019-2020",
+        "Staff Full Time Total:": "10"
+      },
+      "history": "Founded 1997",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "22656",
+      "iau_id": "IAU-022656",
+      "name": "European Business School Zagreb",
+      "alt_name": "Europska poslovna škola Zagreb (EBUS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyhWLTM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-022656",
+      "address": {
+        "Street": "Županijska 50",
+        "City": "Vukovar",
+        "Post Code": "32000",
+        "WWW": "http://www.vevu.hr"
+      },
+      "website": "http://www.vevu.hr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2005,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Croatian"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Administration",
+          "fields": [
+            "Administration"
+          ]
+        },
+        {
+          "name": "Department/Division : Business",
+          "fields": [
+            "Business and Commerce"
+          ]
+        },
+        {
+          "name": "Department/Division : Health Studies",
+          "fields": [
+            "Physical Therapy",
+            "Social and Preventive Medicine"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma stručnog studija - stručni prvostupnik (baccalaureus)",
+          "fields": [
+            "Administration",
+            "Business and Commerce",
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "Diploma specijalističkog diplomskog stručnog studija - stručni specijalist",
+          "fields": [
+            "Physical Therapy"
+          ]
+        }
+      ],
+      "accreditation": "Agency for Science and Higher Education (AZVO)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Željko Sudarić"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Duško Simić"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Sanela Schmidt"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2019-2020",
+        "Staff Full Time Total:": "30"
+      },
+      "history": "Founded 2005",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "22670",
+      "iau_id": "IAU-022670",
+      "name": "Istrian University of Applied Sciences",
+      "alt_name": "Istarsko veleučilište – Istrian Polytechnic (IV)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyhWLVNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-022670",
+      "address": {
+        "Street": "Dr. Mile Budaka 1",
+        "City": "Slavonski Brod",
+        "Post Code": "35000",
+        "WWW": "http://www.vusb.hr/hr"
+      },
+      "website": "http://www.vusb.hr/hr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2006,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Croatian"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Agriculture",
+          "fields": [
+            "Agriculture",
+            "Ecology",
+            "Farm Management",
+            "Horticulture",
+            "Rural Planning"
+          ]
+        },
+        {
+          "name": "Department/Division : Social",
+          "fields": [
+            "Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Technical",
+          "fields": [
+            "Energy Engineering",
+            "Production Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma stručnog studija - stručni prvostupnik (baccalaureus)",
+          "fields": [
+            "Agriculture",
+            "Farm Management",
+            "Horticulture",
+            "Management",
+            "Production Engineering"
+          ]
+        },
+        {
+          "name": "Diploma specijalističkog diplomskog stručnog studija - stručni specijalist",
+          "fields": [
+            "Agriculture",
+            "Ecology",
+            "Energy Engineering",
+            "Management",
+            "Rural Planning"
+          ]
+        }
+      ],
+      "accreditation": "Agency for Science and Higher Education (AZVO)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Krunoslav Mirosavljevic"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Ankica Šimunović"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Teuta Benković-Lačić"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Hrvoje Sivrić"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2018-2019",
+        "Students Total:": "1042"
+      },
+      "history": "Founded 2006",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "16003",
+      "iau_id": "IAU-016003",
+      "name": "Josip Juraj Strossmayer University of Osijek",
+      "alt_name": "Sveučilište Josipa Jurja Strossmayera u Osijeku",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhQLCMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016003",
+      "address": {
+        "Street": "Trg JF Kennedyja 2",
+        "City": "Zagreb",
+        "Post Code": "10000",
+        "WWW": "https://effectus.com.hr/visoko"
+      },
+      "website": "https://effectus.com.hr/visoko",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2008,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Croatian"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Finance",
+          "fields": [
+            "Finance"
+          ]
+        },
+        {
+          "name": "Department/Division : General Economics",
+          "fields": [
+            "Economics"
+          ]
+        },
+        {
+          "name": "Department/Division : Interdisciplinary Courses",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Department/Division : Law",
+          "fields": [
+            "Law"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma stručnog studija - stručni prvostupnik (baccalaureus)",
+          "fields": [
+            "Commercial Law",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Diploma specijalističkog diplomskog stručnog studija - stručni specijalist",
+          "fields": [
+            "Business Administration",
+            "Commercial Law",
+            "Finance",
+            "Human Resources",
+            "Management",
+            "Taxation"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Science and Education of the Republic of Croatia; Agency for Science and Higher Education (AZVO)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Robert Kopal"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Aljoša Šestanović"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Jelena Uzelac"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Vedran Ceranić"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2019-2020",
+        "Staff Full Time Total:": "19"
+      },
+      "history": "Founded 2008",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "20949",
+      "iau_id": "IAU-020949",
+      "name": "Križevci College of Agriculture",
+      "alt_name": "Visoko gospodarsko učilište u Križevcima – College of Agriculture in Križevci (KCA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BZLSNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020949",
+      "address": {
+        "Street": "Selska cesta 119",
+        "City": "Zagreb",
+        "Post Code": "10110",
+        "WWW": "http://ebus.hr"
+      },
+      "website": "http://ebus.hr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2008,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Croatian"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Entrepreneurship Economics",
+          "fields": [
+            "Economics",
+            "Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Small and Medium Enterprise Management and Project Management",
+          "fields": [
+            "Management",
+            "Small Business"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma stručnog studija - stručni prvostupnik (baccalaureus)",
+          "fields": [
+            "Economics",
+            "Management"
+          ]
+        },
+        {
+          "name": "Diploma specijalističkog diplomskog stručnog studija - stručni specijalist",
+          "fields": [
+            "Management",
+            "Small Business"
+          ]
+        }
+      ],
+      "accreditation": "Agency for Science and Higher Education (AZVO)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ivica Katavić"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Danijel Knežević"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Marija Volarević"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2019-2020",
+        "Staff Full Time Total:": "12"
+      },
+      "history": "Founded 2008 as \"Nikola Šubić Zrinski\" University College of Economics, Entrepreneurship and Management, acquired current title 2019",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "3760",
+      "iau_id": "IAU-003760",
+      "name": "Libertas International University",
+      "alt_name": "Libertas međunarodno sveučilište",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sUzxWLGBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003760",
+      "address": {
+        "Street": "Riva 4 and 6",
+        "City": "Pula",
+        "Post Code": "52100",
+        "WWW": "https://www.iv.hr"
+      },
+      "website": "https://www.iv.hr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2009,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Croatian"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Creative Management in Processes",
+          "fields": [
+            "Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Mechatronics",
+          "fields": [
+            "Computer Science",
+            "Electrical Engineering",
+            "Mechanical Engineering",
+            "Robotics"
+          ]
+        },
+        {
+          "name": "Course/Programme : Polytechnics",
+          "fields": [
+            "Engineering",
+            "Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Svjedodžba stručnog studija - stručni pristupnik",
+          "fields": [
+            "Engineering"
+          ]
+        },
+        {
+          "name": "Diploma stručnog studija - stručni prvostupnik (baccalaureus)",
+          "fields": [
+            "Computer Science",
+            "Electrical Engineering",
+            "Engineering",
+            "Management",
+            "Mechanical Engineering",
+            "Robotics"
+          ]
+        },
+        {
+          "name": "Diploma specijalističkog diplomskog stručnog studija - stručni specijalist",
+          "fields": [
+            "Management"
+          ]
+        }
+      ],
+      "accreditation": "Agency for Science and Higher Education (AZVO)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Boris Marjanović"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Dijana Drandić"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Ivan Beletić Tatić"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Viktor Vojnić"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2019-2020",
+        "Staff Full Time Total:": "16"
+      },
+      "history": "Founded 2009, formely known as Polytechnic Pula - College of applied sciences",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "22685",
+      "iau_id": "IAU-022685",
+      "name": "Međimurje Polytechnic in Čakovec",
+      "alt_name": "Međimursko veleučilište u Čakovcu",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyhWLiM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-022685",
+      "address": {
+        "Street": "Trg Svetog Trojstva 3",
+        "City": "Osijek",
+        "Post Code": "31 000",
+        "WWW": "http://www.unios.hr"
+      },
+      "website": "http://www.unios.hr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1975,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "October to September (October-February; March-September)",
+      "languages": [
+        "Croatian"
+      ],
+      "faculties": [
+        {
+          "name": "Academy : Arts",
+          "fields": [
+            "Arts and Humanities"
+          ]
+        },
+        {
+          "name": "College : Teacher Training",
+          "fields": [
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Department/Division : Biology",
+          "fields": [
+            "Biology"
+          ]
+        },
+        {
+          "name": "Department/Division : Chemistry",
+          "fields": [
+            "Chemistry"
+          ]
+        },
+        {
+          "name": "Department/Division : Cultural Studies",
+          "fields": [
+            "Cultural Studies"
+          ]
+        },
+        {
+          "name": "Department/Division : Mathematics",
+          "fields": [
+            "Mathematics"
+          ]
+        },
+        {
+          "name": "Department/Division : Physics",
+          "fields": [
+            "Physics"
+          ]
+        },
+        {
+          "name": "Faculty : Agriculture",
+          "fields": [
+            "Agricultural Economics",
+            "Agricultural Equipment",
+            "Agriculture",
+            "Animal Husbandry",
+            "Biology",
+            "Chemistry",
+            "Crop Production",
+            "Fishery",
+            "Horticulture",
+            "Soil Science"
+          ]
+        },
+        {
+          "name": "Faculty : Civil Engineering",
+          "fields": [
+            "Civil Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Economics",
+          "fields": [
+            "Business Computing",
+            "Economics",
+            "Finance",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Faculty : Electrical Engineering",
+          "fields": [
+            "Electrical Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Food Technology",
+          "fields": [
+            "Food Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Mechanical Engineering",
+          "fields": [
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Faculty : Philosophy",
+          "fields": [
+            "Philosophy"
+          ]
+        },
+        {
+          "name": "Faculty : Theology",
+          "fields": [
+            "Theology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma preddiplomskog sveucilisnog studija - sveučilišni prvostupnik (baccalaureus)",
+          "fields": [
+            "Acting",
+            "Agricultural Economics",
+            "Agricultural Equipment",
+            "Agriculture",
+            "Animal Husbandry",
+            "Biology",
+            "Biomedicine",
+            "Business Computing",
+            "Chemistry",
+            "Civil Engineering",
+            "Computer Science",
+            "Cultural Studies",
+            "Electrical Engineering",
+            "English",
+            "Finance",
+            "Fine Arts",
+            "Food Technology",
+            "German",
+            "History",
+            "Horticulture",
+            "Hungarian",
+            "Information Sciences",
+            "Law",
+            "Library Science",
+            "Literature",
+            "Management",
+            "Marketing",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Media Studies",
+            "Music Education",
+            "Musical Instruments",
+            "Nursing",
+            "Pedagogy",
+            "Performing Arts",
+            "Philosophy",
+            "Physical Therapy",
+            "Physics",
+            "Preschool Education",
+            "Psychology",
+            "Serbocroatian",
+            "Singing",
+            "Theatre",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Diploma stručnog studija - stručni prvostupnik (baccalaureus)",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Agricultural Business",
+            "Agricultural Equipment",
+            "Animal Husbandry",
+            "Construction Engineering",
+            "Electrical Engineering",
+            "Horticulture",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Diploma diplomskog sveučilišnog studija - magistar",
+          "fields": [
+            "Acting",
+            "Agricultural Economics",
+            "Agricultural Equipment",
+            "Agriculture",
+            "Animal Husbandry",
+            "Applied Mathematics",
+            "Biology",
+            "Biomedicine",
+            "Business Administration",
+            "Business Computing",
+            "Chemistry",
+            "Civil Engineering",
+            "Computer Education",
+            "Computer Engineering",
+            "Computer Science",
+            "Construction Engineering",
+            "Cultural Studies",
+            "Development Studies",
+            "Economic and Finance Policy",
+            "Electrical Engineering",
+            "English",
+            "Environmental Studies",
+            "Finance",
+            "Fine Arts",
+            "Floriculture",
+            "Food Science",
+            "Food Technology",
+            "Foreign Languages Education",
+            "Fruit Production",
+            "German",
+            "History",
+            "Horticulture",
+            "Humanities and Social Science Education",
+            "Hydraulic Engineering",
+            "Information Sciences",
+            "Information Technology",
+            "Laboratory Techniques",
+            "Law",
+            "Library Science",
+            "Literature",
+            "Management",
+            "Marketing",
+            "Materials Engineering",
+            "Mathematics",
+            "Mathematics and Computer Science",
+            "Mechanical Engineering",
+            "Media Studies",
+            "Medicine",
+            "Music Education",
+            "Musical Instruments",
+            "Natural Resources",
+            "Nursing",
+            "Nutrition",
+            "Performing Arts",
+            "Philosophy",
+            "Physical Education",
+            "Plant and Crop Protection",
+            "Power Engineering",
+            "Preschool Education",
+            "Primary Education",
+            "Production Engineering",
+            "Publishing and Book Trade",
+            "Science Education",
+            "Serbocroatian",
+            "Singing",
+            "Soil Science",
+            "Telecommunications Engineering",
+            "Theatre",
+            "Theology",
+            "Translation and Interpretation",
+            "Transport Engineering",
+            "Transport Management",
+            "Vegetable Production",
+            "Viticulture"
+          ]
+        },
+        {
+          "name": "Diploma poslijediplomskog specijalističkog studija - sveučilišni specijalist",
+          "fields": [
+            "Administration",
+            "Anaesthesiology",
+            "Animal Husbandry",
+            "Banking",
+            "Civil Engineering",
+            "Computer Science",
+            "Criminal Law",
+            "Electrical Engineering",
+            "Environmental Studies",
+            "Epidemiology",
+            "European Studies",
+            "Farm Management",
+            "Finance",
+            "Food Technology",
+            "Human Rights",
+            "Management",
+            "Marketing",
+            "Materials Engineering",
+            "Mechanical Engineering",
+            "Medicine",
+            "Nutrition",
+            "Ophthalmology",
+            "Optometry",
+            "Plant and Crop Protection",
+            "Production Engineering",
+            "Safety Engineering",
+            "Special Education",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Diploma specijalističkog diplomskog stručnog studija - stručni specijalist",
+          "fields": [
+            "Construction Engineering",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "Diploma poslijediplomskog sveučilišnog studija - doktor znanosti/doktor umjetnosti",
+          "fields": [
+            "Agriculture",
+            "Biomedicine",
+            "Civil Engineering",
+            "Communication Studies",
+            "Computer Science",
+            "Cultural Studies",
+            "Electrical Engineering",
+            "Environmental Studies",
+            "European Studies",
+            "Food Technology",
+            "Health Sciences",
+            "Law",
+            "Linguistics",
+            "Literature",
+            "Management",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Medicine",
+            "Molecular Biology",
+            "Nutrition",
+            "Pedagogy",
+            "Philosophy"
+          ]
+        }
+      ],
+      "accreditation": "Agency for Science and Higher Education (AZVO)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Vlado Guberac"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Drago Šubarić"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Dražan Kozak"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Lidija Getto"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Sonja Vila"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2015-2016",
+        "Staff Full Time Total:": "775",
+        "Students Statistics Year:": "2015-2016",
+        "Students Total:": "18004"
+      },
+      "history": "Founded 1975, incorporating Faculty of Economics formerly attached to University of Zagreb. Acquired present title 1990. An independent self-governing institution.",
+      "periodicals": [
+        "Ekonomski vjesnik (Economic Courier) Medical Courier Pravni vjesnik (Law Courier) Research and Practice in Agriculture and Food Technology",
+        "Ekonomski vjesnik (Economic Courier)",
+        "Medical Courier",
+        "Pravni vjesnik (Law Courier)",
+        "Research and Practice in Agriculture and Food Technology"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "22595",
+      "iau_id": "IAU-022595",
+      "name": "Police College in Zagreb",
+      "alt_name": "Visoka policijska škola u Zagrebu",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyhVLjM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-022595",
+      "address": {
+        "Street": "Milislava Demerca 1",
+        "City": "Križevci",
+        "Post Code": "48260",
+        "WWW": "http://www.vguk.hr"
+      },
+      "website": "http://www.vguk.hr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1998,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Croatian"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Specialist Graduate Professional Studies",
+          "fields": [
+            "Agricultural Management",
+            "Agriculture"
+          ]
+        },
+        {
+          "name": "Department/Division : Undergraduate Professional Studies",
+          "fields": [
+            "Agricultural Management",
+            "Agriculture",
+            "Animal Husbandry",
+            "Crop Production"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma stručnog studija - stručni prvostupnik (baccalaureus)",
+          "fields": [
+            "Agriculture"
+          ]
+        },
+        {
+          "name": "Diploma specijalističkog diplomskog stručnog studija - stručni specijalist",
+          "fields": [
+            "Agricultural Management",
+            "Agriculture"
+          ]
+        }
+      ],
+      "accreditation": "Agency for Science and Higher Education (AZVO)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Marijana Ivanek-Martinčić"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Vesna Bradarić"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1998",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "20843",
+      "iau_id": "IAU-020843",
+      "name": "Polytechnic in Požega",
+      "alt_name": "Veleučilište u Požegi (VUP)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BYLSMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020843",
+      "address": {
+        "Street": "Sv. Dominika 4",
+        "City": "Dubrovnik",
+        "Post Code": "20000",
+        "WWW": "https://www.libertas.hr"
+      },
+      "website": "https://www.libertas.hr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2008,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Croatian"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Film and Performing Arts",
+          "fields": [
+            "Film",
+            "Performing Arts"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences",
+          "fields": [
+            "Embryology and Reproduction Biology",
+            "Health Sciences",
+            "Obstetrics and Gynaecology"
+          ]
+        },
+        {
+          "name": "Faculty : International Business and Economics",
+          "fields": [
+            "Commercial Law",
+            "Economics",
+            "Finance",
+            "International Business",
+            "International Economics",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : International Relations and Diplomacy",
+          "fields": [
+            "International Relations and Diplomacy"
+          ]
+        },
+        {
+          "name": "School : Business",
+          "fields": [
+            "Business Administration"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma preddiplomskog sveucilisnog studija - sveučilišni prvostupnik (baccalaureus)",
+          "fields": [
+            "Acting",
+            "International Business",
+            "International Relations and Diplomacy",
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "Diploma stručnog studija - stručni prvostupnik (baccalaureus)",
+          "fields": [
+            "Business Administration",
+            "Economics",
+            "Hotel Management",
+            "Protective Services",
+            "Sports Management",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Diploma diplomskog sveučilišnog studija - magistar",
+          "fields": [
+            "Business and Commerce",
+            "Economics",
+            "International Relations and Diplomacy"
+          ]
+        },
+        {
+          "name": "Diploma specijalističkog diplomskog stručnog studija - stručni specijalist",
+          "fields": [
+            "Banking",
+            "Business and Commerce",
+            "Finance",
+            "Hotel Management",
+            "Insurance",
+            "International Business",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Diploma poslijediplomskog sveučilišnog studija - doktor znanosti/doktor umjetnosti",
+          "fields": [
+            "Health Administration",
+            "International Relations and Diplomacy"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Science, Education and Sports of the Republic of Croatia; Agency for Science and Higher Education (AZVO)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Duško Pavlović"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Ante Samodol"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Ana Stavljenić-Rukavina"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Ksenija Keča"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2008 as DIU Libertas International University in Zagreb and Dubrovnik. Acquired current title following merger with Libertas Business School in Zagreb 2016",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "20841",
+      "iau_id": "IAU-020841",
+      "name": "Polytechnic Marko Marulić in Knin",
+      "alt_name": "Veleučilište \"Marko Marulić\" u Kninu – The Marko Marulić Polytechnic in Knin",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BYLSMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020841",
+      "address": {
+        "Street": "Bana Josipa Jelačica 22a",
+        "City": "Čakovec",
+        "Post Code": "40 000",
+        "WWW": "http://www.mev.hr"
+      },
+      "website": "http://www.mev.hr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Cambodian",
+        "Croatian"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Computer Science",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Department/Division : Sustainable Development",
+          "fields": [
+            "Environmental Engineering",
+            "Mechanical Engineering",
+            "Thermal Engineering"
+          ]
+        },
+        {
+          "name": "Department/Division : Tourism and Sports Management",
+          "fields": [
+            "Management",
+            "Sports",
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma stručnog studija - stručni prvostupnik (baccalaureus)",
+          "fields": [
+            "Computer Science",
+            "Environmental Engineering",
+            "Sports Management",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Diploma poslijediplomskog specijalističkog studija - sveučilišni specijalist",
+          "fields": [
+            "Sports Management",
+            "Tourism"
+          ]
+        }
+      ],
+      "accreditation": "Agency for Science and Higher Education (AZVO)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Igor Klopotan"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Mirjana Trstenjak"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Marija Miščančuk"
+        }
+      ],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "22676",
+      "iau_id": "IAU-022676",
+      "name": "Polytechnic of Applied Health Studies in Zagreb",
+      "alt_name": "Zdravstveno veleučilište u Zagrebu (ZVU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyhWLVM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-022676",
+      "address": {
+        "Street": "Avenija Gojka Šuška 1",
+        "City": "Zagreb",
+        "Post Code": "10000",
+        "WWW": "https://policijska-akademija.gov.hr/visoka-policijska-skola/43"
+      },
+      "website": "https://policijska-akademija.gov.hr/visoka-policijska-skola/43",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1971,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Croatian"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Criminology",
+          "fields": [
+            "Criminology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma stručnog studija - stručni prvostupnik (baccalaureus)",
+          "fields": [
+            "Criminology"
+          ]
+        },
+        {
+          "name": "Diploma specijalističkog diplomskog stručnog studija - stručni specijalist",
+          "fields": [
+            "Criminology"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of the Interior of the Republic of Croatia; Agency for Science and Higher Education (AZVO)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Krunoslav Borovec"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Dušan Milivojević"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2019-2020",
+        "Staff Full Time Total:": "27"
+      },
+      "history": "Founded 1971",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "20842",
+      "iau_id": "IAU-020842",
+      "name": "Polytechnic of Karlovac",
+      "alt_name": "Veleučilište u Karlovcu",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BYLSMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020842",
+      "address": {
+        "Street": "Vukovarska 17",
+        "City": "Požega",
+        "Post Code": "34000",
+        "WWW": "http://www.vup.hr"
+      },
+      "website": "http://www.vup.hr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1998,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Croatian"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Agriculture",
+          "fields": [
+            "Agriculture",
+            "Food Technology",
+            "Fruit Production",
+            "Oenology",
+            "Viticulture"
+          ]
+        },
+        {
+          "name": "Department/Division : Social Sciences",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Business and Commerce"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma stručnog studija - stručni prvostupnik (baccalaureus)",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Business and Commerce",
+            "Food Technology",
+            "Fruit Production",
+            "Oenology",
+            "Viticulture"
+          ]
+        },
+        {
+          "name": "Diploma specijalističkog diplomskog stručnog studija - stručni specijalist",
+          "fields": [
+            "Business and Commerce"
+          ]
+        }
+      ],
+      "accreditation": "Agency for Science and Higher Education (AZVO)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Borislav Miličević"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Brankica Svitlica"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Jasmina Mlađenović"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1998",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "20844",
+      "iau_id": "IAU-020844",
+      "name": "Polytechnic of Rijeka",
+      "alt_name": "Veleučilište u Rijeci",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BYLSMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020844",
+      "address": {
+        "Street": "Petra Krešimira IV 30",
+        "City": "Knin",
+        "Post Code": "22300",
+        "WWW": "http://www.veleknin.hr"
+      },
+      "website": "http://www.veleknin.hr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2005,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Croatian"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Agriculture",
+          "fields": [
+            "Agriculture",
+            "Animal Husbandry",
+            "Horticulture"
+          ]
+        },
+        {
+          "name": "Department/Division : Commercial Business and Entrepreneurship",
+          "fields": [
+            "Business Administration",
+            "Business and Commerce"
+          ]
+        },
+        {
+          "name": "Department/Division : Food Technology",
+          "fields": [
+            "Food Science",
+            "Food Technology"
+          ]
+        },
+        {
+          "name": "Research Division : Innovation Centre",
+          "fields": [
+            "Agriculture",
+            "Business Administration",
+            "Food Technology",
+            "Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma stručnog studija - stručni prvostupnik (baccalaureus)",
+          "fields": [
+            "Agriculture",
+            "Business Administration",
+            "Food Technology",
+            "Management"
+          ]
+        },
+        {
+          "name": "Diploma specijalističkog diplomskog stručnog studija - stručni specijalist",
+          "fields": [
+            "Economics",
+            "Management"
+          ]
+        }
+      ],
+      "accreditation": "Agency for Science and Higher Education (AZVO)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Lovorka Blažević"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Emilija Friganović"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Marija Vrdoljak"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2019-2020",
+        "Staff Full Time Total:": "24"
+      },
+      "history": "Founded 2005",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "22605",
+      "iau_id": "IAU-022605",
+      "name": "Polytechnic of Šibenik",
+      "alt_name": "Veleučilište u Šibeniku (VUS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyhWLCM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-022605",
+      "address": {
+        "Street": "Mlinarska cesta 38",
+        "City": "Zagreb",
+        "Post Code": "10000",
+        "WWW": "http://www.zvu.hr"
+      },
+      "website": "http://www.zvu.hr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1996,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Croatian"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Ergotherapy",
+          "fields": [
+            "Ergotherapy"
+          ]
+        },
+        {
+          "name": "Course/Programme : Laboratory Techniques",
+          "fields": [
+            "Medical Technology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Course/Programme : Physiotherapy",
+          "fields": [
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "Course/Programme : Radiology",
+          "fields": [
+            "Radiology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma stručnog studija - stručni prvostupnik (baccalaureus)",
+          "fields": [
+            "Engineering",
+            "Environmental Studies",
+            "Health Sciences",
+            "Laboratory Techniques",
+            "Nursing",
+            "Occupational Health",
+            "Physical Therapy",
+            "Radiology"
+          ]
+        },
+        {
+          "name": "Diploma specijalističkog diplomskog stručnog studija - stručni specijalist",
+          "fields": [
+            "Engineering",
+            "Health Sciences",
+            "Nursing",
+            "Physical Therapy",
+            "Public Health"
+          ]
+        }
+      ],
+      "accreditation": "Agency for Science and Higher Education (AZVO)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Krešimir Rotim"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Nenad Mojsović"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Snježana Čukljek"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Tomislav Madžar"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2019-2020",
+        "Staff Full Time Total:": "600",
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "4000"
+      },
+      "history": "Founded 1996 as the School of Health Studies in Zagreb 1996 by gaining independence and splitting from the School of Medicine in Zagreb, acquired current status and title 2005",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "22587",
+      "iau_id": "IAU-022587",
+      "name": "RIT Croatia",
+      "alt_name": "Rochester Institute of Technology Croatia (RIT)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyhVLiM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-022587",
+      "address": {
+        "Street": "Trg Josipa Jurja Strossmayera 9",
+        "City": "Karlovac",
+        "Province": "+385 (0) 47 84-35-03",
+        "Post Code": "47000",
+        "WWW": "http://www.vuka.hr"
+      },
+      "website": "http://www.vuka.hr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1997,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Croatian"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Business",
+          "fields": [
+            "Economics",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Department/Division : Food Technology",
+          "fields": [
+            "Food Technology"
+          ]
+        },
+        {
+          "name": "Department/Division : Gamekeeping and Environmental Protection",
+          "fields": [
+            "Wildlife"
+          ]
+        },
+        {
+          "name": "Department/Division : Mechanical Engineering",
+          "fields": [
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "Department/Division : Safety and Protection",
+          "fields": [
+            "Safety Engineering"
+          ]
+        },
+        {
+          "name": "Department/Division : Textile Technology",
+          "fields": [
+            "Textile Technology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma stručnog studija - stručni prvostupnik (baccalaureus)",
+          "fields": [
+            "Electronic Engineering",
+            "Engineering",
+            "Environmental Management",
+            "Food Technology",
+            "Hotel and Restaurant",
+            "Mechanical Engineering",
+            "Nursing",
+            "Protective Services",
+            "Textile Technology",
+            "Wildlife"
+          ]
+        },
+        {
+          "name": "Diploma specijalističkog diplomskog stručnog studija - stručni specijalist",
+          "fields": [
+            "Business Administration",
+            "Engineering",
+            "Protective Services"
+          ]
+        }
+      ],
+      "accreditation": "Agency for Science and Higher Education (AZVO)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Branko Wasserbauer"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Marin Kundić"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Vedran Vyroubal"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1997",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "22609",
+      "iau_id": "IAU-022609",
+      "name": "RRiF College of Financial Management",
+      "alt_name": "RRiF Visoka škola za financijski menadžment (RVS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyhWLCNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-022609",
+      "address": {
+        "Street": "Trpimirova 2",
+        "City": "Rijeka",
+        "Post Code": "51000",
+        "WWW": "http://www.veleri.hr"
+      },
+      "website": "http://www.veleri.hr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1998,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Croatian"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Agriculture",
+          "fields": [
+            "Agriculture"
+          ]
+        },
+        {
+          "name": "Department/Division : Business",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Department/Division : Occupational Safety",
+          "fields": [
+            "Occupational Health"
+          ]
+        },
+        {
+          "name": "Department/Division : Transport",
+          "fields": [
+            "Railway Transport",
+            "Road Transport",
+            "Transport and Communications"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma stručnog studija - stručni prvostupnik (baccalaureus)",
+          "fields": [
+            "Agriculture",
+            "Information Sciences",
+            "Information Technology",
+            "Management",
+            "Occupational Health",
+            "Railway Transport",
+            "Road Transport",
+            "Viticulture"
+          ]
+        },
+        {
+          "name": "Diploma specijalističkog diplomskog stručnog studija - stručni specijalist",
+          "fields": [
+            "Information Sciences",
+            "Information Technology",
+            "Management",
+            "Occupational Health",
+            "Transport and Communications",
+            "Viticulture"
+          ]
+        }
+      ],
+      "accreditation": "Agency for Science and Higher Education (AZVO)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Saša Hirnig"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Ljerka Tomljenović"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Marino Golob"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Eda Ribarić Čučković"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1998",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "22607",
+      "iau_id": "IAU-022607",
+      "name": "University North",
+      "alt_name": "Sveučilište Sjever (UNIN)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyhWLCM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-022607",
+      "address": {
+        "Street": "Trg Andrije Hebranga 11",
+        "City": "Šibenik",
+        "Post Code": "22000",
+        "WWW": "http://www.vus.hr"
+      },
+      "website": "http://www.vus.hr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2006,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Croatian"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Management",
+          "fields": [
+            "Management",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Department/Division : Public Administration",
+          "fields": [
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "Department/Division : Transport and Traffic",
+          "fields": [
+            "Transport and Communications"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma stručnog studija - stručni prvostupnik (baccalaureus)",
+          "fields": [
+            "Administration",
+            "Business Administration",
+            "Information Sciences",
+            "Management",
+            "Tourism",
+            "Transport and Communications"
+          ]
+        },
+        {
+          "name": "Diploma specijalističkog diplomskog stručnog studija - stručni specijalist",
+          "fields": [
+            "Administration",
+            "Management"
+          ]
+        }
+      ],
+      "accreditation": "Agency for Science and Higher Education (AZVO)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ljubo Runjić"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Dragan Erceg"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Ivana Beljo"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2006",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "20932",
+      "iau_id": "IAU-020932",
+      "name": "University of Applied Sciences Baltazar Zaprešić",
+      "alt_name": "Veleučilište Baltazar Zaprešić – Polytechnic Baltazar Zaprešić",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BZLFMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020932",
+      "address": {
+        "Street": "Don Frana Bulića 6",
+        "City": "Dubrovnik",
+        "Post Code": "20000",
+        "WWW": "http://www.croatia.rit.edu"
+      },
+      "website": "http://www.croatia.rit.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1997,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Hospitality and Tourism Management",
+          "fields": [
+            "Hotel and Restaurant",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Course/Programme : Information Sciences and Technology",
+          "fields": [
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Course/Programme : International Business",
+          "fields": [
+            "International Business"
+          ]
+        },
+        {
+          "name": "Course/Programme : International Hospitality and Service Management",
+          "fields": [
+            "Hotel and Restaurant",
+            "Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : IT / Web and Mobile Computing",
+          "fields": [
+            "Computer Engineering",
+            "Computer Science",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Service Leadership and Innovation",
+          "fields": [
+            "Leadership",
+            "Service Trades"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma stručnog studija - stručni prvostupnik (baccalaureus)",
+          "fields": [
+            "Information Technology",
+            "International Business",
+            "Service Trades"
+          ]
+        }
+      ],
+      "accreditation": "Agency for Science and Higher Education (AZVO); The Middle States Commission on Higher Education; AACSB International (The Association to Advance Collegiate Schools of Business)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Don Hudspeth"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Alice Almer"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Marija Šušak"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Marina Drmač"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2019-2020",
+        "Staff Full Time Total:": "38"
+      },
+      "history": "Founded 1997, as the American College of Management and Technology (ACMT), RIT Croatia acquired present name in 2013",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "22668",
+      "iau_id": "IAU-022668",
+      "name": "University of Applied Sciences Velika Gorica",
+      "alt_name": "Veleučilište Velika Gorica – University of Applied Sciences Velika Gorica (VVG)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyhWLUNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-022668",
+      "address": {
+        "Street": "Martićeva 29",
+        "City": "Zagreb",
+        "Post Code": "10000",
+        "WWW": "https://rvs.hr"
+      },
+      "website": "https://rvs.hr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2006,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Croatian"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Accounting and Finance",
+          "fields": [
+            "Accountancy",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Course/Programme : Corporate Finance",
+          "fields": [
+            "Finance"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma stručnog studija - stručni prvostupnik (baccalaureus)",
+          "fields": [
+            "Accountancy",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Diploma specijalističkog diplomskog stručnog studija - stručni specijalist",
+          "fields": [
+            "Finance"
+          ]
+        }
+      ],
+      "accreditation": "Agency for Science and Higher Education (AZVO)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Đurđica Jurić"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Ivica Voloder"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Martina Herceg Rendeli"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2019-2020",
+        "Staff Full Time Total:": "8"
+      },
+      "history": "Founded 2006",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "16005",
+      "iau_id": "IAU-016005",
+      "name": "University of Dubrovnik",
+      "alt_name": "Sveučilište u Dubrovniku",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhQLCM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016005",
+      "address": {
+        "Street": "Trg dr. Žarka Dolinara 1",
+        "City": "Koprivnica",
+        "Post Code": "48000",
+        "WWW": "http://www.unin.hr"
+      },
+      "website": "http://www.unin.hr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2014,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Croatian"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Business and Management",
+          "fields": [
+            "Business Administration",
+            "Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Business Economics",
+          "fields": [
+            "Business Administration",
+            "Economics"
+          ]
+        },
+        {
+          "name": "Department/Division : Civil Engineering",
+          "fields": [
+            "Civil Engineering"
+          ]
+        },
+        {
+          "name": "Department/Division : Communicology and Public Relations",
+          "fields": [
+            "Communication Studies",
+            "Public Relations"
+          ]
+        },
+        {
+          "name": "Department/Division : Electrical Engineering",
+          "fields": [
+            "Electrical Engineering"
+          ]
+        },
+        {
+          "name": "Department/Division : Journalism",
+          "fields": [
+            "Journalism"
+          ]
+        },
+        {
+          "name": "Department/Division : Mechanical Engineering",
+          "fields": [
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "Department/Division : Media Design",
+          "fields": [
+            "Communication Arts",
+            "Graphic Design"
+          ]
+        },
+        {
+          "name": "Department/Division : Multimedia, Design and Application",
+          "fields": [
+            "Design",
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "Department/Division : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Department/Division : Technical and Economic Logistics",
+          "fields": [
+            "Transport Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma preddiplomskog sveucilisnog studija - sveučilišni prvostupnik (baccalaureus)",
+          "fields": [
+            "Business Administration",
+            "Civil Engineering",
+            "Design",
+            "Electrical Engineering",
+            "Food Technology",
+            "Journalism",
+            "Management",
+            "Mass Communication",
+            "Mechanical Engineering",
+            "Media Studies",
+            "Multimedia",
+            "Nursing",
+            "Physical Therapy",
+            "Production Engineering",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Diploma diplomskog sveučilišnog studija - magistar",
+          "fields": [
+            "Business Administration",
+            "Communication Arts",
+            "Communication Studies",
+            "Construction Engineering",
+            "Economics",
+            "Engineering",
+            "Environmental Studies",
+            "Graphic Design",
+            "Journalism",
+            "Management",
+            "Media Studies",
+            "Multimedia",
+            "Nursing",
+            "Packaging Technology",
+            "Public Relations",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Diploma poslijediplomskog sveučilišnog studija - doktor znanosti/doktor umjetnosti",
+          "fields": [
+            "Communication Studies",
+            "International Economics",
+            "Management",
+            "Media Studies"
+          ]
+        }
+      ],
+      "accreditation": "Agency for Science and Higher Education (AZVO)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Marin Milkovic"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Goran Kozina"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Vlado Tropša"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Vladimir Šimović"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2014",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "16007",
+      "iau_id": "IAU-016007",
+      "name": "University of Rijeka",
+      "alt_name": "Sveučilište u Rijeci (UNIRI)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhQLCM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016007",
+      "address": {
+        "Street": "Vladimira Novaka 23",
+        "City": "Zaprešić",
+        "Post Code": "10290",
+        "WWW": "https://www.bak.hr"
+      },
+      "website": "https://www.bak.hr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2001,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Croatian"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Business and Finance",
+          "fields": [
+            "Business and Commerce",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Course/Programme : Cultural Management",
+          "fields": [
+            "Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Office Management",
+          "fields": [
+            "Business and Commerce",
+            "Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma stručnog studija - stručni prvostupnik (baccalaureus)",
+          "fields": [
+            "Business Administration",
+            "Economics",
+            "Finance",
+            "Information Technology",
+            "Management"
+          ]
+        },
+        {
+          "name": "Diploma specijalističkog diplomskog stručnog studija - stručni specijalist",
+          "fields": [
+            "Finance",
+            "Management",
+            "Public Administration"
+          ]
+        }
+      ],
+      "accreditation": "Agency for Science and Higher Education (AZVO)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Vladimir Simovic"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Ivan Ružić"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Nina Nemčić"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2019-2020",
+        "Staff Full Time Total:": "53"
+      },
+      "history": "Founded 2001. Formerly kown as \"Baltazar Adam Krčelić\" College of Business Administration",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "16008",
+      "iau_id": "IAU-016008",
+      "name": "University of Split",
+      "alt_name": "Sveučilište u Splitu",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhQLCNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016008",
+      "address": {
+        "Street": "Zagrebačka 5",
+        "City": "Velika Gorica",
+        "Post Code": "10410",
+        "WWW": "http://www.vvg.hr"
+      },
+      "website": "http://www.vvg.hr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2003,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Croatian"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Aircraft Maintenance",
+          "fields": [
+            "Maintenance Technology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Computer System Maintenance",
+          "fields": [
+            "Maintenance Technology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Crisis Management",
+          "fields": [
+            "Peace and Disarmament"
+          ]
+        },
+        {
+          "name": "Course/Programme : Crisis Management",
+          "fields": [
+            "Peace and Disarmament"
+          ]
+        },
+        {
+          "name": "Course/Programme : Information Systems",
+          "fields": [
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Management of Logistic Systems and Processes",
+          "fields": [
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Motor Vehicle Maintenance",
+          "fields": [
+            "Maintenance Technology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Optometry",
+          "fields": [
+            "Optometry"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma stručnog studija - stručni prvostupnik (baccalaureus)",
+          "fields": [
+            "Maintenance Technology",
+            "Optometry",
+            "Peace and Disarmament"
+          ]
+        },
+        {
+          "name": "Diploma specijalističkog diplomskog stručnog studija - stručni specijalist",
+          "fields": [
+            "Information Technology",
+            "Transport Management"
+          ]
+        }
+      ],
+      "accreditation": "Agency for Science and Higher Education (AZVO)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ivan Toth"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Ivan Nadj"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Lidija Derdić"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Alen Stranjik"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2019-2020",
+        "Staff Full Time Total:": "41",
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "1700"
+      },
+      "history": "Founded 2003",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "16009",
+      "iau_id": "IAU-016009",
+      "name": "University of Zadar",
+      "alt_name": "Sveučilište u Zadru (UNIZD)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhQLCNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016009",
+      "address": {
+        "Street": "Ćire Carića 4",
+        "City": "Dubrovnik",
+        "Province": "44-57-44",
+        "Post Code": "20000",
+        "WWW": "http://www.unidu.hr"
+      },
+      "website": "http://www.unidu.hr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2003,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Croatian"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Department/Division : Aquaculture",
+          "fields": [
+            "Aquaculture"
+          ]
+        },
+        {
+          "name": "Department/Division : Art and Restoration",
+          "fields": [
+            "Art History",
+            "Fine Arts",
+            "Heritage Preservation",
+            "Restoration of Works of Art"
+          ]
+        },
+        {
+          "name": "Department/Division : Economics and Business Economics",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Business Computing",
+            "E-Business/Commerce",
+            "Economics",
+            "Finance",
+            "Hotel Management",
+            "Human Resources",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Department/Division : Electrical Engineering and Computing",
+          "fields": [
+            "Business Computing",
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Department/Division : Marine Engineering",
+          "fields": [
+            "Engineering",
+            "Marine Engineering",
+            "Nautical Science"
+          ]
+        },
+        {
+          "name": "Department/Division : Maritime",
+          "fields": [
+            "Marine Engineering"
+          ]
+        },
+        {
+          "name": "Department/Division : Mass Communication",
+          "fields": [
+            "Cultural Studies",
+            "Mass Communication",
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "Department/Division : Tourism",
+          "fields": [
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma preddiplomskog sveucilisnog studija - sveučilišni prvostupnik (baccalaureus)",
+          "fields": [
+            "Aquaculture",
+            "Business Administration",
+            "Business Computing",
+            "Cultural Studies",
+            "Economics",
+            "Electrical Engineering",
+            "Marine Engineering",
+            "Media Studies",
+            "Nautical Science",
+            "Nursing",
+            "Restoration of Works of Art",
+            "Social Sciences",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Diploma diplomskog sveučilišnog studija - magistar",
+          "fields": [
+            "Business Administration",
+            "Business Computing",
+            "Economics",
+            "Electrical Engineering",
+            "Fishery",
+            "Marine Engineering",
+            "Marine Science and Oceanography",
+            "Marine Transport",
+            "Media Studies",
+            "Public Relations",
+            "Restoration of Works of Art",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Diploma poslijediplomskog specijalističkog studija - sveučilišni specijalist",
+          "fields": [
+            "Biology",
+            "History",
+            "Marine Science and Oceanography",
+            "Marine Transport",
+            "Marketing",
+            "Molecular Biology",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Diploma poslijediplomskog sveučilišnog studija - doktor znanosti/doktor umjetnosti",
+          "fields": [
+            "Marine Science and Oceanography"
+          ]
+        }
+      ],
+      "accreditation": "Agency for Science and Higher Education (AZVO)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Nikša Burum"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Dalibor Ivušić"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Martin Lazar"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Sandra Memunić"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2019-2020",
+        "Staff Full Time Total:": "100"
+      },
+      "history": "Founded 2003. Formerly known as Dubrovnik Polytechnic",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "22621",
+      "iau_id": "IAU-022621",
+      "name": "Virovitica Polytechnic",
+      "alt_name": "Veleučilište u Virovitici",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyhWLEMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-022621",
+      "address": {
+        "Street": "Trg braće Mažuranića 10",
+        "City": "Rijeka",
+        "Post Code": "51000",
+        "WWW": "https://uniri.hr"
+      },
+      "website": "https://uniri.hr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1973,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "October to June",
+      "languages": [
+        "English",
+        "Croatian",
+        "Italian"
+      ],
+      "faculties": [
+        {
+          "name": "Academy : Applied Arts",
+          "fields": [
+            "Fine Arts"
+          ]
+        },
+        {
+          "name": "Faculty : Civil Engineering",
+          "fields": [
+            "Building Technologies",
+            "Civil Engineering",
+            "Construction Engineering",
+            "Geological Engineering",
+            "Hydraulic Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Economics",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Economics",
+            "Finance",
+            "Information Technology",
+            "International Business",
+            "Leadership",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Electrical Engineering",
+            "Engineering",
+            "Mechanical Engineering",
+            "Naval Architecture"
+          ]
+        },
+        {
+          "name": "Faculty : Humanities and Social Sciences",
+          "fields": [
+            "Art History",
+            "Comparative Literature",
+            "Computer Science",
+            "Cultural Studies",
+            "English",
+            "German",
+            "History",
+            "Italian",
+            "Latin",
+            "Literature",
+            "Music",
+            "Musical Instruments",
+            "Pedagogy",
+            "Philosophy",
+            "Psychology",
+            "Serbocroatian",
+            "Slavic Languages"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Administrative Law",
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Maritime Studies",
+          "fields": [
+            "Electronic Engineering",
+            "Information Sciences",
+            "Marine Engineering",
+            "Marine Science and Oceanography",
+            "Marine Transport",
+            "Nautical Science",
+            "Transport and Communications",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Dentistry",
+            "Family Studies",
+            "Medicine",
+            "Nursing",
+            "Psychiatry and Mental Health",
+            "Public Health",
+            "Radiology",
+            "Sanitary Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Teacher Education",
+          "fields": [
+            "Primary Education"
+          ]
+        },
+        {
+          "name": "Faculty : Tourism and Hospitality Management",
+          "fields": [
+            "Business and Commerce",
+            "Hotel Management",
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Svjedodžba stručnog studija - stručni pristupnik",
+          "fields": [
+            "Biotechnology",
+            "Civil Engineering",
+            "Computer Science",
+            "Economics",
+            "Fine Arts",
+            "Health Sciences",
+            "Hotel and Restaurant",
+            "Law",
+            "Marine Transport",
+            "Mathematics",
+            "Medicine",
+            "Philosophy",
+            "Physics",
+            "Retailing and Wholesaling",
+            "Teacher Training",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Diploma preddiplomskog sveucilisnog studija - sveučilišni prvostupnik (baccalaureus)",
+          "fields": [
+            "Biotechnology",
+            "Civil Engineering",
+            "Computer Science",
+            "Economics",
+            "Fine Arts",
+            "Health Sciences",
+            "Hotel and Restaurant",
+            "Law",
+            "Marine Transport",
+            "Mathematics",
+            "Medicine",
+            "Philosophy",
+            "Physics",
+            "Retailing and Wholesaling",
+            "Teacher Training",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Diploma diplomskog sveučilišnog studija - magistar",
+          "fields": [
+            "Biotechnology",
+            "Civil Engineering",
+            "Computer Science",
+            "Economics",
+            "Fine Arts",
+            "Health Sciences",
+            "Hotel and Restaurant",
+            "Law",
+            "Management",
+            "Mathematics",
+            "Medicine",
+            "Philosophy",
+            "Physics",
+            "Teacher Training",
+            "Technology",
+            "Tourism",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Diploma specijalističkog diplomskog stručnog studija - stručni specijalist",
+          "fields": [
+            "Accountancy",
+            "Anaesthesiology",
+            "Biomedicine",
+            "Cardiology",
+            "Commercial Law",
+            "Community Health",
+            "Criminology",
+            "Diabetology",
+            "Economics",
+            "Educational Administration",
+            "Endocrinology",
+            "Finance",
+            "Gastroenterology",
+            "Health Administration",
+            "Health Sciences",
+            "Hotel and Restaurant",
+            "International Business",
+            "Management",
+            "Marketing",
+            "Medicine",
+            "Obstetrics and Gynaecology",
+            "Oncology",
+            "Ophthalmology",
+            "Orthopaedics",
+            "Pharmacology",
+            "Pneumology",
+            "Psychiatry and Mental Health",
+            "Psychology",
+            "Public Administration",
+            "Radiology",
+            "Social and Preventive Medicine",
+            "Surgery",
+            "Tourism",
+            "Toxicology",
+            "Translation and Interpretation",
+            "Treatment Techniques"
+          ]
+        },
+        {
+          "name": "Diploma poslijediplomskog sveučilišnog studija - doktor znanosti/doktor umjetnosti",
+          "fields": [
+            "Applied Chemistry",
+            "Biomedicine",
+            "Business Administration",
+            "Civil Engineering",
+            "Computer Science",
+            "Dentistry",
+            "Economics",
+            "Electrical Engineering",
+            "Engineering",
+            "Environmental Engineering",
+            "Environmental Management",
+            "Health Sciences",
+            "Hotel and Restaurant",
+            "Law",
+            "Linguistics",
+            "Marine Transport",
+            "Mechanical Engineering",
+            "Medicine",
+            "Nautical Science",
+            "Naval Architecture",
+            "Pedagogy",
+            "Philosophy",
+            "Physics",
+            "Psychology",
+            "Public Administration",
+            "Serbocroatian",
+            "Tourism"
+          ]
+        }
+      ],
+      "accreditation": "Agency for Science and Higher Education (AZVO)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Davor Vašiček"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Roberta Hlača Mlinar"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Iva Tijan"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1973, incorporating various institutions of higher education which were established during the 17th and 18th centuries",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "22661",
+      "iau_id": "IAU-022661",
+      "name": "Zagreb School of Business",
+      "alt_name": "Poslovno veleučilište Zagreb (VPSZ)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyhWLUMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-022661",
+      "address": {
+        "Street": "Poljička cesta 35",
+        "City": "Split",
+        "Post Code": "21000",
+        "WWW": "http://www.unist.hr"
+      },
+      "website": "http://www.unist.hr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1974,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "October to September (October-February; March-September)",
+      "languages": [
+        "Croatian"
+      ],
+      "faculties": [
+        {
+          "name": "Academy : Arts",
+          "fields": [
+            "Art Education",
+            "Communication Arts",
+            "Design",
+            "Fine Arts",
+            "Music",
+            "Music Education",
+            "Musical Instruments",
+            "Musicology",
+            "Painting and Drawing",
+            "Restoration of Works of Art",
+            "Sculpture",
+            "Singing"
+          ]
+        },
+        {
+          "name": "Department/Division : Marine Studies",
+          "fields": [
+            "Biology",
+            "Ecology",
+            "Fishery",
+            "Marine Science and Oceanography"
+          ]
+        },
+        {
+          "name": "Department/Division : Professional Studies",
+          "fields": [
+            "Catholic Theology",
+            "Religious Studies",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Faculty : Catholic Theology",
+          "fields": [
+            "Catholic Theology",
+            "Religious Studies",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Faculty : Chemistry and Technology",
+          "fields": [
+            "Chemistry",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Civil Engineering, Architecture and Geodesy",
+          "fields": [
+            "Architecture",
+            "Civil Engineering",
+            "Geology"
+          ]
+        },
+        {
+          "name": "Faculty : Economics",
+          "fields": [
+            "Economics",
+            "Finance",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Electrical Engineering, Mechanical Engineering and Naval Architecture",
+          "fields": [
+            "Computer Science",
+            "Electrical Engineering",
+            "Industrial Engineering",
+            "Mechanical Engineering",
+            "Naval Architecture"
+          ]
+        },
+        {
+          "name": "Faculty : Kinesiology",
+          "fields": [
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Maritime Studies",
+          "fields": [
+            "Electronic Engineering",
+            "Management",
+            "Marine Engineering",
+            "Marine Transport",
+            "Nautical Science"
+          ]
+        },
+        {
+          "name": "Faculty : Philosophy",
+          "fields": [
+            "Education",
+            "English",
+            "History",
+            "Italian",
+            "Philosophy",
+            "Preschool Education",
+            "Primary Education",
+            "Slavic Languages",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Faculty : Science",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Mathematics",
+            "Mathematics and Computer Science",
+            "Physical Education",
+            "Physics",
+            "Technology",
+            "Technology Education"
+          ]
+        },
+        {
+          "name": "School : Medicine",
+          "fields": [
+            "Medicine"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Svjedodžba stručnog studija - stručni pristupnik",
+          "fields": [
+            "Acting",
+            "Agriculture",
+            "Architecture",
+            "Art History",
+            "Biology",
+            "Business Administration",
+            "Chemical Engineering",
+            "Chemistry",
+            "Communication Arts",
+            "Computer Science",
+            "Construction Engineering",
+            "Ecology",
+            "Economics",
+            "Electrical Engineering",
+            "Engineering",
+            "English",
+            "Environmental Studies",
+            "Film",
+            "Fine Arts",
+            "Food Technology",
+            "German",
+            "Graphic Design",
+            "History",
+            "Hotel and Restaurant",
+            "Industrial Engineering",
+            "Information Technology",
+            "Italian",
+            "Laboratory Techniques",
+            "Literature",
+            "Marine Biology",
+            "Marine Engineering",
+            "Marine Transport",
+            "Mathematics",
+            "Midwifery",
+            "Music Education",
+            "Music Theory and Composition",
+            "Musical Instruments",
+            "Nautical Science",
+            "Naval Architecture",
+            "Nursing",
+            "Nutrition",
+            "Painting and Drawing",
+            "Pedagogy",
+            "Philosophy",
+            "Physical Engineering",
+            "Physical Therapy",
+            "Physics",
+            "Preschool Education",
+            "Religious Studies",
+            "Sculpture",
+            "Serbocroatian",
+            "Singing",
+            "Sociology",
+            "Surveying and Mapping",
+            "Technology",
+            "Theology",
+            "Tourism",
+            "Town Planning",
+            "Transport Management",
+            "Treatment Techniques",
+            "Video"
+          ]
+        },
+        {
+          "name": "Diploma preddiplomskog sveucilisnog studija - sveučilišni prvostupnik (baccalaureus)",
+          "fields": [
+            "Acting",
+            "Agriculture",
+            "Architecture",
+            "Art History",
+            "Biology",
+            "Business Administration",
+            "Chemical Engineering",
+            "Chemistry",
+            "Communication Arts",
+            "Computer Science",
+            "Construction Engineering",
+            "Ecology",
+            "Economics",
+            "Electrical Engineering",
+            "Engineering",
+            "English",
+            "Environmental Studies",
+            "Film",
+            "Fine Arts",
+            "Food Technology",
+            "German",
+            "Graphic Design",
+            "History",
+            "Hotel and Restaurant",
+            "Industrial Engineering",
+            "Information Technology",
+            "Italian",
+            "Laboratory Techniques",
+            "Literature",
+            "Marine Biology",
+            "Marine Engineering",
+            "Marine Transport",
+            "Mathematics",
+            "Midwifery",
+            "Music Education",
+            "Music Theory and Composition",
+            "Musical Instruments",
+            "Nautical Science",
+            "Naval Architecture",
+            "Nursing",
+            "Nutrition",
+            "Painting and Drawing",
+            "Pedagogy",
+            "Philosophy",
+            "Physical Engineering",
+            "Physical Therapy",
+            "Physics",
+            "Preschool Education",
+            "Religious Studies",
+            "Sculpture",
+            "Serbocroatian",
+            "Singing",
+            "Sociology",
+            "Surveying and Mapping",
+            "Technology",
+            "Theology",
+            "Tourism",
+            "Town Planning",
+            "Transport Management",
+            "Treatment Techniques",
+            "Video"
+          ]
+        },
+        {
+          "name": "Diploma stručnog studija - stručni prvostupnik (baccalaureus)",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Business and Commerce",
+            "Chemical Engineering",
+            "Computer Science",
+            "Construction Engineering",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Engineering",
+            "Finance",
+            "Information Technology",
+            "Materials Engineering",
+            "Naval Architecture",
+            "Parks and Recreation",
+            "Physical Therapy",
+            "Power Engineering",
+            "Small Business",
+            "Sports",
+            "Structural Architecture",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Diploma diplomskog sveučilišnog studija - magistar",
+          "fields": [
+            "Acting",
+            "Agriculture",
+            "Architecture",
+            "Art History",
+            "Astrophysics",
+            "Biochemistry",
+            "Biology",
+            "Business Administration",
+            "Chemical Engineering",
+            "Chemistry",
+            "Communication Arts",
+            "Computer Education",
+            "Computer Engineering",
+            "Computer Science",
+            "Construction Engineering",
+            "Dentistry",
+            "Ecology",
+            "Economics",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Electronics and Automation",
+            "Engineering",
+            "English",
+            "Environmental Studies",
+            "Film",
+            "Fine Arts",
+            "Fishery",
+            "Food Technology",
+            "Foreign Languages Education",
+            "Forensic Medicine and Dentistry",
+            "German",
+            "Graphic Design",
+            "History",
+            "Hotel and Restaurant",
+            "Humanities and Social Science Education",
+            "Industrial Engineering",
+            "Information Technology",
+            "Italian",
+            "Laboratory Techniques",
+            "Law",
+            "Literature",
+            "Marine Biology",
+            "Marine Engineering",
+            "Marine Transport",
+            "Materials Engineering",
+            "Mathematics",
+            "Mathematics Education",
+            "Media Studies",
+            "Medicine",
+            "Midwifery",
+            "Music",
+            "Music Education",
+            "Music Theory and Composition",
+            "Musical Instruments",
+            "Nautical Science",
+            "Naval Architecture",
+            "Nursing",
+            "Nutrition",
+            "Organic Chemistry",
+            "Painting and Drawing",
+            "Pedagogy",
+            "Pharmacy",
+            "Philosophy",
+            "Physical Engineering",
+            "Physical Therapy",
+            "Physics",
+            "Preschool Education",
+            "Religious Studies",
+            "Restoration of Works of Art",
+            "Science Education",
+            "Sculpture",
+            "Serbocroatian",
+            "Singing",
+            "Sociology",
+            "Surveying and Mapping",
+            "Teacher Training",
+            "Technology",
+            "Technology Education",
+            "Telecommunications Engineering",
+            "Theology",
+            "Tourism",
+            "Town Planning",
+            "Translation and Interpretation",
+            "Transport Management",
+            "Treatment Techniques",
+            "Video",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Diploma poslijediplomskog specijalističkog studija - sveučilišni specijalist",
+          "fields": [
+            "Business Administration",
+            "Economics",
+            "Epidemiology",
+            "Law",
+            "Medicine",
+            "Philosophy"
+          ]
+        },
+        {
+          "name": "Diploma specijalističkog diplomskog stručnog studija - stručni specijalist",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Business and Commerce",
+            "Electrical Engineering",
+            "Engineering",
+            "Finance",
+            "Information Technology",
+            "Management",
+            "Parks and Recreation",
+            "Physical Therapy",
+            "Sports",
+            "Taxation",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Diploma poslijediplomskog sveučilišnog studija - doktor znanosti/doktor umjetnosti",
+          "fields": [
+            "Applied Chemistry",
+            "Arts and Humanities",
+            "Biology",
+            "Biomedicine",
+            "Biophysics",
+            "Business Administration",
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Cultural Studies",
+            "Economics",
+            "Electrical Engineering",
+            "History of Religion",
+            "Information Technology",
+            "Law",
+            "Marine Science and Oceanography",
+            "Marine Transport",
+            "Maritime Law",
+            "Materials Engineering",
+            "Mechanical Engineering",
+            "Medicine",
+            "Natural Sciences",
+            "Physical Therapy",
+            "Technology",
+            "Theology"
+          ]
+        }
+      ],
+      "accreditation": "Agency for Science and Higher Education (AZVO)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Dragan Ljutić"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Filip Klarić-Kukuz"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Goran Kardum"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Đurđica Miletić"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "20000"
+      },
+      "history": "Founded 1974. Formerly College of Philosophy and Theology in Zadar established 1396 by the Dominican Order, incorporating existing faculties in the region and some departments formerly attached to University of Zagreb. An independent self-governing institution financed by the Republic.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "21774",
+      "iau_id": "IAU-021774",
+      "name": "Zagreb School of Economics and Management",
+      "alt_name": "Zagrabačka škola ekonomije i managementa (ZSEM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyRXLVMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-021774",
+      "address": {
+        "Street": "Ulica Mihovila Pavlinovića 1",
+        "City": "Zadar",
+        "Post Code": "23000",
+        "WWW": "http://www.unizd.hr"
+      },
+      "website": "http://www.unizd.hr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2002,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "October to June",
+      "languages": [
+        "Croatian"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Archaeology",
+          "fields": [
+            "Archaeology"
+          ]
+        },
+        {
+          "name": "Department/Division : Art History",
+          "fields": [
+            "Art History"
+          ]
+        },
+        {
+          "name": "Department/Division : Classical Philology",
+          "fields": [
+            "Philology"
+          ]
+        },
+        {
+          "name": "Department/Division : Croatian and Slavic Studies",
+          "fields": [
+            "Slavic Languages"
+          ]
+        },
+        {
+          "name": "Department/Division : Ecology, Agronomy and Aquaculture",
+          "fields": [
+            "Agriculture",
+            "Aquaculture",
+            "Crop Production",
+            "Ecology"
+          ]
+        },
+        {
+          "name": "Department/Division : English Language and Literature",
+          "fields": [
+            "English",
+            "Literature"
+          ]
+        },
+        {
+          "name": "Department/Division : Ethnology and Cultural Anthropology",
+          "fields": [
+            "Anthropology",
+            "Ethnology"
+          ]
+        },
+        {
+          "name": "Department/Division : French and Iberoromance Studies",
+          "fields": [
+            "French",
+            "Literature",
+            "Philology",
+            "Spanish"
+          ]
+        },
+        {
+          "name": "Department/Division : Geography",
+          "fields": [
+            "Geography"
+          ]
+        },
+        {
+          "name": "Department/Division : German Studies",
+          "fields": [
+            "German"
+          ]
+        },
+        {
+          "name": "Department/Division : Health Studies",
+          "fields": [
+            "Dietetics",
+            "Epidemiology",
+            "Health Sciences",
+            "Nursing",
+            "Radiology"
+          ]
+        },
+        {
+          "name": "Department/Division : History",
+          "fields": [
+            "History"
+          ]
+        },
+        {
+          "name": "Department/Division : Italian Studies",
+          "fields": [
+            "Italian"
+          ]
+        },
+        {
+          "name": "Department/Division : Library and Information Science",
+          "fields": [
+            "Information Sciences",
+            "Library Science"
+          ]
+        },
+        {
+          "name": "Department/Division : Linguistics",
+          "fields": [
+            "Linguistics"
+          ]
+        },
+        {
+          "name": "Department/Division : Maritime Studies",
+          "fields": [
+            "Marine Transport",
+            "Nautical Science"
+          ]
+        },
+        {
+          "name": "Department/Division : Pedagogy",
+          "fields": [
+            "Pedagogy"
+          ]
+        },
+        {
+          "name": "Department/Division : Philosophy",
+          "fields": [
+            "Philosophy"
+          ]
+        },
+        {
+          "name": "Department/Division : Psychology",
+          "fields": [
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Department/Division : Sociology",
+          "fields": [
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Department/Division : Tourism and Communication Studies",
+          "fields": [
+            "Communication Studies",
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Svjedodžba stručnog studija - stručni pristupnik",
+          "fields": [
+            "Agronomy",
+            "Anthropology",
+            "Archaeology",
+            "Art History",
+            "Communication Studies",
+            "Cultural Studies",
+            "Ecology",
+            "English",
+            "Ethnology",
+            "French",
+            "Geography (Human)",
+            "Greek",
+            "History",
+            "Humanities and Social Science Education",
+            "Information Sciences",
+            "Italian",
+            "Library Science",
+            "Linguistics",
+            "Literature",
+            "Management",
+            "Marine Engineering",
+            "Marine Science and Oceanography",
+            "Nautical Science",
+            "Nursing",
+            "Pedagogy",
+            "Philosophy",
+            "Preschool Education",
+            "Psychology",
+            "Religious Studies",
+            "Russian",
+            "Serbocroatian",
+            "Sociology",
+            "Spanish",
+            "Teacher Training",
+            "Theology",
+            "Tourism",
+            "Transport Engineering"
+          ]
+        },
+        {
+          "name": "Diploma preddiplomskog sveucilisnog studija - sveučilišni prvostupnik (baccalaureus)",
+          "fields": [
+            "Agronomy",
+            "Anthropology",
+            "Archaeology",
+            "Art History",
+            "Communication Studies",
+            "Cultural Studies",
+            "Ecology",
+            "English",
+            "Ethnology",
+            "French",
+            "Geography (Human)",
+            "Greek",
+            "History",
+            "Humanities and Social Science Education",
+            "Information Sciences",
+            "Italian",
+            "Library Science",
+            "Linguistics",
+            "Literature",
+            "Management",
+            "Marine Engineering",
+            "Marine Science and Oceanography",
+            "Nautical Science",
+            "Nursing",
+            "Pedagogy",
+            "Philosophy",
+            "Preschool Education",
+            "Psychology",
+            "Religious Studies",
+            "Russian",
+            "Serbocroatian",
+            "Sociology",
+            "Spanish",
+            "Teacher Training",
+            "Theology",
+            "Tourism",
+            "Transport Engineering"
+          ]
+        },
+        {
+          "name": "Diploma diplomskog sveučilišnog studija - magistar",
+          "fields": [
+            "Anthropology",
+            "Archaeology",
+            "Art Education",
+            "Art History",
+            "Cultural Studies",
+            "English",
+            "Ethnology",
+            "Foreign Languages Education",
+            "French",
+            "Geography (Human)",
+            "German",
+            "Greek",
+            "Heritage Preservation",
+            "History",
+            "Humanities and Social Science Education",
+            "Information Sciences",
+            "Italian",
+            "Journalism",
+            "Latin",
+            "Library Science",
+            "Linguistics",
+            "Literature",
+            "Management",
+            "Museum Studies",
+            "Pedagogy",
+            "Philology",
+            "Philosophy",
+            "Psychology",
+            "Public Relations",
+            "Romance Languages",
+            "Russian",
+            "Serbocroatian",
+            "Sociology",
+            "Spanish",
+            "Teacher Training",
+            "Tourism",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Diploma poslijediplomskog sveučilišnog studija - doktor znanosti/doktor umjetnosti",
+          "fields": [
+            "Archaeology",
+            "Arts and Humanities",
+            "Business Administration",
+            "Development Studies",
+            "Economics",
+            "Education",
+            "Information Sciences",
+            "International Relations and Diplomacy",
+            "Regional Studies",
+            "Sociology"
+          ]
+        }
+      ],
+      "accreditation": "Agency for Science and Higher Education (AZVO)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Dijana Vican"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Antonella Lovrić"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Nedjeljka Balić Nižić"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Maja Kolega"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Slaven Zjalić"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2002, incorporating former Faculty of Philosophy of the University of Split",
+      "periodicals": [
+        "Radovi Sveučilišta u Zadru",
+        "Radovi Sveučilišta u Zadru"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "16305",
+      "iau_id": "IAU-016305",
+      "name": "Zagreb University of Applied Sciences",
+      "alt_name": "Tehničko veleučilište u Zagrebu – Polytechnic of Zagreb (TVZ)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhTLCM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016305",
+      "address": {
+        "Street": "Matije Gupca 78",
+        "City": "Virovitica",
+        "Post Code": "33000",
+        "WWW": "https://vuv.hr/"
+      },
+      "website": "https://vuv.hr/",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2007,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Croatian"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Economics",
+          "fields": [
+            "Economics",
+            "Entrepreneurship",
+            "Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Information and Communication Technologies",
+          "fields": [
+            "Electrical Engineering",
+            "Information Technology",
+            "Software Engineering",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Department/Division : Tourism",
+          "fields": [
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma stručnog studija - stručni prvostupnik (baccalaureus)",
+          "fields": [
+            "Entrepreneurship",
+            "Information Management",
+            "Information Technology",
+            "Software Engineering",
+            "Telecommunications Engineering",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Diploma specijalističkog diplomskog stručnog studija - stručni specijalist",
+          "fields": [
+            "Entrepreneurship",
+            "Management"
+          ]
+        }
+      ],
+      "accreditation": "Agency for Science and Higher Education (AZVO)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Dejan Tubić"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Irena Bosnić"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Neven Garača"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2007 as Visoka škola za menadžment u turizmu i informatici u Virovitici (College for Management in Tourism and Informatics in Virovitica). Acquired current title and status in 2021.",
+      "periodicals": [],
+      "student_body": null
+    }
+  ]
+}

@@ -1,0 +1,2477 @@
+{
+  "country_name": "Botswana",
+  "country_id": "Botswana",
+  "institutions": [
+    {
+      "id": "24651",
+      "iau_id": "IAU-024651",
+      "name": "ABM University College",
+      "alt_name": "Academy of Business Management University (ABMUC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBWLTMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024651",
+      "address": {
+        "Street": "Plot 50661, Fairgrounds Office ParkPrivate bag 000319",
+        "City": "Gaborone",
+        "WWW": "https://www.bac.ac.bw"
+      },
+      "website": "https://www.bac.ac.bw",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1996,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "Professional Programmes (AAT, CIMA, ACCA, BICA) enrol twice a year: January and June; the academic year starts in September",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : Francistown",
+          "fields": [
+            "Business Administration",
+            "Leisure Studies"
+          ]
+        },
+        {
+          "name": "Centre : Botswana Accountancy College ICT Industry Skills (BIISC)",
+          "fields": [
+            "Business Administration",
+            "Leisure Studies"
+          ]
+        },
+        {
+          "name": "School : Business and Leisure",
+          "fields": [
+            "Business Administration",
+            "Leisure Studies"
+          ]
+        },
+        {
+          "name": "School : Computing and Information Systems",
+          "fields": [
+            "Computer Science",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "School : Finance and Professional Studies",
+          "fields": [
+            "Finance"
+          ]
+        },
+        {
+          "name": "School : Post Graduate Studies",
+          "fields": [
+            "Business Administration",
+            "Management",
+            "Transport Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Business Computing",
+            "Computer Engineering",
+            "Computer Networks",
+            "Computer Science",
+            "Data Science",
+            "Entrepreneurship",
+            "Finance",
+            "Hotel and Restaurant",
+            "Information Technology",
+            "International Business",
+            "Leadership",
+            "Management",
+            "Telecommunications Technology",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Business Computing",
+            "Computer Engineering",
+            "Computer Networks",
+            "Computer Science",
+            "Data Science",
+            "Entrepreneurship",
+            "Finance",
+            "Hotel and Restaurant",
+            "Information Technology",
+            "International Business",
+            "Leadership",
+            "Management",
+            "Telecommunications Technology",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Post-Graduate Diploma",
+          "fields": [
+            "Taxation"
+          ]
+        }
+      ],
+      "accreditation": "Botswana Qualifications Authority (BQA)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Tebogo Magang"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Oaitse Gabadirwe"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Refilwe Tlamelo"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1996 as joint venture between the Ministry of Finance and Development Planning (MFDP), the Debswana Diamond Company and the Botswana Institute of Accountants (BIA). Gaborone Main Campus opened 1999, Francistown campus opened 2007. School of Computing and Information Systems is run in Partnership with University of Sunderland (UK), the School of Business and Leisure is run in Partnership with Sheffield Hallam University and University of Derby (UK)",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "30404",
+      "iau_id": "IAU-030404",
+      "name": "Awil College",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sU2BULCMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-030404",
+      "address": {
+        "Street": "Plot 10071 BosejaPrivate Bag 16",
+        "City": "Palapye",
+        "WWW": "https://www.biust.ac.bw"
+      },
+      "website": "https://www.biust.ac.bw",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2006,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "May to August",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Business Management, Entrepreneurship and General Education",
+          "fields": [
+            "Arts and Humanities",
+            "Business Administration",
+            "Communication Studies",
+            "Entrepreneurship",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering and Technology",
+          "fields": [
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Electrical Engineering",
+            "Energy Engineering",
+            "Environmental Engineering",
+            "Geological Engineering",
+            "Industrial Engineering",
+            "Materials Engineering",
+            "Mechanical Engineering",
+            "Metallurgical Engineering",
+            "Mining Engineering",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Science",
+          "fields": [
+            "Astronomy and Space Science",
+            "Biological and Life Sciences",
+            "Biotechnology",
+            "Chemistry",
+            "Computer Science",
+            "Earth Sciences",
+            "Environmental Studies",
+            "Information Technology",
+            "Mathematics",
+            "Physics",
+            "Statistics"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Applied Chemistry",
+            "Applied Mathematics",
+            "Biological and Life Sciences",
+            "Biotechnology",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Data Science",
+            "Earth Sciences",
+            "Electrical and Electronic Engineering",
+            "Energy Engineering",
+            "Environmental Engineering",
+            "Environmental Studies",
+            "Geological Engineering",
+            "Geology",
+            "Industrial Engineering",
+            "Information Technology",
+            "Instrument Making",
+            "Materials Engineering",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Mechatronics",
+            "Metallurgical Engineering",
+            "Mining Engineering",
+            "Physics",
+            "Production Engineering",
+            "Software Engineering",
+            "Statistics",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Applied Mathematics",
+            "Biological and Life Sciences",
+            "Biotechnology",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Electrical and Electronic Engineering",
+            "Energy Engineering",
+            "Environmental Engineering",
+            "Environmental Studies",
+            "Geological Engineering",
+            "Geology",
+            "Industrial Engineering",
+            "Information Technology",
+            "Instrument Making",
+            "Materials Engineering",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Mechatronics",
+            "Metallurgical Engineering",
+            "Mining Engineering",
+            "Physics",
+            "Production Engineering",
+            "Statistics",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "PhD",
+          "fields": [
+            "Biological and Life Sciences",
+            "Biotechnology",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Earth Sciences",
+            "Electrical and Electronic Engineering",
+            "Energy Engineering",
+            "Environmental Engineering",
+            "Environmental Studies",
+            "Geological Engineering",
+            "Industrial Engineering",
+            "Information Technology",
+            "Instrument Making",
+            "Materials Engineering",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Mechatronics",
+            "Metallurgical Engineering",
+            "Physics",
+            "Production Engineering",
+            "Software Engineering",
+            "Statistics",
+            "Telecommunications Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Botswana Qualifications Authority (BQA)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Otlogetswe Totolo"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Michael Moleleke"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2022-2023",
+        "Staff Full Time Total:": "254",
+        "Students Statistics Year:": "2018-2019",
+        "Students Total:": "1966"
+      },
+      "history": "Founded 2006",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "24641",
+      "iau_id": "IAU-024641",
+      "name": "Ba Isago University",
+      "alt_name": "BA ISAGO",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBWLSMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024641",
+      "address": {
+        "Street": "Private Bag 0027",
+        "City": "Gaborone",
+        "WWW": "https://www.buan.ac.bw"
+      },
+      "website": "https://www.buan.ac.bw",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1967,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "August to May",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Agri-Business, Education and Extension",
+          "fields": [
+            "Agricultural Economics",
+            "Agricultural Education",
+            "Rural Planning"
+          ]
+        },
+        {
+          "name": "Faculty : Agriculture",
+          "fields": [
+            "Agricultural Engineering",
+            "Crop Production",
+            "Food Science",
+            "Food Technology",
+            "Soil Science"
+          ]
+        },
+        {
+          "name": "Faculty : Animal and Veterinary Sciences",
+          "fields": [
+            "Animal Husbandry",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Faculty : Natural Resources",
+          "fields": [
+            "Aquaculture",
+            "Forestry",
+            "Meteorology",
+            "Natural Resources",
+            "Wildlife"
+          ]
+        },
+        {
+          "name": "Faculty : Research and Graduate Studies",
+          "fields": [
+            "Agricultural Education",
+            "Agricultural Engineering",
+            "Agriculture",
+            "Animal Husbandry",
+            "Crop Production"
+          ]
+        },
+        {
+          "name": "Faculty : Sciences",
+          "fields": [
+            "Biological and Life Sciences",
+            "Chemistry",
+            "Mathematics",
+            "Physics"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma",
+          "fields": [
+            "Agricultural Economics",
+            "Agricultural Education",
+            "Agriculture",
+            "Agronomy",
+            "Animal Husbandry",
+            "Applied Mathematics",
+            "Biological and Life Sciences",
+            "Crop Production",
+            "Ecology",
+            "Environmental Management",
+            "Food Science",
+            "Food Technology",
+            "Horticulture",
+            "Soil Management",
+            "Water Management",
+            "Wildlife"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Agricultural Economics",
+            "Agricultural Education",
+            "Agriculture",
+            "Agronomy",
+            "Animal Husbandry",
+            "Applied Mathematics",
+            "Biological and Life Sciences",
+            "Crop Production",
+            "Ecology",
+            "Environmental Management",
+            "Food Science",
+            "Food Technology",
+            "Horticulture",
+            "Soil Management",
+            "Water Management",
+            "Wildlife"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Agricultural Education",
+            "Agricultural Engineering",
+            "Agricultural Equipment",
+            "Agronomy",
+            "Animal Husbandry",
+            "Crop Production",
+            "Horticulture",
+            "Hydraulic Engineering",
+            "Rural Planning",
+            "Soil Management",
+            "Soil Science",
+            "Water Management"
+          ]
+        },
+        {
+          "name": "MPhil",
+          "fields": [
+            "Agriculture",
+            "Agronomy",
+            "Animal Husbandry",
+            "Crop Production",
+            "Forestry",
+            "Horticulture",
+            "Plant and Crop Protection",
+            "Soil Science"
+          ]
+        },
+        {
+          "name": "PhD",
+          "fields": [
+            "Agriculture",
+            "Agronomy",
+            "Animal Husbandry",
+            "Crop Production",
+            "Forestry",
+            "Horticulture",
+            "Plant and Crop Protection",
+            "Soil Science"
+          ]
+        }
+      ],
+      "accreditation": "Botswana Qualifications Authority (BQA)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ketlhatlhogile Mosepele"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "James Nsoso"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Samodimo Ngwako"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2023-2024",
+        "Staff Full Time Total:": "95",
+        "Students Statistics Year:": "2023-2024",
+        "Students Total:": "1115"
+      },
+      "history": "Founded 1967 as Botswana Agricultural College. Became Botswana College of Agriculture - an associate Institution of the University of Botswana - 1991. Acquired present title and status 2016",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "24647",
+      "iau_id": "IAU-024647",
+      "name": "Boitekanelo College",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBWLSM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024647",
+      "address": {
+        "Street": "Private Bag 00331Plot 38796, Block 6, Lephala Road",
+        "City": "Gaborone",
+        "WWW": "https://abm.ac.bw"
+      },
+      "website": "https://abm.ac.bw",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1989,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : Francistown",
+          "fields": [
+            "Computer Engineering"
+          ]
+        },
+        {
+          "name": "Campus : Gaphatshwa",
+          "fields": [
+            "Computer Engineering"
+          ]
+        },
+        {
+          "name": "Campus : Masunga",
+          "fields": [
+            "Computer Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : ABMA Computer Engineering",
+          "fields": [
+            "Computer Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Business Information Systems",
+          "fields": [
+            "Business Computing"
+          ]
+        },
+        {
+          "name": "Faculty : Business Management",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Faculty : Electronic Engineering",
+          "fields": [
+            "Electronic Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Financial Management",
+          "fields": [
+            "Finance"
+          ]
+        },
+        {
+          "name": "Faculty : Human Resources Management",
+          "fields": [
+            "Human Resources"
+          ]
+        },
+        {
+          "name": "Faculty : Marketing Management",
+          "fields": [
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Procurement and Supply Operations",
+          "fields": [
+            "Business and Commerce"
+          ]
+        },
+        {
+          "name": "Faculty : Secretarial Studies",
+          "fields": [
+            "Secretarial Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Tourism and Hospitality Management",
+          "fields": [
+            "Hotel and Restaurant",
+            "Hotel Management",
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma",
+          "fields": [
+            "Business Administration",
+            "Business and Commerce",
+            "Finance",
+            "Hotel and Restaurant",
+            "Insurance",
+            "Management",
+            "Marketing",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Business Administration",
+            "Business and Commerce",
+            "Finance",
+            "Hotel and Restaurant",
+            "Insurance",
+            "Management",
+            "Marketing",
+            "Tourism"
+          ]
+        }
+      ],
+      "accreditation": "Botswana Qualifications Authority (BQA)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Daisy Mmabatho Molefhi"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1989",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "24648",
+      "iau_id": "IAU-024648",
+      "name": "Bosa Bosele Training Institute",
+      "alt_name": "(BBTI)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBWLSNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024648",
+      "address": {
+        "Street": "Plot 136 Finance parkP.O. Box 26456",
+        "City": "Gaborone",
+        "WWW": "https://awilcollege.ac.bw"
+      },
+      "website": "https://awilcollege.ac.bw",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2015,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Acting",
+          "fields": [
+            "Acting"
+          ]
+        },
+        {
+          "name": "Course/Programme : Film Production",
+          "fields": [
+            "Film"
+          ]
+        },
+        {
+          "name": "Course/Programme : Music",
+          "fields": [
+            "Music"
+          ]
+        },
+        {
+          "name": "Course/Programme : TV Production",
+          "fields": [
+            "Cinema and Television"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Acting",
+            "Cinema and Television",
+            "Film",
+            "Music"
+          ]
+        }
+      ],
+      "accreditation": "Botswana Qualifications Authority (BQA)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Macdelyn Mosalagae"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2015. Formerly known as AFDA Botswana",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "24640",
+      "iau_id": "IAU-024640",
+      "name": "Botho University",
+      "alt_name": "(BU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBWLSNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024640",
+      "address": {
+        "Street": "Private Bag 149, Suite 268, Kgale View Postnet11 Koi Street, Peolwane",
+        "City": "Gaborone",
+        "WWW": "https://baisago.ac.bw"
+      },
+      "website": "https://baisago.ac.bw",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2002,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : Francistown",
+          "fields": [
+            "Landscape Architecture",
+            "Occupational Health",
+            "Real Estate",
+            "Safety Engineering",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "Campus : Maun",
+          "fields": [
+            "Landscape Architecture",
+            "Occupational Health",
+            "Real Estate",
+            "Safety Engineering",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "Faculty : Built Environment, Arts and Science",
+          "fields": [
+            "Landscape Architecture",
+            "Occupational Health",
+            "Real Estate",
+            "Safety Engineering",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "Faculty : Commerce",
+          "fields": [
+            "Accountancy",
+            "Actuarial Science",
+            "Business Administration",
+            "Entrepreneurship",
+            "Finance",
+            "Insurance",
+            "Management"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Education",
+            "Educational Administration",
+            "Educational and Student Counselling",
+            "Educational Psychology",
+            "Preschool Education",
+            "Primary Education",
+            "Special Education",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Faculty : Law and Para-Legal studies",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "School : Graduate Studies and Research",
+          "fields": [
+            "Business Administration",
+            "Economics"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma",
+          "fields": [
+            "Accountancy",
+            "Actuarial Science",
+            "Banking",
+            "Business Administration",
+            "Business and Commerce",
+            "Communication Studies",
+            "Economics",
+            "Education",
+            "Educational and Student Counselling",
+            "Entrepreneurship",
+            "Environmental Management",
+            "Finance",
+            "Health Sciences",
+            "Hotel and Restaurant",
+            "Human Resources",
+            "Insurance",
+            "Landscape Architecture",
+            "Law",
+            "Logistics Management",
+            "Management",
+            "Marketing",
+            "Preschool Education",
+            "Primary Education",
+            "Public Administration",
+            "Public Relations",
+            "Real Estate",
+            "Retailing and Wholesaling",
+            "Safety Engineering",
+            "Special Education",
+            "Surveying and Mapping",
+            "Taxation",
+            "Tourism",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Actuarial Science",
+            "Banking",
+            "Business Administration",
+            "Business and Commerce",
+            "Communication Studies",
+            "Economics",
+            "Education",
+            "Educational and Student Counselling",
+            "Entrepreneurship",
+            "Environmental Management",
+            "Finance",
+            "Health Sciences",
+            "Hotel and Restaurant",
+            "Human Resources",
+            "Insurance",
+            "Landscape Architecture",
+            "Law",
+            "Logistics Management",
+            "Management",
+            "Marketing",
+            "Preschool Education",
+            "Primary Education",
+            "Public Administration",
+            "Public Relations",
+            "Real Estate",
+            "Retailing and Wholesaling",
+            "Safety Engineering",
+            "Special Education",
+            "Surveying and Mapping",
+            "Taxation",
+            "Tourism",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Post-Graduate Diploma",
+          "fields": [
+            "Architecture and Planning",
+            "Real Estate",
+            "Taxation"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Architectural and Environmental Design",
+            "Banking",
+            "Business Administration",
+            "Business and Commerce",
+            "Economics",
+            "Educational Administration",
+            "Finance",
+            "Health Sciences",
+            "Insurance",
+            "Marketing",
+            "Preschool Education",
+            "Public Administration",
+            "Sustainable Development",
+            "Tourism",
+            "Town Planning"
+          ]
+        }
+      ],
+      "accreditation": "Botswana Qualifications Authority (BQA)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ruramayi Tadu"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Oscar Chiwira"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2002 as a University College, acquired university status 2015",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "28935",
+      "iau_id": "IAU-028935",
+      "name": "Botswana Open University",
+      "alt_name": "(BOU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0BZLFM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-028935",
+      "address": {
+        "Street": "Plot 5824 Masetlheng TlokwengP.O. Box 203156, Old Naledi Kiosk",
+        "City": "Gaborone",
+        "WWW": "https://www.boitekanelo.ac.bw"
+      },
+      "website": "https://www.boitekanelo.ac.bw",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2007,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : Mogoditshane",
+          "fields": [
+            "Health Administration",
+            "Medical Auxiliaries",
+            "Medical Technology",
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "School : Allied Health",
+          "fields": [
+            "Health Administration",
+            "Medical Auxiliaries",
+            "Medical Technology",
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "School : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "School : Public Health",
+          "fields": [
+            "Community Development",
+            "Health Education",
+            "Occupational Health",
+            "Public Health"
+          ]
+        },
+        {
+          "name": "School : Rehabilitation Sciences",
+          "fields": [
+            "Educational and Student Counselling",
+            "Occupational Therapy",
+            "Psychology",
+            "Speech Therapy and Audiology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma",
+          "fields": [
+            "Business Computing",
+            "Community Development",
+            "Educational and Student Counselling",
+            "Health Administration",
+            "Health Education",
+            "Health Sciences",
+            "Nursing",
+            "Occupational Health",
+            "Psychology",
+            "Public Health",
+            "Speech Therapy and Audiology"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Business Computing",
+            "Community Development",
+            "Educational and Student Counselling",
+            "Health Administration",
+            "Health Education",
+            "Health Sciences",
+            "Nursing",
+            "Occupational Health",
+            "Psychology",
+            "Public Health",
+            "Speech Therapy and Audiology"
+          ]
+        }
+      ],
+      "accreditation": "Botswana Qualifications Authority (BQA)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Tiroyaone Mampane"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2007 as Boitekanelo Training Institute (BTI). Acquired present title and status 2011",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "30409",
+      "iau_id": "IAU-030409",
+      "name": "DDT College of Medicine",
+      "alt_name": "(DDTCOM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sU2BULCNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-030409",
+      "address": {
+        "Street": "Plot: B/hurst Industrial, plot 6407Tlhwane RoadP.O. Box 211292 Bontleng",
+        "City": "Gaborone",
+        "WWW": "http://www.bosabosele.ac.bw"
+      },
+      "website": "http://www.bosabosele.ac.bw",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1998,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : Francistown",
+          "fields": [
+            "Community Development"
+          ]
+        },
+        {
+          "name": "Course/Programme : Community Development",
+          "fields": [
+            "Community Development"
+          ]
+        },
+        {
+          "name": "Course/Programme : Day Care Management",
+          "fields": [
+            "Child Care and Development"
+          ]
+        },
+        {
+          "name": "Course/Programme : Early Childhood Education",
+          "fields": [
+            "Preschool Education"
+          ]
+        },
+        {
+          "name": "Course/Programme : Education",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Course/Programme : HIV/AIDS Care and Counselling",
+          "fields": [
+            "Health Sciences"
+          ]
+        },
+        {
+          "name": "Course/Programme : Journalism and Media Studies",
+          "fields": [
+            "Journalism",
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "Course/Programme : Proficiency of Insurance",
+          "fields": [
+            "Insurance"
+          ]
+        },
+        {
+          "name": "Course/Programme : Security Risk and Loss Control",
+          "fields": [
+            "Insurance"
+          ]
+        },
+        {
+          "name": "Course/Programme : Social Work",
+          "fields": [
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Course/Programme : Supply Chain Management",
+          "fields": [
+            "Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma",
+          "fields": [
+            "Community Development",
+            "Management",
+            "Preschool Education"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Community Development",
+            "Management",
+            "Preschool Education"
+          ]
+        }
+      ],
+      "accreditation": "Botswana Qualifications Authority (BQA)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Gretta Tshegang"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1998 as Bosa Bosele Training College (BBTC)",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "24650",
+      "iau_id": "IAU-024650",
+      "name": "Gaborone Institute of Professional Studies",
+      "alt_name": "GIPS Botswana (GIPS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBWLTNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024650",
+      "address": {
+        "Street": "P.O. Box 501564Botho Education Park, Kgale",
+        "City": "Gaborone",
+        "WWW": "http://www.bothouniversity.com"
+      },
+      "website": "http://www.bothouniversity.com",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1997,
+      "type": null,
+      "funding": "Private-for-profit",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : Francistown",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Engineering",
+            "Health Sciences",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Campus Abroad : Eswatini",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Engineering",
+            "Health Sciences",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Campus Abroad : Lesotho",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Engineering",
+            "Health Sciences",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Campus Abroad : Namibia",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Engineering",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Business and Accounting",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Business and Commerce",
+            "Finance",
+            "Hotel and Restaurant",
+            "Insurance",
+            "Management",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering and Technology",
+          "fields": [
+            "Computer Networks",
+            "Computer Science",
+            "Cybersecurity",
+            "Data Science",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Insurance",
+            "Software Engineering",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Health and Education",
+          "fields": [
+            "Business Computing",
+            "Environmental Management",
+            "Health Administration",
+            "Health Sciences",
+            "Information Management",
+            "Occupational Health"
+          ]
+        },
+        {
+          "name": "Faculty : Hospitality and Sustainable Tourism",
+          "fields": [
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma",
+          "fields": [
+            "Occupational Health",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Business and Commerce",
+            "Business Computing",
+            "Computer Networks",
+            "Computer Science",
+            "Cybersecurity",
+            "Data Science",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Environmental Management",
+            "Finance",
+            "Health Administration",
+            "Health Sciences",
+            "Hotel and Restaurant",
+            "Information Management",
+            "Insurance",
+            "Management",
+            "Occupational Health",
+            "Software Engineering",
+            "Telecommunications Engineering",
+            "Transport Management"
+          ]
+        }
+      ],
+      "accreditation": "Botswana Qualifications Authority (BQA)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Sheela Raja Ram"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2023-2024",
+        "Staff Full Time Total:": "300",
+        "Students Statistics Year:": "2023-2024",
+        "Students Total:": "4500"
+      },
+      "history": "Founded 1997. A Pan African University",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "24652",
+      "iau_id": "IAU-024652",
+      "name": "Gaborone University College of Law and Professional Studies",
+      "alt_name": "(GUC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBWLTMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024652",
+      "address": {
+        "Street": "Garamotlhose JunctionWestern Bye-Pass, Block 6Plot 39972",
+        "City": "Gaborone",
+        "Post Code": "39972",
+        "WWW": "https://www.bou.ac.bw"
+      },
+      "website": "https://www.bou.ac.bw",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2017,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : Francistown",
+          "fields": [
+            "Business Administration",
+            "Education",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Campus : Gaborone",
+          "fields": [
+            "Business Administration",
+            "Education"
+          ]
+        },
+        {
+          "name": "Campus : Kang",
+          "fields": [
+            "Business Administration",
+            "Education",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Campus : Maun",
+          "fields": [
+            "Business Administration",
+            "Education"
+          ]
+        },
+        {
+          "name": "Campus : Palapye",
+          "fields": [
+            "Business Administration",
+            "Education"
+          ]
+        },
+        {
+          "name": "School : Business and Management Studies",
+          "fields": [
+            "Business Administration",
+            "Business Computing",
+            "Entrepreneurship",
+            "Human Resources",
+            "Leadership",
+            "Management"
+          ]
+        },
+        {
+          "name": "School : Education",
+          "fields": [
+            "Distance Education",
+            "Education",
+            "Educational Administration",
+            "Preschool Education",
+            "Primary Education",
+            "Special Education",
+            "Vocational Education"
+          ]
+        },
+        {
+          "name": "School : Science and Technology",
+          "fields": [
+            "Computer Science",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "School : Social Sciences",
+          "fields": [
+            "Behavioural Sciences",
+            "Community Development",
+            "Environmental Studies",
+            "Psychology",
+            "Public Administration",
+            "Social Work"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma",
+          "fields": [
+            "Business Administration",
+            "Business and Commerce",
+            "Community Development",
+            "Education",
+            "Entrepreneurship",
+            "Human Resources",
+            "Information Technology",
+            "Labour and Industrial Relations",
+            "Leadership",
+            "Management",
+            "Preschool Education",
+            "Primary Education",
+            "Public Health",
+            "Social Work",
+            "Special Education"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Business Administration",
+            "Business and Commerce",
+            "Community Development",
+            "Education",
+            "Entrepreneurship",
+            "Human Resources",
+            "Information Technology",
+            "Labour and Industrial Relations",
+            "Leadership",
+            "Management",
+            "Preschool Education",
+            "Primary Education",
+            "Public Health",
+            "Social Work",
+            "Special Education"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Educational Administration",
+            "Sustainable Development"
+          ]
+        }
+      ],
+      "accreditation": "Botswana Qualifications Authority (BQA)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Kgomotso Hildegard Moahi"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Gbolagade Adekanmbi"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Lesedi Lesetedi"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2017 as a result of the transformation of Botswana College of Distance and Open Learning (BOCODOL) established 1998. Headquarters located in Gaborone and made up of five regional campuses in Gaborone, Francistown, Palapye, Maun and Kang",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "30413",
+      "iau_id": "IAU-030413",
+      "name": "Granjo Institute of Management",
+      "alt_name": "Granjo (GIM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sU2BULDMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-030413",
+      "address": {
+        "Street": "Plot 13139-41 BBS MallBroadhurstP.O. Box 70587",
+        "City": "Gaborone",
+        "WWW": "https://www.ddtcollegeofmedicine.com"
+      },
+      "website": "https://www.ddtcollegeofmedicine.com",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2015,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Doctor Assistance",
+          "fields": [
+            "Medical Auxiliaries"
+          ]
+        },
+        {
+          "name": "Course/Programme : Medical Laboratory Sciences",
+          "fields": [
+            "Laboratory Techniques"
+          ]
+        },
+        {
+          "name": "Course/Programme : Pharmacy",
+          "fields": [
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Course/Programme : Physiotherapy",
+          "fields": [
+            "Physical Therapy"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Laboratory Techniques",
+            "Medical Auxiliaries",
+            "Pharmacy",
+            "Physical Therapy"
+          ]
+        }
+      ],
+      "accreditation": "Botswana Qualifications Authority (BQA)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Tumelo Tlhoiwe"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2015",
+      "periodicals": [
+        "Journal of Medical Laboratory Science Botswana",
+        "Journal of Medical Laboratory Science Botswana"
+      ],
+      "student_body": null
+    },
+    {
+      "id": "24654",
+      "iau_id": "IAU-024654",
+      "name": "Imperial School of Business and Science",
+      "alt_name": "(ISBS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBWLTMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024654",
+      "address": {
+        "Street": "Along Molepolole RoadPlot 39250 Block 6P.O. Box 1299",
+        "City": "Gaborone",
+        "WWW": "https://www.gips.ac.bw"
+      },
+      "website": "https://www.gips.ac.bw",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1991,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : Francistown",
+          "fields": [
+            "Accountancy",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Campus : Maun",
+          "fields": [
+            "Accountancy",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Course/Programme : Accounting and Finance",
+          "fields": [
+            "Accountancy",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Course/Programme : Business Management and Marketing",
+          "fields": [
+            "Business Administration",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Course/Programme : Engineering",
+          "fields": [
+            "Automotive Engineering",
+            "Maintenance Technology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Information Technology",
+          "fields": [
+            "Computer Science"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma",
+          "fields": [
+            "Automotive Engineering",
+            "Maintenance Technology"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Computer Science"
+          ]
+        }
+      ],
+      "accreditation": "Botswana Qualifications Authority (BQA)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Arjinder Pal Singh"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Grace Mutero"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1991",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "24653",
+      "iau_id": "IAU-024653",
+      "name": "Institute of Development Management",
+      "alt_name": "IDM Botswana (IDM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBWLTMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024653",
+      "address": {
+        "Street": "P.O. Box 201095Broadhurst Industrial Lot 6398Lejara Road",
+        "City": "Gaborone",
+        "WWW": "https://www.guc.ac.bw"
+      },
+      "website": "https://www.guc.ac.bw",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2006,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : BBS",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Campus : Delta",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Campus : Francistown",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Campus : Main Mall",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Campus : Maun",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Campus : Mmopane",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Department/Division : Business",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Department/Division : Education",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Department/Division : Engineering, Technical and Vocational Education",
+          "fields": [
+            "Agriculture",
+            "Engineering",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Department/Division : Graduate Studies",
+          "fields": [
+            "Business Administration",
+            "Education",
+            "Health Sciences"
+          ]
+        },
+        {
+          "name": "Department/Division : Health",
+          "fields": [
+            "Health Sciences",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Department/Division : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Department/Division : Professional Programmes",
+          "fields": [
+            "Accountancy",
+            "Transport Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Business and Commerce",
+            "Civil Engineering",
+            "Community Development",
+            "Construction Engineering",
+            "Development Studies",
+            "Education",
+            "Entrepreneurship",
+            "Family Studies",
+            "Health Sciences",
+            "Human Resources",
+            "Insurance",
+            "Law",
+            "Logistics Management",
+            "Management",
+            "Marketing",
+            "Occupational Health",
+            "Preschool Education",
+            "Public Administration",
+            "Public Health",
+            "Social and Preventive Medicine",
+            "Special Education",
+            "Tourism",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Business and Commerce",
+            "Civil Engineering",
+            "Community Development",
+            "Construction Engineering",
+            "Development Studies",
+            "Education",
+            "Entrepreneurship",
+            "Family Studies",
+            "Health Sciences",
+            "Human Resources",
+            "Insurance",
+            "Law",
+            "Logistics Management",
+            "Management",
+            "Marketing",
+            "Occupational Health",
+            "Preschool Education",
+            "Public Administration",
+            "Public Health",
+            "Social and Preventive Medicine",
+            "Special Education",
+            "Tourism",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Post-Graduate Diploma",
+          "fields": [
+            "Business Administration",
+            "Education",
+            "Higher Education",
+            "Management",
+            "Taxation"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Business Administration",
+            "Education",
+            "Educational Administration",
+            "Educational Research",
+            "Educational Testing and Evaluation",
+            "Higher Education",
+            "Marketing",
+            "Occupational Health",
+            "Preschool Education",
+            "Public Health"
+          ]
+        }
+      ],
+      "accreditation": "Botswana Qualifications Authority (BQA)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Antoney P. Joseph"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Jisha Binse"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2023-2024",
+        "Staff Full Time Total:": "400"
+      },
+      "history": "Founded 2006",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "30417",
+      "iau_id": "IAU-030417",
+      "name": "Kitso International College",
+      "alt_name": "(KIC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sU2BULDM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-030417",
+      "address": {
+        "Street": "P.O. Box 389 AAHMasa SquareFirst Floor, Plot 20705Block 3 Industrial",
+        "City": "Gaborone",
+        "WWW": "https://gim.ac.bw"
+      },
+      "website": "https://gim.ac.bw",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2017,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Fraud Auditing and Forensic Accounting",
+          "fields": [
+            "Accountancy"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy"
+          ]
+        }
+      ],
+      "accreditation": "Botswana Qualifications Authority (BQA)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Andrew Phiri"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2017",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "30419",
+      "iau_id": "IAU-030419",
+      "name": "Logan Business College",
+      "alt_name": "(LBC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sU2BULDNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-030419",
+      "address": {
+        "Street": "Plot 6035, Khama CrescentExtension 2, Main MallP.O. Box 80348",
+        "City": "Gaborone",
+        "WWW": "https://www.isbs.ac.bw"
+      },
+      "website": "https://www.isbs.ac.bw",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2003,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Accounting and Finance",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Department/Division : Business and Management",
+          "fields": [
+            "Business Administration",
+            "Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Education",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Department/Division : Health",
+          "fields": [
+            "Health Sciences"
+          ]
+        },
+        {
+          "name": "Department/Division : Information Technology",
+          "fields": [
+            "Computer Science"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma",
+          "fields": [
+            "Banking",
+            "Business Administration",
+            "Business and Commerce",
+            "E-Business/Commerce",
+            "Entrepreneurship",
+            "Finance",
+            "Logistics Management",
+            "Management",
+            "Marketing",
+            "Occupational Health",
+            "Public Health",
+            "Tourism",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Banking",
+            "Business Administration",
+            "Business and Commerce",
+            "E-Business/Commerce",
+            "Entrepreneurship",
+            "Finance",
+            "Logistics Management",
+            "Management",
+            "Marketing",
+            "Occupational Health",
+            "Public Health",
+            "Tourism",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Post-Graduate Diploma",
+          "fields": [
+            "Management"
+          ]
+        }
+      ],
+      "accreditation": "Botswana Qualifications Authority (BQA)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Santosh Kumar Sharma"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Nidheesh Sharma"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2003. ISBS was formerly known as Damelin Botswana",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "30424",
+      "iau_id": "IAU-030424",
+      "name": "Megasize College",
+      "alt_name": "Mega-Size College",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sU2BULEMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-030424",
+      "address": {
+        "Street": "P.O. Box 1357Plot 21222/254",
+        "City": "Gaborone",
+        "WWW": "https://www.idmbls.com"
+      },
+      "website": "https://www.idmbls.com",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1974,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : Francistown",
+          "fields": [
+            "Accountancy",
+            "Archiving",
+            "Business Administration",
+            "Finance",
+            "Information Management",
+            "Information Technology",
+            "Management",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Campus : Serowe",
+          "fields": [
+            "Accountancy",
+            "Archiving",
+            "Business Administration",
+            "Finance",
+            "Information Management",
+            "Information Technology",
+            "Management",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Business and Information Resource Management",
+          "fields": [
+            "Accountancy",
+            "Archiving",
+            "Business Administration",
+            "Finance",
+            "Information Management",
+            "Information Technology",
+            "Management",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Human Resource Management and Organizational Development",
+          "fields": [
+            "Education",
+            "Human Resources",
+            "Management",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "Department/Division : Public Health",
+          "fields": [
+            "Public Health"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma",
+          "fields": [
+            "Accountancy",
+            "Archiving",
+            "Community Development",
+            "Education",
+            "Educational Administration",
+            "Finance",
+            "Human Resources",
+            "International Business",
+            "Management",
+            "Public Health",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Archiving",
+            "Community Development",
+            "Education",
+            "Educational Administration",
+            "Finance",
+            "Human Resources",
+            "International Business",
+            "Management",
+            "Public Health",
+            "Transport Management"
+          ]
+        }
+      ],
+      "accreditation": "Botswana Qualifications Authority (BQA)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Onalenna Seitio-Kgokgwe"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1974 as a regional organisation in Botswana, Lesotho and Swaziland (BLS) countries to help meet the management needs of the Region through management development activities including training, consultancy, research, and the establishment of a Management Resource Centre",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "24645",
+      "iau_id": "IAU-024645",
+      "name": "New Era College of Arts, Science and Technology",
+      "alt_name": "New Era College of Arts, Science and Technology",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBWLSM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024645",
+      "address": {
+        "Street": "Plot 1440, Kamushongo RoadG/West Industrial",
+        "City": "Gaborone",
+        "WWW": "https://www.kitsocollege.ac.bw"
+      },
+      "website": "https://www.kitsocollege.ac.bw",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2017,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Business and Strategic Planning",
+          "fields": [
+            "Accountancy",
+            "Environmental Management",
+            "Management",
+            "Occupational Health"
+          ]
+        },
+        {
+          "name": "Department/Division : Technical and Vocational Training",
+          "fields": [
+            "Business Administration",
+            "Electrical and Electronic Equipment and Maintenance",
+            "Entrepreneurship",
+            "Maintenance Technology",
+            "Mechanical Equipment and Maintenance",
+            "Protective Services",
+            "Technology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Environmental Management",
+            "Management",
+            "Occupational Health"
+          ]
+        }
+      ],
+      "accreditation": "Botswana Qualifications Authority (BQA)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Webster Musaemura"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2017",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "30427",
+      "iau_id": "IAU-030427",
+      "name": "Phronesis International College",
+      "alt_name": "(PIC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sU2BULEM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-030427",
+      "address": {
+        "Street": "Plot 937African Mall",
+        "City": "Gaborone",
+        "WWW": "https://lbc.ac.bw"
+      },
+      "website": "https://lbc.ac.bw",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2017,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Banking and Finance",
+          "fields": [
+            "Banking",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Course/Programme : Business Project Management",
+          "fields": [
+            "Business Administration",
+            "Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Data Science",
+          "fields": [
+            "Data Science"
+          ]
+        },
+        {
+          "name": "Course/Programme : e-Business",
+          "fields": [
+            "E-Business/Commerce"
+          ]
+        },
+        {
+          "name": "Course/Programme : Early Childhood Education",
+          "fields": [
+            "Preschool Education"
+          ]
+        },
+        {
+          "name": "Course/Programme : Forensic Financial Accounting",
+          "fields": [
+            "Accountancy"
+          ]
+        },
+        {
+          "name": "Course/Programme : Higher Education (Postgraduate)",
+          "fields": [
+            "Higher Education"
+          ]
+        },
+        {
+          "name": "Course/Programme : Marketing Management",
+          "fields": [
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Course/Programme : Tourism Management",
+          "fields": [
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Data Science",
+            "E-Business/Commerce",
+            "Finance",
+            "Management",
+            "Marketing",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Post-Graduate Diploma",
+          "fields": [
+            "Higher Education"
+          ]
+        }
+      ],
+      "accreditation": "Botswana Qualifications Authority (BQA)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ramaraju Gavarraju"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2017",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "20043",
+      "iau_id": "IAU-020043",
+      "name": "University of Botswana",
+      "alt_name": "(UB)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BQLSMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020043",
+      "address": {
+        "Street": "P.O. Box 201432Plot 61739, Gundakuni StreetPhase 4 (Next to Letlhabile Primary School)",
+        "City": "Gaborone",
+        "WWW": "https://www.megasize.ac.bw"
+      },
+      "website": "https://www.megasize.ac.bw",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1993,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Fleet Management",
+          "fields": [
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences",
+          "fields": [
+            "Health Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Procurement and Supply",
+          "fields": [
+            "Management",
+            "Transport Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma",
+          "fields": [
+            "Accountancy",
+            "Environmental Studies",
+            "Logistics Management",
+            "Management",
+            "Occupational Health",
+            "Preschool Education",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Environmental Studies",
+            "Logistics Management",
+            "Management",
+            "Occupational Health",
+            "Preschool Education",
+            "Transport Management"
+          ]
+        }
+      ],
+      "accreditation": "Botswana Qualification authority (BQA)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Busisiwe Ndlovu"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1993",
+      "periodicals": [],
+      "student_body": null
+    }
+  ]
+}

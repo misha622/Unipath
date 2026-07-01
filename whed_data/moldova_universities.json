@@ -1,0 +1,2941 @@
+{
+  "country_name": "Moldova",
+  "country_id": "Moldova",
+  "institutions": [
+    {
+      "id": "41",
+      "iau_id": "IAU-000041",
+      "name": "Academy of Economic Studies of Moldova",
+      "alt_name": "Academia de Studii Economice din Moldova (ASEM)",
+      "detail_url": "https://whed.net/detail_institution.php?JTo2MF0tIyRgCmAK",
+      "iau_link": "https://www.whed.net/institutions/IAU-000041",
+      "address": {
+        "Street": "Strada Vlaicu Pârcalab, 52",
+        "City": "Chişinău",
+        "Post Code": "2012",
+        "WWW": "https://ulim.md"
+      },
+      "website": "https://ulim.md",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1992,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "September to July (September-January; February-July)",
+      "languages": [
+        "Romanian",
+        "Russian",
+        "English",
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Biomedicine and Ecology",
+          "fields": [
+            "Biology",
+            "Biomedicine",
+            "Botany",
+            "Cosmetology",
+            "Ecology",
+            "Forestry",
+            "Landscape Architecture",
+            "Pharmacology"
+          ]
+        },
+        {
+          "name": "Faculty : Computer Science and Engineering",
+          "fields": [
+            "Computer Science",
+            "Design",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Economics",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Business Computing",
+            "Computer Science",
+            "Economics",
+            "Finance",
+            "International Economics",
+            "Statistics",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : International Relations, Political Sciences and Journalism",
+          "fields": [
+            "International Relations and Diplomacy",
+            "Journalism",
+            "Political Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Private Law",
+            "Public Law"
+          ]
+        },
+        {
+          "name": "Faculty : Letters",
+          "fields": [
+            "German",
+            "Germanic Languages",
+            "Oriental Languages",
+            "Philology",
+            "Romance Languages"
+          ]
+        },
+        {
+          "name": "Faculty : Psychology, Educational Sciences and Social Work",
+          "fields": [
+            "Educational Sciences",
+            "Psychology",
+            "Social Work",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Research Division : History and Political Science",
+          "fields": [
+            "History",
+            "Political Sciences"
+          ]
+        },
+        {
+          "name": "Research Division : Legal Sciences",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Research Division : Philology and Intercultural Studies",
+          "fields": [
+            "Cultural Studies",
+            "Philology"
+          ]
+        },
+        {
+          "name": "Research Division : Social Research and Training",
+          "fields": [
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Research Division : Strategic Studies in Economics",
+          "fields": [
+            "Economics"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diplomă de studii superioare de licenţă",
+          "fields": [
+            "Accountancy",
+            "Administrative Law",
+            "Banking",
+            "Computer Engineering",
+            "Computer Networks",
+            "Constitutional Law",
+            "Criminology",
+            "Data Science",
+            "Ecology",
+            "Economic and Finance Policy",
+            "Environmental Management",
+            "European Studies",
+            "Finance",
+            "German",
+            "Health Administration",
+            "History",
+            "Hotel Management",
+            "Information Management",
+            "Information Technology",
+            "International Business",
+            "International Law",
+            "Management",
+            "Marketing",
+            "Medical Technology",
+            "Private Law",
+            "Psychology",
+            "Public Relations",
+            "Romanian",
+            "Social Policy",
+            "Social Psychology",
+            "Social Welfare",
+            "Social Work",
+            "Tourism",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Diplomă de studii superioare de master",
+          "fields": [
+            "Accountancy",
+            "Administrative Law",
+            "Banking",
+            "Computer Engineering",
+            "Computer Networks",
+            "Constitutional Law",
+            "Criminology",
+            "Data Science",
+            "Ecology",
+            "Economic and Finance Policy",
+            "Environmental Management",
+            "European Studies",
+            "Finance",
+            "German",
+            "Health Administration",
+            "History",
+            "Hotel Management",
+            "Information Management",
+            "Information Technology",
+            "International Business",
+            "International Law",
+            "Management",
+            "Marketing",
+            "Medical Technology",
+            "Private Law",
+            "Psychology",
+            "Public Relations",
+            "Romanian",
+            "Social Policy",
+            "Social Psychology",
+            "Social Welfare",
+            "Social Work",
+            "Tourism",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Diplomă de Doctor în Ştiinţe",
+          "fields": [
+            "Administrative Law",
+            "Computer Science",
+            "Constitutional Law",
+            "Criminal Law",
+            "Economics",
+            "English",
+            "French",
+            "German",
+            "History",
+            "History of Law",
+            "International Economics",
+            "Law",
+            "Management",
+            "Political Sciences",
+            "Psychology",
+            "Public Law",
+            "Social Work"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education, Culture and Research (MECC)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ilian Galben"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Cauia Alexandru"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Dan Ilie Morega"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Valentina Ciumacenco"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2014-2015",
+        "Staff Full Time Total:": "400",
+        "Students Statistics Year:": "2025-2026",
+        "Students Total:": "6000"
+      },
+      "history": "Founded 1992 by Government Decision",
+      "periodicals": [
+        "Anale Symposia Professorum Symposia Studentium Universitas",
+        "Anale",
+        "Symposia Professorum",
+        "Symposia Studentium",
+        "Universitas"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "37",
+      "iau_id": "IAU-000037",
+      "name": "Academy of Music, Theatre and Fine Arts",
+      "alt_name": "Academia de Muzică, Teatru şi Arte Plastice (AMTAP)",
+      "detail_url": "https://whed.net/detail_institution.php?JTo2MF0sUzxgCmAK",
+      "iau_link": "https://www.whed.net/institutions/IAU-000037",
+      "address": {
+        "Street": "str. Alexe Mateevici, 60",
+        "City": "Chişinău",
+        "Post Code": "2009",
+        "WWW": "https://usm.md"
+      },
+      "website": "https://usm.md",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1946,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June (September-December; January-June)",
+      "languages": [
+        "Romanian",
+        "Russian"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Biology and Soil Science",
+          "fields": [
+            "Biology",
+            "Design",
+            "Ecology",
+            "Forestry",
+            "Geography",
+            "Geology",
+            "Soil Science"
+          ]
+        },
+        {
+          "name": "Faculty : Chemistry and Chemical Technology",
+          "fields": [
+            "Chemistry",
+            "Ecology",
+            "Industrial Chemistry"
+          ]
+        },
+        {
+          "name": "Faculty : Economic Sciences",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Business Computing",
+            "Economics",
+            "Finance",
+            "International Economics",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Foreign Languages and Literature",
+          "fields": [
+            "Applied Linguistics",
+            "Communication Studies",
+            "Comparative Literature",
+            "Cultural Studies",
+            "English",
+            "French",
+            "German",
+            "Linguistics",
+            "Literature",
+            "Romance Languages",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Faculty : History and Philosophy",
+          "fields": [
+            "Ancient Civilizations",
+            "Anthropology",
+            "Archaeology",
+            "History",
+            "Philosophy"
+          ]
+        },
+        {
+          "name": "Faculty : International Relations, Political Sciences and Public Administration",
+          "fields": [
+            "International Relations and Diplomacy",
+            "Political Sciences",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "Faculty : Journalism and Communication Sciences",
+          "fields": [
+            "Information Sciences",
+            "Journalism",
+            "Mass Communication",
+            "Radio and Television Broadcasting"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Administrative Law",
+            "Civil Law",
+            "Commercial Law",
+            "Constitutional Law",
+            "Criminal Law",
+            "Criminology",
+            "History of Law",
+            "International Law",
+            "Labour Law",
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Letters",
+          "fields": [
+            "Classical Languages",
+            "Linguistics",
+            "Literature",
+            "Philology",
+            "Romanian",
+            "Russian"
+          ]
+        },
+        {
+          "name": "Faculty : Mathematics and Computer Science",
+          "fields": [
+            "Applied Mathematics",
+            "Computer Science",
+            "Mathematics"
+          ]
+        },
+        {
+          "name": "Faculty : Physics",
+          "fields": [
+            "Applied Physics",
+            "Computer Science",
+            "Meteorology",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Faculty : Psychology and Education Sciences",
+          "fields": [
+            "Educational Psychology",
+            "Educational Sciences",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Faculty : Sociology and Social Work",
+          "fields": [
+            "Social Work",
+            "Sociology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diplomă de studii superioare de licenţă",
+          "fields": [
+            "Arts and Humanities",
+            "Business Administration",
+            "Law"
+          ]
+        },
+        {
+          "name": "Diplomă de studii superioare de master",
+          "fields": [
+            "Accountancy",
+            "American Studies",
+            "Ancient Civilizations",
+            "Anthropology",
+            "Applied Linguistics",
+            "Archaeology",
+            "Banking",
+            "Behavioural Sciences",
+            "Biology",
+            "Business Administration",
+            "Chemistry",
+            "Child Care and Development",
+            "Civil Law",
+            "Clinical Psychology",
+            "Commercial Law",
+            "Computer Networks",
+            "Cosmetology",
+            "Criminal Law",
+            "Criminology",
+            "Data Science",
+            "Eastern European Studies",
+            "Ecology",
+            "Economics",
+            "Educational Administration",
+            "Educational Psychology",
+            "English",
+            "English Studies",
+            "Environmental Management",
+            "European Studies",
+            "Finance",
+            "Forestry",
+            "French",
+            "French Studies",
+            "Genetics",
+            "Geography",
+            "German",
+            "History",
+            "Human Resources",
+            "Industrial and Organizational Psychology",
+            "Information Management",
+            "Information Technology",
+            "Insurance",
+            "International Law",
+            "International Relations and Diplomacy",
+            "Italian",
+            "Journalism",
+            "Labour Law",
+            "Law",
+            "Linguistics",
+            "Literature",
+            "Marketing",
+            "Mass Communication",
+            "Mathematics",
+            "Media Studies",
+            "Medical Technology",
+            "Natural Resources",
+            "Physics",
+            "Political Sciences",
+            "Psychology",
+            "Public Administration",
+            "Public Law",
+            "Romance Languages",
+            "Romanian",
+            "Russian",
+            "Social Psychology",
+            "Social Work",
+            "Sociology",
+            "Software Engineering",
+            "Spanish",
+            "Taxation",
+            "Tourism",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Diplomă de Doctor în Ştiinţe",
+          "fields": [
+            "Administrative Law",
+            "Analytical Chemistry",
+            "Archaeology",
+            "Biochemistry",
+            "Biotechnology",
+            "Botany",
+            "Chemistry",
+            "Civil Law",
+            "Commercial Law",
+            "Comparative Literature",
+            "Computer Science",
+            "Constitutional Law",
+            "Criminal Law",
+            "Criminology",
+            "Ecology",
+            "Economics",
+            "Environmental Management",
+            "Finance",
+            "Fiscal Law",
+            "Genetics",
+            "Germanic Languages",
+            "History",
+            "History of Law",
+            "Inorganic Chemistry",
+            "International Economics",
+            "International Law",
+            "International Relations and Diplomacy",
+            "Journalism",
+            "Labour Law",
+            "Law",
+            "Library Science",
+            "Linguistics",
+            "Literature",
+            "Management",
+            "Mass Communication",
+            "Mathematics",
+            "Microbiology",
+            "Natural Resources",
+            "Operations Research",
+            "Organic Chemistry",
+            "Pedagogy",
+            "Philology",
+            "Philosophy",
+            "Physical Chemistry",
+            "Physics",
+            "Physiology",
+            "Plant Pathology",
+            "Political Sciences",
+            "Private Law",
+            "Production Engineering",
+            "Psychology",
+            "Public Law",
+            "Romance Languages",
+            "Romanian",
+            "Slavic Languages",
+            "Soil Science",
+            "Solid State Physics",
+            "Water Science",
+            "Zoology"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education, Culture and Research (MECC)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Igor Şarov"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Otilia Dandara"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2020-2021",
+        "Students Total:": "13000"
+      },
+      "history": "Founded 1946. Under the authority of the Ministry of Education. Financed by the State",
+      "periodicals": [
+        "Analele Stiintifice ale Universitatii de Stat Din Moldova Studia Universitatis Universitatea de Stat din Moldova",
+        "Analele Stiintifice ale Universitatii de Stat Din Moldova",
+        "Studia Universitatis",
+        "Universitatea de Stat din Moldova"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "39",
+      "iau_id": "IAU-000039",
+      "name": "Academy Stefan Cel Mare",
+      "alt_name": "Academia Ştefan cel Mare – Academia Stefan Cel Mare a Ministerului Afacerilor Interne",
+      "detail_url": "https://whed.net/detail_institution.php?JTo2MF0sU0RgCmAK",
+      "iau_link": "https://www.whed.net/institutions/IAU-000039",
+      "address": {
+        "Street": "Bulevardul Ştefan cel Mare, 165",
+        "City": "Chişinău",
+        "Post Code": "2004",
+        "WWW": "https://www.usmf.md"
+      },
+      "website": "https://www.usmf.md",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1945,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September-January; February-June",
+      "languages": [
+        "Romanian",
+        "Russian",
+        "English",
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Simulation in Medical Training",
+          "fields": [
+            "Anaesthesiology",
+            "Communication Studies",
+            "Medicine",
+            "Radiology",
+            "Surgery"
+          ]
+        },
+        {
+          "name": "Faculty : Continuing Education in Medicine and Pharmacy",
+          "fields": [
+            "Anaesthesiology",
+            "Genetics",
+            "Gerontology",
+            "Immunology",
+            "Laboratory Techniques",
+            "Medicine",
+            "Neurology",
+            "Obstetrics and Gynaecology",
+            "Ophthalmology",
+            "Pharmacy",
+            "Physical Therapy",
+            "Rehabilitation and Therapy",
+            "Social and Preventive Medicine",
+            "Surgery"
+          ]
+        },
+        {
+          "name": "Faculty : Dentistry",
+          "fields": [
+            "Anaesthesiology",
+            "Dental Technology",
+            "Dentistry",
+            "Orthodontics",
+            "Orthopaedics",
+            "Surgery"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine I",
+          "fields": [
+            "Anaesthesiology",
+            "Anatomy",
+            "Biochemistry",
+            "Cardiology",
+            "Cell Biology",
+            "Economics",
+            "Epidemiology",
+            "Gastroenterology",
+            "Haematology",
+            "Histology",
+            "Hygiene",
+            "Immunology",
+            "Management",
+            "Medicine",
+            "Microbiology",
+            "Nephrology",
+            "Obstetrics and Gynaecology",
+            "Occupational Health",
+            "Oncology",
+            "Orthopaedics",
+            "Paediatrics",
+            "Parasitology",
+            "Pathology",
+            "Pedagogy",
+            "Pharmacology",
+            "Physiology",
+            "Pneumology",
+            "Psychiatry and Mental Health",
+            "Psychology",
+            "Rehabilitation and Therapy",
+            "Rheumatology",
+            "Surgery",
+            "Toxicology",
+            "Tropical Medicine",
+            "Virology"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine II",
+          "fields": [
+            "Anatomy",
+            "Biophysics",
+            "Dermatology",
+            "Ethics",
+            "Genetics",
+            "Medical Technology",
+            "Modern Languages",
+            "Molecular Biology",
+            "Neurology",
+            "Otorhinolaryngology",
+            "Paediatrics",
+            "Philosophy",
+            "Physiology",
+            "Romanian",
+            "Surgery",
+            "Venereology"
+          ]
+        },
+        {
+          "name": "Faculty : Pharmacy",
+          "fields": [
+            "Botany",
+            "Chemistry",
+            "Pharmacology",
+            "Pharmacy",
+            "Physical Education",
+            "Social and Preventive Medicine",
+            "Toxicology"
+          ]
+        },
+        {
+          "name": "Faculty : Residency and Clinical Internship",
+          "fields": [
+            "Endocrinology",
+            "Medicine",
+            "Nephrology",
+            "Neurology",
+            "Pharmacology",
+            "Physiology",
+            "Pneumology",
+            "Radiology",
+            "Rehabilitation and Therapy",
+            "Surgery",
+            "Traditional and Complementary Medicine and Therapy",
+            "Urology"
+          ]
+        },
+        {
+          "name": "School : Management in Public Health",
+          "fields": [
+            "Health Administration",
+            "Public Health"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diplomă de licenţă – studii integrate",
+          "fields": [
+            "Medicine",
+            "Pharmacy",
+            "Social and Preventive Medicine",
+            "Stomatology"
+          ]
+        },
+        {
+          "name": "Diplomă de studii superioare de master",
+          "fields": [
+            "Medicine",
+            "Pharmacy",
+            "Public Health",
+            "Stomatology"
+          ]
+        },
+        {
+          "name": "Diplomă de Doctor în Ştiinţe",
+          "fields": [
+            "Anaesthesiology",
+            "Anatomy",
+            "Biochemistry",
+            "Cardiology",
+            "Dermatology",
+            "Endocrinology",
+            "Epidemiology",
+            "Ethics",
+            "Forensic Medicine and Dentistry",
+            "Gastroenterology",
+            "Haematology",
+            "Hepatology",
+            "Histology",
+            "Hygiene",
+            "Immunology",
+            "Laboratory Techniques",
+            "Microbiology",
+            "Nephrology",
+            "Neurological Therapy",
+            "Neurology",
+            "Obstetrics and Gynaecology",
+            "Oncology",
+            "Ophthalmology",
+            "Orthopaedics",
+            "Otorhinolaryngology",
+            "Paediatrics",
+            "Pathology",
+            "Pharmacology",
+            "Pharmacy",
+            "Philosophy",
+            "Physical Therapy",
+            "Physiology",
+            "Pneumology",
+            "Psychiatry and Mental Health",
+            "Public Health",
+            "Radiology",
+            "Rehabilitation and Therapy",
+            "Rheumatology",
+            "Social and Preventive Medicine",
+            "Stomatology",
+            "Surgery",
+            "Toxicology",
+            "Treatment Techniques",
+            "Urology",
+            "Venereology"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education, Culture and Research (MECC)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Emil Ceban"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Olga Cernetchi"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Evelina Gherghelegiu"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2024-2025",
+        "Students Total:": "6745"
+      },
+      "history": "Founded 1945, acquired present status 1991",
+      "periodicals": [
+        "Curierul Medical (Medical Courier)",
+        "Curierul Medical (Medical Courier)"
+      ],
+      "student_body": "female"
+    },
+    {
+      "id": "19410",
+      "iau_id": "IAU-019410",
+      "name": "Alecu Russo State University of Bălţi",
+      "alt_name": "Universitatea de Stat Alecu Russo din Bălţi (ARUB)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RULDNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019410",
+      "address": {
+        "Street": "Strada Banulescu-Bodoni, 61",
+        "City": "Chişinău",
+        "Post Code": "2005",
+        "WWW": "https://ase.md"
+      },
+      "website": "https://ase.md",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to December; January to May",
+      "languages": [
+        "Romanian",
+        "Russian",
+        "English",
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "College : Commerce",
+          "fields": [
+            "Accountancy",
+            "Arts and Humanities",
+            "Business and Commerce",
+            "Computer Science",
+            "Economics",
+            "Hotel and Restaurant",
+            "Mathematics",
+            "Natural Sciences",
+            "Technology",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Accounting",
+          "fields": [
+            "Accountancy",
+            "Economics"
+          ]
+        },
+        {
+          "name": "Faculty : Business Management and Administration",
+          "fields": [
+            "Business Administration",
+            "Hotel and Restaurant",
+            "Management",
+            "Marketing",
+            "Physical Education",
+            "Sports",
+            "Tourism",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Faculty : Cybernetics, Statistics and Informatics",
+          "fields": [
+            "Applied Mathematics",
+            "Computer Science",
+            "Electronics and Automation",
+            "Information Technology",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Faculty : Economics and Law",
+          "fields": [
+            "Economic and Finance Policy",
+            "Economics",
+            "Humanities and Social Science Education",
+            "Management",
+            "Private Law",
+            "Public Administration",
+            "Public Law"
+          ]
+        },
+        {
+          "name": "Faculty : Finance",
+          "fields": [
+            "Banking",
+            "Finance",
+            "Insurance",
+            "Modern Languages"
+          ]
+        },
+        {
+          "name": "Faculty : International Economic Relations",
+          "fields": [
+            "Demography and Population",
+            "Economic and Finance Policy",
+            "Economics",
+            "Geography (Human)",
+            "International Economics",
+            "International Relations and Diplomacy",
+            "Modern Languages"
+          ]
+        },
+        {
+          "name": "School : Doctoral Studies",
+          "fields": [
+            "Business Administration",
+            "Computer Science",
+            "Economics",
+            "Geography (Human)",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "School : Economics and Business Excellence",
+          "fields": [
+            "Business Administration",
+            "Economics",
+            "Information Sciences",
+            "Law",
+            "Political Sciences",
+            "Service Trades"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diplomă de studii superioare de licenţă",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Business and Commerce",
+            "Economics",
+            "Finance",
+            "Human Resources",
+            "Information Management",
+            "Information Technology",
+            "International Economics",
+            "Law",
+            "Marketing",
+            "Nutrition",
+            "Tourism",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Diplomă de studii superioare de master",
+          "fields": [
+            "Accountancy",
+            "Actuarial Science",
+            "Advertising and Publicity",
+            "Banking",
+            "Business Administration",
+            "Commercial Law",
+            "E-Business/Commerce",
+            "Economics",
+            "Environmental Management",
+            "Finance",
+            "Fiscal Law",
+            "Hotel Management",
+            "Human Resources",
+            "Information Management",
+            "Information Technology",
+            "Insurance",
+            "International Business",
+            "Management",
+            "Marketing",
+            "Public Administration",
+            "Tourism",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Diplomă de Doctor în Ştiinţe",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Business and Commerce",
+            "Computer Science",
+            "Economic and Finance Policy",
+            "Economics",
+            "Finance",
+            "Geography (Human)",
+            "Information Technology",
+            "International Economics",
+            "Management",
+            "Marketing",
+            "Statistics",
+            "Transport Management"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Research of the Republic of Moldova (MERRM)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Alexandru Stratan"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Angela Casian"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Olesea Sirbu"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Victoria Cociug"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Anastasia Strelnicova"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Olesea Madan"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2023-2024",
+        "Staff Full Time Male:": "39",
+        "Staff Full Time Female:": "108",
+        "Staff Full Time Total:": "147",
+        "Students Statistics Year:": "2023-2024",
+        "Students Male:": "1844",
+        "Students Female:": "3076",
+        "Students Total:": "4920",
+        "Students Foreign Male:": "47",
+        "Students Foreign Female:": "78",
+        "Students Foreign Total:": "125",
+        "Students Students with Disabilities:": "5"
+      },
+      "history": "The Academy of Economic Studies of Moldova (ASEM) was founded on September 25, 1991, based on Decision no. 537 of the Government of the Republic of Moldova. Currently, it is the main public higher educational institution with economic profile in Moldova comprising a university complex, within which 6 faculties with 26 departments, 2 departments, 7 centers, 13 services, the Master's School of Excellence in Economics and Business, the Doctoral School, National College of Commerce and National Institute of Economic Research.",
+      "periodicals": [
+        "Drept, Economie si Informatica Economica",
+        "Drept, Economie si Informatica",
+        "Economica"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "19413",
+      "iau_id": "IAU-019413",
+      "name": "Bogdan Petriceicu Haşdeu State University in Cahul",
+      "alt_name": "Universitatea de Stat Bogdan Petriceicu Haşdeu din Cahul",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RULDMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019413",
+      "address": {
+        "Street": "Str. Mateevici 111",
+        "City": "Chişinău",
+        "Post Code": "2009",
+        "WWW": "https://www.amtap.md"
+      },
+      "website": "https://www.amtap.md",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1940,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June",
+      "languages": [
+        "Romanian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Modern Languages",
+          "fields": [
+            "Modern Languages"
+          ]
+        },
+        {
+          "name": "Department/Division : Philosophy",
+          "fields": [
+            "Philosophy"
+          ]
+        },
+        {
+          "name": "Department/Division : Physical Education",
+          "fields": [
+            "Physical Education"
+          ]
+        },
+        {
+          "name": "Faculty : Art, Composition and Musicology",
+          "fields": [
+            "Jazz and Popular Music",
+            "Music",
+            "Music Theory and Composition",
+            "Musical Instruments",
+            "Musicology",
+            "Singing"
+          ]
+        },
+        {
+          "name": "Faculty : Fine and Decorative Art and Design",
+          "fields": [
+            "Ceramic Art",
+            "Fashion Design",
+            "Fine Arts",
+            "Graphic Arts",
+            "Graphic Design",
+            "Interior Design",
+            "Painting and Drawing",
+            "Restoration of Works of Art",
+            "Sculpture",
+            "Textile Design",
+            "Weaving"
+          ]
+        },
+        {
+          "name": "Faculty : Musical Art",
+          "fields": [
+            "Conducting",
+            "Music",
+            "Music Education",
+            "Opera",
+            "Singing"
+          ]
+        },
+        {
+          "name": "Faculty : Theater, Choreography and Multimedia",
+          "fields": [
+            "Acting",
+            "Art Management",
+            "Dance",
+            "Display and Stage Design",
+            "Film",
+            "Multimedia",
+            "Theatre"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diplomă de studii superioare de licenţă",
+          "fields": [
+            "Dance",
+            "Fine Arts",
+            "Music"
+          ]
+        },
+        {
+          "name": "Diplomă de studii superioare de master",
+          "fields": [
+            "Art Criticism",
+            "Art Management",
+            "Ceramic Art",
+            "Cinema and Television",
+            "Conducting",
+            "Cultural Studies",
+            "Display and Stage Design",
+            "Fashion Design",
+            "Film",
+            "Graphic Arts",
+            "Heritage Preservation",
+            "Interior Design",
+            "Multimedia",
+            "Music",
+            "Music Education",
+            "Music Theory and Composition",
+            "Musical Instruments",
+            "Musicology",
+            "Painting and Drawing",
+            "Performing Arts",
+            "Radio and Television Broadcasting",
+            "Restoration of Works of Art",
+            "Sculpture",
+            "Singing",
+            "Theatre",
+            "Visual Arts",
+            "Weaving",
+            "Writing"
+          ]
+        },
+        {
+          "name": "Diplomă de Doctor în Ştiinţe",
+          "fields": [
+            "Cinema and Television",
+            "Music",
+            "Theatre"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education, Culture and Research (MECC)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Victoria Melnic"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Puşcaš Vasilii"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Pavel Gamurari"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Victoria Tcacenco"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1940. Reorganised into Institute of Arts 1964. Reorganised into Moldova State University of Arts 1998. Acquired present status and title 2002",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "19414",
+      "iau_id": "IAU-019414",
+      "name": "Comrat State University",
+      "alt_name": "Universitatea de Stat din Comrat (KDU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RULDMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019414",
+      "address": {
+        "Street": "Strada Gheorghe Asachi, 21",
+        "City": "Chişinău",
+        "Post Code": "2009",
+        "WWW": "https://www.academy.police.md"
+      },
+      "website": "https://www.academy.police.md",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1990,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Romanian"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Commercial Law",
+            "Criminal Law",
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Security and Pubic Order",
+          "fields": [
+            "Criminology",
+            "Police Studies"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diplomă de studii superioare de licenţă",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Diplomă de studii superioare de master",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Diplomă de Doctor în Ştiinţe",
+          "fields": [
+            "Criminal Law",
+            "Criminology"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Internal Affairs",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Dinu Ostavciuc"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1990. A State institution. Formerly Academia Naţională de Poliţie 'Ştefan cel Mare'",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "19420",
+      "iau_id": "IAU-019420",
+      "name": "Constantin Stere University of European Political and Economic Studies",
+      "alt_name": "Universitatea de Studii Politice şi Economice Europene Constantin Stere (USPEE)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RULENgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019420",
+      "address": {
+        "Street": "Strada Puşkin, 38",
+        "City": "Bălţi",
+        "Post Code": "3121",
+        "WWW": "https://usarb.md"
+      },
+      "website": "https://usarb.md",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1945,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June (September-January; February-June)",
+      "languages": [
+        "Romanian"
+      ],
+      "faculties": [
+        {
+          "name": "College : \"Ion Creangă\" Pedagogical College",
+          "fields": [
+            "Pedagogy"
+          ]
+        },
+        {
+          "name": "College : \"Ion Creangă\" Theoretical Lycee",
+          "fields": [
+            "Education",
+            "Native Language Education",
+            "Pedagogy",
+            "Teacher Training",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Department/Division : Distance and Continuing Education",
+          "fields": [
+            "Arts and Humanities",
+            "Business Administration",
+            "Education",
+            "Law",
+            "Natural Sciences",
+            "Political Sciences",
+            "Social Sciences",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Faculty : Educational Sciences, Psychology and Arts",
+          "fields": [
+            "Art Education",
+            "Educational Sciences",
+            "Fine Arts",
+            "Physical Education",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Faculty : Exact, Economic and Environmental Sciences",
+          "fields": [
+            "Agriculture",
+            "Business Administration",
+            "Computer Science",
+            "Engineering",
+            "Mathematics",
+            "Natural Sciences",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Faculty : Law and Social Sciences",
+          "fields": [
+            "Law",
+            "Social Sciences",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Faculty : Philology",
+          "fields": [
+            "English",
+            "German",
+            "Literature",
+            "Philology",
+            "Romanian",
+            "Slavic Languages"
+          ]
+        },
+        {
+          "name": "Research Division : Human Sciences",
+          "fields": [
+            "Comparative Law",
+            "Educational Psychology",
+            "Educational Sciences",
+            "Philology"
+          ]
+        },
+        {
+          "name": "Research Division : Inter-institutional Innovations and Nanotechnologies",
+          "fields": [
+            "Nanotechnology"
+          ]
+        },
+        {
+          "name": "Research Division : Natural Sciences",
+          "fields": [
+            "Agriculture",
+            "Ecology"
+          ]
+        },
+        {
+          "name": "Research Division : Science and Economics",
+          "fields": [
+            "Computer Science",
+            "Economics",
+            "Electronic Engineering",
+            "Engineering",
+            "Physics",
+            "Technology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diplomă de studii superioare de licenţă",
+          "fields": [
+            "Accountancy",
+            "Acting",
+            "Agronomy",
+            "Automotive Engineering",
+            "Banking",
+            "Biology",
+            "Business Administration",
+            "Chemistry",
+            "Civics",
+            "Computer Science",
+            "Dance",
+            "Ecology",
+            "Engineering Management",
+            "English",
+            "Finance",
+            "French",
+            "Geography",
+            "German",
+            "History",
+            "Industrial Design",
+            "Journalism",
+            "Law",
+            "Literature",
+            "Mass Communication",
+            "Mathematics and Computer Science",
+            "Music",
+            "Pedagogy",
+            "Physics",
+            "Preschool Education",
+            "Psychology",
+            "Public Administration",
+            "Romanian",
+            "Russian",
+            "Singing",
+            "Slavic Languages",
+            "Social Work",
+            "Spanish",
+            "Technology Education",
+            "Tourism",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Diplomă de studii superioare de master",
+          "fields": [
+            "Accountancy",
+            "Art Education",
+            "Banking",
+            "Business and Commerce",
+            "Commercial Law",
+            "Computer Science",
+            "Criminal Law",
+            "Criminology",
+            "Ecology",
+            "Educational Administration",
+            "Educational Technology",
+            "European Studies",
+            "Finance",
+            "Foreign Languages Education",
+            "Human Resources",
+            "Humanities and Social Science Education",
+            "Information Technology",
+            "Insurance",
+            "Labour and Industrial Relations",
+            "Mathematics Education",
+            "Modern Languages",
+            "Native Language Education",
+            "Philology",
+            "Political Sciences",
+            "Psychology",
+            "Public Administration",
+            "Science Education",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Diplomă de Doctor în Ştiinţe",
+          "fields": [
+            "Computer Education",
+            "Foreign Languages Education",
+            "French",
+            "Industrial Engineering",
+            "Literature",
+            "Physical Chemistry",
+            "Radiophysics",
+            "Romanian",
+            "Russian"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education, Culture and Research (MECC)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Natalia Gaşiţoi"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Lidia Padureac"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Valentina Pritcan"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1945 and became Pedagogical Institute 1953. Acquired present status and title 1992",
+      "periodicals": [
+        "Artă și educație artistică Fizică și tehnică Glotodidactica Limbaj și context NRF Revista tehnocopia",
+        "Artă și educație artistică",
+        "Fizică și tehnică",
+        "Glotodidactica",
+        "Limbaj și context",
+        "NRF",
+        "Revista tehnocopia"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "19380",
+      "iau_id": "IAU-019380",
+      "name": "Dimitrie Cantemir State University",
+      "alt_name": "Universității de Stat Dimitrie Cantemir",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RTLiNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019380",
+      "address": {
+        "Street": "Piaţa Independenţei, 1",
+        "City": "Cahul",
+        "Post Code": "3901",
+        "WWW": "https://www.usch.md"
+      },
+      "website": "https://www.usch.md",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1999,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Romanian"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Economics, Engineering and Applied Sciences",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Computer Science",
+            "Educational Technology",
+            "Engineering Management",
+            "Entrepreneurship",
+            "Management"
+          ]
+        },
+        {
+          "name": "Faculty : Law and Public Administration",
+          "fields": [
+            "Administration",
+            "Criminal Law",
+            "Law",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "Faculty : Philology and History",
+          "fields": [
+            "English",
+            "French",
+            "History",
+            "Literature",
+            "Modern Languages",
+            "Philology",
+            "Psychology",
+            "Romanian",
+            "Social Sciences"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diplomă de studii superioare de licenţă",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Computer Science",
+            "Engineering Management",
+            "Law",
+            "Modern Languages",
+            "Philology",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "Diplomă de studii superioare de master",
+          "fields": [
+            "Business Administration",
+            "Criminal Law",
+            "Educational Technology",
+            "Entrepreneurship",
+            "Management",
+            "Public Administration"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education, Culture and Research (MECC)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Sergiu Cornea"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Valeriana Petcu"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Elena Mandaji"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1999",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "19453",
+      "iau_id": "IAU-019453",
+      "name": "Ion Creanga State Pedagogical University",
+      "alt_name": "Universitatea Pedagogică de Stat Ion Creangă (UPS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RULTMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019453",
+      "address": {
+        "Street": "Strada Galatsana 17",
+        "City": "Comrat",
+        "Post Code": "3800",
+        "WWW": "https://kdu.md"
+      },
+      "website": "https://kdu.md",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1991,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June (September-December; January-June)",
+      "languages": [
+        "Romanian",
+        "Russian"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Military Studies",
+          "fields": [
+            "Military Science"
+          ]
+        },
+        {
+          "name": "Faculty : Agricultural Technology",
+          "fields": [
+            "Agricultural Engineering",
+            "Agronomy",
+            "Animal Husbandry",
+            "Crop Production",
+            "Physical Education"
+          ]
+        },
+        {
+          "name": "Faculty : Economics",
+          "fields": [
+            "Accountancy",
+            "Computer Science",
+            "Economics",
+            "Mathematics"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Private Law",
+            "Public Law",
+            "Social Studies"
+          ]
+        },
+        {
+          "name": "Faculty : National Culture",
+          "fields": [
+            "Bulgarian",
+            "Cultural Studies",
+            "English",
+            "French",
+            "German",
+            "Greek",
+            "History",
+            "Literature",
+            "Modern Languages",
+            "Pedagogy",
+            "Primary Education",
+            "Romance Languages",
+            "Romanian",
+            "Russian",
+            "Turkish"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diplomă de studii superioare de licenţă",
+          "fields": [
+            "Cultural Studies",
+            "Economics"
+          ]
+        },
+        {
+          "name": "Diplomă de studii superioare de master",
+          "fields": [
+            "Cultural Studies",
+            "Ecology",
+            "Economics",
+            "Fruit Production",
+            "Law",
+            "Viticulture"
+          ]
+        },
+        {
+          "name": "Diplomă de Doctor în Ştiinţe",
+          "fields": [
+            "Economics",
+            "Management"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education, Culture and Research (MECC)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Sergey Zakharia"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Georgy Georgievich Sult"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Tatyana Ivanovna RAKOVCHENA"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1991 as Gagauz National University. Acquired present status and title 2002",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "9499",
+      "iau_id": "IAU-009499",
+      "name": "Moldova International Relations Institute",
+      "alt_name": "Institutul de Relaţii Internaţionale din Moldova (IRIM)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMzBZLjBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009499",
+      "address": {
+        "Street": "b-dul Ștefan cel Mare si Sfînt 200",
+        "City": "Chişinău",
+        "Post Code": "2004",
+        "WWW": "https://uspee.md"
+      },
+      "website": "https://uspee.md",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1997,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Romanian"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Economic Sciences and Ecology",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Computer Science",
+            "Human Resources",
+            "Information Management"
+          ]
+        },
+        {
+          "name": "Faculty : Law, International Relations and Social and Human Sciences",
+          "fields": [
+            "Commercial Law",
+            "Criminal Law",
+            "European Studies",
+            "International Relations and Diplomacy",
+            "Private Law",
+            "Public Law"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diplomă de studii superioare de licenţă",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Computer Science",
+            "Information Management",
+            "International Relations and Diplomacy",
+            "Law"
+          ]
+        },
+        {
+          "name": "Diplomă de studii superioare de master",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Commercial Law",
+            "Criminal Law",
+            "European Studies",
+            "Human Resources",
+            "Public Law"
+          ]
+        }
+      ],
+      "accreditation": "Agenția Națională de Asigurare a Calității în Educație și Cercetare (ANACEC)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Gheorghe Avornic"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1997 as the Institute of Political Studies and International Relations (I.S.P.R.I.). Accredited 2005. Acquired present status 2007 and current title 2011",
+      "periodicals": [
+        "Revista de Moldoscopie Revista Naţională de Drept Revista Noosfera Ziarul Dreptul",
+        "Revista de Moldoscopie",
+        "Revista Naţională de Drept",
+        "Revista Noosfera",
+        "Ziarul Dreptul"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "19411",
+      "iau_id": "IAU-019411",
+      "name": "State University of Physical Education and Sports",
+      "alt_name": "Universitatea de Stat de Educaţie Fizică şi Sport",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RULDMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019411",
+      "address": {
+        "Street": "3/2, Academiei Street",
+        "City": "Chişinău",
+        "Post Code": "2028",
+        "WWW": "http://edu.asm.md"
+      },
+      "website": "http://edu.asm.md",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2007,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Romanian"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Exact Sciences",
+          "fields": [
+            "Chemistry",
+            "Mathematics and Computer Science",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Faculty : Humanities",
+          "fields": [
+            "History",
+            "Literature",
+            "Modern Languages",
+            "Philosophy"
+          ]
+        },
+        {
+          "name": "Faculty : Natural Sciences",
+          "fields": [
+            "Biology",
+            "Ecology",
+            "Environmental Studies"
+          ]
+        },
+        {
+          "name": "School : Biological and Agricultural Sciences",
+          "fields": [
+            "Agriculture",
+            "Biological and Life Sciences"
+          ]
+        },
+        {
+          "name": "School : Chemical Sciences and Technology",
+          "fields": [
+            "Chemistry",
+            "Technology"
+          ]
+        },
+        {
+          "name": "School : Economics and Demographics",
+          "fields": [
+            "Demography and Population",
+            "Economics"
+          ]
+        },
+        {
+          "name": "School : Geonomic Sciences",
+          "fields": [
+            "Earth Sciences"
+          ]
+        },
+        {
+          "name": "School : Humanities",
+          "fields": [
+            "Arts and Humanities"
+          ]
+        },
+        {
+          "name": "School : Law, Political Science and Sociology",
+          "fields": [
+            "Law",
+            "Political Sciences",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "School : Mathematics and Information Science",
+          "fields": [
+            "Information Sciences",
+            "Mathematics"
+          ]
+        },
+        {
+          "name": "School : Physical and Engineering Sciences",
+          "fields": [
+            "Engineering",
+            "Physics"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diplomă de studii superioare de licenţă",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Natural Sciences",
+            "Political Sciences"
+          ]
+        },
+        {
+          "name": "Diplomă de studii superioare de master",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Communication Studies",
+            "Computer Science",
+            "Cultural Studies",
+            "Demography and Population",
+            "Economics",
+            "Environmental Studies",
+            "European Studies",
+            "History",
+            "Linguistics",
+            "Mathematics and Computer Science",
+            "Molecular Biology",
+            "Physics",
+            "Political Sciences",
+            "Protective Services",
+            "Regional Planning",
+            "Rural Planning"
+          ]
+        },
+        {
+          "name": "Diplomă de Doctor în Ştiinţe",
+          "fields": [
+            "Administrative Law",
+            "Agriculture",
+            "Agronomy",
+            "Anthropology",
+            "Applied Mathematics",
+            "Applied Physics",
+            "Archaeology",
+            "Architecture",
+            "Biochemistry",
+            "Biology",
+            "Biotechnology",
+            "Botany",
+            "Business Computing",
+            "Cell Biology",
+            "Chemistry",
+            "Cinema and Television",
+            "Civil Law",
+            "Commercial Law",
+            "Comparative Literature",
+            "Computer Science",
+            "Constitutional Law",
+            "Criminal Law",
+            "Criminology",
+            "Dance",
+            "Demography and Population",
+            "Earth Sciences",
+            "Ecology",
+            "Economic and Finance Policy",
+            "Economics",
+            "Electronic Engineering",
+            "Energy Engineering",
+            "Entomology",
+            "Environmental Management",
+            "Environmental Studies",
+            "Ethnology",
+            "Finance",
+            "Fine Arts",
+            "Fiscal Law",
+            "Folklore",
+            "Genetics",
+            "Geography",
+            "Geology",
+            "Geophysics",
+            "Grammar",
+            "History",
+            "Industrial Engineering",
+            "Information Technology",
+            "Inorganic Chemistry",
+            "International Economics",
+            "International Law",
+            "International Relations and Diplomacy",
+            "Law",
+            "Linguistics",
+            "Literature",
+            "Machine Building",
+            "Management",
+            "Materials Engineering",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Meteorology",
+            "Microbiology",
+            "Musicology",
+            "Nanotechnology",
+            "Natural Resources",
+            "Organic Chemistry",
+            "Paleontology",
+            "Parasitology",
+            "Philosophy",
+            "Phonetics",
+            "Physical Chemistry",
+            "Physics",
+            "Physiology",
+            "Plant and Crop Protection",
+            "Political Sciences",
+            "Private Law",
+            "Public Administration",
+            "Public Law",
+            "Seismology",
+            "Sociology",
+            "Solid State Physics",
+            "Surveying and Mapping",
+            "Theatre",
+            "Vegetable Production",
+            "Virology",
+            "Visual Arts",
+            "Zoology"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education, Culture and Research (MECC)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Aurelia Hanganu"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Liliana Rotaru"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2007 as Universitatea Academiei de Ştiinţe a Moldovei",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "19466",
+      "iau_id": "IAU-019466",
+      "name": "Technical University of Moldova",
+      "alt_name": "Universitatea Tehnică a Moldovei (UTM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RULUM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019466",
+      "address": {
+        "Street": "Strada Ion Creangă 1",
+        "City": "Chişinău",
+        "Post Code": "2069",
+        "WWW": "https://upsc.md"
+      },
+      "website": "https://upsc.md",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1940,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June",
+      "languages": [
+        "Romanian",
+        "Russian"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Biology and Chemistry",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Ecology"
+          ]
+        },
+        {
+          "name": "Faculty : Educational Sciences",
+          "fields": [
+            "Educational Administration",
+            "Educational Sciences",
+            "Pedagogy",
+            "Physical Education",
+            "Preschool Education",
+            "Primary Education"
+          ]
+        },
+        {
+          "name": "Faculty : Foreign Languages and Literatures",
+          "fields": [
+            "English",
+            "Foreign Languages Education",
+            "French",
+            "German",
+            "Italian",
+            "Philology",
+            "Romance Languages"
+          ]
+        },
+        {
+          "name": "Faculty : Geography",
+          "fields": [
+            "Geography (Human)",
+            "Hotel Management",
+            "Leisure Studies",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Philology and History",
+          "fields": [
+            "English",
+            "Foreign Languages Education",
+            "History",
+            "Philology",
+            "Romanian",
+            "Russian"
+          ]
+        },
+        {
+          "name": "Faculty : Physics, Mathematics and Information Technologies",
+          "fields": [
+            "Computer Education",
+            "Computer Science",
+            "Information Technology",
+            "Mathematics",
+            "Mathematics Education",
+            "Physics",
+            "Science Education"
+          ]
+        },
+        {
+          "name": "Faculty : Psychology and Special Psycho-Pedagogy",
+          "fields": [
+            "Educational Psychology",
+            "Psychology",
+            "Social Work",
+            "Special Education"
+          ]
+        },
+        {
+          "name": "Faculty : Visual Arts and Design",
+          "fields": [
+            "Art Education",
+            "Design",
+            "Educational Technology",
+            "Fashion Design",
+            "Fine Arts",
+            "Graphic Arts",
+            "Graphic Design",
+            "Interior Design",
+            "Painting and Drawing",
+            "Sculpture"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diplomă de studii superioare de licenţă",
+          "fields": [
+            "Civics",
+            "Computer Science",
+            "Dance",
+            "Educational Psychology",
+            "English",
+            "Ethnology",
+            "Fashion Design",
+            "Fine Arts",
+            "French",
+            "Geography (Human)",
+            "German",
+            "Graphic Design",
+            "Handicrafts",
+            "History",
+            "Humanities and Social Science Education",
+            "Interior Design",
+            "Italian",
+            "Literature",
+            "Mathematics and Computer Science",
+            "Painting and Drawing",
+            "Pedagogy",
+            "Preschool Education",
+            "Primary Education",
+            "Psychology",
+            "Romanian",
+            "Russian",
+            "Social Work",
+            "Spanish",
+            "Special Education",
+            "Sports",
+            "Technology Education"
+          ]
+        },
+        {
+          "name": "Diplomă de studii superioare de master",
+          "fields": [
+            "Communication Studies",
+            "Cultural Studies",
+            "Educational Administration",
+            "Educational and Student Counselling",
+            "Educational Psychology",
+            "Educational Research",
+            "Educational Technology",
+            "English",
+            "English Studies",
+            "Ethnology",
+            "Foreign Languages Education",
+            "French",
+            "French Studies",
+            "German",
+            "Germanic Studies",
+            "Graphic Design",
+            "Handicrafts",
+            "Heritage Preservation",
+            "Higher Education",
+            "History",
+            "Humanities and Social Science Education",
+            "Linguistics",
+            "Literature",
+            "Mathematics Education",
+            "Native Language Education",
+            "Pedagogy",
+            "Preschool Education",
+            "Primary Education",
+            "Psychology",
+            "Psychotherapy",
+            "Social Work",
+            "Speech Therapy and Audiology",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Diplomă de Doctor în Ştiinţe",
+          "fields": [
+            "Developmental Psychology",
+            "Educational Psychology",
+            "Educational Sciences",
+            "History",
+            "Pedagogy",
+            "Psychology",
+            "Special Education"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education, Culture and Research (MECC)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Alexandra Barbaneagra"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Lucia Ceprage"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Ludmila Armaşu-Canţîr"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1940, acquired present status 1992",
+      "periodicals": [
+        "Journal of Psychology Special Pedagogy Social Assistance Journal of Social Sciences",
+        "Journal of Psychology Special Pedagogy Social Assistance",
+        "Journal of Social Sciences"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "19417",
+      "iau_id": "IAU-019417",
+      "name": "Tiraspol State University",
+      "alt_name": "Universitatea de Stat din Tiraspol (UST)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RULDM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019417",
+      "address": {
+        "Street": "str. Puşchin, 54",
+        "City": "Chişinău",
+        "WWW": "http://www.irim.md"
+      },
+      "website": "http://www.irim.md",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Romanian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : International Relations and Political Science",
+          "fields": [
+            "International Relations and Diplomacy",
+            "Political Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "International Law",
+            "Law",
+            "Private Law",
+            "Public Law"
+          ]
+        },
+        {
+          "name": "Faculty : Modern Languages",
+          "fields": [
+            "English",
+            "French",
+            "German",
+            "Italian",
+            "Modern Languages",
+            "Spanish",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Faculty : World Economics and International Economic Relations",
+          "fields": [
+            "Administration",
+            "Business Education",
+            "Economics",
+            "Marketing",
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diplomă de studii superioare de licenţă",
+          "fields": [
+            "Business Administration",
+            "International Economics",
+            "International Relations and Diplomacy",
+            "Law",
+            "Management",
+            "Modern Languages",
+            "Political Sciences",
+            "Tourism",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Diplomă de studii superioare de master",
+          "fields": [
+            "Business Administration",
+            "Commercial Law",
+            "Criminal Law",
+            "European Studies",
+            "Fiscal Law",
+            "International Business",
+            "International Law",
+            "International Relations and Diplomacy",
+            "Political Sciences",
+            "Translation and Interpretation"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education, Culture and Research (MECC)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Valentin Beniuc"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded in 2003. Accredited 2010",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "19394",
+      "iau_id": "IAU-019394",
+      "name": "Trade Co-operative University of Moldova",
+      "alt_name": "Universitatea Cooperatist Comercială din Moldovei – Kooperativno-Torgovyj Universitet Moldovy (UCCM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RTLjMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019394",
+      "address": {
+        "Street": "Strada Andrei Doga 24/1",
+        "City": "Chişinău",
+        "Post Code": "2024",
+        "WWW": "http://www.usefs.md"
+      },
+      "website": "http://www.usefs.md",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1991,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Romanian",
+        "Russian"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Parks and Recreation",
+            "Physical Education"
+          ]
+        },
+        {
+          "name": "Faculty : Part-time Studies",
+          "fields": [
+            "Civil Security",
+            "Parks and Recreation",
+            "Physical Education",
+            "Sports"
+          ]
+        },
+        {
+          "name": "Faculty : Physiotherapy",
+          "fields": [
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "Faculty : Protection, Guard and Security",
+          "fields": [
+            "Civil Security",
+            "Fire Science",
+            "Protective Services"
+          ]
+        },
+        {
+          "name": "Faculty : Sports",
+          "fields": [
+            "Dance",
+            "Physical Education",
+            "Sports"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diplomă de studii superioare de licenţă",
+          "fields": [
+            "Education",
+            "Physical Therapy",
+            "Protective Services",
+            "Sports"
+          ]
+        },
+        {
+          "name": "Diplomă de studii superioare de master",
+          "fields": [
+            "Educational Technology",
+            "Mass Communication",
+            "Physical Education",
+            "Physical Therapy",
+            "Protective Services",
+            "Sports",
+            "Sports Management",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Diplomă de Doctor în Ştiinţe",
+          "fields": [
+            "Parks and Recreation",
+            "Physical Education",
+            "Physical Therapy",
+            "Sports"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education, Culture and Research (MECC)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Veaceslav Manolachi"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Viorel Dorgan"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Ghenadie Dumanschi"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1991",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "19419",
+      "iau_id": "IAU-019419",
+      "name": "University of European Studies of Moldova",
+      "alt_name": "Universitatea de Studii Europene din Moldova (USEM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RULDNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019419",
+      "address": {
+        "Street": "Bulervardul Ştefan cel Mare, 168",
+        "City": "Chişinău",
+        "Post Code": "2004",
+        "WWW": "https://utm.md"
+      },
+      "website": "https://utm.md",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1964,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June (September-January; February-June)",
+      "languages": [
+        "Romanian",
+        "Russian"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Cadastre, Geodesy and Constructions",
+          "fields": [
+            "Building Technologies",
+            "Construction Engineering",
+            "Geological Engineering",
+            "Private Law",
+            "Protective Services",
+            "Real Estate",
+            "Surveying and Mapping",
+            "Wood Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Computers, Informatics and Microelectronics",
+          "fields": [
+            "Arts and Humanities",
+            "Computer Science",
+            "Electronic Engineering",
+            "Electronics and Automation",
+            "Information Technology",
+            "Mechanics",
+            "Microelectronics",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Economic Engineering and Business",
+          "fields": [
+            "Economics",
+            "Industrial and Production Economics",
+            "Industrial Management",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering and Management in Electronics and Telecommunications",
+          "fields": [
+            "Electronic Engineering",
+            "Physics",
+            "Telecommunications Engineering",
+            "Telecommunications Services"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering and Management in Machine Buiding",
+          "fields": [
+            "Engineering Management",
+            "Industrial Design",
+            "Machine Building",
+            "Materials Engineering",
+            "Mechanical Engineering",
+            "Production Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Light Industry",
+          "fields": [
+            "Clothing and Sewing",
+            "Design",
+            "Leather Techniques",
+            "Printing and Printmaking",
+            "Textile Design",
+            "Textile Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Mechanical Engineering and Transports",
+          "fields": [
+            "Automotive Engineering",
+            "Engineering Drawing and Design",
+            "Industrial Engineering",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Transport Engineering",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Faculty : Power and Electrical Engineering",
+          "fields": [
+            "Electronic Engineering",
+            "Energy Engineering",
+            "Engineering Management",
+            "Measurement and Precision Engineering",
+            "Mechanical Engineering",
+            "Physical Education",
+            "Thermal Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Technology and Management in Food Industry",
+          "fields": [
+            "Chemistry",
+            "Cooking and Catering",
+            "Food Science",
+            "Food Technology",
+            "Modern Languages",
+            "Oenology"
+          ]
+        },
+        {
+          "name": "Faculty : Urbanism and Architecture",
+          "fields": [
+            "Architecture",
+            "Bridge Engineering",
+            "Construction Engineering",
+            "Environmental Management",
+            "Heating and Refrigeration",
+            "Hydraulic Engineering",
+            "Interior Design",
+            "Materials Engineering",
+            "Railway Engineering",
+            "Road Engineering",
+            "Structural Architecture"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diplomă de studii superioare de licenţă",
+          "fields": [
+            "Biomedical Engineering",
+            "Business Administration",
+            "Civil Engineering",
+            "Computer Science",
+            "Construction Engineering",
+            "Cooking and Catering",
+            "Economics",
+            "Electrical and Electronic Equipment and Maintenance",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Electronics and Automation",
+            "Energy Engineering",
+            "Engineering Management",
+            "Environmental Engineering",
+            "Fashion Design",
+            "Fire Science",
+            "Food Technology",
+            "Graphic Design",
+            "Hotel Management",
+            "Industrial Design",
+            "Industrial Engineering",
+            "Industrial Management",
+            "Information Technology",
+            "Interior Design",
+            "Marketing",
+            "Materials Engineering",
+            "Mechanical Engineering",
+            "Microelectronics",
+            "Nanotechnology",
+            "Power Engineering",
+            "Private Law",
+            "Production Engineering",
+            "Real Estate",
+            "Road Engineering",
+            "Road Transport",
+            "Safety Engineering",
+            "Structural Architecture",
+            "Telecommunications Engineering",
+            "Textile Design",
+            "Town Planning",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Diplomă de studii superioare de master",
+          "fields": [
+            "Biomedical Engineering",
+            "Business Administration",
+            "Civil Engineering",
+            "Computer Science",
+            "Construction Engineering",
+            "Cooking and Catering",
+            "Economics",
+            "Electrical and Electronic Equipment and Maintenance",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Electronics and Automation",
+            "Energy Engineering",
+            "Engineering Management",
+            "Environmental Engineering",
+            "Fashion Design",
+            "Fire Science",
+            "Food Technology",
+            "Graphic Design",
+            "Hotel Management",
+            "Industrial Design",
+            "Industrial Engineering",
+            "Industrial Management",
+            "Information Technology",
+            "Interior Design",
+            "Marketing",
+            "Materials Engineering",
+            "Mechanical Engineering",
+            "Microelectronics",
+            "Nanotechnology",
+            "Power Engineering",
+            "Private Law",
+            "Production Engineering",
+            "Real Estate",
+            "Road Engineering",
+            "Road Transport",
+            "Safety Engineering",
+            "Structural Architecture",
+            "Telecommunications Engineering",
+            "Textile Design",
+            "Town Planning",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Diplomă de Doctor în Ştiinţe",
+          "fields": [
+            "Architecture",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Networks",
+            "Computer Science",
+            "Construction Engineering",
+            "Data Science",
+            "Economics",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Electronics and Automation",
+            "Energy Engineering",
+            "Finance",
+            "Food Technology",
+            "Geology",
+            "Heating and Refrigeration",
+            "Information Technology",
+            "Landscape Architecture",
+            "Machine Building",
+            "Management",
+            "Mathematics",
+            "Measurement and Precision Engineering",
+            "Mechanics",
+            "Microelectronics",
+            "Mining Engineering",
+            "Nanotechnology",
+            "Real Estate",
+            "Road Engineering",
+            "Rural Planning",
+            "Safety Engineering",
+            "Software Engineering",
+            "Solid State Physics",
+            "Telecommunications Engineering",
+            "Thermal Engineering",
+            "Town Planning",
+            "Transport Engineering",
+            "Visual Arts",
+            "Vocational Education",
+            "Water Management"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education, Culture and Research (MECC)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Viorel Bostan"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Petru Todos"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Valentin Amariei"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1964 as Polytechnic Institute, acquired present status 1993",
+      "periodicals": [
+        "Meridian Ingineresc",
+        "Meridian Ingineresc"
+      ],
+      "student_body": "co-ed"
+    }
+  ]
+}

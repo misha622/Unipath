@@ -1,0 +1,5351 @@
+{
+  "country_name": "China - Hong Kong SAR",
+  "country_id": "China - Hong Kong SAR",
+  "institutions": [
+    {
+      "id": "25564",
+      "iau_id": "IAU-025564",
+      "name": "Chu Hai College of Higher Education",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRVLUMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025564",
+      "address": {
+        "Street": "80 Castle Peak Road, Castle Peak Bay",
+        "City": "Tuen Mun",
+        "Province": "New Territories",
+        "WWW": "https://www.chuhai.edu.hk"
+      },
+      "website": "https://www.chuhai.edu.hk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Art and Social Sciences",
+          "fields": [
+            "Chinese",
+            "English",
+            "Journalism"
+          ]
+        },
+        {
+          "name": "Faculty : Business",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Faculty : Science and Engineering",
+          "fields": [
+            "Architecture",
+            "Civil Engineering",
+            "Computer Science"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Architecture",
+            "Business Administration",
+            "Chinese",
+            "Civil Engineering",
+            "Communication Studies",
+            "Computer Science",
+            "English",
+            "Finance",
+            "Journalism",
+            "Literature"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Architecture",
+            "Asian Religious Studies",
+            "Chinese"
+          ]
+        }
+      ],
+      "accreditation": "Education Bureau",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Chack Fan Lee"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Wing Chee Brenda Ku"
+        }
+      ],
+      "statistics": {},
+      "history": "Chu Hai University was founded in Guangzhou, China 1947. The University moved to Hong Kong and registered as Chu Hai College 1949. Acquired present status 1949.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "2840",
+      "iau_id": "IAU-002840",
+      "name": "City University of Hong Kong",
+      "alt_name": "(CityU)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sQ0BULGBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-002840",
+      "address": {
+        "Street": "83 Tat Chee Avenue",
+        "City": "Kowloon",
+        "WWW": "https://www.cityu.edu.hk"
+      },
+      "website": "https://www.cityu.edu.hk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1984,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to May (September-December; January-May), Summer term, June-August",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Chinese Civilisation",
+          "fields": [
+            "Architecture",
+            "Chinese",
+            "Literature",
+            "Music",
+            "Painting and Drawing",
+            "Philosophy",
+            "Sculpture",
+            "South Asian Studies"
+          ]
+        },
+        {
+          "name": "Centre : Electronic Packaging & Assemblies, Failure Analysis & Reliability Engineering (EPA Centre)",
+          "fields": [
+            "Electronic Engineering"
+          ]
+        },
+        {
+          "name": "Centre : English Language",
+          "fields": [
+            "English"
+          ]
+        },
+        {
+          "name": "Centre : Innovative Applications of Internet and Multimedia Technologies (AIMtech Centre)",
+          "fields": [
+            "Computer Networks",
+            "Multimedia"
+          ]
+        },
+        {
+          "name": "Centre : Maritime and Transportation Law (HKCMT)",
+          "fields": [
+            "Maritime Law"
+          ]
+        },
+        {
+          "name": "Centre : Smart Energy Conversion and Utilization Research (CSCR)",
+          "fields": [
+            "Energy Engineering"
+          ]
+        },
+        {
+          "name": "College : Business",
+          "fields": [
+            "Accountancy",
+            "Economics",
+            "Finance",
+            "Information Technology",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "College : Liberal Arts and Social Sciences",
+          "fields": [
+            "Chinese",
+            "Communication Studies",
+            "East Asian Studies",
+            "English",
+            "Linguistics",
+            "Media Studies",
+            "Psychology",
+            "Public Administration",
+            "Social Policy",
+            "Social Studies",
+            "Social Work",
+            "Southeast Asian Studies",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "College : Science and Engineering",
+          "fields": [
+            "Biology",
+            "Biomedical Engineering",
+            "Building Technologies",
+            "Chemistry",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Electronic Engineering",
+            "Engineering Management",
+            "Materials Engineering",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Physics",
+            "Structural Architecture"
+          ]
+        },
+        {
+          "name": "Department/Division : Accountancy",
+          "fields": [
+            "Accountancy",
+            "Commercial Law",
+            "Information Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Applied Social Studies",
+          "fields": [
+            "Criminology",
+            "Educational and Student Counselling",
+            "Psychology",
+            "Social Work",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Department/Division : Asian and International Studies",
+          "fields": [
+            "East Asian Studies",
+            "International Studies",
+            "South and Southeast Asian Languages"
+          ]
+        },
+        {
+          "name": "Department/Division : Biology and Chemistry",
+          "fields": [
+            "Applied Chemistry",
+            "Biology",
+            "Environmental Management",
+            "Environmental Studies"
+          ]
+        },
+        {
+          "name": "Department/Division : Building Science and Technology",
+          "fields": [
+            "Architecture",
+            "Building Technologies",
+            "Construction Engineering",
+            "Engineering Management",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "Department/Division : Chinese, Translation and Linguistics",
+          "fields": [
+            "Chinese",
+            "Cultural Studies",
+            "Heritage Preservation",
+            "Linguistics",
+            "Modern Languages",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Department/Division : Civil and Architectural Engineering",
+          "fields": [
+            "Architecture",
+            "Building Technologies",
+            "Civil Engineering",
+            "Construction Engineering",
+            "Management",
+            "Real Estate",
+            "Structural Architecture",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "Department/Division : Computer Science",
+          "fields": [
+            "Computer Education",
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Department/Division : Economics and Finance",
+          "fields": [
+            "Economics",
+            "Finance",
+            "Insurance"
+          ]
+        },
+        {
+          "name": "Department/Division : Electronic Engineering",
+          "fields": [
+            "Computer Engineering",
+            "Electronic Engineering",
+            "Information Technology",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Department/Division : English",
+          "fields": [
+            "English"
+          ]
+        },
+        {
+          "name": "Department/Division : Information Systems",
+          "fields": [
+            "Business Computing",
+            "E-Business/Commerce",
+            "Information Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Department/Division : Management",
+          "fields": [
+            "Business Administration",
+            "Human Resources",
+            "International Business",
+            "Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Management Sciences",
+          "fields": [
+            "Business Administration",
+            "Management",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Department/Division : Marketing",
+          "fields": [
+            "Business and Commerce",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Department/Division : Mathematics",
+          "fields": [
+            "Actuarial Science",
+            "Applied Mathematics",
+            "Finance",
+            "Mathematics and Computer Science"
+          ]
+        },
+        {
+          "name": "Department/Division : Mechanical and Biomedical Engineering",
+          "fields": [
+            "Biomedical Engineering",
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "Department/Division : Media and Communication",
+          "fields": [
+            "Communication Studies",
+            "English",
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "Department/Division : Physics and Materials Science",
+          "fields": [
+            "Applied Physics",
+            "Materials Engineering",
+            "Nanotechnology",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Department/Division : Public Policy",
+          "fields": [
+            "Administration",
+            "Environmental Management",
+            "Environmental Studies",
+            "Management",
+            "Public Administration",
+            "Social Policy",
+            "Social Studies",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "Department/Division : Systems Engineering and Engineering Management",
+          "fields": [
+            "Electronic Engineering",
+            "Engineering Drawing and Design",
+            "Engineering Management",
+            "Industrial Engineering",
+            "Production Engineering",
+            "Safety Engineering"
+          ]
+        },
+        {
+          "name": "Research Division : Ability R&D Energy (AERC)",
+          "fields": [
+            "Energy Engineering"
+          ]
+        },
+        {
+          "name": "Research Division : Advanced Structural Materials (CASM)",
+          "fields": [
+            "Materials Engineering"
+          ]
+        },
+        {
+          "name": "Research Division : Applied Computing and Interactive Studies (ACIM)",
+          "fields": [
+            "Computer Science",
+            "Media Studies",
+            "Multimedia"
+          ]
+        },
+        {
+          "name": "Research Division : Asia-Pacific Climate Impact Centre (GCCC)",
+          "fields": [
+            "Environmental Studies",
+            "Meteorology"
+          ]
+        },
+        {
+          "name": "Research Division : Biosystems, Neuroscience, and Nanotechnology (CBNN)",
+          "fields": [
+            "Biotechnology",
+            "Nanotechnology"
+          ]
+        },
+        {
+          "name": "Research Division : Chaos and Complex Networks (CCCN)",
+          "fields": [
+            "Engineering",
+            "Mathematics",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Research Division : Chinese and Comparative Law (RCCL)",
+          "fields": [
+            "Comparative Law"
+          ]
+        },
+        {
+          "name": "Research Division : Communication Research (CCR)",
+          "fields": [
+            "Communication Studies"
+          ]
+        },
+        {
+          "name": "Research Division : East Asian and Comparative Philosophy (CEACOP)",
+          "fields": [
+            "Philosophy"
+          ]
+        },
+        {
+          "name": "Research Division : Functional Photonics (CFP)",
+          "fields": [
+            "Asian Studies",
+            "Government"
+          ]
+        },
+        {
+          "name": "Research Division : Governance in Asia (GARC)",
+          "fields": [
+            "Asian Studies",
+            "Government"
+          ]
+        },
+        {
+          "name": "Research Division : Hong Kong Advanced Institute for Cross-Disciplinary Studies",
+          "fields": [
+            "Communication Studies",
+            "Linguistics"
+          ]
+        },
+        {
+          "name": "Research Division : Intelligent Applications of Language Studies (HCLS)",
+          "fields": [
+            "Communication Studies",
+            "Linguistics"
+          ]
+        },
+        {
+          "name": "Research Division : Mathematical Sciences (LBJ)",
+          "fields": [
+            "Applied Mathematics",
+            "Computer Science",
+            "Mathematics"
+          ]
+        },
+        {
+          "name": "Research Division : Multimedia Software Engineering Research Centre (MERC)",
+          "fields": [
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Research Division : Prognostics and System Health Management",
+          "fields": [
+            "Electronics and Automation"
+          ]
+        },
+        {
+          "name": "Research Division : Robotics and Automation (CRA)",
+          "fields": [
+            "Electronics and Automation"
+          ]
+        },
+        {
+          "name": "Research Division : Social Media Marketing and Business Intelligence (CSMR)",
+          "fields": [
+            "Business Administration",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Research Division : Southeast Asia (SEARC)",
+          "fields": [
+            "Southeast Asian Studies"
+          ]
+        },
+        {
+          "name": "Research Division : State Key Laboratory in Marine Pollution (SKLMP)",
+          "fields": [
+            "Environmental Management",
+            "Marine Science and Oceanography"
+          ]
+        },
+        {
+          "name": "Research Division : State Key Laboratory of Millimeter Waves (SKLMW)",
+          "fields": [
+            "Physics"
+          ]
+        },
+        {
+          "name": "Research Division : Super-Diamond and Advanced Films (COSDAF)",
+          "fields": [
+            "Nanotechnology"
+          ]
+        },
+        {
+          "name": "Research Division : System Informatics Engineering (CSIE)",
+          "fields": [
+            "Computer Engineering"
+          ]
+        },
+        {
+          "name": "Research Division : Transport, Trade and Financial Studies (CTFS)",
+          "fields": [
+            "Business and Commerce",
+            "Finance",
+            "Transport and Communications"
+          ]
+        },
+        {
+          "name": "School : Continuing and Professional Education (SCOPE)",
+          "fields": [
+            "Cinema and Television",
+            "Media Studies",
+            "Photography",
+            "Writing"
+          ]
+        },
+        {
+          "name": "School : Creative Media",
+          "fields": [
+            "Cinema and Television",
+            "Media Studies",
+            "Photography",
+            "Writing"
+          ]
+        },
+        {
+          "name": "School : Energy and Environment",
+          "fields": [
+            "Energy Engineering",
+            "Environmental Engineering",
+            "Environmental Studies"
+          ]
+        },
+        {
+          "name": "School : Graduate Studies",
+          "fields": [
+            "Architecture",
+            "Business Administration",
+            "Engineering Management",
+            "Law"
+          ]
+        },
+        {
+          "name": "School : Law",
+          "fields": [
+            "Comparative Law",
+            "International Law",
+            "Law",
+            "Maritime Law"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Applied Physics",
+            "Architecture",
+            "Asian Studies",
+            "Biology",
+            "Biomedical Engineering",
+            "Chinese",
+            "Cinema and Television",
+            "Civil Engineering",
+            "Computer Science",
+            "Construction Engineering",
+            "Criminology",
+            "Economics",
+            "Electronic Engineering",
+            "Energy Engineering",
+            "Engineering",
+            "English",
+            "English Studies",
+            "Finance",
+            "History",
+            "Industrial Engineering",
+            "Information Management",
+            "Information Technology",
+            "International Business",
+            "International Relations and Diplomacy",
+            "International Studies",
+            "Law",
+            "Linguistics",
+            "Management",
+            "Management Systems",
+            "Marketing",
+            "Materials Engineering",
+            "Mathematics",
+            "Mathematics and Computer Science",
+            "Mechanical Engineering",
+            "Media Studies",
+            "Multimedia",
+            "Nuclear Engineering",
+            "Physics",
+            "Political Sciences",
+            "Social Work",
+            "Sociology",
+            "Structural Architecture",
+            "Translation and Interpretation",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree Honours",
+          "fields": [
+            "Arts and Humanities",
+            "Business Administration",
+            "Engineering",
+            "Law",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Postgraduate Certificate/Diploma",
+          "fields": [
+            "Accountancy",
+            "Building Technologies",
+            "Computer Networks",
+            "Engineering",
+            "Environmental Studies",
+            "Information Management",
+            "Law"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Arts and Humanities",
+            "Business Administration",
+            "Fine Arts",
+            "Law",
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "Master of Philosophy",
+          "fields": [
+            "Accountancy",
+            "Applied Mathematics",
+            "Architecture",
+            "Asian Studies",
+            "Biomedical Engineering",
+            "Biomedicine",
+            "Building Technologies",
+            "Chemistry",
+            "Chinese",
+            "Civil Engineering",
+            "Communication Studies",
+            "Computer Science",
+            "E-Business/Commerce",
+            "Economics",
+            "Electronic Engineering",
+            "Energy Engineering",
+            "Engineering",
+            "English",
+            "Environmental Studies",
+            "Finance",
+            "History",
+            "International Business",
+            "International Economics",
+            "International Studies",
+            "Law",
+            "Linguistics",
+            "Management",
+            "Materials Engineering",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Media Studies",
+            "Physics",
+            "Public Health",
+            "Social Sciences",
+            "Technology",
+            "Translation and Interpretation",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Doctor's Degree",
+          "fields": [
+            "Accountancy",
+            "Architecture",
+            "Asian Studies",
+            "Biomedical Engineering",
+            "Biomedicine",
+            "Business Administration",
+            "Chinese",
+            "Civil Engineering",
+            "Communication Studies",
+            "Computer Science",
+            "Ecology",
+            "Economics",
+            "Electronic Engineering",
+            "Energy Engineering",
+            "Engineering",
+            "Engineering Management",
+            "English",
+            "Environmental Management",
+            "Finance",
+            "History",
+            "International Studies",
+            "Law",
+            "Linguistics",
+            "Management",
+            "Marketing",
+            "Materials Engineering",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Physics",
+            "Public Health",
+            "Social Sciences",
+            "Translation and Interpretation",
+            "Veterinary Science"
+          ]
+        }
+      ],
+      "accreditation": "Education Bureau",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Freddy Boey"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Sunny Lee Wai-kwong"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1984 as City Polytechnic of Hong Kong. Acquired present status and title 1994.",
+      "periodicals": [
+        "Research Report",
+        "Research Report"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "7557",
+      "iau_id": "IAU-007557",
+      "name": "Hong Kong Baptist University",
+      "alt_name": "(HKBU)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tUzRVLVBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007557",
+      "address": {
+        "Street": "Baptist University Road Campus",
+        "City": "Kowloon Tong",
+        "WWW": "http://www.hkbu.edu.hk"
+      },
+      "website": "http://www.hkbu.edu.hk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1956,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June (September-January; January-June). MBA programme: September to May",
+      "languages": [
+        "English",
+        "Chinese"
+      ],
+      "faculties": [
+        {
+          "name": "Academy : Sinology (Jao Tsung-I)",
+          "fields": [
+            "Asian Studies"
+          ]
+        },
+        {
+          "name": "Academy : Visual Arts",
+          "fields": [
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Centre : Advanced Luminescence Materials",
+          "fields": [
+            "Materials Engineering"
+          ]
+        },
+        {
+          "name": "Centre : Advancement of English for Professionals",
+          "fields": [
+            "English"
+          ]
+        },
+        {
+          "name": "Centre : Advancement of Social Sciences Research",
+          "fields": [
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Centre : Applied Ethics",
+          "fields": [
+            "Ethics"
+          ]
+        },
+        {
+          "name": "Centre : Child Development",
+          "fields": [
+            "Child Care and Development"
+          ]
+        },
+        {
+          "name": "Centre : China Urban and Regional Studies",
+          "fields": [
+            "Regional Studies",
+            "Urban Studies"
+          ]
+        },
+        {
+          "name": "Centre : Chinese Cultural Heritage",
+          "fields": [
+            "European Studies"
+          ]
+        },
+        {
+          "name": "Centre : CIE Wellness Promotion",
+          "fields": [
+            "European Studies"
+          ]
+        },
+        {
+          "name": "Centre : Corporate Governance and Finance Policy",
+          "fields": [
+            "European Studies"
+          ]
+        },
+        {
+          "name": "Centre : European Documentation",
+          "fields": [
+            "European Studies"
+          ]
+        },
+        {
+          "name": "Centre : Geo-Computation Studies",
+          "fields": [
+            "Geophysics"
+          ]
+        },
+        {
+          "name": "Centre : High Performance Cluster Computing Centre",
+          "fields": [
+            "Computer Engineering"
+          ]
+        },
+        {
+          "name": "Centre : Hong Kong Chinese Medicine Authentication",
+          "fields": [
+            "Traditional Eastern Medicine"
+          ]
+        },
+        {
+          "name": "Centre : Hong Kong Energy Studies",
+          "fields": [
+            "Energy Engineering"
+          ]
+        },
+        {
+          "name": "Centre : Hong Kong Organic Resource",
+          "fields": [
+            "Human Resources"
+          ]
+        },
+        {
+          "name": "Centre : Human Resources Strategy and Development",
+          "fields": [
+            "Human Resources"
+          ]
+        },
+        {
+          "name": "Centre : Liberal Studies in Schools",
+          "fields": [
+            "Resource Centre"
+          ]
+        },
+        {
+          "name": "Centre : Mathematical Imaging and Vision",
+          "fields": [
+            "Mathematics and Computer Science"
+          ]
+        },
+        {
+          "name": "Centre : Non-linear Studies",
+          "fields": [
+            "Physics"
+          ]
+        },
+        {
+          "name": "Centre : Nonlinear and Complex Systems (Beijing-Hong Kong-Singapore Joint Centre)",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Mathematics",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Centre : Olympic Studies",
+          "fields": [
+            "Sports Management"
+          ]
+        },
+        {
+          "name": "Centre : Quantitative Systems Biology",
+          "fields": [
+            "Biology"
+          ]
+        },
+        {
+          "name": "Centre : Science Consultancy Services",
+          "fields": [
+            "Computer Science",
+            "Mathematics",
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "Centre : Sino-Christian Studies",
+          "fields": [
+            "Chinese",
+            "Christian Religious Studies"
+          ]
+        },
+        {
+          "name": "Centre : Translation",
+          "fields": [
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Department/Division : Research and Development Division - School of Chinese Medicine",
+          "fields": [
+            "Traditional Eastern Medicine"
+          ]
+        },
+        {
+          "name": "Faculty : Arts",
+          "fields": [
+            "Arts and Humanities",
+            "Chinese",
+            "English",
+            "Music",
+            "Philosophy",
+            "Religion",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Faculty : Science",
+          "fields": [
+            "Applied Mathematics",
+            "Applied Physics",
+            "Biology",
+            "Biotechnology",
+            "Chemistry",
+            "Computer Science",
+            "Environmental Studies",
+            "Information Technology",
+            "Mathematics",
+            "Operations Research",
+            "Physics",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Faculty : Social Sciences",
+          "fields": [
+            "Economics",
+            "Education",
+            "European Studies",
+            "Geography",
+            "Geography (Human)",
+            "Government",
+            "History",
+            "International Studies",
+            "Leisure Studies",
+            "Parks and Recreation",
+            "Physical Education",
+            "Social Sciences",
+            "Social Work",
+            "Sociology",
+            "South Asian Studies"
+          ]
+        },
+        {
+          "name": "Institute : Advancement of Chinese Medicine",
+          "fields": [
+            "Traditional Eastern Medicine"
+          ]
+        },
+        {
+          "name": "Institute : Advancing Translational Medicine in Bone & Joint Diseases",
+          "fields": [
+            "Rheumatology"
+          ]
+        },
+        {
+          "name": "Institute : Business Development (Wing Lung Bank Institute)",
+          "fields": [
+            "Business and Commerce"
+          ]
+        },
+        {
+          "name": "Institute : Computational Mathematics",
+          "fields": [
+            "Mathematics and Computer Science"
+          ]
+        },
+        {
+          "name": "Institute : Contemporary China Studies",
+          "fields": [
+            "Asian Studies"
+          ]
+        },
+        {
+          "name": "Institute : Creativity",
+          "fields": [
+            "Cultural Studies"
+          ]
+        },
+        {
+          "name": "Institute : East-West Studies (David C. Lam)",
+          "fields": [
+            "Cultural Studies"
+          ]
+        },
+        {
+          "name": "Institute : Enterprise Development",
+          "fields": [
+            "Environmental Studies"
+          ]
+        },
+        {
+          "name": "Institute : Environmental Sciences (Croucher Institute)",
+          "fields": [
+            "Environmental Studies"
+          ]
+        },
+        {
+          "name": "Institute : Environmental Sciences (HKBU - RCEES Joint Institute)",
+          "fields": [
+            "Environmental Studies"
+          ]
+        },
+        {
+          "name": "Institute : Journalism and Society",
+          "fields": [
+            "Journalism",
+            "Social Studies"
+          ]
+        },
+        {
+          "name": "Institute : Sino-Humanitas (Mr. Simon Suen and Mrs. Mary Suen )",
+          "fields": [
+            "Asian Studies"
+          ]
+        },
+        {
+          "name": "Laboratory : Chemical Testing Services/Advanced Instrumentation Laboratory",
+          "fields": [
+            "Chemistry"
+          ]
+        },
+        {
+          "name": "Laboratory : Dioxin Analysis",
+          "fields": [
+            "Materials Engineering"
+          ]
+        },
+        {
+          "name": "Laboratory : Surface Analysis and Material Characterization",
+          "fields": [
+            "Materials Engineering"
+          ]
+        },
+        {
+          "name": "Research Division : Advancement of Social Sciences Research",
+          "fields": [
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Research Division : Applied Mathematics (Peking University-HKBU Joint Research Institute)",
+          "fields": [
+            "Applied Mathematics"
+          ]
+        },
+        {
+          "name": "Research Division : Cancer and Inflammation Research (Shum Yiu Foon Shum Bik Chuen Memorial Centre)",
+          "fields": [
+            "Oncology"
+          ]
+        },
+        {
+          "name": "Research Division : Changshu",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Research Division : Chinese Businesses Case Research",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Research Division : Comparative Governance and Policy Research",
+          "fields": [
+            "Government"
+          ]
+        },
+        {
+          "name": "Research Division : e-Transformation Technology Research",
+          "fields": [
+            "Communication Studies",
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "Research Division : HKBU-UIC Joint Institute of Research Studies",
+          "fields": [
+            "Communication Studies",
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "Research Division : Media and Communication Research",
+          "fields": [
+            "Communication Studies",
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "Research Division : Modern History Research",
+          "fields": [
+            "History",
+            "Modern History"
+          ]
+        },
+        {
+          "name": "Research Division : Pearl River Delta Environment (Sino-Forest Applied Research Centre)",
+          "fields": [
+            "Environmental Studies"
+          ]
+        },
+        {
+          "name": "Research Division : Physical Recreation and Wellness Research (Dr Stephen Hui)",
+          "fields": [
+            "Parks and Recreation"
+          ]
+        },
+        {
+          "name": "Research Division : Statistics Research and Consultancy",
+          "fields": [
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Research Division : Surface Analysis and Research",
+          "fields": [
+            "Materials Engineering"
+          ]
+        },
+        {
+          "name": "Research Division : Ubiquitous Computing",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Research Division : Youth Research and Practice",
+          "fields": [
+            "Accountancy",
+            "Business and Commerce",
+            "E-Business/Commerce",
+            "Economics",
+            "Finance",
+            "Human Resources",
+            "Information Technology",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "School : Business",
+          "fields": [
+            "Accountancy",
+            "Business and Commerce",
+            "E-Business/Commerce",
+            "Economics",
+            "Finance",
+            "Human Resources",
+            "Information Technology",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "School : Chinese Medicine",
+          "fields": [
+            "Biomedicine",
+            "Medicine",
+            "Pharmacy",
+            "Traditional Eastern Medicine"
+          ]
+        },
+        {
+          "name": "School : Communication",
+          "fields": [
+            "Advertising and Publicity",
+            "Cinema and Television",
+            "Communication Arts",
+            "Journalism",
+            "Public Relations",
+            "Radio and Television Broadcasting"
+          ]
+        },
+        {
+          "name": "School : Continuing Education",
+          "fields": [
+            "Business and Commerce",
+            "Information Technology",
+            "International and Comparative Education",
+            "Preschool Education",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "School : Graduate",
+          "fields": [
+            "Accountancy",
+            "Advertising and Publicity",
+            "Arts and Humanities",
+            "Biology",
+            "Biomedicine",
+            "Business Administration",
+            "Chemistry",
+            "Chinese",
+            "Communication Arts",
+            "Computer Science",
+            "Economics",
+            "English",
+            "Environmental Studies",
+            "Film",
+            "Finance",
+            "French Studies",
+            "Geography (Human)",
+            "Germanic Studies",
+            "History",
+            "Human Resources",
+            "International Studies",
+            "Journalism",
+            "Literature",
+            "Marketing",
+            "Mass Communication",
+            "Mathematics",
+            "Media Studies",
+            "Multimedia",
+            "Music",
+            "Pharmacy",
+            "Philosophy",
+            "Physical Education",
+            "Public Relations",
+            "Religion",
+            "Social Sciences",
+            "Social Work",
+            "Sociology",
+            "Statistics",
+            "Traditional Eastern Medicine",
+            "Translation and Interpretation",
+            "Visual Arts",
+            "Writing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Advertising and Publicity",
+            "Arts and Humanities",
+            "Biology",
+            "Biomedicine",
+            "Business Administration",
+            "Chemistry",
+            "Chinese",
+            "Communication Arts",
+            "Computer Science",
+            "Economics",
+            "English",
+            "Environmental Studies",
+            "Film",
+            "Finance",
+            "French Studies",
+            "Geography (Human)",
+            "Germanic Studies",
+            "History",
+            "Human Resources",
+            "International Studies",
+            "Journalism",
+            "Literature",
+            "Marketing",
+            "Mass Communication",
+            "Mathematics",
+            "Media Studies",
+            "Multimedia",
+            "Music",
+            "Pharmacy",
+            "Philosophy",
+            "Physical Education",
+            "Public Relations",
+            "Religion",
+            "Social Sciences",
+            "Social Work",
+            "Sociology",
+            "Statistics",
+            "Traditional Eastern Medicine",
+            "Translation and Interpretation",
+            "Visual Arts",
+            "Writing"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree Honours",
+          "fields": [
+            "Accountancy",
+            "Advertising and Publicity",
+            "Arts and Humanities",
+            "Biology",
+            "Biomedicine",
+            "Business Administration",
+            "Chemistry",
+            "Chinese",
+            "Communication Arts",
+            "Computer Science",
+            "Economics",
+            "English",
+            "Environmental Studies",
+            "Film",
+            "Finance",
+            "French Studies",
+            "Geography (Human)",
+            "Germanic Studies",
+            "History",
+            "Human Resources",
+            "International Studies",
+            "Journalism",
+            "Literature",
+            "Marketing",
+            "Mass Communication",
+            "Mathematics",
+            "Media Studies",
+            "Multimedia",
+            "Music",
+            "Pharmacy",
+            "Philosophy",
+            "Physical Education",
+            "Public Relations",
+            "Religion",
+            "Social Sciences",
+            "Social Work",
+            "Sociology",
+            "Statistics",
+            "Traditional Eastern Medicine",
+            "Translation and Interpretation",
+            "Visual Arts",
+            "Writing"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Accountancy",
+            "Asian Studies",
+            "Business Administration",
+            "Chemistry",
+            "Chinese",
+            "Communication Arts",
+            "Comparative Literature",
+            "Economics",
+            "Education",
+            "Film",
+            "Finance",
+            "Health Administration",
+            "Human Resources",
+            "Information Technology",
+            "Journalism",
+            "Leisure Studies",
+            "Literature",
+            "Marketing",
+            "Media Studies",
+            "Modern Languages",
+            "Multimedia",
+            "Music",
+            "Pharmacy",
+            "Public Administration",
+            "Public Health",
+            "Radio and Television Broadcasting",
+            "Social Sciences",
+            "Social Work",
+            "Sports",
+            "Traditional Eastern Medicine",
+            "Translation and Interpretation",
+            "Visual Arts",
+            "Vocational Counselling"
+          ]
+        },
+        {
+          "name": "Doctor's Degree",
+          "fields": [
+            "Accountancy",
+            "Biology",
+            "Biomedical Engineering",
+            "Business Administration",
+            "Chemistry",
+            "Chinese",
+            "Communication Arts",
+            "Computer Science",
+            "Economics",
+            "Education",
+            "English",
+            "Film",
+            "Finance",
+            "Journalism",
+            "Literature",
+            "Management",
+            "Marketing",
+            "Mathematics",
+            "Philosophy",
+            "Physics",
+            "Religious Studies",
+            "Translation and Interpretation"
+          ]
+        }
+      ],
+      "accreditation": "Education Bureau",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Roland Chin Tai-hong"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Peter Li"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1956 as Hong Kong Baptist College, became autonomous 1983, and acquired present status and title 1994.",
+      "periodicals": [
+        "Research Report",
+        "Research Report"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "16508",
+      "iau_id": "IAU-016508",
+      "name": "Hong Kong Metropolitan University",
+      "alt_name": "(HKMU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhVLCNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016508",
+      "address": {
+        "Street": "Homantin",
+        "City": "Kowloon",
+        "WWW": "https://www.hkmu.edu.hk"
+      },
+      "website": "https://www.hkmu.edu.hk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1989,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Chinese",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "School : Arts and Social Sciences",
+          "fields": [
+            "Arts and Humanities",
+            "Chinese",
+            "Economics",
+            "English",
+            "Film",
+            "Law",
+            "Literature",
+            "Performing Arts",
+            "Psychology",
+            "Public Administration",
+            "Regional Studies",
+            "Social Sciences",
+            "Translation and Interpretation",
+            "Writing"
+          ]
+        },
+        {
+          "name": "School : Business and Administration",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "E-Business/Commerce",
+            "Finance",
+            "International Business",
+            "Law",
+            "Management",
+            "Management Systems",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "School : Education and Languages",
+          "fields": [
+            "Education",
+            "Foreign Languages Education",
+            "Preschool Education"
+          ]
+        },
+        {
+          "name": "School : Nursing and Health Studies",
+          "fields": [
+            "Nursing",
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "School : Professional and Continuing Education",
+          "fields": [
+            "Business Administration",
+            "Civil Engineering",
+            "Criminology",
+            "Fashion Design",
+            "Health Sciences",
+            "Interior Design",
+            "Japanese",
+            "Multimedia",
+            "Natural Sciences",
+            "Preschool Education",
+            "Psychology",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "School : Science and Technology",
+          "fields": [
+            "Applied Chemistry",
+            "Computer Engineering",
+            "Computer Science",
+            "Electronic Engineering",
+            "Engineering",
+            "Environmental Studies",
+            "Food Science",
+            "Industrial Design",
+            "Information Technology",
+            "Mathematics",
+            "Nursing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma of Vocational Education / Diploma of Foundation Studies",
+          "fields": [
+            "Business Administration",
+            "Education",
+            "Information Technology",
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "Yi Jin",
+          "fields": [
+            "Business Administration",
+            "Education",
+            "Information Technology",
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "Associate Degree",
+          "fields": [
+            "Business Administration",
+            "Education",
+            "Information Technology",
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "Higher Diploma",
+          "fields": [
+            "Business Administration",
+            "Civil Engineering",
+            "Criminology",
+            "Fashion Design",
+            "Interior Design",
+            "Japanese",
+            "Media Studies",
+            "Preschool Education",
+            "Psychology",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Child Care and Development",
+            "Computer Science",
+            "Education",
+            "Electronic Engineering",
+            "English",
+            "Management",
+            "Nursing",
+            "Preschool Education",
+            "Special Education"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree Honours",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Artificial Intelligence",
+            "Banking",
+            "Biological and Life Sciences",
+            "Business Computing",
+            "Chinese",
+            "Communication Arts",
+            "Computer Engineering",
+            "Computer Networks",
+            "Computer Science",
+            "E-Business/Commerce",
+            "Education",
+            "Educational Administration",
+            "Electronic Engineering",
+            "Engineering",
+            "English",
+            "Environmental Studies",
+            "Finance",
+            "Food Science",
+            "Foreign Languages Education",
+            "Human Resources",
+            "International Business",
+            "Management",
+            "Marketing",
+            "Nursing",
+            "Preschool Education",
+            "Primary Education",
+            "Psychology",
+            "Public Administration",
+            "Real Estate",
+            "Sports Management",
+            "Taxation",
+            "Tourism",
+            "Translation and Interpretation",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Postgraduate Certificate/Diploma",
+          "fields": [
+            "Education",
+            "Primary Education",
+            "Secondary Education"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Accountancy",
+            "Applied Linguistics",
+            "Business Administration",
+            "Education",
+            "Environmental Studies",
+            "Finance",
+            "Foreign Languages Education",
+            "Literature",
+            "Management",
+            "Marketing",
+            "Multimedia",
+            "Natural Resources",
+            "Nursing",
+            "Real Estate",
+            "Social Sciences",
+            "Tourism",
+            "Translation and Interpretation",
+            "Writing"
+          ]
+        },
+        {
+          "name": "Master of Philosophy",
+          "fields": [
+            "Arts and Humanities",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Doctor's Degree",
+          "fields": [
+            "Business Administration",
+            "Education",
+            "Engineering",
+            "Philosophy",
+            "Social Sciences"
+          ]
+        }
+      ],
+      "accreditation": "Education Bureau",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Paul Kwan-sing Lam"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Reggie Ching Ping Kwan"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Xuemei Shi"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1989 as Open Learning Institute of Hong Kong, became the The Open University of Hong Kong, a self-accrediting institution in1997, and acquired current title in 2021.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "25424",
+      "iau_id": "IAU-025424",
+      "name": "Hong Kong Nang Yan College of Higher Education",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRULEMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025424",
+      "address": {
+        "Street": "325-329 Lai Chi Kik RoadSham Shui Po",
+        "City": "Kowloon",
+        "WWW": "http://www.ny.edu.hk"
+      },
+      "website": "http://www.ny.edu.hk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1969,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "School : Art",
+          "fields": [
+            "Chinese",
+            "English"
+          ]
+        },
+        {
+          "name": "School : Business",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Finance",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "School : Continuing Education",
+          "fields": [
+            "Asian Religious Studies"
+          ]
+        },
+        {
+          "name": "School : General Education",
+          "fields": [
+            "Asian Religious Studies"
+          ]
+        },
+        {
+          "name": "School : Humanistic Buddhism",
+          "fields": [
+            "Asian Religious Studies"
+          ]
+        },
+        {
+          "name": "School : Nursing and Healh Care",
+          "fields": [
+            "Health Sciences",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "School : Social Sciences",
+          "fields": [
+            "Social Sciences",
+            "Social Work"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Chinese",
+            "English",
+            "Finance",
+            "Human Resources",
+            "Management",
+            "Marketing",
+            "Nursing",
+            "Social Work"
+          ]
+        }
+      ],
+      "accreditation": "Education Bureau",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "King Por Edwin Wong"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Yuen Ling Jessie Tang"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1969 as Hong Kong Buddhist College (HKBC). In April 2014, HKBC was approved by the HKSAR Government to become Hong Kong Nang Yan College of Higher Education to award university-level 4-year full-time Degrees.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "7560",
+      "iau_id": "IAU-007560",
+      "name": "Hong Kong Shue Yan University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tUzRWLGBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007560",
+      "address": {
+        "Street": "10 Wai Tsui CrescentBraemar Hill Road",
+        "City": "North Point",
+        "WWW": "http://www.hksyu.edu"
+      },
+      "website": "http://www.hksyu.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English",
+        "Chinese"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Accounting",
+          "fields": [
+            "Accountancy"
+          ]
+        },
+        {
+          "name": "Department/Division : Business Administration",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Department/Division : Chinese Language and Literature",
+          "fields": [
+            "Chinese",
+            "Literature"
+          ]
+        },
+        {
+          "name": "Department/Division : Counselling and Psychology",
+          "fields": [
+            "Educational and Student Counselling",
+            "Educational Psychology",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Department/Division : Economics and Finance",
+          "fields": [
+            "Economics",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Department/Division : English Language and Literature",
+          "fields": [
+            "English",
+            "Literature"
+          ]
+        },
+        {
+          "name": "Department/Division : History",
+          "fields": [
+            "History"
+          ]
+        },
+        {
+          "name": "Department/Division : Journalism and Communication",
+          "fields": [
+            "Communication Studies",
+            "Journalism",
+            "Mass Communication"
+          ]
+        },
+        {
+          "name": "Department/Division : Law and Business",
+          "fields": [
+            "Commercial Law",
+            "Law"
+          ]
+        },
+        {
+          "name": "Department/Division : Social Work",
+          "fields": [
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Department/Division : Sociology",
+          "fields": [
+            "Social Sciences",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Institute : Conflict Engagement and Resolution (IICER)",
+          "fields": [
+            "Political Sciences"
+          ]
+        },
+        {
+          "name": "Laboratory : Cognitive Psychology",
+          "fields": [
+            "Cognitive Sciences",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Laboratory : Neuropsychology",
+          "fields": [
+            "Neurological Therapy",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Research Division : Advanced Study in Dynamic Cooperative Games  (SRS Consortium)",
+          "fields": [
+            "Business Administration",
+            "Economics",
+            "Management",
+            "Mathematics",
+            "Political Sciences",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Research Division : Business, Economic and Public Policy",
+          "fields": [
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "Research Division : Contemporary China",
+          "fields": [
+            "Asian Studies"
+          ]
+        },
+        {
+          "name": "Research Division : Counselling and Research Centre",
+          "fields": [
+            "Small Business",
+            "Social Studies"
+          ]
+        },
+        {
+          "name": "Research Division : Enterprise and Social Development",
+          "fields": [
+            "Small Business",
+            "Social Studies"
+          ]
+        },
+        {
+          "name": "Research Division : Online Communication",
+          "fields": [
+            "Computer Networks"
+          ]
+        },
+        {
+          "name": "Research Division : Qualitative Social Research",
+          "fields": [
+            "Social Studies"
+          ]
+        },
+        {
+          "name": "Research Division : Survey and Research Centre",
+          "fields": [
+            "Journalism",
+            "Mass Communication",
+            "Statistics"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree Honours",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Business and Commerce",
+            "Chinese",
+            "Commercial Law",
+            "Economics",
+            "Finance",
+            "History",
+            "Psychology",
+            "Social Work",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Master of Philosophy",
+          "fields": [
+            "Business Administration",
+            "Chinese",
+            "Cultural Studies",
+            "Economics",
+            "English",
+            "History",
+            "Marketing",
+            "Psychology",
+            "Social Work",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Doctor's Degree",
+          "fields": [
+            "Chinese",
+            "Economics",
+            "English",
+            "History",
+            "Psychology",
+            "Sociology"
+          ]
+        }
+      ],
+      "accreditation": "Education Bureau",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Henry Hu"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Kang Wai, Felix Leung"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded in 1971 as Hong Kong Shue Yan College. Acquired current title and status 2006. Hong Kong's first private university.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "10994",
+      "iau_id": "IAU-010994",
+      "name": "Lingnan University",
+      "alt_name": "(LU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM2BZLjMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-010994",
+      "address": {
+        "Street": "8 Castle Peak Road",
+        "City": "Tuen Mun",
+        "Province": "New Territories",
+        "WWW": "http://www.ln.edu.hk"
+      },
+      "website": "http://www.ln.edu.hk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1967,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to May (September-December; January-May)",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Asian Pacific Studies",
+          "fields": [
+            "Asian Studies",
+            "Pacific Area Studies"
+          ]
+        },
+        {
+          "name": "Centre : Public Policy Studies",
+          "fields": [
+            "History",
+            "South Asian Studies"
+          ]
+        },
+        {
+          "name": "College : Community College and Further Education",
+          "fields": [
+            "History",
+            "South Asian Studies"
+          ]
+        },
+        {
+          "name": "Course/Programme : Hong Kong and South China Historical Research",
+          "fields": [
+            "History",
+            "South Asian Studies"
+          ]
+        },
+        {
+          "name": "Course/Programme : Kwan Fong Cultural Research and Development",
+          "fields": [
+            "Cultural Studies"
+          ]
+        },
+        {
+          "name": "Course/Programme : Public Governance",
+          "fields": [
+            "Government"
+          ]
+        },
+        {
+          "name": "Faculty : Arts",
+          "fields": [
+            "Chinese",
+            "Cultural Studies",
+            "English",
+            "History",
+            "Modern Languages",
+            "Philosophy",
+            "Translation and Interpretation",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Faculty : Business",
+          "fields": [
+            "Accountancy",
+            "Computer Science",
+            "Finance",
+            "Insurance",
+            "International Business",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Social Sciences",
+          "fields": [
+            "Economics",
+            "Political Sciences",
+            "Psychology",
+            "Social Policy",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Institute : Asia-Pacific Institute of Ageing Studies",
+          "fields": [
+            "Arts and Humanities"
+          ]
+        },
+        {
+          "name": "Institute : Hong Kong Institute of Business Studies",
+          "fields": [
+            "Arts and Humanities"
+          ]
+        },
+        {
+          "name": "Institute : Lingan Institute of Further Education",
+          "fields": [
+            "Arts and Humanities"
+          ]
+        },
+        {
+          "name": "Research Division : Humanities Research",
+          "fields": [
+            "Arts and Humanities"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree Honours",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Chinese",
+            "Cultural Studies",
+            "Economics",
+            "English Studies",
+            "Finance",
+            "History",
+            "Insurance",
+            "International Business",
+            "Management",
+            "Marketing",
+            "Philosophy",
+            "Psychology",
+            "Social Sciences",
+            "Sociology",
+            "Translation and Interpretation",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Postgraduate Certificate/Diploma",
+          "fields": [
+            "Business and Commerce"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Chinese",
+            "Cultural Studies",
+            "Development Studies",
+            "E-Business/Commerce",
+            "Economics",
+            "English",
+            "Finance",
+            "History",
+            "Human Resources",
+            "International Business",
+            "International Studies",
+            "Philosophy",
+            "Psychology",
+            "Social Sciences",
+            "Translation and Interpretation",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Doctor's Degree",
+          "fields": [
+            "Business Administration",
+            "Chinese",
+            "Cultural Studies",
+            "Economics",
+            "English",
+            "History",
+            "Philosophy",
+            "Social Sciences",
+            "Translation and Interpretation",
+            "Visual Arts"
+          ]
+        }
+      ],
+      "accreditation": "Education Bureau",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Leonard K Cheng"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Joanne Wing-han Lai"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1967. A degree-conferring tertiary institution fully funded by Hong Kong Government through the University Grants Committee. Acquired present status and title 1999.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "16414",
+      "iau_id": "IAU-016414",
+      "name": "The Chinese University of Hong Kong",
+      "alt_name": "(CUHK)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhULDMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016414",
+      "address": {
+        "City": "Shatin",
+        "Province": "New Territories",
+        "WWW": "https://www.cuhk.edu.hk"
+      },
+      "website": "https://www.cuhk.edu.hk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "August to July",
+      "languages": [
+        "Chinese",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Arts",
+          "fields": [
+            "Anthropology",
+            "Chinese",
+            "Cultural Studies",
+            "English",
+            "Fine Arts",
+            "History",
+            "Japanese",
+            "Linguistics",
+            "Modern Languages",
+            "Music",
+            "Philosophy",
+            "Religious Studies",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Faculty : Business Administration",
+          "fields": [
+            "Accountancy",
+            "Finance",
+            "Hotel Management",
+            "Management",
+            "Marketing",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Curriculum",
+            "Educational Administration",
+            "Educational Psychology",
+            "Physical Education",
+            "Sports"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Biomedical Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Electronic Engineering",
+            "Electronics and Automation",
+            "Engineering Management",
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Anaesthesiology",
+            "Anatomy",
+            "Biomedicine",
+            "Microbiology",
+            "Nursing",
+            "Obstetrics and Gynaecology",
+            "Oncology",
+            "Ophthalmology",
+            "Orthopaedics",
+            "Otorhinolaryngology",
+            "Paediatrics",
+            "Pathology",
+            "Pharmacy",
+            "Psychiatry and Mental Health",
+            "Public Health",
+            "Radiology",
+            "Surgery"
+          ]
+        },
+        {
+          "name": "Faculty : Science",
+          "fields": [
+            "Biological and Life Sciences",
+            "Chemistry",
+            "Mathematics",
+            "Physics",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Faculty : Social Science",
+          "fields": [
+            "Architecture",
+            "Economics",
+            "Geography",
+            "Government",
+            "Journalism",
+            "Psychology",
+            "Public Administration",
+            "Social Work",
+            "Sociology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Actuarial Science",
+            "Anthropology",
+            "Architecture",
+            "Artificial Intelligence",
+            "Biochemistry",
+            "Biology",
+            "Biomedical Engineering",
+            "Biotechnology",
+            "Business Administration",
+            "Cell Biology",
+            "Chemistry",
+            "Child Care and Development",
+            "Chinese",
+            "Communication Studies",
+            "Community Health",
+            "Computer Engineering",
+            "Computer Science",
+            "Cultural Studies",
+            "Design",
+            "Earth Sciences",
+            "Economics",
+            "Electronic Engineering",
+            "Electronics and Automation",
+            "Energy Engineering",
+            "Engineering Management",
+            "English",
+            "Environmental Engineering",
+            "Environmental Studies",
+            "Finance",
+            "Fine Arts",
+            "Food Science",
+            "Gender Studies",
+            "Geography",
+            "Geophysics",
+            "Gerontology",
+            "Government",
+            "Health Administration",
+            "Health Education",
+            "History",
+            "Information Sciences",
+            "Insurance",
+            "International Business",
+            "International Economics",
+            "International Studies",
+            "Japanese",
+            "Journalism",
+            "Law",
+            "Leadership",
+            "Linguistics",
+            "Mathematics",
+            "Mathematics Education",
+            "Mechanical Engineering",
+            "Medicine",
+            "Molecular Biology",
+            "Music",
+            "Natural Sciences",
+            "Nursing",
+            "Nutrition",
+            "Pharmacy",
+            "Philosophy",
+            "Physical Education",
+            "Physics",
+            "Psychology",
+            "Public Administration",
+            "Public Health",
+            "Real Estate",
+            "Religious Studies",
+            "Social Policy",
+            "Social Work",
+            "Sociology",
+            "Statistics",
+            "Sustainable Development",
+            "Technology",
+            "Theology",
+            "Translation and Interpretation",
+            "Urban Studies"
+          ]
+        },
+        {
+          "name": "Postgraduate Certificate/Diploma",
+          "fields": [
+            "Child Care and Development",
+            "Communication Disorders",
+            "Education",
+            "Epidemiology",
+            "Genetics",
+            "Law",
+            "Primary Education",
+            "Public Health"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Accountancy",
+            "Actuarial Science",
+            "Advertising and Publicity",
+            "Agricultural Education",
+            "Anaesthesiology",
+            "Anatomy",
+            "Anthropology",
+            "Architecture",
+            "Biochemistry",
+            "Biology",
+            "Biomedical Engineering",
+            "Business Administration",
+            "Cardiology",
+            "Cell Biology",
+            "Chemistry",
+            "Child Care and Development",
+            "Chinese",
+            "Christian Religious Studies",
+            "Clinical Psychology",
+            "Communication Studies",
+            "Computer Engineering",
+            "Computer Science",
+            "Cultural Studies",
+            "E-Business/Commerce",
+            "Earth Sciences",
+            "Economics",
+            "Education",
+            "Educational Psychology",
+            "Electronic Engineering",
+            "Electronics and Automation",
+            "Endocrinology",
+            "Engineering Management",
+            "English",
+            "Environmental Studies",
+            "Epidemiology",
+            "Finance",
+            "Fine Arts",
+            "Food Science",
+            "Gastroenterology",
+            "Gender Studies",
+            "Geography",
+            "Gerontology",
+            "Government",
+            "Health Administration",
+            "Health Sciences",
+            "History",
+            "Industrial and Organizational Psychology",
+            "Information Management",
+            "Information Sciences",
+            "Insurance",
+            "Japanese",
+            "Journalism",
+            "Law",
+            "Linguistics",
+            "Management",
+            "Marketing",
+            "Materials Engineering",
+            "Mathematics",
+            "Mathematics Education",
+            "Mechanical Engineering",
+            "Microbiology",
+            "Midwifery",
+            "Molecular Biology",
+            "Music",
+            "Neurosciences",
+            "Nursing",
+            "Nutrition",
+            "Obstetrics and Gynaecology",
+            "Ophthalmology",
+            "Orthopaedics",
+            "Otorhinolaryngology",
+            "Pathology",
+            "Pharmacy",
+            "Philosophy",
+            "Physical Education",
+            "Physics",
+            "Psychiatry and Mental Health",
+            "Psychology",
+            "Public Administration",
+            "Public Health",
+            "Radiology",
+            "Real Estate",
+            "Religious Studies",
+            "Social and Community Services",
+            "Social Policy",
+            "Social Welfare",
+            "Social Work",
+            "Sociology",
+            "Sports",
+            "Statistics",
+            "Store Management",
+            "Surgery",
+            "Systems Analysis",
+            "Technology",
+            "Tourism",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Doctor's Degree",
+          "fields": [
+            "Accountancy",
+            "Anaesthesiology",
+            "Anatomy",
+            "Anthropology",
+            "Architecture",
+            "Biochemistry",
+            "Biology",
+            "Biomedical Engineering",
+            "Business Administration",
+            "Cell Biology",
+            "Chemistry",
+            "Chinese",
+            "Clinical Psychology",
+            "Communication Studies",
+            "Computer Engineering",
+            "Computer Science",
+            "Cultural Studies",
+            "Earth Sciences",
+            "Economics",
+            "Education",
+            "Electronic Engineering",
+            "Electronics and Automation",
+            "Engineering Management",
+            "English",
+            "Environmental Studies",
+            "Finance",
+            "Food Science",
+            "Gender Studies",
+            "Geography",
+            "Government",
+            "History",
+            "Japanese",
+            "Law",
+            "Linguistics",
+            "Management",
+            "Marketing",
+            "Materials Engineering",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Microbiology",
+            "Molecular Biology",
+            "Music",
+            "Nursing",
+            "Nutrition",
+            "Obstetrics and Gynaecology",
+            "Ophthalmology",
+            "Orthopaedics",
+            "Otorhinolaryngology",
+            "Pathology",
+            "Pharmacy",
+            "Philosophy",
+            "Physical Education",
+            "Physics",
+            "Psychology",
+            "Public Administration",
+            "Public Health",
+            "Radiology",
+            "Religious Studies",
+            "Social Sciences",
+            "Social Welfare",
+            "Sociology",
+            "Sports",
+            "Statistics",
+            "Surgery",
+            "Translation and Interpretation"
+          ]
+        }
+      ],
+      "accreditation": "Self-accredited",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Dennis Lo"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Wai-yin Poon"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Shally Fan"
+        }
+      ],
+      "statistics": {},
+      "history": "CUHK is a highly esteemed, forward-looking comprehensive research university, recognized for excellence both regionally and globally. Founded in 1963, it is the second oldest university in Hong Kong. What sets CUHK apart are its deep roots in Chinese culture, its emphasis on bilingualism and multiculturalism, and a unique college system. The University’s founding philosophy is to combine tradition with modernity and to bring together China and the West",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "16465",
+      "iau_id": "IAU-016465",
+      "name": "The Education University of Hong Kong",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhULUM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016465",
+      "address": {
+        "Street": "10 Lo Ping Road",
+        "City": "Tai Po",
+        "Province": "New Territories",
+        "WWW": "https://www.eduhk.hk"
+      },
+      "website": "https://www.eduhk.hk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Chinese",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Education and Human Development (FEHD)",
+          "fields": [
+            "Continuing Education",
+            "Curriculum",
+            "Education",
+            "Educational Administration",
+            "Educational and Student Counselling",
+            "Educational Psychology",
+            "Educational Sciences",
+            "International and Comparative Education",
+            "Preschool Education",
+            "Psychology",
+            "Special Education"
+          ]
+        },
+        {
+          "name": "Faculty : Humanities (FHM)",
+          "fields": [
+            "Chinese",
+            "Cultural Studies",
+            "English",
+            "Linguistics",
+            "Literature",
+            "Native Language"
+          ]
+        },
+        {
+          "name": "Faculty : Liberal Arts and Social Sciences (FLASS)",
+          "fields": [
+            "Cultural Studies",
+            "Environmental Studies",
+            "Health Education",
+            "Information Technology",
+            "Mathematics",
+            "Natural Sciences",
+            "Physical Education",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Research Division : Asia Pacific Centre for Leadership and Change (APCLC)",
+          "fields": [
+            "The Joseph Lau Luen Hung Charitable Trust Asia Pacific Centre"
+          ]
+        },
+        {
+          "name": "Research Division : Assessment (ARC)",
+          "fields": [
+            "Faculty of Education Studies R&D Centre"
+          ]
+        },
+        {
+          "name": "Research Division : Childhood Research and Innovation (CCRI)",
+          "fields": [
+            "Faculty of Education Studies R&D Centre"
+          ]
+        },
+        {
+          "name": "Research Division : Chinese Literature and Literacy Culture (RCCLC)",
+          "fields": [
+            "Literacy Education",
+            "South Asian Studies"
+          ]
+        },
+        {
+          "name": "Research Division : Education in Environmental Sustainability (CEES)",
+          "fields": [
+            "Faculty of Liberal Arts and Social Sciences"
+          ]
+        },
+        {
+          "name": "Research Division : Governance and Citizenship CGC)",
+          "fields": [
+            "South Asian Studies"
+          ]
+        },
+        {
+          "name": "Research Division : Greater China Studies (CGCS)",
+          "fields": [
+            "South Asian Studies"
+          ]
+        },
+        {
+          "name": "Research Division : Learning Study CLS)",
+          "fields": [
+            "Faculty of Education Studies R&D Centre"
+          ]
+        },
+        {
+          "name": "Research Division : Lifelong Learning Research and Development (CLLRD)",
+          "fields": [
+            "Continuing Education",
+            "Educational Research"
+          ]
+        },
+        {
+          "name": "Research Division : Popular Culture in the Humanities (CPCH)",
+          "fields": [
+            "Educational Research",
+            "Folklore"
+          ]
+        },
+        {
+          "name": "Research Division : Psychosocial Health and Aging (CPHA)",
+          "fields": [
+            "Faculty of Education and Human Development"
+          ]
+        },
+        {
+          "name": "Research Division : Religious and Spirituality Education (CRSE)",
+          "fields": [
+            "Religious Education"
+          ]
+        },
+        {
+          "name": "Research Division : Small Class Teaching (CSCT)",
+          "fields": [
+            "Special Education"
+          ]
+        },
+        {
+          "name": "Research Division : Special Educational Needs and Inclusive Education (CSENIE)",
+          "fields": [
+            "Special Education"
+          ]
+        },
+        {
+          "name": "School : Graduate School (GS)",
+          "fields": [
+            "Chinese",
+            "Communication Studies",
+            "Education",
+            "Educational Administration",
+            "Educational Psychology",
+            "English",
+            "English Studies",
+            "Foreign Languages Education",
+            "Linguistics",
+            "Mathematics",
+            "Mathematics Education",
+            "Music Education",
+            "Native Language",
+            "Native Language Education",
+            "Pedagogy",
+            "Psychology",
+            "Science Education",
+            "Visual Arts"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Arts and Humanities",
+            "Chinese",
+            "Cultural Studies",
+            "Education",
+            "English",
+            "Environmental Studies",
+            "Foreign Languages Education",
+            "Geography (Human)",
+            "Handicrafts",
+            "Health Education",
+            "History",
+            "Mathematics",
+            "Modern Languages",
+            "Music",
+            "Nursing",
+            "Physical Education",
+            "Preschool Education",
+            "Psychology",
+            "Special Education",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree Honours",
+          "fields": [
+            "Arts and Humanities",
+            "Chinese",
+            "Cultural Studies",
+            "Education",
+            "English",
+            "Environmental Studies",
+            "Foreign Languages Education",
+            "Geography (Human)",
+            "Handicrafts",
+            "Health Education",
+            "History",
+            "Mathematics",
+            "Modern Languages",
+            "Music",
+            "Nursing",
+            "Physical Education",
+            "Preschool Education",
+            "Psychology",
+            "Special Education",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Postgraduate Certificate/Diploma",
+          "fields": [
+            "Education",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Chinese",
+            "Communication Arts",
+            "Education",
+            "Educational and Student Counselling",
+            "English",
+            "Linguistics",
+            "Mathematics",
+            "Music Education",
+            "Pedagogy",
+            "Psychology",
+            "Special Education",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Master of Philosophy",
+          "fields": [
+            "Philosophy"
+          ]
+        },
+        {
+          "name": "Doctor's Degree",
+          "fields": [
+            "Education",
+            "Philosophy"
+          ]
+        }
+      ],
+      "accreditation": "Education Bureau",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "John Lee Chi-Kin"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "May Cheng May-hung"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Lo Sing-kai"
+        }
+      ],
+      "statistics": {},
+      "history": "Established in 1994 as The Hong Kong Institute of Education and acquired current title and status in 2016. A self-accrediting publicly-funded institution.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "25425",
+      "iau_id": "IAU-025425",
+      "name": "The Hang Seng University of Hong Kong",
+      "alt_name": "(HSUHK)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRULEM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025425",
+      "address": {
+        "Street": "Hang Shin LinkSiu Lek Yuen",
+        "City": "Shatin",
+        "Province": "New Territories",
+        "WWW": "https://www.hsu.edu.hk"
+      },
+      "website": "https://www.hsu.edu.hk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "September to May (September-December; January-May), Summer term, June-August",
+      "languages": [
+        "English",
+        "Chinese"
+      ],
+      "faculties": [
+        {
+          "name": "School : Business",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business and Commerce",
+            "Economics",
+            "Finance",
+            "Human Resources",
+            "International Business",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "School : Communication",
+          "fields": [
+            "Communication Arts",
+            "Journalism",
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "School : Decision Science",
+          "fields": [
+            "Actuarial Science",
+            "Computer Science",
+            "Data Science",
+            "Information Management",
+            "Insurance",
+            "Logistics Management"
+          ]
+        },
+        {
+          "name": "School : Humanities and Social Sciences",
+          "fields": [
+            "Asian Studies",
+            "Chinese",
+            "Design",
+            "Economics",
+            "English",
+            "Fine Arts",
+            "Philosophy",
+            "Political Sciences",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "School : Translation with Business",
+          "fields": [
+            "Translation and Interpretation"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Actuarial Science",
+            "Asian Studies",
+            "Banking",
+            "Business and Commerce",
+            "Chinese",
+            "Communication Arts",
+            "Computer Science",
+            "Design",
+            "Economics",
+            "English",
+            "Finance",
+            "Fine Arts",
+            "Human Resources",
+            "Information Management",
+            "Information Sciences",
+            "Insurance",
+            "International Business",
+            "Journalism",
+            "Logistics Management",
+            "Management",
+            "Marketing",
+            "Media Studies",
+            "Philosophy",
+            "Political Sciences",
+            "Psychology",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Artificial Intelligence",
+            "Chinese",
+            "Communication Arts",
+            "Cultural Studies",
+            "English",
+            "Entrepreneurship",
+            "Foreign Languages Education",
+            "Insurance",
+            "Logistics Management",
+            "Management",
+            "Theatre",
+            "Translation and Interpretation"
+          ]
+        }
+      ],
+      "accreditation": "Education Bureau",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Simon S.M. Ho"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Y.V. Hui"
+        }
+      ],
+      "statistics": {},
+      "history": "The Hang Seng University of Hong Kong, formerly known as Hang Seng Management College and Hang Seng School of Commerce, was created in 2010. It officially became a private university with the approval from Hong Kong SAR Government in October 2018",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "16464",
+      "iau_id": "IAU-016464",
+      "name": "The Hong Kong Academy for Performing Arts",
+      "alt_name": "(HKAPA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhULUMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016464",
+      "address": {
+        "Street": "1 Gloucester Road",
+        "City": "Wan Chai",
+        "WWW": "http://www.hkapa.edu"
+      },
+      "website": "http://www.hkapa.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1984,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June",
+      "languages": [
+        "Chinese",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Chinese Traditional Theatre Programme",
+          "fields": [
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Course/Programme : Liberal Arts",
+          "fields": [
+            "Chinese",
+            "English",
+            "French",
+            "German",
+            "Italian",
+            "Japanese",
+            "Korean",
+            "Spanish"
+          ]
+        },
+        {
+          "name": "Department/Division : Languages",
+          "fields": [
+            "Chinese",
+            "English",
+            "French",
+            "German",
+            "Italian",
+            "Japanese",
+            "Korean",
+            "Spanish"
+          ]
+        },
+        {
+          "name": "School : Dance",
+          "fields": [
+            "Dance"
+          ]
+        },
+        {
+          "name": "School : Drama",
+          "fields": [
+            "Acting",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "School : Film and Television",
+          "fields": [
+            "Film",
+            "Radio and Television Broadcasting",
+            "Video"
+          ]
+        },
+        {
+          "name": "School : Music",
+          "fields": [
+            "Music",
+            "Musical Instruments"
+          ]
+        },
+        {
+          "name": "School : Theatre and Entertainment Arts",
+          "fields": [
+            "Performing Arts",
+            "Theatre"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma of Vocational Education / Diploma of Foundation Studies",
+          "fields": [
+            "Dance",
+            "Music",
+            "Opera"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree Honours",
+          "fields": [
+            "Cinema and Television",
+            "Dance",
+            "Music",
+            "Opera",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Cinema and Television",
+            "Dance",
+            "Music",
+            "Theatre"
+          ]
+        }
+      ],
+      "accreditation": "Education Bureau",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Adrian Walter"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Herbert Huey"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1984. Provides professional education, training and research, reflecting the cultural diversity of Hong Kong.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "16466",
+      "iau_id": "IAU-016466",
+      "name": "The Hong Kong Polytechnic University",
+      "alt_name": "(PolyU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhULUM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016466",
+      "address": {
+        "Street": "Hung Hom",
+        "City": "Kowloon",
+        "WWW": "http://www.polyu.edu.hk"
+      },
+      "website": "http://www.polyu.edu.hk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to May (September-December; January-May). Summer Term: May to August",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Business",
+          "fields": [
+            "Accountancy",
+            "Finance",
+            "International Business",
+            "Management",
+            "Marine Transport",
+            "Marketing",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Faculty : Construction and Environment",
+          "fields": [
+            "Building Technologies",
+            "Civil Engineering",
+            "Construction Engineering",
+            "Environmental Management",
+            "Environmental Studies",
+            "Real Estate",
+            "Regional Planning",
+            "Structural Architecture",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Biomedical Engineering",
+            "Computer Engineering",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Industrial Engineering",
+            "Information Technology",
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Health and Social Sciences",
+          "fields": [
+            "Health Sciences",
+            "Laboratory Techniques",
+            "Medical Technology",
+            "Nursing",
+            "Optometry",
+            "Rehabilitation and Therapy",
+            "Social Sciences",
+            "Social Studies",
+            "Treatment Techniques"
+          ]
+        },
+        {
+          "name": "Faculty : Humanities",
+          "fields": [
+            "Asian Studies",
+            "Bilingual and Bicultural Education",
+            "Chinese",
+            "English",
+            "Linguistics",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Faculty : Science",
+          "fields": [
+            "Actuarial Science",
+            "Applied Mathematics",
+            "Applied Physics",
+            "Artificial Intelligence",
+            "Biochemistry",
+            "Biology",
+            "Chemical Engineering",
+            "Food Technology"
+          ]
+        },
+        {
+          "name": "School : Design",
+          "fields": [
+            "Design"
+          ]
+        },
+        {
+          "name": "School : Fashion and Textiles",
+          "fields": [
+            "Fashion Design",
+            "Textile Design",
+            "Textile Technology"
+          ]
+        },
+        {
+          "name": "School : Hotel and Tourism Management",
+          "fields": [
+            "Hotel Management",
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Higher Diploma",
+          "fields": [
+            "Accountancy",
+            "Artificial Intelligence",
+            "Biomedical Engineering",
+            "Biotechnology",
+            "Building Technologies",
+            "Chemical Engineering",
+            "Chinese",
+            "Civil Engineering",
+            "Computer Science",
+            "Construction Engineering",
+            "Design",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "English",
+            "Environmental Engineering",
+            "Fashion Design",
+            "Finance",
+            "Food Technology",
+            "Hotel Management",
+            "Industrial Engineering",
+            "Information Management",
+            "Information Technology",
+            "Laboratory Techniques",
+            "Linguistics",
+            "Management",
+            "Marine Transport",
+            "Marketing",
+            "Modern Languages",
+            "Multimedia",
+            "Nursing",
+            "Occupational Health",
+            "Occupational Therapy",
+            "Optometry",
+            "Physical Therapy",
+            "Physics",
+            "Production Engineering",
+            "Radiology",
+            "Real Estate",
+            "Rehabilitation and Therapy",
+            "Safety Engineering",
+            "Social and Community Services",
+            "Social Sciences",
+            "Speech Therapy and Audiology",
+            "Structural Architecture",
+            "Sustainable Development",
+            "Textile Design",
+            "Textile Technology",
+            "Tourism",
+            "Translation and Interpretation",
+            "Transport and Communications",
+            "Transport Management",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree Honours",
+          "fields": [
+            "Accountancy",
+            "Artificial Intelligence",
+            "Biomedical Engineering",
+            "Biotechnology",
+            "Building Technologies",
+            "Chemical Engineering",
+            "Chinese",
+            "Civil Engineering",
+            "Computer Science",
+            "Construction Engineering",
+            "Design",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "English",
+            "Environmental Engineering",
+            "Fashion Design",
+            "Finance",
+            "Food Technology",
+            "Hotel Management",
+            "Industrial Engineering",
+            "Information Management",
+            "Information Technology",
+            "Laboratory Techniques",
+            "Linguistics",
+            "Management",
+            "Marine Transport",
+            "Marketing",
+            "Modern Languages",
+            "Multimedia",
+            "Nursing",
+            "Occupational Health",
+            "Occupational Therapy",
+            "Optometry",
+            "Physical Therapy",
+            "Physics",
+            "Production Engineering",
+            "Radiology",
+            "Real Estate",
+            "Rehabilitation and Therapy",
+            "Safety Engineering",
+            "Social and Community Services",
+            "Social Sciences",
+            "Speech Therapy and Audiology",
+            "Structural Architecture",
+            "Sustainable Development",
+            "Textile Design",
+            "Textile Technology",
+            "Tourism",
+            "Translation and Interpretation",
+            "Transport and Communications",
+            "Transport Management",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Postgraduate Certificate/Diploma",
+          "fields": [
+            "Accountancy",
+            "Applied Mathematics",
+            "Computer Engineering",
+            "Engineering",
+            "Fashion Design",
+            "Hotel Management",
+            "Industrial Engineering",
+            "Medical Technology",
+            "Nursing",
+            "Operations Research",
+            "Real Estate",
+            "Rehabilitation and Therapy",
+            "Textile Design",
+            "Tourism",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Accountancy",
+            "Applied Mathematics",
+            "Artificial Intelligence",
+            "Biomedical Engineering",
+            "Building Technologies",
+            "Business Administration",
+            "Chinese",
+            "Civil Engineering",
+            "Communication Studies",
+            "Construction Engineering",
+            "Data Science",
+            "Design",
+            "English Studies",
+            "Environmental Engineering",
+            "Environmental Management",
+            "Fashion Design",
+            "Finance",
+            "Food Technology",
+            "Hotel Management",
+            "Linguistics",
+            "Management",
+            "Marketing",
+            "Materials Engineering",
+            "Multimedia",
+            "Nursing",
+            "Occupational Therapy",
+            "Operations Research",
+            "Physical Therapy",
+            "Psychology",
+            "Real Estate",
+            "Safety Engineering",
+            "Social Policy",
+            "Speech Therapy and Audiology",
+            "Surveying and Mapping",
+            "Sustainable Development",
+            "Textile Design",
+            "Textile Technology",
+            "Tourism",
+            "Translation and Interpretation",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Master of Philosophy",
+          "fields": [
+            "Accountancy",
+            "Aeronautical and Aerospace Engineering",
+            "Air Transport",
+            "Applied Linguistics",
+            "Applied Mathematics",
+            "Art History",
+            "Artificial Intelligence",
+            "Biology",
+            "Biomedical Engineering",
+            "Building Technologies",
+            "Chemistry",
+            "Coastal Studies",
+            "Computer Networks",
+            "Construction Engineering",
+            "Cultural Studies",
+            "Data Science",
+            "Electrical Engineering",
+            "Energy Engineering",
+            "Environmental Engineering",
+            "Family Studies",
+            "Fashion Design",
+            "Finance",
+            "Food Technology",
+            "Hydraulic Engineering",
+            "Information Management",
+            "Information Technology",
+            "Linguistics",
+            "Management",
+            "Marine Transport",
+            "Marketing",
+            "Materials Engineering",
+            "Media Studies",
+            "Molecular Biology",
+            "Multimedia",
+            "Nursing",
+            "Optometry",
+            "Phonetics",
+            "Power Engineering",
+            "Psychology",
+            "Real Estate",
+            "Rehabilitation and Therapy",
+            "Robotics",
+            "Safety Engineering",
+            "Social and Community Services",
+            "Social Policy",
+            "Social Welfare",
+            "Social Work",
+            "Software Engineering",
+            "Sound Engineering (Acoustics)",
+            "Statistics",
+            "Surveying and Mapping",
+            "Sustainable Development",
+            "Textile Design",
+            "Textile Technology",
+            "Thermal Engineering",
+            "Translation and Interpretation",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Doctor's Degree",
+          "fields": [
+            "Business Administration",
+            "Construction Engineering",
+            "Health Sciences",
+            "Hotel Management",
+            "Management",
+            "Real Estate",
+            "Social Work",
+            "Tourism"
+          ]
+        }
+      ],
+      "accreditation": "Education Bureau",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Jin-Guang Teng"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded in 1937. Became Hong Kong Technical College in 1947 and then Hong Kong Polytechnic in 1972. Acquired present status and title in 1994.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "16467",
+      "iau_id": "IAU-016467",
+      "name": "The Hong Kong University of Science and Technology",
+      "alt_name": "(HKUST)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhULUM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016467",
+      "address": {
+        "Street": "Clear Water Bay",
+        "City": "Kowloon",
+        "WWW": "http://www.ust.hk"
+      },
+      "website": "http://www.ust.hk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1988,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to May (September-December; February-May)",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Advanced Computing and Communication Technologies",
+          "fields": [
+            "Communication Studies",
+            "Computer Engineering"
+          ]
+        },
+        {
+          "name": "Centre : Advanced Microsystem Packaging (CAMP)",
+          "fields": [
+            "Electronic Engineering"
+          ]
+        },
+        {
+          "name": "Centre : Applied Social and Economic Research (CASER)",
+          "fields": [
+            "Economics",
+            "Social Studies"
+          ]
+        },
+        {
+          "name": "Centre : Asian Family Business and Entrepreneurship Studies (Tanoto)",
+          "fields": [
+            "Small Business"
+          ]
+        },
+        {
+          "name": "Centre : Asian Financial Markets",
+          "fields": [
+            "Banking",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Centre : Atmospheric Research (Nansha)",
+          "fields": [
+            "Meteorology"
+          ]
+        },
+        {
+          "name": "Centre : Building Energy Research (BERC) [Nansha]",
+          "fields": [
+            "Energy Engineering"
+          ]
+        },
+        {
+          "name": "Centre : Business Case Studies",
+          "fields": [
+            "Business and Commerce"
+          ]
+        },
+        {
+          "name": "Centre : Business Data Analysis",
+          "fields": [
+            "Business and Commerce",
+            "Data Science"
+          ]
+        },
+        {
+          "name": "Centre : Business Strategy and Innovation",
+          "fields": [
+            "Business and Commerce"
+          ]
+        },
+        {
+          "name": "Centre : Cancer Research",
+          "fields": [
+            "Oncology"
+          ]
+        },
+        {
+          "name": "Centre : Chinese Linguistics",
+          "fields": [
+            "Chinese",
+            "Linguistics"
+          ]
+        },
+        {
+          "name": "Centre : Chinese Medicine R&D",
+          "fields": [
+            "Traditional Eastern Medicine"
+          ]
+        },
+        {
+          "name": "Centre : Cyberspace",
+          "fields": [
+            "Computer Engineering"
+          ]
+        },
+        {
+          "name": "Centre : Digital Life Research (Nansha)",
+          "fields": [
+            "Computer Engineering"
+          ]
+        },
+        {
+          "name": "Centre : Display Research",
+          "fields": [
+            "Electronic Engineering"
+          ]
+        },
+        {
+          "name": "Centre : Economic Development",
+          "fields": [
+            "Economic and Finance Policy",
+            "Economics"
+          ]
+        },
+        {
+          "name": "Centre : Electronic Commerce (Tongyi Industrial Group)",
+          "fields": [
+            "E-Business/Commerce"
+          ]
+        },
+        {
+          "name": "Centre : Engineering Materials and Reliability (CEMAR) [Nansha]",
+          "fields": [
+            "Engineering"
+          ]
+        },
+        {
+          "name": "Centre : Environment, Energy and Resource Policy (CEERP)",
+          "fields": [
+            "Environmental Management"
+          ]
+        },
+        {
+          "name": "Centre : Experimental Business Research (cEBR)",
+          "fields": [
+            "Administration",
+            "Business Education"
+          ]
+        },
+        {
+          "name": "Centre : FINETEX R&D",
+          "fields": [
+            "Physics"
+          ]
+        },
+        {
+          "name": "Centre : Fundamental Physics",
+          "fields": [
+            "Physics"
+          ]
+        },
+        {
+          "name": "Centre : Green Products and Processing Technologies (Nansha)",
+          "fields": [
+            "Environmental Engineering"
+          ]
+        },
+        {
+          "name": "Centre : HKUST LED-FPD Technology R&D",
+          "fields": [
+            "Electrical and Electronic Engineering"
+          ]
+        },
+        {
+          "name": "Centre : Hong Kong-Beijing UST Joint Research (Nansha)",
+          "fields": [
+            "Finance"
+          ]
+        },
+        {
+          "name": "Centre : Huawei-HKUST Innovation Laboratory",
+          "fields": [
+            "Finance"
+          ]
+        },
+        {
+          "name": "Centre : Investing (Value Partners)",
+          "fields": [
+            "Finance"
+          ]
+        },
+        {
+          "name": "Centre : Marketing and Supply Chain Management",
+          "fields": [
+            "Marketing",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Centre : Metamaterials Research",
+          "fields": [
+            "Materials Engineering"
+          ]
+        },
+        {
+          "name": "Centre : Molecular Neuroscience",
+          "fields": [
+            "Neurosciences"
+          ]
+        },
+        {
+          "name": "Centre : New Element - HKUST Digital Healthcare Joint Research",
+          "fields": [
+            "Polymer and Plastics Technology"
+          ]
+        },
+        {
+          "name": "Centre : Organizational Research (Hang Lung)",
+          "fields": [
+            "Polymer and Plastics Technology"
+          ]
+        },
+        {
+          "name": "Centre : Photonics Technology",
+          "fields": [
+            "Polymer and Plastics Technology"
+          ]
+        },
+        {
+          "name": "Centre : Polymer Processing and Systems (Nansha)",
+          "fields": [
+            "Polymer and Plastics Technology"
+          ]
+        },
+        {
+          "name": "Centre : RFID",
+          "fields": [
+            "Applied Mathematics",
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Centre : Scientific Computation",
+          "fields": [
+            "Applied Mathematics",
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Centre : Semiconductor Product Analysis and Design Enhancement",
+          "fields": [
+            "Electronic Engineering"
+          ]
+        },
+        {
+          "name": "Centre : Smart and Sustainable Infrastructure Research",
+          "fields": [
+            "Architecture"
+          ]
+        },
+        {
+          "name": "Centre : South China Research",
+          "fields": [
+            "Astronomy and Space Science"
+          ]
+        },
+        {
+          "name": "Centre : Space Science Research",
+          "fields": [
+            "Astronomy and Space Science"
+          ]
+        },
+        {
+          "name": "Centre : Statistical Sciences",
+          "fields": [
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Centre : Stem Cell Research",
+          "fields": [
+            "Cell Biology"
+          ]
+        },
+        {
+          "name": "Centre : Survey Research",
+          "fields": [
+            "Energy Engineering"
+          ]
+        },
+        {
+          "name": "Centre : Sustainable Energy Technology (CSET)",
+          "fields": [
+            "Energy Engineering"
+          ]
+        },
+        {
+          "name": "Centre : Systems Biology and Human Health",
+          "fields": [
+            "Biological and Life Sciences"
+          ]
+        },
+        {
+          "name": "Centre : Technology Transfer",
+          "fields": [
+            "Computer Graphics"
+          ]
+        },
+        {
+          "name": "Centre : Visual Computing and Imaging Science at HKUST",
+          "fields": [
+            "Computer Graphics"
+          ]
+        },
+        {
+          "name": "Centre : Wireless Information Technology (CenWIT)",
+          "fields": [
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Department/Division : Biomedical Engineering",
+          "fields": [
+            "Environmental Engineering"
+          ]
+        },
+        {
+          "name": "Department/Division : Environment",
+          "fields": [
+            "Environmental Engineering"
+          ]
+        },
+        {
+          "name": "Laboratory : Advanced Displays and Optoelectronics Technologies (Partner SKL)",
+          "fields": [
+            "Optical Technology"
+          ]
+        },
+        {
+          "name": "Laboratory : Molecular Neuroscience (SKL)",
+          "fields": [
+            "Neurosciences"
+          ]
+        },
+        {
+          "name": "Research Division : Advanced Manufacturing (AMI)",
+          "fields": [
+            "Production Engineering"
+          ]
+        },
+        {
+          "name": "Research Division : Advanced Study (IAS)",
+          "fields": [
+            "Biotechnology"
+          ]
+        },
+        {
+          "name": "Research Division : Biotechnology Research (BRI)",
+          "fields": [
+            "Biotechnology"
+          ]
+        },
+        {
+          "name": "Research Division : Emerging Markets Studies (IEMS)",
+          "fields": [
+            "Business and Commerce"
+          ]
+        },
+        {
+          "name": "Research Division : Energy (HKUST)",
+          "fields": [
+            "Energy Engineering"
+          ]
+        },
+        {
+          "name": "Research Division : Environment (IENV)",
+          "fields": [
+            "Information Technology",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Research Division : Europe",
+          "fields": [
+            "Information Technology",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Research Division : Glassblowing Facility",
+          "fields": [
+            "Information Technology",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Research Division : Hongkong Telecom Information Technology (HKTIIT)",
+          "fields": [
+            "Information Technology",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Research Division : Integrated Microsystems (I2MS)",
+          "fields": [
+            "Microelectronics"
+          ]
+        },
+        {
+          "name": "Research Division : Logistics and Supply Chain Management (LSCMI)",
+          "fields": [
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Research Division : Nano Science and Technology (WMINST)",
+          "fields": [
+            "Nanotechnology",
+            "Physical Engineering"
+          ]
+        },
+        {
+          "name": "Research Division : Shenzhen",
+          "fields": [
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Research Division : Sino Software Research (SSRI)",
+          "fields": [
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "School : Business and Management",
+          "fields": [
+            "Accountancy",
+            "Business and Commerce",
+            "Economics",
+            "Finance",
+            "Information Management",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "School : Engineering",
+          "fields": [
+            "Aeronautical and Aerospace Engineering",
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Electrical and Electronic Engineering",
+            "Environmental Engineering",
+            "Industrial Engineering",
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "School : Humanities and Social Sciences",
+          "fields": [
+            "Arts and Humanities",
+            "Modern Languages",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "School : Science",
+          "fields": [
+            "Biological and Life Sciences",
+            "Chemistry",
+            "Mathematics",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Unit : Advanced Engineering Materials Facility",
+          "fields": [
+            "Materials Engineering"
+          ]
+        },
+        {
+          "name": "Unit : Animal and Plant Care Facility",
+          "fields": [
+            "Animal Husbandry",
+            "Horticulture"
+          ]
+        },
+        {
+          "name": "Unit : Biosciences Central Research Facility",
+          "fields": [
+            "Biological and Life Sciences"
+          ]
+        },
+        {
+          "name": "Unit : CLP Power Wind/Wave Tunnel Facility",
+          "fields": [
+            "Maintenance Technology"
+          ]
+        },
+        {
+          "name": "Unit : Design and Manufacturing Services Facility",
+          "fields": [
+            "Maintenance Technology"
+          ]
+        },
+        {
+          "name": "Unit : Environmental Central Facility",
+          "fields": [
+            "Environmental Studies"
+          ]
+        },
+        {
+          "name": "Unit : Geotechnical Centrifuge Facility",
+          "fields": [
+            "Geological Engineering"
+          ]
+        },
+        {
+          "name": "Unit : Materials Characterization and Preparation Facilty",
+          "fields": [
+            "Materials Engineering"
+          ]
+        },
+        {
+          "name": "Unit : Nanoelectronics Fabrication Facility",
+          "fields": [
+            "Microelectronics",
+            "Nanotechnology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Aeronautical and Aerospace Engineering",
+            "Biochemistry",
+            "Biology",
+            "Biotechnology",
+            "Business and Commerce",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Economics",
+            "Electronic Engineering",
+            "Environmental Management",
+            "Environmental Studies",
+            "Finance",
+            "Industrial Engineering",
+            "International Business",
+            "Management",
+            "Marketing",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Physics",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Postgraduate Certificate/Diploma",
+          "fields": [
+            "Aeronautical and Aerospace Engineering",
+            "Air Transport",
+            "Biotechnology",
+            "Building Technologies",
+            "Business Administration",
+            "Chemical Engineering",
+            "Chemistry",
+            "Chinese",
+            "Civil Engineering",
+            "Electronic Engineering",
+            "Environmental Engineering",
+            "Finance",
+            "Foreign Languages Education",
+            "Information Technology",
+            "Management",
+            "Mathematics Education",
+            "Mechanical Engineering",
+            "Social Sciences",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Aeronautical and Aerospace Engineering",
+            "Air Transport",
+            "Biotechnology",
+            "Building Technologies",
+            "Business Administration",
+            "Chemical Engineering",
+            "Chemistry",
+            "Chinese",
+            "Civil Engineering",
+            "Electronic Engineering",
+            "Environmental Engineering",
+            "Finance",
+            "Foreign Languages Education",
+            "Information Technology",
+            "Management",
+            "Mathematics Education",
+            "Mechanical Engineering",
+            "Social Sciences",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Master of Philosophy",
+          "fields": [
+            "Accountancy",
+            "Aeronautical and Aerospace Engineering",
+            "Arts and Humanities",
+            "Bioengineering",
+            "Biological and Life Sciences",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Economics",
+            "Electronic Engineering",
+            "Engineering",
+            "Environmental Engineering",
+            "Environmental Management",
+            "Environmental Studies",
+            "Finance",
+            "Industrial Engineering",
+            "Leadership",
+            "Management",
+            "Marketing",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Nanotechnology",
+            "Physics",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Doctor's Degree",
+          "fields": [
+            "Accountancy",
+            "Arts and Humanities",
+            "Bioengineering",
+            "Biological and Life Sciences",
+            "Chemical Engineering",
+            "Chemistry",
+            "Computer Engineering",
+            "Economics",
+            "Electronic Engineering",
+            "Environmental Engineering",
+            "Environmental Studies",
+            "Finance",
+            "Management",
+            "Marine Science and Oceanography",
+            "Marketing",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Social Sciences"
+          ]
+        }
+      ],
+      "accreditation": "Education Bureau",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Wei Shyy"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1988, and opened October 1991 as a technological university devoted to the advancement of learning and scholarship, with special emphasis on research, postgraduate education, and close collaboration with business and industry.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "16576",
+      "iau_id": "IAU-016576",
+      "name": "The University of Hong Kong",
+      "alt_name": "(HKU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhVLVM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016576",
+      "address": {
+        "Street": "Pok Fu Lam Road",
+        "City": "Pok Fu Lam",
+        "WWW": "http://www.hku.hk"
+      },
+      "website": "http://www.hku.hk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1911,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June",
+      "languages": [
+        "English",
+        "Chinese"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Advancement in Special Education",
+          "fields": [
+            "Special Education"
+          ]
+        },
+        {
+          "name": "Centre : Advancement of Chinese Language Education and Research",
+          "fields": [
+            "Chinese"
+          ]
+        },
+        {
+          "name": "Centre : Ageing (Sau Po)",
+          "fields": [
+            "Gerontology"
+          ]
+        },
+        {
+          "name": "Centre : Alimentary Research and Education",
+          "fields": [
+            "Food Science"
+          ]
+        },
+        {
+          "name": "Centre : American Studies",
+          "fields": [
+            "American Studies"
+          ]
+        },
+        {
+          "name": "Centre : Anthropological Research",
+          "fields": [
+            "Anthropology"
+          ]
+        },
+        {
+          "name": "Centre : Applied English Studies",
+          "fields": [
+            "English Studies"
+          ]
+        },
+        {
+          "name": "Centre : Applied Spectroscopy and Analytical Sciences",
+          "fields": [
+            "Chemistry"
+          ]
+        },
+        {
+          "name": "Centre : Architecture and Urban Design for China and Hong Kong",
+          "fields": [
+            "Architecture and Planning"
+          ]
+        },
+        {
+          "name": "Centre : Asian Entrepreneurship and Business Values",
+          "fields": [
+            "Small Business"
+          ]
+        },
+        {
+          "name": "Centre : Asian Studies",
+          "fields": [
+            "Asian Studies"
+          ]
+        },
+        {
+          "name": "Centre : Behavioural Health",
+          "fields": [
+            "Health Sciences"
+          ]
+        },
+        {
+          "name": "Centre : Biomedical Engineering",
+          "fields": [
+            "Bioengineering"
+          ]
+        },
+        {
+          "name": "Centre : Buddhist Studies",
+          "fields": [
+            "Asian Religious Studies"
+          ]
+        },
+        {
+          "name": "Centre : Cancer Research",
+          "fields": [
+            "Oncology"
+          ]
+        },
+        {
+          "name": "Centre : Cellular Biology",
+          "fields": [
+            "Cell Biology"
+          ]
+        },
+        {
+          "name": "Centre : China Development Studies",
+          "fields": [
+            "East Asian Studies"
+          ]
+        },
+        {
+          "name": "Centre : China Financial Research",
+          "fields": [
+            "Finance"
+          ]
+        },
+        {
+          "name": "Centre : Chinese Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Centre : Chinese Management",
+          "fields": [
+            "Management"
+          ]
+        },
+        {
+          "name": "Centre : Chong Yuet Ming Amenities",
+          "fields": [
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Centre : Civil Society and Governance",
+          "fields": [
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Centre : Cleft Lip and Palate",
+          "fields": [
+            "Surgery"
+          ]
+        },
+        {
+          "name": "Centre : Clinical Trials",
+          "fields": [
+            "Health Sciences"
+          ]
+        },
+        {
+          "name": "Centre : Cognitive Science",
+          "fields": [
+            "Cognitive Sciences"
+          ]
+        },
+        {
+          "name": "Centre : Communication Disorders",
+          "fields": [
+            "Communication Disorders"
+          ]
+        },
+        {
+          "name": "Centre : Comparative and Public Law",
+          "fields": [
+            "Comparative Law",
+            "Public Law"
+          ]
+        },
+        {
+          "name": "Centre : Construct I.T.",
+          "fields": [
+            "Building Technologies"
+          ]
+        },
+        {
+          "name": "Centre : Criminology",
+          "fields": [
+            "Criminology"
+          ]
+        },
+        {
+          "name": "Centre : Cultural Policy Research",
+          "fields": [
+            "Cultural Studies"
+          ]
+        },
+        {
+          "name": "Centre : Development and Resources for Students",
+          "fields": [
+            "E-Business/Commerce"
+          ]
+        },
+        {
+          "name": "Centre : E-Commerce Infrastructure Development",
+          "fields": [
+            "E-Business/Commerce"
+          ]
+        },
+        {
+          "name": "Centre : Educational Leadership",
+          "fields": [
+            "Educational Administration"
+          ]
+        },
+        {
+          "name": "Centre : Electrical Energy Systems",
+          "fields": [
+            "Electrical Engineering"
+          ]
+        },
+        {
+          "name": "Centre : Endocrinology and Diabetes",
+          "fields": [
+            "Diabetology",
+            "Endocrinology"
+          ]
+        },
+        {
+          "name": "Centre : Enhancement of Teaching and Learning",
+          "fields": [
+            "Pedagogy"
+          ]
+        },
+        {
+          "name": "Centre : Environmental Engineering Research",
+          "fields": [
+            "Environmental Engineering"
+          ]
+        },
+        {
+          "name": "Centre : European Studies",
+          "fields": [
+            "European Studies"
+          ]
+        },
+        {
+          "name": "Centre : Financial Innovation and Risk Management",
+          "fields": [
+            "Finance"
+          ]
+        },
+        {
+          "name": "Centre : Fong Shu Chuen Amenities",
+          "fields": [
+            "Genetics"
+          ]
+        },
+        {
+          "name": "Centre : Genomic Sciences",
+          "fields": [
+            "Genetics"
+          ]
+        },
+        {
+          "name": "Centre : Globalization and Cultures",
+          "fields": [
+            "International Studies"
+          ]
+        },
+        {
+          "name": "Centre : Hong Kong Prehistory",
+          "fields": [
+            "Archaeology"
+          ]
+        },
+        {
+          "name": "Centre : Hong Kong Putonghua Education and Assessment",
+          "fields": [
+            "Educational Testing and Evaluation"
+          ]
+        },
+        {
+          "name": "Centre : Human Development and Birth Defects",
+          "fields": [
+            "Genetics"
+          ]
+        },
+        {
+          "name": "Centre : Human Reproduction",
+          "fields": [
+            "Genetics"
+          ]
+        },
+        {
+          "name": "Centre : Humanities and Medicine",
+          "fields": [
+            "Arts and Humanities",
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Centre : Infection (Carol Yu)",
+          "fields": [
+            "Virology"
+          ]
+        },
+        {
+          "name": "Centre : Influenza Research",
+          "fields": [
+            "Virology"
+          ]
+        },
+        {
+          "name": "Centre : Information Security and Cryptography",
+          "fields": [
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Centre : Information Technology in Education",
+          "fields": [
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Centre : Infrastructure and Construction Industry Development",
+          "fields": [
+            "Building Technologies"
+          ]
+        },
+        {
+          "name": "Centre : Journalism and Media Studies",
+          "fields": [
+            "Journalism",
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "Centre : Language",
+          "fields": [
+            "Modern Languages"
+          ]
+        },
+        {
+          "name": "Centre : Law and Technology",
+          "fields": [
+            "Law",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Centre : Lung Fu Shan Environmental Education",
+          "fields": [
+            "Environmental Studies"
+          ]
+        },
+        {
+          "name": "Centre : Materials Science",
+          "fields": [
+            "Materials Engineering"
+          ]
+        },
+        {
+          "name": "Centre : Navigational Dentistry",
+          "fields": [
+            "Dentistry"
+          ]
+        },
+        {
+          "name": "Centre : Neuroscience",
+          "fields": [
+            "Neurosciences"
+          ]
+        },
+        {
+          "name": "Centre : Nonlinear Mechanics",
+          "fields": [
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "Centre : Pokfulam Amenities",
+          "fields": [
+            "Real Estate"
+          ]
+        },
+        {
+          "name": "Centre : Real Estate and Urban Economics",
+          "fields": [
+            "Real Estate"
+          ]
+        },
+        {
+          "name": "Centre : Renewable Energy in Architecture",
+          "fields": [
+            "Architectural and Environmental Design"
+          ]
+        },
+        {
+          "name": "Centre : Research in Plant Drugs Development",
+          "fields": [
+            "Pharmacology"
+          ]
+        },
+        {
+          "name": "Centre : Social Sciences Research",
+          "fields": [
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Centre : Study of Liver Disease",
+          "fields": [
+            "Hepatology"
+          ]
+        },
+        {
+          "name": "Centre : Teachers of English Language Education",
+          "fields": [
+            "Foreign Languages Education"
+          ]
+        },
+        {
+          "name": "Centre : Technology Support",
+          "fields": [
+            "Technology"
+          ]
+        },
+        {
+          "name": "Centre : Theoretical and Computational Physics",
+          "fields": [
+            "Physics"
+          ]
+        },
+        {
+          "name": "Centre : Urban Studies and Urban Planning",
+          "fields": [
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "Faculty : Architecture",
+          "fields": [
+            "Architecture"
+          ]
+        },
+        {
+          "name": "Faculty : Arts",
+          "fields": [
+            "Arts and Humanities",
+            "Modern Languages"
+          ]
+        },
+        {
+          "name": "Faculty : Business and Economics",
+          "fields": [
+            "Business and Commerce",
+            "Economics"
+          ]
+        },
+        {
+          "name": "Faculty : Dentistry",
+          "fields": [
+            "Dentistry"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine (Li Ka Shing)",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Faculty : Science",
+          "fields": [
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Social Sciences",
+          "fields": [
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Institute : Advanced IT Training",
+          "fields": [
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Institute : AIDS",
+          "fields": [
+            "Cardiology"
+          ]
+        },
+        {
+          "name": "Institute : Cardiovascular Science and Medicine",
+          "fields": [
+            "Cardiology"
+          ]
+        },
+        {
+          "name": "Institute : China and Global Development",
+          "fields": [
+            "East Asian Studies"
+          ]
+        },
+        {
+          "name": "Institute : Cyberport",
+          "fields": [
+            "Economics"
+          ]
+        },
+        {
+          "name": "Institute : Economics and Business Strategy",
+          "fields": [
+            "Economics"
+          ]
+        },
+        {
+          "name": "Institute : Emerging Technologies",
+          "fields": [
+            "Technology"
+          ]
+        },
+        {
+          "name": "Institute : Family (HKU)",
+          "fields": [
+            "Family Studies"
+          ]
+        },
+        {
+          "name": "Institute : Human Reproduction",
+          "fields": [
+            "Genetics"
+          ]
+        },
+        {
+          "name": "Institute : Humanities and Social Sciences",
+          "fields": [
+            "Asian Studies"
+          ]
+        },
+        {
+          "name": "Institute : Kadoorie",
+          "fields": [
+            "Environmental Studies"
+          ]
+        },
+        {
+          "name": "Institute : Management (Poon Kam Kai)",
+          "fields": [
+            "Management"
+          ]
+        },
+        {
+          "name": "Institute : Marine Science (Swire)",
+          "fields": [
+            "Marine Science and Oceanography"
+          ]
+        },
+        {
+          "name": "Institute : Mathematical Research",
+          "fields": [
+            "Mathematics"
+          ]
+        },
+        {
+          "name": "Institute : Medical and Health Sciences Education",
+          "fields": [
+            "Science Education"
+          ]
+        },
+        {
+          "name": "Institute : Transport Studies",
+          "fields": [
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Research Division : Advanced Mechanical Systems (Fong)",
+          "fields": [
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "Research Division : Asia Case",
+          "fields": [
+            "Asian Studies"
+          ]
+        },
+        {
+          "name": "Research Division : Chinese Language Cognitive Science",
+          "fields": [
+            "Chinese"
+          ]
+        },
+        {
+          "name": "Research Division : Comparative Education",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Research Division : Electric Vehicles",
+          "fields": [
+            "Automotive Engineering"
+          ]
+        },
+        {
+          "name": "Research Division : Geographical/Land Information System",
+          "fields": [
+            "Geography"
+          ]
+        },
+        {
+          "name": "Research Division : Heart, Brain, Hormone & Healthy Aging",
+          "fields": [
+            "Gerontology"
+          ]
+        },
+        {
+          "name": "Research Division : HKU-Pasteur",
+          "fields": [
+            "Virology"
+          ]
+        },
+        {
+          "name": "Research Division : Rock Engineering",
+          "fields": [
+            "Geological Engineering"
+          ]
+        },
+        {
+          "name": "Research Division : Social Sciences",
+          "fields": [
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Research Division : Women's Studies",
+          "fields": [
+            "Women's Studies"
+          ]
+        },
+        {
+          "name": "School : Chinese Medicine",
+          "fields": [
+            "Traditional Eastern Medicine"
+          ]
+        },
+        {
+          "name": "School : Graduate",
+          "fields": [
+            "Continuing Education"
+          ]
+        },
+        {
+          "name": "School : Professional and Continuing Education (HKU SPACE)",
+          "fields": [
+            "Continuing Education"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Architecture",
+            "Architecture and Planning",
+            "Arts and Humanities",
+            "Business Administration",
+            "Education",
+            "Engineering",
+            "Law",
+            "Natural Sciences",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Postgraduate Certificate/Diploma",
+          "fields": [
+            "Accountancy",
+            "Acupuncture and Oriental Medicine",
+            "Architectural and Environmental Design",
+            "Architectural Restoration",
+            "Architecture",
+            "Asian Religious Studies",
+            "Business Administration",
+            "Chinese",
+            "Civil Engineering",
+            "Clinical Psychology",
+            "Computer Science",
+            "Criminology",
+            "Dentistry",
+            "Development Studies",
+            "E-Business/Commerce",
+            "Economics",
+            "Education",
+            "Educational Psychology",
+            "Electrical Engineering",
+            "Energy Engineering",
+            "Engineering",
+            "Environmental Management",
+            "Finance",
+            "Food Science",
+            "Gerontology",
+            "Industrial Engineering",
+            "Information Management",
+            "International Studies",
+            "Journalism",
+            "Landscape Architecture",
+            "Law",
+            "Library Science",
+            "Linguistics",
+            "Medicine",
+            "Nursing",
+            "Orthodontics",
+            "Pharmacy",
+            "Psychology",
+            "Public Administration",
+            "Public Health",
+            "Real Estate",
+            "Social Sciences",
+            "Social Work",
+            "Town Planning",
+            "Transport and Communications",
+            "Writing"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Accountancy",
+            "Acupuncture and Oriental Medicine",
+            "Architectural and Environmental Design",
+            "Architectural Restoration",
+            "Architecture",
+            "Asian Religious Studies",
+            "Business Administration",
+            "Chinese",
+            "Civil Engineering",
+            "Clinical Psychology",
+            "Computer Science",
+            "Criminology",
+            "Dentistry",
+            "Development Studies",
+            "E-Business/Commerce",
+            "Economics",
+            "Education",
+            "Educational Psychology",
+            "Electrical Engineering",
+            "Energy Engineering",
+            "Engineering",
+            "Environmental Management",
+            "Finance",
+            "Food Science",
+            "Gerontology",
+            "Industrial Engineering",
+            "Information Management",
+            "International Studies",
+            "Journalism",
+            "Landscape Architecture",
+            "Law",
+            "Library Science",
+            "Linguistics",
+            "Medicine",
+            "Nursing",
+            "Orthodontics",
+            "Pharmacy",
+            "Psychology",
+            "Public Administration",
+            "Public Health",
+            "Real Estate",
+            "Social Sciences",
+            "Social Work",
+            "Town Planning",
+            "Transport and Communications",
+            "Writing"
+          ]
+        },
+        {
+          "name": "Master of Philosophy",
+          "fields": [
+            "Architecture",
+            "Arts and Humanities",
+            "Business Administration",
+            "Dentistry",
+            "Education",
+            "Engineering",
+            "Law",
+            "Medicine",
+            "Natural Sciences",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Doctor's Degree",
+          "fields": [
+            "Architecture",
+            "Arts and Humanities",
+            "Business Administration",
+            "Dentistry",
+            "Education",
+            "Engineering",
+            "Medicine",
+            "Natural Sciences",
+            "Social Sciences"
+          ]
+        }
+      ],
+      "accreditation": "Education Bureau",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Xiang Zhang"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "W. John Kao"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1911. A self-governing body financed mainly by the HKSAR government.",
+      "periodicals": [
+        "Current Research",
+        "Current Research"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "25421",
+      "iau_id": "IAU-025421",
+      "name": "Tung Wah College",
+      "alt_name": "(TWC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRULEMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025421",
+      "address": {
+        "Street": "31 Wylie Road, Homantin",
+        "City": "Kowloon",
+        "WWW": "https://www.twc.edu.hk"
+      },
+      "website": "https://www.twc.edu.hk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "School : Arts and Humanities",
+          "fields": [
+            "Arts and Humanities",
+            "Child Care and Development",
+            "Education",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "School : Business",
+          "fields": [
+            "Business Administration",
+            "Management"
+          ]
+        },
+        {
+          "name": "School : Medical and Health Sciences",
+          "fields": [
+            "Health Sciences",
+            "Occupational Therapy"
+          ]
+        },
+        {
+          "name": "School : Nursing",
+          "fields": [
+            "Gerontology",
+            "Nursing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Arts and Humanities",
+            "Business Administration",
+            "Child Care and Development",
+            "Education",
+            "Gerontology",
+            "Health Sciences",
+            "Management",
+            "Nursing",
+            "Occupational Therapy",
+            "Psychology"
+          ]
+        }
+      ],
+      "accreditation": "Education Bureau",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Yu-Hon MH Lui"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Connie Tang"
+        }
+      ],
+      "statistics": {},
+      "history": "Established by Tung Wah Group of Hospitals (TWGHs) 2010.",
+      "periodicals": [],
+      "student_body": null
+    }
+  ]
+}

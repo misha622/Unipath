@@ -1,0 +1,463 @@
+{
+  "country_name": "Congo",
+  "country_id": "Congo",
+  "institutions": [
+    {
+      "id": "24617",
+      "iau_id": "IAU-024617",
+      "name": "Higher School for Business Administration",
+      "alt_name": "Ecole supérieure de Gestion et d’Administration des Entreprises (ESGAE)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBWLDM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024617",
+      "address": {
+        "Street": "Avenue de la cité des 17, MoukondoP.O. Box 2339",
+        "City": "Brazzaville",
+        "WWW": "https://www.esgae.org"
+      },
+      "website": "https://www.esgae.org",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1993,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "October to July",
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Business Aministration",
+          "fields": [
+            "Business Administration",
+            "Business and Commerce",
+            "Finance",
+            "Human Resources",
+            "Management",
+            "Small Business"
+          ]
+        },
+        {
+          "name": "Course/Programme : Business Computing",
+          "fields": [
+            "Business Computing",
+            "Computer Networks"
+          ]
+        },
+        {
+          "name": "Course/Programme : Executive Secretary",
+          "fields": [
+            "Secretarial Studies"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Business Administration",
+            "Business Computing",
+            "Computer Networks",
+            "Data Science",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Business and Commerce",
+            "Finance",
+            "Human Resources",
+            "Management",
+            "Small Business"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l'Enseignement supérieur (MES); Conseil africain et malgache pour l'Enseignement supérieur (CAMES)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Roger Armand Makany"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Marcel Mbaloula"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Dieudonné Tsokini"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2024-2025",
+        "Staff Full Time Total:": "112",
+        "Students Statistics Year:": "2024-2025",
+        "Students Total:": "3900"
+      },
+      "history": "Founded 1993",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "19771",
+      "iau_id": "IAU-019771",
+      "name": "Marien Ngouabi University",
+      "alt_name": "Université Marien Ngouabi (UMNG)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RXLVMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019771",
+      "address": {
+        "Street": "P.O. Box 69",
+        "City": "Brazzaville",
+        "WWW": "https://www.umng.cg"
+      },
+      "website": "https://www.umng.cg",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1971,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "October to July (October-February; March-July)",
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Economics",
+          "fields": [
+            "Econometrics",
+            "Economics",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences",
+          "fields": [
+            "Embryology and Reproduction Biology",
+            "Haematology",
+            "Health Sciences",
+            "Histology",
+            "Medicine",
+            "Microbiology",
+            "Midwifery",
+            "Physiology",
+            "Surgery"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Law",
+            "Private Law",
+            "Public Law"
+          ]
+        },
+        {
+          "name": "Faculty : Letters, Arts and Humanities",
+          "fields": [
+            "African Studies",
+            "Arts and Humanities",
+            "Communication Studies",
+            "English",
+            "Geography",
+            "History",
+            "Linguistics",
+            "Literature",
+            "Philosophy",
+            "Social Sciences",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Faculty : Science and Technology",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Earth Sciences",
+            "Mathematics",
+            "Natural Sciences",
+            "Physics",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Institute : Management",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Business and Commerce",
+            "Human Resources",
+            "Management",
+            "Secretarial Studies"
+          ]
+        },
+        {
+          "name": "Institute : Physical Education and Sport",
+          "fields": [
+            "Physical Education",
+            "Sports"
+          ]
+        },
+        {
+          "name": "School : Administration and Magistracy (National)",
+          "fields": [
+            "Administration",
+            "Finance",
+            "International Relations and Diplomacy",
+            "Law",
+            "Taxation"
+          ]
+        },
+        {
+          "name": "School : Agronomy and Forestry (National)",
+          "fields": [
+            "Agricultural Management",
+            "Agronomy",
+            "Forestry"
+          ]
+        },
+        {
+          "name": "School : Normal Studies (National)",
+          "fields": [
+            "Educational Sciences",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "School : Polytechnics (National)",
+          "fields": [
+            "Civil Engineering",
+            "Electrical and Electronic Engineering",
+            "Electrical Engineering",
+            "Food Technology",
+            "Mechanical Engineering",
+            "Petroleum and Gas Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Accountancy",
+            "Agronomy",
+            "Animal Husbandry",
+            "Biology",
+            "Biomedicine",
+            "Business and Commerce",
+            "Chemistry",
+            "Civics",
+            "Civil Engineering",
+            "Commercial Law",
+            "Communication Studies",
+            "Computer Networks",
+            "Computer Science",
+            "Development Studies",
+            "Econometrics",
+            "Economics",
+            "Educational and Student Counselling",
+            "Educational Psychology",
+            "Electronic Engineering",
+            "English",
+            "Environmental Studies",
+            "Finance",
+            "Food Technology",
+            "Foreign Languages Education",
+            "Forestry",
+            "Geography (Human)",
+            "Geology",
+            "History",
+            "Human Resources",
+            "Humanities and Social Science Education",
+            "Industrial and Production Economics",
+            "Industrial Engineering",
+            "Industrial Maintenance",
+            "Information Sciences",
+            "International Economics",
+            "International Studies",
+            "Law",
+            "Literature",
+            "Management",
+            "Marketing",
+            "Mathematics",
+            "Mathematics Education",
+            "Measurement and Precision Engineering",
+            "Modern Languages",
+            "Native Language Education",
+            "Nursing",
+            "Philosophy",
+            "Physical Education",
+            "Physics",
+            "Private Law",
+            "Psychology",
+            "Public Administration",
+            "Public Health",
+            "Public Law",
+            "Safety Engineering",
+            "Science Education",
+            "Social Work",
+            "Sociology",
+            "Special Education",
+            "Sports",
+            "Telecommunications Engineering",
+            "Vegetable Production"
+          ]
+        },
+        {
+          "name": "Diplôme d'Ingénieur",
+          "fields": [
+            "Civil Engineering",
+            "Electronic Engineering",
+            "Food Technology",
+            "Industrial Engineering",
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "Doctorat en Médecine",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "African Languages",
+            "Agricultural Engineering",
+            "Agronomy",
+            "Animal Husbandry",
+            "Anthropology",
+            "Applied Chemistry",
+            "Applied Mathematics",
+            "Banking",
+            "Biology",
+            "Biomedicine",
+            "Biotechnology",
+            "Cell Biology",
+            "Chemistry",
+            "Cinema and Television",
+            "Civics",
+            "Communication Studies",
+            "Cultural Studies",
+            "Demography and Population",
+            "Development Studies",
+            "Earth Sciences",
+            "Ecology",
+            "Econometrics",
+            "Economics",
+            "Educational Psychology",
+            "Educational Sciences",
+            "Electrical and Electronic Engineering",
+            "Energy Engineering",
+            "English",
+            "English Studies",
+            "Entrepreneurship",
+            "Environmental Management",
+            "Environmental Studies",
+            "Finance",
+            "Food Technology",
+            "Foreign Languages Education",
+            "Forestry",
+            "French",
+            "French Studies",
+            "Geography",
+            "Geography (Human)",
+            "History",
+            "Humanities and Social Science Education",
+            "Industrial and Production Economics",
+            "Industrial Chemistry",
+            "Industrial Engineering",
+            "Industrial Maintenance",
+            "Information Sciences",
+            "Inorganic Chemistry",
+            "Insurance",
+            "International Economics",
+            "Journalism",
+            "Linguistics",
+            "Literature",
+            "Management",
+            "Materials Engineering",
+            "Mathematics",
+            "Mathematics Education",
+            "Mechanical Engineering",
+            "Microbiology",
+            "Modern Languages",
+            "Molecular Biology",
+            "Native Language Education",
+            "Nursing",
+            "Nutrition",
+            "Petroleum and Gas Engineering",
+            "Philosophy",
+            "Physical Education",
+            "Physics",
+            "Physiology",
+            "Private Law",
+            "Psychology",
+            "Public Health",
+            "Public Law",
+            "Publishing and Book Trade",
+            "Regional Planning",
+            "Rural Studies",
+            "Science Education",
+            "Social Work",
+            "Sociology",
+            "Special Education",
+            "Sports",
+            "Statistics",
+            "Surveying and Mapping",
+            "Sustainable Development",
+            "Telecommunications Engineering",
+            "Theatre",
+            "Translation and Interpretation",
+            "Tropical Agriculture",
+            "Urban Studies",
+            "Vegetable Production",
+            "Water Science"
+          ]
+        },
+        {
+          "name": "Doctorat",
+          "fields": [
+            "Agronomy",
+            "Applied Mathematics",
+            "Electrical and Electronic Engineering",
+            "Energy Engineering",
+            "Environmental Studies",
+            "Food Technology",
+            "Herbology",
+            "Materials Engineering",
+            "Mathematics",
+            "Mechanical Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l'Enseignement supérieur (MES)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Jean-Rosaire Ibara"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Michel-Alain Mombo"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Yvon Pierre Ndongo Ibara"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2024-2025",
+        "Staff Full Time Total:": "800",
+        "Students Statistics Year:": "2024-2025",
+        "Students Total:": "30000"
+      },
+      "history": "Founded 1971 as University of Brazzaville following the break-up of the Foundation of Higher Education in Central Africa (FESAC). Acquired current title 1977 as tribute to the former President",
+      "periodicals": [
+        "Cahiers africains de Rhétorique (CAR)",
+        "Cahiers africains de Rhétorique (CAR)"
+      ],
+      "student_body": "co-ed"
+    }
+  ]
+}

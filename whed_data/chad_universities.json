@@ -1,0 +1,862 @@
+{
+  "country_name": "Chad",
+  "country_id": "Chad",
+  "institutions": [
+    {
+      "id": "19488",
+      "iau_id": "IAU-019488",
+      "name": "Adam Barka University of Abéché",
+      "alt_name": "Université Adam Barka d'Abéché (UNABA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RULiNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019488",
+      "address": {
+        "Street": "BP 1173 Route de N'Djamena",
+        "City": "Abéché",
+        "Province": "Ouaddaï",
+        "WWW": "http://univ-abeche.com"
+      },
+      "website": "http://univ-abeche.com",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2003,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Arts and Humanities",
+          "fields": [
+            "Arts and Humanities"
+          ]
+        },
+        {
+          "name": "Faculty : Law and Economics",
+          "fields": [
+            "Economics",
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Science and Techniques",
+          "fields": [
+            "Chemistry",
+            "Geology",
+            "Mathematics",
+            "Natural Sciences",
+            "Physics"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diplôme d'Etudes universitaires générales",
+          "fields": []
+        },
+        {
+          "name": "Licence",
+          "fields": []
+        },
+        {
+          "name": "Maîtrise/Master",
+          "fields": []
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Moustapha Mahamat Ali"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2003.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "19829",
+      "iau_id": "IAU-019829",
+      "name": "King Faisal University",
+      "alt_name": "Université Roi Fayçal (URF)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RYLENEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019829",
+      "address": {
+        "Street": "BP 582",
+        "City": "N'Djaména"
+      },
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1992,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Arabic",
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "College : Educational Sciences",
+          "fields": [
+            "Pedagogy"
+          ]
+        },
+        {
+          "name": "College : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Management and Economics",
+          "fields": [
+            "Economics",
+            "Management"
+          ]
+        },
+        {
+          "name": "Faculty : Modern Languages",
+          "fields": [
+            "Arabic"
+          ]
+        },
+        {
+          "name": "Institute : Health Science and Technology",
+          "fields": [
+            "Health Sciences"
+          ]
+        },
+        {
+          "name": "School : Computer Engineering and Information Technology",
+          "fields": [
+            "Computer Engineering",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "School : Graduate Studies",
+          "fields": []
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Maîtrise/Master",
+          "fields": []
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Abdallah Bakhit Saleh"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1992.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "19624",
+      "iau_id": "IAU-019624",
+      "name": "Moundou University",
+      "alt_name": "Université de Moundou (UDM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RWLEMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019624",
+      "address": {
+        "Street": "BP 206",
+        "City": "Moundou",
+        "Province": "Logone Occidental",
+        "WWW": "http://univ-moundou.org"
+      },
+      "website": "http://univ-moundou.org",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2002,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Arts and Humanities",
+          "fields": [
+            "Geography",
+            "Philosophy"
+          ]
+        },
+        {
+          "name": "Faculty : Business Techniques and Sciences",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Human Resources",
+            "Management"
+          ]
+        },
+        {
+          "name": "Faculty : Exact and Applied Sciences",
+          "fields": [
+            "Applied Chemistry",
+            "Computer Networks"
+          ]
+        },
+        {
+          "name": "Faculty : Law and Social Sciences",
+          "fields": [
+            "Banking",
+            "Law"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": []
+        },
+        {
+          "name": "Maîtrise/Master",
+          "fields": []
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Yaya Mahmout"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Alhadj Djabarna Zakaria"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Miandiguem Demoyel Maïport"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2002. Formely named 'Institut Universitaire des Techniques d'Entreprise de Moundou' (IUTEM). Acquired present title and status 2008.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "4175",
+      "iau_id": "IAU-004175",
+      "name": "National High School of Civil Engineering",
+      "alt_name": "Ecole nationale Supérieure des Travaux publics (ENSTP)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIyRXLTBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004175",
+      "address": {
+        "Street": "BP 60",
+        "City": "N'Djaména",
+        "WWW": "http://www.enstp.td"
+      },
+      "website": "http://www.enstp.td",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1965,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "October to June",
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "School : Civil Engineering",
+          "fields": [
+            "Bridge Engineering",
+            "Civil Engineering",
+            "Construction Engineering",
+            "Road Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Civil Engineering"
+          ]
+        },
+        {
+          "name": "Diplôme d'Ingénieur",
+          "fields": [
+            "Civil Engineering"
+          ]
+        },
+        {
+          "name": "Maîtrise/Master",
+          "fields": [
+            "Civil Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Minister of Public Works",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Koina Rodoumta"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Maina Limane"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1965. Formerly \"Ecole Nationale des Travaux Publics\" (ENTP). Acquired present status 2012.",
+      "periodicals": [
+        "Gamma",
+        "Gamma"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "19643",
+      "iau_id": "IAU-019643",
+      "name": "Sarh University",
+      "alt_name": "Université de Sarh (UDS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RWLSMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019643",
+      "address": {
+        "Street": "BP 105Route de Bangui",
+        "City": "Sarh",
+        "Province": "Moyen Chari",
+        "WWW": "http://uds.td"
+      },
+      "website": "http://uds.td",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1997,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Art and Humanities",
+          "fields": [
+            "Arts and Humanities"
+          ]
+        },
+        {
+          "name": "Faculty : Law and Economics",
+          "fields": [
+            "Economics",
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Science and Techniques",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Geology",
+            "Mathematics and Computer Science",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Institute : Agricultural and Environmental Sciences",
+          "fields": [
+            "Agriculture",
+            "Agronomy",
+            "Environmental Studies"
+          ]
+        },
+        {
+          "name": "Institute : Development of Fishery Resources",
+          "fields": [
+            "Agriculture",
+            "Aquaculture",
+            "Fishery"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": []
+        },
+        {
+          "name": "Diplôme d'Ingénieur",
+          "fields": []
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Mahamat Ahmat-Charfadine"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Hougoto Nguemadjingaye"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1997. Acquired present title and status 2010. Formely named 'Institut des Sciences Agronomiques et de l'Environnement de Sarh', now a faculty of the University.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "4200",
+      "iau_id": "IAU-004200",
+      "name": "Teacher Training School",
+      "alt_name": "Ecole Normale Supérieure de N'Djaména (ENS)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIyhQLGBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004200",
+      "address": {
+        "Street": "BP 206",
+        "City": "N'Djaména",
+        "WWW": "http://ens-ndj.org"
+      },
+      "website": "http://ens-ndj.org",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1992,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Primary Education",
+          "fields": [
+            "Education",
+            "Educational Administration",
+            "Educational Psychology",
+            "Primary Education"
+          ]
+        },
+        {
+          "name": "Department/Division : Secondary Education",
+          "fields": [
+            "Administration",
+            "Arabic",
+            "Biology",
+            "Chemistry",
+            "Curriculum",
+            "Education",
+            "Educational Technology",
+            "English",
+            "French",
+            "Geography",
+            "Geology",
+            "History",
+            "Mathematics",
+            "Physics",
+            "Secondary Education"
+          ]
+        },
+        {
+          "name": "Department/Division : Teacher Trainers Education",
+          "fields": [
+            "Teacher Trainers Education"
+          ]
+        },
+        {
+          "name": "Department/Division : Technical and Professional Education",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Finance",
+            "Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Maîtrise/Master",
+          "fields": [
+            "Education"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Isaac Danadji"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1992. Formerly 'Institut supérieur des Sciences de l'Education (ISSED)'. Acquired present status and title 2011.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "8305",
+      "iau_id": "IAU-008305",
+      "name": "University Institute of Science and Technology of Abéché",
+      "alt_name": "Institut universitaire des Sciences et Techniques d'Abéché (IUSTA)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uIyxQLTBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-008305",
+      "address": {
+        "Street": "BP 6077",
+        "City": "Abéché",
+        "Province": "Ouaddaï",
+        "WWW": "http://iusta.lescigales.org/index.html"
+      },
+      "website": "http://iusta.lescigales.org/index.html",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1997,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "French",
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Biomedical and Pharmaceutical Sciences",
+          "fields": [
+            "Biomedicine",
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Department/Division : Electrical and Mechanical Engineering",
+          "fields": [
+            "Computer Science",
+            "Electrical Engineering",
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "Department/Division : Fundamental Sciences",
+          "fields": [
+            "Computer Science",
+            "Industrial Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Industrial Computing and Management",
+          "fields": [
+            "Computer Science",
+            "Industrial Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Livestock Techniques",
+          "fields": [
+            "Cattle Breeding"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Animal Husbandry",
+            "Electrical Engineering",
+            "Health Sciences",
+            "Mechanical Engineering",
+            "Public Health",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Diplôme d'Ingénieur",
+          "fields": [
+            "Animal Husbandry",
+            "Electrical Engineering",
+            "Health Sciences",
+            "Mechanical Engineering",
+            "Public Health",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Maîtrise/Master",
+          "fields": [
+            "Animal Husbandry",
+            "Electrical Engineering",
+            "Health Sciences",
+            "Mechanical Engineering",
+            "Public Health",
+            "Veterinary Science"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Maloum Soultan"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Désiré Allaissem"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Issa Youssouf"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1997.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "19625",
+      "iau_id": "IAU-019625",
+      "name": "University of N'Djamena",
+      "alt_name": "Université de N'Djaména (UNDJ/UNDT)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RWLEM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019625",
+      "address": {
+        "Street": "BP 1117, avenue Mobutu",
+        "City": "N'Djaména",
+        "WWW": "http://www.univ-ndjamena.org"
+      },
+      "website": "http://www.univ-ndjamena.org",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1971,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "October to June (October-February; March-June).",
+      "languages": [
+        "Arabic",
+        "French",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Arts and Humanities",
+          "fields": [
+            "Arabic",
+            "Arts and Humanities",
+            "Communication Studies",
+            "English",
+            "Geography",
+            "History",
+            "Linguistics",
+            "Modern Languages",
+            "Philosophy",
+            "Social Sciences",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Faculty : Exact and Applied Sciences",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Geology",
+            "Hydraulic Engineering",
+            "Mathematics",
+            "Paleontology",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences",
+          "fields": [
+            "Biological and Life Sciences",
+            "Medicine",
+            "Obstetrics and Gynaecology",
+            "Paediatrics",
+            "Public Health",
+            "Surgery"
+          ]
+        },
+        {
+          "name": "Faculty : Law and Economics",
+          "fields": [
+            "Economics",
+            "Law",
+            "Management",
+            "Private Law",
+            "Public Law"
+          ]
+        },
+        {
+          "name": "Institute : Rural Planning",
+          "fields": [
+            "Natural Resources",
+            "Rural Planning",
+            "Social Sciences",
+            "Soil Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diplôme d'Etudes universitaires générales",
+          "fields": [
+            "Arts and Humanities",
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "Licence",
+          "fields": [
+            "Arts and Humanities",
+            "Law",
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "Diplôme d'Ingénieur",
+          "fields": [
+            "Engineering",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Doctorat en Médecine",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Maîtrise/Master",
+          "fields": [
+            "Arts and Humanities",
+            "Law",
+            "Natural Sciences"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ali Abdelrhamane Haggar Mahamat Saleh"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Mahamat Saleh Ali"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Tchago Bouimon"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Ali Adoum"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1971 as University of Chad comprising institutions that were formerly part of the Fondation de l'Enseignement supérieur en Afrique Centrale. Acquired present status and title 1994.",
+      "periodicals": [
+        "Annales de l'Universite de N'Djaména",
+        "Annales de l'Universite de N'Djaména"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "8311",
+      "iau_id": "IAU-008311",
+      "name": "University Polytechnic Institute of Mongo",
+      "alt_name": "Institut universitaire polytechnique de Mongo (IUPM)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uIyxRLDBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-008311",
+      "address": {
+        "Street": "BP 4377Route d'Aboudéa",
+        "City": "Mongo",
+        "Province": "Guera"
+      },
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2002,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Basic Sciences",
+          "fields": [
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "Department/Division : Chemical Engineering",
+          "fields": [
+            "Chemical Engineering"
+          ]
+        },
+        {
+          "name": "Department/Division : Civil Engineering",
+          "fields": [
+            "Civil Engineering"
+          ]
+        },
+        {
+          "name": "Department/Division : Geology",
+          "fields": [
+            "Geology"
+          ]
+        },
+        {
+          "name": "Department/Division : Industrial Engineering",
+          "fields": [
+            "Industrial Engineering"
+          ]
+        },
+        {
+          "name": "Department/Division : Mechanical Engineering",
+          "fields": [
+            "Mechanical Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": []
+        },
+        {
+          "name": "Diplôme d'Ingénieur",
+          "fields": []
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Jérôme Mbainnabeye"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2002.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    }
+  ]
+}

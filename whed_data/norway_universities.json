@@ -1,0 +1,3743 @@
+{
+  "country_name": "Norway",
+  "country_id": "Norway",
+  "institutions": [
+    {
+      "id": "1607",
+      "iau_id": "IAU-001607",
+      "name": "Bergen School of Architecture",
+      "alt_name": "Bergen Arkitekthøgskole",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sMzhQLVBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-001607",
+      "address": {
+        "Street": "PO Box 5003",
+        "City": "Ås",
+        "Post Code": "1432",
+        "WWW": "https://www.nmbu.no"
+      },
+      "website": "https://www.nmbu.no",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "August to August (August-December; January-May; May-August)",
+      "languages": [
+        "Norwegian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Animal Production Experimental Station",
+          "fields": [
+            "Animal Husbandry"
+          ]
+        },
+        {
+          "name": "Centre : Plant Research in Controlled Climates",
+          "fields": [
+            "Plant and Crop Protection"
+          ]
+        },
+        {
+          "name": "Faculty : Environmental Science and Technology",
+          "fields": [
+            "Ecology",
+            "Environmental Studies",
+            "Mathematics",
+            "Natural Resources"
+          ]
+        },
+        {
+          "name": "Faculty : Social Sciences",
+          "fields": [
+            "Architecture and Planning",
+            "Business and Commerce",
+            "Development Studies",
+            "Economics",
+            "International Studies",
+            "Landscape Architecture"
+          ]
+        },
+        {
+          "name": "Faculty : Veterinary Medicine and Biosciences",
+          "fields": [
+            "Animal Husbandry",
+            "Aquaculture",
+            "Biotechnology",
+            "Botany",
+            "Chemistry",
+            "Food Science",
+            "Veterinary Science"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Development Studies"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Animal Husbandry",
+            "Aquaculture",
+            "Biology",
+            "Biotechnology",
+            "Chemistry",
+            "Computer Science",
+            "Development Studies",
+            "Economics",
+            "Environmental Management",
+            "Environmental Studies",
+            "Food Science",
+            "Forestry",
+            "International Relations and Diplomacy",
+            "Landscape Architecture",
+            "Mathematics",
+            "Microbiology",
+            "Plant Pathology",
+            "Public Health",
+            "Regional Planning",
+            "Rural Planning",
+            "Water Management"
+          ]
+        },
+        {
+          "name": "Doktorgrad",
+          "fields": [
+            "Animal Husbandry",
+            "Aquaculture",
+            "Biological and Life Sciences",
+            "Development Studies",
+            "Ecology",
+            "Economics",
+            "Environmental Studies",
+            "Food Science",
+            "Natural Resources",
+            "Plant and Crop Protection",
+            "Veterinary Science"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Research (Kunnskapsdepartementet); Norwegian Agency for Quality Assurance in Education (Nasjonalt organ for kvalitet i utdanningen – NOKUT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Solve Sæbø"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Elin Kubberød"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Kari Kolstad"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Solveig Fossum-Raunehaug"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2014-2015",
+        "Staff Full Time Total:": "1700",
+        "Students Statistics Year:": "2014-2015",
+        "Students Total:": "5200",
+        "Students Foreign Total:": "600"
+      },
+      "history": "Founded in 1859 as the only Norwegian agricultural post-graduate college. Renamed Agricultural University of Norway. Acquired present status and title 2005. Under the jurisdiction of the Ministry of Education and Research since 1997. Merger with the Norwegian School of Veterinary Science (Norges Veterinaerhogskole) 2014",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "6979",
+      "iau_id": "IAU-006979",
+      "name": "BI Norwegian Business School",
+      "alt_name": "Handelshøyskolen BI",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tQ0RXLjBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-006979",
+      "address": {
+        "Street": "P.O. Box 7800",
+        "City": "Bergen",
+        "Post Code": "5020",
+        "WWW": "https://www.uib.no"
+      },
+      "website": "https://www.uib.no",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "August to June (August-December; January-June)",
+      "languages": [
+        "Norwegian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Geobiology",
+          "fields": [
+            "Natural Sciences",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Centre : International Health",
+          "fields": [
+            "Health Sciences"
+          ]
+        },
+        {
+          "name": "Centre : Intervention Science in Maternal and Child Health",
+          "fields": [
+            "Community Health",
+            "Health Sciences",
+            "Paediatrics",
+            "Social and Preventive Medicine"
+          ]
+        },
+        {
+          "name": "Centre : Sciences and Humanities",
+          "fields": [
+            "Arts and Humanities",
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "Centre : Women's and Gender Research",
+          "fields": [
+            "Gender Studies",
+            "Women's Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Fine Art, Music and Design",
+          "fields": [
+            "Design",
+            "Fine Arts",
+            "Interior Design",
+            "Music",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Faculty : Humanities",
+          "fields": [
+            "Archaeology",
+            "Arts and Humanities",
+            "Classical Languages",
+            "Comparative Literature",
+            "History",
+            "Linguistics",
+            "Literature",
+            "Modern Languages",
+            "Music",
+            "Philosophy"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Mathematics and Natural Sciences",
+          "fields": [
+            "Astronomy and Space Science",
+            "Biological and Life Sciences",
+            "Chemistry",
+            "Computer Science",
+            "Earth Sciences",
+            "Marine Science and Oceanography",
+            "Mathematics",
+            "Meteorology",
+            "Natural Sciences",
+            "Physics",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine and Dentistry",
+          "fields": [
+            "Dentistry",
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Faculty : Psychology",
+          "fields": [
+            "Educational Sciences",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Faculty : Social Sciences",
+          "fields": [
+            "Anthropology",
+            "Communication Studies",
+            "Economics",
+            "Geography (Human)",
+            "Political Sciences",
+            "Social Sciences",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Research Division : Birkeland Centre for Space Science",
+          "fields": [
+            "Astronomy and Space Science"
+          ]
+        },
+        {
+          "name": "Research Division : Bjerknes Centre for Climate Research",
+          "fields": [
+            "Meteorology"
+          ]
+        },
+        {
+          "name": "Research Division : Cancer Biomarkers (CCBIO)",
+          "fields": [
+            "Medicine",
+            "Microbiology"
+          ]
+        },
+        {
+          "name": "Research Division : Centre for Research-based Innovation in Sustainable Fishing and Pre-processing technology (CRISP)",
+          "fields": [
+            "Marine Science and Oceanography"
+          ]
+        },
+        {
+          "name": "Research Division : K.G.Jebsen Centres",
+          "fields": [
+            "Diabetology",
+            "Health Sciences",
+            "Neurology",
+            "Psychiatry and Mental Health"
+          ]
+        },
+        {
+          "name": "Research Division : Sea Lice",
+          "fields": [
+            "Marine Science and Oceanography",
+            "Molecular Biology"
+          ]
+        },
+        {
+          "name": "Research Division : The Michelsen Centre for Industrial Measurement Science and Technology (MIMT)",
+          "fields": [
+            "Marine Science and Oceanography"
+          ]
+        },
+        {
+          "name": "Research Division : UiB Global",
+          "fields": [
+            "Health Sciences",
+            "Natural Sciences",
+            "Social Sciences"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Arts and Humanities",
+            "Dentistry",
+            "Design",
+            "Fine Arts",
+            "Health Sciences",
+            "Interior Design",
+            "Law",
+            "Mathematics and Computer Science",
+            "Medicine",
+            "Music",
+            "Natural Sciences",
+            "Performing Arts",
+            "Religion",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Arts and Humanities",
+            "Dentistry",
+            "Design",
+            "Education",
+            "Fine Arts",
+            "Health Sciences",
+            "Interior Design",
+            "Law",
+            "Mathematics and Computer Science",
+            "Medicine",
+            "Natural Sciences",
+            "Performing Arts",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Candidata/Candidatus",
+          "fields": [
+            "Law",
+            "Medicine",
+            "Music",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Doktorgrad",
+          "fields": [
+            "Arts and Humanities",
+            "Dentistry",
+            "Health Sciences",
+            "Law",
+            "Mathematics and Computer Science",
+            "Medicine",
+            "Music",
+            "Natural Sciences",
+            "Social Sciences"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Research (Kunnskapsdepartementet); Norwegian Agency for Quality Assurance in Education (Nasjonalt organ for kvalitet i utdanningen – NOKUT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Margareth Hagen"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Gottfried Greve"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Pinar Heggernes"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Tore Tungodden"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Benedicte Carlsen"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Nina Gry Stein"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded as Bergen Museum 1825, became University 1946. A State institution with a high international profile that emphasises basic research, research-based teaching and the development of academic disciplines. Financed by a grant voted by Parliament",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "22446",
+      "iau_id": "IAU-022446",
+      "name": "Kristiania University College",
+      "alt_name": "Høyskolen Kristiania",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyhULSM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-022446",
+      "address": {
+        "Street": "PO Box 400",
+        "City": "Elverum",
+        "Post Code": "2418",
+        "WWW": "https://www.inn.no"
+      },
+      "website": "https://www.inn.no",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Norwegian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Applied Ecology and Agricultural Sciences",
+          "fields": [
+            "Agricultural Engineering",
+            "Agriculture",
+            "Agronomy",
+            "Ecology",
+            "Forestry",
+            "Wildlife"
+          ]
+        },
+        {
+          "name": "Faculty : Business Administration",
+          "fields": [
+            "Business Administration",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Economics and Organizational Sciences",
+          "fields": [
+            "Economics",
+            "Management"
+          ]
+        },
+        {
+          "name": "Faculty : Education and Natural Sciences",
+          "fields": [
+            "Arts and Humanities",
+            "Biotechnology",
+            "Computer Science",
+            "Fine Arts",
+            "Social Sciences",
+            "Teacher Trainers Education"
+          ]
+        },
+        {
+          "name": "Faculty : Education and Social Work",
+          "fields": [
+            "Education",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Faculty : Public Health",
+          "fields": [
+            "Nursing",
+            "Psychiatry and Mental Health",
+            "Sports"
+          ]
+        },
+        {
+          "name": "Faculty : Social Sciences",
+          "fields": [
+            "Business Administration",
+            "Educational Sciences",
+            "Service Trades",
+            "Sports",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Television Production",
+          "fields": [
+            "Cinema and Television",
+            "Radio and Television Broadcasting"
+          ]
+        },
+        {
+          "name": "School : Norwegian Film School",
+          "fields": [
+            "Film"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Agricultural Engineering",
+            "Agronomy",
+            "Business Administration",
+            "Computer Science",
+            "Education",
+            "Film",
+            "Forestry",
+            "Music",
+            "Real Estate"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Administration",
+            "Agriculture",
+            "Biotechnology",
+            "Cinema and Television",
+            "Ecology",
+            "Economics",
+            "Film",
+            "Finance",
+            "Foreign Languages Education",
+            "Leadership",
+            "Management",
+            "Primary Education",
+            "Psychology",
+            "Public Health",
+            "Special Education"
+          ]
+        },
+        {
+          "name": "Doktorgrad",
+          "fields": [
+            "Administration",
+            "Ecology",
+            "Multimedia",
+            "Teacher Training"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Research (Kunnskapsdepartementet); Norwegian Agency for Quality Assurance in Education (Nasjonalt organ for kvalitet i utdanningen – NOKUT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Peer Jacob Svenkerud"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Gunnar Furseth Klinge"
+        }
+      ],
+      "statistics": {},
+      "history": "Established in 2017 as Inland Norway University of Applied Sciences (Høgskoleni Innlandet) following merger between Lillehammer University College (Høgskolen i Lillehammer) and Hedmark University College (Høgskolen i Hedmark). Acquired current title and status 2024.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "11050",
+      "iau_id": "IAU-011050",
+      "name": "Lovisenberg Diaconal University College",
+      "alt_name": "Lovisenberg diakonale høgskole (LDH)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyRQLTNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-011050",
+      "address": {
+        "Street": "Problemveien 7",
+        "City": "Oslo",
+        "Post Code": "0316",
+        "WWW": "https://www.uio.no"
+      },
+      "website": "https://www.uio.no",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "August to June (August-December; January-June)",
+      "languages": [
+        "Norwegian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Ethics",
+          "fields": [
+            "Materials Engineering",
+            "Nanotechnology"
+          ]
+        },
+        {
+          "name": "Centre : Functional Materials and Nanotechnology",
+          "fields": [
+            "Materials Engineering",
+            "Nanotechnology"
+          ]
+        },
+        {
+          "name": "Centre : Ibsen Studies",
+          "fields": [
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Centre : Technology, Innovation and Culture Studies",
+          "fields": [
+            "Cultural Studies",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Centre : Viking and Medieval Studies",
+          "fields": [
+            "Medieval Studies",
+            "Nordic Studies"
+          ]
+        },
+        {
+          "name": "Centre : Women's Studies and Gender Research",
+          "fields": [
+            "Gender Studies",
+            "Women's Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Dentistry",
+          "fields": [
+            "Dentistry"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Education",
+            "Educational Research",
+            "Special Education",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Faculty : Humanities",
+          "fields": [
+            "Archaeology",
+            "Art History",
+            "Arts and Humanities",
+            "Classical Languages",
+            "Communication Studies",
+            "Comparative Literature",
+            "Cultural Studies",
+            "Eastern European Studies",
+            "Germanic Studies",
+            "Heritage Preservation",
+            "History",
+            "Linguistics",
+            "Media Studies",
+            "Museum Studies",
+            "Music",
+            "Musicology",
+            "Oriental Studies",
+            "Philosophy",
+            "Romance Languages",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Criminology",
+            "Human Rights",
+            "International Law",
+            "Law",
+            "Maritime Law",
+            "Private Law",
+            "Public Law"
+          ]
+        },
+        {
+          "name": "Faculty : Mathematics and Natural Sciences",
+          "fields": [
+            "Astrophysics",
+            "Biochemistry",
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Ecology",
+            "Geography",
+            "Geology",
+            "Geophysics",
+            "Mathematics",
+            "Molecular Biology",
+            "Nanotechnology",
+            "Natural Sciences",
+            "Pharmacy",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Biotechnology",
+            "Community Health",
+            "Health Administration",
+            "Health Sciences",
+            "Medicine",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Faculty : Social Sciences",
+          "fields": [
+            "Anthropology",
+            "Economics",
+            "European Studies",
+            "Geography (Human)",
+            "Political Sciences",
+            "Psychology",
+            "Social Sciences",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Faculty : Theology",
+          "fields": [
+            "Theology"
+          ]
+        },
+        {
+          "name": "Institute : Human Rights",
+          "fields": [
+            "Human Rights"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Administration",
+            "Economics",
+            "Education",
+            "Health Sciences",
+            "History",
+            "Information Technology",
+            "Law",
+            "Literature",
+            "Mathematics",
+            "Media Studies",
+            "Medicine",
+            "Modern Languages",
+            "Music",
+            "Natural Sciences",
+            "Philosophy",
+            "Psychology",
+            "Religion",
+            "Social Sciences",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Administration",
+            "Economics",
+            "Education",
+            "Health Sciences",
+            "History",
+            "Information Technology",
+            "Law",
+            "Literature",
+            "Mathematics",
+            "Media Studies",
+            "Medicine",
+            "Modern Languages",
+            "Music",
+            "Natural Sciences",
+            "Philosophy",
+            "Psychology",
+            "Religion",
+            "Social Sciences",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Doktorgrad",
+          "fields": [
+            "Arts and Humanities",
+            "Dentistry",
+            "Education",
+            "Law",
+            "Mathematics",
+            "Medicine",
+            "Natural Sciences",
+            "Social Sciences",
+            "Theology"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Research (Kunnskapsdepartementet); Norwegian Agency for Quality Assurance in Education (Nasjonalt organ for kvalitet i utdanningen – NOKUT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ragnhild Hennum"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Åse Gornitzka"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Bjørn Stensaker"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2014-2015",
+        "Staff Full Time Male:": "3062",
+        "Staff Full Time Female:": "3132",
+        "Staff Full Time Total:": "6194",
+        "Students Statistics Year:": "2024-2025",
+        "Students Total:": "26500",
+        "Students Foreign Total:": "3451"
+      },
+      "history": "Founded in 1811 as Kongelige Frederiks Universitet (Royal Frederick University). Restructure. Implements the Quality Reform, program structures, grade systems and exams are reshaped entirely in 2003",
+      "periodicals": [
+        "Apollon",
+        "Apollon"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "7681",
+      "iau_id": "IAU-007681",
+      "name": "Molde University College - Specialized University in Logistics",
+      "alt_name": "Høgskolen i Molde - Vitenskapelig høgskole i logistikk – Molde Nursing School; Molde Regional College (HiMolde)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tUzhYLDBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007681",
+      "address": {
+        "Street": "P.O. Box 7030",
+        "City": "Bergen",
+        "Post Code": "5020",
+        "WWW": "https://www.hvl.no"
+      },
+      "website": "https://www.hvl.no",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "August to June",
+      "languages": [
+        "Norwegian"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Business Administration and Social Sciences",
+          "fields": [
+            "Administration",
+            "Business Administration",
+            "Economics",
+            "Educational Administration",
+            "Health Administration",
+            "History",
+            "Marine Transport",
+            "Nautical Science",
+            "Real Estate",
+            "Sociology",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Education, Arts and Sport",
+          "fields": [
+            "Art Education",
+            "Dietetics",
+            "Educational Technology",
+            "Foreign Languages Education",
+            "Handicrafts",
+            "Leisure Studies",
+            "Modern Languages",
+            "Music",
+            "Music Education",
+            "Physical Education",
+            "Preschool Education",
+            "Primary Education",
+            "Public Health",
+            "Secondary Education",
+            "Sports",
+            "Theatre",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering and Science",
+          "fields": [
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Computer Science",
+            "Development Studies",
+            "Electrical Engineering",
+            "Environmental Studies",
+            "Laboratory Techniques",
+            "Marine Engineering",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Safety Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Health and Social Sciences",
+          "fields": [
+            "Child Care and Development",
+            "Ergotherapy",
+            "Midwifery",
+            "Nursing",
+            "Occupational Therapy",
+            "Physical Therapy",
+            "Public Health",
+            "Social Work"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Business Administration",
+            "Education",
+            "Engineering",
+            "Nursing",
+            "Rehabilitation and Therapy",
+            "Social Sciences",
+            "Social Work",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Architecture",
+            "Art Education",
+            "Business Administration",
+            "Education",
+            "Energy Engineering",
+            "Music Education",
+            "Nursing",
+            "Nutrition",
+            "Physical Therapy",
+            "Social Work",
+            "Software Engineering",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Doktorgrad",
+          "fields": [
+            "Educational Sciences",
+            "Environmental Studies",
+            "Nautical Science",
+            "Software Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Research (Kunnskapsdepartementet); Norwegian Agency for Quality Assurance in Education (Nasjonalt organ for kvalitet i utdanningen – NOKUT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Gunnar Yttri"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Tage Båtsvik"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Eirin Fausa Pettersen"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2019-2020",
+        "Staff Full Time Total:": "458",
+        "Students Statistics Year:": "2020-2021",
+        "Students Total:": "17000"
+      },
+      "history": "Formed through a merger between Bergen University College, Sogn og Fjordane University College and Stord/Haugesund University College on January 1 2017",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "12752",
+      "iau_id": "IAU-012752",
+      "name": "NLA University College",
+      "alt_name": "NLA Høgskolen (NLA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyhXLTMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-012752",
+      "address": {
+        "Street": "Sandviksboder 59–61a",
+        "City": "Bergen",
+        "Post Code": "5841",
+        "WWW": "https://bas.org"
+      },
+      "website": "https://bas.org",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Norwegian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Architecture",
+          "fields": [
+            "Architecture",
+            "Landscape Architecture"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Master",
+          "fields": [
+            "Architecture"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Research (Kunnskapsdepartementet); Norwegian Agency for Quality Assurance in Education (Nasjonalt organ for kvalitet i utdanningen – NOKUT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Emma Nilsson"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Anders Rubing"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Siv Gjerde Aardal"
+        }
+      ],
+      "statistics": {},
+      "history": "Established in Bergen in 1986 as an educational alternative to the two public architecture schools in Norway. Approved by the Ministry of Education in 1990",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "19888",
+      "iau_id": "IAU-019888",
+      "name": "Nord University",
+      "alt_name": "Nord universitet",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RYLiNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019888",
+      "address": {
+        "Street": "Nydalsveien 37",
+        "City": "Oslo",
+        "Post Code": "0484",
+        "WWW": "http://www.bi.no"
+      },
+      "website": "http://www.bi.no",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Norwegian"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Business Administration",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Economics",
+            "English",
+            "Finance",
+            "Industrial and Organizational Psychology",
+            "International Business",
+            "Leadership",
+            "Management",
+            "Marketing",
+            "Mathematics",
+            "Public Relations",
+            "Real Estate",
+            "Retailing and Wholesaling",
+            "Statistics",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Course/Programme : Graduate Studies",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Economics",
+            "Finance",
+            "Industrial and Organizational Psychology",
+            "International Business",
+            "Management",
+            "Marketing",
+            "Political Sciences"
+          ]
+        },
+        {
+          "name": "Course/Programme : Shipping Management",
+          "fields": [
+            "Marine Transport",
+            "Transport Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Accountancy",
+            "Business and Commerce",
+            "Finance",
+            "Leadership"
+          ]
+        },
+        {
+          "name": "Doktorgrad",
+          "fields": [
+            "Economics",
+            "Finance",
+            "Leadership",
+            "Management",
+            "Marketing"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Research (Kunnskapsdepartementet); Norwegian Agency for Quality Assurance in Education (Nasjonalt organ for kvalitet i utdanningen – NOKUT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Inge Jan Henjesand"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Lise Hammergren"
+        }
+      ],
+      "statistics": {},
+      "history": "Established as a limited company in 1943. Restructured and earned approval from the Ministry of Education in 1995. Earned accreditation as a scientific university in 2008",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "12762",
+      "iau_id": "IAU-012762",
+      "name": "Norwegian Academy of Music",
+      "alt_name": "Norges musikkhøgskole (NMH)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyhXLUMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-012762",
+      "address": {
+        "Street": "Kirkegata 24-26",
+        "City": "Oslo",
+        "Post Code": "0153",
+        "WWW": "https://kristiania.no"
+      },
+      "website": "https://kristiania.no",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Norwegian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Arts",
+          "fields": [
+            "Fine Arts"
+          ]
+        },
+        {
+          "name": "Faculty : Communication",
+          "fields": [
+            "Mass Communication"
+          ]
+        },
+        {
+          "name": "Faculty : Film and TV",
+          "fields": [
+            "Cinema and Television"
+          ]
+        },
+        {
+          "name": "Faculty : Management",
+          "fields": [
+            "Management"
+          ]
+        },
+        {
+          "name": "Faculty : Technology",
+          "fields": [
+            "Technology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Acupuncture and Oriental Medicine",
+            "Advertising and Publicity",
+            "Business Administration",
+            "Business Computing",
+            "Cinema and Television",
+            "Computer Graphics",
+            "E-Business/Commerce",
+            "Graphic Design",
+            "Hotel Management",
+            "Human Resources",
+            "Information Technology",
+            "Interior Design",
+            "Journalism",
+            "Management",
+            "Marketing",
+            "Music",
+            "Nutrition",
+            "Osteopathy",
+            "Public Health",
+            "Radio and Television Broadcasting",
+            "Retailing and Wholesaling",
+            "Theatre",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Business Computing",
+            "Computer Science",
+            "Information Management",
+            "Management",
+            "Software Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Research (Kunnskapsdepartementet); Norwegian Agency for Quality Assurance in Education (Nasjonalt organ for kvalitet i utdanningen – NOKUT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Anders Aas"
+        }
+      ],
+      "statistics": {},
+      "history": "Established as Westerdals - Oslo School of Arts, Communication and Technology (Westerdals Oslo ACT) in 2014. Acquired current title and status following merger with Høyskolen Kristiania in 2017. A member of the European University Association since April 2019",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "22435",
+      "iau_id": "IAU-022435",
+      "name": "Norwegian Defence University College",
+      "alt_name": "Forsvarets høgskole (NDUC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyhULFM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-022435",
+      "address": {
+        "Street": "Lovisenberggt 15b",
+        "City": "Oslo",
+        "Post Code": "0456",
+        "WWW": "http://www.ldh.no"
+      },
+      "website": "http://www.ldh.no",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Norwegian"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Nursing",
+          "fields": [
+            "Child Care and Development",
+            "Gerontology",
+            "Nursing",
+            "Occupational Therapy",
+            "Physical Therapy",
+            "Radiology",
+            "Social Work"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Doktorgrad",
+          "fields": [
+            "Health Administration",
+            "Nursing"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Research (Kunnskapsdepartementet); Norwegian Agency for Quality Assurance in Education (Nasjonalt organ for kvalitet i utdanningen – NOKUT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Hallgeir Lien"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Lars Mathisen"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Unni Jenssen"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded as the first Norwegian college to offer a degree in nursing in 1868",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "13622",
+      "iau_id": "IAU-013622",
+      "name": "Norwegian Police University College",
+      "alt_name": "Politihøgskolen (PHS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyxWLEMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-013622",
+      "address": {
+        "Street": "Britvegen 2",
+        "City": "Molde",
+        "Post Code": "6410",
+        "WWW": "http://www.himolde.no"
+      },
+      "website": "http://www.himolde.no",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "August to May (August - December; January - May)",
+      "languages": [
+        "Norwegian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Business Administration and Social Sciences",
+          "fields": [
+            "Accountancy",
+            "Computer Science",
+            "E-Business/Commerce",
+            "Economics",
+            "Political Sciences",
+            "Public Administration",
+            "Social Sciences",
+            "Sports",
+            "Sports Management"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences and Social Care",
+          "fields": [
+            "Health Sciences",
+            "Nursing",
+            "Social and Preventive Medicine"
+          ]
+        },
+        {
+          "name": "Faculty : Logistics",
+          "fields": [
+            "Information Technology",
+            "Mathematics and Computer Science",
+            "Transport and Communications",
+            "Transport Economics",
+            "Transport Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Business Administration",
+            "Health Sciences",
+            "Social Sciences",
+            "Transport and Communications",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Business Administration",
+            "Health Sciences",
+            "Social Sciences",
+            "Sports Management",
+            "Transport and Communications",
+            "Transport Economics"
+          ]
+        },
+        {
+          "name": "Doktorgrad",
+          "fields": [
+            "Health Sciences",
+            "Transport and Communications",
+            "Transport Economics",
+            "Transport Management"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Research (Kunnskapsdepartementet); Norwegian Agency for Quality Assurance in Education (Nasjonalt organ for kvalitet i utdanningen – NOKUT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Steinar Kristoffersen"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Anette Myrstad"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Gerd Langøy"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2014",
+        "Staff Full Time Total:": "45",
+        "Students Statistics Year:": "2014",
+        "Students Total:": "2400",
+        "Students Foreign Total:": "250"
+      },
+      "history": "Founded in 1994 following the merger of Molde Nursing School, founded in 1958, and Molde Regional College, founded in 1969",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "12759",
+      "iau_id": "IAU-012759",
+      "name": "Norwegian School of Economics",
+      "alt_name": "Norges Handelshøyskole (NHH)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyhXLTNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-012759",
+      "address": {
+        "Street": "PO Box 74 Sandviken",
+        "City": "Bergen",
+        "Post Code": "5812",
+        "WWW": "http://www.nla.no"
+      },
+      "website": "http://www.nla.no",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Norwegian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Education",
+          "fields": [
+            "Business Administration",
+            "Christian Religious Studies",
+            "Cultural Studies",
+            "Curriculum",
+            "Education",
+            "Educational Administration",
+            "Educational Psychology",
+            "Ethics",
+            "History of Religion",
+            "International and Comparative Education",
+            "Preschool Education",
+            "Religious Education",
+            "Religious Studies",
+            "Social Sciences",
+            "Special Education",
+            "Sports",
+            "Teacher Training",
+            "Theology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Business Administration",
+            "Education",
+            "Journalism",
+            "Religion"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Cultural Studies",
+            "Journalism",
+            "Pedagogy",
+            "Religious Education",
+            "Special Education"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Research (Kunnskapsdepartementet); Norwegian Agency for Quality Assurance in Education (Nasjonalt organ for kvalitet i utdanningen – NOKUT)",
+      "officers": [
+        {
+          "title": "International Relations Officer",
+          "name": "Mari Sagulin"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Ulrik Thomsen"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2018-2019",
+        "Students Total:": "2500"
+      },
+      "history": "Established in 1995. Earned initial accreditation in 2006. Acquired present status following institutional merger with Hauge School of Management in 2013",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "12760",
+      "iau_id": "IAU-012760",
+      "name": "Norwegian School of Sport Sciences",
+      "alt_name": "Norges idrettshøgskole (NIH)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyhXLUNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-012760",
+      "address": {
+        "Street": "Universitetsalléen 11",
+        "City": "Bodø",
+        "Post Code": "8026",
+        "WWW": "http://www.nord.no"
+      },
+      "website": "http://www.nord.no",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "August to December; January to June",
+      "languages": [
+        "Norwegian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Biosciences and Aquaculture",
+          "fields": [
+            "Aquaculture",
+            "Biological and Life Sciences",
+            "Chemistry",
+            "Fishery",
+            "Marine Science and Oceanography",
+            "Marketing",
+            "Natural Sciences",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences",
+          "fields": [
+            "Anaesthesiology",
+            "Gerontology",
+            "Health Sciences",
+            "Nursing",
+            "Occupational Health",
+            "Psychiatry and Mental Health",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Faculty : Professional Studies",
+          "fields": [
+            "Dance",
+            "Education",
+            "Pedagogy",
+            "Preschool Education",
+            "Primary Education",
+            "Secondary Education",
+            "Sports",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Faculty : Social Sciences",
+          "fields": [
+            "Administrative Law",
+            "History",
+            "International Relations and Diplomacy",
+            "Journalism",
+            "Labour Law",
+            "Political Sciences",
+            "Social Sciences",
+            "Social Welfare",
+            "Social Work",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Faculty : Teacher Education",
+          "fields": [
+            "Child Care and Development",
+            "Educational Sciences",
+            "Music Education",
+            "Preschool Education",
+            "Primary Education",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "School : Business",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Business and Commerce",
+            "Environmental Management",
+            "International Business",
+            "Management",
+            "Marketing",
+            "Transport Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Aquaculture",
+            "Business Administration",
+            "Economics",
+            "Fishery",
+            "Health Sciences",
+            "History",
+            "Information Technology",
+            "Marine Science and Oceanography",
+            "Marketing",
+            "Nordic Studies",
+            "Social Work",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Aquaculture",
+            "Business Administration",
+            "Business and Commerce",
+            "Education",
+            "Farm Management",
+            "Health Sciences",
+            "Social Sciences",
+            "Social Work",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Doktorgrad",
+          "fields": [
+            "Aquaculture",
+            "Business Administration",
+            "Sociology"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Research (Kunnskapsdepartementet); Norwegian Agency for Quality Assurance in Education (Nasjonalt organ for kvalitet i utdanningen – NOKUT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Hanne Solheim Hansen"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Andreas Førde"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Tor Dybdal-Holthe"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded as Høgskolen i Bodø in 1994. Became Universitetet i Nordland (University of Nordland) in 2010. Acquired current accreditation status and title in 2016, following the merger of (Høgskolen i Nord-Trøndelag) Nord-Trøndelag University College and Høgskolen i Nesna (Nesna University College)",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "25215",
+      "iau_id": "IAU-025215",
+      "name": "Norwegian School of Theology, Religion and Society",
+      "alt_name": "MF vitenskapelig høyskole for teologi, religion og samfunn",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRSLDM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025215",
+      "address": {
+        "Street": "Slemdalsveien 11",
+        "City": "Oslo",
+        "Post Code": "0369",
+        "WWW": "http://www.nmh.no"
+      },
+      "website": "http://www.nmh.no",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June (September- December; January-June)",
+      "languages": [
+        "Norwegian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Music",
+          "fields": [
+            "Jazz and Popular Music",
+            "Music",
+            "Music Education",
+            "Music Theory and Composition",
+            "Musical Instruments",
+            "Religious Music"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Music",
+            "Music Education"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Art Therapy",
+            "Conducting",
+            "Music Education",
+            "Music Theory and Composition",
+            "Religious Music"
+          ]
+        },
+        {
+          "name": "Doktorgrad",
+          "fields": [
+            "Music Education",
+            "Music Theory and Composition"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Research (Kunnskapsdepartementet); Norwegian Agency for Quality Assurance in Education (Nasjonalt organ for kvalitet i utdanningen – NOKUT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Peter Tornquist"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Darla Crispin"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded in 1973. A State Institution",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "12763",
+      "iau_id": "IAU-012763",
+      "name": "Norwegian University of Science and Technology",
+      "alt_name": "Norges teknisk-naturvitenskapelige universitet (NTNU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyhXLUMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-012763",
+      "address": {
+        "Street": "Postboks 800, Postmottak",
+        "City": "Lillehammer",
+        "Post Code": "2617",
+        "WWW": "https://forsvaret.no"
+      },
+      "website": "https://forsvaret.no",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Norwegian"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Skills and Education (FOKUS)",
+          "fields": [
+            "Protective Services"
+          ]
+        },
+        {
+          "name": "College : Norwegian Defence Command and Staff (NDCSC)",
+          "fields": [
+            "Protective Services"
+          ]
+        },
+        {
+          "name": "College : Norwegian National Defence (Sjefskurset)",
+          "fields": [
+            "Protective Services"
+          ]
+        },
+        {
+          "name": "Institute : Defence Studies (IFS)",
+          "fields": [
+            "Protective Services"
+          ]
+        },
+        {
+          "name": "School : Sports Science, Defence Institute (NIH/F)",
+          "fields": [
+            "Protective Services",
+            "Sports"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Master",
+          "fields": [
+            "Engineering",
+            "Protective Services"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Research (Kunnskapsdepartementet); Norwegian Agency for Quality Assurance in Education (Nasjonalt organ for kvalitet i utdanningen – NOKUT)",
+      "officers": [],
+      "statistics": {},
+      "history": "Founded in 2002",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "10620",
+      "iau_id": "IAU-010620",
+      "name": "Oslo National Academy of the Arts",
+      "alt_name": "Kunsthøgskolen i Oslo (KHIO)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM2BWLENgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-010620",
+      "address": {
+        "Street": "PO Box 2109 Vika",
+        "City": "Oslo",
+        "Post Code": "0125",
+        "WWW": "http://www.phs.no"
+      },
+      "website": "http://www.phs.no",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Norwegian"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Police Studies",
+          "fields": [
+            "Police Studies"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Police Studies"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Police Studies"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Research (Kunnskapsdepartementet); Norwegian Agency for Quality Assurance in Education (Nasjonalt organ for kvalitet i utdanningen – NOKUT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Nina Skarpenes"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Tor Tanke Holm"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2012-2013",
+        "Students Male:": "1296",
+        "Students Female:": "864",
+        "Students Total:": "2160",
+        "Students Part Time:": "1300"
+      },
+      "history": "Established in 1920. Earned national accreditation in 2004",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "7685",
+      "iau_id": "IAU-007685",
+      "name": "OsloMet – Oslo Metropolitan University",
+      "alt_name": "OsloMet – storbyuniversitetet",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tUzhYLTBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007685",
+      "address": {
+        "Street": "Helleveien 30",
+        "City": "Bergen",
+        "Post Code": "5045",
+        "WWW": "http://www.nhh.no"
+      },
+      "website": "http://www.nhh.no",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "August to June (August-December; January-June)",
+      "languages": [
+        "Norwegian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Auditing, Accounting and Law",
+          "fields": [
+            "Accountancy",
+            "Law"
+          ]
+        },
+        {
+          "name": "Department/Division : Business and Management Science",
+          "fields": [
+            "Finance",
+            "Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Economics",
+          "fields": [
+            "Economics"
+          ]
+        },
+        {
+          "name": "Department/Division : Finance",
+          "fields": [
+            "Finance"
+          ]
+        },
+        {
+          "name": "Department/Division : Professional and Intercultural Communication",
+          "fields": [
+            "Communication Studies",
+            "Modern Languages"
+          ]
+        },
+        {
+          "name": "Department/Division : Strategy and Management",
+          "fields": [
+            "Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Business Administration",
+            "Economics"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Business Administration",
+            "Economics",
+            "Environmental Management",
+            "Finance",
+            "International Business",
+            "Management",
+            "Marketing",
+            "Natural Resources"
+          ]
+        },
+        {
+          "name": "Doktorgrad",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Economics",
+            "Finance"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Research (Kunnskapsdepartementet); Norwegian Agency for Quality Assurance in Education (Nasjonalt organ for kvalitet i utdanningen – NOKUT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Øystein Thøgersen"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Linda Nøstbakken"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Astrid Foldal"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded as a result of efforts from the Bergen business community in 1936",
+      "periodicals": [
+        "NHH-Bulletin Research and Publications (in English)",
+        "NHH-Bulletin",
+        "Research and Publications (in English)"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "3913",
+      "iau_id": "IAU-003913",
+      "name": "Queen Maud University College of Early Childhood Education",
+      "alt_name": "Dronning Mauds Minne Høgskole for barnehagelærerutdanning",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sU0RRLFBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003913",
+      "address": {
+        "Street": "PO Box 4014 Ullevål stadium",
+        "City": "Oslo",
+        "Post Code": "0806",
+        "WWW": "http://www.nih.no"
+      },
+      "website": "http://www.nih.no",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "August to June (August-December; January-June)",
+      "languages": [
+        "Norwegian"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Coaching and Psychology",
+          "fields": [
+            "Psychology",
+            "Sports"
+          ]
+        },
+        {
+          "name": "Department/Division : Cultural and Social Studies",
+          "fields": [
+            "Sociology",
+            "Sports",
+            "Sports Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Physical Education",
+          "fields": [
+            "Physical Education"
+          ]
+        },
+        {
+          "name": "Department/Division : Physical Performance",
+          "fields": [
+            "Biological and Life Sciences",
+            "Sports"
+          ]
+        },
+        {
+          "name": "Department/Division : Sports Medicine",
+          "fields": [
+            "Sports",
+            "Sports Medicine"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Physical Education",
+            "Sports",
+            "Sports Management"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Physical Education",
+            "Sports",
+            "Sports Management"
+          ]
+        },
+        {
+          "name": "Doktorgrad",
+          "fields": [
+            "Sports"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Research (Kunnskapsdepartementet); Norwegian Agency for Quality Assurance in Education (Nasjonalt organ for kvalitet i utdanningen – NOKUT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Lise Sofie Woie"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded in 1968. A State Institution financially supported by the Ministry of Education and Research",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "25223",
+      "iau_id": "IAU-025223",
+      "name": "Rudolf Steiner University College",
+      "alt_name": "Steinerhøyskolen",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRSLEMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025223",
+      "address": {
+        "Street": "PO Box 5144 Majorstuen",
+        "City": "Oslo",
+        "Post Code": "0302",
+        "WWW": "http://www.mf.no"
+      },
+      "website": "http://www.mf.no",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Norwegian"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Religion and Education",
+          "fields": [
+            "Religion",
+            "Religious Education"
+          ]
+        },
+        {
+          "name": "Department/Division : Religion and Society",
+          "fields": [
+            "Religion"
+          ]
+        },
+        {
+          "name": "Department/Division : Theology and History",
+          "fields": [
+            "History of Religion",
+            "Theology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Religion",
+            "Religious Education",
+            "Social Work",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Christian Religious Studies",
+            "History of Religion",
+            "Religion",
+            "Social Work",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Candidata/Candidatus",
+          "fields": [
+            "Theology"
+          ]
+        },
+        {
+          "name": "Doktorgrad",
+          "fields": [
+            "Bible",
+            "History of Religion",
+            "Religion",
+            "Religious Studies",
+            "Theology"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Research (Kunnskapsdepartementet); Norwegian Agency for Quality Assurance in Education (Nasjonalt organ for kvalitet i utdanningen – NOKUT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Vidar L. Haanes"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Hilde Brekke Moller"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Kjetil Fretheim"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded in 1907 as an independent theological institution at university level and is Norway's largest provider of theological education and research",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "14377",
+      "iau_id": "IAU-014377",
+      "name": "Sámi University of Applied Sciences",
+      "alt_name": "Sámi allaskuvla (SUAS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzBTLVM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-014377",
+      "address": {
+        "Street": "Høgskoleringen 1P.O. Box 8900Torgarden",
+        "City": "Trondheim",
+        "Post Code": "7491",
+        "WWW": "https://www.ntnu.edu"
+      },
+      "website": "https://www.ntnu.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "August to June (August-December; January-June)",
+      "languages": [
+        "Norwegian"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Architecture and Fine Arts",
+          "fields": [
+            "Architectural and Environmental Design",
+            "Architecture",
+            "Building Technologies",
+            "Development Studies",
+            "Fine Arts",
+            "Regional Planning",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "Faculty : Computer Science and Media Technology",
+          "fields": [
+            "Computer Graphics",
+            "Computer Networks",
+            "Computer Science",
+            "Information Technology",
+            "Media Studies",
+            "Multimedia"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering and Natural Sciences",
+          "fields": [
+            "Civil Engineering",
+            "Computer Engineering",
+            "Electronics and Automation",
+            "Marine Engineering",
+            "Production Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering Science and Technology",
+          "fields": [
+            "Civil Engineering",
+            "Construction Engineering",
+            "Ecology",
+            "Engineering Drawing and Design",
+            "Environmental Engineering",
+            "Geological Engineering",
+            "Geophysics",
+            "Heating and Refrigeration",
+            "Hydraulic Engineering",
+            "Industrial Engineering",
+            "Marine Engineering",
+            "Materials Engineering",
+            "Mining Engineering",
+            "Petroleum and Gas Engineering",
+            "Production Engineering",
+            "Thermal Engineering",
+            "Transport Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Health and Social Sciences",
+          "fields": [
+            "Health Sciences",
+            "Nursing",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Faculty : Health, Care and Nursing",
+          "fields": [
+            "Gerontology",
+            "Nursing",
+            "Occupational Therapy",
+            "Public Health",
+            "Radiology"
+          ]
+        },
+        {
+          "name": "Faculty : Humanities",
+          "fields": [
+            "Cultural Studies",
+            "History",
+            "Literature",
+            "Media Studies",
+            "Modern Languages",
+            "Music",
+            "Philosophy",
+            "Religious Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Information Technology, Mathematics and Electrical Engineering",
+          "fields": [
+            "Computer Science",
+            "Electrical Engineering",
+            "Energy Engineering",
+            "Environmental Engineering",
+            "Information Sciences",
+            "Mathematics",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : International Business",
+          "fields": [
+            "Business Administration",
+            "International Business",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Life Sciences",
+          "fields": [
+            "Biotechnology",
+            "Marine Biology"
+          ]
+        },
+        {
+          "name": "Faculty : Maritime Technology and Operations",
+          "fields": [
+            "Marine Engineering",
+            "Marine Transport",
+            "Nautical Science"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Medical Technology",
+            "Medicine",
+            "Neurosciences",
+            "Public Health"
+          ]
+        },
+        {
+          "name": "Faculty : Natural Sciences and Technology",
+          "fields": [
+            "Biology",
+            "Biotechnology",
+            "Chemical Engineering",
+            "Chemistry",
+            "Materials Engineering",
+            "Natural Resources",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Faculty : Social Sciences and Technology Management",
+          "fields": [
+            "Anthropology",
+            "Economics",
+            "Education",
+            "Geography",
+            "Industrial and Production Economics",
+            "Industrial Management",
+            "Political Sciences",
+            "Psychology",
+            "Social Work",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Faculty : Teacher and Interpreter Education",
+          "fields": [
+            "Archiving",
+            "Documentation Techniques",
+            "Primary Education"
+          ]
+        },
+        {
+          "name": "Faculty : Technology",
+          "fields": [
+            "Chemistry",
+            "Civil Engineering",
+            "Distance Education",
+            "Electrical Engineering",
+            "Food Technology",
+            "Mechanical Engineering",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Faculty : Technology, Economy and Management",
+          "fields": [
+            "Business Administration",
+            "Civil Engineering",
+            "Economics",
+            "Energy Engineering",
+            "Industrial Management",
+            "Mechanical Engineering",
+            "Surveying and Mapping",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "School : Business",
+          "fields": [
+            "Business Administration"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Arts and Humanities",
+            "Fine Arts",
+            "Music",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Architecture",
+            "Arts and Humanities",
+            "Fine Arts",
+            "Health Sciences",
+            "Social Sciences",
+            "Social Work",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Candidata/Candidatus",
+          "fields": [
+            "Clinical Psychology",
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Doktorgrad",
+          "fields": [
+            "Accountancy",
+            "Aesthetics",
+            "Anthropology",
+            "Architecture",
+            "Behavioural Sciences",
+            "Biology",
+            "Biophysics",
+            "Biotechnology",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civil Engineering",
+            "Computer Science",
+            "Cultural Studies",
+            "Economics",
+            "Education",
+            "Electrical Engineering",
+            "Energy Engineering",
+            "Environmental Engineering",
+            "Geography",
+            "Geological Engineering",
+            "Health Sciences",
+            "History",
+            "Industrial and Production Economics",
+            "Industrial Design",
+            "Information Technology",
+            "Linguistics",
+            "Marine Engineering",
+            "Materials Engineering",
+            "Medicine",
+            "Multimedia",
+            "Petroleum and Gas Engineering",
+            "Physics",
+            "Political Sciences",
+            "Production Engineering",
+            "Psychology",
+            "Social Work",
+            "Sociology",
+            "Telecommunications Engineering",
+            "Transport Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Research (Kunnskapsdepartementet); Norwegian Agency for Quality Assurance in Education (Nasjonalt organ for kvalitet i utdanningen – NOKUT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Tor Grande"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Geir Egil Dahle Øien"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Gunnar Bergseth"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2024-2025",
+        "Students Total:": "43550"
+      },
+      "history": "Founded in 1910 as Norwegian Institute of Technology. Part of University of Trondheim in 1968. Merger in 1996 including the College of Arts and Science, and the Natural History and Archaeology Museum. Merged with Høgskolen i Ålesund (Ålesund University College), Høgskolen i Gjøvik (Gjøvik University College) and Høgskolen i Sør-Trøndelag (Sør-Trøndelag University College) in 2016",
+      "periodicals": [
+        "Gemini Spor Universitetsavisa",
+        "Gemini",
+        "Spor",
+        "Universitetsavisa"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "1085",
+      "iau_id": "IAU-001085",
+      "name": "The Oslo School of Architecture and Design",
+      "alt_name": "Arkitektur- og designhøgskolen i Oslo (AHO)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sM2BYLTBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-001085",
+      "address": {
+        "Street": "PO Box 6853 St. Olavs square",
+        "City": "Oslo",
+        "Post Code": "0130",
+        "WWW": "http://www.khio.no"
+      },
+      "website": "http://www.khio.no",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Norwegian"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Design",
+          "fields": [
+            "Design",
+            "Fashion Design",
+            "Furniture Design",
+            "Graphic Design",
+            "Interior Design"
+          ]
+        },
+        {
+          "name": "Faculty : Fine Arts",
+          "fields": [
+            "Fine Arts",
+            "Painting and Drawing",
+            "Performing Arts",
+            "Sculpture"
+          ]
+        },
+        {
+          "name": "Faculty : Performing Arts",
+          "fields": [
+            "Dance",
+            "Opera",
+            "Performing Arts",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Faculty : Visual Arts",
+          "fields": [
+            "Visual Arts"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Design",
+            "Fine Arts",
+            "Performing Arts"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Dance",
+            "Fashion Design",
+            "Fine Arts",
+            "Furniture Design",
+            "Graphic Design",
+            "Interior Design",
+            "Opera"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Research (Kunnskapsdepartementet); Norwegian Agency for Quality Assurance in Education (Nasjonalt organ for kvalitet i utdanningen – NOKUT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Måns Wrange"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Annemarie Bechmann Hansen"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded as National College of Art and Design in 1818. Acquired present name and status in 1996, Following the merger of five formerly independent colleges. It is now a University College",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "19891",
+      "iau_id": "IAU-019891",
+      "name": "UiT The Arctic University of Norway",
+      "alt_name": "UiT Norges arktiske universitet (UiT)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RYLjMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019891",
+      "address": {
+        "Street": "PO box 4 St. Olavs plass",
+        "City": "Oslo",
+        "Post Code": "0130",
+        "WWW": "http://www.hioa.no"
+      },
+      "website": "http://www.hioa.no",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1994,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "August to June (August-December; January-June)",
+      "languages": [
+        "Norwegian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Education and International Studies",
+          "fields": [
+            "Education",
+            "International Studies",
+            "Preschool Education",
+            "Primary Education",
+            "Secondary Education",
+            "Teacher Training",
+            "Translation and Interpretation",
+            "Vocational Education"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences",
+          "fields": [
+            "Behavioural Sciences",
+            "Biomedicine",
+            "Dental Technology",
+            "Health Administration",
+            "Health Sciences",
+            "Laboratory Techniques",
+            "Medical Technology",
+            "Nursing",
+            "Nutrition",
+            "Occupational Therapy",
+            "Orthodontics",
+            "Pharmacy",
+            "Physical Therapy",
+            "Radiology"
+          ]
+        },
+        {
+          "name": "Faculty : Social Sciences",
+          "fields": [
+            "Archiving",
+            "Business Administration",
+            "Information Sciences",
+            "Journalism",
+            "Library Science",
+            "Media Studies",
+            "Public Relations",
+            "Social Policy",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Faculty : Technology, Art and Design",
+          "fields": [
+            "Civil Engineering",
+            "Computer Science",
+            "Design",
+            "Energy Engineering",
+            "Fine Arts",
+            "Industrial Design",
+            "Theatre"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Biotechnology",
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Communication Studies",
+            "Community Health",
+            "Computer Engineering",
+            "Educational Psychology",
+            "Electronic Engineering",
+            "Energy Engineering",
+            "Environmental Engineering",
+            "Finance",
+            "Graphic Design",
+            "Home Economics",
+            "Information Technology",
+            "Journalism",
+            "Mechanical Engineering",
+            "Media Studies",
+            "Nursing",
+            "Nutrition",
+            "Orthopaedics",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Biomedicine",
+            "Community Health",
+            "Computer Networks",
+            "Cultural Studies",
+            "Design",
+            "Development Studies",
+            "Education",
+            "Energy Engineering",
+            "Environmental Engineering",
+            "Family Studies",
+            "Health Sciences",
+            "Information Sciences",
+            "Information Technology",
+            "International Studies",
+            "Journalism",
+            "Library Science",
+            "Management",
+            "Nursing",
+            "Nutrition",
+            "Preschool Education",
+            "Primary Education",
+            "Psychiatry and Mental Health",
+            "Rehabilitation and Therapy",
+            "Social Welfare",
+            "Social Work",
+            "Vocational Education"
+          ]
+        },
+        {
+          "name": "Doktorgrad",
+          "fields": [
+            "Behavioural Sciences",
+            "Educational Sciences",
+            "Health Sciences",
+            "Information Sciences",
+            "Library Science",
+            "Social Policy",
+            "Social Work"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Research (Kunnskapsdepartementet); Norwegian Agency for Quality Assurance in Education (Nasjonalt organ for kvalitet i utdanningen – NOKUT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Christen Krogh"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Nina Waaler"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1994. Became Høgskolen i Oslo og Akershus (Oslo and Akershus University College of Applied Sciences) in 2011 following the merger between Høgskolen i Oslo (Oslo University College) and Høgskolen i Akershus (Akershus University College). Acquired current title and status in 2018",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "19886",
+      "iau_id": "IAU-019886",
+      "name": "University of Agder",
+      "alt_name": "Universitetet i Agder – Agder College; Agder University College (UiA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RYLiM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019886",
+      "address": {
+        "Street": "Thrond Nergaards veg 7",
+        "City": "Trondheim",
+        "Post Code": "7044",
+        "WWW": "http://www.dmmh.no"
+      },
+      "website": "http://www.dmmh.no",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Norwegian"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Education",
+          "fields": [
+            "Art Education",
+            "Child Care and Development",
+            "Cultural Studies",
+            "Education",
+            "Environmental Studies",
+            "Music Education",
+            "Physical Education",
+            "Preschool Education",
+            "Science Education",
+            "Special Education",
+            "Technology Education",
+            "Theatre",
+            "Vocational Education"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Preschool Education"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Preschool Education",
+            "Special Education"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Research (Kunnskapsdepartementet); Norwegian Agency for Quality Assurance in Education (Nasjonalt organ for kvalitet i utdanningen – NOKUT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Hans-Jørgen Leksen"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Geir Inge Lien"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Mona Wærøe Langseth"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Siri E. Haug"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded in 1947 to provide education to early childhood education teachers. Acquired present status in 2008",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "7675",
+      "iau_id": "IAU-007675",
+      "name": "University of South-Eastern Norway",
+      "alt_name": "Universitetet i Sørøst-Norge (USN)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tUzhXLTBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007675",
+      "address": {
+        "Street": "Prof Dahls gate 30",
+        "City": "Oslo",
+        "Post Code": "0260",
+        "WWW": "https://www.steinerhoyskolen.no"
+      },
+      "website": "https://www.steinerhoyskolen.no",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Norwegian"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Education",
+          "fields": [
+            "Education",
+            "Preschool Education",
+            "Primary Education"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Education",
+            "Preschool Education",
+            "Primary Education"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Education"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Research (Kunnskapsdepartementet); Norwegian Agency for Quality Assurance in Education (Nasjonalt organ for kvalitet i utdanningen – NOKUT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Dagny Ringheim"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Trude Bø"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded in 1981",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "19890",
+      "iau_id": "IAU-019890",
+      "name": "University of Stavanger",
+      "alt_name": "Universitetet i Stavanger (UiS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RYLjNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019890",
+      "address": {
+        "Street": "Hánnoluohkká 45",
+        "City": "Guovdageaidnu / Kautokeino",
+        "Post Code": "9520",
+        "WWW": "http://www.samas.no"
+      },
+      "website": "http://www.samas.no",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Norwegian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Education",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Department/Division : Journalism",
+          "fields": [
+            "Journalism"
+          ]
+        },
+        {
+          "name": "Department/Division : Reindeer Husbandry and Natural Science",
+          "fields": [
+            "Animal Husbandry",
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "Department/Division : Sámi Language and Literature",
+          "fields": [
+            "Literature",
+            "Scandinavian Languages"
+          ]
+        },
+        {
+          "name": "Department/Division : Sámi Traditional and Applied Arts",
+          "fields": [
+            "Fine Arts"
+          ]
+        },
+        {
+          "name": "Department/Division : Teachers Education",
+          "fields": [
+            "Teacher Trainers Education"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Animal Husbandry",
+            "Cultural Studies",
+            "Literature",
+            "Native Language"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Animal Husbandry",
+            "Child Care and Development",
+            "Journalism"
+          ]
+        },
+        {
+          "name": "Doktorgrad",
+          "fields": [
+            "Literature"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Research (Kunnskapsdepartementet); Norwegian Agency for Quality Assurance in Education (Nasjonalt organ for kvalitet i utdanningen – NOKUT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Laila Susanne Vars"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Ylva Jannok Nutti"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded in 1989. The SUAS and Sámi Institute were merged in 2005. Provides education with an emphasis on indigenous culture and practices",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "24226",
+      "iau_id": "IAU-024226",
+      "name": "VID Specialized University",
+      "alt_name": "VID vitenskapelige høgskole",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBSLEM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024226",
+      "address": {
+        "Street": "PO Box 6768 St. Olavs Square",
+        "City": "Oslo",
+        "Post Code": "0130",
+        "WWW": "http://www.aho.no"
+      },
+      "website": "http://www.aho.no",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "August to June (August-December; January-June)",
+      "languages": [
+        "Norwegian"
+      ],
+      "faculties": [
+        {
+          "name": "Institute : Architecture",
+          "fields": [
+            "Architecture"
+          ]
+        },
+        {
+          "name": "Institute : Design",
+          "fields": [
+            "Design",
+            "Industrial Design"
+          ]
+        },
+        {
+          "name": "Institute : Form, Theory and History",
+          "fields": [
+            "Architecture",
+            "Design",
+            "History",
+            "Museum Studies"
+          ]
+        },
+        {
+          "name": "Institute : Urbanism and Landscape Planning",
+          "fields": [
+            "Landscape Architecture",
+            "Town Planning",
+            "Urban Studies"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Master",
+          "fields": [
+            "Architecture",
+            "Design",
+            "Development Studies",
+            "Landscape Architecture"
+          ]
+        },
+        {
+          "name": "Doktorgrad",
+          "fields": [
+            "Architecture",
+            "Industrial Design"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Research (Kunnskapsdepartementet); Norwegian Agency for Quality Assurance in Education (Nasjonalt organ for kvalitet i utdanningen – NOKUT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ole Gustavsen"
+        }
+      ],
+      "statistics": {},
+      "history": "The School of Architecture was established in 1945 as a crisis course for students who had their education canceled by World War II. Acquired present title in 2005. Established Landscape Architecture Masters program in 2004",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "7690",
+      "iau_id": "IAU-007690",
+      "name": "Volda University College",
+      "alt_name": "Høgskolen i Volda (HVO)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tUzhZLGBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007690",
+      "address": {
+        "Street": "PO Box 6050 Langnes",
+        "City": "Tromsø",
+        "Post Code": "9037",
+        "WWW": "http://en.uit.no/startsida"
+      },
+      "website": "http://en.uit.no/startsida",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1968,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "August to June (August-December; January-June)",
+      "languages": [
+        "Norwegian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Peace Studies (CPS)",
+          "fields": [
+            "International Studies"
+          ]
+        },
+        {
+          "name": "Centre : Sami Studies",
+          "fields": [
+            "Nordic Studies"
+          ]
+        },
+        {
+          "name": "Centre : Women's and Gender Research",
+          "fields": [
+            "Gender Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Biosciences, Fisheries and Economics",
+          "fields": [
+            "Aquaculture",
+            "Biological and Life Sciences",
+            "Business and Commerce",
+            "Economics",
+            "Fishery",
+            "Industrial and Production Economics",
+            "Leadership",
+            "Marine Biology"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering Science and Technology",
+          "fields": [
+            "Building Technologies",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Electrical Engineering",
+            "Industrial Engineering",
+            "Safety Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Fine Arts",
+          "fields": [
+            "Dance",
+            "Fine Arts",
+            "Music",
+            "Theatre",
+            "Writing"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences",
+          "fields": [
+            "Biomedicine",
+            "Community Health",
+            "Dentistry",
+            "Ergotherapy",
+            "Health Sciences",
+            "Medicine",
+            "Nursing",
+            "Pharmacy",
+            "Physical Therapy",
+            "Psychology",
+            "Public Health",
+            "Radiology"
+          ]
+        },
+        {
+          "name": "Faculty : Humanities, Social Sciences and Education",
+          "fields": [
+            "Anthropology",
+            "Archaeology",
+            "Archiving",
+            "Art History",
+            "Classical Languages",
+            "Comparative Literature",
+            "Education",
+            "English",
+            "Finnish",
+            "French",
+            "German",
+            "Greek",
+            "History",
+            "Latin",
+            "Library Science",
+            "Linguistics",
+            "Nordic Studies",
+            "Philosophy",
+            "Political Sciences",
+            "Religious Studies",
+            "Russian",
+            "Sociology",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Science and Technology",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Civil Security",
+            "Engineering",
+            "Geology",
+            "Information Technology",
+            "Mathematics and Computer Science",
+            "Physics",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Faculty : Sports, Tourism and Social Work",
+          "fields": [
+            "Social Work",
+            "Sports",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Institute : Barents",
+          "fields": [
+            "Marine Science and Oceanography"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Aquaculture",
+            "Archaeology",
+            "Art History",
+            "Biology",
+            "Business Administration",
+            "Business and Commerce",
+            "Chemistry",
+            "Classical Languages",
+            "Computer Science",
+            "Cultural Studies",
+            "Economics",
+            "Educational Sciences",
+            "Fishery",
+            "Geology",
+            "Health Administration",
+            "History",
+            "Information Management",
+            "Literature",
+            "Mathematics",
+            "Modern Languages",
+            "Philosophy",
+            "Physics",
+            "Psychology",
+            "Religious Studies",
+            "Russian",
+            "Social Policy",
+            "Sociology",
+            "Statistics",
+            "Transport Economics"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Acting",
+            "Adult Education",
+            "Aquaculture",
+            "Archaeology",
+            "Art History",
+            "Biology",
+            "Business Administration",
+            "Business and Commerce",
+            "Chemistry",
+            "Coastal Studies",
+            "Computer Science",
+            "Cultural Studies",
+            "Economics",
+            "Educational Research",
+            "Fishery",
+            "Geology",
+            "Health Sciences",
+            "History",
+            "Indigenous Studies",
+            "Information Management",
+            "Literature",
+            "Marketing",
+            "Mathematics",
+            "Medicine",
+            "Medieval Studies",
+            "Modern Languages",
+            "Natural Resources",
+            "Nordic Studies",
+            "Peace and Disarmament",
+            "Philosophy",
+            "Physics",
+            "Political Sciences",
+            "Public Health",
+            "Religious Studies",
+            "Secondary Education",
+            "Social Policy",
+            "Sociology",
+            "Special Education",
+            "Statistics",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Doktorgrad",
+          "fields": [
+            "Arts and Humanities",
+            "Law",
+            "Medicine",
+            "Social Sciences"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Research (Kunnskapsdepartementet); Norwegian Agency for Quality Assurance in Education (Nasjonalt organ for kvalitet i utdanningen – NOKUT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Karl Erik Arnesen"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Adrian Johansen"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2014-2015",
+        "Staff Full Time Total:": "2908",
+        "Students Statistics Year:": "2014-2015",
+        "Students Total:": "11759"
+      },
+      "history": "Founded 1968, officially opened by King Olav V 1972. A State institution enjoying considerable autonomy in both academic and financial matters. Financed primarily by the government. Merged with Tromso University College 2009. Formerly known as University of Tromsø until merger with the University College of Finmark 2013, then merged with Narvik University College (Høgskolen i Narvik) and Harstad University College (Høgskolen i Harstad) in 2016",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "7691",
+      "iau_id": "IAU-007691",
+      "name": "Østfold University College",
+      "alt_name": "Høgskolen i Østfold – Østfold nursing college; Halden teacher training college; Østfold college of engineering; Østfold regional college and Østfold social educator college. (HIØ)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tUzhZLDBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007691",
+      "address": {
+        "Street": "PO Box 422",
+        "City": "Kristiansand",
+        "Post Code": "4604",
+        "WWW": "http://www.uia.no"
+      },
+      "website": "http://www.uia.no",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Norwegian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Engineering and Science",
+          "fields": [
+            "Analytical Chemistry",
+            "Biology",
+            "Chemistry",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Electrical and Electronic Engineering",
+            "Electronic Engineering",
+            "Energy Engineering",
+            "Engineering",
+            "Industrial Management",
+            "Information Management",
+            "Information Technology",
+            "Mathematics",
+            "Mathematics Education",
+            "Mechanical Engineering",
+            "Natural Sciences",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Fine Arts",
+          "fields": [
+            "Art Management",
+            "Fine Arts",
+            "Handicrafts",
+            "Music",
+            "Theatre",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Faculty : Health and Sports Sciences",
+          "fields": [
+            "Educational Psychology",
+            "Health Sciences",
+            "Nursing",
+            "Nutrition",
+            "Physical Education",
+            "Public Health",
+            "Sports"
+          ]
+        },
+        {
+          "name": "Faculty : Humanities and Education",
+          "fields": [
+            "Arts and Humanities",
+            "Education",
+            "Educational Sciences",
+            "English",
+            "French",
+            "German",
+            "History",
+            "Mass Communication",
+            "Modern Languages",
+            "Nordic Studies",
+            "Philosophy",
+            "Religion",
+            "Scandinavian Languages",
+            "Special Education",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Faculty : Social Sciences",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Development Studies",
+            "Economics",
+            "Information Sciences",
+            "Law",
+            "Management",
+            "Political Sciences",
+            "Public Administration",
+            "Social Sciences",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "School : Business and Law",
+          "fields": [
+            "Business Administration",
+            "Law"
+          ]
+        },
+        {
+          "name": "Unit : Teacher Education",
+          "fields": [
+            "Preschool Education",
+            "Primary Education",
+            "Secondary Education",
+            "Teacher Training"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Arts and Humanities",
+            "Business Administration",
+            "Education",
+            "Engineering",
+            "Fine Arts",
+            "Health Sciences",
+            "Information Sciences",
+            "Law",
+            "Mathematics and Computer Science",
+            "Religion",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Aquaculture",
+            "Art Management",
+            "Business Administration",
+            "Civil Engineering",
+            "Communication Studies",
+            "Community Health",
+            "Construction Engineering",
+            "Education",
+            "Educational Technology",
+            "Energy Engineering",
+            "English",
+            "Fine Arts",
+            "Health Administration",
+            "History",
+            "Human Resources",
+            "Industrial Management",
+            "Information Management",
+            "Information Technology",
+            "Literature",
+            "Management",
+            "Mathematics Education",
+            "Mechanical Engineering",
+            "Music",
+            "Nursing",
+            "Political Sciences",
+            "Psychiatry and Mental Health",
+            "Religion",
+            "Scandinavian Languages",
+            "Social Welfare",
+            "Sports",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Doktorgrad",
+          "fields": [
+            "Administration",
+            "Applied Mathematics",
+            "Energy Engineering",
+            "Health Sciences",
+            "Information Sciences",
+            "Information Technology",
+            "Linguistics",
+            "Management",
+            "Mathematics Education",
+            "Mechanical Engineering",
+            "Music",
+            "Religion"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Research (Kunnskapsdepartementet); Norwegian Agency for Quality Assurance in Education (Nasjonalt organ for kvalitet i utdanningen – NOKUT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Sunniva Whittaker"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Greta Hilding"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Hans Kjetil Lysgård"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Marit Wergeland"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded as Agder University College in 1994. Acquired present status and title in 2007",
+      "periodicals": [],
+      "student_body": "co-ed"
+    }
+  ]
+}

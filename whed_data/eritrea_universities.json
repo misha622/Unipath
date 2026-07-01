@@ -1,0 +1,561 @@
+{
+  "country_name": "Eritrea",
+  "country_id": "Eritrea",
+  "institutions": [
+    {
+      "id": "3001",
+      "iau_id": "IAU-003001",
+      "name": "Adi-Keih College of Arts and Social Sciences",
+      "alt_name": "(CASS)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sU2BQLDBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003001",
+      "address": {
+        "Street": "P.O. Box 59",
+        "City": "Adi Keyh"
+      },
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Arts",
+          "fields": [
+            "Archaeology",
+            "Arts and Humanities",
+            "English",
+            "Fine Arts",
+            "Geography",
+            "History",
+            "International Relations and Diplomacy",
+            "Journalism",
+            "Law",
+            "Literature",
+            "Mass Communication",
+            "Native Language",
+            "Political Sciences",
+            "Social Work",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Social Sciences",
+          "fields": [
+            "Anthropology",
+            "Journalism",
+            "Law",
+            "Mass Communication",
+            "Social Sciences",
+            "Social Work",
+            "Sociology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Arts and Humanities",
+            "Social Sciences"
+          ]
+        }
+      ],
+      "accreditation": "National Commission for Higher Education (NCHE)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Woldetnsae Tewolde"
+        }
+      ],
+      "statistics": {},
+      "history": "Created 2006.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "1153",
+      "iau_id": "IAU-001153",
+      "name": "Asmara College of Health Sciences",
+      "alt_name": "(ACHS)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sMyRVLFBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-001153",
+      "address": {
+        "Street": "P.O. Box 1220",
+        "City": "Asmara"
+      },
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [],
+      "faculties": [
+        {
+          "name": "Course/Programme : Health Sciences",
+          "fields": [
+            "Dentistry",
+            "Health Education",
+            "Laboratory Techniques",
+            "Medical Auxiliaries",
+            "Medical Technology",
+            "Medicine",
+            "Nursing",
+            "Ophthalmology",
+            "Optometry",
+            "Pharmacy",
+            "Physical Therapy",
+            "Public Health"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Health Sciences"
+          ]
+        },
+        {
+          "name": "Master's degree",
+          "fields": [
+            "Anaesthesiology",
+            "Midwifery",
+            "Nursing",
+            "Pharmacy"
+          ]
+        }
+      ],
+      "accreditation": "National Commission for Higher Education (NCHE)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ghidei Gebrehannes"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded in 1999. Acquired present status 2005.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "3016",
+      "iau_id": "IAU-003016",
+      "name": "College of Marine Sciences and Technology",
+      "alt_name": "(COMSAT)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sU2BRLUBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003016",
+      "address": {
+        "City": "Massawa"
+      },
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [],
+      "faculties": [
+        {
+          "name": "Course/Programme : Marine Science",
+          "fields": [
+            "Aquaculture",
+            "Biotechnology",
+            "Fishery",
+            "Marine Biology",
+            "Marine Engineering",
+            "Marine Science and Oceanography"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Marine Science and Oceanography"
+          ]
+        }
+      ],
+      "accreditation": "National Commission for Higher Education (NBHE)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Zekeria Abdulkerim"
+        }
+      ],
+      "statistics": {},
+      "history": "Created 2006.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "4515",
+      "iau_id": "IAU-004515",
+      "name": "Eritrea Institute of Technology",
+      "alt_name": "(EIT)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIzRRLTBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004515",
+      "address": {
+        "Street": "P.O. Box 12676",
+        "City": "Asmara",
+        "Post Code": "1276",
+        "WWW": "http://www.eit.edu.er"
+      },
+      "website": "http://www.eit.edu.er",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to July",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Information Technology",
+          "fields": [
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "College : Education",
+          "fields": [
+            "Education",
+            "Educational Administration",
+            "Educational Psychology",
+            "Foreign Languages Education",
+            "Humanities and Social Science Education",
+            "Mathematics Education",
+            "Physical Education",
+            "Science Education"
+          ]
+        },
+        {
+          "name": "College : Engineering and Technology",
+          "fields": [
+            "Aeronautical and Aerospace Engineering",
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Electrical and Electronic Engineering",
+            "Electrical Engineering",
+            "Mechanical Engineering",
+            "Mining Engineering"
+          ]
+        },
+        {
+          "name": "College : Science",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Earth Sciences",
+            "Geology",
+            "Information Sciences",
+            "Library Science",
+            "Mathematics",
+            "Physics",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Course/Programme : Postgraduate",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Information Technology",
+            "Mathematics",
+            "Physics",
+            "Statistics"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Education",
+            "Educational Administration",
+            "Educational Psychology",
+            "Engineering",
+            "Geology",
+            "Information Sciences",
+            "Library Science",
+            "Mathematics",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Master's degree",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Information Technology",
+            "Mathematics",
+            "Physics",
+            "Statistics"
+          ]
+        }
+      ],
+      "accreditation": "National Board of Higher Education (NBHE)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ghebrehiwet Medhanie"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2016-2017",
+        "Staff Full Time Male:": "276",
+        "Staff Full Time Female:": "41",
+        "Staff Full Time Total:": "64",
+        "Students Statistics Year:": "2016-2017",
+        "Students Male:": "2724",
+        "Students Female:": "1706",
+        "Students Total:": "4430",
+        "Students Foreign Total:": "30"
+      },
+      "history": "Created 2004.",
+      "periodicals": [
+        "Journal of Science and Engineering",
+        "Journal of Science and Engineering"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "3004",
+      "iau_id": "IAU-003004",
+      "name": "Halhale College of Business and Economics",
+      "alt_name": "(HCBE)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sU2BQLWBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003004",
+      "address": {
+        "Street": "P.O. Box 12492",
+        "City": "Halhale"
+      },
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [],
+      "faculties": [
+        {
+          "name": "Course/Programme : Accountancy",
+          "fields": [
+            "Accountancy"
+          ]
+        },
+        {
+          "name": "Course/Programme : Business and Economics",
+          "fields": [
+            "Business Administration",
+            "Economics"
+          ]
+        },
+        {
+          "name": "Course/Programme : Business Management",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Course/Programme : Marketing",
+          "fields": [
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Course/Programme : Public Administration",
+          "fields": [
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "Course/Programme : Secretarial Studies",
+          "fields": [
+            "Secretarial Studies"
+          ]
+        },
+        {
+          "name": "Course/Programme : Tourism and Hotel Management",
+          "fields": [
+            "Hotel Management",
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Finance",
+            "Management",
+            "Marketing",
+            "Public Administration"
+          ]
+        }
+      ],
+      "accreditation": "National Commission for Higher Education (NCHE)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Estifanos Hailemariam"
+        }
+      ],
+      "statistics": {},
+      "history": "Created 2006.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "6961",
+      "iau_id": "IAU-006961",
+      "name": "Hamelmalo Agricultural College",
+      "alt_name": "(HAC)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tQ0RWLDBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-006961",
+      "address": {
+        "City": "Hamelmalo",
+        "Province": "Anseba"
+      },
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [],
+      "faculties": [
+        {
+          "name": "Course/Programme : Agriculture",
+          "fields": [
+            "Agricultural Economics",
+            "Agricultural Engineering",
+            "Agriculture",
+            "Agronomy",
+            "Animal Husbandry",
+            "Crop Production",
+            "Environmental Management",
+            "Environmental Studies",
+            "Horticulture",
+            "Veterinary Science"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Agriculture"
+          ]
+        },
+        {
+          "name": "Master's degree",
+          "fields": [
+            "Agriculture",
+            "Agronomy",
+            "Animal Husbandry",
+            "Environmental Studies",
+            "Horticulture",
+            "Natural Resources"
+          ]
+        }
+      ],
+      "accreditation": "National Commission for Higher Education (NCHE)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Semere Amlesom"
+        }
+      ],
+      "statistics": {},
+      "history": "Created 2006.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "13134",
+      "iau_id": "IAU-013134",
+      "name": "Orotta School of Medicine and Dental Medicine",
+      "alt_name": "(OSM&DM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyxRLFMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-013134",
+      "address": {
+        "Street": "P.O. Box 10549",
+        "City": "Asmara"
+      },
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [],
+      "faculties": [
+        {
+          "name": "Course/Programme : Dentistry",
+          "fields": [
+            "Dentistry"
+          ]
+        },
+        {
+          "name": "Course/Programme : Medicine",
+          "fields": [
+            "Medical Technology",
+            "Medicine",
+            "Obstetrics and Gynaecology",
+            "Paediatrics",
+            "Surgery"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": []
+        },
+        {
+          "name": "Master's degree",
+          "fields": []
+        }
+      ],
+      "accreditation": "National Commission for Higher Education (NCHE)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Yemane Seyum"
+        }
+      ],
+      "statistics": {},
+      "history": "Created 2004.",
+      "periodicals": [],
+      "student_body": null
+    }
+  ]
+}

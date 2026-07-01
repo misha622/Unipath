@@ -1,0 +1,2475 @@
+{
+  "country_name": "Uruguay",
+  "country_id": "Uruguay",
+  "institutions": [
+    {
+      "id": "17480",
+      "iau_id": "IAU-017480",
+      "name": "Business University",
+      "alt_name": "Universidad de la Empresa (UDE)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxULiNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017480",
+      "address": {
+        "Street": "Avenida 8 de Octubre 2738",
+        "City": "Montevideo",
+        "Post Code": "11600",
+        "WWW": "https://ucu.edu.uy"
+      },
+      "website": "https://ucu.edu.uy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1954,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "March to December (March-July; August-December)",
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Continuing Education",
+          "fields": [
+            "Modern Languages"
+          ]
+        },
+        {
+          "name": "Centre : Language",
+          "fields": [
+            "Modern Languages"
+          ]
+        },
+        {
+          "name": "Centre : Writing",
+          "fields": [
+            "Writing"
+          ]
+        },
+        {
+          "name": "Chair : Islam",
+          "fields": [
+            "Nisso Acher"
+          ]
+        },
+        {
+          "name": "Chair : Judaism",
+          "fields": [
+            "Nisso Acher"
+          ]
+        },
+        {
+          "name": "Chair : Logistics",
+          "fields": [
+            "Administration",
+            "Business Administration",
+            "Finance",
+            "International Business"
+          ]
+        },
+        {
+          "name": "Chair : Magallanes: Travels and Ttravelers",
+          "fields": [
+            "Administration",
+            "Business Administration",
+            "Finance",
+            "International Business"
+          ]
+        },
+        {
+          "name": "Chair : Mercosur-ASEAN",
+          "fields": [
+            "Administration",
+            "Business Administration",
+            "Finance",
+            "International Business"
+          ]
+        },
+        {
+          "name": "Department/Division : Economic Situation Observatory",
+          "fields": [
+            "Administration",
+            "Business Administration",
+            "Finance",
+            "International Business"
+          ]
+        },
+        {
+          "name": "Department/Division : Observatory of Energy and Sustainable Development",
+          "fields": [
+            "Administration",
+            "Business Administration",
+            "Finance",
+            "International Business"
+          ]
+        },
+        {
+          "name": "Department/Division : Salto Economic Observatory",
+          "fields": [
+            "Administration",
+            "Business Administration",
+            "Finance",
+            "International Business"
+          ]
+        },
+        {
+          "name": "Faculty : Business Administration",
+          "fields": [
+            "Administration",
+            "Business Administration",
+            "Finance",
+            "International Business"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering and Technologies",
+          "fields": [
+            "Computer Science",
+            "Engineering",
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences",
+          "fields": [
+            "Clinical Psychology",
+            "Dentistry",
+            "Educational Psychology",
+            "Health Sciences",
+            "Industrial and Organizational Psychology",
+            "Neurosciences",
+            "Nursing",
+            "Nutrition",
+            "Physical Therapy",
+            "Psychology",
+            "Social Psychology"
+          ]
+        },
+        {
+          "name": "Faculty : Law and Human Sciences",
+          "fields": [
+            "Arts and Humanities",
+            "Communication Studies",
+            "Education",
+            "Fine Arts",
+            "Law",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Institute : Competitiveness",
+          "fields": [
+            "Economics"
+          ]
+        },
+        {
+          "name": "Institute : History",
+          "fields": [
+            "History"
+          ]
+        },
+        {
+          "name": "Institute : International Business",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Institute : Philosophy",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Institute : Society and Religion",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Institute : Wellness and Health",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Research Division : Marketing and Tourism",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "School : Business",
+          "fields": [
+            "Business Administration"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachillerato",
+          "fields": [
+            "Electrical Engineering",
+            "Engineering"
+          ]
+        },
+        {
+          "name": "Técnico",
+          "fields": [
+            "Business Administration",
+            "Computer Science",
+            "Economics",
+            "Education of the Socially Disadvantaged",
+            "International Business",
+            "Medical Auxiliaries",
+            "Multimedia",
+            "Parks and Recreation",
+            "Primary Education",
+            "Rehabilitation and Therapy",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Accountancy",
+            "Agricultural Management",
+            "Business Administration",
+            "Communication Studies",
+            "Computer Engineering",
+            "Computer Science",
+            "Dentistry",
+            "Economics",
+            "Educational Psychology",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Engineering",
+            "Food Technology",
+            "Human Resources",
+            "Industrial Engineering",
+            "International Business",
+            "International Relations and Diplomacy",
+            "Labour and Industrial Relations",
+            "Law",
+            "Notary Studies",
+            "Nursing",
+            "Nutrition",
+            "Occupational Health",
+            "Physical Therapy",
+            "Political Sciences",
+            "Primary Education",
+            "Psychology",
+            "Radio and Television Broadcasting",
+            "Rehabilitation and Therapy",
+            "Social Work",
+            "Sociology",
+            "Speech Therapy and Audiology",
+            "Systems Analysis",
+            "Telecommunications Engineering",
+            "Tourism",
+            "Transport Management",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Especialización",
+          "fields": [
+            "Banking",
+            "Business Administration",
+            "Civil Law",
+            "Clinical Psychology",
+            "Communication Studies",
+            "Constitutional Law",
+            "Curriculum",
+            "Dentistry",
+            "Developmental Psychology",
+            "Diabetology",
+            "Educational Administration",
+            "Educational and Student Counselling",
+            "Educational Psychology",
+            "Educational Testing and Evaluation",
+            "Endocrinology",
+            "Finance",
+            "Food Technology",
+            "Gerontology",
+            "Health Sciences",
+            "Human Resources",
+            "Human Rights",
+            "Immunology",
+            "Industrial and Organizational Psychology",
+            "Management",
+            "Marketing",
+            "Nursing",
+            "Oncology",
+            "Orthodontics",
+            "Orthopaedics",
+            "Plastic Surgery",
+            "Psychology",
+            "Rehabilitation and Therapy",
+            "Social Psychology",
+            "Social Work",
+            "Special Education",
+            "Taxation"
+          ]
+        },
+        {
+          "name": "Maestría",
+          "fields": [
+            "Business Administration",
+            "Child Care and Development",
+            "Civil Law",
+            "Clinical Psychology",
+            "Cognitive Sciences",
+            "Communication Studies",
+            "Constitutional Law",
+            "Curriculum",
+            "Education",
+            "Educational Administration",
+            "Educational and Student Counselling",
+            "Educational Psychology",
+            "Educational Testing and Evaluation",
+            "Electrical Engineering",
+            "Energy Engineering",
+            "Finance",
+            "Human Rights",
+            "Information Technology",
+            "Law",
+            "Management",
+            "Marketing",
+            "Medicine",
+            "Nutrition",
+            "Political Sciences",
+            "Psychology",
+            "Psychotherapy",
+            "Public Administration",
+            "Public Health",
+            "Special Education"
+          ]
+        },
+        {
+          "name": "Doctorado",
+          "fields": [
+            "Psychology"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio de Educación y Cultura",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Julio Fernández Techera"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Santiago Mercant"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Lucía Caumont"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1954 as Institute of Philosophy, Science and Letters, acquired present status and title 1985",
+      "periodicals": [
+        "Revista académica Ciencias Psicológicas Actas Odontológicas Cuaderno de Economía Cuaderno de Negocios Internacionales e Integración Dixit Estudios Jurídicos Mediálogos Páginas de Educación Prisma Revista Ciencias Sociales",
+        "Revista académica Ciencias Psicológicas",
+        "Actas Odontológicas",
+        "Cuaderno de Economía",
+        "Cuaderno de Negocios Internacionales e Integración",
+        "Dixit",
+        "Estudios Jurídicos",
+        "Mediálogos",
+        "Páginas de Educación",
+        "Prisma",
+        "Revista Ciencias Sociales"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "2397",
+      "iau_id": "IAU-002397",
+      "name": "CLAEH University",
+      "alt_name": "Universidad CLAEH – Universidad Centro Latinoamericano de Economía Humana (CLAEH)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sQyxZLVBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-002397",
+      "address": {
+        "Street": "Cuareim 1451",
+        "City": "Montevideo",
+        "Post Code": "11100",
+        "WWW": "https://www.ort.edu.uy"
+      },
+      "website": "https://www.ort.edu.uy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "March to December (March-July; August-December)",
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Administration and Social Sciences",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Agricultural Business",
+            "Banking",
+            "Business Administration",
+            "Economics",
+            "Finance",
+            "Human Resources",
+            "International Studies",
+            "Management",
+            "Social Sciences",
+            "Tourism",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Faculty : Architecture",
+          "fields": [
+            "Architecture",
+            "Interior Design",
+            "Landscape Architecture",
+            "Management",
+            "Real Estate"
+          ]
+        },
+        {
+          "name": "Faculty : Communication and Design",
+          "fields": [
+            "Advertising and Publicity",
+            "Business and Commerce",
+            "Design",
+            "Fashion Design",
+            "Graphic Design",
+            "Industrial Design",
+            "Interior Design",
+            "Journalism",
+            "Marketing",
+            "Mass Communication",
+            "Media Studies",
+            "Multimedia",
+            "Music",
+            "Public Relations"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Artificial Intelligence",
+            "Biotechnology",
+            "Computer Science",
+            "Electrical and Electronic Engineering",
+            "Electronic Engineering",
+            "Engineering",
+            "Management Systems",
+            "Software Engineering",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Institute : Education",
+          "fields": [
+            "Education",
+            "Educational Research",
+            "English",
+            "Foreign Languages Education",
+            "Higher Education",
+            "Secondary Education",
+            "Teacher Training"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Técnico",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Advertising and Publicity",
+            "Agricultural Business",
+            "Architecture",
+            "Biotechnology",
+            "Business Administration",
+            "Communication Arts",
+            "Communication Studies",
+            "Computer Engineering",
+            "Computer Graphics",
+            "Design",
+            "E-Business/Commerce",
+            "Economics",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Fashion Design",
+            "Graphic Design",
+            "Industrial Design",
+            "Interior Design",
+            "International Studies",
+            "Journalism",
+            "Management",
+            "Marketing",
+            "Mass Communication",
+            "Multimedia",
+            "Radio and Television Broadcasting",
+            "Software Engineering",
+            "Systems Analysis",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Advertising and Publicity",
+            "Agricultural Business",
+            "Architecture",
+            "Biotechnology",
+            "Business Administration",
+            "Communication Arts",
+            "Communication Studies",
+            "Computer Engineering",
+            "Computer Graphics",
+            "Design",
+            "E-Business/Commerce",
+            "Economics",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Fashion Design",
+            "Graphic Design",
+            "Industrial Design",
+            "Interior Design",
+            "International Studies",
+            "Journalism",
+            "Management",
+            "Marketing",
+            "Mass Communication",
+            "Multimedia",
+            "Radio and Television Broadcasting",
+            "Software Engineering",
+            "Systems Analysis",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Especialización",
+          "fields": [
+            "Accountancy",
+            "Architecture",
+            "Artificial Intelligence",
+            "Business and Commerce",
+            "Communication Studies",
+            "Computer Engineering",
+            "Data Science",
+            "Engineering",
+            "Finance",
+            "Human Resources",
+            "Marketing",
+            "Real Estate",
+            "Taxation"
+          ]
+        },
+        {
+          "name": "Maestría",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Communication Studies",
+            "Computer Engineering",
+            "Data Science",
+            "Economics",
+            "Education",
+            "Educational Administration",
+            "Electrical Engineering",
+            "Engineering",
+            "Finance",
+            "Human Resources",
+            "Information Technology",
+            "Marketing",
+            "Software Engineering",
+            "Taxation",
+            "Teacher Training",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Doctorado",
+          "fields": [
+            "Education"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio de Educación y Cultura; Association of MBAs (AMBA), UK; Mecanismo de Acreditación de Calidad Académica Mercosur de Carreras Universitarias (Sistema ARCU-SUR)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Jorge A. Grünberg"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Daniel Oliveri"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Pablo Landoni"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "María del Carmen Azpiroz"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2021-2022",
+        "Staff Full Time Total:": "111",
+        "Students Statistics Year:": "2024-2025",
+        "Students Total:": "5021"
+      },
+      "history": "Founded in 1943 as Instituto Tecnológico ORT, an institution oriented towards vocational-technical education. First university level programmes started in 1984. Acquired present status and title 1996 after reorganization under a new legal framework",
+      "periodicals": [
+        "Anales de Investigación en Arquitectura (Scopus Indexed) Cuadernos de Investigación Educativa InMediaciones de la Comunicación",
+        "Anales de Investigación en Arquitectura (Scopus Indexed)",
+        "Cuadernos de Investigación Educativa",
+        "InMediaciones de la Comunicación"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "8718",
+      "iau_id": "IAU-008718",
+      "name": "Crandon University Institute",
+      "alt_name": "Instituto Universitario Crandon – Instituto Metodista Universitario Crandon (IMUC)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uIzxRLmBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-008718",
+      "address": {
+        "Street": "Avenida 18 de Julio 1824",
+        "City": "Montevideo",
+        "Post Code": "11200",
+        "WWW": "https://udelar.edu.uy"
+      },
+      "website": "https://udelar.edu.uy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1833,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "March to December",
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : Eastern Regional Centre",
+          "fields": [
+            "Agriculture",
+            "Architectural and Environmental Design",
+            "Arts and Humanities",
+            "Earth Sciences",
+            "Ecology",
+            "Education",
+            "Landscape Architecture",
+            "Mathematics",
+            "Regional Planning",
+            "Social Sciences",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Campus : North Coast Regional Centre",
+          "fields": [
+            "Biological and Life Sciences",
+            "Biology",
+            "Forestry",
+            "Natural Resources",
+            "Nursing",
+            "Physical Education"
+          ]
+        },
+        {
+          "name": "Centre : Northeastern Regional Centre",
+          "fields": [
+            "Accountancy",
+            "Agricultural Engineering",
+            "Bioengineering",
+            "Biology",
+            "Design",
+            "Diabetology",
+            "Laboratory Techniques",
+            "Law",
+            "Mathematics",
+            "Medical Technology",
+            "Medicine",
+            "Nursing",
+            "Physical Education",
+            "Physical Therapy",
+            "Psychology",
+            "Radiology",
+            "Rehabilitation and Therapy",
+            "Social Sciences",
+            "Social Work",
+            "Sociology",
+            "Tourism",
+            "Veterinary Science",
+            "Water Science",
+            "Writing"
+          ]
+        },
+        {
+          "name": "Faculty : Agronomy",
+          "fields": [
+            "Agronomy"
+          ]
+        },
+        {
+          "name": "Faculty : Architecture, Design and Urbanism",
+          "fields": [
+            "Architecture",
+            "Design",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "Faculty : Chemistry",
+          "fields": [
+            "Chemistry"
+          ]
+        },
+        {
+          "name": "Faculty : Dentistry",
+          "fields": [
+            "Dental Technology",
+            "Dentistry"
+          ]
+        },
+        {
+          "name": "Faculty : Economics and Administration",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Economics"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Civil Engineering",
+            "Computer Engineering",
+            "Electrical Engineering",
+            "Engineering",
+            "Industrial Engineering",
+            "Marine Engineering",
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Humanities and Educational Sciences",
+          "fields": [
+            "Anthropology",
+            "Arts and Humanities",
+            "Educational Sciences",
+            "History",
+            "Linguistics",
+            "Literature",
+            "Philosophy",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Information and Communication",
+          "fields": [
+            "Communication Studies",
+            "Information Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Medical Auxiliaries",
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Faculty : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Faculty : Psychology",
+          "fields": [
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Faculty : Science",
+          "fields": [
+            "Astronomy and Space Science",
+            "Biochemistry",
+            "Biology",
+            "Geography",
+            "Geology",
+            "Mathematics",
+            "Meteorology",
+            "Natural Sciences",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Faculty : Social Sciences",
+          "fields": [
+            "Political Sciences",
+            "Social Sciences",
+            "Social Work",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Faculty : Veterinary Science",
+          "fields": [
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Institute : Fine Arts",
+          "fields": [
+            "Fine Arts"
+          ]
+        },
+        {
+          "name": "Institute : Hygiene",
+          "fields": [
+            "Hygiene"
+          ]
+        },
+        {
+          "name": "Institute : Physical Education",
+          "fields": [
+            "Physical Education"
+          ]
+        },
+        {
+          "name": "School : Design",
+          "fields": [
+            "Design"
+          ]
+        },
+        {
+          "name": "School : Medical Technology",
+          "fields": [
+            "Medical Technology"
+          ]
+        },
+        {
+          "name": "School : Midwifery",
+          "fields": [
+            "Midwifery"
+          ]
+        },
+        {
+          "name": "School : Music",
+          "fields": [
+            "Music"
+          ]
+        },
+        {
+          "name": "School : Nutrition",
+          "fields": [
+            "Nutrition"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Técnico",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Agricultural Business",
+            "Anatomy",
+            "Art Management",
+            "Chemistry",
+            "Computer Science",
+            "Conducting",
+            "Cosmetology",
+            "Development Studies",
+            "Educational Administration",
+            "Environmental Management",
+            "Fine Arts",
+            "Food Science",
+            "Food Technology",
+            "Haematology",
+            "Health Administration",
+            "Higher Education",
+            "Industrial Maintenance",
+            "Mechanical Equipment and Maintenance",
+            "Medical Auxiliaries",
+            "Mining Engineering",
+            "Musical Instruments",
+            "Natural Resources",
+            "Occupational Health",
+            "Pathology",
+            "Photography",
+            "Podiatry",
+            "Radiology",
+            "Sports",
+            "Surveying and Mapping",
+            "Telecommunications Engineering",
+            "Tourism",
+            "Translation and Interpretation",
+            "Treatment Techniques",
+            "Visual Arts",
+            "Wood Technology",
+            "Writing"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Agricultural Engineering",
+            "Anthropology",
+            "Applied Physics",
+            "Architecture",
+            "Archiving",
+            "Arts and Humanities",
+            "Astronomy and Space Science",
+            "Biochemistry",
+            "Bioengineering",
+            "Biological and Life Sciences",
+            "Biology",
+            "Cardiology",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civil Engineering",
+            "Communication Arts",
+            "Communication Studies",
+            "Computer Engineering",
+            "Computer Graphics",
+            "Computer Science",
+            "Dance",
+            "Dental Hygiene",
+            "Dentistry",
+            "Design",
+            "Development Studies",
+            "Economics",
+            "Education",
+            "Electrical Engineering",
+            "Environmental Management",
+            "Fine Arts",
+            "Food Technology",
+            "Forestry",
+            "Geography",
+            "Geology",
+            "Graphic Design",
+            "Health Administration",
+            "History",
+            "Industrial Chemistry",
+            "Industrial Design",
+            "Industrial Engineering",
+            "International Relations and Diplomacy",
+            "Laboratory Techniques",
+            "Labour and Industrial Relations",
+            "Landscape Architecture",
+            "Law",
+            "Library Science",
+            "Linguistics",
+            "Marine Engineering",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Medical Technology",
+            "Medicine",
+            "Meteorology",
+            "Music",
+            "Musical Instruments",
+            "Natural Resources",
+            "Neurology",
+            "Notary Studies",
+            "Nursing",
+            "Nutrition",
+            "Obstetrics and Gynaecology",
+            "Occupational Therapy",
+            "Ophthalmology",
+            "Pharmacology",
+            "Philosophy",
+            "Physical Education",
+            "Physical Therapy",
+            "Physics",
+            "Physiology",
+            "Pneumology",
+            "Political Sciences",
+            "Production Engineering",
+            "Psychology",
+            "Radiology",
+            "Rehabilitation and Therapy",
+            "Social Sciences",
+            "Social Work",
+            "Sociology",
+            "Speech Therapy and Audiology",
+            "Statistics",
+            "Surveying and Mapping",
+            "Telecommunications Engineering",
+            "Tourism",
+            "Veterinary Science",
+            "Water Science"
+          ]
+        },
+        {
+          "name": "Especialización",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Agriculture",
+            "Agronomy",
+            "Anaesthesiology",
+            "Anatomy",
+            "Architectural and Environmental Design",
+            "Architectural Restoration",
+            "Architecture",
+            "Archiving",
+            "Art Management",
+            "Banking",
+            "Biological and Life Sciences",
+            "Business Administration",
+            "Cardiology",
+            "Chemistry",
+            "Coastal Studies",
+            "Commercial Law",
+            "Community Health",
+            "Computer Engineering",
+            "Computer Science",
+            "Demography and Population",
+            "Dental Technology",
+            "Dentistry",
+            "Dermatology",
+            "Development Studies",
+            "Diabetology",
+            "Economics",
+            "Education",
+            "Electronic Engineering",
+            "Endocrinology",
+            "Energy Engineering",
+            "Engineering Management",
+            "Environmental Studies",
+            "Epidemiology",
+            "Finance",
+            "Fiscal Law",
+            "Food Science",
+            "Forensic Medicine and Dentistry",
+            "Furniture Design",
+            "Gastroenterology",
+            "Gender Studies",
+            "Genetics",
+            "Geography",
+            "Gerontology",
+            "Grammar",
+            "Haematology",
+            "Health Administration",
+            "Health Education",
+            "Health Sciences",
+            "Hepatology",
+            "Higher Education Teacher Training",
+            "Immunology",
+            "Information Sciences",
+            "Information Technology",
+            "International Law",
+            "International Studies",
+            "Justice Administration",
+            "Laboratory Techniques",
+            "Labour Law",
+            "Landscape Architecture",
+            "Law",
+            "Management",
+            "Marketing",
+            "Mathematics",
+            "Mathematics Education",
+            "Medical Parasitology",
+            "Medical Technology",
+            "Medicine",
+            "Microbiology",
+            "Mining Engineering",
+            "Native Language Education",
+            "Nephrology",
+            "Neurology",
+            "Nursing",
+            "Nutrition",
+            "Obstetrics and Gynaecology",
+            "Occupational Health",
+            "Oncology",
+            "Ophthalmology",
+            "Orthodontics",
+            "Orthopaedics",
+            "Otorhinolaryngology",
+            "Paediatrics",
+            "Pathology",
+            "Periodontics",
+            "Pharmacology",
+            "Pharmacy",
+            "Physical Therapy",
+            "Physics",
+            "Plastic Surgery",
+            "Pneumology",
+            "Primary Education",
+            "Private Law",
+            "Psychiatry and Mental Health",
+            "Psychology",
+            "Psychotherapy",
+            "Public Health",
+            "Public Law",
+            "Radiology",
+            "Regional Planning",
+            "Rehabilitation and Therapy",
+            "Rheumatology",
+            "Rural Planning",
+            "Social and Community Services",
+            "Social Policy",
+            "Social Studies",
+            "Social Work",
+            "Sociology",
+            "Software Engineering",
+            "Sports Medicine",
+            "Surgery",
+            "Taxation",
+            "Telecommunications Engineering",
+            "Toxicology",
+            "Transport and Communications",
+            "Treatment Techniques",
+            "Urban Studies",
+            "Urology",
+            "Water Science",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Maestría",
+          "fields": [
+            "Accountancy",
+            "Administrative Law",
+            "Agriculture",
+            "Agronomy",
+            "Animal Husbandry",
+            "Architecture",
+            "Archiving",
+            "Arts and Humanities",
+            "Biological and Life Sciences",
+            "Biomedicine",
+            "Biotechnology",
+            "Business Administration",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civil Engineering",
+            "Clinical Psychology",
+            "Coastal Studies",
+            "Cognitive Sciences",
+            "Commercial Law",
+            "Computer Engineering",
+            "Computer Science",
+            "Demography and Population",
+            "Dentistry",
+            "Development Studies",
+            "Earth Sciences",
+            "Economic and Finance Policy",
+            "Economic History",
+            "Economics",
+            "Education",
+            "Educational Psychology",
+            "Electrical Engineering",
+            "Energy Engineering",
+            "Environmental Engineering",
+            "Environmental Studies",
+            "Epidemiology",
+            "Finance",
+            "Fine Arts",
+            "Food Science",
+            "Food Technology",
+            "Grammar",
+            "Health Administration",
+            "Health Sciences",
+            "Higher Education Teacher Training",
+            "History",
+            "Information Sciences",
+            "Information Technology",
+            "International Law",
+            "International Relations and Diplomacy",
+            "Labour Law",
+            "Latin American Studies",
+            "Law",
+            "Management",
+            "Marketing",
+            "Mass Communication",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Mining Engineering",
+            "Nutrition",
+            "Operations Research",
+            "Paediatrics",
+            "Paper Technology",
+            "Physical Education",
+            "Physical Engineering",
+            "Physics",
+            "Political Sciences",
+            "Psychiatry and Mental Health",
+            "Public Administration",
+            "Public Law",
+            "Regional Planning",
+            "Science Education",
+            "Social Policy",
+            "Social Psychology",
+            "Social Work",
+            "Sociology",
+            "Software Engineering",
+            "Taxation",
+            "Tourism",
+            "Town Planning",
+            "Veterinary Science",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Doctorado",
+          "fields": [
+            "Agriculture",
+            "Animal Husbandry",
+            "Anthropology",
+            "Architecture",
+            "Biological and Life Sciences",
+            "Biomedicine",
+            "Biotechnology",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civil Engineering",
+            "Computer Science",
+            "Demography and Population",
+            "Dentistry",
+            "Earth Sciences",
+            "Economic History",
+            "Economics",
+            "Education",
+            "Electrical Engineering",
+            "Energy Engineering",
+            "Environmental Engineering",
+            "Environmental Studies",
+            "Law",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Philosophy",
+            "Physical Engineering",
+            "Physics",
+            "Political Sciences",
+            "Psychology",
+            "Science Education",
+            "Social Sciences",
+            "Social Work",
+            "Sociology",
+            "Veterinary Science"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio de Educación y Cultura",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Rodrigo Arim"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Álvaro Mombrú"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Luis Leopold"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Gonzalo Vicci"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Karina Thove"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2020-2021",
+        "Staff Full Time Total:": "1562",
+        "Students Statistics Year:": "2020-2021",
+        "Students Total:": "209129"
+      },
+      "history": "Founded 1833 by law and inaugurated 1849 by decree as the Universidad de la República. An autonomous state institution financed by the central government",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "9457",
+      "iau_id": "IAU-009457",
+      "name": "Francisco de Asís University Institute",
+      "alt_name": "Instituto Universitario Francisco de Asis (UNIFA)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMzBVLVBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009457",
+      "address": {
+        "Street": "Soriano 959",
+        "City": "Montevideo",
+        "WWW": "https://ude.edu.uy"
+      },
+      "website": "https://ude.edu.uy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1995,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "March to December (March-July; August-December)",
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Agriculture",
+          "fields": [
+            "Agricultural Engineering",
+            "Agricultural Management",
+            "Agriculture",
+            "Forestry"
+          ]
+        },
+        {
+          "name": "Faculty : Business Administration",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Business and Commerce",
+            "Economics",
+            "Finance",
+            "Human Resources",
+            "International Business",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Design and Communication",
+          "fields": [
+            "Design",
+            "Graphic Design",
+            "Industrial Design"
+          ]
+        },
+        {
+          "name": "Faculty : Educational Sciences",
+          "fields": [
+            "Education",
+            "Physical Education"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Computer Engineering",
+            "Engineering",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Health Science",
+          "fields": [
+            "Health Sciences",
+            "Medical Technology",
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "International Law",
+            "Law"
+          ]
+        },
+        {
+          "name": "School : Business Developpment",
+          "fields": [
+            "Human Resources",
+            "International Business",
+            "Management",
+            "Marketing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Técnico",
+          "fields": [
+            "Computer Science",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Agricultural Engineering",
+            "Agricultural Management",
+            "Business Administration",
+            "Computer Engineering",
+            "Computer Science",
+            "Design",
+            "Economics",
+            "Fashion Design",
+            "Finance",
+            "Graphic Design",
+            "Human Resources",
+            "Industrial Design",
+            "International Business",
+            "Law",
+            "Marketing",
+            "Parks and Recreation",
+            "Physical Education",
+            "Physical Therapy",
+            "Radiology",
+            "Sports",
+            "Transport Management",
+            "Writing"
+          ]
+        },
+        {
+          "name": "Especialización",
+          "fields": [
+            "Human Resources"
+          ]
+        },
+        {
+          "name": "Maestría",
+          "fields": [
+            "Business Administration",
+            "Business and Commerce",
+            "Commercial Law",
+            "Criminology",
+            "Education",
+            "Forensic Medicine and Dentistry",
+            "International Law",
+            "International Relations and Diplomacy",
+            "Marketing",
+            "Regional Studies"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio de Educación y Cultura",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Roberto Brezzo"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Carolina Abuchalja"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1995, acquired present status and title 1998",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "3160",
+      "iau_id": "IAU-003160",
+      "name": "General Directorate of Vocational Technical Education - UTU",
+      "alt_name": "Dirección General de Educación Técnico Profesional - UTU – Universidad del Trabajo del Uruguay (DGETP-UTU)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sUyRWLGBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003160",
+      "address": {
+        "Street": "Casilla de Correo 5021Zelmar Michelini 1220",
+        "City": "Montevideo",
+        "Post Code": "11100",
+        "WWW": "https://universidad.claeh.edu.uy"
+      },
+      "website": "https://universidad.claeh.edu.uy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1957,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Cultural Studies",
+          "fields": [
+            "Art History",
+            "Art Management",
+            "Performing Arts",
+            "Sports Management"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Faculty : Health Administration",
+          "fields": [
+            "Health Administration"
+          ]
+        },
+        {
+          "name": "Faculty : Innovation and Development",
+          "fields": [
+            "Education",
+            "Environmental Studies",
+            "Meteorology",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Local Development",
+          "fields": [
+            "Development Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Faculty : Technology and Education",
+          "fields": [
+            "Educational Technology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Técnico",
+          "fields": [
+            "Art Management"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Art Management",
+            "Law",
+            "Medicine",
+            "Notary Studies"
+          ]
+        },
+        {
+          "name": "Especialización",
+          "fields": [
+            "Art History",
+            "Haematology",
+            "Health Administration",
+            "Higher Education Teacher Training",
+            "Secondary Education"
+          ]
+        },
+        {
+          "name": "Maestría",
+          "fields": [
+            "Educational Administration",
+            "Educational Technology",
+            "Health Administration",
+            "Higher Education Teacher Training",
+            "History",
+            "Humanities and Social Science Education",
+            "Primary Education",
+            "Regional Studies",
+            "Secondary Education"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio de Educación y Cultura",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Carlos de Cores Helguera"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Gabriela Gorriti"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Leopoldo Font Echarte"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1957. Acquired present status 1997",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "18834",
+      "iau_id": "IAU-018834",
+      "name": "Polytechnic of Punta del Este",
+      "alt_name": "Instituto Universitario Politécnico de Punta del Este",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BYLFMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018834",
+      "address": {
+        "Street": "Juan Ramón Gomez 2706",
+        "City": "Montevideo",
+        "Post Code": "11600",
+        "WWW": "https://www.universitariocrandon.edu.uy"
+      },
+      "website": "https://www.universitariocrandon.edu.uy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1906,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Business Administration",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Course/Programme : English Language Translation",
+          "fields": [
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Course/Programme : Secretarial Studies",
+          "fields": [
+            "Secretarial Studies"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Técnico",
+          "fields": [
+            "Business Administration",
+            "Secretarial Studies"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Especialización",
+          "fields": [
+            "Translation and Interpretation"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio de Educación y Cultura",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Richard Millán"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Araceli Ezzatti"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1906",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "23505",
+      "iau_id": "IAU-023505",
+      "name": "Technological University of Uruguay",
+      "alt_name": "Universidad Tecnológica del Uruguay (UTEC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyxVLCM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-023505",
+      "address": {
+        "Street": "25 de Mayo 710 esquina Román Guerra",
+        "City": "Maldonado",
+        "Post Code": "20000",
+        "WWW": "https://www.unifa.edu.uy"
+      },
+      "website": "https://www.unifa.edu.uy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1988,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Administration",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Business Administration",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Social Sciences",
+          "fields": [
+            "Psychology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Business Administration",
+            "Psychology",
+            "Tourism"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio de Educación y Cultura",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "David Amorín"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1988",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "9321",
+      "iau_id": "IAU-009321",
+      "name": "University Institute CEDIIAP",
+      "alt_name": "Instituto Universitario Centro de Docencia, Investigación e Información en Aprendizaje – Instituto Universitario CEDIIAP (CEDIIAP)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMyxSLDBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009321",
+      "address": {
+        "Street": "San Salvador 1674",
+        "City": "Montevideo",
+        "Post Code": "11200",
+        "WWW": "https://www.utu.edu.uy"
+      },
+      "website": "https://www.utu.edu.uy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1878,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : Central",
+          "fields": [
+            "Agriculture",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Campus : Eastern",
+          "fields": [
+            "Agriculture",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Campus : Northeastern",
+          "fields": [
+            "Agriculture",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Campus : Northern Coast",
+          "fields": [
+            "Agriculture",
+            "Engineering",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Campus : Southern Coast",
+          "fields": [
+            "Agriculture",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Basic Education",
+          "fields": [
+            "Architecture"
+          ]
+        },
+        {
+          "name": "Course/Programme : Tertiary Education",
+          "fields": [
+            "Architecture"
+          ]
+        },
+        {
+          "name": "Department/Division : Aeronautical Engineering",
+          "fields": [
+            "Architecture"
+          ]
+        },
+        {
+          "name": "Department/Division : Architecture",
+          "fields": [
+            "Architecture"
+          ]
+        },
+        {
+          "name": "Department/Division : Maritime Engineering",
+          "fields": [
+            "Marine Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Técnico",
+          "fields": [
+            "Administration",
+            "Advertising and Publicity",
+            "Agriculture",
+            "Architecture",
+            "Automotive Engineering",
+            "Building Technologies",
+            "Computer Graphics",
+            "Computer Networks",
+            "Computer Science",
+            "Cooking and Catering",
+            "Crop Production",
+            "Dairy",
+            "Electrical and Electronic Engineering",
+            "Electrical and Electronic Equipment and Maintenance",
+            "Electronic Engineering",
+            "Electronics and Automation",
+            "Environmental Management",
+            "Environmental Studies",
+            "Finance",
+            "Fishery",
+            "Forestry",
+            "Graphic Design",
+            "House Arts and Environment",
+            "Human Resources",
+            "Industrial Maintenance",
+            "Law",
+            "Marketing",
+            "Mechanical Equipment and Maintenance",
+            "Media Studies",
+            "Parks and Recreation",
+            "Public Relations",
+            "Radio and Television Broadcasting",
+            "Real Estate",
+            "Sanitary Engineering",
+            "Secretarial Studies",
+            "Software Engineering",
+            "Sports",
+            "Telecommunications Engineering",
+            "Tourism",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Especialización",
+          "fields": [
+            "Dairy",
+            "Energy Engineering",
+            "Radio and Television Broadcasting",
+            "Transport Management"
+          ]
+        }
+      ],
+      "accreditation": "Dirección General de Educación Técnico Profesional, Administración Nacional de Educación Pública (ANEP)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Juan Pereyra"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Laura Otamendi"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Lila Curbelo Salvo"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2020-2021",
+        "Staff Full Time Total:": "14134",
+        "Students Statistics Year:": "2020-2021",
+        "Students Total:": "104320"
+      },
+      "history": "Founded 1878 as Escuela Nacional de Artes y Oficios, changed name into Dirección General de Enseñanza Industrial 1916, Universidad del Trabajo del Uruguay (UTU) 1942, Consejo de Educación Técnico-Profesional (CETP) 1985",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "9343",
+      "iau_id": "IAU-009343",
+      "name": "University Institute of Postgraduate Studies in Psychoanalysis",
+      "alt_name": "Instituto Universitario de Postgrado en Psicoanálisis – Instituto Universitario de Posgrado en Psicoanálisis de la Asociación Psicoanalítica del Uruguay (IUPP)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMyxULFBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009343",
+      "address": {
+        "Street": "Casona de Gorlero18 de Julio y Treinta y Tres",
+        "City": "Maldonado",
+        "Post Code": "20000",
+        "WWW": "http://www.politecnico.edu.uy"
+      },
+      "website": "http://www.politecnico.edu.uy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1997,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Accountancy",
+          "fields": [
+            "Accountancy"
+          ]
+        },
+        {
+          "name": "Course/Programme : Business Administration",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Course/Programme : Economics and Finance",
+          "fields": [
+            "Economics",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Course/Programme : Innovation Management",
+          "fields": [
+            "Design",
+            "Economics",
+            "Marketing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Accountancy",
+            "Economics",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Especialización",
+          "fields": [
+            "Management"
+          ]
+        },
+        {
+          "name": "Maestría",
+          "fields": [
+            "Business Administration"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio de Educación y Cultura",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Alfredo Pignatta"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Julio Rius"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Ricardo Pascale"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1997",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "23264",
+      "iau_id": "IAU-009343-023264",
+      "name": "University Institute of Postgraduate Studies in Psychoanalysis – Postgraduate University Institute of AUDEPP",
+      "alt_name": "Instituto Universitario de Postgrado en Psicoanálisis – Instituto Universitario de Postgrado de AUDEPP – Instituto Universitario de Asociación Uruguaya de Psicoterapia Psicoanalítica (IUPA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyxSLUMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009343-023264",
+      "address": {
+        "Street": "Av. Italia 6201, Edificio Los Talas",
+        "City": "Montevideo",
+        "Post Code": "11500",
+        "WWW": "https://utec.edu.uy"
+      },
+      "website": "https://utec.edu.uy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2012,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Agri-environmental Engineering",
+          "fields": [
+            "Agricultural Engineering",
+            "Environmental Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Biomedical Engineering",
+          "fields": [
+            "Biomedical Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Computer Science",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Course/Programme : Dairy Science and Technology",
+          "fields": [
+            "Dairy",
+            "Food Science",
+            "Food Technology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Data Science",
+          "fields": [
+            "Data Science"
+          ]
+        },
+        {
+          "name": "Course/Programme : Engineering in Irrigation, Drainage and Effluent Management Systems",
+          "fields": [
+            "Hydraulic Engineering",
+            "Irrigation"
+          ]
+        },
+        {
+          "name": "Course/Programme : Food Analysis",
+          "fields": [
+            "Food Science"
+          ]
+        },
+        {
+          "name": "Course/Programme : Industrial Mechatronics",
+          "fields": [
+            "Electronics and Automation"
+          ]
+        },
+        {
+          "name": "Course/Programme : Information Technology",
+          "fields": [
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Jazz and Creative Music",
+          "fields": [
+            "Jazz and Popular Music"
+          ]
+        },
+        {
+          "name": "Course/Programme : Logistics Engineering",
+          "fields": [
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Management of Dairy Production System",
+          "fields": [
+            "Agricultural Management",
+            "Dairy"
+          ]
+        },
+        {
+          "name": "Course/Programme : Mechatronics",
+          "fields": [
+            "Electronics and Automation"
+          ]
+        },
+        {
+          "name": "Course/Programme : Renewable Energy Engineering",
+          "fields": [
+            "Energy Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Robotics and Artificial Intelligence",
+          "fields": [
+            "Artificial Intelligence",
+            "Robotics"
+          ]
+        },
+        {
+          "name": "Course/Programme : Technician in Chemistry",
+          "fields": [
+            "Chemistry"
+          ]
+        },
+        {
+          "name": "Course/Programme : Technician in Mechanics",
+          "fields": [
+            "Mechanical Equipment and Maintenance"
+          ]
+        },
+        {
+          "name": "Course/Programme : Technician in Systems Analysis and Development",
+          "fields": [
+            "Systems Analysis"
+          ]
+        },
+        {
+          "name": "Institute : Central-Southern Regional Technological Institutes (ITR)",
+          "fields": [
+            "Agricultural Engineering",
+            "Energy Engineering",
+            "Environmental Engineering",
+            "Hydraulic Engineering",
+            "Information Technology",
+            "Irrigation"
+          ]
+        },
+        {
+          "name": "Institute : Northern Regional Technological Institutes (ITR)",
+          "fields": [
+            "Agricultural Management",
+            "Electronics and Automation",
+            "Robotics",
+            "Systems Analysis",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Institute : Southwestern Regional Technological Institutes (ITR)",
+          "fields": [
+            "Agricultural Management",
+            "Biomedical Engineering",
+            "Chemistry",
+            "Computer Science",
+            "Dairy",
+            "Electronics and Automation",
+            "Food Technology",
+            "Industrial Maintenance",
+            "Information Technology",
+            "Jazz and Popular Music",
+            "Mechanical Equipment and Maintenance",
+            "Transport Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Técnico",
+          "fields": [
+            "Agricultural Management",
+            "Chemistry",
+            "Computer Science",
+            "Dairy",
+            "Electronics and Automation",
+            "Jazz and Popular Music",
+            "Mechanical Equipment and Maintenance",
+            "Systems Analysis"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Agricultural Engineering",
+            "Biomedical Engineering",
+            "Dairy",
+            "Electronics and Automation",
+            "Energy Engineering",
+            "Environmental Engineering",
+            "Food Science",
+            "Food Technology",
+            "Hydraulic Engineering",
+            "Information Technology",
+            "Irrigation",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Especialización",
+          "fields": [
+            "Artificial Intelligence",
+            "Robotics"
+          ]
+        },
+        {
+          "name": "Maestría",
+          "fields": [
+            "Data Science"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio de Educación y Cultura",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Amadeo Sosa Santillán"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Juan Trujillo"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Elianne Elbaum"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2012",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "17543",
+      "iau_id": "IAU-017543",
+      "name": "University of Montevideo",
+      "alt_name": "Universidad de Montevideo (UM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxVLSMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017543",
+      "address": {
+        "Street": "Bv España 2433",
+        "City": "Montevideo",
+        "WWW": "https://cediiap.edu.uy"
+      },
+      "website": "https://cediiap.edu.uy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1995,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Art Therapy",
+          "fields": [
+            "Art Therapy"
+          ]
+        },
+        {
+          "name": "Course/Programme : Educational Psychology",
+          "fields": [
+            "Educational Psychology",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Psychomotricity",
+          "fields": [
+            "Rehabilitation and Therapy"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Art Therapy",
+            "Educational Psychology",
+            "Rehabilitation and Therapy"
+          ]
+        },
+        {
+          "name": "Especialización",
+          "fields": [
+            "Education",
+            "Special Education"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio de Educación y Cultura",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Valeria Fraga Quiñones"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1995. Acquired present status 2001",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "9310",
+      "iau_id": "IAU-009310",
+      "name": "Uruguayan University Institute for the Study and Diagnosis of Malocclusions",
+      "alt_name": "Instituto Universitario Centro de Estudio y Diagnóstico de las Disgnacias del Uruguay – Uruguayan University Institute for the Study and Diagnosis of Malocclusions (IUCEDDU)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMyxRLGBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009310",
+      "address": {
+        "Street": "Canelones 1571",
+        "City": "Montevideo",
+        "WWW": "https://apuruguay.org"
+      },
+      "website": "https://apuruguay.org",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1955,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Psychoanalysis",
+          "fields": [
+            "Psychoanalysis"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Maestría",
+          "fields": [
+            "Psychoanalysis"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio de Educación y Cultura; Ministerio de Salud Pública",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Clara Uriarte"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Ana María Chabalgoity"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1955",
+      "periodicals": [
+        "Revista Uruguaya de Psicoanálisis",
+        "Revista Uruguaya de Psicoanálisis"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "9315",
+      "iau_id": "IAU-009315",
+      "name": "YMCA University Institute",
+      "alt_name": "Instituto Universitario Asociación Cristiana de Jóvenes (IUACJ)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMyxRLTBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009315",
+      "address": {
+        "Street": "Canelones 2208",
+        "City": "Montevideo",
+        "Post Code": "11200",
+        "WWW": "http://www.audepp.org"
+      },
+      "website": "http://www.audepp.org",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1990,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Psychoanalytic Psychotherapy",
+          "fields": [
+            "Psychoanalysis",
+            "Psychotherapy"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Especialización",
+          "fields": [
+            "Psychoanalysis",
+            "Psychotherapy"
+          ]
+        },
+        {
+          "name": "Maestría",
+          "fields": [
+            "Psychoanalysis",
+            "Psychotherapy"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio de Educación y Cultura",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Germán Somma"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Pía Correas"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1990",
+      "periodicals": [],
+      "student_body": "co-ed"
+    }
+  ]
+}

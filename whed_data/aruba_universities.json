@@ -1,0 +1,166 @@
+{
+  "country_name": "Aruba",
+  "country_id": "Aruba",
+  "institutions": [
+    {
+      "id": "23297",
+      "iau_id": "IAU-023297",
+      "name": "Aruba Pedagogical Institute",
+      "alt_name": "Instituto Pedagogico Arubano (IPA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyxSLjM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-023297",
+      "address": {
+        "Street": "Isaac Wagemakerstraat 11",
+        "City": "San Nicolas",
+        "WWW": "https://www.ipaaruba.com"
+      },
+      "website": "https://www.ipaaruba.com",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1990,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Dutch"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Educational Needs",
+          "fields": [
+            "Special Education"
+          ]
+        },
+        {
+          "name": "Course/Programme : Teacher Training",
+          "fields": [
+            "Preschool Education",
+            "Primary Education",
+            "Secondary Education"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Primary Education"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Special Education"
+          ]
+        }
+      ],
+      "accreditation": "Department of Education Aruba (DEA)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Marilyn Richardson"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1990",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "23217",
+      "iau_id": "IAU-023217",
+      "name": "University of Aruba",
+      "alt_name": "(UA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyxSLDM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-023217",
+      "address": {
+        "Street": "J. Irausquinplein 4",
+        "City": "Oranjestad",
+        "WWW": "http://www.ua.aw"
+      },
+      "website": "http://www.ua.aw",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1988,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English",
+        "Dutch"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Accounting, Finance and Marketing",
+          "fields": [
+            "Accountancy",
+            "Finance",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Arts and Science",
+          "fields": [
+            "Management",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Faculty : Hospitality and Tourism Management",
+          "fields": [
+            "Hotel and Restaurant",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Law"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Accountancy",
+            "Development Studies",
+            "Engineering",
+            "Finance",
+            "Hotel and Restaurant",
+            "Law",
+            "Management",
+            "Marketing",
+            "Mathematics",
+            "Natural Sciences",
+            "Social Work",
+            "Technology",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Business Administration",
+            "International Business",
+            "Law",
+            "Tourism"
+          ]
+        }
+      ],
+      "accreditation": "Department of Education Aruba (DEA)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Viola Heutger"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1988",
+      "periodicals": [],
+      "student_body": null
+    }
+  ]
+}

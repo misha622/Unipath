@@ -1,0 +1,3413 @@
+{
+  "country_name": "Denmark",
+  "country_id": "Denmark",
+  "institutions": [
+    {
+      "id": "9",
+      "iau_id": "IAU-000009",
+      "name": "Aalborg University",
+      "alt_name": "Aalborg Universitet (AAU)",
+      "detail_url": "https://whed.net/detail_institution.php?JDo2MF0uMGBgCmAK",
+      "iau_link": "https://www.whed.net/institutions/IAU-000009",
+      "address": {
+        "Street": "Universitetsvej 1Postboks 260",
+        "City": "Roskilde",
+        "Post Code": "4000",
+        "WWW": "https://ruc.dk"
+      },
+      "website": "https://ruc.dk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1972,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June",
+      "languages": [
+        "Danish",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Communication and Arts",
+          "fields": [
+            "Arts and Humanities",
+            "Communication Studies",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Department/Division : People and Technology",
+          "fields": [
+            "Computer Science",
+            "Design",
+            "Information Technology",
+            "Management",
+            "Sociology",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "Department/Division : Science and Environment",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Environmental Management",
+            "Environmental Studies",
+            "Mathematics",
+            "Molecular Biology",
+            "Natural Sciences",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Department/Division : Social Sciences and Business",
+          "fields": [
+            "Business Administration",
+            "Business and Commerce",
+            "Development Studies",
+            "International Studies",
+            "Leadership",
+            "Political Sciences",
+            "Public Administration",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "School : Doctoral School of Communication and Arts",
+          "fields": [
+            "Communication Arts",
+            "Communication Studies"
+          ]
+        },
+        {
+          "name": "School : Doctoral School of People and Technology",
+          "fields": [
+            "Educational Sciences",
+            "Information Technology",
+            "Social Psychology",
+            "Sociology",
+            "Urban Studies"
+          ]
+        },
+        {
+          "name": "School : Doctoral School of Science and Environment",
+          "fields": [
+            "Biology",
+            "Cell Biology",
+            "Chemistry",
+            "Ecology",
+            "Environmental Management",
+            "Mathematics",
+            "Molecular Biology",
+            "Physics",
+            "Physiology"
+          ]
+        },
+        {
+          "name": "School : Doctoral School of Social Sciences and Business",
+          "fields": [
+            "Business and Commerce",
+            "International Studies",
+            "Public Administration",
+            "Social Studies"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelorgrad (Bachelor's degree)",
+          "fields": [
+            "Arts and Humanities",
+            "Natural Sciences",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Kandidatgrad (Master's degree)",
+          "fields": [
+            "Biology",
+            "Business Administration",
+            "Chemistry",
+            "Communication Studies",
+            "Cultural Studies",
+            "Design",
+            "Environmental Management",
+            "Information Technology",
+            "International Studies",
+            "Mathematics",
+            "Physics",
+            "Sociology",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "Ph.d.-grad (PhD degree)",
+          "fields": [
+            "Biology",
+            "Business and Commerce",
+            "Cell Biology",
+            "Chemistry",
+            "Communication Studies",
+            "Ecology",
+            "Educational Sciences",
+            "Environmental Management",
+            "Information Technology",
+            "International Studies",
+            "Mathematics",
+            "Molecular Biology",
+            "Physics",
+            "Physiology",
+            "Public Administration",
+            "Social Psychology",
+            "Social Studies",
+            "Urban Studies"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education and Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Rasmus Antoft"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Henrik Zobbe"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Helle Rod Søgaard"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2020-2021",
+        "Staff Full Time Total:": "348",
+        "Students Statistics Year:": "2020-2021",
+        "Students Total:": "7610"
+      },
+      "history": "Founded 1972 by Government decree. A State Institution employing new teaching and learning methods based on an 'integrated' approach to higher education and placing emphasis on group work",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "1084",
+      "iau_id": "IAU-001084",
+      "name": "Aarhus School of Architecture",
+      "alt_name": "Arkitektskolen Aarhus",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sM2BYLWBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-001084",
+      "address": {
+        "Street": "Krystalgade 25",
+        "City": "København",
+        "Post Code": "1172",
+        "WWW": "https://www.ku.dk"
+      },
+      "website": "https://www.ku.dk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1479,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June (September-January; February-June)",
+      "languages": [
+        "Danish",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Health and Medical Sciences",
+          "fields": [
+            "Dentistry",
+            "Medicine",
+            "Pharmacology",
+            "Public Health",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Faculty : Humanities",
+          "fields": [
+            "Arts and Humanities",
+            "Cultural Studies",
+            "English",
+            "Germanic Languages",
+            "Information Sciences",
+            "Library Science",
+            "Linguistics",
+            "Media Studies",
+            "Nordic Studies",
+            "Regional Studies",
+            "Romance Languages"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Science",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Environmental Studies",
+            "Food Science",
+            "Mathematics",
+            "Nanotechnology",
+            "Natural Resources",
+            "Natural Sciences",
+            "Nutrition",
+            "Physics",
+            "Science Education",
+            "Sports"
+          ]
+        },
+        {
+          "name": "Faculty : Social Sciences",
+          "fields": [
+            "Anthropology",
+            "Economics",
+            "Political Sciences",
+            "Psychology",
+            "Social Sciences",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Faculty : Theology",
+          "fields": [
+            "African Studies",
+            "Religious Studies",
+            "Theology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelorgrad (Bachelor's degree)",
+          "fields": [
+            "Arts and Humanities",
+            "Health Sciences",
+            "Law",
+            "Medical Science",
+            "Medicine",
+            "Natural Sciences",
+            "Social Sciences",
+            "Theology",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Kandidatgrad (Master's degree)",
+          "fields": [
+            "Arts and Humanities",
+            "Health Sciences",
+            "Law",
+            "Medical Science",
+            "Natural Sciences",
+            "Political Sciences",
+            "Social Sciences",
+            "Theology",
+            "Veterinary Science"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education and Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Henrik C. Wegener"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Søren Munk Skydsgaard"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Anne Bruun"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1479. Acquired present status 2007 following the merger between the former Den Kgl. Veterinær- og Landbohøjskole (The Royal Veterinary and Agricultural University) and the Danmarks Farmaceutiske Universitet (The Danish University of Pharmaceutical Sciences). Financed by the State",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "24220",
+      "iau_id": "IAU-024220",
+      "name": "Aarhus School of Marine and Technical Engineering",
+      "alt_name": "Aarhus Maskinmesterskole",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBSLENgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024220",
+      "address": {
+        "Street": "Postboks 159Fredrik Bajers vej 5",
+        "City": "Aalborg",
+        "Post Code": "9100",
+        "WWW": "https://www.aau.dk"
+      },
+      "website": "https://www.aau.dk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1974,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June (September-January; February-June)",
+      "languages": [
+        "Danish",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Engineering and Science",
+          "fields": [
+            "Architecture",
+            "Biotechnology",
+            "Building Technologies",
+            "Chemistry",
+            "Civil Engineering",
+            "Computer Science",
+            "Design",
+            "Development Studies",
+            "Education",
+            "Electrical and Electronic Engineering",
+            "Electrical Engineering",
+            "Energy Engineering",
+            "Engineering",
+            "Environmental Engineering",
+            "Health Sciences",
+            "Industrial Engineering",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Nanotechnology",
+            "Natural Sciences",
+            "Pedagogy",
+            "Physics",
+            "Production Engineering",
+            "Surveying and Mapping",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Humanities",
+          "fields": [
+            "Arts and Humanities",
+            "Communication Studies",
+            "Cultural Studies",
+            "Education",
+            "History",
+            "International Studies",
+            "Modern Languages",
+            "Pedagogy",
+            "Philosophy",
+            "Philosophy of Education",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Faculty : Social Sciences",
+          "fields": [
+            "Business Administration",
+            "Cultural Studies",
+            "Education",
+            "International Studies",
+            "Law",
+            "Management",
+            "Pedagogy",
+            "Philosophy of Education",
+            "Political Sciences",
+            "Social Sciences",
+            "Social Studies",
+            "Social Work",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Research Division : Building",
+          "fields": [
+            "Administration",
+            "Building Technologies",
+            "Communication Studies",
+            "Energy Engineering",
+            "Environmental Engineering",
+            "Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelorgrad (Bachelor's degree)",
+          "fields": [
+            "Arts and Humanities",
+            "Engineering",
+            "Natural Sciences",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Professionsbachelorgrad (Professional Bachelor’s degree)",
+          "fields": [
+            "Arts and Humanities",
+            "Engineering",
+            "Natural Sciences",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Kandidatgrad (Master's degree)",
+          "fields": [
+            "Arts and Humanities",
+            "Engineering",
+            "Natural Sciences",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Ph.d.-grad (PhD degree)",
+          "fields": [
+            "Arts and Humanities",
+            "Biomedicine",
+            "Engineering",
+            "Medicine",
+            "Natural Sciences",
+            "Social Sciences"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education and Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Per Michael Johansen"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Inger Askehave"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Birgitta S. Madsen"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1974. A State Institution incorporating previously established Centres of Education in Aalborg and employing new teaching and learning methods based on an 'integrated' approach to higher education, with emphasis on project work in groups. Financed by the State. The University has Departments in Esbjerg and Copenhagen",
+      "periodicals": [
+        "Årsberetning Uglen",
+        "Årsberetning",
+        "Uglen"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "15",
+      "iau_id": "IAU-000015",
+      "name": "Aarhus University",
+      "alt_name": "Århus Universitet",
+      "detail_url": "https://whed.net/detail_institution.php?JTo2MF0sMzRgCmAK",
+      "iau_link": "https://www.whed.net/institutions/IAU-000015",
+      "address": {
+        "Street": "Nørreport 20",
+        "City": "Aarhus C",
+        "Post Code": "8000",
+        "WWW": "https://aarch.dk"
+      },
+      "website": "https://aarch.dk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1965,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June (September-January; February-June)",
+      "languages": [
+        "Danish"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Architectural Heritage",
+          "fields": [
+            "Architecture"
+          ]
+        },
+        {
+          "name": "Department/Division : Architecture",
+          "fields": [
+            "Architecture"
+          ]
+        },
+        {
+          "name": "Department/Division : Design",
+          "fields": [
+            "Design"
+          ]
+        },
+        {
+          "name": "Department/Division : Urbanism and Landscape",
+          "fields": [
+            "Architecture",
+            "Landscape Architecture",
+            "Town Planning",
+            "Urban Studies"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelorgrad (Bachelor's degree)",
+          "fields": [
+            "Architecture"
+          ]
+        },
+        {
+          "name": "Kandidatgrad (Master's degree)",
+          "fields": [
+            "Architecture"
+          ]
+        },
+        {
+          "name": "Ph.d.-grad (PhD degree)",
+          "fields": [
+            "Architecture"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education and Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Torben Nielsen"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Kristine Leth Juul"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1965",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "27242",
+      "iau_id": "IAU-027242",
+      "name": "Business Academy Aarhus",
+      "alt_name": "Erhvervsakademi Aarhus",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzxSLSMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-027242",
+      "address": {
+        "Street": "Inge Lehmanns Gade 10",
+        "City": "Aarhus C",
+        "Post Code": "8000",
+        "WWW": "https://www.aams.dk"
+      },
+      "website": "https://www.aams.dk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Danish",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Marine Engineering",
+          "fields": [
+            "Marine Engineering",
+            "Marine Transport"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Professionsbachelorgrad (4 yr Professional Bachelor’s degree)",
+          "fields": [
+            "Marine Engineering",
+            "Marine Transport"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education and Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Martin Lindgaard Pedersen"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Sharon Wilkins"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded as Aarhus Mechanical School, 1896. Acquired present title and status 1968",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "6978",
+      "iau_id": "IAU-006978",
+      "name": "Copenhagen Business School",
+      "alt_name": "Copenhagen Business School - Handelshøjskolen i København (CBS)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tQ0RXLmBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-006978",
+      "address": {
+        "Street": "Nordre Ringgade 1",
+        "City": "Aarhus",
+        "Post Code": "8000",
+        "WWW": "https://www.au.dk"
+      },
+      "website": "https://www.au.dk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1928,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June (September-December; February-June)",
+      "languages": [
+        "Danish",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Aesthetics and Communication",
+          "fields": [
+            "Anthropology",
+            "Arts and Humanities",
+            "Cultural Studies",
+            "Fine Arts",
+            "Mass Communication",
+            "Modern Languages",
+            "Musicology"
+          ]
+        },
+        {
+          "name": "Department/Division : Agroecology",
+          "fields": [
+            "Agriculture",
+            "Ecology",
+            "Environmental Management",
+            "Natural Resources"
+          ]
+        },
+        {
+          "name": "Department/Division : Animal Science",
+          "fields": [
+            "Veterinary Science",
+            "Zoology"
+          ]
+        },
+        {
+          "name": "Department/Division : Biomedicine",
+          "fields": [
+            "Biomedicine"
+          ]
+        },
+        {
+          "name": "Department/Division : Bioscience",
+          "fields": [
+            "Biological and Life Sciences"
+          ]
+        },
+        {
+          "name": "Department/Division : Business Administration",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Department/Division : Business Communication",
+          "fields": [
+            "Business and Commerce",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Department/Division : Chemistry",
+          "fields": [
+            "Chemistry"
+          ]
+        },
+        {
+          "name": "Department/Division : Clinical Medicine",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Department/Division : Computer Science",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Department/Division : Culture and Society",
+          "fields": [
+            "Anthropology",
+            "Arabic",
+            "Archaeology",
+            "Chinese",
+            "Eastern European Studies",
+            "History",
+            "Japanese",
+            "Philosophy",
+            "Religion",
+            "South Asian Studies"
+          ]
+        },
+        {
+          "name": "Department/Division : Dentistry",
+          "fields": [
+            "Dentistry"
+          ]
+        },
+        {
+          "name": "Department/Division : Economics and Business",
+          "fields": [
+            "Business Administration",
+            "Economics"
+          ]
+        },
+        {
+          "name": "Department/Division : Education",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Department/Division : Engineering",
+          "fields": [
+            "Engineering"
+          ]
+        },
+        {
+          "name": "Department/Division : Environmental Science",
+          "fields": [
+            "Environmental Management",
+            "Environmental Studies",
+            "Natural Resources"
+          ]
+        },
+        {
+          "name": "Department/Division : Food Science",
+          "fields": [
+            "Food Science"
+          ]
+        },
+        {
+          "name": "Department/Division : Forensic Medicine",
+          "fields": [
+            "Forensic Medicine and Dentistry"
+          ]
+        },
+        {
+          "name": "Department/Division : Geoscience",
+          "fields": [
+            "Earth Sciences",
+            "Geology"
+          ]
+        },
+        {
+          "name": "Department/Division : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Department/Division : Mathematics",
+          "fields": [
+            "Mathematics"
+          ]
+        },
+        {
+          "name": "Department/Division : Molecular Biology and Genetics",
+          "fields": [
+            "Genetics",
+            "Molecular Biology"
+          ]
+        },
+        {
+          "name": "Department/Division : Physics and Astronomy",
+          "fields": [
+            "Astronomy and Space Science",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Department/Division : Political Science and Government",
+          "fields": [
+            "Government",
+            "Political Sciences"
+          ]
+        },
+        {
+          "name": "Department/Division : Psychology and Behavioural Sciences",
+          "fields": [
+            "Behavioural Sciences",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Department/Division : Public Health",
+          "fields": [
+            "Public Health"
+          ]
+        },
+        {
+          "name": "School : Engineering",
+          "fields": [
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Engineering",
+            "Mechanical Engineering",
+            "Power Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelorgrad (Bachelor's degree)",
+          "fields": [
+            "Agriculture",
+            "Animal Husbandry",
+            "Arts and Humanities",
+            "Business Administration",
+            "Economics",
+            "Engineering",
+            "Food Science",
+            "Health Sciences",
+            "Mathematics",
+            "Natural Sciences",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Kandidatgrad (Master's degree)",
+          "fields": [
+            "Agriculture",
+            "Arts and Humanities",
+            "Dentistry",
+            "Education",
+            "Engineering",
+            "Health Sciences",
+            "Information Sciences",
+            "Medicine",
+            "Natural Sciences",
+            "Philosophy",
+            "Public Health",
+            "Sports"
+          ]
+        },
+        {
+          "name": "Ph.d.-grad (PhD degree)",
+          "fields": [
+            "Arts and Humanities",
+            "Engineering",
+            "Health Sciences",
+            "Natural Sciences"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education and Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Brian Bech Nielsen"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Berit Eika"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Kristian Thorn"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Michael Winther"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1928 by municipal authorities, recognized by Parliament 1931, and awarded Government grant. Achieved full University status 1934. Became State Institution 1970 under the supervision of the Ministry of Education",
+      "periodicals": [
+        "Acta Jutlandica",
+        "Acta Jutlandica"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "24219",
+      "iau_id": "IAU-024219",
+      "name": "Copenhagen School of Marine Engineering and Technology Management",
+      "alt_name": "Maskinmesterskolen København",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBSLDNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024219",
+      "address": {
+        "Street": "Sønderhøj 30",
+        "City": "Viby J",
+        "Post Code": "8260",
+        "WWW": "https://www.baaa.dk"
+      },
+      "website": "https://www.baaa.dk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2009,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Danish",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Economics",
+          "fields": [
+            "Economics"
+          ]
+        },
+        {
+          "name": "Course/Programme : Finance",
+          "fields": [
+            "Finance"
+          ]
+        },
+        {
+          "name": "Course/Programme : Food Technology",
+          "fields": [
+            "Food Technology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Information Technology",
+          "fields": [
+            "Computer Science",
+            "Data Science",
+            "Information Technology",
+            "Multimedia",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Landscape Architecture",
+          "fields": [
+            "Landscape Architecture"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Erhvervsakademigrad (Academy Profession degree)",
+          "fields": [
+            "Economics",
+            "Finance",
+            "Food Technology",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Professionsbachelorgrad (Professional Bachelor’s degree)",
+          "fields": [
+            "Economics",
+            "Finance",
+            "Food Technology",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Professionsbachelorgrad (4 yr Professional Bachelor’s degree)",
+          "fields": [
+            "Landscape Architecture"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education and Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Anne Storm Rasmussen"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Jakob Rathlev"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded \t2009",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "16025",
+      "iau_id": "IAU-016025",
+      "name": "Danish National Academy of Music",
+      "alt_name": "Syddansk Musikkonservatorium (SMKS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhQLEM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016025",
+      "address": {
+        "Street": "Solbjerg Plads 3",
+        "City": "Frederiksberg",
+        "Post Code": "2000",
+        "WWW": "https://www.cbs.dk"
+      },
+      "website": "https://www.cbs.dk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1917,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June (September-January; February-June)",
+      "languages": [
+        "Danish",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Applied Management Studies",
+          "fields": [
+            "Management",
+            "Small Business"
+          ]
+        },
+        {
+          "name": "Centre : Art and Leadership",
+          "fields": [
+            "Leadership"
+          ]
+        },
+        {
+          "name": "Centre : Asian Research",
+          "fields": [
+            "Asian Studies"
+          ]
+        },
+        {
+          "name": "Centre : Biotech Business",
+          "fields": [
+            "Management"
+          ]
+        },
+        {
+          "name": "Centre : Business Development and Management Technology",
+          "fields": [
+            "Management"
+          ]
+        },
+        {
+          "name": "Centre : Business History",
+          "fields": [
+            "Economic History",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Centre : Corporate Communication",
+          "fields": [
+            "Communication Studies"
+          ]
+        },
+        {
+          "name": "Centre : Corporate Values and Responsibility",
+          "fields": [
+            "Management",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Centre : East European Studies",
+          "fields": [
+            "Eastern European Studies"
+          ]
+        },
+        {
+          "name": "Centre : Electronic Commerce",
+          "fields": [
+            "E-Business/Commerce"
+          ]
+        },
+        {
+          "name": "Centre : Financial Law",
+          "fields": [
+            "Commercial Law",
+            "Finance",
+            "Law"
+          ]
+        },
+        {
+          "name": "Centre : Hospital Management and Organization",
+          "fields": [
+            "Institutional Administration",
+            "Management"
+          ]
+        },
+        {
+          "name": "Centre : Industrial Dynamics",
+          "fields": [
+            "Business and Commerce"
+          ]
+        },
+        {
+          "name": "Centre : Innovation and Entrepreneurship",
+          "fields": [
+            "Small Business"
+          ]
+        },
+        {
+          "name": "Centre : IT in Policy Organizations",
+          "fields": [
+            "Information Technology",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "Centre : Knowledge Governance",
+          "fields": [
+            "Management"
+          ]
+        },
+        {
+          "name": "Centre : Law, Economics and Finance",
+          "fields": [
+            "Economics",
+            "Finance",
+            "Law"
+          ]
+        },
+        {
+          "name": "Centre : Management, Organization and Competence",
+          "fields": [
+            "Management",
+            "Small Business"
+          ]
+        },
+        {
+          "name": "Centre : Market Economics",
+          "fields": [
+            "Business and Commerce",
+            "Economics"
+          ]
+        },
+        {
+          "name": "Centre : Marketing Communication",
+          "fields": [
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Centre : Study of the Americas",
+          "fields": [
+            "American Studies"
+          ]
+        },
+        {
+          "name": "Department/Division : Accounting and Auditing",
+          "fields": [
+            "Accountancy",
+            "Finance",
+            "Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Business and Politics",
+          "fields": [
+            "Business Administration",
+            "International Economics",
+            "Political Sciences"
+          ]
+        },
+        {
+          "name": "Department/Division : Computer Assisted Linguistics",
+          "fields": [
+            "Computer Science",
+            "Linguistics"
+          ]
+        },
+        {
+          "name": "Department/Division : Economics",
+          "fields": [
+            "Economics"
+          ]
+        },
+        {
+          "name": "Department/Division : English",
+          "fields": [
+            "English",
+            "Linguistics",
+            "Modern Languages",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Department/Division : Finance",
+          "fields": [
+            "Finance",
+            "Insurance"
+          ]
+        },
+        {
+          "name": "Department/Division : French, German, Italian, Russian and Spanish",
+          "fields": [
+            "French",
+            "German",
+            "Italian",
+            "Linguistics",
+            "Russian",
+            "Spanish",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Department/Division : Innovation and Organizational Economics",
+          "fields": [
+            "Economics",
+            "Industrial Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Intercultural Communication and Management",
+          "fields": [
+            "Communication Studies",
+            "Cultural Studies",
+            "Management"
+          ]
+        },
+        {
+          "name": "Department/Division : International Culture and Communication Studies",
+          "fields": [
+            "Communication Studies",
+            "Cultural Studies",
+            "Modern Languages",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Department/Division : International Economics and Management",
+          "fields": [
+            "International Economics",
+            "Management"
+          ]
+        },
+        {
+          "name": "Department/Division : International Languages Studies and Computational Linguistics",
+          "fields": [
+            "Arts and Humanities",
+            "Modern Languages",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Department/Division : IT Management",
+          "fields": [
+            "Computer Science",
+            "E-Business/Commerce",
+            "Information Sciences",
+            "Information Technology",
+            "Mathematics"
+          ]
+        },
+        {
+          "name": "Department/Division : Law",
+          "fields": [
+            "Commercial Law",
+            "European Union Law",
+            "International Law",
+            "Labour Law",
+            "Law"
+          ]
+        },
+        {
+          "name": "Department/Division : Management, Politics and Philosophy",
+          "fields": [
+            "Management",
+            "Philosophy",
+            "Political Sciences"
+          ]
+        },
+        {
+          "name": "Department/Division : Marketing",
+          "fields": [
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Department/Division : Operations Management",
+          "fields": [
+            "Industrial Management",
+            "Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Organization",
+          "fields": [
+            "Human Resources",
+            "Industrial Management",
+            "Management",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Department/Division : Strategic Management and Globalisation",
+          "fields": [
+            "International Business",
+            "Management"
+          ]
+        },
+        {
+          "name": "Faculty : Economics and Business Administration",
+          "fields": [
+            "Business Administration",
+            "Economics"
+          ]
+        },
+        {
+          "name": "Faculty : Languages, Communication and Cultural Studies",
+          "fields": [
+            "Communication Studies",
+            "Cultural Studies",
+            "Modern Languages"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelorgrad (Bachelor's degree)",
+          "fields": [
+            "Business Administration",
+            "Economics",
+            "European Studies",
+            "Mathematics"
+          ]
+        },
+        {
+          "name": "Kandidatgrad (Master's degree)",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Business Computing",
+            "Commercial Law",
+            "Economics",
+            "Finance",
+            "Human Resources",
+            "International Business",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Ph.d.-grad (PhD degree)",
+          "fields": [
+            "Econometrics",
+            "Management"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education and Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Peter Møllgaards"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1917 as a private Institution, integrated into the national system, thus becoming self-governing 1965. Acquired present status 2003",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "3555",
+      "iau_id": "IAU-003555",
+      "name": "Danish School of Media and Journalism",
+      "alt_name": "Danmarks Medie- og Journalisthøjskole",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sUzRVLTBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003555",
+      "address": {
+        "Street": "Akademivej 56, Bygn. 358",
+        "City": "Kgs. Lyngby",
+        "Post Code": "2800",
+        "WWW": "https://www.msk.dk"
+      },
+      "website": "https://www.msk.dk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Danish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Marine Engineering and Technology Management",
+          "fields": [
+            "Marine Engineering",
+            "Marine Transport"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Professionsbachelorgrad (4 yr Professional Bachelor’s degree)",
+          "fields": [
+            "Marine Engineering",
+            "Marine Transport"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education and Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Erik Andreassen"
+        }
+      ],
+      "statistics": {},
+      "history": "Created 1906",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "3680",
+      "iau_id": "IAU-003680",
+      "name": "Design School Kolding",
+      "alt_name": "Designskolen Kolding – Design School Kolding",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sUzhYLGBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003680",
+      "address": {
+        "Street": "Islandsgade 2",
+        "City": "Odense",
+        "Province": "C",
+        "Post Code": "5000",
+        "WWW": "https://www.sdmk.dk"
+      },
+      "website": "https://www.sdmk.dk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1929,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June",
+      "languages": [
+        "Danish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Music",
+          "fields": [
+            "Jazz and Popular Music",
+            "Music",
+            "Music Theory and Composition",
+            "Religious Music"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Kunstnerisk bachelorgrad (Bachelor’s degree within the arts)",
+          "fields": [
+            "Music"
+          ]
+        },
+        {
+          "name": "Kunstnerisk kandidatgrad (Master’s degree within the arts)",
+          "fields": [
+            "Music"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education and Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Claus Skjold Larsen"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1929 as a private institution, Det Fynske Musikkonservatorium became a government institution under the supervision of the Ministry of Cultural Affairs 1972. Reorganised and merged with the Academic of Music and Music Communication in Esberg, and the Acting school in Odense, 2010, to become The Academy of Music and Dramatic Arts, Southern Denmark (Syddansk Musikkonservatorium og Skuespillerskole). Acquired current title 2015",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "24221",
+      "iau_id": "IAU-024221",
+      "name": "Fredericia School of Technology Management and Marine Engineering",
+      "alt_name": "Fredericia Maskinmesterskole",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBSLEMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024221",
+      "address": {
+        "Street": "Olof Palmes Allé 11",
+        "City": "Århus N",
+        "Post Code": "8200",
+        "WWW": "http://www.dmjx.dk"
+      },
+      "website": "http://www.dmjx.dk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Danish",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Media and Journalism",
+          "fields": [
+            "Communication Arts",
+            "Graphic Design",
+            "Journalism",
+            "Media Studies",
+            "Photography",
+            "Radio and Television Broadcasting"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Professionsbachelorgrad (Professional Bachelor’s degree)",
+          "fields": [
+            "Communication Arts",
+            "Photography"
+          ]
+        },
+        {
+          "name": "Professionsbachelorgrad (4 yr Professional Bachelor’s degree)",
+          "fields": [
+            "Journalism",
+            "Media Studies",
+            "Radio and Television Broadcasting"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education and Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Trine Nielsen"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Jens Grund"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Inger Munk"
+        }
+      ],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "3682",
+      "iau_id": "IAU-003682",
+      "name": "Funen Art Academy",
+      "alt_name": "Det Fynske Kunstakademi",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sUzhYLEBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003682",
+      "address": {
+        "Street": "Ågade 10",
+        "City": "Kolding",
+        "Post Code": "6000",
+        "WWW": "https://www.designskolenkolding.dk"
+      },
+      "website": "https://www.designskolenkolding.dk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1967,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Danish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Accessory Design",
+          "fields": [
+            "Handicrafts",
+            "Jewellery Art"
+          ]
+        },
+        {
+          "name": "Course/Programme : Communication Design",
+          "fields": [
+            "Design",
+            "Graphic Design"
+          ]
+        },
+        {
+          "name": "Course/Programme : Fashion and Textile Design",
+          "fields": [
+            "Fashion Design",
+            "Textile Design"
+          ]
+        },
+        {
+          "name": "Course/Programme : Industrial Design",
+          "fields": [
+            "Industrial Design"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Kunstnerisk bachelorgrad (Bachelor’s degree within the arts)",
+          "fields": [
+            "Design"
+          ]
+        },
+        {
+          "name": "Kunstnerisk kandidatgrad (Master’s degree within the arts)",
+          "fields": [
+            "Fashion Design",
+            "Graphic Design",
+            "Industrial Design",
+            "Interior Design",
+            "Textile Design"
+          ]
+        },
+        {
+          "name": "Ph.d.-grad (PhD degree)",
+          "fields": [
+            "Design"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education and Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Lene Tanggaard"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Eva Kappel"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1967 as Kunsthåndværkerskole (Arts and Crafts School). In 1998, the school changed its name to Kolding School of Design. Acquired present status 2010",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "27225",
+      "iau_id": "IAU-027225",
+      "name": "IBA International Business Academy",
+      "alt_name": "IBA Erhvervsakademi Kolding",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzxSLEM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-027225",
+      "address": {
+        "Street": "Købmagergade 86",
+        "City": "Fredericia",
+        "Post Code": "7000",
+        "WWW": "http://www.fms.dk"
+      },
+      "website": "http://www.fms.dk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Danish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Marine Engineering and Transport",
+          "fields": [
+            "Marine Engineering",
+            "Marine Transport"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Professionsbachelorgrad (4 yr Professional Bachelor’s degree)",
+          "fields": [
+            "Marine Engineering",
+            "Marine Transport"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education and Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Torben Dahl"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Karsten Jepsen"
+        }
+      ],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "9666",
+      "iau_id": "IAU-009666",
+      "name": "IT University of Copenhagen",
+      "alt_name": "IT-Universitetet i København (ITU)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMzhWLUBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009666",
+      "address": {
+        "Street": "Jernbanegade 13",
+        "City": "Odense",
+        "Province": "C",
+        "Post Code": "5000",
+        "WWW": "https://detfynskekunstakademi.dk"
+      },
+      "website": "https://detfynskekunstakademi.dk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1978,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Danish",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Fine Arts",
+          "fields": [
+            "Fine Arts"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Billedkunstner (artist in visual arts)",
+          "fields": [
+            "Fine Arts"
+          ]
+        },
+        {
+          "name": "Kandidatgrad (Master's degree)",
+          "fields": [
+            "Fine Arts"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education and Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Kristine Kern"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Jonna Greve Edlefsen"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1978",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "3683",
+      "iau_id": "IAU-003683",
+      "name": "Jutland Art Academy",
+      "alt_name": "Det Jyske Kunstakademi",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sUzhYLFBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003683",
+      "address": {
+        "Street": "Havneparken 1,",
+        "City": "Kolding",
+        "Post Code": "6000",
+        "WWW": "https://www.iba.dk"
+      },
+      "website": "https://www.iba.dk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1991,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Danish",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Computer Science",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Course/Programme : International Sales and Marketing",
+          "fields": [
+            "Business Administration",
+            "E-Business/Commerce",
+            "Finance",
+            "International Business",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Course/Programme : Marketing Management",
+          "fields": [
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Course/Programme : Multimedia Design and Communication",
+          "fields": [
+            "Multimedia"
+          ]
+        },
+        {
+          "name": "Course/Programme : Web Development",
+          "fields": [
+            "Information Technology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Professionsbachelorgrad (Professional Bachelor’s degree)",
+          "fields": [
+            "Computer Science",
+            "International Business",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Kunstnerisk kandidatgrad (Master’s degree within the arts)",
+          "fields": [
+            "Business Administration",
+            "International Business"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education and Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Jeanette Lemmergaard"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Ildikó Antal"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "4630"
+      },
+      "history": "Founded 1991. Recognised as higher education institution since 2009",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "24218",
+      "iau_id": "IAU-024218",
+      "name": "MARTEC - Maritime and Polytechnic University College",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBSLDNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024218",
+      "address": {
+        "Street": "Rued Langgards Vej 7",
+        "City": "København S",
+        "Post Code": "2300",
+        "WWW": "https://itu.dk"
+      },
+      "website": "https://itu.dk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1999,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June",
+      "languages": [
+        "Danish",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Information Technology",
+          "fields": [
+            "Communication Arts",
+            "Computer Graphics",
+            "Design",
+            "E-Business/Commerce",
+            "Information Technology",
+            "Media Studies",
+            "Software Engineering",
+            "Technology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelorgrad (Bachelor's degree)",
+          "fields": [
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Kandidatgrad (Master's degree)",
+          "fields": [
+            "Information Technology",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Ph.d.-grad (PhD degree)",
+          "fields": [
+            "Information Technology"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education and Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Per Bruun Brockhoff"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1999 as faculty hosted by the Copenhagen Business School. Acquired present status 2003",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "3634",
+      "iau_id": "IAU-003634",
+      "name": "National Film School of Denmark",
+      "alt_name": "Den Danske Filmskole",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sUzhTLWBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003634",
+      "address": {
+        "Street": "Mejlgade 32-34",
+        "City": "Aarhus",
+        "Province": "C",
+        "Post Code": "8000",
+        "WWW": "http://www.djk.nu"
+      },
+      "website": "http://www.djk.nu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Danish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Fine Arts",
+          "fields": [
+            "Art History",
+            "Fine Arts"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Billedkunstner (artist in visual arts)",
+          "fields": [
+            "Fine Arts"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education and Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Judith Schwarzbar"
+        }
+      ],
+      "statistics": {},
+      "history": "Created 1959",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "14165",
+      "iau_id": "IAU-014165",
+      "name": "Rhythmic Music Conservatory",
+      "alt_name": "Rytmisk Musikkonservatorium",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzBRLUM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-014165",
+      "address": {
+        "Street": "Hånbækvej 54",
+        "City": "Frederikshavn",
+        "Post Code": "9900",
+        "WWW": "https://www.martec.dk"
+      },
+      "website": "https://www.martec.dk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Danish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Marine Engineering",
+          "fields": [
+            "Marine Engineering",
+            "Marine Transport"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Professionsbachelorgrad (4 yr Professional Bachelor’s degree)",
+          "fields": [
+            "Marine Engineering",
+            "Marine Transport"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education and Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Pia Anchor Star"
+        }
+      ],
+      "statistics": {},
+      "history": "Created in 1929. The college was stabled as the result of a merger of Frederikshavn Marine Engineer School and Frederikshavn Maritime Academy which were the oldest maritime schools in Denmark having established in 1929 and 1948 respectively.. In 2017, MARTEC merged with the Skagen Skipper School",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "3686",
+      "iau_id": "IAU-003686",
+      "name": "Royal Danish Academy of Fine Arts, Schools of Architecture, Design and Conservation",
+      "alt_name": "Det Kongelige Danske Kunstakademis Skoler for Arkitektur, Design og Konservering (KADK)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sUzhYLUBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003686",
+      "address": {
+        "Street": "Theodor Christensens Plads 1",
+        "City": "København",
+        "Province": "K",
+        "Post Code": "1437",
+        "WWW": "https://www.filmskolen.dk"
+      },
+      "website": "https://www.filmskolen.dk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Danish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Film",
+          "fields": [
+            "Film"
+          ]
+        },
+        {
+          "name": "Course/Programme : Television",
+          "fields": [
+            "Radio and Television Broadcasting"
+          ]
+        },
+        {
+          "name": "Course/Programme : Video Production",
+          "fields": [
+            "Video"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Professionsbachelorgrad (4 yr Professional Bachelor’s degree)",
+          "fields": [
+            "Film"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education and Science. Ministry of Cultural Affairs",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Bo Damgaard"
+        }
+      ],
+      "statistics": {},
+      "history": "Created 1966",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "3687",
+      "iau_id": "IAU-003687",
+      "name": "Royal Danish Academy of Music",
+      "alt_name": "Det Kongelige Danske Musikkonservatorium (DKDM)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sUzhYLVBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003687",
+      "address": {
+        "Street": "Leo Mathisens Vej 1",
+        "City": "København",
+        "Province": "K",
+        "Post Code": "1437",
+        "WWW": "https://rmc.dk"
+      },
+      "website": "https://rmc.dk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1986,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Danish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Music",
+          "fields": [
+            "Music",
+            "Music Education",
+            "Music Theory and Composition"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Kunstnerisk bachelorgrad (Bachelor’s degree within the arts)",
+          "fields": [
+            "Music",
+            "Music Theory and Composition"
+          ]
+        },
+        {
+          "name": "Kunstnerisk kandidatgrad (Master’s degree within the arts)",
+          "fields": [
+            "Music"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Culture",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Henrik Sveidahl"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1986",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "24217",
+      "iau_id": "IAU-024217",
+      "name": "SIMAC - Svendborg International Maritime Academy",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBSLDM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024217",
+      "address": {
+        "Street": "Philip De Langes Allé 10",
+        "City": "København",
+        "Province": "K",
+        "Post Code": "1435",
+        "WWW": "https://kadk.dk"
+      },
+      "website": "https://kadk.dk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1973,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June",
+      "languages": [
+        "Danish"
+      ],
+      "faculties": [
+        {
+          "name": "School : Fine Arts and Conservation",
+          "fields": [
+            "Architecture",
+            "Design",
+            "Fine Arts",
+            "Graphic Arts",
+            "Heritage Preservation",
+            "Sculpture"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Kunstnerisk bachelorgrad (Bachelor’s degree within the arts)",
+          "fields": [
+            "Architecture",
+            "Art Management",
+            "Design"
+          ]
+        },
+        {
+          "name": "Kunstnerisk kandidatgrad (Master’s degree within the arts)",
+          "fields": [
+            "Architecture",
+            "Art Management",
+            "Design"
+          ]
+        },
+        {
+          "name": "Ph.d.-grad (PhD degree)",
+          "fields": [
+            "Heritage Preservation"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Culture",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Lene Dammand Lund"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Svend Lawaetz"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1973. Acquired present status following merger between the Royal Danish Academy of Fine Arts, School of Architecture and the Danish Design School",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "3556",
+      "iau_id": "IAU-003556",
+      "name": "Technical University of Denmark",
+      "alt_name": "Danmarks Tekniske Universitet",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sUzRVLUBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003556",
+      "address": {
+        "Street": "Rosenørns Allé 22",
+        "City": "Frederiksberg",
+        "Province": "C",
+        "Post Code": "1970",
+        "WWW": "https://www.dkdm.dk"
+      },
+      "website": "https://www.dkdm.dk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1867,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June (September-December; January-June)",
+      "languages": [
+        "Danish",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Brass, Percussion and Orchestra Conducting",
+          "fields": [
+            "Conducting",
+            "Musical Instruments"
+          ]
+        },
+        {
+          "name": "Department/Division : Church Music",
+          "fields": [
+            "Religious Music"
+          ]
+        },
+        {
+          "name": "Department/Division : Composition/Theory",
+          "fields": [
+            "Music Theory and Composition"
+          ]
+        },
+        {
+          "name": "Department/Division : Educational Theory",
+          "fields": [
+            "Music Education"
+          ]
+        },
+        {
+          "name": "Department/Division : Piano, Guitar and Accordion",
+          "fields": [
+            "Musical Instruments"
+          ]
+        },
+        {
+          "name": "Department/Division : Recording",
+          "fields": [
+            "Sound Engineering (Acoustics)"
+          ]
+        },
+        {
+          "name": "Department/Division : Singing",
+          "fields": [
+            "Singing"
+          ]
+        },
+        {
+          "name": "Department/Division : Strings",
+          "fields": [
+            "Musical Instruments"
+          ]
+        },
+        {
+          "name": "Department/Division : Woodwind and Harp",
+          "fields": [
+            "Musical Instruments"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Kunstnerisk bachelorgrad (Bachelor’s degree within the arts)",
+          "fields": [
+            "Music"
+          ]
+        },
+        {
+          "name": "Kunstnerisk kandidatgrad (Master’s degree within the arts)",
+          "fields": [
+            "Music"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Culture",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Uffe Savery"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Nynne Giannini"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1867 as a private institution. Became a State institution under the jurisdiction of the Ministry of Cultural Affairs 1949",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "15852",
+      "iau_id": "IAU-015852",
+      "name": "The Danish National School of Performing Arts",
+      "alt_name": "Den Danske Scenekunstskole (DDSKS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzRYLTMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-015852",
+      "address": {
+        "Street": "Graaesvej 27",
+        "City": "Svendborg",
+        "Post Code": "5700",
+        "WWW": "https://simac.dk"
+      },
+      "website": "https://simac.dk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Danish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Marine Engineering",
+          "fields": [
+            "Marine Engineering",
+            "Marine Transport"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Professionsbachelorgrad (4 yr Professional Bachelor’s degree)",
+          "fields": [
+            "Marine Engineering",
+            "Marine Transport",
+            "Nautical Science"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education and Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Lene Daugaard"
+        }
+      ],
+      "statistics": {},
+      "history": "Created 2001 following a merger of Kogtved Seafaring School, A.P. Møller Maersk Training school, Svendborg School of Marine Engineering, and Svendborg Navigation School",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "3684",
+      "iau_id": "IAU-003684",
+      "name": "The Royal Academy of Music",
+      "alt_name": "Det Jyske Musikkonservatorium",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sUzhYLWBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003684",
+      "address": {
+        "Street": "Anker Engelundsvej 1Bygning 101A",
+        "City": "Kgs. Lyngby",
+        "Post Code": "2800",
+        "WWW": "https://www.dtu.dk"
+      },
+      "website": "https://www.dtu.dk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1829,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to July (September-January; February-July)",
+      "languages": [
+        "Danish",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Applied Mathematics and Computer Science",
+          "fields": [
+            "Applied Mathematics",
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Department/Division : Chemical Engineering",
+          "fields": [
+            "Biotechnology",
+            "Chemical Engineering"
+          ]
+        },
+        {
+          "name": "Department/Division : Chemistry",
+          "fields": [
+            "Chemistry"
+          ]
+        },
+        {
+          "name": "Department/Division : Civil Engineering",
+          "fields": [
+            "Architecture",
+            "Civil Engineering"
+          ]
+        },
+        {
+          "name": "Department/Division : Electrical Engineering",
+          "fields": [
+            "Electrical Engineering",
+            "Sound Engineering (Acoustics)"
+          ]
+        },
+        {
+          "name": "Department/Division : Energy Conversion and Storage",
+          "fields": [
+            "Energy Engineering",
+            "Environmental Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Environmental Engineering",
+          "fields": [
+            "Environmental Engineering"
+          ]
+        },
+        {
+          "name": "Department/Division : Management Engineering",
+          "fields": [
+            "Engineering Management",
+            "Industrial Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Mechanical Engineering",
+          "fields": [
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "Department/Division : Micro- and Nanotechnology",
+          "fields": [
+            "Physics"
+          ]
+        },
+        {
+          "name": "Department/Division : Photonics Engineering",
+          "fields": [
+            "Computer Networks",
+            "Information Technology",
+            "Physical Engineering",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Department/Division : Physics",
+          "fields": [
+            "Physics"
+          ]
+        },
+        {
+          "name": "Department/Division : Systems Biology",
+          "fields": [
+            "Bioengineering",
+            "Biological and Life Sciences",
+            "Biotechnology"
+          ]
+        },
+        {
+          "name": "Department/Division : Transport",
+          "fields": [
+            "Bridge Engineering",
+            "Railway Engineering",
+            "Road Engineering",
+            "Transport Engineering",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Wind Energy",
+          "fields": [
+            "Energy Engineering"
+          ]
+        },
+        {
+          "name": "Institute : Aquatic Resources",
+          "fields": [
+            "Aquaculture",
+            "Marine Science and Oceanography",
+            "Water Science"
+          ]
+        },
+        {
+          "name": "Institute : Food Technology",
+          "fields": [
+            "Brewing",
+            "Food Technology"
+          ]
+        },
+        {
+          "name": "Institute : National Space Institute",
+          "fields": [
+            "Aeronautical and Aerospace Engineering",
+            "Astronomy and Space Science"
+          ]
+        },
+        {
+          "name": "Institute : National Veterinary Institute",
+          "fields": [
+            "Veterinary Science"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelorgrad (Bachelor's degree)",
+          "fields": [
+            "Agriculture",
+            "Engineering",
+            "Mathematics and Computer Science",
+            "Natural Sciences",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Professionsbachelorgrad (Professional Bachelor’s degree)",
+          "fields": [
+            "Agriculture",
+            "Engineering",
+            "Mathematics and Computer Science",
+            "Natural Sciences",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Kandidatgrad (Master's degree)",
+          "fields": [
+            "Aeronautical and Aerospace Engineering",
+            "Applied Chemistry",
+            "Aquaculture",
+            "Architecture",
+            "Biological and Life Sciences",
+            "Biotechnology",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Design",
+            "Electrical Engineering",
+            "Energy Engineering",
+            "Engineering Management",
+            "Environmental Engineering",
+            "Food Technology",
+            "Industrial Design",
+            "Petroleum and Gas Engineering",
+            "Physics",
+            "Production Engineering",
+            "Sound Engineering (Acoustics)",
+            "Telecommunications Engineering",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Ph.d.-grad (PhD degree)",
+          "fields": [
+            "Agriculture",
+            "Engineering",
+            "Food Technology",
+            "Mathematics and Computer Science",
+            "Natural Sciences"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education and Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Anders Overgaard Bjarklev"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Christine Nellemann"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1829 as a State Institution under the supervision of the Ministry of Education. Departments restructured 1996. Acquired present status 2001. Merged with Copenhagen University College of Engineering (IHK) in 2013",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "3685",
+      "iau_id": "IAU-003685",
+      "name": "The Royal Danish Academy of Fine Arts, School of Visual Arts",
+      "alt_name": "Det Kongelige Danske Kunstakademi, Billedkunstskolerne – Kunstakademiets Billedkunstskoler",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sUzhYLTBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003685",
+      "address": {
+        "Street": "Per Knutzons Vej 5, Holmen",
+        "City": "København",
+        "Province": "K",
+        "Post Code": "1437",
+        "WWW": "https://ddsks.dk"
+      },
+      "website": "https://ddsks.dk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English",
+        "Danish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Dance",
+          "fields": [
+            "Dance"
+          ]
+        },
+        {
+          "name": "Course/Programme : Theatre",
+          "fields": [
+            "Performing Arts"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Kunstnerisk bachelorgrad (Bachelor’s degree within the arts)",
+          "fields": [
+            "Dance",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Kunstnerisk kandidatgrad (Master’s degree within the arts)",
+          "fields": [
+            "Dance",
+            "Fine Arts",
+            "Performing Arts"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education and Science. Ministry of Culture",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Mads Thygesen"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Amanda Lützhøft"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded as Statens Scenekunstskole -The State Performing Arts School. (Also Known as Statens Teaterskole/National Theatre School of Denmark). Became part of The Danish National School of Performing Arts (DDSKS) after merger of Det Danske Musicalakademi i Fredericia (The Danish Musical Academy in Fredericia), Skuespilleruddannelsen ved Aarhus Teater (The Acting School at Aarhus Theatre); Skuespillerskolen i Odense (The Acting School in Odense); Dramatikeruddannelsen ved Aarhus Teater (School of Playwriting at Aarhus Theatre) Det Danske Musicalakademi i Fredericia (The Danish Musical Academy in Fredericia) 2015",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "24179",
+      "iau_id": "IAU-024179",
+      "name": "UCL University College Lillebælt",
+      "alt_name": "UCL Erhvervsakademi og Professionshøjskole (UCL)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBRLVNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024179",
+      "address": {
+        "Street": "Skovgaardsgade 2C",
+        "City": "Aarhus",
+        "Province": "C",
+        "Post Code": "8000",
+        "WWW": "https://musikkons.dk"
+      },
+      "website": "https://musikkons.dk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1927,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Danish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Music",
+          "fields": [
+            "Music",
+            "Music Education",
+            "Music Theory and Composition",
+            "Musical Instruments",
+            "Religious Music"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Kunstnerisk bachelorgrad (Bachelor’s degree within the arts)",
+          "fields": [
+            "Music"
+          ]
+        },
+        {
+          "name": "Kunstnerisk kandidatgrad (Master’s degree within the arts)",
+          "fields": [
+            "Music"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Culture",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Claus Olesen"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Esben W. Elvstrøm"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1927. The Academy of Music, Aalborg, and The Royal Academy of Music, Aarhus merged in 2010",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "24180",
+      "iau_id": "IAU-024180",
+      "name": "University College Absalon",
+      "alt_name": "Professionshøjskolen Absalon",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBRLiNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024180",
+      "address": {
+        "Street": "Kongens Nytorv 1",
+        "City": "København",
+        "Province": "K",
+        "Post Code": "1050",
+        "WWW": "https://kunstakademiet.dk"
+      },
+      "website": "https://kunstakademiet.dk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1754,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "October to June (October-December; January-June)",
+      "languages": [
+        "Danish"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Art Theory",
+          "fields": [
+            "Art Education"
+          ]
+        },
+        {
+          "name": "Department/Division : Graphic Arts",
+          "fields": [
+            "Graphic Arts",
+            "Printing and Printmaking",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Department/Division : Media Arts",
+          "fields": [
+            "Computer Science",
+            "Media Studies",
+            "Video"
+          ]
+        },
+        {
+          "name": "Department/Division : Painting",
+          "fields": [
+            "Painting and Drawing"
+          ]
+        },
+        {
+          "name": "Department/Division : Sculpture",
+          "fields": [
+            "Sculpture",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Department/Division : Visual Arts",
+          "fields": [
+            "Visual Arts"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Kunstnerisk bachelorgrad (Bachelor’s degree within the arts)",
+          "fields": [
+            "Fine Arts"
+          ]
+        },
+        {
+          "name": "Kunstnerisk kandidatgrad (Master’s degree within the arts)",
+          "fields": [
+            "Fine Arts"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Culture",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Kirsten Langkilde"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1754 on the same lines as the Académie des Beaux Arts in France, and later acquired the status of a modern School of Art",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "24175",
+      "iau_id": "IAU-024175",
+      "name": "University College Copenhagen",
+      "alt_name": "Københavns Professionshøjskole – Copenhagen University of Applied Sciences (KP)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBRLVM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024175",
+      "address": {
+        "Street": "Niels Bohrs Allé 1",
+        "City": "Odense",
+        "Province": "M",
+        "Post Code": "5230",
+        "WWW": "https://www.ucl.dk"
+      },
+      "website": "https://www.ucl.dk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2018,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Danish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Education and Social Sciences",
+          "fields": [
+            "Primary Education",
+            "Public Administration",
+            "Social and Community Services",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Course/Programme : Health Sciences",
+          "fields": [
+            "Laboratory Techniques",
+            "Nursing",
+            "Occupational Therapy",
+            "Physical Therapy",
+            "Radiology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Professionsbachelorgrad (Professional Bachelor’s degree)",
+          "fields": [
+            "Architecture",
+            "Laboratory Techniques",
+            "Nursing",
+            "Occupational Therapy",
+            "Physical Therapy",
+            "Public Administration",
+            "Radiology",
+            "Social and Community Services",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Professionsbachelorgrad (4 yr Professional Bachelor’s degree)",
+          "fields": [
+            "Primary Education"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education and Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Jens Mejer Pedersen"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Christina Højsgaard Madsen"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2018 after the merger between Business Academy Lillebaelt and University College Lillebaelt",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "24177",
+      "iau_id": "IAU-024177",
+      "name": "University College of Northern Denmark",
+      "alt_name": "Professionshøjskolen University College Nordjylland – Professionshøjskolen UCN (UCN)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBRLVM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024177",
+      "address": {
+        "Street": "Slagelsevej 7",
+        "City": "Sorø",
+        "Post Code": "4180",
+        "WWW": "https://phabsalon.dk"
+      },
+      "website": "https://phabsalon.dk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Danish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Education",
+          "fields": [
+            "Primary Education",
+            "Social and Community Services",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Course/Programme : Health and Social Sciences",
+          "fields": [
+            "Biotechnology",
+            "Leisure Studies",
+            "Nursing",
+            "Nutrition",
+            "Occupational Therapy",
+            "Physical Therapy"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Professionsbachelorgrad (Professional Bachelor’s degree)",
+          "fields": [
+            "Biotechnology",
+            "Leisure Studies",
+            "Nursing",
+            "Nutrition",
+            "Occupational Therapy",
+            "Physical Therapy",
+            "Social and Community Services",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Professionsbachelorgrad (4 yr Professional Bachelor’s degree)",
+          "fields": [
+            "Primary Education"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education and Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Camilla Wang"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Stephanie Wenzell Aziz"
+        }
+      ],
+      "statistics": {},
+      "history": "Created 2007 as University College Sjælland (University College Zealand). Acquired current title 2017",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "24178",
+      "iau_id": "IAU-024178",
+      "name": "University College South Denmark",
+      "alt_name": "UC SYD - University College Syddanmark",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBRLVNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024178",
+      "address": {
+        "Street": "Humletorvet 3",
+        "City": "København",
+        "Province": "V",
+        "Post Code": "1799",
+        "WWW": "https://www.kp.dk"
+      },
+      "website": "https://www.kp.dk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Danish",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Health Sciences",
+          "fields": [
+            "Nursing",
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "Course/Programme : Social Welfare and Education",
+          "fields": [
+            "Primary Education",
+            "Secondary Education",
+            "Social and Community Services",
+            "Textile Design"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Professionsbachelorgrad (Professional Bachelor’s degree)",
+          "fields": [
+            "Handicrafts",
+            "Midwifery",
+            "Nursing",
+            "Occupational Therapy",
+            "Physical Therapy",
+            "Public Administration",
+            "Social and Community Services",
+            "Textile Design"
+          ]
+        },
+        {
+          "name": "Professionsbachelorgrad (4 yr Professional Bachelor’s degree)",
+          "fields": [
+            "Primary Education",
+            "Secondary Education"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education and Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Anne Vang Rasmussen"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Merete Ruager"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Soren Erichsen"
+        }
+      ],
+      "statistics": {},
+      "history": "Professionshøjskolen UCC (UCC University College) and Professionshøjskolen Metropol (Metropolitan University College) have been merged and become Copenhagen's Professional College, 2018",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "16026",
+      "iau_id": "IAU-016026",
+      "name": "University of Southern Denmark",
+      "alt_name": "Syddansk Universitet",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhQLEM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016026",
+      "address": {
+        "Street": "P.O. Box 38",
+        "City": "Aalborg",
+        "Post Code": "9100",
+        "WWW": "https://www.ucn.dk"
+      },
+      "website": "https://www.ucn.dk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Danish"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Education and Social Studies",
+          "fields": [
+            "Pedagogy",
+            "Primary Education",
+            "Secondary Education"
+          ]
+        },
+        {
+          "name": "Department/Division : Health Studies",
+          "fields": [
+            "Midwifery",
+            "Nursing",
+            "Occupational Therapy",
+            "Physical Therapy",
+            "Radiology"
+          ]
+        },
+        {
+          "name": "Department/Division : Technology and Business Studies",
+          "fields": [
+            "Architecture",
+            "Building Technologies",
+            "Business and Commerce",
+            "Engineering Management",
+            "Finance",
+            "Heritage Preservation",
+            "Management",
+            "Marketing",
+            "Transport Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Professionsbachelorgrad (Professional Bachelor’s degree)",
+          "fields": [
+            "Architecture",
+            "Building Technologies",
+            "Business and Commerce",
+            "Engineering Management",
+            "Finance",
+            "Heritage Preservation",
+            "Management",
+            "Marketing",
+            "Midwifery",
+            "Nursing",
+            "Occupational Therapy",
+            "Pedagogy",
+            "Physical Therapy",
+            "Radiology",
+            "Secondary Education",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Professionsbachelorgrad (4 yr Professional Bachelor’s degree)",
+          "fields": [
+            "Primary Education",
+            "Secondary Education"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education and Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Lene Augusta Jørgensen"
+        }
+      ],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "24115",
+      "iau_id": "IAU-024115",
+      "name": "VIA University College",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBRLDM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024115",
+      "address": {
+        "Street": "Degnevej 16",
+        "City": "Esbjerg Ø",
+        "Post Code": "6705",
+        "WWW": "https://www.ucsyd.dk"
+      },
+      "website": "https://www.ucsyd.dk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2011,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Danish"
+      ],
+      "faculties": [
+        {
+          "name": "Institute : Health Sciences",
+          "fields": [
+            "Biomedicine",
+            "Ergotherapy",
+            "Midwifery",
+            "Nursing",
+            "Nutrition",
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "Institute : Social and Preschool Education",
+          "fields": [
+            "Preschool Education",
+            "Primary Education",
+            "Social and Community Services",
+            "Social Work",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Institute : Social Sciences and Communication",
+          "fields": [
+            "Communication Arts",
+            "Design",
+            "Graphic Design",
+            "Marketing",
+            "Public Administration"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Professionsbachelorgrad (Professional Bachelor’s degree)",
+          "fields": [
+            "Biomedicine",
+            "Communication Arts",
+            "Design",
+            "Ergotherapy",
+            "Marketing",
+            "Midwifery",
+            "Multimedia",
+            "Nursing",
+            "Nutrition",
+            "Physical Therapy",
+            "Public Administration",
+            "Social and Community Services",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Professionsbachelorgrad (4 yr Professional Bachelor’s degree)",
+          "fields": [
+            "Primary Education"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education and Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Birthe Friis Mortensen"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Mette Ernlund"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "6500"
+      },
+      "history": "Founded 2011 following the merger of Professionshøjskolen University College Vest and Professionshøjskolen Syd University College",
+      "periodicals": [],
+      "student_body": "co-ed"
+    }
+  ]
+}

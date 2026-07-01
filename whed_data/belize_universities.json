@@ -1,0 +1,309 @@
+{
+  "country_name": "Belize",
+  "country_id": "Belize",
+  "institutions": [
+    {
+      "id": "6566",
+      "iau_id": "IAU-006566",
+      "name": "Galen University",
+      "alt_name": "(GU)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tQzRWLUBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-006566",
+      "address": {
+        "Street": "62.5 George Price Highway",
+        "City": "Central Farm",
+        "Province": "Cayo District",
+        "Post Code": "000000",
+        "WWW": "https://galen.edu.bz"
+      },
+      "website": "https://galen.edu.bz",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "September to December; January to April; May to August. Students may enrol in any semester",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Arts, Science and Technology",
+          "fields": [
+            "Anthropology",
+            "Computer Science",
+            "Criminal Law",
+            "Environmental Studies",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Faculty : Business and Entrepreneurship",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Economics",
+            "Hotel and Restaurant",
+            "International Business",
+            "Management",
+            "Marketing",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Primary Education",
+            "Secondary Education"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Associate Degree",
+          "fields": [
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Anthropology",
+            "Business Administration",
+            "Business Education",
+            "Computer Education",
+            "Computer Science",
+            "Criminal Law",
+            "Economics",
+            "Environmental Studies",
+            "Foreign Languages Education",
+            "Hotel and Restaurant",
+            "Humanities and Social Science Education",
+            "International Business",
+            "Management",
+            "Marketing",
+            "Mathematics Education",
+            "Physical Education",
+            "Primary Education",
+            "Secondary Education",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Business Administration"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education, Culture, Science and Technology (MoE)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Cynthia Eve Aird"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Teresa Shol"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded in 2003",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20038",
+      "iau_id": "IAU-020038",
+      "name": "University of Belize",
+      "alt_name": "(UB)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BQLFNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020038",
+      "address": {
+        "Street": "P.O. Box 340Hummingbird Avenue",
+        "City": "Belmopan",
+        "Province": "Cayo District",
+        "WWW": "https://www.ub.edu.bz"
+      },
+      "website": "https://www.ub.edu.bz",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2000,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Regional Language",
+          "fields": [
+            "Business Education",
+            "English",
+            "Foreign Languages Education",
+            "History",
+            "Mathematics Education",
+            "Preschool Education",
+            "Primary Education",
+            "Science Education"
+          ]
+        },
+        {
+          "name": "Faculty : Education and Arts",
+          "fields": [
+            "Business Education",
+            "English",
+            "Foreign Languages Education",
+            "History",
+            "Mathematics Education",
+            "Preschool Education",
+            "Primary Education",
+            "Science Education"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences",
+          "fields": [
+            "Laboratory Techniques",
+            "Nursing",
+            "Pharmacy",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Faculty : Management and Social Sciences",
+          "fields": [
+            "Accountancy",
+            "Business and Commerce",
+            "Finance",
+            "Management",
+            "Marketing",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Science and Technology",
+          "fields": [
+            "Agriculture",
+            "Architecture",
+            "Biology",
+            "Chemistry",
+            "Civil Engineering",
+            "Environmental Management",
+            "Information Technology",
+            "Marine Biology",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Institute : Environmental Research",
+          "fields": [
+            "Agriculture",
+            "Architecture",
+            "Biology",
+            "Building Technologies",
+            "Business Administration",
+            "Chemistry",
+            "Civil Engineering",
+            "Electrical Engineering",
+            "English",
+            "Information Technology",
+            "Laboratory Techniques",
+            "Marine Biology",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Natural Resources",
+            "Pharmacy",
+            "Physics",
+            "Preschool Education",
+            "Primary Education",
+            "Social Work",
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Associate Degree",
+          "fields": [
+            "Agriculture",
+            "Architecture",
+            "Biology",
+            "Building Technologies",
+            "Business Administration",
+            "Chemistry",
+            "Civil Engineering",
+            "Electrical Engineering",
+            "English",
+            "Information Technology",
+            "Laboratory Techniques",
+            "Marine Biology",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Natural Resources",
+            "Pharmacy",
+            "Physics",
+            "Preschool Education",
+            "Primary Education",
+            "Social Work",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Biology",
+            "Business Administration",
+            "Business Education",
+            "Finance",
+            "Foreign Languages Education",
+            "History",
+            "Information Technology",
+            "Laboratory Techniques",
+            "Management",
+            "Marketing",
+            "Mathematics",
+            "Mathematics Education",
+            "Native Language Education",
+            "Natural Resources",
+            "Nursing",
+            "Pharmacy",
+            "Primary Education",
+            "Public Administration",
+            "Science Education",
+            "Social Work",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Educational Administration"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education, Culture, Science and Technology (MoE)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Vincent Palacio"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Sherlene Enriquez-Savery"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2000 by the merger of the University College of Belize, Belize School of Nursing, Belize Teacher Training College",
+      "periodicals": [],
+      "student_body": null
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "country_name": "Monaco",
+  "country_id": "Monaco",
+  "institutions": [
+    {
+      "id": "9591",
+      "iau_id": "IAU-009591",
+      "name": "International University of Monaco",
+      "alt_name": "(IUM)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMzRZLDBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009591",
+      "address": {
+        "Street": "2, avenue Albert II",
+        "City": "Monaco",
+        "Post Code": "98000",
+        "WWW": "http://www.monaco.edu"
+      },
+      "website": "http://www.monaco.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1986,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "September to June; also summer sessions",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "School : Business",
+          "fields": [
+            "Business Administration",
+            "Finance",
+            "International Business",
+            "Management",
+            "Marketing",
+            "Sports Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Business Administration",
+            "Communication Arts"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Business Administration",
+            "Finance",
+            "International Business",
+            "Marketing",
+            "Sports Management"
+          ]
+        },
+        {
+          "name": "Doctorat",
+          "fields": [
+            "Business Administration"
+          ]
+        }
+      ],
+      "accreditation": "Accrediting Council for Independent Colleges and Schools (ACICS). Government of the Principality of Monaco, Association of MBAs (AMBA)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Antonella Patras"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Bianca Muston"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1986 as University of Southern Europe (Monaco Business School). An independent University fully accredited by the Ministry of Education in Monaco, by ACICS in the USA and by AMBA. Acquired present title 2002.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "4242",
+      "iau_id": "IAU-004242",
+      "name": "School of Plastic Arts of the City of Monaco (Pavillon Bosio)",
+      "alt_name": "École Supérieure d'Arts Plastiques de la Ville de Monaco (Pavillon Bosio) – Pavillon Bosio (ESAP)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIyhULEBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004242",
+      "address": {
+        "Street": "1, Avenue des Pins",
+        "City": "Monaco",
+        "Post Code": "MC 98000",
+        "WWW": "http://www.pavillonbosio.com"
+      },
+      "website": "http://www.pavillonbosio.com",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2004,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Fine Arts and Scenography (Second Cycle)",
+          "fields": [
+            "Display and Stage Design",
+            "Fine Arts"
+          ]
+        },
+        {
+          "name": "Course/Programme : Post-Diploma Research Programme",
+          "fields": [
+            "Display and Stage Design",
+            "Fine Arts"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diplôme national d’Art",
+          "fields": [
+            "Display and Stage Design",
+            "Fine Arts"
+          ]
+        },
+        {
+          "name": "Diplôme national Supérieur d’Expression Plastique",
+          "fields": [
+            "Display and Stage Design",
+            "Fine Arts"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Thierry Leviez"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Marie Hélène Savigneux"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Sandrine Perrin"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2004.",
+      "periodicals": [],
+      "student_body": null
+    }
+  ]
+}

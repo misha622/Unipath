@@ -1,0 +1,5528 @@
+{
+  "country_name": "Switzerland",
+  "country_id": "Switzerland",
+  "institutions": [
+    {
+      "id": "1615",
+      "iau_id": "IAU-001615",
+      "name": "Bern University of Applied Sciences",
+      "alt_name": "Berner Fachhochschule – Haute école spécialisée bernoise (BFH)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sMzhRLTBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-001615",
+      "address": {
+        "Street": "Rämistrasse 101",
+        "City": "Zürich",
+        "Post Code": "8092",
+        "WWW": "https://www.ethz.ch"
+      },
+      "website": "https://www.ethz.ch",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1855,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to May (September-December; February-May)",
+      "languages": [
+        "German",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Architecture and Civil Engineering",
+          "fields": [
+            "Architecture",
+            "Civil Engineering",
+            "Environmental Engineering",
+            "Regional Planning",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "Department/Division : Engineering",
+          "fields": [
+            "Biomedical Engineering",
+            "Biotechnology",
+            "Computer Science",
+            "Electrical Engineering",
+            "Electronics and Automation",
+            "Energy Engineering",
+            "Engineering",
+            "Engineering Management",
+            "Information Technology",
+            "Materials Engineering",
+            "Mechanical Engineering",
+            "Microelectronics",
+            "Nanotechnology",
+            "Nuclear Engineering",
+            "Robotics"
+          ]
+        },
+        {
+          "name": "Department/Division : Management and Social Sciences",
+          "fields": [
+            "Economics",
+            "History",
+            "International Studies",
+            "Management",
+            "Philosophy",
+            "Police Studies",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Department/Division : Natural Sciences and Mathematics",
+          "fields": [
+            "Applied Mathematics",
+            "Artificial Intelligence",
+            "Bioengineering",
+            "Biology",
+            "Chemical Engineering",
+            "Chemistry",
+            "Computer Engineering",
+            "Computer Science",
+            "Health Sciences",
+            "Mathematics",
+            "Medical Technology",
+            "Operations Research",
+            "Pharmacy",
+            "Physics",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Department/Division : System-Oriented Natural Sciences",
+          "fields": [
+            "Agriculture",
+            "Earth Sciences",
+            "Environmental Studies",
+            "Food Science",
+            "Geophysics",
+            "Meteorology"
+          ]
+        },
+        {
+          "name": "Research Division : Agriculture and Food Science",
+          "fields": [
+            "Agricultural Economics",
+            "Agriculture",
+            "Agronomy",
+            "Food Science"
+          ]
+        },
+        {
+          "name": "Research Division : Architecture",
+          "fields": [
+            "Architecture"
+          ]
+        },
+        {
+          "name": "Research Division : Biological and Life Sciences",
+          "fields": [
+            "Biology"
+          ]
+        },
+        {
+          "name": "Research Division : Chemistry and Applied Biosciences",
+          "fields": [
+            "Chemistry",
+            "Demography and Population",
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Research Division : Civil, Environmental and Geomatics Engineering",
+          "fields": [
+            "Civil Engineering",
+            "Environmental Engineering"
+          ]
+        },
+        {
+          "name": "Research Division : Computer Science",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Research Division : Earth Sciences",
+          "fields": [
+            "Earth Sciences"
+          ]
+        },
+        {
+          "name": "Research Division : Environmental Sciences",
+          "fields": [
+            "Environmental Studies",
+            "Forestry"
+          ]
+        },
+        {
+          "name": "Research Division : Humanities, Social and Political Sciences",
+          "fields": [
+            "Arts and Humanities",
+            "Economics",
+            "Law",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Research Division : Information Technology and Electrical Engineering",
+          "fields": [
+            "Economics",
+            "Management",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Research Division : Management, Technology and Economics",
+          "fields": [
+            "Economics",
+            "Management",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Research Division : Materials",
+          "fields": [
+            "Materials Engineering"
+          ]
+        },
+        {
+          "name": "Research Division : Mathematics",
+          "fields": [
+            "Mathematics"
+          ]
+        },
+        {
+          "name": "Research Division : Mechanical and Process Engineering",
+          "fields": [
+            "Engineering Management",
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "Research Division : Physics",
+          "fields": [
+            "Physics"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Agriculture",
+            "Architecture",
+            "Biology",
+            "Biotechnology",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Earth Sciences",
+            "Electrical Engineering",
+            "Environmental Engineering",
+            "Environmental Studies",
+            "Food Science",
+            "Information Sciences",
+            "Information Technology",
+            "Materials Engineering",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Medicine",
+            "Natural Sciences",
+            "Pharmacy",
+            "Physics",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Agriculture",
+            "Applied Mathematics",
+            "Architecture and Planning",
+            "Bioengineering",
+            "Biological and Life Sciences",
+            "Biotechnology",
+            "Chemistry",
+            "Computer Science",
+            "Earth Sciences",
+            "Engineering",
+            "Food Science",
+            "Geological Engineering",
+            "Health Sciences",
+            "Mathematics",
+            "Mathematics and Computer Science",
+            "Mechanical Engineering",
+            "Natural Sciences",
+            "Pharmacy",
+            "Physics",
+            "Robotics",
+            "Sports",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Doktorat/ Doctorat/ Dottorato",
+          "fields": [
+            "Mathematics",
+            "Natural Sciences",
+            "Technology"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Joël Mesot"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Günther Dissertori"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Katharina Poiger Ruloff"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Anders Hagström"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Anouk de Bast"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2021-2022",
+        "Staff Full Time Total:": "6600",
+        "Students Statistics Year:": "2024-2025",
+        "Students Total:": "25000"
+      },
+      "history": "Founded 1855",
+      "periodicals": [
+        "Annual Report Publications of the institutes Research Report",
+        "Annual Report",
+        "Publications of the institutes",
+        "Research Report"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "27253",
+      "iau_id": "IAU-027253",
+      "name": "Chur Theological College",
+      "alt_name": "Theologische Hochschule Chur – TH CHUR (THC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzxSLTMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-027253",
+      "address": {
+        "Street": "Hochschulstrasse 4",
+        "City": "Bern",
+        "Post Code": "3012",
+        "WWW": "https://www.unibe.ch"
+      },
+      "website": "https://www.unibe.ch",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "August to July (August-January; February-July)",
+      "languages": [
+        "German",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Business, Economics and Social Sciences",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Business and Commerce",
+            "Communication Studies",
+            "Economics",
+            "Finance",
+            "Human Resources",
+            "Management",
+            "Marketing",
+            "Political Sciences",
+            "Social Sciences",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Faculty : Human Sciences",
+          "fields": [
+            "Education",
+            "Pedagogy",
+            "Psychology",
+            "Sports"
+          ]
+        },
+        {
+          "name": "Faculty : Humanities",
+          "fields": [
+            "Archaeology",
+            "Art History",
+            "Arts and Humanities",
+            "Cultural Studies",
+            "English",
+            "French",
+            "Gender Studies",
+            "German",
+            "History",
+            "Islamic Studies",
+            "Italian",
+            "Jewish Studies",
+            "Linguistics",
+            "Literature",
+            "Modern Languages",
+            "Musicology",
+            "Oriental Studies",
+            "Philology",
+            "Philosophy",
+            "Prehistory",
+            "Religious Studies",
+            "Slavic Languages",
+            "Spanish",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Civil Law",
+            "Commercial Law",
+            "Criminal Law",
+            "European Union Law",
+            "Health Administration",
+            "History of Law",
+            "Human Rights",
+            "International Law",
+            "Law",
+            "Notary Studies",
+            "Private Law",
+            "Public Law"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Anaesthesiology",
+            "Anatomy",
+            "Biomedical Engineering",
+            "Biomedicine",
+            "Cardiology",
+            "Clinical Psychology",
+            "Dentistry",
+            "Dermatology",
+            "Diabetology",
+            "Endocrinology",
+            "Forensic Medicine and Dentistry",
+            "Haematology",
+            "Medicine",
+            "Nephrology",
+            "Neurology",
+            "Obstetrics and Gynaecology",
+            "Orthopaedics",
+            "Paediatrics",
+            "Physiology",
+            "Plastic Surgery",
+            "Pneumology",
+            "Radiology",
+            "Rheumatology"
+          ]
+        },
+        {
+          "name": "Faculty : Natural Sciences",
+          "fields": [
+            "Anatomy",
+            "Applied Mathematics",
+            "Applied Physics",
+            "Astronomy and Space Science",
+            "Biochemistry",
+            "Biology",
+            "Botany",
+            "Cell Biology",
+            "Chemistry",
+            "Computer Science",
+            "Earth Sciences",
+            "Ecology",
+            "Geography",
+            "Geology",
+            "Mathematics",
+            "Natural Sciences",
+            "Pharmacology",
+            "Pharmacy",
+            "Physics",
+            "Plant Pathology",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Faculty : Theology",
+          "fields": [
+            "Bible",
+            "Catholic Theology",
+            "History of Religion",
+            "Jewish Studies",
+            "New Testament",
+            "Protestant Theology",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Faculty : Veterinary Medicine",
+          "fields": [
+            "Veterinary Science"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Anthropology",
+            "Archaeology",
+            "Art History",
+            "Asian Studies",
+            "Biochemistry",
+            "Biological and Life Sciences",
+            "Biology",
+            "Business Administration",
+            "Chemistry",
+            "Computer Science",
+            "Cultural Studies",
+            "Dentistry",
+            "Earth Sciences",
+            "Eastern European Studies",
+            "Economics",
+            "Education",
+            "English",
+            "English Studies",
+            "French",
+            "French Studies",
+            "Geography",
+            "German",
+            "History",
+            "Islamic Studies",
+            "Italian",
+            "Law",
+            "Linguistics",
+            "Literature",
+            "Mathematics",
+            "Medicine",
+            "Middle Eastern Studies",
+            "Molecular Biology",
+            "Musicology",
+            "Natural Sciences",
+            "Pharmacology",
+            "Pharmacy",
+            "Philology",
+            "Philosophy",
+            "Physics",
+            "Psychology",
+            "Religious Studies",
+            "Slavic Languages",
+            "Social Sciences",
+            "Spanish",
+            "Sports",
+            "Theatre",
+            "Theology",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Anthropology",
+            "Archaeology",
+            "Art History",
+            "Arts and Humanities",
+            "Asian Studies",
+            "Astronomy and Space Science",
+            "Biochemistry",
+            "Biological and Life Sciences",
+            "Biology",
+            "Biomedical Engineering",
+            "Biomedicine",
+            "Business Administration",
+            "Chemistry",
+            "Comparative Politics",
+            "Computer Science",
+            "Criminal Law",
+            "Cultural Studies",
+            "Dance",
+            "Dentistry",
+            "Earth Sciences",
+            "Eastern European Studies",
+            "Ecology",
+            "Economics",
+            "Education",
+            "English",
+            "English Studies",
+            "French",
+            "French Studies",
+            "Gender Studies",
+            "Geography",
+            "German",
+            "Hispanic American Studies",
+            "History",
+            "International Law",
+            "Islamic Studies",
+            "Italian",
+            "Jewish Studies",
+            "Law",
+            "Linguistics",
+            "Literature",
+            "Mathematics",
+            "Medicine",
+            "Meteorology",
+            "Middle Eastern Studies",
+            "Musicology",
+            "Natural Sciences",
+            "Oriental Studies",
+            "Philology",
+            "Philosophy",
+            "Physics",
+            "Political Sciences",
+            "Psychology",
+            "Publishing and Book Trade",
+            "Religious Studies",
+            "Slavic Languages",
+            "Social Sciences",
+            "Sociology",
+            "Spanish",
+            "Sports",
+            "Statistics",
+            "Theatre",
+            "Theology",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Master of Advanced Studies",
+          "fields": [
+            "Business Administration",
+            "Criminal Law",
+            "Dance",
+            "Dentistry",
+            "Economics",
+            "Education",
+            "Endocrinology",
+            "Health Sciences",
+            "International Law",
+            "International Studies",
+            "Law",
+            "Library Science",
+            "Management",
+            "Medicine",
+            "Psychology",
+            "Public Administration",
+            "Statistics",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Doktorat/ Doctorat/ Dottorato",
+          "fields": [
+            "Anthropology",
+            "Archaeology",
+            "Art History",
+            "Astronomy and Space Science",
+            "Biochemistry",
+            "Biological and Life Sciences",
+            "Business Administration",
+            "Catholic Theology",
+            "Cell Biology",
+            "Chemistry",
+            "Computer Science",
+            "Criminal Law",
+            "Cultural Studies",
+            "Dentistry",
+            "Earth Sciences",
+            "Ecology",
+            "Economics",
+            "Education",
+            "English Studies",
+            "French",
+            "French Studies",
+            "Gender Studies",
+            "Geography",
+            "Geology",
+            "German",
+            "History",
+            "Islamic Studies",
+            "Italian",
+            "Jewish Studies",
+            "Law",
+            "Linguistics",
+            "Literature",
+            "Mathematics",
+            "Medicine",
+            "Middle Eastern Studies",
+            "Molecular Biology",
+            "Musicology",
+            "Natural Sciences",
+            "Oriental Studies",
+            "Philology",
+            "Philosophy",
+            "Physics",
+            "Political Sciences",
+            "Protestant Theology",
+            "Psychology",
+            "Public Administration",
+            "Religious Studies",
+            "Slavic Languages",
+            "Sociology",
+            "Spanish",
+            "Sports",
+            "Statistics",
+            "Theatre",
+            "Theology",
+            "Veterinary Science"
+          ]
+        }
+      ],
+      "accreditation": "Swiss Agency of Accreditation and Quality Assurance AAQ",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Virginia Richter"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Christoph Pappa"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Markus Brönnimann"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Ellen Krause"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2019-2020",
+        "Staff Full Time Total:": "466",
+        "Students Statistics Year:": "2024-2025",
+        "Students Total:": "19600"
+      },
+      "history": "The University of Bern has roots dating back to the 16th century and was officially transformed into a university in 1834. The University of Bern stands for excellence in teaching and research across the entire institution. Its comprehensive study programs range from the sciences to the humanities and beyond. With many internationally acclaimed research strengths, highlights include climate science, space, medicine and sustainable development",
+      "periodicals": [
+        "Annual Report uniaktuell: online news magazine unilink UniPress",
+        "Annual Report",
+        "uniaktuell: online news magazine",
+        "unilink",
+        "UniPress"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "4960",
+      "iau_id": "IAU-004960",
+      "name": "Eastern Switzerland University of Applied Sciences",
+      "alt_name": "Ostschweizer Fachhochschule zusammengeschlossen (OST)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tI0RWLGBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004960",
+      "address": {
+        "Street": "Avenue de l'Europe 20",
+        "City": "Fribourg",
+        "Post Code": "1700",
+        "WWW": "https://www.unifr.ch"
+      },
+      "website": "https://www.unifr.ch",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to July (September-January; February-June)",
+      "languages": [
+        "French",
+        "German"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Arts and Humanities",
+          "fields": [
+            "Art History",
+            "Arts and Humanities",
+            "Classical Languages",
+            "Contemporary History",
+            "Education",
+            "Educational Sciences",
+            "English",
+            "English Studies",
+            "Ethnology",
+            "European Studies",
+            "Foreigners Education",
+            "French",
+            "German",
+            "History",
+            "Italian",
+            "Literature",
+            "Medieval Studies",
+            "Modern History",
+            "Modern Languages",
+            "Musicology",
+            "Philosophy",
+            "Psychology",
+            "Religious Studies",
+            "Romance Languages",
+            "Slavic Languages",
+            "Social Policy",
+            "Social Sciences",
+            "Social Work",
+            "Sociology",
+            "Spanish",
+            "Special Education",
+            "Teacher Trainers Education"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Civil Law",
+            "Commercial Law",
+            "Criminal Law",
+            "European Union Law",
+            "International Law",
+            "Law",
+            "Private Law",
+            "Public Law"
+          ]
+        },
+        {
+          "name": "Faculty : Management, Economics and Social Sciences",
+          "fields": [
+            "Accountancy",
+            "Business Computing",
+            "Communication Studies",
+            "Computer Science",
+            "Economics",
+            "Finance",
+            "International Business",
+            "Management",
+            "Management Systems",
+            "Media Studies",
+            "Political Sciences",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Science and Medecine",
+          "fields": [
+            "Biochemistry",
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Earth Sciences",
+            "Geography",
+            "Mathematics",
+            "Medicine",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Faculty : Theology",
+          "fields": [
+            "Bible",
+            "Catholic Theology",
+            "Ethics",
+            "History of Religion",
+            "Pastoral Studies",
+            "Philosophy",
+            "Religion",
+            "Religious Practice"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Biochemistry",
+            "Biology",
+            "Biomedical Engineering",
+            "Chemistry",
+            "Computer Science",
+            "Earth Sciences",
+            "Eastern European Studies",
+            "Economics",
+            "Educational Sciences",
+            "Fine Arts",
+            "French",
+            "Geography",
+            "German",
+            "History",
+            "Information Management",
+            "Information Technology",
+            "Italian",
+            "Law",
+            "Literature",
+            "Mathematics",
+            "Media Studies",
+            "Physics",
+            "Psychology",
+            "Religious Studies",
+            "Social Sciences",
+            "Social Studies",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Accountancy",
+            "Archaeology",
+            "Art History",
+            "Biochemistry",
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Economics",
+            "Finance",
+            "Fine Arts",
+            "Geography",
+            "Information Management",
+            "Information Technology",
+            "Law",
+            "Management",
+            "Mathematics",
+            "Philosophy",
+            "Physics",
+            "Social Sciences",
+            "Social Studies",
+            "Spanish",
+            "Speech Therapy and Audiology",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Doktorat/ Doctorat/ Dottorato",
+          "fields": [
+            "Accountancy",
+            "Archaeology",
+            "Art History",
+            "Arts and Humanities",
+            "Biochemistry",
+            "Biological and Life Sciences",
+            "Chemistry",
+            "Comparative Literature",
+            "Computer Science",
+            "Earth Sciences",
+            "Eastern European Studies",
+            "Economics",
+            "Education",
+            "Educational Sciences",
+            "English",
+            "European Studies",
+            "European Union Law",
+            "French",
+            "Gender Studies",
+            "Geography",
+            "History",
+            "International Law",
+            "Islamic Studies",
+            "Law",
+            "Linguistics",
+            "Musicology",
+            "Natural Sciences",
+            "Opera",
+            "Philosophy",
+            "Physics",
+            "Psychology",
+            "Slavic Languages",
+            "Social Sciences",
+            "Sociology",
+            "Spanish",
+            "Teacher Trainers Education",
+            "Theology"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Katharina Fromm"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Marius Widmer"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Bernard Ries"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Veronika Favre"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2019-2020",
+        "Staff Full Time Total:": "800",
+        "Students Statistics Year:": "2024-2025",
+        "Students Total:": "10000",
+        "Students Foreign Total:": "2000"
+      },
+      "history": "Founded in 1889, the University of Fribourg encompasses five faculties where people study, teach and research: Arts and Humanities; Law; Management, Economics and Social Sciences; Science and Medicine; and Theology. As the only bilingual university in Switzerland, the University of Fribourg offers a wide range of courses of study in French, German or both. A number of courses with an international aspect are also offered in English. The members of our University community come from 110 countries and make Fribourg, with its 40,000 inhabitants, a university town “par excellence”",
+      "periodicals": [
+        "Alma & Georges (online news magazine) Annual Report Main Press: Unicom Communication & Media Universitas (formerly: Universitas Friburgensis)",
+        "Alma & Georges (online news magazine)",
+        "Annual Report",
+        "Main Press: Unicom Communication & Media",
+        "Universitas (formerly: Universitas Friburgensis)"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "27251",
+      "iau_id": "IAU-027251",
+      "name": "Franklin University Switzerland",
+      "alt_name": "(FUS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzxSLTMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-027251",
+      "address": {
+        "Street": "24 rue du Général-Dufour",
+        "City": "Genève",
+        "Post Code": "1211",
+        "WWW": "http://www.unige.ch"
+      },
+      "website": "http://www.unige.ch",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1559,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June (September - December; February - June)",
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Affective Sciences",
+          "fields": [
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Centre : Bioethics and Social Sciences in Medicine",
+          "fields": [
+            "Arts and Humanities",
+            "Ethics"
+          ]
+        },
+        {
+          "name": "Centre : Bioinformatics",
+          "fields": [
+            "Biological and Life Sciences",
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Centre : Computer Science",
+          "fields": [
+            "Computer Science",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Centre : Gerontology and Vulnerability",
+          "fields": [
+            "Gerontology"
+          ]
+        },
+        {
+          "name": "Centre : History",
+          "fields": [
+            "History"
+          ]
+        },
+        {
+          "name": "Centre : Neurosciences",
+          "fields": [
+            "Neurosciences"
+          ]
+        },
+        {
+          "name": "Faculty : Humanities",
+          "fields": [
+            "Ancient Civilizations",
+            "Anthropology",
+            "Arabic",
+            "Archaeology",
+            "Art History",
+            "Arts and Humanities",
+            "Chinese",
+            "Classical Languages",
+            "Comparative Literature",
+            "Computer Science",
+            "Contemporary History",
+            "Cultural Studies",
+            "East Asian Studies",
+            "English",
+            "French",
+            "German",
+            "Greek",
+            "Greek (Classical)",
+            "History",
+            "International Relations and Diplomacy",
+            "Italian",
+            "Japanese",
+            "Korean",
+            "Latin",
+            "Linguistics",
+            "Literature",
+            "Medieval Studies",
+            "Modern History",
+            "Music",
+            "Musicology",
+            "Oriental Studies",
+            "Philosophy",
+            "Portuguese",
+            "Prehistory",
+            "Russian",
+            "Slavic Languages",
+            "Spanish"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Civil Law",
+            "Commercial Law",
+            "Criminal Law",
+            "History of Law",
+            "International Law",
+            "Labour Law",
+            "Law",
+            "Private Law",
+            "Public Law"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Anaesthesiology",
+            "Biology",
+            "Cell Biology",
+            "Community Health",
+            "Dentistry",
+            "Dermatology",
+            "Genetics",
+            "Gerontology",
+            "Immunology",
+            "Medical Technology",
+            "Medicine",
+            "Microbiology",
+            "Molecular Biology",
+            "Neurosciences",
+            "Obstetrics and Gynaecology",
+            "Paediatrics",
+            "Pathology",
+            "Pharmacology",
+            "Physiology",
+            "Psychiatry and Mental Health",
+            "Radiology",
+            "Surgery"
+          ]
+        },
+        {
+          "name": "Faculty : Psychology and Educational Sciences",
+          "fields": [
+            "Adult Education",
+            "Behavioural Sciences",
+            "Clinical Psychology",
+            "Cognitive Sciences",
+            "Development Studies",
+            "Education",
+            "Educational Sciences",
+            "Educational Technology",
+            "Psychology",
+            "Special Education"
+          ]
+        },
+        {
+          "name": "Faculty : Sciences",
+          "fields": [
+            "Astronomy and Space Science",
+            "Biochemistry",
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Earth Sciences",
+            "Environmental Studies",
+            "Mathematics",
+            "Pharmacy",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Faculty : Social Science and Economics",
+          "fields": [
+            "Business and Commerce",
+            "Economic History",
+            "Economics",
+            "Environmental Studies",
+            "Geography (Human)",
+            "International Relations and Diplomacy",
+            "Political Sciences",
+            "Social Sciences",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Faculty : Theology",
+          "fields": [
+            "Protestant Theology",
+            "Religious Studies",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Faculty : Translation and Interpretation",
+          "fields": [
+            "Arabic",
+            "English",
+            "French",
+            "German",
+            "Italian",
+            "Russian",
+            "Spanish",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Graduate School : International and Development Studies",
+          "fields": [
+            "Development Studies",
+            "International Studies"
+          ]
+        },
+        {
+          "name": "Institute : Ecumenical Studies",
+          "fields": [
+            "Bible",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Institute : Environmental Sciences",
+          "fields": [
+            "Environmental Studies"
+          ]
+        },
+        {
+          "name": "Institute : Genetics and Genomics",
+          "fields": [
+            "Genetics"
+          ]
+        },
+        {
+          "name": "Institute : Global Studies",
+          "fields": [
+            "European Studies",
+            "International Relations and Diplomacy"
+          ]
+        },
+        {
+          "name": "Institute : History of the Reformation",
+          "fields": [
+            "History"
+          ]
+        },
+        {
+          "name": "Institute : Movement Sciences and Sports Medicine",
+          "fields": [
+            "Sports Medicine"
+          ]
+        },
+        {
+          "name": "Institute : University Teacher Training",
+          "fields": [
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Research Division : Geneva Finance",
+          "fields": [
+            "Finance"
+          ]
+        },
+        {
+          "name": "School : Economics and Management",
+          "fields": [
+            "Economics",
+            "Management"
+          ]
+        },
+        {
+          "name": "School : French language and Civilization",
+          "fields": [
+            "French",
+            "French Studies"
+          ]
+        },
+        {
+          "name": "School : Social Sciences",
+          "fields": [
+            "Social Sciences"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Arts and Humanities",
+            "Computer Science",
+            "Economics",
+            "Educational Sciences",
+            "Law",
+            "Management",
+            "Medicine",
+            "Natural Sciences",
+            "Psychology",
+            "Social Sciences",
+            "Theology",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Adult Education",
+            "African Studies",
+            "Ancient Civilizations",
+            "Anthropology",
+            "Arabic",
+            "Archaeology",
+            "Art History",
+            "Arts and Humanities",
+            "Asian Studies",
+            "Astrophysics",
+            "Biochemistry",
+            "Biology",
+            "Business Administration",
+            "Central European Studies",
+            "Chemistry",
+            "Chinese",
+            "Civil Law",
+            "Classical Languages",
+            "Commercial Law",
+            "Communication Studies",
+            "Comparative Literature",
+            "Computer Science",
+            "Criminal Law",
+            "Dentistry",
+            "Development Studies",
+            "Earth Sciences",
+            "Eastern European Studies",
+            "Economic History",
+            "Economics",
+            "Education",
+            "Educational Psychology",
+            "English",
+            "Environmental Studies",
+            "Ethnology",
+            "European Studies",
+            "European Union Law",
+            "French",
+            "Gender Studies",
+            "Geography (Human)",
+            "German",
+            "Germanic Studies",
+            "Greek (Classical)",
+            "Health Sciences",
+            "Hispanic American Studies",
+            "History",
+            "Human Rights",
+            "International Law",
+            "International Studies",
+            "Italian",
+            "Japanese",
+            "Journalism",
+            "Latin",
+            "Law",
+            "Linguistics",
+            "Literature",
+            "Management",
+            "Mass Communication",
+            "Mathematics",
+            "Mathematics and Computer Science",
+            "Media Studies",
+            "Medicine",
+            "Medieval Studies",
+            "Middle Eastern Studies",
+            "Musicology",
+            "Natural Sciences",
+            "Neurosciences",
+            "Pharmacy",
+            "Philosophy",
+            "Physics",
+            "Political Sciences",
+            "Preschool Education",
+            "Psychology",
+            "Public Administration",
+            "Regional Planning",
+            "Russian",
+            "Social Sciences",
+            "Spanish",
+            "Special Education",
+            "Speech Therapy and Audiology",
+            "Statistics",
+            "Teacher Training",
+            "Technology",
+            "Technology Education",
+            "Theology",
+            "Town Planning",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Doktorat/ Doctorat/ Dottorato",
+          "fields": [
+            "Anthropology",
+            "Archaeology",
+            "Arts and Humanities",
+            "Astronomy and Space Science",
+            "Astrophysics",
+            "Atomic and Molecular Physics",
+            "Biochemistry",
+            "Biology",
+            "Biomedical Engineering",
+            "Chemistry",
+            "Computer Science",
+            "Demography and Population",
+            "Dentistry",
+            "Earth Sciences",
+            "Econometrics",
+            "Economic History",
+            "Economics",
+            "Educational Sciences",
+            "Environmental Studies",
+            "European Union Law",
+            "Finance",
+            "Fiscal Law",
+            "Gender Studies",
+            "Geography",
+            "Health Sciences",
+            "Home Economics",
+            "Human Rights",
+            "Journalism",
+            "Law",
+            "Management",
+            "Mass Communication",
+            "Mathematics",
+            "Medicine",
+            "Neurosciences",
+            "Physics",
+            "Political Sciences",
+            "Psychology",
+            "Public Administration",
+            "Science Education",
+            "Social Sciences",
+            "Sociology",
+            "Speech Therapy and Audiology",
+            "Statistics",
+            "Theology",
+            "Translation and Interpretation"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Audrey Leuba"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Didier Raboud"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Noria Mezlef"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2019-2020",
+        "Staff Full Time Total:": "4565",
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "17744"
+      },
+      "history": "Founded 1559 as Schola Genevensis by Calvin, established as university 1873. Under the supervision of the Department of Public Education and financed by the State",
+      "periodicals": [
+        "Campus Le Journal de l’UNIGE",
+        "Campus",
+        "Le Journal de l’UNIGE"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "7928",
+      "iau_id": "IAU-007928",
+      "name": "Graduate Institute of International and Development Studies",
+      "alt_name": "Institut de hautes études internationales et du développement – The Graduate Institute, Geneva",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tU0RSLmBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007928",
+      "address": {
+        "Street": "Unicentre",
+        "City": "Lausanne",
+        "Post Code": "1015",
+        "WWW": "https://www.unil.ch"
+      },
+      "website": "https://www.unil.ch",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1537,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to July (autumn semester: September-February; spring semester: February-July)",
+      "languages": [
+        "French",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Arts",
+          "fields": [
+            "Archaeology",
+            "Archiving",
+            "Art History",
+            "Arts and Humanities",
+            "Asian Studies",
+            "Cinema and Television",
+            "Classical Languages",
+            "Communication Studies",
+            "Comparative Literature",
+            "Computer Science",
+            "English",
+            "Foreign Languages Education",
+            "French",
+            "German",
+            "Heritage Preservation",
+            "History",
+            "History of Religion",
+            "Italian",
+            "Linguistics",
+            "Medieval Studies",
+            "Museum Studies",
+            "Philosophy",
+            "Slavic Languages",
+            "South Asian Studies",
+            "Spanish",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Faculty : Biology and Medicine",
+          "fields": [
+            "Behavioural Sciences",
+            "Biology",
+            "Business Administration",
+            "Cardiology",
+            "Computer Science",
+            "Ecology",
+            "Immunology",
+            "Medicine",
+            "Microbiology",
+            "Molecular Biology",
+            "Neurosciences",
+            "Nursing",
+            "Occupational Health",
+            "Oncology",
+            "Pharmacy",
+            "Sports Management"
+          ]
+        },
+        {
+          "name": "Faculty : Business and Economics",
+          "fields": [
+            "Accountancy",
+            "Actuarial Science",
+            "Administration",
+            "Business Administration",
+            "Criminal Law",
+            "Economics",
+            "Engineering Management",
+            "Finance",
+            "Health Administration",
+            "Industrial and Organizational Psychology",
+            "Information Sciences",
+            "Information Technology",
+            "International Business",
+            "Law",
+            "Logic",
+            "Management",
+            "Marketing",
+            "Public Administration",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Geosciences and Environment",
+          "fields": [
+            "Biological and Life Sciences",
+            "Chemistry",
+            "Development Studies",
+            "Earth Sciences",
+            "Ecology",
+            "Environmental Studies",
+            "Geography",
+            "Geology",
+            "Government",
+            "Physics",
+            "Town Planning",
+            "Urban Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Law, Criminal Justice and Public Administration",
+          "fields": [
+            "Commercial Law",
+            "Comparative Law",
+            "Criminal Law",
+            "Economics",
+            "European Union Law",
+            "Fiscal Law",
+            "Information Technology",
+            "International Law",
+            "Labour Law",
+            "Law",
+            "Modern Languages",
+            "Private Law",
+            "Public Law",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Faculty : Social and Political Sciences",
+          "fields": [
+            "Education",
+            "Educational Sciences",
+            "Human Resources",
+            "Mathematics",
+            "Neurosciences",
+            "Physical Education",
+            "Political Sciences",
+            "Psychology",
+            "Public Administration",
+            "Religion",
+            "Social Psychology",
+            "Social Sciences",
+            "Sports",
+            "Teacher Training",
+            "Tourism",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "Faculty : Theology and Religious Studies",
+          "fields": [
+            "Religious Studies",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Graduate School : Public Administration",
+          "fields": [
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "School : Criminal Justice",
+          "fields": [
+            "Criminal Law",
+            "Criminology",
+            "Forensic Medicine and Dentistry",
+            "Information Technology",
+            "Protective Services"
+          ]
+        },
+        {
+          "name": "School : French as a Foreign Language",
+          "fields": [
+            "Foreign Languages Education",
+            "French"
+          ]
+        },
+        {
+          "name": "Unit : Pharmacy",
+          "fields": [
+            "Pharmacy"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Ancient Civilizations",
+            "Archaeology",
+            "Art History",
+            "Biology",
+            "Classical Languages",
+            "Computer Science",
+            "Cultural Studies",
+            "Earth Sciences",
+            "Economics",
+            "English",
+            "Film",
+            "Forensic Medicine and Dentistry",
+            "French",
+            "German",
+            "Greek (Classical)",
+            "History",
+            "Italian",
+            "Latin",
+            "Law",
+            "Linguistics",
+            "Management",
+            "Medicine",
+            "Pharmacy",
+            "Philosophy",
+            "Political Sciences",
+            "Psychology",
+            "Religion",
+            "Slavic Languages",
+            "Social Sciences",
+            "South Asian Studies",
+            "Spanish",
+            "Sports",
+            "Theology",
+            "Tibetan"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Accountancy",
+            "Actuarial Science",
+            "Art History",
+            "Asian Studies",
+            "Behavioural Sciences",
+            "Biological and Life Sciences",
+            "Biology",
+            "Cinema and Television",
+            "Classical Languages",
+            "Communication Studies",
+            "Computer Science",
+            "Criminal Law",
+            "Earth Sciences",
+            "Economics",
+            "Education",
+            "English",
+            "Environmental Studies",
+            "Finance",
+            "Forensic Medicine and Dentistry",
+            "French",
+            "Geography",
+            "Geology",
+            "German",
+            "History",
+            "Information Technology",
+            "Italian",
+            "Law",
+            "Management",
+            "Medicine",
+            "Modern Languages",
+            "Molecular Biology",
+            "Museum Studies",
+            "Nursing",
+            "Philosophy",
+            "Political Sciences",
+            "Psychology",
+            "Rehabilitation and Therapy",
+            "Religion",
+            "Social Sciences",
+            "Spanish",
+            "Sports",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Master of Advanced Studies",
+          "fields": [
+            "Architecture",
+            "Archiving",
+            "Civil Engineering",
+            "Commercial Law",
+            "Development Studies",
+            "Environmental Studies",
+            "European Union Law",
+            "Government",
+            "Health Administration",
+            "Health Sciences",
+            "Heritage Preservation",
+            "Information Sciences",
+            "International Business",
+            "Leadership",
+            "Library Science",
+            "Pharmacy",
+            "Postal Services",
+            "Psychology",
+            "Public Administration",
+            "Social Psychology",
+            "Town Planning",
+            "Transport Management",
+            "Urban Studies"
+          ]
+        },
+        {
+          "name": "Doktorat/ Doctorat/ Dottorato",
+          "fields": [
+            "Applied Mathematics",
+            "Biological and Life Sciences",
+            "Criminology",
+            "Earth Sciences",
+            "Economics",
+            "Educational Sciences",
+            "Fine Arts",
+            "Forensic Medicine and Dentistry",
+            "Information Technology",
+            "Law",
+            "Mathematics and Computer Science",
+            "Medicine",
+            "Natural Sciences",
+            "Neurosciences",
+            "Nursing",
+            "Political Sciences",
+            "Psychology",
+            "Public Administration",
+            "Public Law",
+            "Religious Studies",
+            "Social Psychology",
+            "Social Sciences",
+            "Sports",
+            "Theology",
+            "Tourism"
+          ]
+        }
+      ],
+      "accreditation": "Swiss Center of Accreditation and Quality Assurance in Higher Education (OAQ), EQUIS",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Frédéric Herman"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Marc de Perrot"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Anne-Christine Fornage"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Denis Dafflon"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2019-2020",
+        "Staff Full Time Total:": "2423",
+        "Students Statistics Year:": "2024-2025",
+        "Students Total:": "16951"
+      },
+      "history": "Founded 1537 as the Académie de Lausanne, a theological seminary. Received the status of a University in 1890. The University is an independent public institution under the control of the Cantonal authorities.",
+      "periodicals": [
+        "Allez Savoir Uniscope",
+        "Allez Savoir",
+        "Uniscope"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "10055",
+      "iau_id": "IAU-010055",
+      "name": "Kalaidos University of Applied Sciences Switzerland",
+      "alt_name": "Kalaidos Fachhochschule Schweiz – Kalaidos FH (FHS/UAS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM2BQLTM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-010055",
+      "address": {
+        "Street": "Frohburgstrasse 3Postfach 4466",
+        "City": "Lucerne",
+        "Post Code": "6002",
+        "WWW": "https://www.unilu.ch"
+      },
+      "website": "https://www.unilu.ch",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "August-July",
+      "languages": [
+        "German",
+        "English",
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Health Sciences and Medicine",
+          "fields": [
+            "Health Sciences",
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Faculty : Economics and Management",
+          "fields": [
+            "Economics",
+            "Management"
+          ]
+        },
+        {
+          "name": "Faculty : Humanities and Social Sciences",
+          "fields": [
+            "Anthropology",
+            "Arts and Humanities",
+            "Communication Studies",
+            "Cultural Studies",
+            "Ethnology",
+            "History",
+            "Jewish Studies",
+            "Judaic Religious Studies",
+            "Philosophy",
+            "Political Sciences",
+            "Psychology",
+            "Religious Studies",
+            "Social Sciences",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Administrative Law",
+            "Civil Law",
+            "Commercial Law",
+            "Constitutional Law",
+            "Criminal Law",
+            "European Union Law",
+            "International Law",
+            "Law",
+            "Private Law"
+          ]
+        },
+        {
+          "name": "Faculty : Theology",
+          "fields": [
+            "Catholic Theology",
+            "Philosophy",
+            "Religious Education",
+            "Religious Music",
+            "Theology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Anthropology",
+            "Communication Studies",
+            "Cultural Studies",
+            "Economics",
+            "Ethics",
+            "Ethnology",
+            "Health Sciences",
+            "History",
+            "Jewish Studies",
+            "Law",
+            "Management",
+            "Philosophy",
+            "Political Sciences",
+            "Religious Education",
+            "Religious Studies",
+            "Social Studies",
+            "Sociology",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Communication Studies",
+            "Cultural Studies",
+            "Economics",
+            "Ethnology",
+            "Health Sciences",
+            "History",
+            "International Studies",
+            "Jewish Studies",
+            "Law",
+            "Management",
+            "Philosophy",
+            "Political Sciences",
+            "Religious Education",
+            "Religious Music",
+            "Religious Studies",
+            "Social Sciences",
+            "Sociology",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Doktorat/ Doctorat/ Dottorato",
+          "fields": [
+            "Cultural Studies",
+            "Economics",
+            "Ethnology",
+            "Health Sciences",
+            "History",
+            "Jewish Studies",
+            "Law",
+            "Philosophy",
+            "Political Sciences",
+            "Religious Studies",
+            "Social Sciences",
+            "Sociology",
+            "Theology"
+          ]
+        }
+      ],
+      "accreditation": "Swiss Agency for Accreditation and Quality Assurance - AAQ",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Martin Hartmann"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Doris Schmidli"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Catrin E. Scheiber"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Gisela Michel"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2021-2022",
+        "Staff Full Time Total:": "362",
+        "Students Statistics Year:": "2021-2022",
+        "Students Total:": "3155"
+      },
+      "history": "Roots going back to 1574. Founded in 2000. Acquired present status and title in 2005",
+      "periodicals": [
+        "Clio Lucernensis Judaica et Christiana Luzerner Beiträge zur Rechtswissenschaft",
+        "Clio Lucernensis",
+        "Judaica et Christiana",
+        "Luzerner Beiträge zur Rechtswissenschaft"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "7444",
+      "iau_id": "IAU-007444",
+      "name": "Lucerne University of Applied Sciences and Arts",
+      "alt_name": "Hochschule Luzern (FHZ/HSLU)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tUzBULWBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007444",
+      "address": {
+        "Street": "Avenue du 1er-Mars 26",
+        "City": "Neuchâtel",
+        "Post Code": "2000",
+        "WWW": "https://www.unine.ch"
+      },
+      "website": "https://www.unine.ch",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1838,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June",
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Arts and Humanities",
+          "fields": [
+            "Ancient Civilizations",
+            "Archaeology",
+            "Art History",
+            "Arts and Humanities",
+            "Cognitive Sciences",
+            "Communication Studies",
+            "Education",
+            "English",
+            "Ethnology",
+            "French",
+            "Geography (Human)",
+            "Germanic Studies",
+            "History",
+            "Information Technology",
+            "Linguistics",
+            "Literature",
+            "Logic",
+            "Medieval Studies",
+            "Modern Languages",
+            "Museum Studies",
+            "Philosophy",
+            "Psychology",
+            "Sociology",
+            "Spanish"
+          ]
+        },
+        {
+          "name": "Faculty : Economics and Business",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Computer Science",
+            "Economics",
+            "Finance",
+            "Human Resources",
+            "Industrial and Organizational Psychology",
+            "Information Management",
+            "Information Technology",
+            "International Business",
+            "Journalism",
+            "Media Studies",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Administrative Law",
+            "Commercial Law",
+            "European Union Law",
+            "Finance",
+            "Insurance",
+            "International Law",
+            "Law",
+            "Public Law"
+          ]
+        },
+        {
+          "name": "Faculty : Science",
+          "fields": [
+            "Biology",
+            "Botany",
+            "Cell Biology",
+            "Chemistry",
+            "Computer Science",
+            "Earth Sciences",
+            "Ecology",
+            "Entomology",
+            "Epidemiology",
+            "Ethnology",
+            "Geology",
+            "Immunology",
+            "Mathematics",
+            "Medicine",
+            "Microbiology",
+            "Molecular Biology",
+            "Nanotechnology",
+            "Natural Sciences",
+            "Organic Chemistry",
+            "Parasitology",
+            "Pharmacy",
+            "Physics",
+            "Physiology",
+            "Plant Pathology",
+            "Soil Science",
+            "Water Science",
+            "Zoology"
+          ]
+        },
+        {
+          "name": "Faculty : Theology",
+          "fields": [
+            "Bible",
+            "Christian Religious Studies",
+            "Ethics",
+            "Greek (Classical)",
+            "Hebrew",
+            "History of Religion",
+            "Philosophy",
+            "Regional Studies",
+            "Theology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Earth Sciences",
+            "Economics",
+            "Fine Arts",
+            "Law",
+            "Mathematics",
+            "Medicine",
+            "Natural Sciences",
+            "Pharmacy",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Applied Mathematics",
+            "Archaeology",
+            "Arts and Humanities",
+            "Biology",
+            "Cognitive Sciences",
+            "Commercial Law",
+            "Communication Studies",
+            "Computer Science",
+            "Earth Sciences",
+            "Economics",
+            "European Union Law",
+            "Finance",
+            "Geological Engineering",
+            "Geology",
+            "History",
+            "Industrial and Organizational Psychology",
+            "International Business",
+            "International Law",
+            "Journalism",
+            "Law",
+            "Mathematics",
+            "Mathematics and Computer Science",
+            "Museum Studies",
+            "Psychology",
+            "Public Law",
+            "Social Sciences",
+            "Speech Therapy and Audiology",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Master of Advanced Studies",
+          "fields": [
+            "Accountancy",
+            "Arts and Humanities",
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Economics",
+            "Finance",
+            "Law",
+            "Management",
+            "Mathematics",
+            "Physics",
+            "Psychology",
+            "Social Sciences",
+            "Statistics",
+            "Thermal Engineering"
+          ]
+        },
+        {
+          "name": "Doktorat/ Doctorat/ Dottorato",
+          "fields": [
+            "Accountancy",
+            "Arts and Humanities",
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Economics",
+            "Finance",
+            "Law",
+            "Management",
+            "Mathematics",
+            "Physics",
+            "Psychology",
+            "Social Sciences",
+            "Statistics",
+            "Thermal Engineering"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Deniz Gyger Gaspoz"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Fabian Greub"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "4180"
+      },
+      "history": "Founded 1838 as Academy, became University 1909. Under the responsibility of the Cantonal authorities.",
+      "periodicals": [
+        "Publications de l'Université Publications des Facultés Recueil de Travaux des Instituts",
+        "Publications de l'Université",
+        "Publications des Facultés",
+        "Recueil de Travaux des Instituts"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "28587",
+      "iau_id": "IAU-028587",
+      "name": "SBS Swiss Business School",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0BVLiM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-028587",
+      "address": {
+        "Street": "Falkenplatz 24",
+        "City": "Bern",
+        "Post Code": "3012",
+        "WWW": "http://www.bfh.ch"
+      },
+      "website": "http://www.bfh.ch",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1802,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "German",
+        "French",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Agriculture, Forestry and Life Sciences",
+          "fields": [
+            "Agriculture",
+            "Biological and Life Sciences",
+            "Food Science",
+            "Food Technology",
+            "Forestry"
+          ]
+        },
+        {
+          "name": "Course/Programme : Architecture, Wood and Civil Engineering",
+          "fields": [
+            "Architecture",
+            "Civil Engineering",
+            "Wood Technology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Business, Health and Social Work",
+          "fields": [
+            "Business Administration",
+            "Dietetics",
+            "Information Technology",
+            "Midwifery",
+            "Nursing",
+            "Nutrition",
+            "Physical Therapy",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Course/Programme : Design, Music, Theatre and other Arts",
+          "fields": [
+            "Architectural Restoration",
+            "Art Education",
+            "Design",
+            "Fine Arts",
+            "Heritage Preservation",
+            "Music",
+            "Music Theory and Composition",
+            "Performing Arts",
+            "Theatre",
+            "Visual Arts",
+            "Writing"
+          ]
+        },
+        {
+          "name": "Course/Programme : Engineering and Information Technology",
+          "fields": [
+            "Automotive Engineering",
+            "Biomedical Engineering",
+            "Electrical Engineering",
+            "Engineering",
+            "Information Technology",
+            "Mechanical Engineering",
+            "Medical Technology",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Sports",
+          "fields": [
+            "Sports"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Agronomy",
+            "Architecture and Planning",
+            "Arts and Humanities",
+            "Business Administration",
+            "Civil Engineering",
+            "Computer Science",
+            "Dietetics",
+            "Electrical Engineering",
+            "Food Science",
+            "Forestry",
+            "Health Sciences",
+            "Heritage Preservation",
+            "Management",
+            "Midwifery",
+            "Multimedia",
+            "Nursing",
+            "Nutrition",
+            "Performing Arts",
+            "Social Work",
+            "Sports",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Master of Advanced Studies",
+          "fields": [
+            "Architectural and Environmental Design",
+            "Biological and Life Sciences",
+            "Biotechnology",
+            "Building Technologies",
+            "Business Administration",
+            "Computer Science",
+            "Design",
+            "Engineering",
+            "Fine Arts",
+            "Forestry",
+            "Health Sciences",
+            "Heritage Preservation",
+            "Management",
+            "Music",
+            "Musicology",
+            "Nanotechnology",
+            "Nursing",
+            "Nutrition",
+            "Performing Arts",
+            "Social Work",
+            "Sports",
+            "Sports Management",
+            "Technology"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Sebastian Wörwag"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Felix Mäder"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Peter Eigenmann"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2019-2020",
+        "Staff Full Time Total:": "2482",
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "6970"
+      },
+      "history": "Founded 1802. Acquired present status 2003",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "13243",
+      "iau_id": "IAU-013243",
+      "name": "St. Gallen University of Teacher Education",
+      "alt_name": "Pädagogische Hochschule St. Gallen (PHSG)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyxSLSMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-013243",
+      "address": {
+        "Street": "Alte Schanfiggerstrasse 7",
+        "City": "Chur",
+        "Post Code": "7000",
+        "WWW": "https://thchur.ch"
+      },
+      "website": "https://thchur.ch",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1968,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "German"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Catholic Theology",
+          "fields": [
+            "Catholic Theology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Catholic Theology"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Catholic Theology"
+          ]
+        },
+        {
+          "name": "Doktorat/ Doctorat/ Dottorato",
+          "fields": [
+            "Catholic Theology"
+          ]
+        }
+      ],
+      "accreditation": "Schweizerische Universitätskonferenz",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Eva-Maria Faber"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Christian Cebulj"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1968",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "27252",
+      "iau_id": "IAU-027252",
+      "name": "State-independent Theological University of Basel",
+      "alt_name": "Staatsunabhängige Theologische Hochschule Basel (STH Basel)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzxSLTMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-027252",
+      "address": {
+        "Street": "Bogenstrasse 7",
+        "City": "St. Gallen",
+        "Post Code": "9000",
+        "WWW": "https://www.ost.ch"
+      },
+      "website": "https://www.ost.ch",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "German"
+      ],
+      "faculties": [
+        {
+          "name": "School : Business and Management",
+          "fields": [
+            "Business Administration",
+            "Economics",
+            "Information Sciences",
+            "Information Technology",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "School : Construction and Planning",
+          "fields": [
+            "Architectural and Environmental Design",
+            "Civil Engineering",
+            "Construction Engineering",
+            "Landscape Architecture"
+          ]
+        },
+        {
+          "name": "School : Health Sciences",
+          "fields": [
+            "Health Sciences",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "School : Social Work",
+          "fields": [
+            "Social Work"
+          ]
+        },
+        {
+          "name": "School : Technology",
+          "fields": [
+            "Computer Engineering",
+            "Computer Science",
+            "Electrical Engineering",
+            "Energy Engineering",
+            "Environmental Engineering",
+            "Mechanical Engineering",
+            "Technology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Architecture and Planning",
+            "Business Administration",
+            "Computer Science",
+            "Engineering",
+            "Health Sciences",
+            "Information Sciences",
+            "Nursing",
+            "Social Work",
+            "Technology",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Architecture and Planning",
+            "Business Administration",
+            "Computer Science",
+            "Economics",
+            "Engineering",
+            "Health Sciences",
+            "Nursing",
+            "Social Work",
+            "Technology",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Master of Advanced Studies",
+          "fields": [
+            "Architecture and Planning",
+            "Business Administration",
+            "Economics",
+            "Engineering",
+            "Health Sciences",
+            "Social Work",
+            "Tourism"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Stefan Kölliker"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Albin Reichlin"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Karin Pfister"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "5982"
+      },
+      "history": "The three universities of Applied sciences in the canton of St.Gallen - FHS St.Gallen, HSR Rapperswil and NTB Buchs - merged on September 1, 2020 to form the OST - Eastern Switzerland University of Applied Sciences. OST is the university of applied sciences for the six cantons of Eastern Switzerland and the Principality of Liechtenstein",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "27247",
+      "iau_id": "IAU-027247",
+      "name": "Swiss Distance University Institute",
+      "alt_name": "Stiftung Universitäre Fernstudien Schweiz, Brig / Fondation Formation universitaire à distance Suisse à Brigue – FernUni Schweiz",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzxSLSM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-027247",
+      "address": {
+        "Street": "Via Ponte Tresa 29",
+        "City": "Sorengo",
+        "Post Code": "6924",
+        "WWW": "https://www.fus.edu"
+      },
+      "website": "https://www.fus.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1969,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Art History and Visual Culture",
+          "fields": [
+            "Art History"
+          ]
+        },
+        {
+          "name": "Department/Division : Communication and Media Studies",
+          "fields": [
+            "Communication Studies",
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "Department/Division : Economics and Finance",
+          "fields": [
+            "Economics",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Department/Division : Environmental Studies",
+          "fields": [
+            "Environmental Studies"
+          ]
+        },
+        {
+          "name": "Department/Division : History",
+          "fields": [
+            "History"
+          ]
+        },
+        {
+          "name": "Department/Division : International Management",
+          "fields": [
+            "Management"
+          ]
+        },
+        {
+          "name": "Department/Division : International Relations and Political Science",
+          "fields": [
+            "International Relations and Diplomacy",
+            "Political Sciences"
+          ]
+        },
+        {
+          "name": "Department/Division : Languages, Literature and Cultures",
+          "fields": [
+            "Cultural Studies",
+            "Literature",
+            "Modern Languages"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Art History",
+            "Banking",
+            "Communication Arts",
+            "Communication Studies",
+            "Cultural Studies",
+            "Environmental Studies",
+            "Fashion Design",
+            "Finance",
+            "French",
+            "French Studies",
+            "History",
+            "International Business",
+            "International Economics",
+            "International Relations and Diplomacy",
+            "Italian",
+            "Literature",
+            "Management",
+            "Media Studies",
+            "Political Sciences",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Economics",
+            "Management"
+          ]
+        }
+      ],
+      "accreditation": "Swiss Accreditation Council; Middle States Commission on Higher Education, USA; Chinese Ministry of Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Greg Warden"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Tomaso Rizzi"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2019-2020",
+        "Staff Full Time Total:": "9",
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "306"
+      },
+      "history": "Founded 1969",
+      "periodicals": [
+        "intervalla: platform for intellectual exchange",
+        "intervalla: platform for intellectual exchange"
+      ],
+      "student_body": null
+    },
+    {
+      "id": "4210",
+      "iau_id": "IAU-004210",
+      "name": "Swiss Federal Institute of Technology of Lausanne",
+      "alt_name": "Ecole polytechnique fédérale de Lausanne – Eidgenössische Technische Hochschule Lausanne (EPFL)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIyhRLGBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004210",
+      "address": {
+        "Street": "Case postale 1672Maison de la paix, Rue Eugène-Rigot 2",
+        "City": "Genève",
+        "Province": "21",
+        "Post Code": "1211",
+        "WWW": "http://graduateinstitute.ch"
+      },
+      "website": "http://graduateinstitute.ch",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1927,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June.",
+      "languages": [
+        "English",
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Development Studies",
+          "fields": [
+            "Anthropology",
+            "Development Studies",
+            "History",
+            "International Economics",
+            "International Law",
+            "International Relations and Diplomacy",
+            "Political Sciences",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Course/Programme : International Affairs",
+          "fields": [
+            "Anthropology",
+            "History",
+            "International Economics",
+            "International Law",
+            "International Relations and Diplomacy",
+            "International Studies",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Department/Division : Anthropology and Sociology of Development",
+          "fields": [
+            "Anthropology",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Department/Division : International Economics",
+          "fields": [
+            "Economics",
+            "International Economics"
+          ]
+        },
+        {
+          "name": "Department/Division : International History",
+          "fields": [
+            "History"
+          ]
+        },
+        {
+          "name": "Department/Division : International Law",
+          "fields": [
+            "International Law"
+          ]
+        },
+        {
+          "name": "Department/Division : International Relations and Political Sciences",
+          "fields": [
+            "International Relations and Diplomacy",
+            "Political Sciences"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Master",
+          "fields": [
+            "Anthropology",
+            "Development Studies",
+            "History",
+            "International Business",
+            "International Economics",
+            "International Law",
+            "International Relations and Diplomacy",
+            "Political Sciences",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Doktorat/ Doctorat/ Dottorato",
+          "fields": [
+            "Anthropology",
+            "Economics",
+            "History",
+            "International Economics",
+            "International Law",
+            "International Relations and Diplomacy",
+            "Political Sciences",
+            "Sociology"
+          ]
+        }
+      ],
+      "accreditation": "Swiss Ministry of Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Philippe Burrin"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Andrea Bianchi"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Bruno Chatagnat"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Eliane Minassian"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "692"
+      },
+      "history": "Founded 1927 at the heyday of the League of Nations, when it became the first institution in the world entirely dedicated to the study of international affairs. An independent organization established as a private foundation, the Graduate Institute receives funding from the Swiss federal state and the state of Geneva. Acquired present status 2008",
+      "periodicals": [
+        "Globe International Development Policy",
+        "Globe",
+        "International Development Policy"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "4440",
+      "iau_id": "IAU-004440",
+      "name": "Swiss Federal University for Vocational Education and Training",
+      "alt_name": "Eidgenössische Hochschule für Berufsbildung – Haute école fédérale en formation professionnelle (SFUVET)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIzBULGBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004440",
+      "address": {
+        "Street": "Kalaidos Fachhochschule WirtschaftJungholzstrasse 43",
+        "City": "Zürich",
+        "Post Code": "8050",
+        "WWW": "http://www.kalaidos-fh.ch"
+      },
+      "website": "http://www.kalaidos-fh.ch",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2005,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "German",
+        "French",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Business and Management",
+          "fields": [
+            "Business Administration",
+            "Business Computing",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Department/Division : Health",
+          "fields": [
+            "Health Sciences",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Department/Division : Music",
+          "fields": [
+            "Music"
+          ]
+        },
+        {
+          "name": "Institute : Accountancy and Controlling",
+          "fields": [
+            "Accountancy"
+          ]
+        },
+        {
+          "name": "Institute : Banking and Finance",
+          "fields": [
+            "Banking",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Institute : Business Information Technology",
+          "fields": [
+            "Business Computing",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Institute : Fiduciary",
+          "fields": [
+            "Finance"
+          ]
+        },
+        {
+          "name": "Institute : General Business Administration",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Institute : International Management",
+          "fields": [
+            "International Business",
+            "Management"
+          ]
+        },
+        {
+          "name": "Institute : Leadership and Relationship Management",
+          "fields": [
+            "Labour and Industrial Relations",
+            "Leadership",
+            "Management"
+          ]
+        },
+        {
+          "name": "Institute : Taxation",
+          "fields": [
+            "Taxation"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Banking",
+            "Business Administration",
+            "Business Computing",
+            "Commercial Law",
+            "Communication Studies",
+            "Economics",
+            "Environmental Studies",
+            "Finance",
+            "Hotel and Restaurant",
+            "Industrial and Organizational Psychology",
+            "Jazz and Popular Music",
+            "Law",
+            "Music",
+            "Music Theory and Composition",
+            "Nursing",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Business Administration",
+            "Health Sciences",
+            "Industrial and Organizational Psychology",
+            "International Business",
+            "Law",
+            "Marketing",
+            "Music",
+            "Music Education",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Master of Advanced Studies",
+          "fields": [
+            "Banking",
+            "Business Administration",
+            "Business Computing",
+            "Economics",
+            "Gerontology",
+            "Health Administration",
+            "Health Sciences",
+            "Human Resources",
+            "Industrial and Organizational Psychology",
+            "Industrial Management",
+            "Leadership",
+            "Management",
+            "Marketing",
+            "Nursing",
+            "Oncology",
+            "Rehabilitation and Therapy",
+            "Taxation"
+          ]
+        },
+        {
+          "name": "Doktorat/ Doctorat/ Dottorato",
+          "fields": [
+            "Business Administration"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "René Weber"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Andrea Benz"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Kerstin Windhövel"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2019-2020",
+        "Staff Full Time Total:": "732",
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "3519"
+      },
+      "history": "Founded 2005. Department of Health founded 2006. Department of Music founded 2010",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "30957",
+      "iau_id": "IAU-030957",
+      "name": "SWISS UMEF University of Applied Sciences institute",
+      "alt_name": "(SWISS UMEF)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sU2BZLTM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-030957",
+      "address": {
+        "Street": "Werftestrasse 4",
+        "City": "Luzern",
+        "Post Code": "6002",
+        "WWW": "http://www.hslu.ch"
+      },
+      "website": "http://www.hslu.ch",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1997,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "German",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Languages",
+          "fields": [
+            "Arabic",
+            "Chinese",
+            "English",
+            "French",
+            "German",
+            "Italian",
+            "Japanese",
+            "Modern Languages",
+            "Portuguese",
+            "Russian",
+            "Spanish"
+          ]
+        },
+        {
+          "name": "School : Art and Design",
+          "fields": [
+            "Design",
+            "Fine Arts"
+          ]
+        },
+        {
+          "name": "School : Business Administration",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "School : Computer Sciences",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "School : Engineering and Architecture",
+          "fields": [
+            "Architecture",
+            "Engineering"
+          ]
+        },
+        {
+          "name": "School : Music",
+          "fields": [
+            "Music"
+          ]
+        },
+        {
+          "name": "School : Social Work",
+          "fields": [
+            "Social Work"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Architecture and Planning",
+            "Business Administration",
+            "Design",
+            "Engineering",
+            "Fine Arts",
+            "Music",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Architecture and Planning",
+            "Art Education",
+            "Business Administration",
+            "Conducting",
+            "Design",
+            "Engineering",
+            "Finance",
+            "Fine Arts",
+            "International Business",
+            "Jazz and Popular Music",
+            "Marketing",
+            "Music",
+            "Music Theory and Composition",
+            "Religious Music",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Master of Advanced Studies",
+          "fields": [
+            "Architecture and Planning",
+            "Business Administration",
+            "Design",
+            "Engineering",
+            "Fine Arts",
+            "Music",
+            "Social Work"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Markus Hodel"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Andreas Kallmann"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "7066"
+      },
+      "history": "Founded 1997 as Fachhochschule Zentralschweiz. Acquired present title and status 2007",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "4959",
+      "iau_id": "IAU-004959",
+      "name": "University of Applied Sciences and Arts Northwestern Switzerland",
+      "alt_name": "Fachhochschule Nordwestschweiz (FHNW)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tI0RVLjBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004959",
+      "address": {
+        "Street": "Flughafenstrasse 3",
+        "City": "Kloten-Zurich",
+        "Post Code": "8302",
+        "WWW": "https://www.sbs.edu"
+      },
+      "website": "https://www.sbs.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "September-June",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "School : Business",
+          "fields": [
+            "Business Administration",
+            "Health Administration",
+            "International Business",
+            "Marketing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Business Administration",
+            "Health Administration",
+            "International Business",
+            "Marketing"
+          ]
+        }
+      ],
+      "accreditation": "Swiss Agency for Accreditation and Quality Assurance - AAQ; Accreditation Council for Business Schools and Programs - ACBSP",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Carl Olsen"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Bert Wolfs"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Marijana Karanfiloska"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "René Handschin"
+        }
+      ],
+      "statistics": {},
+      "history": "Created 1998",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "14590",
+      "iau_id": "IAU-014590",
+      "name": "University of Applied Sciences and Arts of Southern Switzerland",
+      "alt_name": "Scuola universitaria professionale della Svizzera italiana (SUPSI)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzBVLjNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-014590",
+      "address": {
+        "Street": "Notkerstrasse 27",
+        "City": "St. Gallen",
+        "Post Code": "9000",
+        "WWW": "http://www.phsg.ch"
+      },
+      "website": "http://www.phsg.ch",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2007,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "German",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Preschool and Primary Education",
+          "fields": [
+            "Education",
+            "Preschool Education",
+            "Primary Education",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Course/Programme : Secondary Education",
+          "fields": [
+            "Education",
+            "Secondary Education",
+            "Teacher Training"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Education",
+            "Preschool Education",
+            "Primary Education",
+            "Secondary Education",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Education"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Horst Biedermann"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Markus Seitz"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Barbara Wolfer"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2019-2020",
+        "Staff Full Time Total:": "270",
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "1300"
+      },
+      "history": "Founded 2007",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "7097",
+      "iau_id": "IAU-007097",
+      "name": "University of Applied Sciences and Arts Western Switzerland",
+      "alt_name": "Haute Ecole spécialisée de Suisse Occidentale – Fachhochschule Westscwheiz (HES-SO)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tU2BZLVBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007097",
+      "address": {
+        "Street": "Mühlestiegrain 50",
+        "City": "Riehen/Basel",
+        "Post Code": "4125",
+        "WWW": "https://sthbasel.ch"
+      },
+      "website": "https://sthbasel.ch",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1970,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "German"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Theology",
+          "fields": [
+            "Theology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Theology"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Theology"
+          ]
+        },
+        {
+          "name": "Doktorat/ Doctorat/ Dottorato",
+          "fields": [
+            "Theology"
+          ]
+        }
+      ],
+      "accreditation": "Schweizerischen Universitätskonferenz",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Jacob Thiessen"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Benjamin Kilchör"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1970 as Freie Evangelisch-Theologische Akademie Basel, acquired current title 1994 and current status 2014.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "24251",
+      "iau_id": "IAU-024251",
+      "name": "University of Applied Sciences in Business Administration Zurich",
+      "alt_name": "Hochschule für Wirtschaft Zürich (FH-HWZ)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBSLTMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024251",
+      "address": {
+        "Street": "Überlandstrasse 12P.O. Box 265",
+        "City": "Brig",
+        "Post Code": "3900",
+        "WWW": "https://fernuni.ch"
+      },
+      "website": "https://fernuni.ch",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1992,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "French",
+        "German",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Economics",
+          "fields": [
+            "Economics"
+          ]
+        },
+        {
+          "name": "Faculty : History",
+          "fields": [
+            "History"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Psychology",
+          "fields": [
+            "Psychology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Artificial Intelligence",
+            "Economics",
+            "History",
+            "Law",
+            "Mathematics",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Artificial Intelligence",
+            "Economics",
+            "History",
+            "Law",
+            "Mathematics",
+            "Psychology"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Marc Bors"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Stéphane Pannatier"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2019-2020",
+        "Staff Full Time Total:": "330",
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "1900"
+      },
+      "history": "Founded 1992",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "9517",
+      "iau_id": "IAU-009517",
+      "name": "University of Applied Sciences in Special Needs Education",
+      "alt_name": "Interkantonale Hochschule für Heilpädagogik Zürich (HfH)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMzRRLVBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009517",
+      "address": {
+        "Street": "CE 3 316 (Centre Est), Station 1",
+        "City": "Lausanne",
+        "Post Code": "1015",
+        "WWW": "https://www.epfl.ch"
+      },
+      "website": "https://www.epfl.ch",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1853,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to May",
+      "languages": [
+        "French",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "College : Humanities",
+          "fields": [
+            "Ancient Religions",
+            "Cinema and Television",
+            "Communication Studies",
+            "Contemporary History",
+            "Cultural Studies",
+            "East Asian Studies",
+            "Environmental Studies",
+            "Ethics",
+            "Graphic Design",
+            "Human Rights",
+            "Industrial Design",
+            "Media Studies",
+            "Mediterranean Studies",
+            "Music",
+            "Performing Arts",
+            "Philosophy",
+            "Psychology",
+            "Religious Studies",
+            "Social Psychology",
+            "Social Sciences",
+            "Writing"
+          ]
+        },
+        {
+          "name": "College : Technology Management",
+          "fields": [
+            "Econometrics",
+            "Economics",
+            "Finance",
+            "Management",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Architecture, Civil and Environmental Engineering",
+          "fields": [
+            "Architecture",
+            "Civil Engineering",
+            "Environmental Engineering",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "Faculty : Basic Sciences",
+          "fields": [
+            "Applied Chemistry",
+            "Astrophysics",
+            "Biochemistry",
+            "Biophysics",
+            "Chemical Engineering",
+            "Chemistry",
+            "Mathematics and Computer Science",
+            "Nanotechnology",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Faculty : Computer and Communication Sciences",
+          "fields": [
+            "Computer Networks",
+            "Computer Science",
+            "Multimedia",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Bioengineering",
+            "Electrical Engineering",
+            "Engineering",
+            "Materials Engineering",
+            "Mechanical Engineering",
+            "Microelectronics"
+          ]
+        },
+        {
+          "name": "Faculty : Life Sciences",
+          "fields": [
+            "Bioengineering",
+            "Biological and Life Sciences",
+            "Biotechnology",
+            "Health Sciences",
+            "Neurosciences",
+            "Oncology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Architecture",
+            "Bioengineering",
+            "Biological and Life Sciences",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civil Engineering",
+            "Computer Science",
+            "Electrical and Electronic Engineering",
+            "Engineering",
+            "Environmental Engineering",
+            "Environmental Studies",
+            "Materials Engineering",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Physics",
+            "Robotics",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Applied Mathematics",
+            "Applied Physics",
+            "Architecture",
+            "Arts and Humanities",
+            "Biochemistry",
+            "Bioengineering",
+            "Biotechnology",
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Data Science",
+            "Energy Engineering",
+            "Engineering",
+            "Environmental Engineering",
+            "Environmental Studies",
+            "Finance",
+            "Management",
+            "Materials Engineering",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Molecular Biology",
+            "Nuclear Engineering",
+            "Physics",
+            "Robotics",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Doktorat/ Doctorat/ Dottorato",
+          "fields": [
+            "Architecture",
+            "Arts and Humanities",
+            "Asian Studies",
+            "Atomic and Molecular Physics",
+            "Bioengineering",
+            "Biological and Life Sciences",
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Computer Science",
+            "Electrical Engineering",
+            "Environmental Engineering",
+            "Finance",
+            "Industrial Engineering",
+            "Management",
+            "Materials Engineering",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Molecular Biology",
+            "Neurosciences",
+            "Physics",
+            "Robotics",
+            "Social Sciences",
+            "Structural Architecture",
+            "Technology"
+          ]
+        }
+      ],
+      "accreditation": "OAQ; CTI",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Martin Vetterli"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Jan S. Hesthaven"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Olivier Küttel"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2019-2020",
+        "Staff Full Time Total:": "340",
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "11449"
+      },
+      "history": "Founded 1853. Acquired present status 1969",
+      "periodicals": [
+        "Flash Panorama Reflex",
+        "Flash",
+        "Panorama",
+        "Reflex"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "27248",
+      "iau_id": "IAU-027248",
+      "name": "University of Applied Sciences of the Grisons",
+      "alt_name": "Fachhochschule Graubünden (FHGR)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzxSLSNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-027248",
+      "address": {
+        "Street": "Kirchlindachstrasse 79",
+        "City": "Zollikofen",
+        "Post Code": "3052",
+        "WWW": "https://www.ehb.swiss"
+      },
+      "website": "https://www.ehb.swiss",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "French",
+        "German",
+        "Italian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Teacher Training",
+          "fields": [
+            "Teacher Trainers Education",
+            "Teacher Training",
+            "Vocational Education"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Vocational Education"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Vocational Education"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Barbara Fontanellaz"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Erik Swars"
+        }
+      ],
+      "statistics": {},
+      "history": "Created 1972 as Swiss Pedagogical Institute for Vocational Education (Schweizerischen Institut für Berufspädagogik), became the Swiss Federal Institute for Vocational Education and Training (Eidgenössisches Hochschulinstitut für Berufsbildung) in 2007 and acquired title and status in 2021.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "19314",
+      "iau_id": "IAU-019314",
+      "name": "University of Basel",
+      "alt_name": "Universität Basel (Uni Basel)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RTLDMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019314",
+      "address": {
+        "Street": "UMEF (Château d’Aïre)185-187 Route d’Aïre",
+        "City": "Vernier",
+        "Province": "Genève",
+        "Post Code": "1219",
+        "WWW": "https://www.swiss-umef.ch"
+      },
+      "website": "https://www.swiss-umef.ch",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1984,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Continuing Education",
+          "fields": [
+            "Business Administration",
+            "International Relations and Diplomacy",
+            "Leadership"
+          ]
+        },
+        {
+          "name": "Department/Division : Online Programmes",
+          "fields": [
+            "Business Administration",
+            "International Relations and Diplomacy",
+            "Leadership"
+          ]
+        },
+        {
+          "name": "Faculty : Management Sciences",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Faculty : Political Sciences",
+          "fields": [
+            "International Relations and Diplomacy",
+            "Political Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Science and Technology",
+          "fields": [
+            "Artificial Intelligence",
+            "Computer Science"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Accountancy",
+            "Artificial Intelligence",
+            "Business Administration",
+            "Communication Studies",
+            "Computer Science",
+            "E-Business/Commerce",
+            "Finance",
+            "International Business",
+            "International Economics",
+            "International Relations and Diplomacy",
+            "Marketing",
+            "Protective Services"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Artificial Intelligence",
+            "Banking",
+            "Business Administration",
+            "Communication Studies",
+            "Computer Science",
+            "Finance",
+            "Human Resources",
+            "International Relations and Diplomacy",
+            "Management",
+            "Marketing"
+          ]
+        }
+      ],
+      "accreditation": "Swiss Accreditation Council",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Djawed Sangdel"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1984 as Institut supérieur de Psychopédagogie (ISPP), became Institut supérieur de Gestion et Communication (ISGC) 1993, University of Management, Economics and Finance (UMEF) 2009, SWISS UMEF University 2013, acquired current status and title 2022",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "18812",
+      "iau_id": "IAU-018812",
+      "name": "University of Lugano",
+      "alt_name": "Università della Svizzera Italiana (USI)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BYLDMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018812",
+      "address": {
+        "Street": "Bahnhofstrasse 6",
+        "City": "Windisch",
+        "Post Code": "5210",
+        "WWW": "https://www.fhnw.ch"
+      },
+      "website": "https://www.fhnw.ch",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2006,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English",
+        "German",
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Academy : Art and Design",
+          "fields": [
+            "Art Education",
+            "Design",
+            "Display and Stage Design",
+            "Fashion Design",
+            "Fine Arts",
+            "Industrial Design",
+            "Interior Design",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Academy : Music",
+          "fields": [
+            "Music"
+          ]
+        },
+        {
+          "name": "School : Applied Psychology",
+          "fields": [
+            "Psychology"
+          ]
+        },
+        {
+          "name": "School : Architecture, Civil Engineering and Geomatics",
+          "fields": [
+            "Architecture",
+            "Civil Engineering",
+            "Construction Engineering",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "School : Business",
+          "fields": [
+            "Business Administration",
+            "Finance",
+            "Human Resources",
+            "Information Sciences",
+            "Management",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "School : Engineering",
+          "fields": [
+            "Computer Science",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Electronics and Automation",
+            "Energy Engineering",
+            "Engineering",
+            "Environmental Engineering",
+            "Information Technology",
+            "Mechanical Engineering",
+            "Nanotechnology",
+            "Optometry",
+            "Polymer and Plastics Technology",
+            "Production Engineering",
+            "Thermal Engineering"
+          ]
+        },
+        {
+          "name": "School : Life Sciences",
+          "fields": [
+            "Biological and Life Sciences",
+            "Environmental Engineering",
+            "Environmental Management",
+            "Medical Technology",
+            "Molecular Biology",
+            "Nanotechnology"
+          ]
+        },
+        {
+          "name": "School : Social Work",
+          "fields": [
+            "Social and Community Services",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "School : Teacher Education",
+          "fields": [
+            "Continuing Education",
+            "Education",
+            "Educational and Student Counselling",
+            "Educational Psychology",
+            "Educational Research",
+            "Educational Sciences",
+            "Preschool Education",
+            "Primary Education",
+            "Psychology",
+            "Secondary Education",
+            "Special Education"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Architecture and Planning",
+            "Biological and Life Sciences",
+            "Business Administration",
+            "Civil Engineering",
+            "Education",
+            "Engineering",
+            "Fine Arts",
+            "Music",
+            "Psychology",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Architecture and Planning",
+            "Art Education",
+            "Biological and Life Sciences",
+            "Business Administration",
+            "Design",
+            "Engineering",
+            "Fine Arts",
+            "Management",
+            "Music",
+            "Nanotechnology",
+            "Natural Sciences",
+            "Performing Arts",
+            "Psychology",
+            "Social Work",
+            "Teacher Training",
+            "Technology"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Crispino Bergamaschi"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Karin Hiltwein"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Ruedi Nützi"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2019-2020",
+        "Staff Full Time Total:": "1742",
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "12646"
+      },
+      "history": "Founded 2006 from the merger of three Universities of Applied Sciences (Aargau, Basel-Stadt and Basel-Land, and Solothurn), the School of Education of Solothurn and the School of Education and Social Sciences of Basel-Stadt and Basel-Land",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "19368",
+      "iau_id": "IAU-019368",
+      "name": "University of St. Gallen",
+      "alt_name": "Universität St. Gallen (HSG)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RTLUNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019368",
+      "address": {
+        "Street": "Le Gerre, Via Pobiette 11",
+        "City": "Manno",
+        "Province": "Ticino",
+        "Post Code": "6928",
+        "WWW": "http://www.supsi.ch"
+      },
+      "website": "http://www.supsi.ch",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to December; February to May",
+      "languages": [
+        "Italian"
+      ],
+      "faculties": [
+        {
+          "name": "Conservatory : Music",
+          "fields": [
+            "Music",
+            "Music Education",
+            "Music Theory and Composition",
+            "Performing Arts"
+          ]
+        },
+        {
+          "name": "Department/Division : Business and Social Sciences",
+          "fields": [
+            "Business Administration",
+            "Business and Commerce",
+            "Management",
+            "Social Work",
+            "Taxation"
+          ]
+        },
+        {
+          "name": "Department/Division : Education and Training",
+          "fields": [
+            "Education",
+            "Primary Education",
+            "Secondary Education",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Department/Division : Environmental Construction and Design",
+          "fields": [
+            "Architecture",
+            "Civil Engineering",
+            "Design",
+            "Earth Sciences",
+            "Engineering",
+            "Environmental Management",
+            "Environmental Studies",
+            "Materials Engineering",
+            "Restoration of Works of Art"
+          ]
+        },
+        {
+          "name": "Department/Division : Health Sciences",
+          "fields": [
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "Department/Division : Health Sciences",
+          "fields": [
+            "Ergotherapy",
+            "Nursing",
+            "Occupational Therapy",
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "Department/Division : Innovative Technologies",
+          "fields": [
+            "Computer Engineering",
+            "Electronic Engineering",
+            "Engineering",
+            "Information Technology",
+            "Management Systems",
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "School : Distant Education",
+          "fields": [
+            "Business Administration",
+            "Engineering",
+            "Information Technology",
+            "Management"
+          ]
+        },
+        {
+          "name": "School : Theatre",
+          "fields": [
+            "Theatre"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Architecture and Planning",
+            "Business Administration",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Design",
+            "Electrical Engineering",
+            "Engineering",
+            "Health Sciences",
+            "Mechanical Engineering",
+            "Music",
+            "Nursing",
+            "Performing Arts",
+            "Preschool Education",
+            "Primary Education",
+            "Social Work",
+            "Teacher Training",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Business Administration",
+            "Computer Engineering",
+            "Design",
+            "Engineering",
+            "Music",
+            "Performing Arts",
+            "Secondary Education",
+            "Social Work",
+            "Teacher Training",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Master of Advanced Studies",
+          "fields": [
+            "Business Administration"
+          ]
+        }
+      ],
+      "accreditation": "Federal Department of Economic Affairs",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Franco Gervasoni"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Pamela Valeggia"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Germana D'Alessio"
+        }
+      ],
+      "statistics": {},
+      "history": "Created 1997",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "7088",
+      "iau_id": "IAU-007088",
+      "name": "University of Teacher Education - Bern, Jura and Neuchâtel",
+      "alt_name": "Haute Ecole Pédagogique des cantons de Berne, du Jura et de Neuchâtel – Haute Ecole Pédagogique - BEJUNE (HEP-BEJUNE)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tU2BYLmBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007088",
+      "address": {
+        "Street": "Route de Moutier 14",
+        "City": "Delémont",
+        "Post Code": "2800",
+        "WWW": "http://www.hes-so.ch"
+      },
+      "website": "http://www.hes-so.ch",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1998,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June (September-January; February-June)",
+      "languages": [
+        "French",
+        "German",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Area : Business, Management and Services",
+          "fields": [
+            "Business Administration",
+            "Business Computing",
+            "Hotel Management",
+            "Information Sciences",
+            "Information Technology",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Area : Design and Fine Arts",
+          "fields": [
+            "Communication Arts",
+            "Fine Arts",
+            "Heritage Preservation",
+            "Industrial Design",
+            "Interior Design",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Area : Engineering and Architecture",
+          "fields": [
+            "Agronomy",
+            "Architecture",
+            "Biological and Life Sciences",
+            "Building Technologies",
+            "Chemistry",
+            "Civil Engineering",
+            "Computer Science",
+            "Electrical Engineering",
+            "Energy Engineering",
+            "Engineering",
+            "Engineering Management",
+            "Environmental Engineering",
+            "Industrial Design",
+            "Industrial Engineering",
+            "Information Technology",
+            "Landscape Architecture",
+            "Mechanical Engineering",
+            "Media Studies",
+            "Oenology",
+            "Surveying and Mapping",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Area : Health Sciences",
+          "fields": [
+            "Dietetics",
+            "Health Sciences",
+            "Medical Technology",
+            "Midwifery",
+            "Nursing",
+            "Nutrition",
+            "Occupational Therapy",
+            "Physical Therapy",
+            "Radiology",
+            "Rehabilitation and Therapy"
+          ]
+        },
+        {
+          "name": "Area : Music and Theatre",
+          "fields": [
+            "Dance",
+            "Music",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Area : Social Work",
+          "fields": [
+            "Social Work"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Agronomy",
+            "Architecture",
+            "Business Administration",
+            "Business Computing",
+            "Chemistry",
+            "Civil Engineering",
+            "Communication Arts",
+            "Computer Engineering",
+            "Computer Science",
+            "Dance",
+            "Design",
+            "Dietetics",
+            "Electrical Engineering",
+            "Energy Engineering",
+            "Engineering",
+            "Environmental Engineering",
+            "Fine Arts",
+            "Heritage Preservation",
+            "Hotel Management",
+            "Industrial Design",
+            "Industrial Engineering",
+            "Information Sciences",
+            "Information Technology",
+            "Interior Design",
+            "Landscape Architecture",
+            "Management",
+            "Mechanical Engineering",
+            "Media Studies",
+            "Microelectronics",
+            "Midwifery",
+            "Music",
+            "Nursing",
+            "Nutrition",
+            "Occupational Therapy",
+            "Oenology",
+            "Physical Therapy",
+            "Radiology",
+            "Rehabilitation and Therapy",
+            "Social Work",
+            "Surveying and Mapping",
+            "Technology",
+            "Telecommunications Engineering",
+            "Theatre",
+            "Tourism",
+            "Treatment Techniques",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Architecture",
+            "Biological and Life Sciences",
+            "Business Administration",
+            "Cinema and Television",
+            "Design",
+            "Engineering",
+            "Fine Arts",
+            "Heritage Preservation",
+            "Information Sciences",
+            "Music",
+            "Nursing",
+            "Social Work"
+          ]
+        }
+      ],
+      "accreditation": "Swiss Accreditation Council (CSA); OAQ; ACQUIN; ASIIN",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Luciana Vaccaro"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Sarah Kopse-Scholberg"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Luna Lacopini"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "21038"
+      },
+      "history": "An Interregional institution founded 1998 by an agreement between the states of Geneva, Vaud, Fribourg, Valais, Neuchâtel, Jura and Bern (french-part). Integrated the Valais School of Design and Arts (EDHEA) as one of its five schools 2019",
+      "periodicals": [
+        "Hémisphère",
+        "Hémisphère"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "13252",
+      "iau_id": "IAU-013252",
+      "name": "University of Teacher Education - Valais",
+      "alt_name": "Pädagogische Hochschule Wallis - Haute école pédagogique du Valais (PH VS / HEP VS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyxSLTMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-013252",
+      "address": {
+        "Street": "Lagerstrasse 5",
+        "City": "Zürich",
+        "Post Code": "8021",
+        "WWW": "https://fh-hwz.ch"
+      },
+      "website": "https://fh-hwz.ch",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1986,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "German",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Business Administration",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Business and Commerce",
+            "Business Computing",
+            "Communication Studies",
+            "E-Business/Commerce",
+            "Economics",
+            "Finance",
+            "Health Administration",
+            "Human Resources",
+            "International Business",
+            "Leadership",
+            "Management",
+            "Marketing",
+            "Real Estate"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Business Administration",
+            "E-Business/Commerce",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Banking",
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Master of Advanced Studies",
+          "fields": [
+            "Accountancy",
+            "Business and Commerce",
+            "E-Business/Commerce",
+            "Finance",
+            "Health Administration",
+            "Human Resources",
+            "Leadership",
+            "Management",
+            "Marketing",
+            "Real Estate"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Brian Rüeger"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Christian Müller"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2019-2020",
+        "Staff Full Time Total:": "500",
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "2300"
+      },
+      "history": "Founded 1986 by the KV Switzerland and the Juventus Schools Foundation of Zurich",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "7089",
+      "iau_id": "IAU-007089",
+      "name": "University of Teacher Education - Vaud",
+      "alt_name": "Haute Ecole Pédagogique du canton de Vaud (HEP Vaud)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tU2BYLjBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007089",
+      "address": {
+        "Street": "Schaffhauserstrasse 239P.O. Box 5850",
+        "City": "Zürich",
+        "Post Code": "8050",
+        "WWW": "http://www.hfh.ch"
+      },
+      "website": "http://www.hfh.ch",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "German",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Special Needs Education",
+          "fields": [
+            "Preschool Education",
+            "Rehabilitation and Therapy",
+            "Special Education",
+            "Speech Therapy and Audiology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Rehabilitation and Therapy",
+            "Special Education",
+            "Speech Therapy and Audiology"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Education",
+            "Preschool Education",
+            "Special Education"
+          ]
+        },
+        {
+          "name": "Master of Advanced Studies",
+          "fields": [
+            "Special Education"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Barbara Fäh"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Gyulnash Wild"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded in 1924. Transformed into the University of Applied Sciences of Special Needs Education in 2001",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "13258",
+      "iau_id": "IAU-013258",
+      "name": "University of Teacher Education Zürich",
+      "alt_name": "Pädagogische Hochschule Zürich – PH Zürich (PHZH)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyxSLTNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-013258",
+      "address": {
+        "Street": "Pulvermühlestrasse 57",
+        "City": "Chur",
+        "Post Code": "7000",
+        "WWW": "https://www.fhgr.ch"
+      },
+      "website": "https://www.fhgr.ch",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2006,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "German"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Applied Future Technologies",
+          "fields": [
+            "Information Technology",
+            "Multimedia",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Department/Division : Entrepreneurial Management",
+          "fields": [
+            "Business Administration",
+            "Management",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "Department/Division : Lived Environment",
+          "fields": [
+            "Construction Engineering",
+            "Economics",
+            "Leisure Studies",
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Architecture",
+            "Business Administration",
+            "Civil Engineering",
+            "E-Business/Commerce",
+            "Information Sciences",
+            "Multimedia",
+            "Physics",
+            "Robotics",
+            "Service Trades",
+            "Sports Management",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Business Administration",
+            "Data Science",
+            "Engineering",
+            "Information Management",
+            "Information Technology",
+            "Tourism"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Gian-Paolo Curcio"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Arno Arpagaus"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Anne-Marie Jaeger-Stevenson"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2018-2019",
+        "Staff Full Time Total:": "189",
+        "Students Statistics Year:": "2018-2019",
+        "Students Total:": "2057"
+      },
+      "history": "Founded 2006 through separation from the University of Applied Sciences of Eastern Switzerland (FHO Ostschweiz), acquired current status 2020",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "19377",
+      "iau_id": "IAU-019377",
+      "name": "University of Zurich",
+      "alt_name": "Universität Zürich (UZH)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RTLVM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019377",
+      "address": {
+        "Street": "Petersplatz 1",
+        "City": "Basel",
+        "Post Code": "4001",
+        "WWW": "https://www.unibas.ch"
+      },
+      "website": "https://www.unibas.ch",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1460,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "October to June (October-February; April-June)",
+      "languages": [
+        "German"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Business and Economics",
+          "fields": [
+            "Business Administration",
+            "Economics",
+            "Finance",
+            "International Economics",
+            "Marketing",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Dentistry",
+            "Health Sciences",
+            "Immunology",
+            "Medicine",
+            "Neurosciences",
+            "Nursing",
+            "Oncology",
+            "Sports Medicine"
+          ]
+        },
+        {
+          "name": "Faculty : Philosophy/History",
+          "fields": [
+            "African Studies",
+            "Ancient Civilizations",
+            "Anthropology",
+            "Archaeology",
+            "Art History",
+            "Classical Languages",
+            "Communication Studies",
+            "Cultural Studies",
+            "Eastern European Studies",
+            "Education",
+            "English",
+            "French",
+            "French Studies",
+            "Gender Studies",
+            "German",
+            "Greek",
+            "History",
+            "Islamic Studies",
+            "Italian",
+            "Jewish Studies",
+            "Latin",
+            "Linguistics",
+            "Literature",
+            "Media Studies",
+            "Modern Languages",
+            "Musicology",
+            "Native Language",
+            "Pedagogy",
+            "Philology",
+            "Philosophy",
+            "Political Sciences",
+            "Prehistory",
+            "Religious Studies",
+            "Romance Languages",
+            "Russian",
+            "Scandinavian Languages",
+            "Slavic Languages",
+            "Social Sciences",
+            "Sociology",
+            "Spanish"
+          ]
+        },
+        {
+          "name": "Faculty : Psychology",
+          "fields": [
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Faculty : Science",
+          "fields": [
+            "Actuarial Science",
+            "Astronomy and Space Science",
+            "Biology",
+            "Biophysics",
+            "Biotechnology",
+            "Botany",
+            "Cell Biology",
+            "Chemistry",
+            "Computer Science",
+            "Earth Sciences",
+            "Ecology",
+            "Environmental Studies",
+            "Epidemiology",
+            "Genetics",
+            "Geography",
+            "Mathematics",
+            "Meteorology",
+            "Microbiology",
+            "Molecular Biology",
+            "Nanotechnology",
+            "Natural Sciences",
+            "Pharmacology",
+            "Pharmacy",
+            "Physics",
+            "Science Education",
+            "Toxicology",
+            "Zoology"
+          ]
+        },
+        {
+          "name": "Faculty : Theology",
+          "fields": [
+            "Religion",
+            "Theology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Anthropology",
+            "Archaeology",
+            "Arts and Humanities",
+            "Biological and Life Sciences",
+            "Chemistry",
+            "Classical Languages",
+            "Cultural Studies",
+            "Dentistry",
+            "Earth Sciences",
+            "Eastern European Studies",
+            "Economics",
+            "English",
+            "French Studies",
+            "Gender Studies",
+            "Health Sciences",
+            "History",
+            "Information Sciences",
+            "Islamic Studies",
+            "Italian",
+            "Jewish Studies",
+            "Law",
+            "Mathematics and Computer Science",
+            "Medicine",
+            "Middle Eastern Studies",
+            "Modern Languages",
+            "Nanotechnology",
+            "Natural Sciences",
+            "Performing Arts",
+            "Philology",
+            "Philosophy",
+            "Prehistory",
+            "Psychology",
+            "Religious Studies",
+            "Sociology",
+            "Spanish",
+            "Sports",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "African Studies",
+            "Ancient Civilizations",
+            "Anthropology",
+            "Archaeology",
+            "Art History",
+            "Arts and Humanities",
+            "Biological and Life Sciences",
+            "Botany",
+            "Chemistry",
+            "Commercial Law",
+            "Communication Studies",
+            "Cultural Studies",
+            "Dentistry",
+            "Earth Sciences",
+            "Eastern European Studies",
+            "Ecology",
+            "Economics",
+            "Education",
+            "English",
+            "Environmental Studies",
+            "European Studies",
+            "Finance",
+            "French Studies",
+            "Gender Studies",
+            "Greek",
+            "Health Sciences",
+            "History",
+            "Information Sciences",
+            "Islamic Studies",
+            "Italian",
+            "Jewish Studies",
+            "Law",
+            "Literature",
+            "Mathematics and Computer Science",
+            "Medicine",
+            "Middle Eastern Studies",
+            "Modern Languages",
+            "Musicology",
+            "Nanotechnology",
+            "Natural Sciences",
+            "Nordic Studies",
+            "Nursing",
+            "Pharmacy",
+            "Philology",
+            "Philosophy",
+            "Physics",
+            "Psychology",
+            "Religion",
+            "Religious Studies",
+            "Slavic Languages",
+            "Social Sciences",
+            "Sociology",
+            "Spanish",
+            "Sports",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Doktorat/ Doctorat/ Dottorato",
+          "fields": [
+            "African Studies",
+            "Ancient Civilizations",
+            "Anthropology",
+            "Art History",
+            "Arts and Humanities",
+            "Astronomy and Space Science",
+            "Biological and Life Sciences",
+            "Biomedical Engineering",
+            "Botany",
+            "Chemistry",
+            "Dentistry",
+            "Earth Sciences",
+            "Eastern European Studies",
+            "Ecology",
+            "Education",
+            "English Studies",
+            "Environmental Studies",
+            "Ethics",
+            "European Studies",
+            "French Studies",
+            "Gender Studies",
+            "Geography",
+            "Greek",
+            "Health Sciences",
+            "History",
+            "Information Sciences",
+            "Islamic Studies",
+            "Italian",
+            "Jewish Studies",
+            "Latin",
+            "Law",
+            "Linguistics",
+            "Literature",
+            "Mathematics and Computer Science",
+            "Medicine",
+            "Meteorology",
+            "Middle Eastern Studies",
+            "Musicology",
+            "Nanotechnology",
+            "Natural Sciences",
+            "Nordic Studies",
+            "Nursing",
+            "Philology",
+            "Philosophy",
+            "Physics",
+            "Political Sciences",
+            "Religious Studies",
+            "Slavic Languages",
+            "Social Sciences",
+            "Sociology",
+            "Spanish",
+            "Sports",
+            "Theology"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Andrea Schenker-Wicki"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Stefano Nigsch"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Tanja Popović"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1460 under the authority of Papal Bull of Pius II. Under the jurisdiction of the Canton of Basle 1830. Became autonomous 1996",
+      "periodicals": [
+        "Basler Universitätsreden uni nova (University Magazine)",
+        "Basler Universitätsreden",
+        "uni nova (University Magazine)"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "24254",
+      "iau_id": "IAU-024254",
+      "name": "Zurich University of Applied Sciences",
+      "alt_name": "Zürcher Hochschule für Angewandte Wissenschaften (ZHAW)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBSLTMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024254",
+      "address": {
+        "Street": "Via Lambertenghi 10A",
+        "City": "Lugano",
+        "Post Code": "6904",
+        "WWW": "http://www.usi.ch"
+      },
+      "website": "http://www.usi.ch",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1996,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to May (September-December; February-May)",
+      "languages": [
+        "Italian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Academy : Architecture",
+          "fields": [
+            "Aesthetics",
+            "Architecture",
+            "Philosophy"
+          ]
+        },
+        {
+          "name": "Faculty : Communication Science",
+          "fields": [
+            "Communication Studies",
+            "Economics",
+            "Information Technology",
+            "Labour and Industrial Relations",
+            "Linguistics",
+            "Management",
+            "Media Studies",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Faculty : Economics",
+          "fields": [
+            "Economics",
+            "Finance",
+            "Management"
+          ]
+        },
+        {
+          "name": "Faculty : Informatics",
+          "fields": [
+            "Computer Networks",
+            "Computer Science",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Institute : Italian Studies",
+          "fields": [
+            "Cultural Studies",
+            "Italian",
+            "Literature",
+            "Native Language"
+          ]
+        },
+        {
+          "name": "Research Division : Biomedicine",
+          "fields": [
+            "Biomedicine"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Architecture",
+            "Architecture and Planning",
+            "Communication Studies",
+            "Computer Science",
+            "Economics",
+            "Italian",
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Architecture",
+            "Artificial Intelligence",
+            "Banking",
+            "Business Computing",
+            "Communication Studies",
+            "Computer Science",
+            "Cultural Studies",
+            "Data Science",
+            "Economics",
+            "European Studies",
+            "Finance",
+            "Information Management",
+            "Information Technology",
+            "International Economics",
+            "International Relations and Diplomacy",
+            "Italian",
+            "Literature",
+            "Management",
+            "Marketing",
+            "Mass Communication",
+            "Media Studies",
+            "Medicine",
+            "Philosophy",
+            "Psychology",
+            "Public Relations",
+            "Software Engineering",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Master of Advanced Studies",
+          "fields": [
+            "Communication Studies",
+            "Economics",
+            "Educational Administration",
+            "Health Administration",
+            "Management",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Doktorat/ Doctorat/ Dottorato",
+          "fields": [
+            "Architecture",
+            "Biochemistry",
+            "Cell Biology",
+            "Communication Studies",
+            "Computer Engineering",
+            "Computer Science",
+            "Cultural Studies",
+            "Economics",
+            "Finance",
+            "Immunology",
+            "Italian",
+            "Literature",
+            "Management",
+            "Mathematics"
+          ]
+        }
+      ],
+      "accreditation": "Federal Council",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Boas Erez"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Cristina Largader"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Giovanni Zavaritt"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Arianna Imberti Dosi"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2014-2015",
+        "Students Total:": "3017"
+      },
+      "history": "Founded 1996. Acquired Status 2000",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "24255",
+      "iau_id": "IAU-024255",
+      "name": "Zurich University of the Arts",
+      "alt_name": "Zürcher Hochschule der Künste (ZHdK)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBSLTM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024255",
+      "address": {
+        "Street": "Dufourstrasse 50",
+        "City": "St. Gallen",
+        "Post Code": "9000",
+        "WWW": "http://www.unisg.ch"
+      },
+      "website": "http://www.unisg.ch",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1898,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "April to March (April-July; October-March)",
+      "languages": [
+        "German",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "School : Economics and Political Sciences",
+          "fields": [
+            "Economics",
+            "International Economics",
+            "Political Sciences"
+          ]
+        },
+        {
+          "name": "School : Finance",
+          "fields": [
+            "Banking",
+            "Finance"
+          ]
+        },
+        {
+          "name": "School : Humanities ans Social Sciences",
+          "fields": [
+            "Arts and Humanities",
+            "Asian Studies",
+            "Cultural Studies",
+            "English",
+            "French",
+            "Gender Studies",
+            "Germanic Studies",
+            "History",
+            "Islamic Studies",
+            "Italian",
+            "Literature",
+            "Media Studies",
+            "Philosophy",
+            "Russian",
+            "Sociology",
+            "Spanish"
+          ]
+        },
+        {
+          "name": "School : Management",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Business Education",
+            "Communication Arts",
+            "Economics",
+            "Finance",
+            "Information Management",
+            "International Business",
+            "Management",
+            "Marketing",
+            "Media Studies"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Business Administration",
+            "Economics",
+            "International Business",
+            "Law",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Economics",
+            "Finance",
+            "Government",
+            "Information Technology",
+            "International Business",
+            "International Law",
+            "Law",
+            "Marketing",
+            "Media Studies",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Doktorat/ Doctorat/ Dottorato",
+          "fields": [
+            "Business Administration",
+            "Economics",
+            "Finance",
+            "Law",
+            "Management",
+            "Public Administration"
+          ]
+        }
+      ],
+      "accreditation": "EQUIS; AACSB; AMBA",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Bernhard Ehrenzeller"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Bruno Hensler"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Ulrich Schmid"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2013-2014",
+        "Students Total:": "7666"
+      },
+      "history": "Founded 1898. An autonomous Institution mainly financed by the Canton of Saint Gall and by the Swiss Confederation",
+      "periodicals": [
+        "Aula-Vorträge Hochschulnachrichten Alma Jahresbericht Öffentliches Programm Vorlesungsverzeichnis Weiterbildungsbroschüre",
+        "Aula-Vorträge",
+        "Hochschulnachrichten Alma",
+        "Jahresbericht",
+        "Öffentliches Programm",
+        "Vorlesungsverzeichnis",
+        "Weiterbildungsbroschüre"
+      ],
+      "student_body": "co-ed"
+    }
+  ]
+}

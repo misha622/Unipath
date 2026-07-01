@@ -1,0 +1,256 @@
+{
+  "country_name": "Lesotho",
+  "country_id": "Lesotho",
+  "institutions": [
+    {
+      "id": "10915",
+      "iau_id": "IAU-010915",
+      "name": "Lesotho Institute of Public Administration and Management",
+      "alt_name": "(LIPAM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM2BZLDM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-010915",
+      "address": {
+        "Street": "P.O. Roma 180",
+        "City": "Maseru",
+        "WWW": "https://www.nul.ls"
+      },
+      "website": "https://www.nul.ls",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1945,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "July to June (July -December; January-June)",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Agriculture",
+          "fields": [
+            "Agricultural Economics",
+            "Agriculture",
+            "Animal Husbandry",
+            "Computer Science",
+            "Crop Production",
+            "Dairy",
+            "Ecology",
+            "Farm Management",
+            "Food Science",
+            "Food Technology",
+            "Genetics",
+            "Irrigation",
+            "Soil Science",
+            "Water Science"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Agricultural Education",
+            "Curriculum",
+            "Education",
+            "Educational Administration",
+            "Educational Research",
+            "Educational Technology",
+            "Environmental Studies",
+            "Higher Education",
+            "Mathematics Education",
+            "Primary Education",
+            "Science Education",
+            "Secondary Education"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences",
+          "fields": [
+            "Environmental Studies",
+            "Health Sciences",
+            "Midwifery",
+            "Nursing",
+            "Nutrition",
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Faculty : Humanities",
+          "fields": [
+            "African Languages",
+            "Arts and Humanities",
+            "Cultural Studies",
+            "Development Studies",
+            "English",
+            "Ethics",
+            "French",
+            "Heritage Preservation",
+            "History",
+            "Information Sciences",
+            "Library Science",
+            "Linguistics",
+            "Literature",
+            "Pastoral Studies",
+            "Philosophy",
+            "Psychology",
+            "Religious Studies",
+            "Theology",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Labour Law",
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Science and Technology",
+          "fields": [
+            "Biology",
+            "Biotechnology",
+            "Chemical Engineering",
+            "Chemistry",
+            "Computer Engineering",
+            "Computer Networks",
+            "Computer Science",
+            "Electronic Engineering",
+            "Environmental Studies",
+            "Geography",
+            "Information Technology",
+            "Mathematics",
+            "Physics",
+            "Regional Planning",
+            "Statistics",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "Faculty : Social Sciences",
+          "fields": [
+            "Accountancy",
+            "Anthropology",
+            "Business Administration",
+            "Demography and Population",
+            "Development Studies",
+            "Economics",
+            "Geography (Human)",
+            "Human Resources",
+            "Management",
+            "Marketing",
+            "Mathematics",
+            "Political Sciences",
+            "Public Administration",
+            "Social Work",
+            "Sociology",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Institute : Education",
+          "fields": [
+            "Curriculum",
+            "Education",
+            "Educational Research",
+            "Educational Testing and Evaluation",
+            "Human Resources"
+          ]
+        },
+        {
+          "name": "Institute : Extra-Mural Studies",
+          "fields": [
+            "Adult Education",
+            "Business Administration",
+            "Education",
+            "Management",
+            "Mass Communication"
+          ]
+        },
+        {
+          "name": "Institute : Southern African Studies",
+          "fields": [
+            "African Studies",
+            "Labour and Industrial Relations"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Adult Education",
+            "Business Administration",
+            "Engineering",
+            "Management",
+            "Natural Sciences",
+            "Primary Education"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Adult Education",
+            "Agriculture",
+            "Animal Husbandry",
+            "Chemistry",
+            "Crop Production",
+            "Economics",
+            "Education",
+            "Law",
+            "Political Sciences",
+            "Public Administration",
+            "Social Work",
+            "Sociology",
+            "Soil Science"
+          ]
+        },
+        {
+          "name": "Doctorate",
+          "fields": [
+            "African Languages",
+            "Development Studies",
+            "Education",
+            "History",
+            "Linguistics",
+            "Literature",
+            "Modern Languages",
+            "Philosophy"
+          ]
+        }
+      ],
+      "accreditation": "Council on Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Isaac Olusola Fajana"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Liteboho Maqalika-Lerotholi"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Kananelo Mosito"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "‘Mamosa Grace Moteetee"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2024-2025",
+        "Students Total:": "10000"
+      },
+      "history": "Founded 1945 as Pius XII College, became University of Basutoland, Bechuanaland Protectorate and Swaziland 1966; part of the trinational University of Botswana, Lesotho and Swaziland 1966. Acquired present status 1975.",
+      "periodicals": [
+        "Lesotho Law Journal Lesotho Social Science Review NUL Journal of Research NUL Student Law Review Review of Southern African Studies",
+        "Lesotho Law Journal",
+        "Lesotho Social Science Review",
+        "NUL Journal of Research",
+        "NUL Student Law Review",
+        "Review of Southern African Studies"
+      ],
+      "student_body": "co-ed"
+    }
+  ]
+}

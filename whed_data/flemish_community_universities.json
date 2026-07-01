@@ -1,0 +1,2938 @@
+{
+  "country_name": "Flemish Community",
+  "country_id": "Belgium - Flemish Community",
+  "institutions": [
+    {
+      "id": "27407",
+      "iau_id": "IAU-027407",
+      "name": "Antwerp Management School",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzxULCM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-027407",
+      "address": {
+        "Street": "Sint-Pietersnieuwstraat 25",
+        "City": "Ghent",
+        "Post Code": "9000",
+        "WWW": "https://www.ugent.be"
+      },
+      "website": "https://www.ugent.be",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to September",
+      "languages": [
+        "Dutch",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Campus Abroad : Ghent University Global Campus (Incheon, Korea)",
+          "fields": [
+            "Biotechnology",
+            "Environmental Engineering",
+            "Food Technology",
+            "Molecular Biology"
+          ]
+        },
+        {
+          "name": "Faculty : Arts and Philosophy",
+          "fields": [
+            "African Languages",
+            "African Studies",
+            "Archaeology",
+            "Cultural Studies",
+            "Dutch",
+            "Eastern European Studies",
+            "English",
+            "Fine Arts",
+            "French",
+            "German",
+            "Greek",
+            "History",
+            "Latin",
+            "Medieval Studies",
+            "Modern History",
+            "Musicology",
+            "Nordic Studies",
+            "North African Studies",
+            "Oriental Studies",
+            "Philosophy",
+            "Romance Languages",
+            "Slavic Languages",
+            "Southeast Asian Studies",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Faculty : Bioscience Engineering",
+          "fields": [
+            "Agricultural Economics",
+            "Agricultural Engineering",
+            "Agriculture",
+            "Animal Husbandry",
+            "Applied Chemistry",
+            "Applied Mathematics",
+            "Biochemistry",
+            "Crop Production",
+            "Ecology",
+            "Environmental Studies",
+            "Food Technology",
+            "Forest Management",
+            "Nutrition",
+            "Organic Chemistry",
+            "Plant and Crop Protection",
+            "Soil Management",
+            "Water Management"
+          ]
+        },
+        {
+          "name": "Faculty : Economics and Business Administration",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Business Computing",
+            "Economics",
+            "Finance",
+            "Management",
+            "Management Systems",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Applied Physics",
+            "Architecture",
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Electrical and Electronic Engineering",
+            "Electronics and Automation",
+            "Industrial Management",
+            "Information Technology",
+            "Mathematics",
+            "Mechanics",
+            "Telecommunications Engineering",
+            "Textile Technology",
+            "Thermal Engineering",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Anaesthesiology",
+            "Biochemistry",
+            "Chemistry",
+            "Dentistry",
+            "Dermatology",
+            "Forensic Medicine and Dentistry",
+            "Genetics",
+            "Immunology",
+            "Medical Technology",
+            "Medicine",
+            "Microbiology",
+            "Obstetrics and Gynaecology",
+            "Ophthalmology",
+            "Orthopaedics",
+            "Otorhinolaryngology",
+            "Paediatrics",
+            "Pathology",
+            "Pharmacology",
+            "Physical Therapy",
+            "Psychiatry and Mental Health",
+            "Psychology",
+            "Public Health",
+            "Radiology",
+            "Rehabilitation and Therapy",
+            "Sports Medicine",
+            "Surgery",
+            "Urology"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine and Health Sciences",
+          "fields": [
+            "Anaesthesiology",
+            "Biochemistry",
+            "Chemistry",
+            "Dentistry",
+            "Dermatology",
+            "Forensic Medicine and Dentistry",
+            "Genetics",
+            "Immunology",
+            "Medical Technology",
+            "Medicine",
+            "Microbiology",
+            "Obstetrics and Gynaecology",
+            "Ophthalmology",
+            "Orthopaedics",
+            "Otorhinolaryngology",
+            "Paediatrics",
+            "Pathology",
+            "Pharmacology",
+            "Physical Therapy",
+            "Psychiatry and Mental Health",
+            "Psychology",
+            "Public Health",
+            "Radiology",
+            "Rehabilitation and Therapy",
+            "Sports Medicine",
+            "Surgery",
+            "Urology"
+          ]
+        },
+        {
+          "name": "Faculty : Pharmaceutical Sciences",
+          "fields": [
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Faculty : Political and Social Sciences",
+          "fields": [
+            "Communication Studies",
+            "Development Studies",
+            "Political Sciences",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Faculty : Psychology and Educational Sciences",
+          "fields": [
+            "Education",
+            "Educational Sciences",
+            "Educational Technology",
+            "Experimental Psychology",
+            "Industrial and Organizational Psychology",
+            "Pedagogy",
+            "Psychoanalysis",
+            "Psychology",
+            "Special Education"
+          ]
+        },
+        {
+          "name": "Faculty : Sciences",
+          "fields": [
+            "Animal Husbandry",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Faculty : Veterinary Medicine",
+          "fields": [
+            "Animal Husbandry",
+            "Veterinary Science"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "2017-2018"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "2017-2018"
+          ]
+        },
+        {
+          "name": "Doctor",
+          "fields": [
+            "2017-2018"
+          ]
+        }
+      ],
+      "accreditation": "Dutch-Flemish Accreditation Organization (Nederlands-Vlaams Accreditatie Orgaan - NVAO)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Petra De Sutter"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Herwig Reynaert"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Andries Verspeeten"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Frederik De Decker"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2017-2018",
+        "Staff Full Time Total:": "6221",
+        "Students Statistics Year:": "2024-2025",
+        "Students Total:": "52171"
+      },
+      "history": "Founded by King William I of the Netherlands in 1817. The official language of the University was originally Latin; this changed to French in 1830 and to Dutch in 1930. Ghent University is today one of the most important academic institutions of Belgium and has an important international educational and scientific role. Acquired present status and title 1991.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "7469",
+      "iau_id": "IAU-007469",
+      "name": "Antwerp Maritime Academy",
+      "alt_name": "Hogere Zeevaartschool Antwerpen (HZS)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tUzBWLjBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007469",
+      "address": {
+        "Street": "Boogkeers 5",
+        "City": "Antwerp",
+        "WWW": "https://www.antwerpmanagementschool.be"
+      },
+      "website": "https://www.antwerpmanagementschool.be",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Dutch",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Business Administration",
+          "fields": [
+            "Business Administration",
+            "Finance",
+            "Human Resources",
+            "Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Master",
+          "fields": [
+            "Business Administration",
+            "Finance",
+            "Human Resources",
+            "Management"
+          ]
+        }
+      ],
+      "accreditation": "NVAO",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Steven De Haes"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Wim Van Driessen"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded in 1959 as IPO (Institute for Postgraduate Education), became University Antwerp Management School in 2000 and acquired current title 2010.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "1103",
+      "iau_id": "IAU-001103",
+      "name": "Artesis Plantijn University College Antwerp",
+      "alt_name": "Artesis Plantijn Hogeschool Antwerpen (AP)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sMyRQLFBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-001103",
+      "address": {
+        "Street": "Noordkasteel Oost 6",
+        "City": "Antwerpen",
+        "Post Code": "2030",
+        "WWW": "http://www.hzs.be"
+      },
+      "website": "http://www.hzs.be",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "October to July",
+      "languages": [
+        "Dutch",
+        "English",
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Marine Engineering",
+          "fields": [
+            "Marine Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Nautical Sciences",
+          "fields": [
+            "Nautical Science"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Marine Engineering",
+            "Nautical Science"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Nautical Science"
+          ]
+        }
+      ],
+      "accreditation": "Dutch-Flemish Accreditation Organization (Nederlands-Vlaams Accreditatie Orgaan - NVAO)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Rowan Van Schaeren"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Olivier Schalm"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded in 1834. Distinguished maritime personality in 1907. IMO (STCW) international quality rules and standards implemented in 2002",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "1104",
+      "iau_id": "IAU-001104",
+      "name": "Artevelde University of Applied Sciences",
+      "alt_name": "Arteveldehogeschool – Artevelde University College Ghent",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sMyRQLWBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-001104",
+      "address": {
+        "Street": "Lange Nieuwstraat 101",
+        "City": "Antwerpen",
+        "Post Code": "2000",
+        "WWW": "https://www.ap.be/english"
+      },
+      "website": "https://www.ap.be/english",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Dutch",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Academy : Fine Arts",
+          "fields": [
+            "Fashion Design",
+            "Graphic Design",
+            "Jewellery Art",
+            "Painting and Drawing",
+            "Photography",
+            "Printing and Printmaking",
+            "Sculpture"
+          ]
+        },
+        {
+          "name": "Conservatory : Conservatoire",
+          "fields": [
+            "Dance",
+            "Music"
+          ]
+        },
+        {
+          "name": "Department/Division : Education and Training",
+          "fields": [
+            "Secondary Education",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Department/Division : Health and Social Care",
+          "fields": [
+            "Midwifery",
+            "Nursing",
+            "Obstetrics and Gynaecology",
+            "Occupational Therapy",
+            "Physical Therapy",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Department/Division : Management and Communication",
+          "fields": [
+            "Business Administration",
+            "Business and Commerce",
+            "Hotel Management",
+            "Journalism",
+            "Law",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Department/Division : Science and Technology",
+          "fields": [
+            "Building Technologies",
+            "Chemistry",
+            "Construction Engineering",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Industrial Engineering",
+            "Mechanical Engineering",
+            "Medical Technology",
+            "Surveying and Mapping",
+            "Technology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Chemistry",
+            "Dance",
+            "Electronic Engineering",
+            "Finance",
+            "Hotel Management",
+            "Insurance",
+            "Marketing",
+            "Music",
+            "Painting and Drawing",
+            "Photography",
+            "Psychology",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Music",
+            "Theatre",
+            "Visual Arts"
+          ]
+        }
+      ],
+      "accreditation": "Dutch-Flemish Accreditation Organization (Nederlands-Vlaams Accreditatie Orgaan - NVAO)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Pascale De Groote"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Geert Marrin"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Peter Partoens"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded from the merger of Artesis University College and Plantijn University College in 2013. Part of the Antwerp University Association of University Colleges.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "4847",
+      "iau_id": "IAU-004847",
+      "name": "College of Europe",
+      "alt_name": "Europacollege",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tI0BULVBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004847",
+      "address": {
+        "Street": "Hoogpoort 15",
+        "City": "Gent",
+        "Province": "East Flanders",
+        "Post Code": "9000",
+        "WWW": "https://www.arteveldehogeschool.be"
+      },
+      "website": "https://www.arteveldehogeschool.be",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2000,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June",
+      "languages": [
+        "Dutch",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Business and Management",
+          "fields": [
+            "Business Administration",
+            "Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Coaching and Guidance",
+          "fields": [
+            "Communication Studies",
+            "Design",
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "Department/Division : Communication, Media and Design",
+          "fields": [
+            "Communication Studies",
+            "Design",
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "Department/Division : Education",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Department/Division : Health and Care",
+          "fields": [
+            "Health Sciences"
+          ]
+        },
+        {
+          "name": "Department/Division : HR and Leadership",
+          "fields": [
+            "Human Resources",
+            "Leadership"
+          ]
+        },
+        {
+          "name": "Department/Division : People and Society",
+          "fields": [
+            "Social Sciences"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "2024-2025"
+          ]
+        }
+      ],
+      "accreditation": "Dutch-Flemish Accreditation Organization (Nederlands-Vlaams Accreditatie Orgaan - NVAO)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Isabelle De Wulf"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Hilde Van Puyenbroeck"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2024-2025",
+        "Students Total:": "15425"
+      },
+      "history": "Founded 2000 by the merging of four independent university-level institutions: Katholieke Hogeschool voor Lerarenopleiding en Bedrijfsmanagement Oost Vlaanderen (Gent), Katholieke Hogeschool voor Gezondheidszorg Oost-Vlaanderen (Gent), Hogeschool voor Economisch en Grafisch Onderwijs (Gent), Sociale Hogeschool Katholiek Vormigscentrum Maatschappelijk Werk (Gent)",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "4509",
+      "iau_id": "IAU-004509",
+      "name": "Erasmus Brussels University of Applied Sciences and Arts",
+      "alt_name": "Erasmushogeschool Brussel (EhB)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIzRQLjBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004509",
+      "address": {
+        "Street": "Dijver 11",
+        "City": "Brugge",
+        "Post Code": "8000",
+        "WWW": "http://www.coleurope.eu"
+      },
+      "website": "http://www.coleurope.eu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "August to June (August - December; January - June)",
+      "languages": [
+        "French",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : EU International Relations and Diplomacy Studies",
+          "fields": [
+            "International Relations and Diplomacy"
+          ]
+        },
+        {
+          "name": "Course/Programme : European Economic Studies",
+          "fields": [
+            "Economics",
+            "European Studies"
+          ]
+        },
+        {
+          "name": "Course/Programme : European General Studies",
+          "fields": [
+            "Economics",
+            "European Studies",
+            "Government",
+            "Political Sciences"
+          ]
+        },
+        {
+          "name": "Course/Programme : European Law",
+          "fields": [
+            "European Union Law"
+          ]
+        },
+        {
+          "name": "Course/Programme : European Political and Administrative Studies",
+          "fields": [
+            "Administration",
+            "European Studies",
+            "Political Sciences"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Master",
+          "fields": [
+            "Economics",
+            "European Studies",
+            "European Union Law",
+            "Government",
+            "International Relations and Diplomacy",
+            "Political Sciences"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Training of Belgium (Flanders-Brussels)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Federica Mogherini"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded in 1949. Since 1992 the College has operated on two campuses in two host countries, in Bruges (Belgium) and in Natolin (Poland). They are administered by their respective governing bodies, respectively under Belgian and Polish legislation",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "19858",
+      "iau_id": "IAU-019858",
+      "name": "Hasselt University",
+      "alt_name": "Universiteit Hasselt (UHasselt)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RYLTNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019858",
+      "address": {
+        "Street": "Nijverheidskaai 170",
+        "City": "Brussels",
+        "Post Code": "1070",
+        "WWW": "https://www.erasmushogeschool.be"
+      },
+      "website": "https://www.erasmushogeschool.be",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June (September - January; February - June)",
+      "languages": [
+        "Dutch",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Conservatory : Music",
+          "fields": [
+            "Music"
+          ]
+        },
+        {
+          "name": "Department/Division : Applied Languages",
+          "fields": [
+            "Danish",
+            "Dutch",
+            "English",
+            "French",
+            "German",
+            "Greek",
+            "Italian",
+            "Portuguese",
+            "Russian",
+            "Spanish",
+            "Swedish",
+            "Translation and Interpretation",
+            "Turkish"
+          ]
+        },
+        {
+          "name": "Department/Division : Architecture",
+          "fields": [
+            "Landscape Architecture"
+          ]
+        },
+        {
+          "name": "Department/Division : Audiovisual Arts and Techniques",
+          "fields": [
+            "Film",
+            "Radio and Television Broadcasting",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Department/Division : Communications",
+          "fields": [
+            "Business and Commerce",
+            "Communication Studies",
+            "Journalism",
+            "Public Relations",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Department/Division : Health Care",
+          "fields": [
+            "Dietetics",
+            "Midwifery",
+            "Nursing",
+            "Nutrition",
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Department/Division : Hotel and Tourism",
+          "fields": [
+            "Hotel Management",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Department/Division : Industrial and Technical Sciences",
+          "fields": [
+            "Computer Science",
+            "Industrial Engineering"
+          ]
+        },
+        {
+          "name": "Department/Division : Social Sciences",
+          "fields": [
+            "Human Resources",
+            "Social Sciences",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Department/Division : Teacher Training",
+          "fields": [
+            "Teacher Training"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Hotel Management",
+            "Journalism",
+            "Laboratory Techniques",
+            "Management",
+            "Midwifery",
+            "Multimedia",
+            "Music",
+            "Nutrition",
+            "Preschool Education",
+            "Primary Education",
+            "Radio and Television Broadcasting",
+            "Secondary Education",
+            "Theatre",
+            "Tourism"
+          ]
+        }
+      ],
+      "accreditation": "Dutch-Flemish Accreditation Organization (Nederlands-Vlaams Accreditatie Orgaan - NVAO)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Dennis Cluydts"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Cynthia De Bruycker"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Annelore Schittecatte"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded as a merger of several university colleges in 1995. A university-level institution financed by the State and student tuition. Part of the University Association Brussels",
+      "periodicals": [
+        "Medium",
+        "Medium"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "7474",
+      "iau_id": "IAU-007474",
+      "name": "Hogeschool Gent",
+      "alt_name": "(HOGENT)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tUzBXLWBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007474",
+      "address": {
+        "Street": "Martelarenlaan 42",
+        "City": "Hasselt",
+        "Post Code": "3500",
+        "WWW": "http://www.uhasselt.be"
+      },
+      "website": "http://www.uhasselt.be",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "October to September",
+      "languages": [
+        "Dutch",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Applied Economics",
+          "fields": [
+            "Business Administration",
+            "Computer Science",
+            "Economics",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Architecture and Art",
+          "fields": [
+            "Architecture",
+            "Interior Design"
+          ]
+        },
+        {
+          "name": "Faculty : Industrial Engineering",
+          "fields": [
+            "Industrial Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Dentistry",
+            "Health Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Science",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Mathematics",
+            "Natural Sciences",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Institute : Transport Sciences",
+          "fields": [
+            "Transport and Communications"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Biology",
+            "Biomedical Engineering",
+            "Chemistry",
+            "Computer Science",
+            "Data Science",
+            "Mathematics",
+            "Medicine",
+            "Physics",
+            "Transport and Communications"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Biological and Life Sciences",
+            "Biomedical Engineering",
+            "Computer Science",
+            "Economics",
+            "Information Technology",
+            "International Business",
+            "Management",
+            "Statistics",
+            "Transport and Communications"
+          ]
+        }
+      ],
+      "accreditation": "Dutch-Flemish Accreditation Organization (Nederlands-Vlaams Accreditatie Orgaan - NVAO)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Eric Pass"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Liesbeth Oeyen"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded as ‘Limburgs Universitair Centrum’ (LUC) in 1971. Acquired present status in 2005",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "13769",
+      "iau_id": "IAU-013769",
+      "name": "Hogeschool PXL",
+      "alt_name": "(PHL)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyxXLUNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-013769",
+      "address": {
+        "Street": "Geraard de Duivelstraat 5",
+        "City": "Ghent",
+        "Post Code": "9000",
+        "WWW": "https://www.hogent.be"
+      },
+      "website": "https://www.hogent.be",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "October to July (October-January; February-July)",
+      "languages": [
+        "Dutch",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Business and Information Management",
+          "fields": [
+            "Business Administration",
+            "Computer Science",
+            "Information Management",
+            "Retailing and Wholesaling"
+          ]
+        },
+        {
+          "name": "Faculty : Education, Health and Social Work",
+          "fields": [
+            "Biomedicine",
+            "Laboratory Techniques",
+            "Nursing",
+            "Occupational Therapy",
+            "Preschool Education",
+            "Primary Education",
+            "Secondary Education",
+            "Social Work",
+            "Speech Therapy and Audiology"
+          ]
+        },
+        {
+          "name": "Faculty : Science and Technology",
+          "fields": [
+            "Agrobiology",
+            "Biotechnology",
+            "Chemistry",
+            "Electronic Engineering",
+            "Fashion Design",
+            "Mechanics",
+            "Real Estate",
+            "Technology",
+            "Textile Technology",
+            "Wood Technology"
+          ]
+        },
+        {
+          "name": "School : Fine Arts",
+          "fields": [
+            "Design",
+            "Film",
+            "Interior Design",
+            "Landscape Architecture",
+            "Music",
+            "Theatre",
+            "Visual Arts"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Agriculture",
+            "Biotechnology",
+            "Business Administration",
+            "Business and Commerce",
+            "Chemistry",
+            "Computer Science",
+            "Construction Engineering",
+            "Dietetics",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Fashion Design",
+            "Interior Design",
+            "Laboratory Techniques",
+            "Landscape Architecture",
+            "Management",
+            "Mechanical Engineering",
+            "Music",
+            "Nursing",
+            "Nutrition",
+            "Occupational Therapy",
+            "Preschool Education",
+            "Primary Education",
+            "Public Administration",
+            "Radio and Television Broadcasting",
+            "Real Estate",
+            "Retailing and Wholesaling",
+            "Secondary Education",
+            "Social Welfare",
+            "Social Work",
+            "Special Education",
+            "Speech Therapy and Audiology",
+            "Textile Technology",
+            "Visual Arts",
+            "Wood Technology"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Agriculture",
+            "Biochemistry",
+            "Business Administration",
+            "Chemistry",
+            "Communication Studies",
+            "Computer Science",
+            "Construction Engineering",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Fine Arts",
+            "Food Technology",
+            "Horticulture",
+            "Information Technology",
+            "Mechanical Engineering",
+            "Midwifery",
+            "Modern Languages",
+            "Music",
+            "Nursing",
+            "Public Administration",
+            "Radio and Television Broadcasting",
+            "Social Welfare",
+            "Social Work",
+            "Special Education",
+            "Surveying and Mapping",
+            "Theatre",
+            "Translation and Interpretation"
+          ]
+        }
+      ],
+      "accreditation": "Dutch-Flemish Accreditation Organization (Nederlands-Vlaams Accreditatie Orgaan - NVAO)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Koen Goethals"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Maaike Teirlinck"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Liesbeth Van Heck"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded through the merger of 13 Hogescholen in 1995. Part of the Ghent University Association.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "7487",
+      "iau_id": "IAU-007487",
+      "name": "Hogeschool West-Vlaanderen",
+      "alt_name": "(HOWEST)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tUzBYLVBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007487",
+      "address": {
+        "Street": "Elfde - Liniestraat 24",
+        "City": "Hasselt",
+        "Post Code": "3500",
+        "WWW": "http://www.pxl.be"
+      },
+      "website": "http://www.pxl.be",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Dutch",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Business",
+          "fields": [
+            "Accountancy",
+            "Business and Commerce",
+            "Commercial Law",
+            "Computer Science",
+            "Environmental Management",
+            "Finance",
+            "Insurance",
+            "Law",
+            "Marketing",
+            "Secretarial Studies",
+            "Taxation",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Department/Division : Education",
+          "fields": [
+            "Preschool Education",
+            "Primary Education",
+            "Secondary Education",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Department/Division : Health Care",
+          "fields": [
+            "Midwifery",
+            "Nursing",
+            "Occupational Therapy",
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "Department/Division : Information Technology",
+          "fields": [
+            "Computer Science",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Department/Division : Media and Tourism",
+          "fields": [
+            "Communication Studies",
+            "Journalism",
+            "Leisure Studies",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Department/Division : Music",
+          "fields": [
+            "Jazz and Popular Music"
+          ]
+        },
+        {
+          "name": "Department/Division : Plastic Arts",
+          "fields": [
+            "Advertising and Publicity",
+            "Ceramics and Glass Technology",
+            "Design",
+            "Fine Arts",
+            "Glass Art",
+            "Graphic Arts",
+            "Jewellery Art",
+            "Multimedia",
+            "Painting and Drawing",
+            "Sculpture",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Department/Division : Social Work",
+          "fields": [
+            "Social Work"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Agriculture",
+            "Business Administration",
+            "Education",
+            "Health Sciences",
+            "Management",
+            "Music",
+            "Social Work",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Agriculture",
+            "Business Administration",
+            "Health Sciences",
+            "Management",
+            "Music",
+            "Sculpture",
+            "Social Work",
+            "Visual Arts"
+          ]
+        }
+      ],
+      "accreditation": "Dutch-Flemish Accreditation Organization (Nederlands-Vlaams Accreditatie Orgaan - NVAO)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ben Lambrechts"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Birgitte Wynants"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Kristien Bauwens"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded in 1994. Earned NVAO Quality Status in 2017",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "10142",
+      "iau_id": "IAU-010142",
+      "name": "Karel de Grote University of Applied Sciences and Arts",
+      "alt_name": "Karel de Grote Hogeschool (KDG)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM2BRLSMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-010142",
+      "address": {
+        "Street": "Marksesteenweg 58",
+        "City": "Kortrijk",
+        "Post Code": "8500",
+        "WWW": "https://www.howest.be"
+      },
+      "website": "https://www.howest.be",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June (September - January; February - June)",
+      "languages": [
+        "Dutch",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Architecture",
+          "fields": [
+            "Architecture"
+          ]
+        },
+        {
+          "name": "Department/Division : Business Studies and Management",
+          "fields": [
+            "Business Administration",
+            "Communication Arts",
+            "Computer Science",
+            "Journalism",
+            "Leisure Studies",
+            "Management",
+            "Management Systems",
+            "Telecommunications Services",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Department/Division : Education",
+          "fields": [
+            "Preschool Education",
+            "Primary Education",
+            "Secondary Education",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Department/Division : Engineering and Technology",
+          "fields": [
+            "Biochemistry",
+            "Chemistry",
+            "Communication Studies",
+            "Electronic Engineering",
+            "Environmental Studies",
+            "Industrial Design",
+            "Mechanical Engineering",
+            "Multimedia",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Department/Division : Medical Sciences",
+          "fields": [
+            "Biomedical Engineering",
+            "Nursing",
+            "Occupational Therapy"
+          ]
+        },
+        {
+          "name": "Department/Division : Social Sciences",
+          "fields": [
+            "Psychology",
+            "Social Work"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Architecture",
+            "Biochemistry",
+            "Biomedical Engineering",
+            "Business and Commerce",
+            "Chemistry",
+            "Communication Arts",
+            "Computer Science",
+            "Economics",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Environmental Studies",
+            "Industrial Design",
+            "Information Technology",
+            "Journalism",
+            "Laboratory Techniques",
+            "Leisure Studies",
+            "Management",
+            "Mechanical Engineering",
+            "Multimedia",
+            "Nursing",
+            "Occupational Therapy",
+            "Preschool Education",
+            "Primary Education",
+            "Psychology",
+            "Secondary Education",
+            "Social Work",
+            "Teacher Training",
+            "Telecommunications Engineering",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Architecture",
+            "Biochemistry",
+            "Biomedical Engineering",
+            "Business and Commerce",
+            "Chemistry",
+            "Communication Arts",
+            "Computer Science",
+            "Economics",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Environmental Studies",
+            "Industrial Design",
+            "Information Technology",
+            "Journalism",
+            "Laboratory Techniques",
+            "Leisure Studies",
+            "Management",
+            "Mechanical Engineering",
+            "Multimedia",
+            "Occupational Therapy",
+            "Preschool Education",
+            "Primary Education",
+            "Psychology",
+            "Secondary Education",
+            "Social Work",
+            "Teacher Training",
+            "Telecommunications Engineering",
+            "Tourism"
+          ]
+        }
+      ],
+      "accreditation": "Dutch-Flemish Accreditation Organization (Nederlands-Vlaams Accreditatie Orgaan - NVAO)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Lode De Geyter"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "An Goegebeur"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded as a technical institute in 1879. Acquired present title in 1977. Merged and acquired present status in 1995. Part of the Ghent University Association of University Colleges. A university level provincial institution receiving financial support from the State.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "10178",
+      "iau_id": "IAU-010178",
+      "name": "Katholieke Universiteit Leuven",
+      "alt_name": "(KU Leuven)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM2BRLVNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-010178",
+      "address": {
+        "Street": "Brusselstraat 45",
+        "City": "Antwerpen",
+        "Post Code": "2018",
+        "WWW": "http://www.kdg.be"
+      },
+      "website": "http://www.kdg.be",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "September to July (September-February; February-July)",
+      "languages": [
+        "Dutch",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Applied Social Studies",
+          "fields": [
+            "Social Work",
+            "Special Education"
+          ]
+        },
+        {
+          "name": "Department/Division : Arts and Design",
+          "fields": [
+            "Fine Arts",
+            "Graphic Design",
+            "Jewellery Art"
+          ]
+        },
+        {
+          "name": "Department/Division : Commercial Sciences and Business Administration",
+          "fields": [
+            "Business Administration",
+            "Business and Commerce",
+            "Business Computing",
+            "Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Health Care",
+          "fields": [
+            "Midwifery",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Department/Division : Industrial Sciences and Technology",
+          "fields": [
+            "Automotive Engineering",
+            "Chemistry",
+            "Electronic Engineering",
+            "Engineering",
+            "Mechanical Engineering",
+            "Mechanics",
+            "Medical Technology",
+            "Photography"
+          ]
+        },
+        {
+          "name": "Department/Division : Teacher Training",
+          "fields": [
+            "Preschool Education",
+            "Primary Education",
+            "Secondary Education",
+            "Teacher Training"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Business Administration",
+            "Information Technology",
+            "Management",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Business Administration",
+            "Information Technology",
+            "Management",
+            "Visual Arts"
+          ]
+        }
+      ],
+      "accreditation": "Dutch-Flemish Accreditation Organization (Nederlands-Vlaams Accreditatie Orgaan - NVAO)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Veerle Hendrickx"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Sofie Schoonbaert"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded from the merger of 13 former Catholic Antwerp colleges in 1995. Part of the Antwerp University Association",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "7470",
+      "iau_id": "IAU-007470",
+      "name": "LUCA School of Arts",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tUzBXLGBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007470",
+      "address": {
+        "Street": "Oude Markt 13 - box 5500",
+        "City": "Leuven",
+        "Post Code": "3000",
+        "WWW": "https://www.kuleuven.be"
+      },
+      "website": "https://www.kuleuven.be",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June (September-January; February-June)",
+      "languages": [
+        "Dutch",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Agrarian Bio and Environment Ethics",
+          "fields": [
+            "Agriculture",
+            "Environmental Studies",
+            "Ethics"
+          ]
+        },
+        {
+          "name": "Centre : Biomedical Ethics and Law",
+          "fields": [
+            "Biomedicine",
+            "Ethics",
+            "Law"
+          ]
+        },
+        {
+          "name": "Centre : Ethics",
+          "fields": [
+            "Ethics"
+          ]
+        },
+        {
+          "name": "Centre : Risk and Insurance Studies",
+          "fields": [
+            "Insurance"
+          ]
+        },
+        {
+          "name": "Faculty : Arts",
+          "fields": [
+            "American Studies",
+            "Archaeology",
+            "Arts and Humanities",
+            "European Studies",
+            "Fine Arts",
+            "Latin American Studies",
+            "Linguistics",
+            "Literature",
+            "Medieval Studies",
+            "Modern Languages",
+            "Musicology"
+          ]
+        },
+        {
+          "name": "Faculty : Bioengineering Sciences",
+          "fields": [
+            "Bioengineering",
+            "Food Technology",
+            "Management",
+            "Molecular Biology",
+            "Nanotechnology",
+            "Natural Resources",
+            "Water Science"
+          ]
+        },
+        {
+          "name": "Faculty : Business and Economics",
+          "fields": [
+            "Business Administration",
+            "Economics"
+          ]
+        },
+        {
+          "name": "Faculty : Canon Law",
+          "fields": [
+            "Canon Law"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Architecture",
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Electronic Engineering",
+            "Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Kinesiology and Rehabilitation Science",
+          "fields": [
+            "Physical Education",
+            "Physical Therapy",
+            "Rehabilitation and Therapy"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Faculty : Pharmaceutical Sciences",
+          "fields": [
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Faculty : Psychology and Educational Sciences",
+          "fields": [
+            "Education",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Faculty : Science",
+          "fields": [
+            "Astronomy and Space Science",
+            "Biology",
+            "Chemistry",
+            "Earth Sciences",
+            "Environmental Studies",
+            "Mathematics",
+            "Natural Sciences",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Faculty : Social Sciences",
+          "fields": [
+            "Anthropology",
+            "Communication Studies",
+            "Cultural Studies",
+            "Political Sciences",
+            "Social Sciences",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Faculty : Theology",
+          "fields": [
+            "Ethics",
+            "Religious Studies",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Institute : Energy",
+          "fields": [
+            "Energy Engineering"
+          ]
+        },
+        {
+          "name": "Institute : Labour Studies",
+          "fields": [
+            "Labour and Industrial Relations"
+          ]
+        },
+        {
+          "name": "Institute : Language",
+          "fields": [
+            "Modern Languages"
+          ]
+        },
+        {
+          "name": "Institute : Philosophy",
+          "fields": [
+            "Philosophy"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Archaeology",
+            "Bioengineering",
+            "Canon Law",
+            "Criminology",
+            "Economics",
+            "Education",
+            "Engineering",
+            "History",
+            "Law",
+            "Medicine",
+            "Modern Languages",
+            "Notary Studies",
+            "Pharmacy",
+            "Philosophy",
+            "Physical Education",
+            "Psychology",
+            "Social Sciences",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Archaeology",
+            "Criminology",
+            "Economics",
+            "Education",
+            "History",
+            "Law",
+            "Modern Languages",
+            "Natural Sciences",
+            "Notary Studies",
+            "Philosophy",
+            "Physical Education",
+            "Social Sciences",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Doctor",
+          "fields": []
+        }
+      ],
+      "accreditation": "Dutch-Flemish Accreditation Organization (Nederlands-Vlaams Accreditatie Orgaan - NVAO)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Severine Vermeire"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Bart Hendrickx"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded by Bull of Pope Martin V on the initiative of Duke John of Brabant in 1425. Collegium Trilingue established by Erasmus in 1517. Suppressed under French occupation and closed during the reigns of Napoleon and William I of Holland. Re-established as Catholic University by Belgian episcopate in 1834. Reorganized with two divisions in 1969, the Katholieke Universiteit te Leuven and the Université catholique de Louvain which became separate legal entities in 1970. The titular head of the University is the Cardinal Archbishop of Malines. An institution independent of direct State control, receiving full state subvention",
+      "periodicals": [
+        "Reviews of faculties and institutes",
+        "Reviews of faculties and institutes"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "7492",
+      "iau_id": "IAU-007492",
+      "name": "Odisee University of Applied Sciences",
+      "alt_name": "Odisee de Co-Hogeschool",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tUzBZLEBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007492",
+      "address": {
+        "Street": "Paleizenstraat 70",
+        "City": "Brussels",
+        "Post Code": "1030",
+        "WWW": "https://www.luca-arts.be/nl"
+      },
+      "website": "https://www.luca-arts.be/nl",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Dutch",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Audiovisual Arts",
+          "fields": [
+            "Film",
+            "Video"
+          ]
+        },
+        {
+          "name": "Course/Programme : Construction",
+          "fields": [
+            "Building Technologies",
+            "Construction Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Drama",
+          "fields": [
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Course/Programme : Fine Arts",
+          "fields": [
+            "Fine Arts",
+            "Graphic Arts",
+            "Painting and Drawing",
+            "Sculpture"
+          ]
+        },
+        {
+          "name": "Course/Programme : Graphic Design",
+          "fields": [
+            "Design",
+            "Graphic Arts",
+            "Graphic Design"
+          ]
+        },
+        {
+          "name": "Course/Programme : Interior Design",
+          "fields": [
+            "Architecture",
+            "Interior Design"
+          ]
+        },
+        {
+          "name": "Course/Programme : Music",
+          "fields": [
+            "Music"
+          ]
+        },
+        {
+          "name": "Course/Programme : Photography",
+          "fields": [
+            "Photography"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Education",
+            "Film",
+            "Graphic Arts",
+            "Sculpture",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Education",
+            "Film",
+            "Graphic Arts",
+            "Photography",
+            "Sculpture",
+            "Theatre"
+          ]
+        }
+      ],
+      "accreditation": "Dutch-Flemish Accreditation Organization (Nederlands-Vlaams Accreditatie Orgaan - NVAO)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Simon Van Damme"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Veerle Van der Sluys"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded in 1884 on the basis of a Roman Catholic neo-Gothic Art Philosophy. A private university-level institution. Acquired present status in 1991",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "13744",
+      "iau_id": "IAU-013744",
+      "name": "Prince Leopold Institute of Tropical Medicine",
+      "alt_name": "Prins Leopold Instituut voor Tropische Geneeskunde – Instituut voor Tropische Geneeskunde Antwerpen (ITM - Antwerpen)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyxXLSMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-013744",
+      "address": {
+        "Street": "Warmoesberg 26",
+        "City": "Brussels",
+        "Post Code": "1000",
+        "WWW": "http://www.odisee.be"
+      },
+      "website": "http://www.odisee.be",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "September to June",
+      "languages": [
+        "Dutch",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Area : Applied Social Studies",
+          "fields": [
+            "Family Studies",
+            "Social Sciences",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Area : Biotechnology",
+          "fields": [
+            "Biotechnology"
+          ]
+        },
+        {
+          "name": "Area : Business Studies",
+          "fields": [
+            "Business Administration",
+            "Computer Science",
+            "Economics",
+            "International Business",
+            "Management"
+          ]
+        },
+        {
+          "name": "Area : Education",
+          "fields": [
+            "Preschool Education",
+            "Primary Education",
+            "Secondary Education"
+          ]
+        },
+        {
+          "name": "Area : Health Care",
+          "fields": [
+            "Food Science",
+            "Medical Technology",
+            "Midwifery",
+            "Nursing",
+            "Occupational Therapy",
+            "Optics",
+            "Optometry",
+            "Radiology"
+          ]
+        },
+        {
+          "name": "Area : Technology",
+          "fields": [
+            "Building Technologies",
+            "Chemistry",
+            "Design",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Energy Engineering",
+            "Information Technology",
+            "Mechanical Engineering",
+            "Production Engineering",
+            "Real Estate"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Business Administration",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": []
+        }
+      ],
+      "accreditation": "Dutch-Flemish Accreditation Organization (Nederlands-Vlaams Accreditatie Orgaan - NVAO)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Joris Rossi"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Martine Vanheulenbrouck"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded in 1925. Officially recognized in 1937. Acquired present status following the merger of Hogeschool‑Universiteit Brussel (HUB) and Katholieke Hogeschool Sint‑Lieven (KAHO) in 2014. Part of the KU Leuven Association",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "10171",
+      "iau_id": "IAU-010171",
+      "name": "Thomas More University of Applied Sciences",
+      "alt_name": "Thomas More Hoogeschool",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM2BRLVMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-010171",
+      "address": {
+        "Street": "Nationalestraat 155",
+        "City": "Antwerpen",
+        "Post Code": "2000",
+        "WWW": "http://www.itg.be"
+      },
+      "website": "http://www.itg.be",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Dutch",
+        "English",
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Biomedical Sciences",
+          "fields": [
+            "Medical Parasitology",
+            "Microbiology"
+          ]
+        },
+        {
+          "name": "Department/Division : Clinical Sciences",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Department/Division : Public Health",
+          "fields": [
+            "Epidemiology",
+            "Public Health"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Master",
+          "fields": [
+            "Public Health",
+            "Tropical Medicine",
+            "Veterinary Science"
+          ]
+        }
+      ],
+      "accreditation": "NVAO - Nederlands-Vlaamse Accreditatieorganisatie",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Marc-Alain Widdowson"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded in 1906 as a training institute for doctors and nurses working in the Congo. Earned current status in 1931. Internationally recognized in the fields of science, medicine, and education.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "10172",
+      "iau_id": "IAU-010172",
+      "name": "UC Leuven-Limburg",
+      "alt_name": "(UCLL)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM2BRLVMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-010172",
+      "address": {
+        "Street": "Kleinhoefstraat 4",
+        "City": "Geel",
+        "Post Code": "2440",
+        "WWW": "https://www.thomasmore.be"
+      },
+      "website": "https://www.thomasmore.be",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to July (September-January; February-July)",
+      "languages": [
+        "Dutch",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Biomedical, Behavioural & Social Studies",
+          "fields": [
+            "Medical Technology",
+            "Midwifery",
+            "Nursing",
+            "Nutrition",
+            "Occupational Therapy",
+            "Orthopaedics",
+            "Psychology",
+            "Social Work",
+            "Speech Therapy and Audiology"
+          ]
+        },
+        {
+          "name": "Faculty : Management & Education",
+          "fields": [
+            "Business Administration",
+            "Journalism",
+            "Management",
+            "Preschool Education",
+            "Primary Education",
+            "Secondary Education",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Technology & Design",
+          "fields": [
+            "Agrobiology",
+            "Biotechnology",
+            "Computer Science",
+            "Construction Engineering",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Electronics and Automation",
+            "Energy Engineering",
+            "Information Technology",
+            "Interior Design",
+            "Mechanical Engineering",
+            "Production Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Agriculture",
+            "Biotechnology",
+            "Business and Commerce",
+            "Chemistry",
+            "Computer Science",
+            "Dietetics",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Health Education",
+            "Information Technology",
+            "Laboratory Techniques",
+            "Management",
+            "Mechanical Engineering",
+            "Midwifery",
+            "Nursing",
+            "Nutrition",
+            "Occupational Therapy",
+            "Orthopaedics",
+            "Primary Education",
+            "Secondary Education",
+            "Social Work",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": []
+        }
+      ],
+      "accreditation": "Dutch-Flemish Accreditation Organization (Nederlands-Vlaams Accreditatie Orgaan - NVAO)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Els Van Weert"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Inge Vervoort"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded through the merger of Katholieke Hogeschool Kempen, Lessius Antwerp and Lessius Mechelen in 2012. Part of the KU Leuven Assocation.",
+      "periodicals": [
+        "Agora",
+        "Agora"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "19856",
+      "iau_id": "IAU-019856",
+      "name": "University of Antwerp",
+      "alt_name": "Universiteit Antwerpen (UA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RYLTM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019856",
+      "address": {
+        "Street": "Campus Comenius, Tiensevest 60",
+        "City": "Leuven",
+        "Post Code": "3000",
+        "WWW": "https://www.ucll.be"
+      },
+      "website": "https://www.ucll.be",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Dutch",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Business Studies",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Business and Commerce",
+            "Finance",
+            "Insurance",
+            "Management",
+            "Marketing",
+            "Secretarial Studies",
+            "Taxation"
+          ]
+        },
+        {
+          "name": "Department/Division : Health Care and Technology",
+          "fields": [
+            "Biochemistry",
+            "Biology",
+            "Chemistry",
+            "Dietetics",
+            "Environmental Studies",
+            "Food Technology",
+            "Information Technology",
+            "Laboratory Techniques",
+            "Midwifery",
+            "Nursing",
+            "Nutrition",
+            "Pharmacy",
+            "Secretarial Studies",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Department/Division : Social Work",
+          "fields": [
+            "Social Studies",
+            "Social Work",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Department/Division : Teacher Training",
+          "fields": [
+            "Education",
+            "Preschool Education",
+            "Primary Education",
+            "Secondary Education"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Business Administration",
+            "Marketing"
+          ]
+        }
+      ],
+      "accreditation": "Dutch-Flemish Accreditation Organization (Nederlands-Vlaams Accreditatie Orgaan - NVAO)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Marc Vandewalle"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Kristien Van Hoegaerden"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded in 1995, incorporating six existing Colleges of higher education. Acquired current title after merger with Limburg Catholic University College (Katholieke Hogeschool Limburg). Earned accreditation renewal in 2017. Part of the KU Leuven association",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "27076",
+      "iau_id": "IAU-027076",
+      "name": "Vesalius College",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzxQLVM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-027076",
+      "address": {
+        "Street": "Prinsstraat 13",
+        "City": "Antwerp",
+        "Post Code": "2000",
+        "WWW": "https://www.uantwerpen.be/nl"
+      },
+      "website": "https://www.uantwerpen.be/nl",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June (September - February; February - June)",
+      "languages": [
+        "Dutch",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Applied Economics",
+          "fields": [
+            "Business Administration",
+            "Business and Commerce",
+            "Economic and Finance Policy",
+            "Economics",
+            "Information Sciences",
+            "Management Systems"
+          ]
+        },
+        {
+          "name": "Faculty : Applied Engineering",
+          "fields": [
+            "Construction Engineering",
+            "Electrical Engineering",
+            "Information Technology",
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Arts",
+          "fields": [
+            "History",
+            "Linguistics",
+            "Literature",
+            "Philosophy"
+          ]
+        },
+        {
+          "name": "Faculty : Design Science",
+          "fields": [
+            "Architecture",
+            "Heritage Preservation",
+            "Interior Design"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Commercial Law",
+            "European Union Law",
+            "International Law",
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine and Health Sciences",
+          "fields": [
+            "Medicine",
+            "Midwifery",
+            "Nursing",
+            "Physical Therapy",
+            "Psychiatry and Mental Health",
+            "Surgery"
+          ]
+        },
+        {
+          "name": "Faculty : Pharmaceutical, Biomedical and Veterinary Sciences",
+          "fields": [
+            "Biomedicine",
+            "Pharmacy",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Faculty : Political and Social Sciences",
+          "fields": [
+            "Communication Studies",
+            "Political Sciences",
+            "Sociology",
+            "Women's Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Science",
+          "fields": [
+            "Biochemistry",
+            "Biological and Life Sciences",
+            "Biology",
+            "Biotechnology",
+            "Chemistry",
+            "Computer Science",
+            "Mathematics",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Institute : Development Policy and Management",
+          "fields": [
+            "Development Studies"
+          ]
+        },
+        {
+          "name": "Institute : Education and Information Sciences",
+          "fields": [
+            "Education",
+            "Information Sciences"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Animal Husbandry",
+            "Architectural Restoration",
+            "Architecture",
+            "Chemistry",
+            "Computer Science",
+            "Construction Engineering",
+            "Economics",
+            "Education",
+            "Health Education",
+            "Heritage Preservation",
+            "History",
+            "Law",
+            "Linguistics",
+            "Transport Engineering"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Architectural Restoration",
+            "Film",
+            "Linguistics",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Doctor",
+          "fields": [
+            "Information Sciences"
+          ]
+        }
+      ],
+      "accreditation": "Dutch-Flemish Accreditation Organization (Nederlands-Vlaams Accreditatie Orgaan - NVAO)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Herman Van Goethem"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Piet Van Hove"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded in 2003 from the merger of three institutions; Universitaire Instelling Antwerpen (UIA), Universitaire Faculteiten St. Ignatius te Antwerpen (UFSIA), Universitaire Centrum Antwerpen (RUCA). A member of the Antwerp University and Colleges Association (AUHA)",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "10170",
+      "iau_id": "IAU-010170",
+      "name": "VIVES University of Applied Sciences",
+      "alt_name": "Hogeschool VIVES (VIVES)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM2BRLVNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-010170",
+      "address": {
+        "Street": "Pleinlaan 5",
+        "City": "Brussels",
+        "Post Code": "1050",
+        "WWW": "http://www.vesalius.edu"
+      },
+      "website": "http://www.vesalius.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Business Administration",
+          "fields": [
+            "Business Administration",
+            "International Business"
+          ]
+        },
+        {
+          "name": "Course/Programme : International Law",
+          "fields": [
+            "International Law",
+            "Public Relations"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Business Administration",
+            "International Business",
+            "International Law",
+            "Public Relations"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "International Relations and Diplomacy"
+          ]
+        }
+      ],
+      "accreditation": "Dutch-Flemish Accreditation Organisation (NVAO, Nederlands-Vlaamse Accreditatie Organisatie)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Luc Soete"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Tongfi Kim"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded in 1987",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "21012",
+      "iau_id": "IAU-021012",
+      "name": "Vlerick Business School",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyRQLDMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-021012",
+      "address": {
+        "Street": "Doorniksesteenweg 145",
+        "City": "Kortrijk",
+        "Post Code": "8500",
+        "WWW": "https://www.vives.be/nl"
+      },
+      "website": "https://www.vives.be/nl",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to July (September - February; February - July)",
+      "languages": [
+        "Dutch",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Applied Engineering and Technology",
+          "fields": [
+            "Aeronautical and Aerospace Engineering",
+            "Chemical Engineering",
+            "Construction Engineering",
+            "Electrical Engineering",
+            "Energy Engineering",
+            "Engineering",
+            "Materials Engineering",
+            "Mechanical Engineering",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Applied Social Sciences",
+          "fields": [
+            "Social Sciences",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Faculty : Biotechnology and Agriculture",
+          "fields": [
+            "Agriculture",
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Commercial Sciences, Business Management and Informatics",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Finance",
+            "Home Economics",
+            "Hotel Management",
+            "Information Sciences",
+            "Insurance",
+            "Marketing",
+            "Mathematics and Computer Science",
+            "Secretarial Studies",
+            "Tourism",
+            "Translation and Interpretation",
+            "Transport and Communications"
+          ]
+        },
+        {
+          "name": "Faculty : Education and Teacher Training",
+          "fields": [
+            "Education",
+            "Preschool Education",
+            "Primary Education",
+            "Secondary Education",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Faculty : Health Care",
+          "fields": [
+            "Health Sciences",
+            "Laboratory Techniques",
+            "Midwifery",
+            "Nursing",
+            "Nutrition",
+            "Public Health",
+            "Rehabilitation and Therapy",
+            "Speech Therapy and Audiology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma van gegradueerde",
+          "fields": [
+            "Biotechnology",
+            "Business Administration",
+            "Computer Science",
+            "Education",
+            "Engineering",
+            "Health Sciences",
+            "International Business",
+            "Management",
+            "Social Studies"
+          ]
+        },
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Biotechnology",
+            "Business Administration",
+            "Computer Science",
+            "Education",
+            "Engineering",
+            "Health Sciences",
+            "International Business",
+            "Management",
+            "Social Studies"
+          ]
+        }
+      ],
+      "accreditation": "Dutch-Flemish Accreditation Organization (Nederlands-Vlaams Accreditatie Orgaan - NVAO)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Joris Hindryckx"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Lies Verstraete"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Tine Ternest"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2018-2019",
+        "Staff Full Time Total:": "830",
+        "Students Statistics Year:": "2018-2019",
+        "Students Total:": "13500"
+      },
+      "history": "Founded from the merger of two universities of applied sciences in West Flanders, KHBO and KATHO, in 2012. Part of the KU Leuven Association of University Colleges",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "21065",
+      "iau_id": "IAU-021065",
+      "name": "Vrije Universiteit Brussel",
+      "alt_name": "(VUB)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyRQLUM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-021065",
+      "address": {
+        "Street": "Reep 1",
+        "City": "Ghent",
+        "Post Code": "9000",
+        "WWW": "http://www.vlerick.com"
+      },
+      "website": "http://www.vlerick.com",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Accounting and Finance",
+          "fields": [
+            "Accountancy",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Department/Division : Governance and Ethics",
+          "fields": [
+            "Ethics",
+            "Government"
+          ]
+        },
+        {
+          "name": "Department/Division : Human Resource Management",
+          "fields": [
+            "Human Resources",
+            "Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Innovation and Entrepreneurship",
+          "fields": [
+            "Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Marketing and Sales",
+          "fields": [
+            "E-Business/Commerce",
+            "Marketing",
+            "Sales Techniques"
+          ]
+        },
+        {
+          "name": "Department/Division : Organisational Behaviour",
+          "fields": [
+            "Leadership",
+            "Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Specific Industries",
+          "fields": [
+            "Industrial Arts Education"
+          ]
+        },
+        {
+          "name": "Department/Division : Strategy",
+          "fields": [
+            "Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Master",
+          "fields": [
+            "Business Administration",
+            "Finance",
+            "Management"
+          ]
+        }
+      ],
+      "accreditation": "Dutch-Flemish Accreditation Organization (Nederlands-Vlaams Accreditatie Orgaan - NVAO)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Marion Debruyne"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Patricia Rousseau"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded in 1953. Acquired title in 2012. The management school of the Katholieke Universiteit Leuven and Ghent University.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    }
+  ]
+}

@@ -1,0 +1,4618 @@
+{
+  "country_name": "Slovenia",
+  "country_id": "Slovenia",
+  "institutions": [
+    {
+      "id": "27254",
+      "iau_id": "IAU-027254",
+      "name": "Academy of Visual Arts",
+      "alt_name": "Akademija za vizualne umetnosti - AVA (AVA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzxSLTMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-027254",
+      "address": {
+        "Street": "Slovenska 17",
+        "City": "Maribor",
+        "Post Code": "2000",
+        "WWW": "https://www.almamater.si"
+      },
+      "website": "https://www.almamater.si",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2007,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "Oct - Sept",
+      "languages": [
+        "Slovenian"
+      ],
+      "faculties": [
+        {
+          "name": "Academy : Dance",
+          "fields": [
+            "Dance"
+          ]
+        },
+        {
+          "name": "Department/Division : Archiving and Document Management",
+          "fields": [
+            "Archiving",
+            "Documentation Techniques"
+          ]
+        },
+        {
+          "name": "Department/Division : Business and Environment",
+          "fields": [
+            "Communication Arts",
+            "Environmental Studies",
+            "International Business",
+            "Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Health",
+          "fields": [
+            "Gerontology",
+            "Health Sciences",
+            "Nursing",
+            "Psychotherapy"
+          ]
+        },
+        {
+          "name": "Department/Division : Humanities",
+          "fields": [
+            "Arts and Humanities"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma o pridobljeni univerzitetni izobrazbi 1. stopnje",
+          "fields": [
+            "Arts and Humanities",
+            "Dance",
+            "Documentation Techniques",
+            "Gerontology",
+            "Management",
+            "Nursing",
+            "Psychotherapy"
+          ]
+        },
+        {
+          "name": "Diploma o pridobljeni magistrski izobrazbi 2. stopnje",
+          "fields": [
+            "Arts and Humanities",
+            "Documentation Techniques",
+            "Environmental Studies",
+            "Gerontology",
+            "Health Sciences",
+            "International Business",
+            "Management"
+          ]
+        },
+        {
+          "name": "Diploma o doktoratu znanosti",
+          "fields": [
+            "Archiving",
+            "Arts and Humanities",
+            "Communication Studies",
+            "Gerontology",
+            "Management",
+            "Physical Therapy"
+          ]
+        }
+      ],
+      "accreditation": "Slovenian Quality Assurance Agency for Higher Education (NAKVIS)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ludvik Toplak"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Tanja Angleitner Sagadin"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2017-2018",
+        "Students Total:": "1174"
+      },
+      "history": "Founded 2007 as Evropsko Središče Maribor (Maribor European Centre), became Alma Mater Europaea - Evropski Center (Alma Mater Europaea - European Center) in 2012 and acquired current title and status 2024.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "22392",
+      "iau_id": "IAU-022392",
+      "name": "Alma Mater Europaea - Dance Academy",
+      "alt_name": "Alma Mater Europaea - Akademija za ples",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyhTLjMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-022392",
+      "address": {
+        "Street": "Trubarjeva cesta 5",
+        "City": "Ljubljana",
+        "Post Code": "1000",
+        "WWW": "https://www.ava.si"
+      },
+      "website": "https://www.ava.si",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2007,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Slovenian"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Conceptualisation of Space",
+          "fields": [
+            "Display and Stage Design"
+          ]
+        },
+        {
+          "name": "Course/Programme : Fine Arts",
+          "fields": [
+            "Fine Arts"
+          ]
+        },
+        {
+          "name": "Course/Programme : Visual arts: Contemporary Visual Practices and Theories",
+          "fields": [
+            "Visual Arts"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma o pridobljeni univerzitetni izobrazbi 1. stopnje",
+          "fields": [
+            "Fine Arts",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Diploma o pridobljeni magistrski izobrazbi 2. stopnje",
+          "fields": [
+            "Visual Arts"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Pepi Peter Sekulich"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2007",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "6249",
+      "iau_id": "IAU-006249",
+      "name": "Alma Mater Europaea - ISH - Institutum Studiorum Humanitatis - Postgraduate School of Humanities",
+      "alt_name": "Alma Mater Europaea - Institutum Studiorum Humanitatis Fakulteta za podiplomski humanistični študij – AMEU - Institutum Studiorum Humanitatis (AMEU-ISH)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tQyhULjBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-006249",
+      "address": {
+        "Street": "Štihova ulica 7",
+        "City": "Ljubljana",
+        "Post Code": "1000",
+        "WWW": "https://en.almamater.si/alma-mater-europaea-dance-academy-s267"
+      },
+      "website": "https://en.almamater.si/alma-mater-europaea-dance-academy-s267",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2008,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Slovenian"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Ballet",
+          "fields": [
+            "Dance"
+          ]
+        },
+        {
+          "name": "Department/Division : Contemporary Dance",
+          "fields": [
+            "Dance"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma o pridobljeni univerzitetni izobrazbi 1. stopnje",
+          "fields": [
+            "Dance"
+          ]
+        },
+        {
+          "name": "Diploma o pridobljeni magistrski izobrazbi 2. stopnje",
+          "fields": [
+            "Art Education",
+            "Dance"
+          ]
+        }
+      ],
+      "accreditation": "Slovenian Quality Assurance Agency for Higher Education (NAKVIS)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Svebor Sečak"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Eneja Kovačič"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Goran Gumze"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2008, acquired current title 2010",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20943",
+      "iau_id": "IAU-020943",
+      "name": "Angela Boškin Faculty of Health Care",
+      "alt_name": "Fakulteta za zdravstvo Angele Boškin (FZAB)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BZLSMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020943",
+      "address": {
+        "Street": "Kardeljeva ploščad 1",
+        "City": "Ljubljana",
+        "Post Code": "1000",
+        "WWW": "http://www.ish.si"
+      },
+      "website": "http://www.ish.si",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1992,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Slovenian",
+        "English",
+        "Croatian",
+        "Serbian"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Anthropology of Everyday Life",
+          "fields": [
+            "Anthropology",
+            "Information Technology",
+            "Media Studies",
+            "Psychoanalysis",
+            "Psychology",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Department/Division : Anthropology of Gender",
+          "fields": [
+            "Anthropology",
+            "Cultural Studies",
+            "Gender Studies",
+            "Women's Studies",
+            "Writing"
+          ]
+        },
+        {
+          "name": "Department/Division : Anthropology of the Ancient Worlds",
+          "fields": [
+            "Anthropology",
+            "Arts and Humanities",
+            "Classical Languages",
+            "Philosophy",
+            "Religion"
+          ]
+        },
+        {
+          "name": "Department/Division : Historical Anthropology",
+          "fields": [
+            "Anthropology",
+            "Arts and Humanities",
+            "Demography and Population",
+            "Media Studies",
+            "Mediterranean Studies",
+            "Philosophy",
+            "Religion"
+          ]
+        },
+        {
+          "name": "Department/Division : Historical Anthropology of Art",
+          "fields": [
+            "Anthropology",
+            "Arts and Humanities",
+            "Fine Arts"
+          ]
+        },
+        {
+          "name": "Department/Division : Linguistics of Speech and Theory of Social Communication",
+          "fields": [
+            "Anthropology",
+            "Communication Studies",
+            "Linguistics",
+            "Phonetics",
+            "Speech Studies"
+          ]
+        },
+        {
+          "name": "Department/Division : Media Studies",
+          "fields": [
+            "Anthropology",
+            "Mass Communication",
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "Department/Division : Social Anthropology",
+          "fields": [
+            "Anthropology",
+            "Cultural Studies",
+            "Political Sciences",
+            "Regional Studies"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma o pridobljeni univerzitetni izobrazbi 1. stopnje",
+          "fields": [
+            "Arts and Humanities"
+          ]
+        },
+        {
+          "name": "Diploma o pridobljeni magistrski izobrazbi 2. stopnje",
+          "fields": [
+            "Arts and Humanities"
+          ]
+        },
+        {
+          "name": "Diploma o doktoratu znanosti",
+          "fields": [
+            "Anthropology",
+            "Arts and Humanities",
+            "Behavioural Sciences",
+            "Communication Studies",
+            "Cultural Studies",
+            "Demography and Population",
+            "Eastern European Studies",
+            "Ethnology",
+            "Film",
+            "Gender Studies",
+            "Speech Studies",
+            "Women's Studies"
+          ]
+        }
+      ],
+      "accreditation": "National Agency for the Quality of Higher Education (NAKVIS)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Jurij Toplak"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Lenart Škof"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Goran Gumze"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1992",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "15523",
+      "iau_id": "IAU-015523",
+      "name": "Arthouse-College of Visual Arts",
+      "alt_name": "Šola za risanje in slikanje – ArtHouse - Šola za risanje in slikanje (VŠRS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzRVLEMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-015523",
+      "address": {
+        "Street": "Spodnji Plavž 3",
+        "City": "Jesenice",
+        "Post Code": "4270",
+        "WWW": "https://www.fzab.si"
+      },
+      "website": "https://www.fzab.si",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2006,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Slovenian"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Health Sciences",
+          "fields": [
+            "Health Administration",
+            "Health Sciences"
+          ]
+        },
+        {
+          "name": "Course/Programme : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Course/Programme : Physical Therapy",
+          "fields": [
+            "Physical Therapy"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma o pridobljeni visokošolski strokovni izobrazbi 1. stopnje",
+          "fields": [
+            "Nursing",
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "Diploma o pridobljeni magistrski izobrazbi 2. stopnje",
+          "fields": [
+            "Health Sciences",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Diploma o doktoratu znanosti",
+          "fields": [
+            "Health Sciences"
+          ]
+        }
+      ],
+      "accreditation": "Slovenian Quality Assurance Agency for Higher Education (NAKVIS)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ivica Avberšek Lužnik"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Katja Pesjak"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2006. Formerly known as Visoka šola za zdravstveno nego Jesenice (College of Nursing Jesenice)",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20938",
+      "iau_id": "IAU-020938",
+      "name": "College of Accounting and Finance",
+      "alt_name": "Visoka šola za računovodstvo in finance (VSR)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BZLFNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020938",
+      "address": {
+        "Street": "Brnčičeva ulica 31",
+        "City": "Ljubljana",
+        "Post Code": "1231",
+        "WWW": "https://www.arthouse-si.com"
+      },
+      "website": "https://www.arthouse-si.com",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1990,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Slovenian",
+        "Croatian",
+        "English",
+        "Bosnian",
+        "Serbian"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Fine Arts",
+          "fields": [
+            "Fine Arts"
+          ]
+        },
+        {
+          "name": "Course/Programme : Visual Arts",
+          "fields": [
+            "Aesthetics",
+            "Art History",
+            "Painting and Drawing",
+            "Visual Arts"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma o pridobljeni univerzitetni izobrazbi 1. stopnje",
+          "fields": [
+            "Painting and Drawing"
+          ]
+        },
+        {
+          "name": "Diploma o pridobljeni magistrski izobrazbi 2. stopnje",
+          "fields": [
+            "Fine Arts"
+          ]
+        }
+      ],
+      "accreditation": "Slovenian Quality Assurance Agency for Higher Education (NAKVIS)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Mladen Jernejec"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Amela Fehrić-Lišić"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1990",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "22393",
+      "iau_id": "IAU-022393",
+      "name": "DOBA Business School",
+      "alt_name": "DOBA Fakulteta za uporabne poslovne in družbene študije Maribor – DOBA Faculty of Applied Business and Social Studies Maribor",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyhTLjMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-022393",
+      "address": {
+        "Street": "Stegne 21c, II/nadstropje",
+        "City": "Ljubljana",
+        "Post Code": "1000",
+        "WWW": "https://www.vsr.si"
+      },
+      "website": "https://www.vsr.si",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2007,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Slovenian"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Accountancy",
+          "fields": [
+            "Accountancy",
+            "Economics",
+            "English",
+            "Finance",
+            "Information Technology",
+            "Mathematics"
+          ]
+        },
+        {
+          "name": "Course/Programme : Forensic Investigation in Finance and Accounting",
+          "fields": [
+            "Accountancy",
+            "Finance"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma o pridobljeni visokošolski strokovni izobrazbi 1. stopnje",
+          "fields": [
+            "Accountancy",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Diploma o pridobljeni magistrski izobrazbi 2. stopnje",
+          "fields": [
+            "Accountancy",
+            "Finance"
+          ]
+        }
+      ],
+      "accreditation": "National Agency for the Quality of Higher Education (NAKVIS)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Darinka Kamenšek"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Branko Mayr"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Mojca Mayr"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2018-2019",
+        "Staff Full Time Total:": "40",
+        "Students Statistics Year:": "2018-2019",
+        "Students Total:": "440"
+      },
+      "history": "Founded 2007",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20942",
+      "iau_id": "IAU-020942",
+      "name": "Environmental Protection College",
+      "alt_name": "Visoka šola za varstvo okolja",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BZLSMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020942",
+      "address": {
+        "Street": "Prešernova 1",
+        "City": "Maribor",
+        "Post Code": "2000",
+        "WWW": "https://www.fakulteta.doba.si"
+      },
+      "website": "https://www.fakulteta.doba.si",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2003,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Slovenian",
+        "English",
+        "Croatian",
+        "Serbian"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Graduate Studies",
+          "fields": [
+            "Business Administration",
+            "Continuing Education",
+            "Management",
+            "Marketing",
+            "Mass Communication",
+            "Public Relations",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Course/Programme : Online Studies",
+          "fields": [
+            "Business Administration",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Course/Programme : Undergraduate Studies",
+          "fields": [
+            "Business Administration",
+            "Continuing Education",
+            "International Business",
+            "Management",
+            "Social Work"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma o pridobljeni visokošolski strokovni izobrazbi 1. stopnje",
+          "fields": [
+            "Management",
+            "Marketing",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Diploma o pridobljeni magistrski izobrazbi 2. stopnje",
+          "fields": [
+            "Business Administration",
+            "International Business",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Diploma o doktoratu znanosti",
+          "fields": [
+            "Business Computing"
+          ]
+        }
+      ],
+      "accreditation": "National Agency for the Quality of Higher Education (NAKVIS)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Rasto Ovin"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Irena Amič Ravnik"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Jasna Dominko Baloh"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2003",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "4903",
+      "iau_id": "IAU-004903",
+      "name": "Euro-Mediterranean University",
+      "alt_name": "Evro-sredozemska univerza – EMUNI University (EMUNI)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tI0RQLFBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004903",
+      "address": {
+        "Street": "Trg mladosti 7",
+        "City": "Velenje",
+        "Post Code": "3320",
+        "WWW": "http://www.vsvo.si"
+      },
+      "website": "http://www.vsvo.si",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2007,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Slovenian"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Environmental Protection and Eco-technology",
+          "fields": [
+            "Ecology",
+            "Environmental Engineering",
+            "Environmental Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma o pridobljeni visokošolski strokovni izobrazbi 1. stopnje",
+          "fields": [
+            "Ecology",
+            "Environmental Engineering",
+            "Environmental Management"
+          ]
+        },
+        {
+          "name": "Diploma o pridobljeni magistrski izobrazbi 2. stopnje",
+          "fields": [
+            "Ecology",
+            "Environmental Engineering",
+            "Environmental Management"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Gašper Gantar"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Boštjan Pokorny"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Andrejka Mevc"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2007",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "6247",
+      "iau_id": "IAU-006247",
+      "name": "Faculty of Commercial and Business Sciences",
+      "alt_name": "Fakulteta za komercialne in poslovne vede (FKPV)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tQyhULVBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-006247",
+      "address": {
+        "Street": "Trevisini PalaceKidričevo nabrežje 2",
+        "City": "Piran",
+        "Post Code": "6330",
+        "WWW": "http://www.emuni.si"
+      },
+      "website": "http://www.emuni.si",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2008,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Slovenian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Criminal Justice and Security Studies",
+          "fields": [
+            "Criminal Law",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Course/Programme : Environmental Protection of the Mediterranean Region",
+          "fields": [
+            "Environmental Management",
+            "Environmental Studies",
+            "Mediterranean Studies"
+          ]
+        },
+        {
+          "name": "Course/Programme : Euro-Mediterranean Policies",
+          "fields": [
+            "European Studies",
+            "Mediterranean Studies"
+          ]
+        },
+        {
+          "name": "Course/Programme : Intercultural Business Communication",
+          "fields": [
+            "Business Administration",
+            "Business and Commerce",
+            "Communication Studies"
+          ]
+        },
+        {
+          "name": "Course/Programme : Landscape, Territory and Patrimony",
+          "fields": [
+            "Heritage Preservation",
+            "Landscape Architecture"
+          ]
+        },
+        {
+          "name": "Course/Programme : Management, Development Studies and Tourism",
+          "fields": [
+            "Development Studies",
+            "European Studies",
+            "Management",
+            "Marketing",
+            "Mediterranean Studies",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Course/Programme : Marine Hydrology",
+          "fields": [
+            "Marine Science and Oceanography",
+            "Water Science"
+          ]
+        },
+        {
+          "name": "Course/Programme : Migration and Intercultural Relations",
+          "fields": [
+            "Cultural Studies",
+            "Demography and Population"
+          ]
+        },
+        {
+          "name": "Course/Programme : Public Management",
+          "fields": [
+            "European Studies",
+            "Mediterranean Studies",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "Course/Programme : Transportation and Highway Engineering",
+          "fields": [
+            "Road Engineering",
+            "Transport Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma o pridobljeni magistrski izobrazbi 2. stopnje",
+          "fields": [
+            "Business Administration",
+            "Communication Studies",
+            "Environmental Management",
+            "Environmental Studies",
+            "International Studies",
+            "Management"
+          ]
+        },
+        {
+          "name": "Diploma o doktoratu znanosti",
+          "fields": [
+            "Criminal Law",
+            "Protective Services"
+          ]
+        }
+      ],
+      "accreditation": "Slovenian Quality Assurance Agency for Higher Education (SQAA)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Abdelhamid El-Zoheiry"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Jerneja Penca"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Enisa Musai"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2008",
+      "periodicals": [
+        "International Journal of Euro-Mediterranean Studies (IJEMS)",
+        "International Journal of Euro-Mediterranean Studies (IJEMS)"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20936",
+      "iau_id": "IAU-020936",
+      "name": "Faculty of Design - independant higher education institution Associated member of University of Primorska",
+      "alt_name": "Fakulteta za dizajn - samostojni visokošolski zavod pridružena članica Univerze na Primorskem (FD)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BZLFM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020936",
+      "address": {
+        "Street": "Lava 7",
+        "City": "Celje",
+        "Post Code": "3000",
+        "WWW": "https://www.fkpv.si"
+      },
+      "website": "https://www.fkpv.si",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2004,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "October to September",
+      "languages": [
+        "Slovenian"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Business Informatics I and II",
+          "fields": [
+            "Business Computing"
+          ]
+        },
+        {
+          "name": "Course/Programme : Business Science III",
+          "fields": [
+            "Business Administration",
+            "Economics",
+            "Information Sciences"
+          ]
+        },
+        {
+          "name": "Course/Programme : Commerce I and II",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Business and Commerce",
+            "Commercial Law",
+            "Economic and Finance Policy",
+            "Economics",
+            "European Union Law",
+            "Finance",
+            "Human Resources",
+            "Information Technology",
+            "International Business",
+            "Management",
+            "Marketing",
+            "Statistics",
+            "Taxation",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Security Management I",
+          "fields": [
+            "Civil Security",
+            "Communication Studies",
+            "Criminal Law",
+            "Criminology",
+            "Economics",
+            "Environmental Studies",
+            "European Union Law",
+            "Fire Science",
+            "Heritage Preservation",
+            "Information Management",
+            "Information Technology",
+            "Insurance",
+            "Management",
+            "Military Science",
+            "Natural Resources",
+            "Peace and Disarmament",
+            "Police Studies",
+            "Protective Services",
+            "Real Estate"
+          ]
+        },
+        {
+          "name": "Course/Programme : Tourism I and II",
+          "fields": [
+            "Accountancy",
+            "Business Computing",
+            "Cooking and Catering",
+            "Ecology",
+            "English",
+            "Finance",
+            "German",
+            "Human Resources",
+            "Italian",
+            "Leisure Studies",
+            "Management",
+            "Marketing",
+            "Parks and Recreation",
+            "Sports",
+            "Sports Management",
+            "Statistics",
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma o pridobljeni visokošolski strokovni izobrazbi 1. stopnje",
+          "fields": [
+            "Economics",
+            "Finance",
+            "Information Management",
+            "Information Technology",
+            "Management",
+            "Marketing",
+            "Protective Services",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Diploma o pridobljeni magistrski izobrazbi 2. stopnje",
+          "fields": [
+            "Business and Commerce",
+            "Finance",
+            "Information Sciences",
+            "Management",
+            "Marketing",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Diploma o doktoratu znanosti",
+          "fields": [
+            "Business Administration",
+            "Tourism"
+          ]
+        }
+      ],
+      "accreditation": "Slovenian Quality Assurance Agency for Higher Education (NAKVIS)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Andrej Geršak"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Tatjana Kovač"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Petra Golob"
+        }
+      ],
+      "statistics": {
+        "Students Part Time:": "707"
+      },
+      "history": "Founded 2004 as Visoka komercionalna šola Celje (Celje School of Commerce). Acquired present status and title 2008.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "22415",
+      "iau_id": "IAU-022415",
+      "name": "Faculty of Health and Social Sciences Slovenj Gradec",
+      "alt_name": "Fakulteta za zdravstvene in socialne vede Slovenj Gradec (FZSV SG)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyhULDM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-022415",
+      "address": {
+        "Street": "Prevale 10",
+        "City": "Trzin",
+        "Post Code": "1236",
+        "WWW": "http://www.fd.si"
+      },
+      "website": "http://www.fd.si",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2005,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "October to September",
+      "languages": [
+        "Slovenian"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Interior Design and Landscape Architecture",
+          "fields": [
+            "Architecture",
+            "Communication Studies",
+            "Furniture Design",
+            "Heritage Preservation",
+            "Interior Design",
+            "Landscape Architecture",
+            "Metal Techniques",
+            "Painting and Drawing",
+            "Photography",
+            "Textile Design",
+            "Wood Technology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Textiles and Fashion Design",
+          "fields": [
+            "Communication Studies",
+            "Fashion Design",
+            "Painting and Drawing",
+            "Photography",
+            "Textile Design",
+            "Textile Technology",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Course/Programme : Visual Communications",
+          "fields": [
+            "Communication Studies",
+            "Computer Graphics",
+            "Graphic Arts",
+            "Graphic Design",
+            "Heritage Preservation",
+            "Painting and Drawing",
+            "Photography",
+            "Video",
+            "Visual Arts"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma o pridobljeni univerzitetni izobrazbi 1. stopnje",
+          "fields": [
+            "Art Management",
+            "Design",
+            "Fashion Design",
+            "Interior Design",
+            "Jewellery Art",
+            "Textile Design"
+          ]
+        },
+        {
+          "name": "Diploma o pridobljeni magistrski izobrazbi 2. stopnje",
+          "fields": [
+            "Art Management",
+            "Fashion Design",
+            "Interior Design",
+            "Textile Design",
+            "Visual Arts"
+          ]
+        }
+      ],
+      "accreditation": "Slovenian Quality Assurance Agency for Higher Education (NAKVIS)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Nada Rožmanec Matičič"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Ariana Ferfila"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2019-2020",
+        "Staff Full Time Total:": "24",
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "387"
+      },
+      "history": "Founded 2005 as Visoka šola za dizajn v Ljubljani (Academy of Design in Ljubljana). Acquired current title 2014",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "22418",
+      "iau_id": "IAU-022418",
+      "name": "Faculty of Health Sciences in Celje",
+      "alt_name": "Fakulteta za zdravstvene vede v Celju (FZVCE)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyhULDNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-022418",
+      "address": {
+        "Street": "Glavni trg 1",
+        "City": "Slovenj Gradec",
+        "Post Code": "2380",
+        "WWW": "https://www.fzsv.si"
+      },
+      "website": "https://www.fzsv.si",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2009,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Slovenian"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Health Sciences",
+          "fields": [
+            "Health Sciences"
+          ]
+        },
+        {
+          "name": "Course/Programme : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma o pridobljeni visokošolski strokovni izobrazbi 1. stopnje",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Diploma o pridobljeni magistrski izobrazbi 2. stopnje",
+          "fields": [
+            "Health Sciences"
+          ]
+        }
+      ],
+      "accreditation": "Slovenian Quality Assurance Agency for Higher Education, (NAKVIS)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Danica Železnik"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Anja Antić"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2009 as Visoka šola za zdravstvene vede Slovenj Gradec (University College of Health Sciences Slovenj Gradec) by Slovenj Gradec municipality and the Koroška Centre for Higher Education (KOVIVIS)",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "22396",
+      "iau_id": "IAU-022396",
+      "name": "Faculty of Industrial Engineering Novo Mesto",
+      "alt_name": "Fakulteta za industrijski inženiring Novo Mesto (FINI Novo Mesto)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyhTLjM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-022396",
+      "address": {
+        "Street": "Mariborska cesta 7",
+        "City": "Celje",
+        "Post Code": "3000",
+        "WWW": "https://www.fzvce.si"
+      },
+      "website": "https://www.fzvce.si",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2009,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Slovenian"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Health Sciences",
+          "fields": [
+            "Health Sciences"
+          ]
+        },
+        {
+          "name": "Course/Programme : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma o pridobljeni visokošolski strokovni izobrazbi 1. stopnje",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Diploma o pridobljeni magistrski izobrazbi 2. stopnje",
+          "fields": [
+            "Health Sciences"
+          ]
+        }
+      ],
+      "accreditation": "Slovenian Quality Assurance Agency for Higher Education (NAKVIS)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Gorazd Voga"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Boris Miha Kaučič"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Jerneji Meža"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2009 as College of Health Science in Celje (Visoka zdravstvena šola v Celju). Acquired present title, 2022",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "6246",
+      "iau_id": "IAU-006246",
+      "name": "Faculty of Information Studies in Novo Mesto",
+      "alt_name": "Fakulteta za informacijske študije v Novem mestu – Fakulteta za informacijske študije (FIŠ)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tQyhULUBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-006246",
+      "address": {
+        "Street": "Šegova ulica 112",
+        "City": "Novo mesto",
+        "Post Code": "8000",
+        "WWW": "http://www.fini-unm.si/si"
+      },
+      "website": "http://www.fini-unm.si/si",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2011,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Slovenian"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : General Courses and Economic Buseiness Studies",
+          "fields": [
+            "Economics"
+          ]
+        },
+        {
+          "name": "Course/Programme : Materials, Technologies, and Production",
+          "fields": [
+            "Engineering",
+            "Production Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Mechanics, Design and Computer Engineering",
+          "fields": [
+            "Computer Engineering",
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Natural Sciences, Electromechanical, Mechatronic Systems",
+          "fields": [
+            "Electronic Engineering",
+            "Mechanical Engineering",
+            "Natural Sciences"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma o pridobljeni univerzitetni izobrazbi 1. stopnje",
+          "fields": [
+            "Automotive Engineering"
+          ]
+        },
+        {
+          "name": "Diploma o pridobljeni visokošolski strokovni izobrazbi 1. stopnje",
+          "fields": [
+            "Automotive Engineering"
+          ]
+        },
+        {
+          "name": "Diploma o pridobljeni magistrski izobrazbi 2. stopnje",
+          "fields": [
+            "Automotive Engineering"
+          ]
+        },
+        {
+          "name": "Diploma o doktoratu znanosti",
+          "fields": [
+            "Automotive Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Slovenian Quality Assurance Agency for Higher Education (NAKVIS)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Iris Fink Grubačević"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Lucija Galič"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Ines Lipuš"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2011",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "22401",
+      "iau_id": "IAU-022401",
+      "name": "Faculty of Law and Business Studies",
+      "alt_name": "Fakulteta za poslovne vede (FPV)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyhULCMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-022401",
+      "address": {
+        "Street": "Ljubljanska cesta 31AP.O. Box 603",
+        "City": "Novo Mesto",
+        "Post Code": "8000",
+        "WWW": "https://www.fis.unm.si"
+      },
+      "website": "https://www.fis.unm.si",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2008,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "October to September (October-February; February-September).",
+      "languages": [
+        "Slovenian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Information Sciences",
+          "fields": [
+            "Communication Studies",
+            "Computer Engineering",
+            "Computer Networks",
+            "Data Science",
+            "E-Business/Commerce",
+            "Economics",
+            "Information Sciences",
+            "Information Technology",
+            "Management",
+            "Mathematics",
+            "Political Sciences",
+            "Social Sciences",
+            "Social Studies",
+            "Sociology",
+            "Statistics"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma o pridobljeni univerzitetni izobrazbi 1. stopnje",
+          "fields": [
+            "Computer Science",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Diploma o pridobljeni magistrski izobrazbi 2. stopnje",
+          "fields": [
+            "Computer Science",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Diploma o doktoratu znanosti",
+          "fields": [
+            "Information Technology"
+          ]
+        }
+      ],
+      "accreditation": "Slovenian Quality Assurance Agency for Higher Education (NAKVIS)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Dejan Jelovac"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Katarina Rojko"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2019-2020",
+        "Staff Full Time Total:": "44",
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "236"
+      },
+      "history": "Founded 2008",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "6248",
+      "iau_id": "IAU-006248",
+      "name": "Faculty of Media Studies",
+      "alt_name": "Fakulteta za medije (FAM)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tQyhULmBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-006248",
+      "address": {
+        "Street": "Krekov trg 1",
+        "City": "Ljubljana",
+        "Post Code": "1000",
+        "WWW": "http://www.katoliski-institut.si"
+      },
+      "website": "http://www.katoliski-institut.si",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2010,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Slovenian"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Business Administration",
+          "fields": [
+            "Business Administration"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma o pridobljeni univerzitetni izobrazbi 1. stopnje",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Diploma o pridobljeni magistrski izobrazbi 2. stopnje",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Diploma o doktoratu znanosti",
+          "fields": [
+            "Economics",
+            "Law"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Anton Stres"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Zoran Vaupot"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2010 as the first faculty of the future Catholic University",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "22398",
+      "iau_id": "IAU-022398",
+      "name": "Faculty of Organisation Studies in Novo Mesto",
+      "alt_name": "Fakulteta za organizacijske študije v Novem mestu (FOŠ)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyhTLjNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-022398",
+      "address": {
+        "Street": "Leskoškova cesta 9e",
+        "City": "Ljubljana",
+        "Post Code": "1000",
+        "WWW": "https://fame.si"
+      },
+      "website": "https://fame.si",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2008,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Slovenian"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Media Studies and Journalism",
+          "fields": [
+            "Journalism",
+            "Media Studies"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma o pridobljeni visokošolski strokovni izobrazbi 1. stopnje",
+          "fields": [
+            "Journalism",
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "Diploma o pridobljeni magistrski izobrazbi 2. stopnje",
+          "fields": [
+            "Communication Studies",
+            "Journalism",
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "Diploma o doktoratu znanosti",
+          "fields": [
+            "Communication Studies"
+          ]
+        }
+      ],
+      "accreditation": "National Agency for the Quality of Higher Education (NAKVIS)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Matjaž Škabar"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Romana Cesar"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2008",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20940",
+      "iau_id": "IAU-020940",
+      "name": "Faculty of Polymer Technology",
+      "alt_name": "Fakulteta za tehnologijo polimerov (FTPO)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BZLSNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020940",
+      "address": {
+        "Street": "Ulica talcev 3",
+        "City": "Novo mesto",
+        "Post Code": "8000",
+        "WWW": "https://www.fos-unm.si"
+      },
+      "website": "https://www.fos-unm.si",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2008,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Slovenian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Quality Management",
+          "fields": [
+            "Management",
+            "Safety Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma o pridobljeni visokošolski strokovni izobrazbi 1. stopnje",
+          "fields": [
+            "Management",
+            "Safety Engineering"
+          ]
+        },
+        {
+          "name": "Diploma o pridobljeni magistrski izobrazbi 2. stopnje",
+          "fields": [
+            "Management",
+            "Safety Engineering"
+          ]
+        },
+        {
+          "name": "Diploma o doktoratu znanosti",
+          "fields": [
+            "Management",
+            "Safety Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Slovenian Quality Assurance Agency for Higher Education (NAKVIS)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Annmarie Gorenc Zoran"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Jerneja Šurla Gašperšič"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Katja Kragelj Mikolič"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2008 by the Institute of Management Excellency and the University and Research Centre Novo mesto-established by the Municipality of Novo mesto",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "6600",
+      "iau_id": "IAU-006600",
+      "name": "GEA College - Faculty of Entrepreneurship",
+      "alt_name": "GEA College - Fakulteta za podjetništvo (GEA College - FP)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tQzhQLGBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-006600",
+      "address": {
+        "Street": "Ozare 19",
+        "City": "Slovenj Gradec",
+        "Post Code": "2380",
+        "WWW": "https://www.ftpo.eu"
+      },
+      "website": "https://www.ftpo.eu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2006,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Slovenian"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Interactive Information Systems",
+          "fields": [
+            "Information Sciences",
+            "Software Engineering",
+            "Systems Analysis"
+          ]
+        },
+        {
+          "name": "Course/Programme : Polymer Technology",
+          "fields": [
+            "Applied Mathematics",
+            "Applied Physics",
+            "Chemistry",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Law",
+            "Management",
+            "Marketing",
+            "Polymer and Plastics Technology",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Polymer Technology",
+          "fields": [
+            "Polymer and Plastics Technology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Sustainable Engineering",
+          "fields": [
+            "Environmental Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma o pridobljeni visokošolski strokovni izobrazbi 1. stopnje",
+          "fields": [
+            "Environmental Engineering",
+            "Information Technology",
+            "Polymer and Plastics Technology"
+          ]
+        },
+        {
+          "name": "Diploma o pridobljeni magistrski izobrazbi 2. stopnje",
+          "fields": [
+            "Polymer and Plastics Technology"
+          ]
+        }
+      ],
+      "accreditation": "Slovenian Quality Assurance Agency for Higher Education (NAKVIS)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Miroslav Huskić"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Maja Mešl"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2006 as Visoka šola za tehnologijo polimerov (Polymer Technology College)",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "27256",
+      "iau_id": "IAU-027256",
+      "name": "Higher Education Institute of Physiotherapy",
+      "alt_name": "Visokošolski zavod Fizioterapevtika",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzxSLTM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-027256",
+      "address": {
+        "Street": "Dunajska cesta 156",
+        "City": "Ljubljana",
+        "Post Code": "1000",
+        "WWW": "https://gea-college.si"
+      },
+      "website": "https://gea-college.si",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1990,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Slovenian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Vocational Studies",
+          "fields": [
+            "Accountancy",
+            "Computer Science",
+            "Cooking and Catering",
+            "Economics",
+            "Information Sciences",
+            "Management",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Course/Programme : Digital Marketing",
+          "fields": [
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Course/Programme : Entrepreneurship",
+          "fields": [
+            "Accountancy",
+            "Business and Commerce",
+            "E-Business/Commerce",
+            "Economics",
+            "English",
+            "Ethics",
+            "Finance",
+            "German",
+            "Human Resources",
+            "Labour Law",
+            "Management",
+            "Marketing",
+            "Mass Communication",
+            "Media Studies",
+            "Social Welfare",
+            "Taxation",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Course/Programme : Risk Management and Corporate Security",
+          "fields": [
+            "Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma o pridobljeni univerzitetni izobrazbi 1. stopnje",
+          "fields": [
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Diploma o pridobljeni magistrski izobrazbi 2. stopnje",
+          "fields": [
+            "Insurance",
+            "Management"
+          ]
+        }
+      ],
+      "accreditation": "Slovenian Quality Assurance Agency for Higher Education (NAKVIS)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Katja Kraškovic"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Nataša Urbanija"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Anamarija Meglič"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1990. Acquired present status 1996",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20939",
+      "iau_id": "IAU-020939",
+      "name": "Higher School of Applied Sciences",
+      "alt_name": "Visoka šola za storitve (VIST)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BZLFNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020939",
+      "address": {
+        "Street": "Slovenska cesta 58",
+        "City": "Ljubljana",
+        "Post Code": "1000",
+        "WWW": "https://www.erudio.si"
+      },
+      "website": "https://www.erudio.si",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2016,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Slovenian"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Physical Therapy",
+          "fields": [
+            "Physical Therapy"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma o pridobljeni visokošolski strokovni izobrazbi 1. stopnje",
+          "fields": [
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "Diploma o pridobljeni magistrski izobrazbi 2. stopnje",
+          "fields": [
+            "Physical Therapy"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Friderika Kresal"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2016",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "22403",
+      "iau_id": "IAU-022403",
+      "name": "IBS International Business School",
+      "alt_name": "IBS Mednarodna poslovna šola (IBS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyhULCMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-022403",
+      "address": {
+        "Street": "Cesta na Brdo 69",
+        "City": "Ljubljana",
+        "Post Code": "1000",
+        "WWW": "http://www.vist.si"
+      },
+      "website": "http://www.vist.si",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2007,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Slovenian"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Cosmetology",
+          "fields": [
+            "Cosmetology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Photography",
+          "fields": [
+            "Photography"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma o pridobljeni visokošolski strokovni izobrazbi 1. stopnje",
+          "fields": [
+            "Cosmetology",
+            "Photography"
+          ]
+        },
+        {
+          "name": "Diploma o pridobljeni magistrski izobrazbi 2. stopnje",
+          "fields": [
+            "Cosmetology"
+          ]
+        }
+      ],
+      "accreditation": "Slovenian Quality Assurance Agency for Higher Education (NAKVIS)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Janko Žmitek"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2007",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "7714",
+      "iau_id": "IAU-007714",
+      "name": "IEDC Bled School of Management",
+      "alt_name": "IEDC - Poslovna šola Bled – IEDC - Poslovna šola Bled, Fakulteta za podiplomski študij managementa (IEDC)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tUzxRLWBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007714",
+      "address": {
+        "Street": "Mencingerjeva 7",
+        "City": "Ljubljana",
+        "Post Code": "1000",
+        "WWW": "http://www.ibs.si"
+      },
+      "website": "http://www.ibs.si",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2009,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Slovenian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Business Studies",
+          "fields": [
+            "Environmental Management",
+            "International Business"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma o pridobljeni univerzitetni izobrazbi 1. stopnje",
+          "fields": [
+            "International Business"
+          ]
+        },
+        {
+          "name": "Diploma o pridobljeni magistrski izobrazbi 2. stopnje",
+          "fields": [
+            "Environmental Management",
+            "International Business"
+          ]
+        }
+      ],
+      "accreditation": "Slovenian Quality Assurance Agency for Higher Education (NAKVIS)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Irena Marinko"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2009",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "11530",
+      "iau_id": "IAU-011530",
+      "name": "International School for Social and Business Studies",
+      "alt_name": "Mednarodna fakulteta za družbene in poslovne študije (ISSBS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyRVLFNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-011530",
+      "address": {
+        "Street": "Prešernova cesta 33",
+        "City": "Bled",
+        "Post Code": "4260",
+        "WWW": "https://www.iedc.si"
+      },
+      "website": "https://www.iedc.si",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1986,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Slovenian"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Advanced Management in Tourism",
+          "fields": [
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Course/Programme : Finance",
+          "fields": [
+            "Finance"
+          ]
+        },
+        {
+          "name": "Course/Programme : General Management",
+          "fields": [
+            "Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Leadership",
+          "fields": [
+            "Leadership"
+          ]
+        },
+        {
+          "name": "Course/Programme : Marketing",
+          "fields": [
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Course/Programme : Strategy",
+          "fields": [
+            "Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma o pridobljeni magistrski izobrazbi 2. stopnje",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Diploma o doktoratu znanosti",
+          "fields": [
+            "Management"
+          ]
+        }
+      ],
+      "accreditation": "Association of MBAs (AMBA); International Quality Accreditation (IQA)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Mislav Ante Omazić"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2019-2020",
+        "Staff Full Time Total:": "66"
+      },
+      "history": "Founded 1986. Acquired present title 2000",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "11531",
+      "iau_id": "IAU-011531",
+      "name": "Jožef Stefan International Postgraduate School",
+      "alt_name": "Mednarodna podiplomska šola Jožefa Stefana (MPŠ)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyRVLFMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-011531",
+      "address": {
+        "Street": "Mariborska cesta 7",
+        "City": "Celje",
+        "Post Code": "3000",
+        "WWW": "https://mfdps.si"
+      },
+      "website": "https://mfdps.si",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2006,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Slovenian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Business in Contemporary Society",
+          "fields": [
+            "Business Administration",
+            "Communication Studies",
+            "Computer Science",
+            "Economics",
+            "Ethics",
+            "Modern Languages"
+          ]
+        },
+        {
+          "name": "Course/Programme : Economics in Contemporary Society",
+          "fields": [
+            "Business Administration",
+            "Communication Studies",
+            "Economics",
+            "Ethics",
+            "Information Technology",
+            "Management",
+            "Modern Languages"
+          ]
+        },
+        {
+          "name": "Course/Programme : Knowledge Management",
+          "fields": [
+            "Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Lifelong Learning: Human Resource Management",
+          "fields": [
+            "Human Resources"
+          ]
+        },
+        {
+          "name": "Course/Programme : Management and Quality in Education",
+          "fields": [
+            "Educational Administration",
+            "Educational Technology",
+            "Educational Testing and Evaluation",
+            "Higher Education"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma o pridobljeni univerzitetni izobrazbi 1. stopnje",
+          "fields": [
+            "Business Administration",
+            "Economics"
+          ]
+        },
+        {
+          "name": "Diploma o pridobljeni magistrski izobrazbi 2. stopnje",
+          "fields": [
+            "Educational Administration",
+            "Human Resources",
+            "Management"
+          ]
+        },
+        {
+          "name": "Diploma o doktoratu znanosti",
+          "fields": [
+            "Management"
+          ]
+        }
+      ],
+      "accreditation": "National Agency for the Quality of Higher Education (NAKVIS)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Srečko Natek"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Anja Lesjak"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Marko Smrkolj"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "448"
+      },
+      "history": "Founded 2006",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "22411",
+      "iau_id": "IAU-022411",
+      "name": "Ljubljana School of Business",
+      "alt_name": "B2 Visoka šola za poslovne vede, zavod (VSPV)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyhULDMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-022411",
+      "address": {
+        "Street": "Jamova 39",
+        "City": "Ljubljana",
+        "Post Code": "1000",
+        "WWW": "https://www.mps.si"
+      },
+      "website": "https://www.mps.si",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2004,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Slovenian"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Ecotechnology",
+          "fields": [
+            "Commercial Law",
+            "Ecology",
+            "Electronic Engineering",
+            "Energy Engineering",
+            "Engineering Management",
+            "Environmental Engineering",
+            "Environmental Management",
+            "Inorganic Chemistry",
+            "Materials Engineering",
+            "Nanotechnology",
+            "Nuclear Engineering",
+            "Safety Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Information and Communication Technologies",
+          "fields": [
+            "Artificial Intelligence",
+            "Commercial Law",
+            "Computer Graphics",
+            "Computer Networks",
+            "Development Studies",
+            "Electronic Engineering",
+            "Electronics and Automation",
+            "Information Technology",
+            "Mathematics",
+            "Media Studies",
+            "Robotics",
+            "Structural Architecture",
+            "Technology",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Nanosciences and Nanotechnologies",
+          "fields": [
+            "Applied Chemistry",
+            "Applied Physics",
+            "Biotechnology",
+            "Cell Biology",
+            "Chemistry",
+            "Development Studies",
+            "Electronic Engineering",
+            "Genetics",
+            "Mechanical Engineering",
+            "Molecular Biology",
+            "Nanotechnology",
+            "Optics",
+            "Pharmacology",
+            "Physics",
+            "Technology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma o pridobljeni magistrski izobrazbi 2. stopnje",
+          "fields": [
+            "Ecology",
+            "Environmental Engineering",
+            "Information Technology",
+            "Nanotechnology",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Diploma o doktoratu znanosti",
+          "fields": [
+            "Ecology",
+            "Environmental Engineering",
+            "Information Technology",
+            "Nanotechnology",
+            "Telecommunications Engineering"
+          ]
+        }
+      ],
+      "accreditation": "National Agency for the Quality of Higher Education (NAKVIS)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Milena Horvat"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Aleksander Zidanšek"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Dragan Mihailović"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2004",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "22425",
+      "iau_id": "IAU-022425",
+      "name": "MLC Faculty of Management and Law Ljubljana",
+      "alt_name": "MLC Fakulteta za management in pravo Ljubljana – Fakulteta MLC Ljubljana",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyhULEM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-022425",
+      "address": {
+        "Street": "Tržaška cesta 42",
+        "City": "Ljubljana",
+        "Post Code": "1000",
+        "WWW": "https://www.vspv.si"
+      },
+      "website": "https://www.vspv.si",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2010,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Slovenian"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Business Informatics",
+          "fields": [
+            "Business Computing"
+          ]
+        },
+        {
+          "name": "Course/Programme : Information Management",
+          "fields": [
+            "Information Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Marketing Communication and Public Relations",
+          "fields": [
+            "Marketing",
+            "Mass Communication",
+            "Public Relations"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma o pridobljeni visokošolski strokovni izobrazbi 1. stopnje",
+          "fields": [
+            "Business Computing",
+            "Marketing",
+            "Public Relations"
+          ]
+        },
+        {
+          "name": "Diploma o pridobljeni magistrski izobrazbi 2. stopnje",
+          "fields": [
+            "Information Management"
+          ]
+        }
+      ],
+      "accreditation": "Slovenian Quality Assurance Agency for Higher Education (NAKVIS)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Lidija Weis"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Julia Lapuh Bele"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Brigita Rajter"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2010",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "26509",
+      "iau_id": "IAU-026509",
+      "name": "New university, Faculty for Slovenian and International Studies",
+      "alt_name": "Nova univerza, Fakulteta za slovenske in mednarodne študije",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzhVLCNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-026509",
+      "address": {
+        "Street": "Tržaška 207",
+        "City": "Ljubljana",
+        "Post Code": "1000",
+        "WWW": "https://www.mlcljubljana.com"
+      },
+      "website": "https://www.mlcljubljana.com",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2014,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Slovenian"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Course/Programme : Management",
+          "fields": [
+            "Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma o pridobljeni univerzitetni izobrazbi 1. stopnje",
+          "fields": [
+            "Law",
+            "Management"
+          ]
+        },
+        {
+          "name": "Diploma o pridobljeni magistrski izobrazbi 2. stopnje",
+          "fields": [
+            "Commercial Law",
+            "Management"
+          ]
+        }
+      ],
+      "accreditation": "Slovenian Quality Assurance Agency for Higher Education (NAKVIS)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Srečko Devjak"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Natja Lavrič"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2014",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "4907",
+      "iau_id": "IAU-004907",
+      "name": "Nova Univerza, European Faculty of Law",
+      "alt_name": "Nova univerza, Evropska pravna fakulteta (EVRO-PF)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tI0RQLVBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004907",
+      "address": {
+        "Street": "Mestni trg 23",
+        "City": "Nova Gorica",
+        "Post Code": "1000",
+        "WWW": "https://fsms.nova-uni.si"
+      },
+      "website": "https://fsms.nova-uni.si",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2012,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Slovenian"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : European Law",
+          "fields": [
+            "European Union Law",
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Slovenian and International Studies",
+          "fields": [
+            "Eastern European Studies",
+            "International Studies",
+            "Slavic Languages"
+          ]
+        },
+        {
+          "name": "Faculty : State and European Studies",
+          "fields": [
+            "Administrative Law",
+            "European Studies",
+            "International Relations and Diplomacy",
+            "Public Administration"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma o pridobljeni univerzitetni izobrazbi 1. stopnje",
+          "fields": [
+            "Administrative Law",
+            "Law",
+            "Public Administration",
+            "Slavic Languages"
+          ]
+        },
+        {
+          "name": "Diploma o pridobljeni magistrski izobrazbi 2. stopnje",
+          "fields": [
+            "Civil Law",
+            "Commercial Law",
+            "International Relations and Diplomacy",
+            "Law",
+            "Peace and Disarmament",
+            "Public Administration",
+            "Real Estate"
+          ]
+        },
+        {
+          "name": "Diploma o doktoratu znanosti",
+          "fields": [
+            "International Relations and Diplomacy",
+            "Law",
+            "Public Administration",
+            "Real Estate"
+          ]
+        }
+      ],
+      "accreditation": "National Agency for the Quality of Higher Education (NAKVIS)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Tomaž Ivešič"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Ana Štern"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2012 as Faculty of Slovenian and International Studies, a member of Nova univerza (New University) since 2017",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "6245",
+      "iau_id": "IAU-006245",
+      "name": "Nova Univerza, Faculty of Government and European studies",
+      "alt_name": "Nova univerza, Fakulteta za državne in evropske študije – Fakulteta za državne in evropske študije Nove univerze (FDŠ)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tQyhULTBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-006245",
+      "address": {
+        "Street": "Delpinova 18 b",
+        "City": "Nova Gorica",
+        "Post Code": "5000",
+        "WWW": "https://epf.nova-uni.si"
+      },
+      "website": "https://epf.nova-uni.si",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2006,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Slovenian"
+      ],
+      "faculties": [
+        {
+          "name": "Deanery : Alternative Dispute Resolution",
+          "fields": [
+            "Peace and Disarmament"
+          ]
+        },
+        {
+          "name": "Department/Division : Administrative Law",
+          "fields": [
+            "Administrative Law"
+          ]
+        },
+        {
+          "name": "Department/Division : Civil and Business Law",
+          "fields": [
+            "Civil Law",
+            "Commercial Law"
+          ]
+        },
+        {
+          "name": "Department/Division : Constitutional Law",
+          "fields": [
+            "Constitutional Law"
+          ]
+        },
+        {
+          "name": "Department/Division : Criminal Law",
+          "fields": [
+            "Criminal Law"
+          ]
+        },
+        {
+          "name": "Department/Division : Infrastructure and Real Estate Management",
+          "fields": [
+            "Real Estate"
+          ]
+        },
+        {
+          "name": "Department/Division : International and European Union Law",
+          "fields": [
+            "European Union Law",
+            "International Law"
+          ]
+        },
+        {
+          "name": "Department/Division : Legal Theory and Legal History",
+          "fields": [
+            "History of Law",
+            "Law"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma o pridobljeni univerzitetni izobrazbi 1. stopnje",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Diploma o pridobljeni visokošolski strokovni izobrazbi 1. stopnje",
+          "fields": [
+            "Law",
+            "Management",
+            "Real Estate"
+          ]
+        },
+        {
+          "name": "Diploma o pridobljeni magistrski izobrazbi 2. stopnje",
+          "fields": [
+            "Law",
+            "Management",
+            "Real Estate"
+          ]
+        },
+        {
+          "name": "Diploma o doktoratu znanosti",
+          "fields": [
+            "Law",
+            "Management",
+            "Real Estate"
+          ]
+        }
+      ],
+      "accreditation": "Slovenian Quality Assurance Agency for Higher Education (NAKVIS)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Jernej Letnar Černič"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Bojan Grum"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Nataša Kolakovič"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2006",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "22422",
+      "iau_id": "IAU-022422",
+      "name": "Postgraduate School ZRC SAZU",
+      "alt_name": "Podiplomska šola ZRC SAZU – Research Centre of the Slovenian Academy of Sciences and Arts (ZRC SAZU) (PS ZRC SAZU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyhULEMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-022422",
+      "address": {
+        "Street": "Žanova ulica 3",
+        "City": "Kranj",
+        "Post Code": "4000",
+        "WWW": "https://fds.nova-uni.si"
+      },
+      "website": "https://fds.nova-uni.si",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2000,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Slovenian"
+      ],
+      "faculties": [
+        {
+          "name": "Chair : Theory of Law and Ethics in Public Life",
+          "fields": [
+            "Ethics",
+            "Law"
+          ]
+        },
+        {
+          "name": "Department/Division : Constitutional Law and Human Rights",
+          "fields": [
+            "Constitutional Law",
+            "Human Rights"
+          ]
+        },
+        {
+          "name": "Department/Division : International, European and Diplomatic Studies",
+          "fields": [
+            "European Studies",
+            "International Relations and Diplomacy",
+            "International Studies"
+          ]
+        },
+        {
+          "name": "Department/Division : National and International Security Studies",
+          "fields": [
+            "Eastern European Studies",
+            "International Studies",
+            "Protective Services"
+          ]
+        },
+        {
+          "name": "Department/Division : Public Administration",
+          "fields": [
+            "Public Administration"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma o pridobljeni univerzitetni izobrazbi 1. stopnje",
+          "fields": [
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "Diploma o pridobljeni visokošolski strokovni izobrazbi 1. stopnje",
+          "fields": [
+            "Administrative Law"
+          ]
+        },
+        {
+          "name": "Diploma o pridobljeni magistrski izobrazbi 2. stopnje",
+          "fields": [
+            "International Relations and Diplomacy",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "Diploma o doktoratu znanosti",
+          "fields": [
+            "International Relations and Diplomacy",
+            "Public Administration"
+          ]
+        }
+      ],
+      "accreditation": "National Agency for the Quality of Higher Education (NAKVIS)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Liliana Brožič"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Ana Štern"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Zdenka Volarič"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2000",
+      "periodicals": [
+        "Dignitas",
+        "Dignitas"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "6250",
+      "iau_id": "IAU-006250",
+      "name": "School of Advanced Social Studies in Nova Gorica",
+      "alt_name": "Fakulteta za uporabne družbene študije v Novi Gorici (FUDŠ)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tQyhVLGBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-006250",
+      "address": {
+        "Street": "Novi trg 2",
+        "City": "Ljubljana",
+        "Post Code": "1000",
+        "WWW": "https://ps-zrc-sazu.org"
+      },
+      "website": "https://ps-zrc-sazu.org",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2011,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Slovenian"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Comparative studies of Ideas and Cultures",
+          "fields": [
+            "Anthropology",
+            "Archaeology",
+            "Art History",
+            "Cultural Studies",
+            "Eastern European Studies",
+            "Linguistics",
+            "Literature",
+            "Philosophy",
+            "Psychoanalysis",
+            "Slavic Languages"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma o pridobljeni magistrski izobrazbi 2. stopnje",
+          "fields": [
+            "Arts and Humanities",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Diploma o doktoratu znanosti",
+          "fields": [
+            "Cultural Studies"
+          ]
+        }
+      ],
+      "accreditation": "Slovenian Quality Assurance Agency for Higher Education.",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Jelica Šumič Riha"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2011",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20664",
+      "iau_id": "IAU-020664",
+      "name": "University of Ljubljana",
+      "alt_name": "Univerza v Ljubljani (UL)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BWLUMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020664",
+      "address": {
+        "Street": "Gregorčičeva ulica 19",
+        "City": "Nova Gorica",
+        "Post Code": "5000",
+        "WWW": "http://www.fuds.si"
+      },
+      "website": "http://www.fuds.si",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2006,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Slovenian"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Applied Social Studies",
+          "fields": [
+            "Social Sciences",
+            "Social Studies"
+          ]
+        },
+        {
+          "name": "Course/Programme : Intercultural Management",
+          "fields": [
+            "Business Administration",
+            "Cultural Studies",
+            "Economics",
+            "European Studies",
+            "Management",
+            "Media Studies",
+            "Political Sciences",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Psychosocial Support",
+          "fields": [
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Social Management",
+          "fields": [
+            "Social Policy"
+          ]
+        },
+        {
+          "name": "Course/Programme : Sociology",
+          "fields": [
+            "Cultural Studies",
+            "Economics",
+            "Political Sciences",
+            "Sociology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma o pridobljeni univerzitetni izobrazbi 1. stopnje",
+          "fields": [
+            "Social Studies"
+          ]
+        },
+        {
+          "name": "Diploma o pridobljeni visokošolski strokovni izobrazbi 1. stopnje",
+          "fields": [
+            "Psychology",
+            "Social Policy"
+          ]
+        },
+        {
+          "name": "Diploma o pridobljeni magistrski izobrazbi 2. stopnje",
+          "fields": [
+            "Cultural Studies",
+            "Psychology",
+            "Social Policy",
+            "Social Psychology"
+          ]
+        },
+        {
+          "name": "Diploma o doktoratu znanosti",
+          "fields": [
+            "Sociology"
+          ]
+        }
+      ],
+      "accreditation": "Slovenian Quality Assurance Agency for Higher Education (NAKVIS)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Borut Rončević"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Petra Kleindienst"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Matevž Tomšič"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2006",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20665",
+      "iau_id": "IAU-020665",
+      "name": "University of Maribor",
+      "alt_name": "Univerza v Mariboru (UM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BWLUM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020665",
+      "address": {
+        "Street": "Kongresni trg 12",
+        "City": "Ljubljana",
+        "Post Code": "1000",
+        "WWW": "https://www.uni-lj.si"
+      },
+      "website": "https://www.uni-lj.si",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "October to May (October-January; February-May)",
+      "languages": [
+        "Slovenian"
+      ],
+      "faculties": [
+        {
+          "name": "Academy : Fine Arts and Design",
+          "fields": [
+            "Design",
+            "Fine Arts",
+            "Painting and Drawing",
+            "Restoration of Works of Art",
+            "Sculpture"
+          ]
+        },
+        {
+          "name": "Academy : Music",
+          "fields": [
+            "Music",
+            "Music Education"
+          ]
+        },
+        {
+          "name": "Academy : Theatre, Radio, Film and Television",
+          "fields": [
+            "Cinema and Television",
+            "Film",
+            "Fine Arts",
+            "Graphic Arts",
+            "Radio and Television Broadcasting",
+            "Singing"
+          ]
+        },
+        {
+          "name": "Faculty : Architecture",
+          "fields": [
+            "Architectural and Environmental Design",
+            "Architectural Restoration",
+            "Architecture",
+            "Building Technologies",
+            "Environmental Studies",
+            "Furniture Design",
+            "Graphic Design",
+            "Interior Design",
+            "Landscape Architecture",
+            "Regional Planning",
+            "Structural Architecture",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "Faculty : Arts",
+          "fields": [
+            "African Studies",
+            "American Studies",
+            "Anthropology",
+            "Archaeology",
+            "Art History",
+            "Arts and Humanities",
+            "Asian Studies",
+            "Classical Languages",
+            "Comparative Literature",
+            "Dutch",
+            "English Studies",
+            "Ethnology",
+            "French",
+            "Geography",
+            "Germanic Languages",
+            "History",
+            "Italian",
+            "Library Science",
+            "Linguistics",
+            "Modern Languages",
+            "Musicology",
+            "Oriental Studies",
+            "Pedagogy",
+            "Philosophy",
+            "Psychology",
+            "Romance Languages",
+            "Slavic Languages",
+            "Social Sciences",
+            "Sociology",
+            "Spanish",
+            "Swedish",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Faculty : Biotechnology",
+          "fields": [
+            "Agricultural Economics",
+            "Agricultural Education",
+            "Agricultural Engineering",
+            "Agronomy",
+            "Architecture and Planning",
+            "Biological and Life Sciences",
+            "Biology",
+            "Biotechnology",
+            "Education",
+            "Engineering",
+            "Environmental Studies",
+            "Fishery",
+            "Food Science",
+            "Food Technology",
+            "Forest Products",
+            "Forestry",
+            "Landscape Architecture",
+            "Microbiology",
+            "Natural Resources",
+            "Welfare and Protective Services",
+            "Wood Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Chemistry and Chemical Technology",
+          "fields": [
+            "Biochemistry",
+            "Chemical Engineering",
+            "Chemistry"
+          ]
+        },
+        {
+          "name": "Faculty : Civil Engineering and Geodesy",
+          "fields": [
+            "Civil Engineering",
+            "Geophysics",
+            "Surveying and Mapping",
+            "Water Management"
+          ]
+        },
+        {
+          "name": "Faculty : Computer and Information Sciences",
+          "fields": [
+            "Computer Engineering",
+            "Computer Networks",
+            "Computer Science",
+            "Information Sciences",
+            "Information Technology",
+            "Mathematics and Computer Science"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Art Education",
+            "Biology",
+            "Chemistry",
+            "Computer Education",
+            "Education",
+            "Home Economics Education",
+            "Mathematics Education",
+            "Physics",
+            "Preschool Education",
+            "Primary Education",
+            "Special Education",
+            "Technology Education"
+          ]
+        },
+        {
+          "name": "Faculty : Electrical Engineering",
+          "fields": [
+            "Electrical and Electronic Engineering",
+            "Electrical Engineering",
+            "Electronics and Automation",
+            "Power Engineering",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences",
+          "fields": [
+            "Health Sciences",
+            "Medical Technology",
+            "Medicine",
+            "Midwifery",
+            "Nursing",
+            "Obstetrics and Gynaecology",
+            "Occupational Therapy",
+            "Orthopaedics",
+            "Physical Therapy",
+            "Public Health",
+            "Radiology",
+            "Rehabilitation and Therapy",
+            "Sanitary Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Administrative Law",
+            "Air and Space Law",
+            "Canon Law",
+            "Civil Law",
+            "Commercial Law",
+            "Comparative Law",
+            "Constitutional Law",
+            "Criminal Law",
+            "European Union Law",
+            "Fiscal Law",
+            "History of Law",
+            "International Law",
+            "Labour Law",
+            "Law",
+            "Maritime Law",
+            "Private Law",
+            "Public Law"
+          ]
+        },
+        {
+          "name": "Faculty : Maritime Studies and Transport",
+          "fields": [
+            "Air Transport",
+            "Marine Science and Oceanography",
+            "Marine Transport",
+            "Railway Transport",
+            "Road Transport",
+            "Transport and Communications",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Faculty : Mathematics and Physics",
+          "fields": [
+            "Actuarial Science",
+            "Applied Mathematics",
+            "Applied Physics",
+            "Artificial Intelligence",
+            "Astronomy and Space Science",
+            "Astrophysics",
+            "Atomic and Molecular Physics",
+            "Biophysics",
+            "Mathematics",
+            "Mathematics and Computer Science",
+            "Meteorology",
+            "Nuclear Physics",
+            "Optics",
+            "Physics",
+            "Solid State Physics",
+            "Statistics",
+            "Systems Analysis",
+            "Thermal Physics"
+          ]
+        },
+        {
+          "name": "Faculty : Mechanical Engineering",
+          "fields": [
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Anaesthesiology",
+            "Biological and Life Sciences",
+            "Biomedicine",
+            "Cardiology",
+            "Dentistry",
+            "Dermatology",
+            "Endocrinology",
+            "Epidemiology",
+            "Forensic Medicine and Dentistry",
+            "Gastroenterology",
+            "Gerontology",
+            "Haematology",
+            "Health Sciences",
+            "Hepatology",
+            "Hygiene",
+            "Medicine",
+            "Nephrology",
+            "Neurology",
+            "Obstetrics and Gynaecology",
+            "Occupational Health",
+            "Oncology",
+            "Paediatrics",
+            "Plastic Surgery",
+            "Pneumology",
+            "Podiatry",
+            "Psychiatry and Mental Health",
+            "Public Health",
+            "Radiology",
+            "Rehabilitation and Therapy",
+            "Rheumatology",
+            "Social and Preventive Medicine",
+            "Sports Medicine",
+            "Surgery",
+            "Tropical Medicine",
+            "Urology",
+            "Venereology",
+            "Virology"
+          ]
+        },
+        {
+          "name": "Faculty : Natural Sciences and Engineering",
+          "fields": [
+            "Chemical Engineering",
+            "Computer Education",
+            "Earth Sciences",
+            "Education",
+            "Engineering",
+            "Geological Engineering",
+            "Geology",
+            "Graphic Arts",
+            "Higher Education Teacher Training",
+            "Information Sciences",
+            "Information Technology",
+            "Materials Engineering",
+            "Metallurgical Engineering",
+            "Mining Engineering",
+            "Natural Sciences",
+            "Textile Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Pharmacy",
+          "fields": [
+            "Biochemistry",
+            "Biomedicine",
+            "Health Sciences",
+            "Natural Sciences",
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Faculty : Public Administration",
+          "fields": [
+            "Business Administration",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "Faculty : Social Sciences",
+          "fields": [
+            "American Studies",
+            "Anthropology",
+            "Communication Disorders",
+            "Communication Studies",
+            "Comparative Politics",
+            "Comparative Sociology",
+            "Cultural Studies",
+            "European Studies",
+            "Family Studies",
+            "Government",
+            "History of Societies",
+            "International Relations and Diplomacy",
+            "International Studies",
+            "Journalism",
+            "Management",
+            "Military Science",
+            "Political Sciences",
+            "Social Policy",
+            "Social Sciences",
+            "Sociology",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Faculty : Social Work",
+          "fields": [
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Faculty : Sport",
+          "fields": [
+            "Parks and Recreation",
+            "Sports"
+          ]
+        },
+        {
+          "name": "Faculty : Theology",
+          "fields": [
+            "Religion",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Faculty : Veterinary",
+          "fields": [
+            "Agriculture",
+            "Fishery",
+            "Forestry",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "School : Economics and Business",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Economics",
+            "Finance",
+            "Insurance",
+            "International Business",
+            "Management",
+            "Marketing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma o pridobljeni univerzitetni izobrazbi 1. stopnje",
+          "fields": [
+            "Agriculture",
+            "Architecture and Planning",
+            "Arts and Humanities",
+            "Business Administration",
+            "Education",
+            "Engineering",
+            "Fine Arts",
+            "Health Sciences",
+            "Home Economics",
+            "Information Sciences",
+            "Law",
+            "Mathematics and Computer Science",
+            "Music Education",
+            "Natural Sciences",
+            "Painting and Drawing",
+            "Performing Arts",
+            "Religion",
+            "Restoration of Works of Art",
+            "Sculpture",
+            "Social Sciences",
+            "Technology",
+            "Theatre",
+            "Transport and Communications",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Diploma o pridobljeni visokošolski strokovni izobrazbi 1. stopnje",
+          "fields": [
+            "Agriculture",
+            "Architecture and Planning",
+            "Business Administration",
+            "Engineering",
+            "Health Sciences",
+            "Home Economics",
+            "Information Sciences",
+            "Mathematics and Computer Science",
+            "Natural Sciences",
+            "Social Sciences",
+            "Technology",
+            "Transport and Communications"
+          ]
+        },
+        {
+          "name": "Diploma o pridobljeni magistrski izobrazbi 2. stopnje",
+          "fields": [
+            "Agriculture",
+            "Architecture and Planning",
+            "Arts and Humanities",
+            "Business Administration",
+            "Education",
+            "Engineering",
+            "Fine Arts",
+            "Health Sciences",
+            "Home Economics",
+            "Information Sciences",
+            "Law",
+            "Mathematics and Computer Science",
+            "Music Education",
+            "Natural Sciences",
+            "Performing Arts",
+            "Religion",
+            "Social Sciences",
+            "Technology",
+            "Transport and Communications",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Diploma o doktoratu znanosti",
+          "fields": [
+            "Agriculture",
+            "Architecture and Planning",
+            "Arts and Humanities",
+            "Business Administration",
+            "Education",
+            "Engineering",
+            "Health Sciences",
+            "Information Sciences",
+            "Law",
+            "Mathematics and Computer Science",
+            "Natural Sciences",
+            "Social Sciences",
+            "Technology",
+            "Transport and Communications",
+            "Welfare and Protective Services"
+          ]
+        }
+      ],
+      "accreditation": "NAKVIS - SQAA Slovenian Quality Assurance Agency for Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Gregor Majdič"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Mihaela Bauman Podojsteršek"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Helena Deršek Štuhec"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Ksenija Vidmar Horvat"
+        }
+      ],
+      "statistics": {},
+      "history": "The opportunity to continue studying beyond the grammar school started in Ljubljana with the Jesuits in the first half of the 17th century. Acquired university status 1919",
+      "periodicals": [
+        "Objave Univerze v Ljubljani Vestnik",
+        "Objave Univerze v Ljubljani",
+        "Vestnik"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20666",
+      "iau_id": "IAU-020666",
+      "name": "University of Nova Gorica",
+      "alt_name": "Univerza v Novi Gorici (UNG)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BWLUM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020666",
+      "address": {
+        "Street": "Slomškov trg 15",
+        "City": "Maribor",
+        "Post Code": "2000",
+        "WWW": "https://www.um.si"
+      },
+      "website": "https://www.um.si",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1961,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "October to September (October-January; February-September)",
+      "languages": [
+        "Slovenian",
+        "English",
+        "Serbian",
+        "Russian"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Agriculture and Life Sciences",
+          "fields": [
+            "Agricultural Economics",
+            "Agriculture",
+            "Animal Husbandry",
+            "Biological and Life Sciences",
+            "Food Science"
+          ]
+        },
+        {
+          "name": "Faculty : Arts",
+          "fields": [
+            "Arts and Humanities",
+            "Eastern European Studies",
+            "Germanic Studies",
+            "History",
+            "Native Language",
+            "Philosophy",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Faculty : Chemistry and Chemical Engineering",
+          "fields": [
+            "Chemical Engineering",
+            "Chemistry"
+          ]
+        },
+        {
+          "name": "Faculty : Civil Engineering, Transportation Engineering and Architecture",
+          "fields": [
+            "Architecture",
+            "Civil Engineering",
+            "Energy Engineering",
+            "Nuclear Engineering",
+            "Transport Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Criminal Justice and Security",
+          "fields": [
+            "Criminal Law"
+          ]
+        },
+        {
+          "name": "Faculty : Economics and Business",
+          "fields": [
+            "Business Administration",
+            "Business and Commerce",
+            "Economics"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Education",
+            "Educational Sciences",
+            "Primary Education"
+          ]
+        },
+        {
+          "name": "Faculty : Electrical Engineering and Computer Science",
+          "fields": [
+            "Computer Science",
+            "Electrical Engineering",
+            "Information Sciences",
+            "Information Technology",
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Energy Technology",
+          "fields": [
+            "Energy Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences",
+          "fields": [
+            "Health Sciences",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Commercial Law",
+            "Human Resources",
+            "Labour Law",
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Logistics",
+          "fields": [
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Faculty : Mechanical Engineering",
+          "fields": [
+            "Environmental Engineering",
+            "Machine Building",
+            "Materials Engineering",
+            "Mechanical Engineering",
+            "Power Engineering",
+            "Production Engineering",
+            "Textile Design"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Faculty : Natural Sciences and Mathematics",
+          "fields": [
+            "Ecology",
+            "Mathematics",
+            "Natural Sciences",
+            "Physics",
+            "Technology Education"
+          ]
+        },
+        {
+          "name": "Faculty : Organizational Sciences",
+          "fields": [
+            "Business Administration",
+            "Educational Administration",
+            "Human Resources",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Tourism",
+          "fields": [
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma o pridobljeni univerzitetni izobrazbi 1. stopnje",
+          "fields": [
+            "Agriculture",
+            "Business Administration",
+            "Education",
+            "Engineering",
+            "Health Sciences",
+            "Law",
+            "Management",
+            "Mathematics",
+            "Medicine",
+            "Natural Sciences",
+            "Tourism",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Diploma o pridobljeni visokošolski strokovni izobrazbi 1. stopnje",
+          "fields": [
+            "Agriculture",
+            "Art Education",
+            "Arts and Humanities",
+            "Business Administration",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civil Engineering",
+            "Commercial Law",
+            "Computer Science",
+            "Criminal Law",
+            "Economics",
+            "Education",
+            "Electrical Engineering",
+            "Energy Engineering",
+            "European Union Law",
+            "Food Technology",
+            "Geography (Human)",
+            "German",
+            "Health Administration",
+            "Health Sciences",
+            "History",
+            "Hungarian",
+            "Industrial Engineering",
+            "Labour Law",
+            "Law",
+            "Literature",
+            "Management",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Modern Languages",
+            "Music Education",
+            "Natural Sciences",
+            "Philosophy",
+            "Physical Education",
+            "Preschool Education",
+            "Primary Education",
+            "Slavic Languages",
+            "Sociology",
+            "Teacher Training",
+            "Tourism",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Diploma o pridobljeni magistrski izobrazbi 2. stopnje",
+          "fields": [
+            "Agriculture",
+            "Art Education",
+            "Arts and Humanities",
+            "Business Administration",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civil Engineering",
+            "Commercial Law",
+            "Computer Science",
+            "Criminal Law",
+            "Economics",
+            "Education",
+            "Electrical Engineering",
+            "Energy Engineering",
+            "European Union Law",
+            "Food Technology",
+            "Geography (Human)",
+            "German",
+            "Health Administration",
+            "Health Sciences",
+            "History",
+            "Hungarian",
+            "Industrial Engineering",
+            "Labour Law",
+            "Law",
+            "Literature",
+            "Management",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Modern Languages",
+            "Music Education",
+            "Natural Sciences",
+            "Philosophy",
+            "Physical Education",
+            "Preschool Education",
+            "Primary Education",
+            "Slavic Languages",
+            "Sociology",
+            "Teacher Training",
+            "Tourism",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Diploma o doktoratu znanosti",
+          "fields": [
+            "Agricultural Economics",
+            "Agriculture",
+            "Art History",
+            "Behavioural Sciences",
+            "Biomedical Engineering",
+            "Business Administration",
+            "Cognitive Sciences",
+            "Computer Science",
+            "Construction Engineering",
+            "Criminal Law",
+            "Ecology",
+            "Economics",
+            "Educational Administration",
+            "Educational Sciences",
+            "Electrical Engineering",
+            "Energy Engineering",
+            "Environmental Engineering",
+            "Geography",
+            "History",
+            "Hungarian",
+            "Information Technology",
+            "Law",
+            "Linguistics",
+            "Management",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Neurosciences",
+            "Pedagogy",
+            "Philosophy",
+            "Physics",
+            "Slavic Languages",
+            "Sociology",
+            "Textile Technology",
+            "Transport Engineering",
+            "Transport Management"
+          ]
+        }
+      ],
+      "accreditation": "NAKVIS (National Agency for Quality in Higher Education of Slovenia)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Zdravko Kačič"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Maja Modic"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Mojca Tancer Verboten"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1961, incorporating previously existing institutes established 1959-1961. Reorganized 1975, last reform 1993. An independent self-governing institution financed by the Republic of Slovenia",
+      "periodicals": [
+        "Časopis za zgodovino in narodopisje Naše gospodarstvo Organizaciji in kadri Seznam predavanj Univerze v Mariboru Strojniški vestnik Univerzitetna revija Znanstvena revija",
+        "Časopis za zgodovino in narodopisje",
+        "Naše gospodarstvo",
+        "Organizaciji in kadri",
+        "Seznam predavanj Univerze v Mariboru",
+        "Strojniški vestnik",
+        "Univerzitetna revija",
+        "Znanstvena revija"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "22400",
+      "iau_id": "IAU-022400",
+      "name": "University of Novo Mesto, Faculty of Business and Management",
+      "alt_name": "Univerza v Novem mestu, Fakulteta za poslovne in upravne vede (UNM FPUV)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyhULCNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-022400",
+      "address": {
+        "Street": "Vipavska 13",
+        "City": "Nova Gorica",
+        "Post Code": "5000",
+        "WWW": "http://www.ung.si"
+      },
+      "website": "http://www.ung.si",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1995,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "October to May (October-January; February-May)",
+      "languages": [
+        "Slovenian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Graduate School : Graduate Studies",
+          "fields": [
+            "Arts and Humanities",
+            "Biotechnology",
+            "Cognitive Sciences",
+            "Earth Sciences",
+            "Environmental Studies",
+            "Genetics",
+            "Heritage Preservation",
+            "Linguistics",
+            "Molecular Biology",
+            "Physics"
+          ]
+        },
+        {
+          "name": "School : Arts",
+          "fields": [
+            "Computer Graphics",
+            "Fine Arts",
+            "Graphic Design"
+          ]
+        },
+        {
+          "name": "School : Engineering and Management",
+          "fields": [
+            "Engineering",
+            "Industrial Engineering",
+            "Management"
+          ]
+        },
+        {
+          "name": "School : Environmental Sciences",
+          "fields": [
+            "Environmental Studies"
+          ]
+        },
+        {
+          "name": "School : Humanities",
+          "fields": [
+            "Arts and Humanities",
+            "Cultural Studies",
+            "Eastern European Studies",
+            "History",
+            "Linguistics",
+            "Native Language",
+            "Slavic Languages"
+          ]
+        },
+        {
+          "name": "School : Sciences",
+          "fields": [
+            "Astrophysics",
+            "Engineering",
+            "Materials Engineering",
+            "Physics"
+          ]
+        },
+        {
+          "name": "School : Viticulture and Oenology",
+          "fields": [
+            "Oenology",
+            "Viticulture"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma o pridobljeni univerzitetni izobrazbi 1. stopnje",
+          "fields": [
+            "Astrophysics",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Diploma o pridobljeni visokošolski strokovni izobrazbi 1. stopnje",
+          "fields": [
+            "Architectural Restoration",
+            "Arts and Humanities",
+            "Cultural Studies",
+            "Engineering",
+            "Environmental Studies",
+            "Geology",
+            "Linguistics",
+            "Literature",
+            "Management",
+            "Media Studies",
+            "Molecular Biology",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Diploma o pridobljeni magistrski izobrazbi 2. stopnje",
+          "fields": [
+            "Architectural Restoration",
+            "Arts and Humanities",
+            "Cultural Studies",
+            "Engineering",
+            "Environmental Studies",
+            "Geology",
+            "Linguistics",
+            "Literature",
+            "Management",
+            "Media Studies",
+            "Molecular Biology",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Diploma o doktoratu znanosti",
+          "fields": [
+            "Anthropology",
+            "Architectural Restoration",
+            "Biotechnology",
+            "Cognitive Sciences",
+            "Environmental Studies",
+            "European Languages",
+            "Genetics",
+            "Geology",
+            "Heritage Preservation",
+            "History",
+            "Linguistics",
+            "Philosophy",
+            "Physics"
+          ]
+        }
+      ],
+      "accreditation": "National Agency for the Quality of Higher Education (NAKVIS)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Danilo Zavrtanik"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Mladen Franko"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Sabina Zelinšček"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1995 as School of Environmental Sciences, transformed to Nova Gorica Polytechnic in 1999, obtained university status in 2006",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "26510",
+      "iau_id": "IAU-026510",
+      "name": "University of Novo Mesto, Faculty of Economics and Informatics",
+      "alt_name": "Univerza v Novem mestu, Fakulteta za ekonomijo in informatiko (UNM FEI)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzhVLDNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-026510",
+      "address": {
+        "Street": "Na Loko 2",
+        "City": "Novo mesto",
+        "Post Code": "8000",
+        "WWW": "http://www.fpuv.vs-nm.si"
+      },
+      "website": "http://www.fpuv.vs-nm.si",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2008,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Slovenian"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Business, Entrepreneurship and Organization",
+          "fields": [
+            "Business Administration",
+            "Business and Commerce",
+            "Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Economics",
+          "fields": [
+            "Economics"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma o pridobljeni magistrski izobrazbi 2. stopnje",
+          "fields": [
+            "Industrial and Production Economics"
+          ]
+        },
+        {
+          "name": "Diploma o doktoratu znanosti",
+          "fields": [
+            "Industrial and Production Economics"
+          ]
+        }
+      ],
+      "accreditation": "Slovenian Quality Assurance Agency for Higher Education (NAKVIS)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Jasmina Starc"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Marko Starc"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2008. Merged with 3 other faculties: Economics and Informatics; Mechanical Engineering and Health Sciences to form the University of Novo Mesto, 2017",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20944",
+      "iau_id": "IAU-020944",
+      "name": "University of Novo Mesto, Faculty of Health Sciences",
+      "alt_name": "Univerza v Novem mestu, Fakulteta za zdravstvene vede (UNM FZV)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BZLSMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020944",
+      "address": {
+        "Street": "Na Loko 2",
+        "City": "Novo Mesto",
+        "Post Code": "8000",
+        "WWW": "https://fei.uni-nm.si"
+      },
+      "website": "https://fei.uni-nm.si",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Slovenian"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Accounting, Finance and Marketing",
+          "fields": [
+            "Accountancy",
+            "Finance",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Department/Division : Business Law",
+          "fields": [
+            "Commercial Law"
+          ]
+        },
+        {
+          "name": "Department/Division : Business, Entrepreneurship and Organization",
+          "fields": [
+            "Business Administration",
+            "Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Communication and Human Resources Management",
+          "fields": [
+            "Communication Studies",
+            "Human Resources"
+          ]
+        },
+        {
+          "name": "Department/Division : Computer Science and Informatics",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Department/Division : Economic Theory",
+          "fields": [
+            "Economics"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma o pridobljeni univerzitetni izobrazbi 1. stopnje",
+          "fields": [
+            "Business Computing",
+            "Management"
+          ]
+        },
+        {
+          "name": "Diploma o pridobljeni magistrski izobrazbi 2. stopnje",
+          "fields": [
+            "Business Administration",
+            "Management"
+          ]
+        }
+      ],
+      "accreditation": "Slovenian Quality Assurance Agency for Higher Education (NAKVIS)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Marjan Blažič"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Malchi Grivec"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Marko Starc"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded as a High School, 1997. Became Faculty, 2016. Faculty of Economics and Informatics (FEI) is a member of the University of Novo Mesto.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "6251",
+      "iau_id": "IAU-006251",
+      "name": "University of Novo Mesto, Faculty of Mechanical Engineering",
+      "alt_name": "Univerza v Novem mestu, Fakulteta za strojništvo (FTS)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tQyhVLDBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-006251",
+      "address": {
+        "Street": "Na Loko 2",
+        "City": "Novo Mesto",
+        "Post Code": "8000",
+        "WWW": "https://fzv.uni-nm.si"
+      },
+      "website": "https://fzv.uni-nm.si",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2007,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Slovenian"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Health Sciences",
+          "fields": [
+            "Anatomy",
+            "Biochemistry",
+            "Biophysics",
+            "Child Care and Development",
+            "Embryology and Reproduction Biology",
+            "English",
+            "Family Studies",
+            "German",
+            "Gerontology",
+            "Health Administration",
+            "Health Education",
+            "Health Sciences",
+            "Hygiene",
+            "Medical Technology",
+            "Microbiology",
+            "Nursing",
+            "Parasitology",
+            "Pathology",
+            "Pharmacology",
+            "Physical Therapy",
+            "Physiology",
+            "Psychology",
+            "Public Health",
+            "Radiology",
+            "Rehabilitation and Therapy",
+            "Speech Therapy and Audiology",
+            "Surgery",
+            "Virology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma o pridobljeni visokošolski strokovni izobrazbi 1. stopnje",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Diploma o pridobljeni magistrski izobrazbi 2. stopnje",
+          "fields": [
+            "Health Administration",
+            "Health Education"
+          ]
+        },
+        {
+          "name": "Diploma o doktoratu znanosti",
+          "fields": [
+            "Health Administration",
+            "Health Education"
+          ]
+        }
+      ],
+      "accreditation": "Slovenian Quality Assurance Agency for Higher Education (NAKVIS)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Marjan Blažič"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Nevenka Kregar Velikonja"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Marko Starc"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2007 as Visoka šola za zdravstvo Novo mesto (School of Health Sciences Novo Mesto). Became Faculty of Health Sciences Novo mesto (FZV(, 2013. Merged with 3 other faculties: Economics and Informatics (FUPI); Mechanical Engineering (FTS) and Business and Administrative Sciences (FPUV), to become University of Novo Mesto, 2017",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20663",
+      "iau_id": "IAU-020663",
+      "name": "University of Primorska",
+      "alt_name": "Univerza na Primorskem – Universita' del Litorale (UPR)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BWLUMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020663",
+      "address": {
+        "Street": "Na Loko 2",
+        "City": "Novo Mesto",
+        "Post Code": "8000",
+        "WWW": "https://fs.uni-nm.si"
+      },
+      "website": "https://fs.uni-nm.si",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2006,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Slovenian"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Mechanical Engineering and Metal Techniques",
+          "fields": [
+            "Engineering",
+            "Mechanical Engineering",
+            "Metal Techniques"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma o pridobljeni univerzitetni izobrazbi 1. stopnje",
+          "fields": [
+            "Engineering",
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "Diploma o pridobljeni magistrski izobrazbi 2. stopnje",
+          "fields": [
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "Diploma o doktoratu znanosti",
+          "fields": [
+            "Mechanical Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Slovenian Quality Assurance Agency for Higher Education (NAKVIS)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Simon Muhič"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Tomaž Perme"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2006 as Visoka šola za tehnologije in sisteme (High School for Technologies and Systems). Renamed Fakulteta za visoke tehnologije in sisteme, (Faculty of Technologies and Systems) 2014. Now Faculty of Mechanical Engineering (FTS). Merged with 3 other faculties: Economics and Informatics (FUPI); Faculty of Health Sciences Novo mesto (FZV); and Business and Administrative Sciences (FPUV), to become University of Novo Mesto, 2017",
+      "periodicals": [],
+      "student_body": "co-ed"
+    }
+  ]
+}

@@ -1,0 +1,3141 @@
+{
+  "country_name": "Togo",
+  "country_id": "Togo",
+  "institutions": [
+    {
+      "id": "24524",
+      "iau_id": "IAU-024524",
+      "name": "ADONAI Institute of Management",
+      "alt_name": "Institut supérieur de management ADONAI (ISM ADONAI)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBVLEMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024524",
+      "address": {
+        "Street": "Nukafulu Boulevard Jean Paul II",
+        "City": "Lomé"
+      },
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [],
+      "faculties": [
+        {
+          "name": "Course/Programme : Computer Engineering",
+          "fields": [
+            "Computer Engineering",
+            "Computer Networks",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Management",
+          "fields": [
+            "Accountancy",
+            "Administrative Law",
+            "Banking",
+            "Commercial Law",
+            "Finance",
+            "Health Administration",
+            "Human Resources",
+            "Law",
+            "Management",
+            "Marketing",
+            "Secretarial Studies"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence Professionnelle",
+          "fields": [
+            "Accountancy",
+            "Administrative Law",
+            "Banking",
+            "Commercial Law",
+            "Communication Studies",
+            "Computer Networks",
+            "Electronic Engineering",
+            "Finance",
+            "Health Administration",
+            "Human Resources",
+            "Insurance",
+            "Management",
+            "Marketing",
+            "Secretarial Studies",
+            "Telecommunications Engineering",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Master Professionnel",
+          "fields": [
+            "Accountancy",
+            "Administrative Law",
+            "Banking",
+            "Commercial Law",
+            "Computer Networks",
+            "Electronic Engineering",
+            "Finance",
+            "Health Administration",
+            "Human Resources",
+            "Insurance",
+            "Management",
+            "Marketing",
+            "Secretarial Studies",
+            "Telecommunications Engineering",
+            "Transport Management"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l’Enseignement supérieur et de la Recherche",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Codjo Charles Khoufin"
+        }
+      ],
+      "statistics": {},
+      "history": "A campus of ISM ADONAI in Benin.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "4194",
+      "iau_id": "IAU-004194",
+      "name": "Advanced Teacher Training School of Atakpamé",
+      "alt_name": "Ecole normale supérieure d'Atakpamé (ENS)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIyRZLWBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004194",
+      "address": {
+        "Street": "BP 7",
+        "City": "Atakpamé",
+        "Province": "Ogou"
+      },
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1968,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June",
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Teacher Training",
+          "fields": [
+            "Chemistry",
+            "English",
+            "Foreign Languages Education",
+            "French",
+            "Geography",
+            "History",
+            "Humanities and Social Science Education",
+            "Mathematics Education",
+            "Physics",
+            "Science Education",
+            "Secondary Education",
+            "Teacher Training"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence Fondamentale",
+          "fields": [
+            "2010-2011"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Adji Sardji Aritiba"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Koffi Séto Notokpe"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2010-2011",
+        "Students Male:": "179",
+        "Students Female:": "22",
+        "Students Total:": "201"
+      },
+      "history": "Founded 1968 with financial aid from PNUD, UNESCO and UNICEF, acquired present status and title 1983. Closed down 2001. Reopened 2010.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "7881",
+      "iau_id": "IAU-007881",
+      "name": "African Institute of Administration and Business Studies",
+      "alt_name": "Institut africain d’Administration et d’Etudes Commerciales (IAEC)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tU0BYLDBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007881",
+      "address": {
+        "Street": "BP 8619Avenue de la Victoire Attikoumé",
+        "City": "Lomé",
+        "WWW": "https://iaectogo.wordpress.com"
+      },
+      "website": "https://iaectogo.wordpress.com",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1986,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Accountancy and Business Administration",
+          "fields": [
+            "Accountancy",
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Course/Programme : Applications Development",
+          "fields": [
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Banking and Finance",
+          "fields": [
+            "Banking",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Course/Programme : Business Administration",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Course/Programme : Civil Engineering",
+          "fields": [
+            "Civil Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Commercial and Financial Management",
+          "fields": [
+            "Business and Commerce",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Course/Programme : Computer Maintenance",
+          "fields": [
+            "Computer Science",
+            "Maintenance Technology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Computer Networks",
+          "fields": [
+            "Computer Networks"
+          ]
+        },
+        {
+          "name": "Course/Programme : Computer Science",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Course/Programme : Corporate Communication",
+          "fields": [
+            "Electronic Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Electronic Engineering",
+          "fields": [
+            "Electronic Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Environmental Studies",
+          "fields": [
+            "Environmental Studies"
+          ]
+        },
+        {
+          "name": "Course/Programme : Human Resources",
+          "fields": [
+            "Human Resources"
+          ]
+        },
+        {
+          "name": "Course/Programme : Insurance",
+          "fields": [
+            "Insurance"
+          ]
+        },
+        {
+          "name": "Course/Programme : International Business",
+          "fields": [
+            "International Business"
+          ]
+        },
+        {
+          "name": "Course/Programme : Marketing and Communication Studies",
+          "fields": [
+            "Communication Studies",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Course/Programme : Sales Techniques",
+          "fields": [
+            "Sales Techniques"
+          ]
+        },
+        {
+          "name": "Course/Programme : Software Engineering",
+          "fields": [
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Telecommunications Engineering",
+          "fields": [
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Telecommunications Engineering and Computer Networks",
+          "fields": [
+            "Computer Networks",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Tourism and Leisure",
+          "fields": [
+            "Leisure Studies",
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence Professionnelle",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business and Commerce",
+            "Civil Engineering",
+            "Computer Networks",
+            "Electronic Engineering",
+            "Finance",
+            "Human Resources",
+            "Leisure Studies",
+            "Public Administration",
+            "Software Engineering",
+            "Tourism",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Master Professionnel",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Business and Commerce",
+            "Civil Engineering",
+            "Communication Studies",
+            "Computer Networks",
+            "Electronic Engineering",
+            "Finance",
+            "Human Resources",
+            "Insurance",
+            "International Business",
+            "Management",
+            "Marketing",
+            "Public Relations",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Civil Engineering",
+            "Communication Studies",
+            "Computer Engineering",
+            "Computer Networks",
+            "Electronic Engineering",
+            "Finance",
+            "Human Resources",
+            "Insurance",
+            "Law",
+            "Management",
+            "Marketing",
+            "Political Sciences",
+            "Public Relations",
+            "Telecommunications Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l’Enseignement Technique et de la Formation Professionnelle",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Abissi Anawoè"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1986.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "3995",
+      "iau_id": "IAU-003995",
+      "name": "African School of Architecture and Town Planning",
+      "alt_name": "Ecole africaine des Métiers de l'Architecture et de l'Urbanisme – Escuela Africana de Architectura y Urbanismo (EAMAU)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sU0RZLTBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003995",
+      "address": {
+        "Street": "BP 2067422, rue des Balises, Tokoin Doumasséssé",
+        "City": "Lomé",
+        "WWW": "http://www.eamau.org"
+      },
+      "website": "http://www.eamau.org",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1975,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Architecture",
+          "fields": [
+            "Architecture"
+          ]
+        },
+        {
+          "name": "Course/Programme : Town Planning",
+          "fields": [
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "Course/Programme : Urban Studies",
+          "fields": [
+            "Urban Studies"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence Fondamentale",
+          "fields": [
+            "Architecture",
+            "Town Planning",
+            "Urban Studies"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Architecture",
+            "Town Planning",
+            "Transport Management"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l’Enseignement supérieur et de la Recherche",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Moussa Dembélé"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1975.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "24493",
+      "iau_id": "IAU-024493",
+      "name": "Agata Carelli Institute",
+      "alt_name": "Institut supérieur Agata Carelli (ISAC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBULjMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024493",
+      "address": {
+        "Street": "08 BP 8185Route de Mission Tové",
+        "City": "Lomé",
+        "WWW": "http://agata-carelli.org"
+      },
+      "website": "http://agata-carelli.org",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1998,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [],
+      "faculties": [
+        {
+          "name": "Course/Programme : Accountancy",
+          "fields": [
+            "Accountancy"
+          ]
+        },
+        {
+          "name": "Course/Programme : Computer Engineering",
+          "fields": [
+            "Computer Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Human Resources",
+          "fields": [
+            "Human Resources"
+          ]
+        },
+        {
+          "name": "Course/Programme : Marketing",
+          "fields": [
+            "Marketing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence Fondamentale",
+          "fields": [
+            "Accountancy",
+            "Advertising and Publicity",
+            "Banking",
+            "Finance",
+            "Human Resources",
+            "International Business",
+            "Marketing",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Civil Engineering",
+            "Electrical Engineering",
+            "Finance",
+            "Human Resources",
+            "Insurance",
+            "Public Administration"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l’Enseignement supérieur et de la Recherche",
+      "officers": [],
+      "statistics": {},
+      "history": "Founded 1998.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "19521",
+      "iau_id": "IAU-019521",
+      "name": "Catholic University of Western Africa - Academic Unit of Togo",
+      "alt_name": "Université catholique de l’Afrique de l’Ouest - Unité Universitaire du Togo (UCAO-UUT)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RVLEMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019521",
+      "address": {
+        "Street": "01 BP 1502383 Bd de la Paix",
+        "City": "Lomé 1",
+        "WWW": "http://www.ucao-uut.tg"
+      },
+      "website": "http://www.ucao-uut.tg",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2007,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Economics and Management",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Econometrics",
+            "Economics",
+            "Finance",
+            "Human Resources",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Law",
+            "Private Law",
+            "Public Law"
+          ]
+        },
+        {
+          "name": "Faculty : Sciences and Technologies",
+          "fields": [
+            "Applied Mathematics",
+            "Computer Engineering",
+            "Computer Networks",
+            "Electronic Engineering",
+            "Electronics and Automation",
+            "Energy Engineering",
+            "Engineering Management",
+            "Environmental Management",
+            "Information Management",
+            "Information Technology",
+            "Mathematics and Computer Science",
+            "Multimedia",
+            "Operations Research",
+            "Safety Engineering",
+            "Software Engineering",
+            "Statistics",
+            "Telecommunications Engineering",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Faculty : Social Sciences",
+          "fields": [
+            "Social Sciences",
+            "Sociology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence Fondamentale",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Computer Engineering",
+            "Demography and Population",
+            "Economics",
+            "Environmental Studies",
+            "Finance",
+            "French",
+            "Geography",
+            "Graphic Arts",
+            "History",
+            "Human Resources",
+            "Insurance",
+            "Journalism",
+            "Law",
+            "Literature",
+            "Marketing",
+            "Mathematics",
+            "Mathematics and Computer Science",
+            "Media Studies",
+            "Modern Languages",
+            "Multimedia",
+            "Physics",
+            "Private Law",
+            "Psychology",
+            "Public Law",
+            "Public Relations",
+            "Sociology",
+            "Theology",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Master Professionnel",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Computer Engineering",
+            "Demography and Population",
+            "Economics",
+            "Education",
+            "English",
+            "Environmental Studies",
+            "Finance",
+            "French",
+            "History",
+            "Human Resources",
+            "Information Sciences",
+            "Insurance",
+            "Law",
+            "Management",
+            "Mathematics",
+            "Modern Languages",
+            "Psychology",
+            "Religion",
+            "Sociology",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Doctorat",
+          "fields": [
+            "Administration",
+            "Arts and Humanities",
+            "Economics",
+            "Education",
+            "Law",
+            "Modern Languages",
+            "Natural Sciences",
+            "Technology"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l'Enseignement supérieur et de la Recherche",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Bertin Agbobly-Atayi"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2007.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "24878",
+      "iau_id": "IAU-024878",
+      "name": "DEFITECH Polytechnic Institute",
+      "alt_name": "Institut Polytechnique DEFITECH",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBYLVNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024878",
+      "address": {
+        "Street": "01 BP 1588, Sito-Aéroport",
+        "City": "Lomé",
+        "WWW": "http://defitech.net"
+      },
+      "website": "http://defitech.net",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [],
+      "faculties": [
+        {
+          "name": "Course/Programme : Arts and Humanities and Social Sciences",
+          "fields": [
+            "Development Studies"
+          ]
+        },
+        {
+          "name": "Course/Programme : Economics and Management",
+          "fields": [
+            "Accountancy",
+            "Finance",
+            "Management",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Science and Technology",
+          "fields": [
+            "Civil Engineering",
+            "Engineering",
+            "Software Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence Professionnelle",
+          "fields": []
+        }
+      ],
+      "accreditation": "Ministère de l’Enseignement supérieur et de la Recherche",
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "8226",
+      "iau_id": "IAU-008226",
+      "name": "Don Bosco Institute of Philosophy and Human Sciences",
+      "alt_name": "Institut supérieur de Philosophie et des Sciences Humaines Don Bosco (ISPSH - DON BOSCO)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uIyhSLUBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-008226",
+      "address": {
+        "Street": "BP 9141Avenue Mobutu Sese Seko",
+        "City": "Lomé (Port)",
+        "WWW": "http://www.ispshdblome.com"
+      },
+      "website": "http://www.ispshdblome.com",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1987,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Communication Studies",
+          "fields": [
+            "Communication Studies",
+            "Multimedia",
+            "Public Relations"
+          ]
+        },
+        {
+          "name": "Course/Programme : Educational Sciences",
+          "fields": [
+            "Educational Administration",
+            "Educational Sciences",
+            "Educational Testing and Evaluation"
+          ]
+        },
+        {
+          "name": "Course/Programme : Philosophy",
+          "fields": [
+            "Philosophy"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence Professionnelle",
+          "fields": [
+            "Educational Sciences",
+            "Philosophy"
+          ]
+        },
+        {
+          "name": "Master Professionnel",
+          "fields": [
+            "Educational Administration",
+            "Educational Sciences",
+            "Educational Testing and Evaluation"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Development Studies",
+            "Philosophy"
+          ]
+        }
+      ],
+      "accreditation": "Conseil Africain et Malgache pour l’Enseignement Supérieur (CAMES)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "José-Antoine Elegbede"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Dieudonné Olabiyi Otekpo"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1987.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "24511",
+      "iau_id": "IAU-024511",
+      "name": "ESA Business School",
+      "alt_name": "Ecole supérieure des Affaires (ESA Togo)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBVLDMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024511",
+      "address": {
+        "Street": "689, rue Djablé sis au quartier super-Taco, derrière la BTCI annexe",
+        "City": "Lomé",
+        "WWW": "http://esatogo.net"
+      },
+      "website": "http://esatogo.net",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2010,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Postgraduate",
+          "fields": [
+            "Agricultural Business",
+            "Aquaculture",
+            "Econometrics",
+            "Leadership",
+            "Public Relations"
+          ]
+        },
+        {
+          "name": "Course/Programme : Undergraduate",
+          "fields": [
+            "Administration",
+            "Banking",
+            "Business Administration",
+            "Business and Commerce",
+            "Civil Engineering",
+            "Communication Studies",
+            "Computer Networks",
+            "Electrical Engineering",
+            "Finance",
+            "Information Sciences",
+            "International Business",
+            "Journalism",
+            "Library Science",
+            "Marketing",
+            "Public Relations",
+            "Software Engineering",
+            "Telecommunications Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence Professionnelle",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Agricultural Business",
+            "Aquaculture",
+            "Banking",
+            "Bioengineering",
+            "Business Administration",
+            "Business and Commerce",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Networks",
+            "Development Studies",
+            "Electrical Engineering",
+            "Finance",
+            "Hotel Management",
+            "Human Resources",
+            "Insurance",
+            "International Business",
+            "International Relations and Diplomacy",
+            "Marketing",
+            "Public Administration",
+            "Public Relations",
+            "Social Sciences",
+            "Telecommunications Engineering",
+            "Tourism",
+            "Transport Economics",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Master Professionnel",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Agricultural Business",
+            "Aquaculture",
+            "Banking",
+            "Business Administration",
+            "Business and Commerce",
+            "Civil Engineering",
+            "Communication Studies",
+            "Computer Engineering",
+            "Computer Networks",
+            "Development Studies",
+            "Econometrics",
+            "Electrical Engineering",
+            "Environmental Management",
+            "Finance",
+            "Hotel Management",
+            "Human Resources",
+            "Information Sciences",
+            "Insurance",
+            "International Business",
+            "International Relations and Diplomacy",
+            "Journalism",
+            "Marketing",
+            "Public Relations",
+            "Social Sciences",
+            "Software Engineering",
+            "Telecommunications Engineering",
+            "Tourism",
+            "Transport Economics"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l’Enseignement supérieur et de la Recherche",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Charles Birregah"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2010.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "4250",
+      "iau_id": "IAU-004250",
+      "name": "ESIBA Business School",
+      "alt_name": "Ecole supérieure d'Informatique de Business et d'Administration (ESIBA-IS)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIyhVLGBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004250",
+      "address": {
+        "Street": "01 BP 3518Rue de la gare routière d'Agbalépédogan prolongée vers Agoènyivé Assiyéyé",
+        "City": "Lomé",
+        "WWW": "http://www.esiba-iua.tg"
+      },
+      "website": "http://www.esiba-iua.tg",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1990,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Accountancy",
+          "fields": [
+            "Accountancy",
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Course/Programme : Assistant Manager",
+          "fields": [
+            "Management",
+            "Small Business"
+          ]
+        },
+        {
+          "name": "Course/Programme : Business Computing",
+          "fields": [
+            "Business Computing",
+            "Computer Networks",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Computer Engineering",
+          "fields": [
+            "Computer Engineering",
+            "Computer Networks"
+          ]
+        },
+        {
+          "name": "Course/Programme : Telecommunications Engineering",
+          "fields": [
+            "Telecommunications Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence Professionnelle",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Business Administration",
+            "Computer Engineering",
+            "Computer Networks",
+            "Finance",
+            "Human Resources",
+            "Management",
+            "Marketing",
+            "Software Engineering",
+            "Telecommunications Engineering",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Master Professionnel",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Business and Commerce",
+            "Business Computing",
+            "Computer Engineering",
+            "Computer Networks",
+            "Finance",
+            "Management",
+            "Small Business",
+            "Software Engineering",
+            "Telecommunications Engineering",
+            "Transport Management"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l’Enseignement supérieur et de la Recherche",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Didier Kueviakoe"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1990. Groupe ESIBA Business School is composed of ESIBA (Enseignement Supérieur d’Informatique, de Business et d’Administration) and IUA (Institut Universitaire d’Agoènyivé).",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "24526",
+      "iau_id": "IAU-024526",
+      "name": "ESIG Global Success",
+      "alt_name": "École supérieure d'informatique et de gestion Global Success",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBVLEM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024526",
+      "address": {
+        "Street": "11 BP 149Bvd de l'Oti, face Eglise Catholique Maria Goretti de Bè-Kpota",
+        "City": "Lomé",
+        "WWW": "http://www.esig.tg"
+      },
+      "website": "http://www.esig.tg",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2008,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Engineering",
+          "fields": [
+            "Computer Engineering",
+            "Computer Networks",
+            "Electrical Engineering",
+            "Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Management",
+          "fields": [
+            "Accountancy",
+            "Agricultural Management",
+            "Banking",
+            "Business Administration",
+            "Finance",
+            "Human Resources",
+            "International Business",
+            "Journalism",
+            "Library Science",
+            "Management",
+            "Tourism",
+            "Transport Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence Fondamentale",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business and Commerce",
+            "Computer Engineering",
+            "Computer Networks",
+            "Electrical Engineering",
+            "Electronics and Automation",
+            "Finance",
+            "Human Resources",
+            "Insurance",
+            "International Business",
+            "Journalism",
+            "Maintenance Technology",
+            "Marketing",
+            "Public Relations",
+            "Software Engineering",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Accountancy",
+            "Advertising and Publicity",
+            "Banking",
+            "Communication Studies",
+            "Computer Engineering",
+            "Finance",
+            "Insurance",
+            "Management",
+            "Marketing",
+            "Software Engineering",
+            "Transport Management"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l'Enseignement supérieur et de la Recherche",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ambroise Toglo"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2008.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "24495",
+      "iau_id": "IAU-024495",
+      "name": "FORMATEC University Institute",
+      "alt_name": "Institut universitaire FORMATEC",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBULjM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024495",
+      "address": {
+        "Street": "BP 20436",
+        "City": "Lomé",
+        "WWW": "http://prosport.guru/formatec/index.php"
+      },
+      "website": "http://prosport.guru/formatec/index.php",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2012,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [],
+      "faculties": [
+        {
+          "name": "Course/Programme : Business Administration",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Finance",
+            "Human Resources"
+          ]
+        },
+        {
+          "name": "Course/Programme : Engineering",
+          "fields": [
+            "Civil Engineering",
+            "Computer Engineering",
+            "Electrical Engineering",
+            "Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence Professionnelle",
+          "fields": [
+            "Accountancy",
+            "Advertising and Publicity",
+            "Business Administration",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Networks",
+            "Electronic Engineering",
+            "Environmental Engineering",
+            "Finance",
+            "Human Resources",
+            "Hydraulic Engineering",
+            "Information Technology",
+            "Management",
+            "Marketing",
+            "Public Relations",
+            "Sanitary Engineering",
+            "Software Engineering",
+            "Surveying and Mapping",
+            "Town Planning",
+            "Waste Management"
+          ]
+        },
+        {
+          "name": "Master Professionnel",
+          "fields": [
+            "Accountancy",
+            "Advertising and Publicity",
+            "Business Administration",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Networks",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Environmental Engineering",
+            "Finance",
+            "Human Resources",
+            "Hydraulic Engineering",
+            "Information Technology",
+            "Journalism",
+            "Management",
+            "Public Relations",
+            "Sanitary Engineering",
+            "Secretarial Studies",
+            "Software Engineering",
+            "Surveying and Mapping",
+            "Town Planning"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l’Enseignement supérieur et de la Recherche",
+      "officers": [],
+      "statistics": {},
+      "history": "Founded 2012.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "4354",
+      "iau_id": "IAU-004354",
+      "name": "Higher School of Audit and Management",
+      "alt_name": "Ecole supérieure d’Audit et de Management (ESAM)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIyxVLWBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004354",
+      "address": {
+        "Street": "BP 300210, avenue Grunitzky",
+        "City": "Lomé",
+        "WWW": "http://www.esamecole.fr"
+      },
+      "website": "http://www.esamecole.fr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Accountancy",
+          "fields": [
+            "Accountancy"
+          ]
+        },
+        {
+          "name": "Course/Programme : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Course/Programme : Management",
+          "fields": [
+            "Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence Professionnelle",
+          "fields": [
+            "Computer Engineering",
+            "Computer Networks",
+            "Law",
+            "Management",
+            "Marketing",
+            "Notary Studies"
+          ]
+        },
+        {
+          "name": "Master Professionnel",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Business Administration",
+            "Commercial Law",
+            "Computer Engineering",
+            "Human Resources",
+            "Law",
+            "Management",
+            "Marketing",
+            "Notary Studies",
+            "Private Law",
+            "Public Law",
+            "Telecommunications Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l’Enseignement Technique",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Roger Mifetou"
+        }
+      ],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "4341",
+      "iau_id": "IAU-004341",
+      "name": "Higher School of Communication Arts and Technology",
+      "alt_name": "Ecole supérieure des Techniques et Arts de la Communication (ESTAC)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIyxULDBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004341",
+      "address": {
+        "Street": "BP 3857159, Av. Amou-Eblo, Dogbéavou",
+        "City": "Lomé"
+      },
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Mass Communication and Journalism",
+          "fields": [
+            "Journalism",
+            "Mass Communication"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence Fondamentale",
+          "fields": [
+            "2010-2011"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l’Enseignement supérieur et de la Recherche",
+      "officers": [],
+      "statistics": {
+        "Staff Statistics Year:": "2010-2011",
+        "Staff Full Time Total:": "30",
+        "Students Statistics Year:": "2010-2011",
+        "Students Total:": "20"
+      },
+      "history": null,
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "24517",
+      "iau_id": "IAU-024517",
+      "name": "Institute of Advanced Study of International and Strategic Relations",
+      "alt_name": "Institut des hautes Etudes des Relations internationales et stratégiques (IHERIS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBVLDM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024517",
+      "address": {
+        "Street": "378, Rue BEKPO Quartier Tokoin Hôpital, non loin de l’ancien Hôtel AGNI",
+        "City": "Lomé",
+        "WWW": "http://www.iheris.net"
+      },
+      "website": "http://www.iheris.net",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2011,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Economics and Management",
+          "fields": [
+            "Economics",
+            "Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Government and Regional Planning",
+          "fields": [
+            "Government",
+            "Regional Planning"
+          ]
+        },
+        {
+          "name": "Course/Programme : Law",
+          "fields": [
+            "Law",
+            "Private Law",
+            "Public Law"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence Fondamentale",
+          "fields": [
+            "Banking",
+            "Economics",
+            "Finance",
+            "International Business",
+            "International Relations and Diplomacy",
+            "Law",
+            "Management",
+            "Marketing",
+            "Political Sciences",
+            "Private Law",
+            "Public Law"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Banking",
+            "Economics",
+            "Finance",
+            "International Business",
+            "International Relations and Diplomacy",
+            "Law",
+            "Management",
+            "Marketing",
+            "Political Sciences",
+            "Private Law",
+            "Public Law"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l’Enseignement supérieur et de la Recherche",
+      "officers": [],
+      "statistics": {},
+      "history": "Founded 2011.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "8221",
+      "iau_id": "IAU-008221",
+      "name": "Institute of Management and Development Studies",
+      "alt_name": "Institut supérieur de Management et du Développement (ISMAD)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uIyhSLDBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-008221",
+      "address": {
+        "Street": "79, Rue Soromé, Tokoin Solidarité",
+        "City": "Lomé"
+      },
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2002,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Accountancy and Business Administration",
+          "fields": [
+            "Accountancy",
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Course/Programme : Banking and Finance",
+          "fields": [
+            "Banking",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Course/Programme : Business Computing",
+          "fields": [
+            "Business Computing"
+          ]
+        },
+        {
+          "name": "Course/Programme : Civil Engineering",
+          "fields": [
+            "Civil Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Communication Studies",
+          "fields": [
+            "Communication Studies"
+          ]
+        },
+        {
+          "name": "Course/Programme : Electrotechnics",
+          "fields": [
+            "Electronic Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Hotel and Restaurant",
+          "fields": [
+            "Hotel and Restaurant"
+          ]
+        },
+        {
+          "name": "Course/Programme : Industrial Computer Science",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Course/Programme : Insurance",
+          "fields": [
+            "Insurance"
+          ]
+        },
+        {
+          "name": "Course/Programme : International Business",
+          "fields": [
+            "International Business"
+          ]
+        },
+        {
+          "name": "Course/Programme : Local Communities Management",
+          "fields": [
+            "Finance"
+          ]
+        },
+        {
+          "name": "Course/Programme : Microfinance and Decentralized Fiancial Systems",
+          "fields": [
+            "Finance"
+          ]
+        },
+        {
+          "name": "Course/Programme : Networks Adminsitration for Local Business",
+          "fields": [
+            "Business Computing",
+            "Computer Networks"
+          ]
+        },
+        {
+          "name": "Course/Programme : Sales Techniques",
+          "fields": [
+            "Sales Techniques"
+          ]
+        },
+        {
+          "name": "Course/Programme : Secretarial Studies",
+          "fields": [
+            "Secretarial Studies"
+          ]
+        },
+        {
+          "name": "Course/Programme : Small Business",
+          "fields": [
+            "Small Business"
+          ]
+        },
+        {
+          "name": "Course/Programme : Telecommunications Engineering",
+          "fields": [
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Transport and Logistics",
+          "fields": [
+            "Transport and Communications",
+            "Transport Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence Fondamentale",
+          "fields": [
+            "2010-2011"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "2010-2011"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l’Enseignement Technique",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Kindé Folly"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2010-2011",
+        "Staff Full Time Total:": "90",
+        "Students Statistics Year:": "2010-2011",
+        "Students Total:": "870"
+      },
+      "history": "Founded 2002.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "10879",
+      "iau_id": "IAU-010879",
+      "name": "International Centre of Research and Language Studies Benin Village",
+      "alt_name": "Centre International de recherche et d'étude de langues Village du Bénin – CIREL - Village du Bénin (CIREL VB)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM2BYLVNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-010879",
+      "address": {
+        "Street": "BP 3724Campus universitaire de Lomé",
+        "City": "Lomé",
+        "WWW": "http://www.cirelvb.net"
+      },
+      "website": "http://www.cirelvb.net",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1968,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : English",
+          "fields": [
+            "English",
+            "Foreign Languages Education"
+          ]
+        },
+        {
+          "name": "Course/Programme : French",
+          "fields": [
+            "French"
+          ]
+        },
+        {
+          "name": "Course/Programme : Secretarial Studies",
+          "fields": [
+            "Secretarial Studies"
+          ]
+        },
+        {
+          "name": "Course/Programme : Tourism and Leisure Studies",
+          "fields": [
+            "Leisure Studies",
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {
+        "Staff Statistics Year:": "2010-2011",
+        "Staff Full Time Total:": "30",
+        "Students Statistics Year:": "2010-2011",
+        "Students Total:": "55"
+      },
+      "history": "Founded 1968.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "24492",
+      "iau_id": "IAU-024492",
+      "name": "JUMAU-ITA",
+      "alt_name": "JUMAU-ITA Institut des Technologies avancées",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBULjMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024492",
+      "address": {
+        "Street": "01 BP 1514Av. Pya à coté d’ECOBANK Totsi",
+        "City": "Lomé",
+        "WWW": "http://www.jumau-ita.com"
+      },
+      "website": "http://www.jumau-ita.com",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2010,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [],
+      "faculties": [
+        {
+          "name": "Course/Programme : Agricultural Business",
+          "fields": [
+            "Agricultural Business"
+          ]
+        },
+        {
+          "name": "Course/Programme : Executive Leadership and Management",
+          "fields": [
+            "Leadership",
+            "Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Finance",
+          "fields": [
+            "Finance"
+          ]
+        },
+        {
+          "name": "Course/Programme : Human Resources Management",
+          "fields": [
+            "Human Resources"
+          ]
+        },
+        {
+          "name": "Course/Programme : Marketing and Communication",
+          "fields": [
+            "Communication Studies",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Course/Programme : Public Administration",
+          "fields": [
+            "Institutional Administration",
+            "Public Administration"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence Professionnelle",
+          "fields": [
+            "Agricultural Business",
+            "Agricultural Economics",
+            "Business Administration",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Networks",
+            "Environmental Studies",
+            "Finance",
+            "Human Resources",
+            "Leadership",
+            "Management",
+            "Marketing",
+            "Secretarial Studies"
+          ]
+        },
+        {
+          "name": "Master Professionnel",
+          "fields": [
+            "Agricultural Business",
+            "Agricultural Economics",
+            "Business Administration",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Networks",
+            "Environmental Studies",
+            "Finance",
+            "Human Resources",
+            "Leadership",
+            "Management",
+            "Marketing",
+            "Secretarial Studies"
+          ]
+        }
+      ],
+      "accreditation": "Ministère ​de l’Enseignement supérieur et de la Recherche",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "M Beguedou"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2010.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "24523",
+      "iau_id": "IAU-024523",
+      "name": "La Maitrise School",
+      "alt_name": "Groupe Scolaire La Maitrise",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBVLEMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024523",
+      "address": {
+        "Street": "BP 3618Adidogome non loin du Lycée Moderne",
+        "City": "Lomé"
+      },
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [],
+      "faculties": [
+        {
+          "name": "Course/Programme : Accountancy and Finance",
+          "fields": [
+            "Accountancy",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Course/Programme : Communication Studies",
+          "fields": [
+            "Communication Studies"
+          ]
+        },
+        {
+          "name": "Course/Programme : Human Resources",
+          "fields": [
+            "Human Resources"
+          ]
+        },
+        {
+          "name": "Course/Programme : Marketing",
+          "fields": [
+            "Marketing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence Professionnelle",
+          "fields": [
+            "Accountancy",
+            "Advertising and Publicity",
+            "Communication Studies",
+            "Finance",
+            "Human Resources",
+            "Management",
+            "Marketing",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Master Professionnel",
+          "fields": [
+            "Accountancy",
+            "Advertising and Publicity",
+            "Communication Studies",
+            "Finance",
+            "Human Resources",
+            "Management",
+            "Marketing",
+            "Transport Management"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l’Enseignement supérieur et de la Recherche",
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "4021",
+      "iau_id": "IAU-004021",
+      "name": "Management Training School",
+      "alt_name": "Ecole des Cadres",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tI2BSLDBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004021",
+      "address": {
+        "Street": "BP 12895Route de Kpalimé, quartier Avenou",
+        "City": "Lomé",
+        "WWW": "http://www.ecoledescadrestogo.com"
+      },
+      "website": "http://www.ecoledescadrestogo.com",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1997,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Accountancy and Business Management",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Commercial and Industrial Technology",
+          "fields": [
+            "Industrial Engineering",
+            "Sales Techniques"
+          ]
+        },
+        {
+          "name": "Course/Programme : Communication and Multimedia",
+          "fields": [
+            "Mass Communication",
+            "Multimedia"
+          ]
+        },
+        {
+          "name": "Course/Programme : Computer Science",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Course/Programme : Corporate Communication",
+          "fields": [
+            "Communication Studies"
+          ]
+        },
+        {
+          "name": "Course/Programme : Finance and Banking",
+          "fields": [
+            "Banking",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Course/Programme : Hospitality and Tourism Management",
+          "fields": [
+            "Hotel and Restaurant",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Course/Programme : Human Resources Management",
+          "fields": [
+            "Human Resources"
+          ]
+        },
+        {
+          "name": "Course/Programme : International Business",
+          "fields": [
+            "International Business"
+          ]
+        },
+        {
+          "name": "Course/Programme : International Marketing",
+          "fields": [
+            "International Business",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Course/Programme : International Trade",
+          "fields": [
+            "International Business"
+          ]
+        },
+        {
+          "name": "Course/Programme : Logistics and Transportation",
+          "fields": [
+            "Transport and Communications",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Management - Small Business",
+          "fields": [
+            "Management",
+            "Small Business"
+          ]
+        },
+        {
+          "name": "Course/Programme : Marketing, Finance and Insurance",
+          "fields": [
+            "Finance",
+            "Insurance",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Course/Programme : Sales Techniques",
+          "fields": [
+            "Sales Techniques"
+          ]
+        },
+        {
+          "name": "Course/Programme : Small Business",
+          "fields": [
+            "Small Business"
+          ]
+        },
+        {
+          "name": "Course/Programme : Small Business Administration Assistant",
+          "fields": [
+            "Business Administration",
+            "Small Business"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence Professionnelle",
+          "fields": [
+            "Hotel Management",
+            "Human Resources",
+            "International Business",
+            "Management",
+            "Marketing",
+            "Small Business",
+            "Tourism",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Master Professionnel",
+          "fields": [
+            "International Business",
+            "Management",
+            "Marine Transport",
+            "Transport Management"
+          ]
+        }
+      ],
+      "accreditation": "Ministere de l'Enseignement technique et de la Formation professionnelle; Conseil africain et Malgache pour l'Enseignement Supérieur (CAMES).",
+      "officers": [
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Constance Anonene Konal"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1997.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "8056",
+      "iau_id": "IAU-008056",
+      "name": "National Institute of Agricultural Training",
+      "alt_name": "Institut national de Formation Agricole (INFA)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uI2BVLUBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-008056",
+      "address": {
+        "Street": "BP 401Route de Lomé (Tové-agbéssia)",
+        "City": "Kpalime"
+      },
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1980,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "School : Agricultural Engineering",
+          "fields": [
+            "Agricultural Engineering"
+          ]
+        },
+        {
+          "name": "School : Agriculture",
+          "fields": [
+            "Agriculture"
+          ]
+        },
+        {
+          "name": "School : Assistant in Agricultural Engineering",
+          "fields": [
+            "Agricultural Engineering"
+          ]
+        }
+      ],
+      "degrees": [],
+      "accreditation": "Ministère de l’Agriculture",
+      "officers": [],
+      "statistics": {},
+      "history": "Founded 1980.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "4350",
+      "iau_id": "IAU-004350",
+      "name": "Notre Dame de l’Eglise Higher School of Administration and Management",
+      "alt_name": "Ecole supérieure d’Administration et de Gestion Notre Dame de l’Eglise (ESAG-NDE)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIyxVLGBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004350",
+      "address": {
+        "Street": "BP 801952, bd des armées",
+        "City": "Lomé",
+        "WWW": "https://esagnde.org/index.php/lecole/"
+      },
+      "website": "https://esagnde.org/index.php/lecole/",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2000,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Accountancy and Finance",
+          "fields": [
+            "Accountancy",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Course/Programme : Administration and Trilingual Secretarial Assistant",
+          "fields": [
+            "Business Administration",
+            "Modern Languages",
+            "Secretarial Studies"
+          ]
+        },
+        {
+          "name": "Course/Programme : Applied Economics",
+          "fields": [
+            "Economics"
+          ]
+        },
+        {
+          "name": "Course/Programme : Banking and Insurance",
+          "fields": [
+            "Banking",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Course/Programme : Community and Regional Planning",
+          "fields": [
+            "Development Studies",
+            "Economics",
+            "Information Technology",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Course/Programme : Computer Science and Management",
+          "fields": [
+            "Banking",
+            "Communication Studies",
+            "Computer Networks",
+            "Finance",
+            "International Business",
+            "Management",
+            "Modern Languages",
+            "Sales Techniques",
+            "Secretarial Studies",
+            "Small Business",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Human Resources",
+          "fields": [
+            "Human Resources"
+          ]
+        },
+        {
+          "name": "Course/Programme : Management and Business Administration",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Banking",
+            "Business Administration",
+            "Business and Commerce",
+            "Business Computing",
+            "Economics",
+            "Finance",
+            "Human Resources",
+            "Information Technology",
+            "Insurance",
+            "International Business",
+            "Management",
+            "Marketing",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Transport Management",
+          "fields": [
+            "Transport Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence Professionnelle",
+          "fields": [
+            "Banking",
+            "Business Administration",
+            "Business Computing",
+            "Economics",
+            "Finance",
+            "Human Resources",
+            "Insurance",
+            "Management",
+            "Secretarial Studies",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Master Professionnel",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Economic and Finance Policy",
+            "Economics",
+            "Finance",
+            "Human Resources",
+            "Information Technology",
+            "Insurance",
+            "Management",
+            "Marketing",
+            "Social Policy",
+            "Transport Management"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l’Enseignement Technique",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Soeur Suka"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2010-2011",
+        "Staff Full Time Total:": "40",
+        "Students Statistics Year:": "2015-2016",
+        "Students Total:": "1249"
+      },
+      "history": "Founded 2000.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "4287",
+      "iau_id": "IAU-004287",
+      "name": "School of Management of Informatics and Sciences",
+      "alt_name": "Ecole supérieure de Gestion d'Informatique et Sciences (ESGIS)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIyhYLVBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004287",
+      "address": {
+        "Street": "BP 135178, Rue Agnes Gaba Kodjoviakope",
+        "City": "Lomé",
+        "WWW": "http://www.esgis.org"
+      },
+      "website": "http://www.esgis.org",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1994,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Accountancy",
+          "fields": [
+            "Accountancy"
+          ]
+        },
+        {
+          "name": "Course/Programme : Banking and Finance",
+          "fields": [
+            "Banking",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Course/Programme : Business Administration",
+          "fields": [
+            "Management",
+            "Marketing",
+            "Public Relations"
+          ]
+        },
+        {
+          "name": "Course/Programme : Computer Science and Computer Engineering",
+          "fields": [
+            "Computer Engineering",
+            "Computer Networks",
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Course/Programme : Economics",
+          "fields": [
+            "Economics"
+          ]
+        },
+        {
+          "name": "Course/Programme : Human Resources Management",
+          "fields": [
+            "Human Resources"
+          ]
+        },
+        {
+          "name": "Course/Programme : International Management",
+          "fields": [
+            "International Business",
+            "Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : International Relations",
+          "fields": [
+            "International Relations and Diplomacy"
+          ]
+        },
+        {
+          "name": "Course/Programme : Law",
+          "fields": [
+            "Law"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence Professionnelle",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Computer Engineering",
+            "Computer Networks",
+            "Computer Science",
+            "Finance",
+            "Human Resources",
+            "International Business",
+            "International Law",
+            "Law",
+            "Management",
+            "Marketing",
+            "Peace and Disarmament",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Computer Engineering",
+            "Computer Networks",
+            "Computer Science",
+            "Finance",
+            "Human Resources",
+            "International Business",
+            "International Law",
+            "Law",
+            "Management",
+            "Marketing",
+            "Peace and Disarmament",
+            "Software Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l'Enseignement technique; Conseil africain et malgache pour l'enseignement superieur (CAMES)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Marcel Macy Akakpo"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2010-2011",
+        "Staff Full Time Total:": "50"
+      },
+      "history": "Founded 1994.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "24528",
+      "iau_id": "IAU-024528",
+      "name": "Sustainable Developmement Institute for Training and Research",
+      "alt_name": "Institut de Formation et de Recherche pour le Développement Durable (IFORDD)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBVLENAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024528",
+      "address": {
+        "Street": "22 BP 191Av. Akéï, Novissi",
+        "City": "Lomé",
+        "WWW": "http://ifordd.org"
+      },
+      "website": "http://ifordd.org",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2012,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Sustainable Development",
+          "fields": [
+            "Environmental Management",
+            "Environmental Studies",
+            "Finance",
+            "Government",
+            "Regional Planning",
+            "Social and Community Services",
+            "Town Planning"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence Professionnelle",
+          "fields": [
+            "Economics",
+            "Environmental Engineering",
+            "Law",
+            "Management",
+            "Private Law",
+            "Public Law",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Master Professionnel",
+          "fields": [
+            "Environmental Studies",
+            "Finance",
+            "Government",
+            "Public Administration",
+            "Regional Planning",
+            "Social and Community Services",
+            "Town Planning"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l'Enseignement supérieur et de la Recherche",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Amavi Kouevi"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2012.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "19592",
+      "iau_id": "IAU-019592",
+      "name": "University of Kara",
+      "alt_name": "Université de Kara (UK)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RVLjMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019592",
+      "address": {
+        "Street": "BP 43Route de l'ex ENI",
+        "City": "Kara",
+        "Post Code": "404",
+        "WWW": "http://www.unikara.org"
+      },
+      "website": "http://www.unikara.org",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1999,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Arts and Humanities",
+          "fields": [
+            "Anthropology",
+            "Archaeology",
+            "Arts and Humanities",
+            "English",
+            "Geography",
+            "History",
+            "Linguistics",
+            "Literature",
+            "Modern Languages",
+            "Philosophy",
+            "Social Sciences",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Faculty : Economic Sciences and Management",
+          "fields": [
+            "Business Administration",
+            "Economics",
+            "Management"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences",
+          "fields": [
+            "Health Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Law and Political Sciences",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Administrative Law",
+            "Civil Law",
+            "Commercial Law",
+            "Communication Studies",
+            "Constitutional Law",
+            "Criminal Law",
+            "Criminology",
+            "Economic History",
+            "Economics",
+            "English",
+            "Finance",
+            "Fiscal Law",
+            "International Law",
+            "International Relations and Diplomacy",
+            "Labour Law",
+            "Law",
+            "Political Sciences",
+            "Public Administration",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Faculty : Sciences and Technology",
+          "fields": [
+            "Natural Sciences",
+            "Technology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence Fondamentale",
+          "fields": [
+            "Accountancy",
+            "African Studies",
+            "Anthropology",
+            "Commercial Law",
+            "Contemporary History",
+            "Development Studies",
+            "Economics",
+            "English",
+            "Finance",
+            "Geography",
+            "Human Resources",
+            "Law",
+            "Linguistics",
+            "Marketing",
+            "Modern Languages",
+            "Philosophy",
+            "Private Law",
+            "Public Law",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Accountancy",
+            "African Studies",
+            "Anthropology",
+            "Commercial Law",
+            "Contemporary History",
+            "Development Studies",
+            "Economics",
+            "English",
+            "Finance",
+            "Geography",
+            "Human Resources",
+            "Law",
+            "Linguistics",
+            "Marketing",
+            "Modern Languages",
+            "Philosophy",
+            "Private Law",
+            "Public Law",
+            "Sociology"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l’Enseignement supérieur et de la Recherche",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Komla Sanda"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Adama Kpodar"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Pawoubadi Pidabi"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1999. Acquired present status 2004.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "19609",
+      "iau_id": "IAU-019609",
+      "name": "University of Lomé",
+      "alt_name": "Université de Lomé (UL)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RWLCNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019609",
+      "address": {
+        "Street": "BP 1515",
+        "City": "Lomé",
+        "WWW": "http://www.univ-lome.tg"
+      },
+      "website": "http://www.univ-lome.tg",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1970,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "October to July (October-February; March-July)",
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Continuing Education",
+          "fields": [
+            "Computer Engineering",
+            "Computer Networks",
+            "Computer Science",
+            "Information Technology",
+            "Mathematics and Computer Science"
+          ]
+        },
+        {
+          "name": "Centre : Mathematics and Computer Science",
+          "fields": [
+            "Computer Engineering",
+            "Computer Networks",
+            "Computer Science",
+            "Information Technology",
+            "Mathematics and Computer Science"
+          ]
+        },
+        {
+          "name": "Faculty : Arts and Humanities and Social Sciences",
+          "fields": [
+            "Anthropology",
+            "Arts and Humanities",
+            "Social Sciences",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Faculty : Economics and Management",
+          "fields": [
+            "Economics",
+            "Management"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences",
+          "fields": [
+            "Environmental Studies",
+            "Epidemiology",
+            "Health Sciences",
+            "Medicine",
+            "Obstetrics and Gynaecology",
+            "Paediatrics",
+            "Pharmacy",
+            "Public Health",
+            "Surgery",
+            "Water Science"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Administrative Law",
+            "Commercial Law",
+            "Law",
+            "Private Law",
+            "Public Law"
+          ]
+        },
+        {
+          "name": "Faculty : Modern Languages and Arts",
+          "fields": [
+            "African Languages",
+            "Arabic",
+            "Arts and Humanities",
+            "English",
+            "Geography",
+            "German",
+            "Linguistics",
+            "Literature",
+            "Modern Languages",
+            "Philosophy",
+            "Portuguese",
+            "Russian",
+            "Spanish"
+          ]
+        },
+        {
+          "name": "Faculty : Sciences",
+          "fields": [
+            "Applied Mathematics",
+            "Biochemistry",
+            "Biology",
+            "Botany",
+            "Cell Biology",
+            "Chemistry",
+            "Ecology",
+            "Environmental Studies",
+            "Geology",
+            "Mathematics",
+            "Microbiology",
+            "Natural Sciences",
+            "Parasitology",
+            "Physics",
+            "Physiology",
+            "Zoology"
+          ]
+        },
+        {
+          "name": "Institute : Educational Sciences",
+          "fields": [
+            "Educational Sciences",
+            "Primary Education",
+            "Secondary Education",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Institute : Information and Communication Sciences and Arts",
+          "fields": [
+            "Communication Studies",
+            "Information Sciences"
+          ]
+        },
+        {
+          "name": "Institute : Management",
+          "fields": [
+            "Management"
+          ]
+        },
+        {
+          "name": "School : Agronomy",
+          "fields": [
+            "Agricultural Engineering",
+            "Agriculture",
+            "Agronomy",
+            "Animal Husbandry",
+            "Food Technology",
+            "Rural Studies"
+          ]
+        },
+        {
+          "name": "School : Biological and Food Techniques",
+          "fields": [
+            "Biochemistry",
+            "Biological and Life Sciences",
+            "Biology",
+            "Cell Biology",
+            "Earth Sciences",
+            "Environmental Studies",
+            "Food Technology",
+            "Physiology"
+          ]
+        },
+        {
+          "name": "School : Medical Assistants",
+          "fields": [
+            "Health Sciences"
+          ]
+        },
+        {
+          "name": "School : Science and Technology",
+          "fields": [
+            "Civil Engineering",
+            "Computer Engineering",
+            "Electrical Engineering",
+            "Engineering",
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "School : Secretarial Studies",
+          "fields": [
+            "Secretarial Studies"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence Fondamentale",
+          "fields": [
+            "Agricultural Management",
+            "Archaeology",
+            "Civil Engineering",
+            "Clinical Psychology",
+            "Commercial Law",
+            "Contemporary History",
+            "Economics",
+            "Educational Psychology",
+            "Educational Sciences",
+            "Electrical Engineering",
+            "Environmental Management",
+            "Ethics",
+            "Geography",
+            "Health Sciences",
+            "History",
+            "Industrial and Organizational Psychology",
+            "Law",
+            "Linguistics",
+            "Literature",
+            "Management",
+            "Marketing",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Natural Resources",
+            "Philosophy",
+            "Private Law",
+            "Psychology",
+            "Public Law",
+            "Sociology",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "Diplôme d'Ingénieur",
+          "fields": [
+            "Agricultural Management",
+            "Archaeology",
+            "Civil Engineering",
+            "Clinical Psychology",
+            "Commercial Law",
+            "Contemporary History",
+            "Economics",
+            "Educational Psychology",
+            "Educational Sciences",
+            "Electrical Engineering",
+            "Environmental Management",
+            "Ethics",
+            "Geography",
+            "Health Sciences",
+            "History",
+            "Industrial and Organizational Psychology",
+            "Law",
+            "Linguistics",
+            "Literature",
+            "Management",
+            "Marketing",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Natural Resources",
+            "Philosophy",
+            "Private Law",
+            "Psychology",
+            "Public Law",
+            "Sociology",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "Diplôme de Docteur",
+          "fields": [
+            "Agricultural Management",
+            "Archaeology",
+            "Civil Engineering",
+            "Clinical Psychology",
+            "Commercial Law",
+            "Contemporary History",
+            "Economics",
+            "Educational Psychology",
+            "Educational Sciences",
+            "Electrical Engineering",
+            "Environmental Management",
+            "Ethics",
+            "Geography",
+            "Health Sciences",
+            "History",
+            "Industrial and Organizational Psychology",
+            "Law",
+            "Linguistics",
+            "Literature",
+            "Management",
+            "Marketing",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Natural Resources",
+            "Philosophy",
+            "Private Law",
+            "Psychology",
+            "Public Law",
+            "Sociology",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Agricultural Management",
+            "Archaeology",
+            "Civil Engineering",
+            "Clinical Psychology",
+            "Commercial Law",
+            "Contemporary History",
+            "Economics",
+            "Educational Psychology",
+            "Educational Sciences",
+            "Electrical Engineering",
+            "Environmental Management",
+            "Ethics",
+            "Geography",
+            "Health Sciences",
+            "History",
+            "Industrial and Organizational Psychology",
+            "Law",
+            "Linguistics",
+            "Literature",
+            "Management",
+            "Marketing",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Natural Resources",
+            "Philosophy",
+            "Private Law",
+            "Psychology",
+            "Public Law",
+            "Sociology",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "Doctorat",
+          "fields": [
+            "Agricultural Economics",
+            "Archaeology",
+            "Biochemistry",
+            "Biology",
+            "Biotechnology",
+            "Chemistry",
+            "Clinical Psychology",
+            "Contemporary History",
+            "Economics",
+            "Educational Psychology",
+            "Educational Sciences",
+            "Engineering",
+            "English",
+            "Entomology",
+            "Environmental Studies",
+            "Ethics",
+            "Geography",
+            "German",
+            "Health Sciences",
+            "History",
+            "Industrial and Organizational Psychology",
+            "Linguistics",
+            "Literature",
+            "Marketing",
+            "Materials Engineering",
+            "Mathematics",
+            "Natural Resources",
+            "Physiology",
+            "Private Law",
+            "Public Law",
+            "Sociology",
+            "Town Planning",
+            "Water Science",
+            "Women's Studies"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l'Enseignement supérieur et de la Recherche",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Komla Dodzi Kokoroko"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Komlan Batawila"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Koffivi Komlan Guillaume Ketoh"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1970 as University of Benin replacing former Centre d'Enseignement supérieur, established 1962 with sections in Dahomey and Togo under an agreement between the Governments of the two countries and Government of France. Acquired present name 2001.",
+      "periodicals": [
+        "Actes des Journées Scientifiques Annales de l'Université du Bénin",
+        "Actes des Journées Scientifiques",
+        "Annales de l'Université du Bénin"
+      ],
+      "student_body": "co-ed"
+    }
+  ]
+}

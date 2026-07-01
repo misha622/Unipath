@@ -1,0 +1,6186 @@
+{
+  "country_name": "Dominican Republic",
+  "country_id": "Dominican Republic",
+  "institutions": [
+    {
+      "id": "17169",
+      "iau_id": "IAU-017169",
+      "name": "APEC University",
+      "alt_name": "Universidad APEC (UNAPEC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxRLUNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017169",
+      "address": {
+        "Street": "Av. Máximo Gómez72",
+        "City": "Santo Domingo",
+        "Province": "Distrito Nacional",
+        "WWW": "https://www.unapec.edu.do"
+      },
+      "website": "https://www.unapec.edu.do",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1965,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "January to December (January-April; May-August; September-December)",
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : General Studies",
+          "fields": [
+            "Mathematics",
+            "Social Sciences",
+            "Spanish"
+          ]
+        },
+        {
+          "name": "School : Accounting and Finance",
+          "fields": [
+            "Accountancy",
+            "Finance"
+          ]
+        },
+        {
+          "name": "School : Arts and Communication",
+          "fields": [
+            "Advertising and Publicity",
+            "Architectural and Environmental Design",
+            "Communication Studies",
+            "Graphic Design",
+            "Interior Design"
+          ]
+        },
+        {
+          "name": "School : Computer Science",
+          "fields": [
+            "Computer Science",
+            "Systems Analysis"
+          ]
+        },
+        {
+          "name": "School : Engineering",
+          "fields": [
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Industrial Engineering"
+          ]
+        },
+        {
+          "name": "School : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "School : Management",
+          "fields": [
+            "Management"
+          ]
+        },
+        {
+          "name": "School : Marketing and International Business",
+          "fields": [
+            "International Business",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "School : Tourism",
+          "fields": [
+            "Hotel Management",
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Técnico",
+          "fields": [
+            "Finance"
+          ]
+        },
+        {
+          "name": "Ingeniero",
+          "fields": [
+            "Computer Engineering",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Industrial Engineering",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Accountancy",
+            "Advertising and Publicity",
+            "Business Administration",
+            "Cinema and Television",
+            "English",
+            "Finance",
+            "Foreign Languages Education",
+            "Graphic Design",
+            "Hotel Management",
+            "Humanities and Social Science Education",
+            "Interior Design",
+            "International Business",
+            "Law",
+            "Literature",
+            "Marketing",
+            "Mathematics",
+            "Mathematics Education",
+            "Multimedia",
+            "Native Language Education",
+            "Secondary Education",
+            "Spanish",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Especialidad",
+          "fields": [
+            "Business Administration",
+            "Educational and Student Counselling",
+            "Finance",
+            "Foreign Languages Education",
+            "Human Resources",
+            "Humanities and Social Science Education",
+            "Mathematics Education",
+            "Native Language Education",
+            "Spanish"
+          ]
+        },
+        {
+          "name": "Maestría",
+          "fields": [
+            "Administrative Law",
+            "Business and Commerce",
+            "Communication Studies",
+            "Criminal Law",
+            "E-Business/Commerce",
+            "Electrical Engineering",
+            "Finance",
+            "Fiscal Law",
+            "Human Resources",
+            "International Relations and Diplomacy",
+            "Law",
+            "Management",
+            "Maritime Law",
+            "Marketing",
+            "Mathematics",
+            "Mathematics Education"
+          ]
+        },
+        {
+          "name": "Doctorado",
+          "fields": [
+            "Business Administration"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio de Educación Superior, Ciencia y Tecnología (MESCYT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Franklyn Holguín Haché"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Carlos Sangiovanni Rodríguez"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1965 as Instituto de Estudios Superiores by the Acción Pro-Educación y Cultura, Inc. (APEC). Acquired present status 1983. A private Institution authorized by the Government to award degrees in 1968",
+      "periodicals": [
+        "Coloquios Jurídicos Investigación y Ciencia Revista Científica",
+        "Coloquios Jurídicos",
+        "Investigación y Ciencia",
+        "Revista Científica"
+      ],
+      "student_body": null
+    },
+    {
+      "id": "17224",
+      "iau_id": "IAU-017224",
+      "name": "Autonomous University of Santo Domingo",
+      "alt_name": "Universidad Autónoma de Santo Domingo (UASD)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxSLEMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017224",
+      "address": {
+        "Street": "Apartado postal 1355Ave. Alma Mater, Ciudad Universitaria",
+        "City": "Santo Domingo",
+        "Province": "Distrito Nacional",
+        "WWW": "https://www.uasd.edu.do"
+      },
+      "website": "https://www.uasd.edu.do",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1538,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "January to December (January-May; July-December)",
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Agronomy and Veterinary Science",
+          "fields": [
+            "Agronomy",
+            "Animal Husbandry",
+            "Dairy",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Faculty : Arts",
+          "fields": [
+            "Advertising and Publicity",
+            "Cinema and Television",
+            "Design",
+            "Fine Arts",
+            "Music",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Faculty : Economics and Social Sciences",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Economics",
+            "Marketing",
+            "Public Administration",
+            "Social Work",
+            "Sociology",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Faculty : Educational Sciences",
+          "fields": [
+            "Educational Administration",
+            "Educational and Student Counselling",
+            "Educational Sciences",
+            "Library Science",
+            "Pedagogy",
+            "Physical Education",
+            "Preschool Education",
+            "Primary Education",
+            "Secondary Education",
+            "Sports"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering and Architecture",
+          "fields": [
+            "Agricultural Engineering",
+            "Architecture",
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Electrical Engineering",
+            "Engineering",
+            "Industrial Engineering",
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences",
+          "fields": [
+            "Medicine",
+            "Nursing",
+            "Orthodontics",
+            "Pharmacology",
+            "Pharmacy",
+            "Radiology"
+          ]
+        },
+        {
+          "name": "Faculty : Humanities",
+          "fields": [
+            "Arts and Humanities",
+            "Communication Studies",
+            "History",
+            "Modern Languages",
+            "Pedagogy",
+            "Philosophy",
+            "Psychology",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Law and Political Sciences",
+          "fields": [
+            "Law",
+            "Political Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Sciences",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Mathematics",
+            "Microbiology",
+            "Natural Sciences",
+            "Parasitology",
+            "Physics"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Técnico",
+          "fields": [
+            "Cinema and Television",
+            "Dairy",
+            "Food Technology",
+            "Hotel Management",
+            "Pharmacy",
+            "Photography",
+            "Public Health",
+            "Radiology",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Doctorado en Medicina / Odontología",
+          "fields": [
+            "Dentistry",
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Ingeniero",
+          "fields": [
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Industrial Engineering",
+            "Mechanical Engineering",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Accountancy",
+            "Acting",
+            "Adult Education",
+            "Advertising and Publicity",
+            "Anthropology",
+            "Architecture",
+            "Art Criticism",
+            "Art Education",
+            "Art History",
+            "Arts and Humanities",
+            "Biological and Life Sciences",
+            "Biology",
+            "Business Administration",
+            "Chemistry",
+            "Cinema and Television",
+            "Clinical Psychology",
+            "Communication Arts",
+            "Computer Science",
+            "Economics",
+            "Education",
+            "Educational Administration",
+            "Educational and Student Counselling",
+            "Educational Psychology",
+            "Educational Technology",
+            "English",
+            "Fashion Design",
+            "Foreign Languages Education",
+            "French",
+            "Geography",
+            "Graphic Design",
+            "History",
+            "Hotel Management",
+            "Humanities and Social Science Education",
+            "Industrial and Organizational Psychology",
+            "Industrial Design",
+            "Information Sciences",
+            "International Business",
+            "Journalism",
+            "Law",
+            "Library Science",
+            "Marketing",
+            "Mass Communication",
+            "Mathematics",
+            "Mathematics Education",
+            "Microbiology",
+            "Modern Languages",
+            "Music",
+            "Music Education",
+            "Music Theory and Composition",
+            "Natural Resources",
+            "Nursing",
+            "Painting and Drawing",
+            "Pharmacy",
+            "Philosophy",
+            "Physical Education",
+            "Physics",
+            "Political Sciences",
+            "Preschool Education",
+            "Primary Education",
+            "Psychology",
+            "Public Administration",
+            "Public Relations",
+            "Radiology",
+            "Science Education",
+            "Sculpture",
+            "Secondary Education",
+            "Social Psychology",
+            "Social Work",
+            "Sociology",
+            "Special Education",
+            "Statistics",
+            "Taxation",
+            "Theatre",
+            "Tourism",
+            "Veterinary Science",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Especialidad",
+          "fields": [
+            "Accountancy",
+            "Agriculture",
+            "Animal Husbandry",
+            "Biochemistry",
+            "Dental Technology",
+            "Dentistry",
+            "Education",
+            "Educational and Student Counselling",
+            "Educational Psychology",
+            "Foreign Languages Education",
+            "Health Sciences",
+            "Laboratory Techniques",
+            "Law",
+            "Paediatrics",
+            "Periodontics",
+            "Physical Education",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Maestría",
+          "fields": [
+            "Accountancy",
+            "Administrative Law",
+            "Agriculture",
+            "Animal Husbandry",
+            "Anthropology",
+            "Applied Linguistics",
+            "Architecture",
+            "Art Management",
+            "Biochemistry",
+            "Business Administration",
+            "Civil Law",
+            "Clinical Psychology",
+            "Commercial Law",
+            "Constitutional Law",
+            "Construction Engineering",
+            "Criminal Law",
+            "Design",
+            "E-Business/Commerce",
+            "Educational Administration",
+            "Educational and Student Counselling",
+            "Educational Psychology",
+            "Electrical Engineering",
+            "Environmental Engineering",
+            "Ethics",
+            "Fiscal Law",
+            "Food Science",
+            "Food Technology",
+            "Foreign Languages Education",
+            "Gender Studies",
+            "Health Administration",
+            "Health Education",
+            "Higher Education Teacher Training",
+            "History",
+            "Human Resources",
+            "Industrial Design",
+            "Interior Design",
+            "International Business",
+            "International Relations and Diplomacy",
+            "Laboratory Techniques",
+            "Labour Law",
+            "Law",
+            "Literature",
+            "Marketing",
+            "Mathematics Education",
+            "Natural Sciences",
+            "Nutrition",
+            "Pathology",
+            "Pest Management",
+            "Philosophy",
+            "Physical Education",
+            "Physics",
+            "Physiology",
+            "Political Sciences",
+            "Private Law",
+            "Psychology",
+            "Public Health",
+            "Public Relations",
+            "Regional Planning",
+            "Rehabilitation and Therapy",
+            "Safety Engineering",
+            "Sanitary Engineering",
+            "Soil Conservation",
+            "Soil Management",
+            "Town Planning",
+            "Tropical Agriculture",
+            "Visual Arts"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio de Educación Superior, Ciencia y Tecnología (MESCYT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Editrudis Beltrán"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Pablo Valdez"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Wilson Mejia Mejia"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1538 by Bull of Pope Paul III. Directed by Dominican Order of Preachers until 1802. Closed during the French occupation. Became a lay institution in 1815 but again closed 1822-1844 during Haitian occupation. Again reopened and reorganized 1865, 1914, and 1937. Following Law on University autonomy 1961 adopted new status 1966. Financially supported by the State",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "23545",
+      "iau_id": "IAU-023545",
+      "name": "Barna Management School",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyxVLSM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-023545",
+      "address": {
+        "Street": "Calle Dr. Heriberto Pieter No.34, Av. John F. Kennedy 34",
+        "City": "Santo Domingo",
+        "Province": "Distrito Nacional",
+        "WWW": "https://barna.edu.do"
+      },
+      "website": "https://barna.edu.do",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1999,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Business Administration",
+          "fields": [
+            "Business Administration"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Maestría",
+          "fields": [
+            "Business Administration"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio de Educación Superior, Ciencia y Tecnología (MESCYT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Paulo Alves"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Fernando Barrero"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Raynier Montaño Garrido"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1999, acquired current status 2000",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17324",
+      "iau_id": "IAU-017324",
+      "name": "Catholic Technological University of Barahona",
+      "alt_name": "Universidad Católica Tecnológica de Barahona (UCATEBA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxTLEMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017324",
+      "address": {
+        "Street": "Calle Primera 01Sector Juan Pablo Duarte, Villa Central",
+        "City": "Barahona",
+        "Province": "Barahona",
+        "Post Code": "006",
+        "WWW": "https://www.ucateba.edu.do"
+      },
+      "website": "https://www.ucateba.edu.do",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1995,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "School : Business Studies",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Hotel Management",
+            "Marketing",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "School : Computer Science",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "School : Education",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "School : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "School : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "School : Psychology",
+          "fields": [
+            "Psychology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Técnico",
+          "fields": [
+            "Computer Science",
+            "Nursing",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Ingeniero",
+          "fields": [
+            "Computer Engineering"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Computer Science",
+            "Educational and Student Counselling",
+            "Hotel Management",
+            "Law",
+            "Marketing",
+            "Mathematics",
+            "Mathematics Education",
+            "Nursing",
+            "Primary Education",
+            "Psychology",
+            "Tourism"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio de Educación Superior, Ciencia y Tecnología (MESCYT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "P. Marco Antonio Pérez Pérez"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Benjamín Toral Fenández"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Yris Ysabel San Gilbert Ramos"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1995 as Instituto Católico Tecnológico de Barahona. Acquired present status 2004",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17306",
+      "iau_id": "IAU-017306",
+      "name": "Catholic University of Santo Domingo",
+      "alt_name": "Universidad Católica de Santo Domingo (UCSD)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxTLCM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017306",
+      "address": {
+        "Street": "Avenida Bolívar #902Ensanche La Julia",
+        "City": "Santo Domingo",
+        "Province": "Distrito Nacional",
+        "WWW": "http://www.ucsd.edu.do"
+      },
+      "website": "http://www.ucsd.edu.do",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1982,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "January to December (January-May; August-December)",
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Architecture and Fine Arts",
+          "fields": [
+            "Architecture",
+            "Design",
+            "Fine Arts",
+            "Graphic Design",
+            "Interior Design"
+          ]
+        },
+        {
+          "name": "Faculty : Economics and Administration",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Economics",
+            "Finance",
+            "Hotel Management",
+            "Marketing",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences",
+          "fields": [
+            "Dentistry",
+            "Health Sciences",
+            "Nursing",
+            "Occupational Therapy",
+            "Physical Therapy",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Faculty : Humanities and Education",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Faculty : Law and Political Sciences",
+          "fields": [
+            "Law",
+            "Political Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Religious Studies",
+          "fields": [
+            "Religious Studies",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Faculty : Science and Technology",
+          "fields": [
+            "Computer Engineering",
+            "Computer Science",
+            "Information Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Social Sciences and Communication",
+          "fields": [
+            "Advertising and Publicity",
+            "Communication Studies",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Research Division : Family Studies and Research",
+          "fields": [
+            "Family Studies"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Accountancy",
+            "Advertising and Publicity",
+            "Arts and Humanities",
+            "Business Administration",
+            "Clinical Psychology",
+            "Computer Engineering",
+            "Economics",
+            "Education",
+            "Finance",
+            "Hotel Management",
+            "Interior Design",
+            "International Business",
+            "International Relations and Diplomacy",
+            "Law",
+            "Marketing",
+            "Mass Communication",
+            "Nursing",
+            "Occupational Therapy",
+            "Physical Therapy",
+            "Preschool Education",
+            "Primary Education",
+            "Psychology",
+            "Radiology",
+            "Rehabilitation and Therapy",
+            "Religious Studies",
+            "Secondary Education",
+            "Social Work",
+            "Speech Therapy and Audiology",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Especialidad",
+          "fields": [
+            "Dentistry",
+            "Educational Administration",
+            "Educational Research",
+            "Higher Education",
+            "Higher Education Teacher Training",
+            "Periodontics",
+            "Rehabilitation and Therapy"
+          ]
+        },
+        {
+          "name": "Maestría",
+          "fields": [
+            "Administration",
+            "Clinical Psychology",
+            "Health Administration",
+            "Human Resources",
+            "Law",
+            "Management",
+            "Natural Sciences",
+            "Occupational Health",
+            "Pastoral Studies",
+            "Political Sciences",
+            "Psychology",
+            "Rehabilitation and Therapy",
+            "Religious Studies",
+            "Social and Community Services",
+            "Social Welfare"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio de Educación Superior, Ciencia y Tecnología (MESCYT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ramón Benito Ángeles Fernández"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Ramón García Tatis"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Zeneyda de Jesús Contreras"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1982",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17325",
+      "iau_id": "IAU-017325",
+      "name": "Catholic University of the Cibao",
+      "alt_name": "Universidad Católica del Cibao (UCATECI)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxTLEM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017325",
+      "address": {
+        "Street": "Av. UniversitariaEsq. Av. Pedro A. RiveraApartado No. 401",
+        "City": "La Vega",
+        "Province": "La Vega",
+        "WWW": "https://www.ucateci.edu.do"
+      },
+      "website": "https://www.ucateci.edu.do",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1983,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "January to December (January-May; August-December)",
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Business",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences",
+          "fields": [
+            "Biological and Life Sciences",
+            "Dentistry",
+            "Medicine",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Faculty : Humanities and Social Sciences",
+          "fields": [
+            "Architecture",
+            "Education",
+            "Law",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "School : Engineering",
+          "fields": [
+            "Agricultural Engineering",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Industrial Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Doctorado en Medicina / Odontología",
+          "fields": [
+            "Dentistry",
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Ingeniero",
+          "fields": [
+            "Agricultural Engineering",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Industrial Engineering"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Accountancy",
+            "Architecture",
+            "Biological and Life Sciences",
+            "Business Administration",
+            "Education",
+            "Law",
+            "Marketing",
+            "Nursing",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Especialidad",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Computer Education",
+            "Computer Science",
+            "Education",
+            "Foreign Languages Education",
+            "Humanities and Social Science Education",
+            "Literacy Education",
+            "Literature",
+            "Mathematics",
+            "Mathematics Education",
+            "Native Language Education",
+            "Physics",
+            "Science Education",
+            "Spanish"
+          ]
+        },
+        {
+          "name": "Maestría",
+          "fields": [
+            "Agricultural Business",
+            "Epidemiology",
+            "Finance",
+            "Higher Education",
+            "Human Resources",
+            "Industrial Management",
+            "Management",
+            "Public Health"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio de Educación Superior, Ciencia y Tecnología (MESCYT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Sergio de la Cruz de los Santos"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Inocencio Then Martínez"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Mercedes Aurelia Muñoz Estévez"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1983 as Instituto Tecnológico del Cibao, transformed into Universidad Católica Tecnológica del Cibao 2002 acquired current title 2015",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "28213",
+      "iau_id": "IAU-028213",
+      "name": "Catholic University of the East",
+      "alt_name": "Universidad Católica del Este (UCADE)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0BSLDMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-028213",
+      "address": {
+        "Street": "C/ Sánchez, esquina Juan XXIII",
+        "City": "Higuey",
+        "Province": "La Altagracia",
+        "WWW": "http://www.ucade.edu.do"
+      },
+      "website": "http://www.ucade.edu.do",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2001,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Accountancy",
+          "fields": [
+            "Accountancy"
+          ]
+        },
+        {
+          "name": "Course/Programme : Business Administration",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Course/Programme : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Course/Programme : Marketing",
+          "fields": [
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Course/Programme : Tourism Business Administration",
+          "fields": [
+            "Business Administration",
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Law",
+            "Marketing",
+            "Tourism"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio de Educación Superior, Ciencia y Tecnología (MESCYT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Abelino Reyes González"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2001",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17336",
+      "iau_id": "IAU-017336",
+      "name": "Central University of the East",
+      "alt_name": "Universidad Central del Este (UCE)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxTLFM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017336",
+      "address": {
+        "Street": "Apartado postal 512Avenida Francisco Alberto Caamaño Deño",
+        "City": "San Pedro de Macorís",
+        "Province": "San Pedro de Macorís",
+        "WWW": "https://www.uce.edu.do"
+      },
+      "website": "https://www.uce.edu.do",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1970,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "January to December (January-April; May-August; September-December)",
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Administrative Sciences",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Hotel Management",
+            "Information Sciences",
+            "Marketing",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Architecture and Arts",
+          "fields": [
+            "Architecture"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering Sciences and Natural Resources",
+          "fields": [
+            "Civil Engineering",
+            "Electrical and Electronic Engineering",
+            "Industrial Engineering",
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences",
+          "fields": [
+            "Dentistry",
+            "Medicine",
+            "Nursing",
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Sciences and Humanities",
+          "fields": [
+            "Arts and Humanities",
+            "Education",
+            "Mathematics",
+            "Natural Sciences"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Técnico",
+          "fields": [
+            "Accountancy",
+            "Computer Engineering",
+            "Computer Networks",
+            "Food Technology",
+            "Hotel and Restaurant",
+            "Hotel Management",
+            "Service Trades",
+            "Surveying and Mapping",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Doctorado en Medicina / Odontología",
+          "fields": [
+            "Dentistry",
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Ingeniero",
+          "fields": [
+            "Civil Engineering",
+            "Electronic Engineering",
+            "Industrial Engineering",
+            "Mechanical Engineering",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Accountancy",
+            "Architecture",
+            "Biological and Life Sciences",
+            "Biology",
+            "Business Administration",
+            "Chemistry",
+            "Clinical Psychology",
+            "Dentistry",
+            "Educational Psychology",
+            "Humanities and Social Science Education",
+            "Industrial and Organizational Psychology",
+            "Law",
+            "Marketing",
+            "Mathematics",
+            "Mathematics Education",
+            "Native Language Education",
+            "Nursing",
+            "Pharmacy",
+            "Preschool Education",
+            "Primary Education",
+            "Science Education",
+            "Secondary Education",
+            "Tourism",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Especialidad",
+          "fields": [
+            "Chemistry",
+            "Dental Technology",
+            "Education",
+            "History",
+            "Humanities and Social Science Education",
+            "Literature",
+            "Mathematics",
+            "Mathematics Education",
+            "Native Language Education",
+            "Orthodontics",
+            "Orthopaedics",
+            "Physics",
+            "Science Education",
+            "Secondary Education",
+            "Spanish"
+          ]
+        },
+        {
+          "name": "Maestría",
+          "fields": [
+            "Business Administration",
+            "Construction Engineering",
+            "Criminal Law",
+            "E-Business/Commerce",
+            "Educational Psychology",
+            "Educational Technology",
+            "English",
+            "Environmental Engineering",
+            "Finance",
+            "Higher Education",
+            "Higher Education Teacher Training",
+            "Hotel Management",
+            "Human Resources",
+            "Human Rights",
+            "Industrial Management",
+            "Landscape Architecture",
+            "Management",
+            "Marketing",
+            "Orthodontics",
+            "Orthopaedics",
+            "Pharmacy",
+            "Public Health",
+            "Social Psychology",
+            "Special Education",
+            "Sustainable Development",
+            "Tourism"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio de Educación Superior, Ciencia y Tecnología (MESCYT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Fernando Sempértegui Ontaneda"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Marco Arroyo Posso Zumarraga"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Ramiro Iván López Pulles"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1970. A private Institution recognized by the State 1971",
+      "periodicals": [
+        "Medical Journal",
+        "Medical Journal"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "17123",
+      "iau_id": "IAU-017123",
+      "name": "Dominican Adventist University",
+      "alt_name": "Universidad Adventista Dominicana (UNAD)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxRLEMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017123",
+      "address": {
+        "Street": "Autopista Duarte Km. 74 1/2, Villa Sonador",
+        "City": "Bonao",
+        "Province": "Monseñor Nouel",
+        "WWW": "https://www.unad.edu.do"
+      },
+      "website": "https://www.unad.edu.do",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1982,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "September to May (September-December; January-May)",
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Administration",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering and Technology",
+          "fields": [
+            "Computer Engineering",
+            "Computer Science",
+            "Engineering",
+            "Systems Analysis"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Faculty : Theology",
+          "fields": [
+            "Theology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ingeniero",
+          "fields": [
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Clinical Psychology",
+            "Educational Psychology",
+            "Mathematics Education",
+            "Nursing",
+            "Primary Education",
+            "Science Education",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Maestría",
+          "fields": [
+            "Business Administration",
+            "Educational Administration",
+            "Higher Education Teacher Training",
+            "Psychology"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio de Educación Superior, Ciencia y Tecnología (MESCYT); Adventista Acrediting Association (AAA)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "José David Gómez González"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1982",
+      "periodicals": [
+        "Ciencia y Humanismo",
+        "Ciencia y Humanismo"
+      ],
+      "student_body": null
+    },
+    {
+      "id": "17726",
+      "iau_id": "IAU-017726",
+      "name": "Dominican O&M University",
+      "alt_name": "Universidad Dominicana O&M – Universidad Dominicana Organización y Método (UDOYM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxXLEM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017726",
+      "address": {
+        "Street": "Ave. Independencia200",
+        "City": "Santo Domingo",
+        "Province": "Distrito Nacional",
+        "WWW": "https://www.udoym.edu.do"
+      },
+      "website": "https://www.udoym.edu.do",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1966,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : La Romana",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Clinical Psychology",
+            "Computer Engineering",
+            "Education",
+            "Educational Psychology",
+            "Industrial and Organizational Psychology",
+            "Industrial Engineering",
+            "Marketing",
+            "Mathematics Education",
+            "Native Language Education",
+            "Preschool Education"
+          ]
+        },
+        {
+          "name": "Campus : Moca",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Clinical Psychology",
+            "Computer Engineering",
+            "Education",
+            "Hotel Management",
+            "Industrial and Organizational Psychology",
+            "Marketing",
+            "Mathematics Education",
+            "Native Language Education",
+            "Preschool Education",
+            "Primary Education",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Campus : Puerto Plata",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Computer Engineering",
+            "Education",
+            "Hotel Management",
+            "Law",
+            "Marketing",
+            "Mass Communication",
+            "Mathematics Education",
+            "Native Language Education",
+            "Preschool Education",
+            "Secondary Education",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Campus : San José de Ocoa",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Clinical Psychology",
+            "Computer Engineering",
+            "Education",
+            "Educational Psychology",
+            "Industrial and Organizational Psychology",
+            "Marketing",
+            "Mathematics Education",
+            "Native Language Education",
+            "Preschool Education",
+            "Secondary Education"
+          ]
+        },
+        {
+          "name": "Campus : Santiago",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Clinical Psychology",
+            "Computer Engineering",
+            "Education",
+            "Educational Psychology",
+            "Hotel Management",
+            "Industrial and Organizational Psychology",
+            "Industrial Engineering",
+            "Law",
+            "Marketing",
+            "Mathematics Education",
+            "Native Language Education",
+            "Preschool Education",
+            "Secondary Education",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Campus : Santo Domingo Este",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Clinical Psychology",
+            "Computer Engineering",
+            "Educational Psychology",
+            "Hotel Management",
+            "Industrial and Organizational Psychology",
+            "Law",
+            "Marketing",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Campus : Santo Domingo Oeste",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Clinical Psychology",
+            "Computer Engineering",
+            "Education",
+            "Educational Psychology",
+            "Industrial and Organizational Psychology",
+            "Marketing",
+            "Mathematics Education",
+            "Native Language Education",
+            "Preschool Education"
+          ]
+        },
+        {
+          "name": "School : Accountancy",
+          "fields": [
+            "Accountancy"
+          ]
+        },
+        {
+          "name": "School : Architecture",
+          "fields": [
+            "Architecture"
+          ]
+        },
+        {
+          "name": "School : Business Administration",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "School : Civil Engineering",
+          "fields": [
+            "Civil Engineering"
+          ]
+        },
+        {
+          "name": "School : Education",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "School : Engineering",
+          "fields": [
+            "Civil Engineering",
+            "Computer Engineering",
+            "Electronic Engineering",
+            "Industrial Engineering"
+          ]
+        },
+        {
+          "name": "School : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "School : Marketing",
+          "fields": [
+            "Marketing"
+          ]
+        },
+        {
+          "name": "School : Mass Communication",
+          "fields": [
+            "Mass Communication"
+          ]
+        },
+        {
+          "name": "School : Medicine",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "School : Tourism and Hotel Management",
+          "fields": [
+            "Hotel Management",
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Doctorado en Medicina / Odontología",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Ingeniero",
+          "fields": [
+            "Civil Engineering",
+            "Computer Engineering",
+            "Electronic Engineering",
+            "Industrial Engineering"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Accountancy",
+            "Architecture",
+            "Business Administration",
+            "Civil Engineering",
+            "Clinical Psychology",
+            "Education",
+            "Educational Psychology",
+            "Hotel Management",
+            "Humanities and Social Science Education",
+            "Industrial and Organizational Psychology",
+            "Law",
+            "Marketing",
+            "Mass Communication",
+            "Mathematics Education",
+            "Medicine",
+            "Native Language Education",
+            "Preschool Education",
+            "Secondary Education",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Especialidad",
+          "fields": [
+            "Educational and Student Counselling",
+            "Mathematics Education",
+            "Native Language Education",
+            "Secondary Education",
+            "Technology Education",
+            "Vocational Education"
+          ]
+        },
+        {
+          "name": "Maestría",
+          "fields": [
+            "Accountancy",
+            "Computer Engineering",
+            "Educational Administration",
+            "Educational Technology",
+            "Music Education"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio de Educación Superior, Ciencia y Tecnología (MESCYT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "José Rafael Abinader Corona"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Norma Franco Báez"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Reynaldo Salcedo"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1966",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "18143",
+      "iau_id": "IAU-018143",
+      "name": "Dominican University of Dentistry",
+      "alt_name": "Universidad Odontológica Dominicana (UOD)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BRLSMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018143",
+      "address": {
+        "Street": "Avenida Prolongación 27 de febrero esq. C/1raLas Caobas",
+        "City": "Santo Domingo Oeste",
+        "Province": "Santo Domingo",
+        "WWW": "https://sites.google.com/uod.edu.do/uodonline/inicio"
+      },
+      "website": "https://sites.google.com/uod.edu.do/uodonline/inicio",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1985,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "School : Dentistry",
+          "fields": [
+            "Dental Hygiene",
+            "Dentistry",
+            "Laboratory Techniques",
+            "Medical Auxiliaries"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Técnico",
+          "fields": [
+            "Dental Hygiene",
+            "Laboratory Techniques",
+            "Medical Auxiliaries"
+          ]
+        },
+        {
+          "name": "Doctorado en Medicina / Odontología",
+          "fields": [
+            "Dentistry"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio de Educación Superior, Ciencia y Tecnología (MESCYT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Vilma Deschamps De Baez"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Luis Alexis Fermin Bobadilla"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1985",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "18300",
+      "iau_id": "IAU-018300",
+      "name": "Dominican University of Industrial Psychology",
+      "alt_name": "Universidad Psicología Industrial Dominicana (UPID)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BTLCNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018300",
+      "address": {
+        "Street": "Calle 1ra. No.27, Urb. KG, Carretera Sánchez Km. 6 1/2",
+        "City": "Santo Domingo",
+        "Province": "Distrito Nacional",
+        "WWW": "http://www.upid.edu.do"
+      },
+      "website": "http://www.upid.edu.do",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1996,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Accounting",
+          "fields": [
+            "Accountancy"
+          ]
+        },
+        {
+          "name": "Course/Programme : Human Resources",
+          "fields": [
+            "Human Resources"
+          ]
+        },
+        {
+          "name": "Course/Programme : Management",
+          "fields": [
+            "Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Marketing",
+          "fields": [
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Course/Programme : Organizational Psychology",
+          "fields": [
+            "Industrial and Organizational Psychology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Técnico",
+          "fields": [
+            "Accountancy",
+            "Business Computing",
+            "Human Resources",
+            "Management",
+            "Marketing",
+            "Sales Techniques",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Accountancy",
+            "Human Resources",
+            "Industrial and Organizational Psychology",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Maestría",
+          "fields": [
+            "Human Resources"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio de Educación Superior, Ciencia y Tecnología (MESCYT); Consejo Nacional de Educación Superior (CONES)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ricardo Winter"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1996 as Instituto Superior de Psicología Industrial Dominicana, acquired present title 2001",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17727",
+      "iau_id": "IAU-017727",
+      "name": "Dominican-American University",
+      "alt_name": "Universidad Domínico Americano (UNICDA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxXLEM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017727",
+      "address": {
+        "Street": "Av. Abraham Lincoln #21",
+        "City": "Santo Domingo",
+        "Province": "Distrito Nacional",
+        "WWW": "https://www.unicda.edu.do"
+      },
+      "website": "https://www.unicda.edu.do",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2001,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Spanish",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Teachers Development",
+          "fields": [
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Course/Programme : Business Administration",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Course/Programme : English Language Foreign",
+          "fields": [
+            "Foreign Languages Education"
+          ]
+        },
+        {
+          "name": "Course/Programme : Software Engineering",
+          "fields": [
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Systems Engineering",
+          "fields": [
+            "Computer Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ingeniero",
+          "fields": [
+            "Computer Engineering",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Foreign Languages Education"
+          ]
+        },
+        {
+          "name": "Especialidad",
+          "fields": [
+            "Finance",
+            "Foreign Languages Education",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Maestría",
+          "fields": [
+            "Business Administration",
+            "Education",
+            "Foreign Languages Education"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio de Educación Superior, Ciencia y Tecnología (MESCYT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ramón Sosa"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Thelma Camarena"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2001",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "23551",
+      "iau_id": "IAU-023551",
+      "name": "Dr. Eduardo Latorre Rodríguez Higher Education Institute in Diplomatic and Consular Training",
+      "alt_name": "Instituto de Educación Superior en Formación Diplomatica y Consular Dr. Eduardo Latorre Rodríguez (INESDyC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyxVLTMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-023551",
+      "address": {
+        "Street": "Av. Independencia No. 752Estancia San Gerónimo",
+        "City": "Santo Domingo",
+        "Province": "Distrito Nacional",
+        "WWW": "http://www.inesdyc.edu.do"
+      },
+      "website": "http://www.inesdyc.edu.do",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1939,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Commercial Diplomacy",
+          "fields": [
+            "International Relations and Diplomacy"
+          ]
+        },
+        {
+          "name": "Course/Programme : Diplomacy and Consular Services",
+          "fields": [
+            "International Relations and Diplomacy"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Especialidad",
+          "fields": [
+            "International Relations and Diplomacy"
+          ]
+        },
+        {
+          "name": "Maestría",
+          "fields": [
+            "International Relations and Diplomacy"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio de Educación Superior, Ciencia y Tecnología (MESCYT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Rafael Espaillat Muñoz"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1939 as Escuela Diplomática y Consular. Acquired present status and title 2012",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "23549",
+      "iau_id": "IAU-023549",
+      "name": "Dr. Luis Heredia Bonetti Higher Institute of Specialized Studies in Social Sciences and Humanities",
+      "alt_name": "Instituto Superior de Estudios Especializados en Ciencias Sociales y Humanidades Dr. Luis Heredia Bonetti (ISEECSH-LHB)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyxVLSNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-023549",
+      "address": {
+        "Street": "C/ Porfirio Herrera #6, Ens. Piantini",
+        "City": "Santo Domingo",
+        "Province": "Distrito Nacional",
+        "WWW": "https://ies-lhb.edu.do"
+      },
+      "website": "https://ies-lhb.edu.do",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2012,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Commercial Law",
+          "fields": [
+            "Commercial Law"
+          ]
+        },
+        {
+          "name": "Course/Programme : Foreign Languages (English) for Secondary Level",
+          "fields": [
+            "Foreign Languages Education"
+          ]
+        },
+        {
+          "name": "Course/Programme : Real Estate Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Course/Programme : Technology and Educational Innovation",
+          "fields": [
+            "Educational Technology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Especialidad",
+          "fields": [
+            "Educational Technology",
+            "Foreign Languages Education",
+            "Law"
+          ]
+        },
+        {
+          "name": "Maestría",
+          "fields": [
+            "Commercial Law"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio de Educación Superior, Ciencia y Tecnología (MESCYT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Anton Tejeda"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Ernesto Portillo"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Aileen Mella"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2012 as Instituto Superior Especializado en Derecho Empresarial (IDEMPRESA), acquired current status and title 2020",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17756",
+      "iau_id": "IAU-017756",
+      "name": "Eugenio María de Hostos University",
+      "alt_name": "Universidad Eugenio María de Hostos (UNIREMHOS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxXLTM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017756",
+      "address": {
+        "Street": "Avenida Abraham Lincoln no. 126casi esq. José Contreras",
+        "City": "Santo Domingo",
+        "Province": "Distrito Nacional",
+        "WWW": "https://uniremhos.edu.do"
+      },
+      "website": "https://uniremhos.edu.do",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1980,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : San Cristóbal",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Computer Science",
+            "Law",
+            "Marketing",
+            "Mass Communication",
+            "Nursing",
+            "Paediatrics",
+            "Public Health"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences",
+          "fields": [
+            "Dentistry",
+            "Health Sciences",
+            "Medicine",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Faculty : Social and Administrative Sciences",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Communication Studies",
+            "Computer Science",
+            "Law",
+            "Marketing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Técnico",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Communication Studies",
+            "Computer Science",
+            "Health Sciences",
+            "Law",
+            "Marketing",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Maestría",
+          "fields": [
+            "Paediatrics",
+            "Public Health"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio de Educación Superior, Ciencia y Tecnología (MESCYT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Wady Ramírez"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Fátima Hernández"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1980",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17770",
+      "iau_id": "IAU-017770",
+      "name": "Federico Henríquez y Carvajal University",
+      "alt_name": "Universidad Federico Henríquez y Carvajal (UFHEC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxXLVNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017770",
+      "address": {
+        "Street": "Av. Isabel Aguiar #100, Herrera",
+        "City": "Santo Domingo Oeste",
+        "Province": "Santo Domingo",
+        "WWW": "https://ufhec.edu.do"
+      },
+      "website": "https://ufhec.edu.do",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1991,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : Baní",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Education",
+            "Law"
+          ]
+        },
+        {
+          "name": "Campus : La Romana",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Education",
+            "Electrical Engineering",
+            "Industrial Engineering",
+            "Law",
+            "Nursing",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Campus : Moca",
+          "fields": [
+            "Accountancy",
+            "Agricultural Engineering",
+            "Education",
+            "Law"
+          ]
+        },
+        {
+          "name": "Course/Programme : Accountancy",
+          "fields": [
+            "Accountancy"
+          ]
+        },
+        {
+          "name": "Course/Programme : Business Administration",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Course/Programme : Computer Science",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Course/Programme : Dentistry",
+          "fields": [
+            "Dentistry"
+          ]
+        },
+        {
+          "name": "Course/Programme : Education",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Course/Programme : Electrical Engineering",
+          "fields": [
+            "Electrical Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Course/Programme : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Doctorado en Medicina / Odontología",
+          "fields": [
+            "Dentistry"
+          ]
+        },
+        {
+          "name": "Ingeniero",
+          "fields": [
+            "Agricultural Engineering",
+            "Electrical Engineering"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Computer Science",
+            "Education",
+            "Law",
+            "Nursing"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio de Educación Superior, Ciencia y Tecnología (MESCYT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Alberto Ramírez Cabral"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Darwin Muñoz"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1991",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17766",
+      "iau_id": "IAU-017766",
+      "name": "Felix Adam Experimental University",
+      "alt_name": "Universidad Experimental Felix Adam (UNEFA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxXLUM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017766",
+      "address": {
+        "Street": "Calle Salvador Espinal Miranda6, Mirador Norte",
+        "City": "Santo Domingo",
+        "Province": "Distrito Nacional",
+        "WWW": "https://unefa.edu.do"
+      },
+      "website": "https://unefa.edu.do",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1996,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Economic and Administrative Sciences",
+          "fields": [
+            "Business Administration",
+            "Educational Administration",
+            "Human Resources"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Social Sciences and Humanities",
+          "fields": [
+            "Psychology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Business Administration",
+            "Educational Administration",
+            "Human Resources",
+            "Law",
+            "Psychology"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio de Educación Superior, Ciencia y Tecnología (MESCYT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Nora Rubirosa"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "María Ivelisse Herasme"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1996",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17126",
+      "iau_id": "IAU-017126",
+      "name": "Fernando Arturo de Meriño University of Agriculture and Forestry",
+      "alt_name": "Universidad Agroforestal Fernando Arturo de Meriño (UAFAM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxRLEM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017126",
+      "address": {
+        "Street": "Calle Estela Geraldino esq. Colina Los Pomos",
+        "City": "Jarabacoa",
+        "Province": "La Vega",
+        "WWW": "https://uafam.edu.do"
+      },
+      "website": "https://uafam.edu.do",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1996,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "School : Accountancy",
+          "fields": [
+            "Accountancy"
+          ]
+        },
+        {
+          "name": "School : Agronomy",
+          "fields": [
+            "Agronomy"
+          ]
+        },
+        {
+          "name": "School : Computer Science",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "School : Education",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "School : Forestry",
+          "fields": [
+            "Forestry"
+          ]
+        },
+        {
+          "name": "School : Postgraduate Studies",
+          "fields": [
+            "Economics",
+            "Education",
+            "Forestry",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "School : Tourism",
+          "fields": [
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Técnico",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Ingeniero",
+          "fields": [
+            "Agricultural Engineering",
+            "Forestry"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Computer Science",
+            "Educational Psychology",
+            "Hotel Management",
+            "Primary Education",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Especialidad",
+          "fields": [
+            "Agriculture",
+            "Educational and Student Counselling",
+            "Finance",
+            "Forestry",
+            "Humanities and Social Science Education",
+            "Mathematics Education",
+            "Native Language Education",
+            "Secondary Education",
+            "Sustainable Development",
+            "Taxation",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Maestría",
+          "fields": [
+            "Sustainable Development"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio de Educación Superior, Ciencia y Tecnología (MESCYT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Rolando Reyes"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Franklin Cepeda"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Ramón Rolando Reyes"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1996",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "23547",
+      "iau_id": "IAU-023547",
+      "name": "Global Institute of Advanced Studies in Social Sciences",
+      "alt_name": "Instituto Global de Altos Estudios en Ciencias Sociales (IGLOBAL)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyxVLSM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-023547",
+      "address": {
+        "Street": "Calle César Nicolás Penson #127La Esperilla",
+        "City": "Santo Domingo",
+        "Province": "Distrito Nacional",
+        "WWW": "http://www.iglobal.edu.do"
+      },
+      "website": "http://www.iglobal.edu.do",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2006,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "School : Business",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "School : Cinema and Communications",
+          "fields": [
+            "Cinema and Television",
+            "Mass Communication"
+          ]
+        },
+        {
+          "name": "School : Education",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "School : Government and Public Policy",
+          "fields": [
+            "Government",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "School : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "School : Social Sciences and Humanities",
+          "fields": [
+            "Arts and Humanities",
+            "Social Sciences"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Maestría",
+          "fields": [
+            "Administrative Law",
+            "Archiving",
+            "Commercial Law",
+            "Constitutional Law",
+            "Documentation Techniques",
+            "Government",
+            "International Business",
+            "International Law",
+            "International Relations and Diplomacy",
+            "Political Sciences",
+            "Public Administration",
+            "Public Law",
+            "Regional Planning",
+            "Social Sciences",
+            "Sustainable Development",
+            "Town Planning"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio de Educación Superior, Ciencia y Tecnología (MESCYT); Consejo Nacional de Educación Superior, Ciencia y Tecnología (CONESCYT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Marcos Villamán"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Melissa Martínez"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Víctor Villanueva"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2006",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17811",
+      "iau_id": "IAU-017811",
+      "name": "Ibero-American University",
+      "alt_name": "Universidad Iberoamericana (UNIBE)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxYLDMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017811",
+      "address": {
+        "Street": "Av. Francia No. 129, Gazcue",
+        "City": "Santo Domingo",
+        "Province": "Distrito Nacional",
+        "WWW": "https://www.unibe.edu.do"
+      },
+      "website": "https://www.unibe.edu.do",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1982,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "September to August (September-December; January-May; June-August)",
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : General Studies",
+          "fields": [
+            "Business Administration",
+            "Cultural Studies",
+            "Fine Arts",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Course/Programme : Liberal Arts",
+          "fields": [
+            "Business Administration",
+            "Cultural Studies",
+            "Fine Arts",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "School : Architecture",
+          "fields": [
+            "Architecture"
+          ]
+        },
+        {
+          "name": "School : Business Administration",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "School : Civil Engineering",
+          "fields": [
+            "Civil Engineering"
+          ]
+        },
+        {
+          "name": "School : Communication",
+          "fields": [
+            "Mass Communication"
+          ]
+        },
+        {
+          "name": "School : Dentistry",
+          "fields": [
+            "Dentistry"
+          ]
+        },
+        {
+          "name": "School : Education",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "School : Industrial Engineering",
+          "fields": [
+            "Industrial Engineering"
+          ]
+        },
+        {
+          "name": "School : Information and Communication Technology",
+          "fields": [
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "School : Interior Design",
+          "fields": [
+            "Interior Design"
+          ]
+        },
+        {
+          "name": "School : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "School : Marketing",
+          "fields": [
+            "Marketing"
+          ]
+        },
+        {
+          "name": "School : Medicine",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "School : Psychology",
+          "fields": [
+            "Clinical Psychology",
+            "Educational Psychology",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "School : Tourism",
+          "fields": [
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Doctorado en Medicina / Odontología",
+          "fields": [
+            "Dentistry",
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Ingeniero",
+          "fields": [
+            "Civil Engineering",
+            "Computer Engineering",
+            "Industrial Engineering"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Architecture",
+            "Arts and Humanities",
+            "Business Administration",
+            "Interior Design",
+            "Law",
+            "Marketing",
+            "Mass Communication",
+            "Preschool Education",
+            "Psychology",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Especialidad",
+          "fields": [
+            "Community Health",
+            "Diabetology",
+            "Educational Psychology",
+            "Gerontology",
+            "Medicine",
+            "Neurology",
+            "Nutrition",
+            "Ophthalmology",
+            "Otorhinolaryngology",
+            "Paediatrics",
+            "Psychology",
+            "Psychotherapy",
+            "Rehabilitation and Therapy",
+            "Rheumatology",
+            "Service Trades",
+            "Surgery"
+          ]
+        },
+        {
+          "name": "Maestría",
+          "fields": [
+            "Business Administration",
+            "Dental Technology",
+            "Dentistry",
+            "Economics",
+            "Educational Administration",
+            "Finance",
+            "Human Resources",
+            "Insurance",
+            "Marketing",
+            "Mass Communication",
+            "Periodontics",
+            "Private Law",
+            "Psychology",
+            "Psychotherapy",
+            "Rehabilitation and Therapy",
+            "Service Trades",
+            "Taxation"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio de Educación Superior, Ciencia y Tecnología (MESCYT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Julio Amado Castaños Guzmán"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Grace Cochón"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Odile Camilo"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1982 as the result of joint efforts of Dominican and Spanish institutions and private citizens interested in the advancement of higher education",
+      "periodicals": [
+        "Revista de Ciencia y Cultura",
+        "Revista de Ciencia y Cultura"
+      ],
+      "student_body": null
+    },
+    {
+      "id": "8887",
+      "iau_id": "IAU-008887",
+      "name": "ISA University",
+      "alt_name": "Universidad ISA",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uI0BYLVBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-008887",
+      "address": {
+        "Street": "Ave. Pres. Antonio Guzmán Km. 5 1/2La HerraduraApartado Postal 166",
+        "City": "Santiago de los Caballeros",
+        "Province": "Santiago",
+        "WWW": "http://www.isa.edu.do"
+      },
+      "website": "http://www.isa.edu.do",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1962,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Agriculture, Food and Environmental Sciences",
+          "fields": [
+            "Agronomy",
+            "Animal Husbandry",
+            "Food Science",
+            "Food Technology",
+            "Forestry",
+            "Natural Resources",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Faculty : Social and Administrative Sciences",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Education",
+            "Marketing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Técnico",
+          "fields": [
+            "Dairy",
+            "Meat and Poultry"
+          ]
+        },
+        {
+          "name": "Ingeniero",
+          "fields": [
+            "Agricultural Engineering",
+            "Food Technology",
+            "Forestry"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Accountancy",
+            "Animal Husbandry",
+            "Business Administration",
+            "Ecology",
+            "Education",
+            "Environmental Management",
+            "Marketing",
+            "Science Education",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Especialidad",
+          "fields": [
+            "Food Technology",
+            "Natural Sciences",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Maestría",
+          "fields": [
+            "Agricultural Engineering",
+            "Biotechnology",
+            "Food Technology",
+            "Plant and Crop Protection",
+            "Veterinary Science"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio de Educación Superior, Ciencia y Tecnología (MESCYT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Benito Ferreiras"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1962 as Instituto Superior de Agricultura. Acquired present status and title 1986",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "8822",
+      "iau_id": "IAU-008822",
+      "name": "Loyola Specialized Institute for Higher Studies",
+      "alt_name": "Instituto Especializado de Estudios Superiores Loyola (IEESL)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uI0BSLEBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-008822",
+      "address": {
+        "Street": "C/Padre Ángel Arias No. 1",
+        "City": "San Cristóbal",
+        "Province": "San Cristóbal",
+        "WWW": "https://superior.ipl.edu.do"
+      },
+      "website": "https://superior.ipl.edu.do",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1952,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Agribusiness Engineering",
+          "fields": [
+            "Agricultural Business"
+          ]
+        },
+        {
+          "name": "Course/Programme : Electrical Engineering",
+          "fields": [
+            "Electrical Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Engineering Networks and Telecommunications",
+          "fields": [
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Industrial Engineering",
+          "fields": [
+            "Industrial Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ingeniero",
+          "fields": [
+            "Agricultural Business",
+            "Electrical Engineering",
+            "Industrial Engineering",
+            "Telecommunications Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio de Educación Superior, Ciencia y Tecnología (MESCYT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "José Rafael Núñez Mármol"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1952 as Instituto Politécnico Loyola (IPL), acquired current status and title 2008",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "18092",
+      "iau_id": "IAU-018092",
+      "name": "National Evangelical University",
+      "alt_name": "Universidad Nacional Evangélica (UNEV)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BQLjMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018092",
+      "address": {
+        "Street": "Av. Salvador Estrella Sadhalá 202Urbanización La Terraza",
+        "City": "Santiago de los Caballeros",
+        "Province": "Santiago",
+        "WWW": "https://www.unev.edu.do"
+      },
+      "website": "https://www.unev.edu.do",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1986,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "January to December",
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Accountancy",
+          "fields": [
+            "Accountancy"
+          ]
+        },
+        {
+          "name": "Course/Programme : Administration",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Course/Programme : Computer Science",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Course/Programme : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Course/Programme : Marketing",
+          "fields": [
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Course/Programme : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Course/Programme : Nutrition",
+          "fields": [
+            "Nutrition"
+          ]
+        },
+        {
+          "name": "Course/Programme : Theology",
+          "fields": [
+            "Theology"
+          ]
+        },
+        {
+          "name": "School : Education",
+          "fields": [
+            "Education",
+            "Humanities and Social Science Education",
+            "Mathematics Education",
+            "Native Language Education",
+            "Physical Education",
+            "Preschool Education",
+            "Primary Education",
+            "Science Education",
+            "Secondary Education"
+          ]
+        },
+        {
+          "name": "School : Psychology",
+          "fields": [
+            "Clinical Psychology",
+            "Educational Psychology",
+            "Industrial and Organizational Psychology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Clinical Psychology",
+            "Computer Science",
+            "Education",
+            "Educational Psychology",
+            "Humanities and Social Science Education",
+            "Industrial and Organizational Psychology",
+            "Law",
+            "Marketing",
+            "Mathematics Education",
+            "Native Language Education",
+            "Nursing",
+            "Nutrition",
+            "Physical Education",
+            "Preschool Education",
+            "Primary Education",
+            "Science Education",
+            "Secondary Education",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Maestría",
+          "fields": [
+            "Bible",
+            "Educational Administration",
+            "Finance",
+            "Rehabilitation and Therapy",
+            "Theology"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio de Educación Superior, Ciencia y Tecnología (MESCYT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Juan B. Guerrero Ávila"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Rafael Reyes Almonte"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1986 to bring an Evangelical Christian perspective to higher education in the Dominican Republic",
+      "periodicals": [
+        "Homo Novus",
+        "Homo Novus"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "28216",
+      "iau_id": "IAU-028216",
+      "name": "National Judicial School",
+      "alt_name": "Escuela Nacional de la Judicatura (ENJ)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0BSLDM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-028216",
+      "address": {
+        "Street": "Calle César Nicolás Penson #59, Gascue",
+        "City": "Santo Domingo",
+        "Province": "Distrito Nacional",
+        "Post Code": "10205",
+        "WWW": "https://www.enj.org"
+      },
+      "website": "https://www.enj.org",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1998,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Administration of Specialized Justice",
+          "fields": [
+            "Justice Administration"
+          ]
+        },
+        {
+          "name": "Course/Programme : Constitutional Justice Administration",
+          "fields": [
+            "Justice Administration"
+          ]
+        },
+        {
+          "name": "Course/Programme : Criminal Justice Administration",
+          "fields": [
+            "Justice Administration"
+          ]
+        },
+        {
+          "name": "Course/Programme : Expository and Argumentative Drafting of Judicial Decisions",
+          "fields": [
+            "Law"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Especialidad",
+          "fields": [
+            "Justice Administration"
+          ]
+        },
+        {
+          "name": "Maestría",
+          "fields": [
+            "Justice Administration"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio de Educación Superior, Ciencia y Tecnología (MESCYT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Dariel A. Suárez Adames"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1998",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "18123",
+      "iau_id": "IAU-018123",
+      "name": "National Technological University",
+      "alt_name": "Universidad Nacional Tecnológica (UNNATEC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BRLEMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018123",
+      "address": {
+        "Street": "Dr. Delgado esq. Bolívar",
+        "City": "Gazcue",
+        "Province": "Distrito Nacional",
+        "WWW": "https://www.unnatec.do"
+      },
+      "website": "https://www.unnatec.do",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2003,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "School : Accountancy",
+          "fields": [
+            "Accountancy"
+          ]
+        },
+        {
+          "name": "School : Business Administration",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "School : Marketing",
+          "fields": [
+            "Marketing"
+          ]
+        },
+        {
+          "name": "School : Systems and Technologies",
+          "fields": [
+            "Information Technology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Information Technology",
+            "Marketing"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio de Educación Superior, Ciencia y Tecnología (MESCYT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Luis Manuel Cruz Canario"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Grissette Aristy"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Ynocencia Fernández de Agüero"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2003",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "18506",
+      "iau_id": "IAU-018506",
+      "name": "National University-Institute of Exact Sciences",
+      "alt_name": "Universidad-Instituto Nacional de Ciencias Exactas – Universidad INCE (INCE)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BVLCM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018506",
+      "address": {
+        "Street": "Avenida Gustavo Mejía Ricart No. 211esq. Dr. Defilló, Ens. Quisqueya",
+        "City": "Santo Domingo",
+        "Province": "Distrito Nacional",
+        "WWW": "https://ince.edu.do"
+      },
+      "website": "https://ince.edu.do",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1974,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Lifelong Education",
+          "fields": [
+            "Accountancy",
+            "Architecture",
+            "Business Administration",
+            "Computer Science",
+            "Economics",
+            "Engineering",
+            "Finance",
+            "Fine Arts",
+            "Human Resources",
+            "Law",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Economics and Social Sciences",
+          "fields": [
+            "Economics",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering, Architecture and Technology",
+          "fields": [
+            "Architecture",
+            "Engineering",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Law and Political Science",
+          "fields": [
+            "Law"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ingeniero",
+          "fields": [
+            "Civil Engineering",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Accountancy",
+            "Architecture",
+            "Business Administration",
+            "Interior Design",
+            "Law",
+            "Marketing"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio de Educación Superior, Ciencia y Tecnología (MESCYT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Manuel Bergés Coradín"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1974 as Instituto Nacional de Ciencias Exactas Inc",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17315",
+      "iau_id": "IAU-017315",
+      "name": "Nordestana Catholic University",
+      "alt_name": "Universidad Católica Nordestana (UCNE)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxTLDM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017315",
+      "address": {
+        "Street": "Los Arroyos, 239",
+        "City": "San Francisco de Macoris",
+        "Province": "Duarte",
+        "Post Code": "31000",
+        "WWW": "http://www.ucne.edu"
+      },
+      "website": "http://www.ucne.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "January to December (January-April; May-August; September-December)",
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Arts and Humanities",
+          "fields": [
+            "Foreign Languages Education",
+            "Mathematics Education",
+            "Physical Education"
+          ]
+        },
+        {
+          "name": "Faculty : Economic and Social Sciences",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Marketing",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Architecture",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Engineering",
+            "Software Engineering",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences",
+          "fields": [
+            "Medicine",
+            "Nursing",
+            "Nutrition",
+            "Odontology",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Faculty : Legal Studies",
+          "fields": [
+            "Law"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Técnico",
+          "fields": [
+            "Civil Engineering",
+            "Dietetics",
+            "Interior Design",
+            "Nutrition"
+          ]
+        },
+        {
+          "name": "Doctorado en Medicina / Odontología",
+          "fields": [
+            "Medicine",
+            "Odontology"
+          ]
+        },
+        {
+          "name": "Ingeniero",
+          "fields": [
+            "Civil Engineering",
+            "Computer Engineering",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Accountancy",
+            "Architecture",
+            "Business Administration",
+            "Hotel Management",
+            "Marketing",
+            "Mathematics Education",
+            "Native Language Education",
+            "Preschool Education",
+            "Primary Education",
+            "Psychology",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Especialidad",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Community Health",
+            "Computer Education",
+            "Computer Science",
+            "Education",
+            "Educational Administration",
+            "Health Sciences",
+            "History",
+            "Humanities and Social Science Education",
+            "Mathematics",
+            "Mathematics Education",
+            "Pedagogy",
+            "Science Education",
+            "Secondary Education"
+          ]
+        },
+        {
+          "name": "Maestría",
+          "fields": [
+            "Applied Linguistics",
+            "Civil Engineering",
+            "Construction Engineering",
+            "Dentistry",
+            "Educational Administration",
+            "Finance",
+            "Higher Education Teacher Training",
+            "Human Resources",
+            "Industrial Management",
+            "Law",
+            "Management",
+            "Marketing",
+            "Native Language Education",
+            "Natural Sciences",
+            "Taxation"
+          ]
+        },
+        {
+          "name": "Doctorado",
+          "fields": [
+            "Educational Sciences"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education, Science and Technology (Ministerio de Educación Superior, Ciencia y Tecnología-MESCYT).",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Rev. Fr. Dr. Isaac García de la Cruz"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Dr. Freddy Martínez"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Lucy Santos"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2025",
+        "Students Total:": "4000"
+      },
+      "history": "Universidad Catolica Nordestana (UCNE): A Legacy of Commitment and Vision Founded on March 14, 1978, the Universidad Católica Nordestana (UCNE) was born from the vision and dedication of a group of concerned citizens from San Francisco de Macorís. Their goal was clear: to foster the development of the northeastern region of the Dominican Republic through higher education. Initially recognized as Universidad Nordestana (UNNE) by the Executive Branch of the Dominican Republic under Decree No. 3487 on July 14, 1978, the institution was granted full legal authority to issue academic degrees with the same validity and recognition as those awarded by official autonomous universities. This recognition was based on Laws No. 273 (June 27, 1966) and No. 236 (December 23, 1967). Later, on August 18, 2001, the university was officially established as Universidad Católica Nordestana (UCNE) by Decree No. 87, issued by the Bishop of the Diocese of San Francisco de Macorís. This transformation followed an irrevocable resolution by the Fundación Universitaria Nordestana Inc., dated November 23, 2000. Today, UCNE stands as a non-profit Catholic institution of higher education. It is guided by the Diocese of San Francisco de Macorís and supported by the Fundación Universitaria Católica Nordestana, Inc. UCNE continues to stand as a beacon of academic excellence and social responsibility, in the region, throughout the nation and across the global academic community. ----- La Universidad Católica Nordestana (UCNE): Un Legado de Compromiso y Visión Fundada el 14 de marzo de 1978, la Universidad Católica Nordestana (UCNE) nació del compromiso y la visión de un grupo de ciudadanos preocupados de San Francisco de Macorís. Su objetivo era claro: fomentar el desarrollo de la región nordeste de la República Dominicana a través de la educación superior. Inicialmente reconocida como Universidad Nordestana (UNNE) por el Poder Ejecutivo de la República Dominicana mediante el Decreto No. 3487 del 14 de julio de 1978, la institución recibió plena autoridad legal para otorgar títulos académicos con la misma validez y reconocimiento que los conferidos por universidades oficiales autónomas. Este reconocimiento se basó en las Leyes No. 273 (27 de junio de 1966) y No. 236 (23 de diciembre de 1967). Posteriormente, el 18 de agosto de 2001, la universidad fue oficialmente establecida como Universidad Católica Nordestana (UCNE) mediante el Decreto No. 87, emitido por el Obispo de la Diócesis de San Francisco de Macorís. Esta transformación siguió a una resolución irrevocable de la Fundación Universitaria Nordestana Inc., fechada el 23 de noviembre de 2000. Hoy en día, la UCNE se mantiene como una institución católica sin fines de lucro dedicada a la educación superior. Está guiada por la Diócesis de San Francisco de Macorís y respaldada por la Fundación Universitaria Católica Nordestana, Inc. La UCNE continúa siendo un faro de excelencia académica y responsabilidad social en la región, en todo el país y en la comunidad académica global.",
+      "periodicals": [
+        "Ciencia Humanismo",
+        "Ciencia Humanismo"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "23552",
+      "iau_id": "IAU-023552",
+      "name": "OMG Specialized Institute in Research and Training in Legal Sciences",
+      "alt_name": "Instituto Especializado de Investigación y Formación en Ciencias Jurídicas – Instituto OMG (IOMG)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyxVLTMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-023552",
+      "address": {
+        "Street": "Rafael Augusto Sánchez 86Roble Corporate Center, Piso 9, Piantini",
+        "City": "Santo Domingo",
+        "Province": "Distrito Nacional",
+        "Post Code": "10148",
+        "WWW": "https://www.iomg.edu.do"
+      },
+      "website": "https://www.iomg.edu.do",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2008,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Business Transactions Law",
+          "fields": [
+            "Commercial Law"
+          ]
+        },
+        {
+          "name": "Course/Programme : Legal Strategies",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Course/Programme : Public Economic Law",
+          "fields": [
+            "Public Law"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Maestría",
+          "fields": [
+            "Commercial Law",
+            "Law",
+            "Public Law"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio de Educación Superior, Ciencia y Tecnología (MESCYT); Consejo Nacional de Educación Superior, Ciencia y Tecnología (CONESCYT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Belkis Guerrero Villalona"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Luis E. Aquino"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2008",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17113",
+      "iau_id": "IAU-017113",
+      "name": "Open University for Adults",
+      "alt_name": "Universidad Abierta para Adultos (UAPA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxRLDMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017113",
+      "address": {
+        "Street": "Av. Hispanoaméricana #100, Thomén",
+        "City": "Santiago de los Caballeros",
+        "Province": "Santiago",
+        "Post Code": "51000",
+        "WWW": "https://www.uapa.edu.do"
+      },
+      "website": "https://www.uapa.edu.do",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1995,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "January to December",
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "School : Business",
+          "fields": [
+            "Business Administration",
+            "Industrial and Organizational Psychology",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "School : Education",
+          "fields": [
+            "Education",
+            "Foreign Languages Education",
+            "Mathematics Education",
+            "Modern Languages",
+            "Physical Education",
+            "Science Education",
+            "Social Sciences",
+            "Spanish",
+            "Technology"
+          ]
+        },
+        {
+          "name": "School : Engineering and Technology",
+          "fields": [
+            "Computer Science",
+            "Technology"
+          ]
+        },
+        {
+          "name": "School : Law and Political Sciences",
+          "fields": [
+            "Law",
+            "Political Sciences"
+          ]
+        },
+        {
+          "name": "School : Posgraduate Studies",
+          "fields": [
+            "Business Administration",
+            "Computer Engineering",
+            "Education",
+            "History",
+            "Law",
+            "Psychology",
+            "Rehabilitation and Therapy",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "School : Psychology",
+          "fields": [
+            "Clinical Psychology",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "School : Tourism",
+          "fields": [
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Técnico",
+          "fields": [
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "Ingeniero",
+          "fields": [
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Clinical Psychology",
+            "Computer Science",
+            "Educational Psychology",
+            "Educational Sciences",
+            "Humanities and Social Science Education",
+            "Industrial and Organizational Psychology",
+            "Journalism",
+            "Law",
+            "Marketing",
+            "Mathematics Education",
+            "Modern Languages",
+            "Native Language Education",
+            "Nursing",
+            "Preschool Education",
+            "Primary Education",
+            "Psychology",
+            "Science Education",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Especialidad",
+          "fields": [
+            "Biology",
+            "Computer Education",
+            "Computer Science",
+            "Education",
+            "Educational Administration",
+            "History",
+            "Humanities and Social Science Education",
+            "Marketing",
+            "Mathematics",
+            "Mathematics Education",
+            "Native Language Education",
+            "Science Education",
+            "Secondary Education"
+          ]
+        },
+        {
+          "name": "Maestría",
+          "fields": [
+            "Business Administration",
+            "Civil Law",
+            "Clinical Psychology",
+            "Computer Engineering",
+            "Constitutional Law",
+            "Criminal Law",
+            "Distance Education",
+            "Education",
+            "Educational Administration",
+            "Educational Psychology",
+            "Educational Technology",
+            "Finance",
+            "History",
+            "Human Resources",
+            "Humanities and Social Science Education",
+            "Law",
+            "Management",
+            "Marketing",
+            "Preschool Education",
+            "Rehabilitation and Therapy",
+            "Taxation"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio de Educación Superior, Ciencia y Tecnología (MESCYT); Asociación Dominicana Para El Autoestudio y la Acreditación (ADAAC)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ángel Hernández"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Jovanny Rodríguez"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Mirian Acosta"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Luz Rosa Estrella"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1995",
+      "periodicals": [
+        "Revista Científica Educación Superior",
+        "Revista Científica Educación Superior"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "28217",
+      "iau_id": "IAU-028217",
+      "name": "Pedro Francisco Bonó Institute for Higher Studies in Humanities, Social Sciences and Philosophy",
+      "alt_name": "Instituto de Estudios Superiores en Humanidades, Ciencias Sociales y Filosofía Pedro Francisco Bonó – Instituto Superior Pedro Francisco Bonó (INSUBONO)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0BSLDM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-028217",
+      "address": {
+        "Street": "Calle Josefa Brea N°65, Mejoramiento Social",
+        "City": "Santo Domingo Este",
+        "Province": "Santo Domingo",
+        "WWW": "https://bono.edu.do"
+      },
+      "website": "https://bono.edu.do",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Integral, Human and Religious Teacher Training",
+          "fields": [
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Course/Programme : Philosophy",
+          "fields": [
+            "Philosophy"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Philosophy"
+          ]
+        },
+        {
+          "name": "Especialidad",
+          "fields": [
+            "Teacher Training"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio de Educación Superior, Ciencia y Tecnología (MESCYT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Cristhian Espinal"
+        }
+      ],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "18118",
+      "iau_id": "IAU-018118",
+      "name": "Pedro Henríquez Ureña National University",
+      "alt_name": "Universidad Nacional Pedro Henríquez Ureña (UNPHU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BRLDNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018118",
+      "address": {
+        "Street": "Av. John F. Kennedy Km 7 1/2Apartado Postal 1423",
+        "City": "Santo Domingo",
+        "Province": "Distrito Nacional",
+        "WWW": "https://www.unev.edu.do"
+      },
+      "website": "https://www.unev.edu.do",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1966,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "August to May (August-December; January-May)",
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Agricultural Sciences and Natural Resources",
+          "fields": [
+            "Agronomy",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Faculty : Architecture and Arts",
+          "fields": [
+            "Architecture",
+            "Design",
+            "Music"
+          ]
+        },
+        {
+          "name": "Faculty : Economics and Social Sciences",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Hotel Management",
+            "Marketing",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences",
+          "fields": [
+            "Dentistry",
+            "Medicine",
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Faculty : Humanities and Education",
+          "fields": [
+            "Education",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Faculty : Law and Political Sciences",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Science and Technology",
+          "fields": [
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Industrial Engineering",
+            "Surveying and Mapping"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Doctorado en Medicina / Odontología",
+          "fields": [
+            "Dentistry",
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Ingeniero",
+          "fields": [
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Industrial Engineering",
+            "Surveying and Mapping",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Accountancy",
+            "Agronomy",
+            "Architecture",
+            "Business Administration",
+            "Chemical Engineering",
+            "Clinical Psychology",
+            "Dentistry",
+            "Education",
+            "Educational Psychology",
+            "Hotel Management",
+            "Industrial and Organizational Psychology",
+            "Interior Design",
+            "Law",
+            "Marketing",
+            "Mathematics Education",
+            "Music",
+            "Psychology",
+            "Science Education",
+            "Secondary Education",
+            "Special Education",
+            "Tourism",
+            "Town Planning",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Especialidad",
+          "fields": [
+            "Construction Engineering",
+            "Curriculum",
+            "Educational Administration",
+            "Humanities and Social Science Education",
+            "Information Sciences",
+            "Library Science",
+            "Literacy Education",
+            "Mathematics Education",
+            "Native Language Education",
+            "Natural Sciences",
+            "Primary Education",
+            "Science Education",
+            "Secondary Education",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Maestría",
+          "fields": [
+            "Accountancy",
+            "Administrative Law",
+            "Architectural Restoration",
+            "Architecture",
+            "Bilingual and Bicultural Education",
+            "Business Administration",
+            "Clinical Psychology",
+            "Dentistry",
+            "Ecology",
+            "Educational and Student Counselling",
+            "Educational Technology",
+            "Environmental Engineering",
+            "Environmental Studies",
+            "Heritage Preservation",
+            "International Relations and Diplomacy",
+            "Management",
+            "Museum Studies",
+            "Natural Resources",
+            "Natural Sciences",
+            "Political Sciences",
+            "Public Administration",
+            "Sanitary Engineering",
+            "Surgery"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio de Educación Superior, Ciencia y Tecnología (MESCYT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Miguel R. Fiallo Calderón"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Daniela Franco de Guzmán"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Josefina Pepín"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1966",
+      "periodicals": [
+        "Cuadernos de Filosofía Cuadernos Jurídicos",
+        "Cuadernos de Filosofía",
+        "Cuadernos Jurídicos"
+      ],
+      "student_body": null
+    },
+    {
+      "id": "28218",
+      "iau_id": "IAU-028218",
+      "name": "Pedro Poveda Higher Institute of Educational Studies",
+      "alt_name": "Instituto Superior de Estudios Educativos Pedro Poveda (ISESP)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0BSLDNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-028218",
+      "address": {
+        "Street": "Avenida Isabel Aguiar 241",
+        "City": "Santo Domingo",
+        "Province": "Distrito Nacional",
+        "WWW": "https://www.isesp.edu.do"
+      },
+      "website": "https://www.isesp.edu.do",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2016,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Administrative and Pedagogical Management",
+          "fields": [
+            "Educational Administration"
+          ]
+        },
+        {
+          "name": "Course/Programme : Community Participation",
+          "fields": [
+            "Social and Community Services"
+          ]
+        },
+        {
+          "name": "Course/Programme : Reading, Writing and Mathematics for the First Cycle of Primary School",
+          "fields": [
+            "Literacy Education",
+            "Mathematics Education",
+            "Primary Education"
+          ]
+        },
+        {
+          "name": "Course/Programme : Research and Innovation in Educational Centres",
+          "fields": [
+            "Educational Research"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Especialidad",
+          "fields": [
+            "Literacy Education",
+            "Mathematics Education",
+            "Primary Education"
+          ]
+        },
+        {
+          "name": "Maestría",
+          "fields": [
+            "Educational Administration",
+            "Educational Research",
+            "Social and Community Services"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio de Educación Superior, Ciencia y Tecnología (MESCYT); Consejo Nacional de Educación Superior, Ciencia y Tecnología (CONESCYT)",
+      "officers": [],
+      "statistics": {},
+      "history": "Founded 2016",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "13665",
+      "iau_id": "IAU-013665",
+      "name": "Pontifical Catholic University Madre y Maestra",
+      "alt_name": "Pontificia Universidad Católica Madre y Maestra (PUCMM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyxWLUM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-013665",
+      "address": {
+        "Street": "Autopista Duarte Km 1 1/2",
+        "City": "Santiago de los Caballeros",
+        "Province": "Santiago",
+        "WWW": "https://www.pucmm.edu.do"
+      },
+      "website": "https://www.pucmm.edu.do",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1962,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "August to July",
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : Santo Domingo",
+          "fields": [
+            "Administration",
+            "Architecture",
+            "Arts and Humanities",
+            "Business Administration",
+            "Economics",
+            "Education",
+            "Engineering",
+            "Finance",
+            "Health Sciences",
+            "Law",
+            "Mass Communication",
+            "Natural Sciences",
+            "Psychology",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Economics and Administration",
+          "fields": [
+            "Business Administration",
+            "Economics",
+            "Finance",
+            "Hotel Management",
+            "Law",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences",
+          "fields": [
+            "Anaesthesiology",
+            "Cardiology",
+            "Gastroenterology",
+            "Health Sciences",
+            "Medicine",
+            "Nephrology",
+            "Nursing",
+            "Obstetrics and Gynaecology",
+            "Ophthalmology",
+            "Orthopaedics",
+            "Paediatrics",
+            "Pathology",
+            "Physical Therapy",
+            "Radiology",
+            "Stomatology",
+            "Surgery",
+            "Urology"
+          ]
+        },
+        {
+          "name": "Faculty : Sciences and Engineering",
+          "fields": [
+            "Civil Engineering",
+            "Computer Engineering",
+            "Electronic Engineering",
+            "Industrial Engineering",
+            "Systems Analysis",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Social Sciences, Humanities and Arts",
+          "fields": [
+            "Architecture",
+            "Communication Studies",
+            "Design",
+            "Ecology",
+            "Educational Administration",
+            "Environmental Management",
+            "Interior Design",
+            "Philosophy",
+            "Primary Education",
+            "Psychology",
+            "Spanish"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Técnico",
+          "fields": [
+            "Advertising and Publicity",
+            "Computer Science",
+            "Cooking and Catering",
+            "Data Science",
+            "Electronics and Automation",
+            "Finance",
+            "Graphic Design",
+            "Marketing",
+            "Multimedia",
+            "Nursing",
+            "Small Business",
+            "Social and Community Services",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Doctorado en Medicina / Odontología",
+          "fields": [
+            "Medicine",
+            "Stomatology"
+          ]
+        },
+        {
+          "name": "Ingeniero",
+          "fields": [
+            "Civil Engineering",
+            "Computer Engineering",
+            "Electrical Engineering",
+            "Electronics and Automation",
+            "Environmental Engineering",
+            "Industrial Engineering",
+            "Mechanical Engineering",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Architecture",
+            "Business Administration",
+            "Economics",
+            "Education",
+            "Finance",
+            "Hotel Management",
+            "Interior Design",
+            "Law",
+            "Marketing",
+            "Mass Communication",
+            "Philosophy",
+            "Physical Therapy",
+            "Psychology",
+            "Social Work",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Especialidad",
+          "fields": [
+            "Humanities and Social Science Education",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Maestría",
+          "fields": [
+            "Administration",
+            "Administrative Law",
+            "Architecture",
+            "Banking",
+            "Biomedicine",
+            "Business Administration",
+            "Business and Commerce",
+            "Canon Law",
+            "Caribbean Studies",
+            "Civil Law",
+            "Clinical Psychology",
+            "Commercial Law",
+            "Constitutional Law",
+            "Construction Engineering",
+            "Criminal Law",
+            "Criminology",
+            "Curriculum",
+            "Economics",
+            "Education",
+            "Educational Technology",
+            "Environmental Management",
+            "Finance",
+            "Food Science",
+            "Foreign Languages Education",
+            "Health Administration",
+            "History",
+            "Human Resources",
+            "Insurance",
+            "International Business",
+            "Literature",
+            "Management",
+            "Occupational Health",
+            "Preschool Education",
+            "Private Law",
+            "Safety Engineering",
+            "Social Policy",
+            "Spanish",
+            "Water Management"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio de Educación Superior, Ciencia y Tecnología (MESCYT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Secilio Espinal Espinal"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Julio Ferreira Tavera"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1962",
+      "periodicals": [
+        "Eme y Eme",
+        "Eme y Eme"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "8999",
+      "iau_id": "IAU-008999",
+      "name": "Salomé Ureña Teacher Training Institute",
+      "alt_name": "Instituto Superior de Formacion Docente Salomé Ureña (ISFODOSU)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uI0RZLjBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-008999",
+      "address": {
+        "Street": "Calle Caonabo esq. C/ Leonardo Da VinciUrbanización Renacimiento, Sector Mirador Sur",
+        "City": "Santo Domingo",
+        "Province": "Distrito Nacional",
+        "WWW": "http://www.isfodosu.edu.do"
+      },
+      "website": "http://www.isfodosu.edu.do",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2003,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Biology Education for Secondary Education",
+          "fields": [
+            "Science Education",
+            "Secondary Education"
+          ]
+        },
+        {
+          "name": "Course/Programme : Initial Education",
+          "fields": [
+            "Preschool Education"
+          ]
+        },
+        {
+          "name": "Course/Programme : Mathematics Education for Secondary Education",
+          "fields": [
+            "Mathematics Education",
+            "Secondary Education"
+          ]
+        },
+        {
+          "name": "Course/Programme : Physical Education",
+          "fields": [
+            "Physical Education"
+          ]
+        },
+        {
+          "name": "Course/Programme : Physical Education for Secondary Education",
+          "fields": [
+            "Physical Education",
+            "Secondary Education"
+          ]
+        },
+        {
+          "name": "Course/Programme : Primary Education (First Cycle)",
+          "fields": [
+            "Primary Education"
+          ]
+        },
+        {
+          "name": "Course/Programme : Primary Education (Second Cycle)",
+          "fields": [
+            "Primary Education"
+          ]
+        },
+        {
+          "name": "Course/Programme : Social Sciences Education for Secondary Education",
+          "fields": [
+            "Humanities and Social Science Education",
+            "Secondary Education"
+          ]
+        },
+        {
+          "name": "Course/Programme : Spanish Language and Literature Education",
+          "fields": [
+            "Foreign Languages Education",
+            "Humanities and Social Science Education"
+          ]
+        },
+        {
+          "name": "Department/Division : Postgraduate Studies",
+          "fields": [
+            "Distance Education",
+            "Education",
+            "Environmental Studies",
+            "Humanities and Social Science Education",
+            "Mathematics Education",
+            "Native Language Education",
+            "Physical Education",
+            "Preschool Education",
+            "Science Education"
+          ]
+        },
+        {
+          "name": "School : Directors Training",
+          "fields": [
+            "Educational Administration"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Educational Administration",
+            "Foreign Languages Education",
+            "Humanities and Social Science Education",
+            "Mathematics Education",
+            "Physical Education",
+            "Preschool Education",
+            "Primary Education",
+            "Science Education",
+            "Secondary Education"
+          ]
+        },
+        {
+          "name": "Especialidad",
+          "fields": [
+            "Education",
+            "Environmental Studies"
+          ]
+        },
+        {
+          "name": "Maestría",
+          "fields": [
+            "Distance Education",
+            "Education",
+            "Foreign Languages Education",
+            "Humanities and Social Science Education",
+            "Mathematics Education",
+            "Physical Education",
+            "Preschool Education",
+            "Science Education"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio de Educación Superior, Ciencia y Tecnología (MESCYT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Nurys del Carmen González Durán"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Rosa Kranwinkel"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2003",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "9166",
+      "iau_id": "IAU-009166",
+      "name": "Technological Institute of Santo Domingo",
+      "alt_name": "Instituto Tecnológico de Santo Domingo (INTEC)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMyRWLUBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009166",
+      "address": {
+        "Street": "Apartado postal 342-9 y 249-2Avenida de Los Próceres49, Los Jardines del Norte 10602",
+        "City": "Santo Domingo",
+        "Province": "Distrito Nacional",
+        "WWW": "https://www.intec.edu.do"
+      },
+      "website": "https://www.intec.edu.do",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1972,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "August to July",
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Area : Basic and Environmental Sciences",
+          "fields": [
+            "Biotechnology",
+            "Mathematics",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Area : Economics and Business",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Economics",
+            "International Business",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Area : Engineering",
+          "fields": [
+            "Civil Engineering",
+            "Computer Engineering",
+            "Electrical and Electronic Engineering",
+            "Engineering",
+            "Industrial Design",
+            "Mechanical Engineering",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Area : Health Sciences",
+          "fields": [
+            "Health Sciences",
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Area : Social Sciences and Humanities",
+          "fields": [
+            "Arts and Humanities",
+            "Philosophy",
+            "Psychology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Doctorado en Medicina / Odontología",
+          "fields": [
+            "Dentistry",
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Ingeniero",
+          "fields": [
+            "Biomedical Engineering",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Electronics and Automation",
+            "Industrial Design",
+            "Industrial Engineering",
+            "Mechanical Engineering",
+            "Software Engineering",
+            "Telecommunications Engineering",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Accountancy",
+            "Actuarial Science",
+            "Advertising and Publicity",
+            "Biochemistry",
+            "Biology",
+            "Biotechnology",
+            "Business Administration",
+            "Business and Commerce",
+            "Chemistry",
+            "Cinema and Television",
+            "Communication Studies",
+            "Data Science",
+            "E-Business/Commerce",
+            "Economics",
+            "Engineering",
+            "English",
+            "Finance",
+            "Foreign Languages Education",
+            "Humanities and Social Science Education",
+            "International Business",
+            "Marketing",
+            "Mass Communication",
+            "Mathematics",
+            "Mathematics Education",
+            "Media Studies",
+            "Modern Languages",
+            "Physics",
+            "Political Sciences",
+            "Psychology",
+            "Science Education",
+            "Secondary Education",
+            "Social Sciences",
+            "Spanish",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Especialidad",
+          "fields": [
+            "Actuarial Science",
+            "Applied Mathematics",
+            "Business and Commerce",
+            "Construction Engineering",
+            "Educational Administration",
+            "Energy Engineering",
+            "Environmental Studies",
+            "Human Resources",
+            "Humanities and Social Science Education",
+            "Mathematics Education",
+            "Medical Technology",
+            "Native Language Education",
+            "Nutrition",
+            "Pedagogy",
+            "Preschool Education",
+            "Science Education",
+            "Secondary Education",
+            "Social Problems",
+            "Statistics",
+            "Sustainable Development",
+            "Transport and Communications"
+          ]
+        },
+        {
+          "name": "Maestría",
+          "fields": [
+            "Applied Mathematics",
+            "Applied Physics",
+            "Business and Commerce",
+            "Cinema and Television",
+            "Clinical Psychology",
+            "Computer Engineering",
+            "Construction Engineering",
+            "Data Science",
+            "Development Studies",
+            "Economics",
+            "Education",
+            "Educational Administration",
+            "Educational Technology",
+            "Educational Testing and Evaluation",
+            "Energy Engineering",
+            "Engineering",
+            "Environmental Studies",
+            "Epidemiology",
+            "Finance",
+            "Gender Studies",
+            "Geological Engineering",
+            "Health Administration",
+            "Human Resources",
+            "Management",
+            "Marketing",
+            "Mass Communication",
+            "Nutrition",
+            "Obstetrics and Gynaecology",
+            "Paediatrics",
+            "Pedagogy",
+            "Production Engineering",
+            "Public Health",
+            "Safety Engineering",
+            "Service Trades",
+            "Social Sciences",
+            "Statistics",
+            "Structural Architecture",
+            "Telecommunications Engineering",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Doctorado",
+          "fields": [
+            "Civil Engineering",
+            "Communication Studies",
+            "Distance Education",
+            "Energy Engineering",
+            "Environmental Studies",
+            "Geological Engineering",
+            "Mathematics",
+            "Production Engineering",
+            "Social Sciences"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio de Educación Superior, Ciencia y Tecnología (MESCYT); Asociacion Dominicana para el Autoestudio y Acreditacion (ADAAC)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Julio Sánchez Maríñez"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Alliet Ortega Rabassa"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Arturo del Villar"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1972",
+      "periodicals": [
+        "Ciencia Y Sociedad Genero y Sociedad",
+        "Ciencia Y Sociedad",
+        "Genero y Sociedad"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "9193",
+      "iau_id": "IAU-009193",
+      "name": "Technological University of Eastern Cibao",
+      "alt_name": "Universidad Tecnológica del Cibao Oriental (UTECO)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMyRZLFBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009193",
+      "address": {
+        "Street": "Avenida Universitaria No. 100",
+        "City": "Cotuí",
+        "Province": "Sánchez Ramírez",
+        "Post Code": "43000",
+        "WWW": "https://uteco.edu.do"
+      },
+      "website": "https://uteco.edu.do",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1982,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Postgraduate and Continuing Education",
+          "fields": [
+            "Agricultural Engineering",
+            "Agronomy",
+            "Civil Engineering",
+            "Computer Science",
+            "Geological Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering and Natural Resources",
+          "fields": [
+            "Agricultural Engineering",
+            "Agronomy",
+            "Civil Engineering",
+            "Computer Science",
+            "Geological Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Law",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Sciences and Humanities",
+          "fields": [
+            "Biological and Life Sciences",
+            "Biology",
+            "Chemistry",
+            "Educational and Student Counselling",
+            "Humanities and Social Science Education",
+            "Mathematics",
+            "Physical Education",
+            "Physics",
+            "Preschool Education",
+            "Primary Education"
+          ]
+        },
+        {
+          "name": "School : Languages",
+          "fields": [
+            "English"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Técnico",
+          "fields": [
+            "Accountancy",
+            "Agronomy",
+            "Business Administration",
+            "Computer Science",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Ingeniero",
+          "fields": [
+            "Agricultural Engineering",
+            "Civil Engineering",
+            "Geological Engineering"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Biological and Life Sciences",
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Educational and Student Counselling",
+            "English",
+            "Humanities and Social Science Education",
+            "Law",
+            "Mathematics",
+            "Physical Education",
+            "Physics",
+            "Preschool Education",
+            "Primary Education"
+          ]
+        },
+        {
+          "name": "Especialidad",
+          "fields": [
+            "Biology",
+            "Business Administration",
+            "Computer Education",
+            "Computer Science",
+            "Geography (Human)",
+            "History",
+            "Humanities and Social Science Education",
+            "Mathematics",
+            "Mathematics Education",
+            "Physics",
+            "Science Education",
+            "Secondary Education"
+          ]
+        },
+        {
+          "name": "Maestría",
+          "fields": [
+            "Business Administration",
+            "Educational Administration",
+            "Human Resources",
+            "Mathematics",
+            "Occupational Health"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio de Educación Superior, Ciencia y Tecnología (MESCYT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Marilyn Díaz"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Herminio Vásquez"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1982 as Instituto Tecnológico del Cibao Oriental (ITECO). Acquired current status and title 2014",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "18419",
+      "iau_id": "IAU-018419",
+      "name": "Technological University of Santiago",
+      "alt_name": "Universidad Tecnológica de Santiago (UTESA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BULDNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018419",
+      "address": {
+        "Street": "Avenida Salvador Estrella SadhaláEsq. Avenida Circunvalación",
+        "City": "Santiago de los Caballeros",
+        "Province": "Santiago",
+        "WWW": "https://www.utesa.edu"
+      },
+      "website": "https://www.utesa.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1974,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "January to December (January-April; May-August; September-December)",
+      "languages": [
+        "Spanish",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : Dajabón",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Computer Engineering",
+            "Education",
+            "Hotel Management",
+            "Marketing",
+            "Modern Languages",
+            "Psychology",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Campus : Gaspar Hernández",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Computer Engineering",
+            "Education",
+            "Hotel Management",
+            "Marketing",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Campus : Mao",
+          "fields": [
+            "Accountancy",
+            "Agricultural Engineering",
+            "Business Administration",
+            "Computer Engineering",
+            "Education",
+            "Hotel Management",
+            "Industrial Engineering",
+            "Law",
+            "Marketing",
+            "Modern Languages",
+            "Nursing",
+            "Psychology",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Campus : Moca",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Computer Engineering",
+            "Education",
+            "Hotel Management",
+            "Industrial Engineering",
+            "Law",
+            "Marketing",
+            "Psychology",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Campus : Puerto Plata",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Computer Engineering",
+            "Education",
+            "Electronic Engineering",
+            "Hotel Management",
+            "Industrial Engineering",
+            "Law",
+            "Marketing",
+            "Mass Communication",
+            "Psychology",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Campus : Santiago",
+          "fields": [
+            "Accountancy",
+            "Animal Husbandry",
+            "Architecture",
+            "Biochemistry",
+            "Biological and Life Sciences",
+            "Business Administration",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Dentistry",
+            "Education",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Hotel Management",
+            "Industrial Engineering",
+            "Law",
+            "Marketing",
+            "Mass Communication",
+            "Mechanical Engineering",
+            "Medicine",
+            "Modern Languages",
+            "Nursing",
+            "Pharmacy",
+            "Psychology",
+            "Tourism",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Campus : Santo Domingo de Guzmán",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Computer Engineering",
+            "Education",
+            "Hotel Management",
+            "Law",
+            "Marketing",
+            "Mass Communication",
+            "Medicine",
+            "Modern Languages",
+            "Optometry",
+            "Psychology",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Campus : Santo Domingo Oriental",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Computer Engineering",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Hotel Management",
+            "Industrial Engineering",
+            "Law",
+            "Marketing",
+            "Mass Communication",
+            "Mechanical Engineering",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Architecture and Engineering",
+          "fields": [
+            "Architecture",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Industrial Engineering",
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Economics and Social Sciences",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Economics",
+            "Hotel Management",
+            "Marketing",
+            "Social Sciences",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences",
+          "fields": [
+            "Animal Husbandry",
+            "Biochemistry",
+            "Biological and Life Sciences",
+            "Dentistry",
+            "Medicine",
+            "Nursing",
+            "Pharmacology",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Faculty : Science and Humanities",
+          "fields": [
+            "Education",
+            "Law",
+            "Mass Communication",
+            "Modern Languages",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Graduate School : Santiago De Los Caballeros",
+          "fields": [
+            "Architecture",
+            "Business Administration",
+            "Education",
+            "Engineering",
+            "Health Sciences",
+            "Law",
+            "Mathematics",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Graduate School : Santo Domingo",
+          "fields": [
+            "Business Administration",
+            "Educational Sciences",
+            "Law",
+            "Mathematics",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Research Division : Agriculture, Animal Husbandry and Development",
+          "fields": [
+            "Agriculture",
+            "Animal Husbandry",
+            "Development Studies"
+          ]
+        },
+        {
+          "name": "Research Division : Bird Study and Development",
+          "fields": [
+            "Development Studies",
+            "Zoology"
+          ]
+        },
+        {
+          "name": "Research Division : Meat Processing and Development",
+          "fields": [
+            "Development Studies",
+            "Food Technology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Técnico",
+          "fields": [
+            "Interior Design",
+            "Marketing",
+            "Mass Communication"
+          ]
+        },
+        {
+          "name": "Doctorado en Medicina / Odontología",
+          "fields": [
+            "Dentistry",
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Ingeniero",
+          "fields": [
+            "Civil Engineering",
+            "Computer Engineering",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Industrial Engineering",
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Accountancy",
+            "Agriculture",
+            "Animal Husbandry",
+            "Architecture",
+            "Biochemistry",
+            "Biological and Life Sciences",
+            "Business Administration",
+            "Economics",
+            "Education",
+            "Hotel Management",
+            "Law",
+            "Marketing",
+            "Mass Communication",
+            "Modern Languages",
+            "Nursing",
+            "Pharmacology",
+            "Psychology",
+            "Social Sciences",
+            "Tourism",
+            "Veterinary Science",
+            "Zoology"
+          ]
+        },
+        {
+          "name": "Especialidad",
+          "fields": [
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Maestría",
+          "fields": [
+            "Accountancy",
+            "Administrative Law",
+            "Applied Linguistics",
+            "Architecture",
+            "Business Administration",
+            "Clinical Psychology",
+            "Commercial Law",
+            "Constitutional Law",
+            "Educational Administration",
+            "Educational Sciences",
+            "Educational Technology",
+            "Environmental Management",
+            "Epidemiology",
+            "Finance",
+            "Gender Studies",
+            "Government",
+            "Health Administration",
+            "Human Resources",
+            "Industrial and Organizational Psychology",
+            "International Law",
+            "Labour Law",
+            "Law",
+            "Management",
+            "Marketing",
+            "Mathematics",
+            "Private Law",
+            "Public Administration",
+            "Social Sciences",
+            "Tourism"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio de Educación Superior, Ciencia y Tecnología (MESCYT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Cándido E. Almánzar E."
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Solange Núñez"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "María Jesús Rodríguez González"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1974",
+      "periodicals": [
+        "Aves de mi Pais Codigo Penal Anotado Dominicano Curso de Trigonometria Plana y Esférica Desarrollo y Proyección de UTESA Diálogo Utesiano Educación para el Medio Ambiente Epigramas o Voces Folklóricas Hábitos, Métodos y Técnicas de Estudio Historia Económica Dominicana Introduccion a la Medicina Geriátrica La Educación Superior y sus Aspectos Organizativos Metodología de la Investigación Aplicada Neoliberalismo y Globalización Reflexiones sobre el Sistema Educativo Dominicano Reflexiones sobre: Educación y Desarrollo Revistas Universitarias Una Vida Dedicada a la Ciencia Versos Escolares Visión Educativa",
+        "Aves de mi Pais",
+        "Codigo Penal Anotado Dominicano",
+        "Curso de Trigonometria Plana y Esférica",
+        "Desarrollo y Proyección de UTESA",
+        "Diálogo Utesiano",
+        "Educación para el Medio Ambiente",
+        "Epigramas o Voces Folklóricas",
+        "Hábitos, Métodos y Técnicas de Estudio",
+        "Historia Económica Dominicana",
+        "Introduccion a la Medicina Geriátrica",
+        "La Educación Superior y sus Aspectos Organizativos",
+        "Metodología de la Investigación Aplicada",
+        "Neoliberalismo y Globalización",
+        "Reflexiones sobre el Sistema Educativo Dominicano",
+        "Reflexiones sobre: Educación y Desarrollo",
+        "Revistas Universitarias",
+        "Una Vida Dedicada a la Ciencia",
+        "Versos Escolares",
+        "Visión Educativa"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "23550",
+      "iau_id": "IAU-023550",
+      "name": "Technological University of the South",
+      "alt_name": "Universidad Tecnológica del Sur (UTESUR)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyxVLTNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-023550",
+      "address": {
+        "Street": "Av. Enriquillo No. 1, Barrio Mejoramiento Social",
+        "City": "Azua",
+        "Province": "Azua",
+        "Post Code": "71000",
+        "WWW": "http://www.utesur.edu.do"
+      },
+      "website": "http://www.utesur.edu.do",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1974,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "School : Accountancy",
+          "fields": [
+            "Accountancy"
+          ]
+        },
+        {
+          "name": "School : Agronomy",
+          "fields": [
+            "Agronomy"
+          ]
+        },
+        {
+          "name": "School : Bioanalysis",
+          "fields": [
+            "Biomedicine"
+          ]
+        },
+        {
+          "name": "School : Business Administration",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "School : Computer Science",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "School : Education",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "School : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "School : Marketing",
+          "fields": [
+            "Marketing"
+          ]
+        },
+        {
+          "name": "School : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "School : Psychology",
+          "fields": [
+            "Psychology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Accountancy",
+            "Agronomy",
+            "Biological and Life Sciences",
+            "Business Administration",
+            "Law",
+            "Marketing",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Especialidad",
+          "fields": [
+            "Education",
+            "Literacy Education",
+            "Mathematics",
+            "Mathematics Education",
+            "Native Language Education",
+            "Primary Education",
+            "Secondary Education"
+          ]
+        },
+        {
+          "name": "Maestría",
+          "fields": [
+            "Applied Linguistics",
+            "Educational Administration",
+            "Finance",
+            "Human Resources",
+            "Management",
+            "Marketing",
+            "Mathematics Education",
+            "Native Language Education",
+            "Taxation"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio de Educación Superior, Ciencia y Tecnología (MESCYT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Virgilio López Azuán"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2021-2022",
+        "Students Total:": "2513"
+      },
+      "history": "Founded 1974",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17639",
+      "iau_id": "IAU-017639",
+      "name": "University of the Caribbean",
+      "alt_name": "Universidad del Caribe (UNICARIBE)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxWLFNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017639",
+      "address": {
+        "Street": "Autopista 30 de mayo km 7½, Urbanización Tropical",
+        "City": "Santo Domingo",
+        "Province": "Distrito Nacional",
+        "WWW": "https://unicaribe.edu.do"
+      },
+      "website": "https://unicaribe.edu.do",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1995,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Accountancy",
+          "fields": [
+            "Accountancy"
+          ]
+        },
+        {
+          "name": "Course/Programme : Advertising",
+          "fields": [
+            "Advertising and Publicity"
+          ]
+        },
+        {
+          "name": "Course/Programme : Aeronautical Management",
+          "fields": [
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Business Administration",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Course/Programme : Clinical Psychology",
+          "fields": [
+            "Clinical Psychology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Computer Science",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Course/Programme : Cybersecurity Engineering",
+          "fields": [
+            "Computer Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Data Engineering and Organizational Intelligence",
+          "fields": [
+            "Data Science"
+          ]
+        },
+        {
+          "name": "Course/Programme : Digital Communication",
+          "fields": [
+            "Mass Communication"
+          ]
+        },
+        {
+          "name": "Course/Programme : Educational Psychology",
+          "fields": [
+            "Educational Psychology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Engineering in Networks and Telecommunications",
+          "fields": [
+            "Computer Networks",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Environmental Management and Renewable Energies",
+          "fields": [
+            "Environmental Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Hotel Management and Tourism / Hotel Administration",
+          "fields": [
+            "Hotel Management",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Course/Programme : Information Technology / Computing",
+          "fields": [
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Course/Programme : International Relations",
+          "fields": [
+            "International Relations and Diplomacy"
+          ]
+        },
+        {
+          "name": "Course/Programme : Journalism and Social Networks",
+          "fields": [
+            "Journalism",
+            "Mass Communication"
+          ]
+        },
+        {
+          "name": "Course/Programme : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Course/Programme : Management and Public Administration",
+          "fields": [
+            "Management",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "Course/Programme : Marketing",
+          "fields": [
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Course/Programme : Municipal Administration",
+          "fields": [
+            "Administration"
+          ]
+        },
+        {
+          "name": "Course/Programme : Organizational Psychology",
+          "fields": [
+            "Industrial and Organizational Psychology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Political Sciences",
+          "fields": [
+            "Political Sciences"
+          ]
+        },
+        {
+          "name": "Course/Programme : Port Administration",
+          "fields": [
+            "Marine Transport"
+          ]
+        },
+        {
+          "name": "Course/Programme : Preschool Education",
+          "fields": [
+            "Preschool Education"
+          ]
+        },
+        {
+          "name": "Course/Programme : Primary Education (First Cycle)",
+          "fields": [
+            "Primary Education"
+          ]
+        },
+        {
+          "name": "Course/Programme : Primary Education (Second Cycle)",
+          "fields": [
+            "Primary Education"
+          ]
+        },
+        {
+          "name": "Course/Programme : Software Engineering",
+          "fields": [
+            "Software Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Técnico",
+          "fields": [
+            "Administration",
+            "Computer Engineering",
+            "Cooking and Catering",
+            "Marine Transport",
+            "Taxation"
+          ]
+        },
+        {
+          "name": "Ingeniero",
+          "fields": [
+            "Computer Engineering",
+            "Data Science",
+            "Software Engineering",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Advertising and Publicity",
+            "Business Administration",
+            "Clinical Psychology",
+            "Computer Science",
+            "Educational Psychology",
+            "Environmental Management",
+            "Hotel Management",
+            "Industrial and Organizational Psychology",
+            "Information Technology",
+            "International Relations and Diplomacy",
+            "Journalism",
+            "Law",
+            "Management",
+            "Marine Transport",
+            "Marketing",
+            "Mass Communication",
+            "Political Sciences",
+            "Preschool Education",
+            "Primary Education",
+            "Public Administration",
+            "Tourism",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Especialidad",
+          "fields": [
+            "Educational and Student Counselling",
+            "Humanities and Social Science Education",
+            "Mathematics Education",
+            "Native Language Education",
+            "Science Education",
+            "Secondary Education"
+          ]
+        },
+        {
+          "name": "Maestría",
+          "fields": [
+            "Administration",
+            "Civil Law",
+            "Computer Engineering",
+            "Criminal Law",
+            "Information Technology",
+            "Preschool Education"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio de Educación Superior, Ciencia y Tecnología (MESCYT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Valerio Antonio García Reyes"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Ariadna Aybar Martin"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Rosa Anna Oviedo"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2021-2022",
+        "Students Total:": "29648"
+      },
+      "history": "Founded 1995",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17499",
+      "iau_id": "IAU-017499",
+      "name": "University of the Third Age",
+      "alt_name": "Universidad de la Tercera Edad (UTE)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxULjNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017499",
+      "address": {
+        "Street": "Calle Camila Henríquez UreñaEsq. Jesús Maestro, Mirador Norte",
+        "City": "Santo Domingo",
+        "Province": "Distrito Nacional",
+        "WWW": "https://www.ute.edu.do"
+      },
+      "website": "https://www.ute.edu.do",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1989,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Accountancy",
+          "fields": [
+            "Accountancy"
+          ]
+        },
+        {
+          "name": "Course/Programme : Arts",
+          "fields": [
+            "Design",
+            "Fine Arts",
+            "Interior Design"
+          ]
+        },
+        {
+          "name": "Course/Programme : Business Administration",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Course/Programme : Clinical Psychology",
+          "fields": [
+            "Clinical Psychology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Course/Programme : Marketing",
+          "fields": [
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Course/Programme : Mass Communication",
+          "fields": [
+            "Mass Communication"
+          ]
+        },
+        {
+          "name": "Course/Programme : Organizational Psychology",
+          "fields": [
+            "Industrial and Organizational Psychology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Political Sciences",
+          "fields": [
+            "Political Sciences"
+          ]
+        },
+        {
+          "name": "Course/Programme : Preschool Education",
+          "fields": [
+            "Preschool Education"
+          ]
+        },
+        {
+          "name": "Course/Programme : Primary Education",
+          "fields": [
+            "Primary Education"
+          ]
+        },
+        {
+          "name": "Course/Programme : Public Relations",
+          "fields": [
+            "Public Relations"
+          ]
+        },
+        {
+          "name": "Course/Programme : Secondary Education",
+          "fields": [
+            "Secondary Education"
+          ]
+        },
+        {
+          "name": "Department/Division : Postgraduate Studies",
+          "fields": [
+            "Clinical Psychology",
+            "Educational Administration",
+            "Educational and Student Counselling",
+            "Educational Psychology",
+            "Health Administration",
+            "Human Resources",
+            "International Law",
+            "International Relations and Diplomacy",
+            "Management",
+            "Social Welfare"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Clinical Psychology",
+            "Design",
+            "Fine Arts",
+            "Industrial and Organizational Psychology",
+            "Interior Design",
+            "Law",
+            "Marketing",
+            "Mass Communication",
+            "Political Sciences",
+            "Preschool Education",
+            "Primary Education",
+            "Public Relations",
+            "Secondary Education"
+          ]
+        },
+        {
+          "name": "Especialidad",
+          "fields": [
+            "Educational Administration",
+            "Educational and Student Counselling",
+            "Educational Psychology",
+            "Health Administration",
+            "Human Resources",
+            "Social Welfare"
+          ]
+        },
+        {
+          "name": "Maestría",
+          "fields": [
+            "Clinical Psychology",
+            "International Law",
+            "International Relations and Diplomacy",
+            "Management"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio de Educación Superior, Ciencia y Tecnología (MESCYT)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "José Nicolás Almanzar García"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1989. Acquired present status 1992",
+      "periodicals": [
+        "Scientific Magazine",
+        "Scientific Magazine"
+      ],
+      "student_body": "co-ed"
+    }
+  ]
+}

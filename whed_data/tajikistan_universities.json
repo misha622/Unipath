@@ -1,0 +1,2350 @@
+{
+  "country_name": "Tajikistan",
+  "country_id": "Tajikistan",
+  "institutions": [
+    {
+      "id": "75",
+      "iau_id": "IAU-000075",
+      "name": "Academy of the Ministry of Internal Affairs",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?JTo2MF0tUzRgCmAK",
+      "iau_link": "https://www.whed.net/institutions/IAU-000075",
+      "address": {
+        "Street": "ul. Vose 123",
+        "City": "Dušanbe",
+        "Post Code": "734024",
+        "WWW": "https://www.avkd.tj/ru/"
+      },
+      "website": "https://www.avkd.tj/ru/",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to July (September-January; March-July)",
+      "languages": [
+        "Tajik"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : History",
+          "fields": [
+            "History"
+          ]
+        },
+        {
+          "name": "Course/Programme : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : N°1",
+          "fields": [
+            "Administrative Law",
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : N°2",
+          "fields": [
+            "Justice Administration",
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : N°3",
+          "fields": [
+            "Civil Security",
+            "Criminology",
+            "Fire Science",
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : N°4",
+          "fields": [
+            "Administrative Law",
+            "Civil Security",
+            "Criminology",
+            "Fire Science",
+            "Justice Administration",
+            "Law"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Mutakhassis",
+          "fields": [
+            "Administrative Law",
+            "Civil Security",
+            "Criminology",
+            "Fire Science",
+            "Justice Administration",
+            "Law"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education of Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Faizali Sharifzoda"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded as Higher school of the Ministry of Internal Affairs, acquired present status and title 2000.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "16100",
+      "iau_id": "IAU-016100",
+      "name": "Avicenna Tajik State Medical University",
+      "alt_name": "Tajikskij Gosudarstvennyj Medicinskij Universitet – Tajik State Medical University named after Abu-Ali Ibn-Cina",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhRLCNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016100",
+      "address": {
+        "Street": "ul Sino 29-31",
+        "City": "Dušanbe",
+        "Post Code": "734003",
+        "WWW": "https://www.tajmedun.tj"
+      },
+      "website": "https://www.tajmedun.tj",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1939,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Tajik",
+        "Russian"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Dentistry",
+          "fields": [
+            "Dentistry",
+            "Stomatology"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Medicine",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Faculty : Pharmacy",
+          "fields": [
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Faculty : Public Health",
+          "fields": [
+            "Public Health"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalavr",
+          "fields": [
+            "Medicine",
+            "Paediatrics",
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Mutakhassis",
+          "fields": [
+            "Medicine",
+            "Paediatrics",
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Magistr",
+          "fields": [
+            "Dentistry",
+            "Epidemiology",
+            "Hygiene",
+            "Laboratory Techniques",
+            "Medicine",
+            "Microbiology",
+            "Neurology",
+            "Obstetrics and Gynaecology",
+            "Paediatrics",
+            "Pharmacy",
+            "Public Health",
+            "Surgery"
+          ]
+        },
+        {
+          "name": "Doctorontura",
+          "fields": []
+        }
+      ],
+      "accreditation": "Ministry of Health",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Nuriddin Davlatali Muhiddin"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Jamshed Saidbobo Dodkhoh"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Khuseyn Nazar Nazarzoda"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1939, acquired present status 1993.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "16093",
+      "iau_id": "IAU-016093",
+      "name": "Islamic Institute of Tajikistan named after Imam Azam Abukhanifa",
+      "alt_name": "Islamic Institute of Tajikistan named after the Great Imam Abu Hanifa",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhQLjMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016093",
+      "address": {
+        "Street": "st. Shodmoni 58/1",
+        "City": "Dušanbe",
+        "Post Code": "734003",
+        "WWW": "http://dit.tj"
+      },
+      "website": "http://dit.tj",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1997,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Tajik"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Islamic Sciences",
+          "fields": [
+            "Islamic Studies",
+            "Koran"
+          ]
+        },
+        {
+          "name": "Faculty : Oriental Philology",
+          "fields": [
+            "Arabic",
+            "History",
+            "Linguistics",
+            "Religion"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalavr",
+          "fields": []
+        },
+        {
+          "name": "Magistr",
+          "fields": []
+        }
+      ],
+      "accreditation": "Ministry of Education of Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Tojiddin Asomuddinzoda"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1997 as Islamic University of Alimam Tirmizi, acquired current status and title 2007",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "7569",
+      "iau_id": "IAU-007569",
+      "name": "Khorog State University named after Moyonsho Nazarshoev",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tUzRWLjBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007569",
+      "address": {
+        "Street": "Lenin Street 22",
+        "City": "Khorog",
+        "Post Code": "736000",
+        "WWW": "http://www.khogu.org"
+      },
+      "website": "http://www.khogu.org",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1992,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [],
+      "faculties": [
+        {
+          "name": "Faculty : Biology",
+          "fields": [
+            "Biology"
+          ]
+        },
+        {
+          "name": "Faculty : Economics",
+          "fields": [
+            "Economics",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Foreign Languages",
+          "fields": [
+            "English",
+            "Russian"
+          ]
+        },
+        {
+          "name": "Faculty : History and Law",
+          "fields": [
+            "History",
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Mathematics",
+          "fields": [
+            "Mathematics"
+          ]
+        },
+        {
+          "name": "Faculty : Natural Sciences",
+          "fields": [
+            "Geology",
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Philology",
+          "fields": [
+            "Philology"
+          ]
+        },
+        {
+          "name": "Faculty : Physics",
+          "fields": [
+            "Physics"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalavr",
+          "fields": [
+            "2014-2015"
+          ]
+        },
+        {
+          "name": "Magistr",
+          "fields": [
+            "2014-2015"
+          ]
+        },
+        {
+          "name": "Doctorontura",
+          "fields": [
+            "2014-2015"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education of Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Imomerbek Kalandarbekov"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Akbar A. Mamadrizokhonov"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2014-2015",
+        "Students Total:": "4000"
+      },
+      "history": "Founded 1992.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "3864",
+      "iau_id": "IAU-003864",
+      "name": "Khujand Polytechnical Institute of Tajik Technical University named after M.Osimi",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sU0BWLWBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003864",
+      "address": {
+        "Street": "Lenin St. 226",
+        "City": "Khujand",
+        "Province": "Sughd",
+        "Post Code": "735700",
+        "WWW": "http://www.kbtut.tj"
+      },
+      "website": "http://www.kbtut.tj",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1992,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Tajik"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Physics and Mathematics",
+          "fields": [
+            "Mathematics",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Department/Division : State Language and the Humanities",
+          "fields": [
+            "Arts and Humanities",
+            "History",
+            "Oriental Languages",
+            "Philology",
+            "Philosophy"
+          ]
+        },
+        {
+          "name": "Faculty : Construction and Transport",
+          "fields": [
+            "Agricultural Engineering",
+            "Architecture",
+            "Building Technologies",
+            "Construction Engineering",
+            "Electronics and Automation",
+            "Textile Technology",
+            "Transport Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Economics and Management",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Economics",
+            "Finance",
+            "International Business",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering and Energy",
+          "fields": [
+            "Electronics and Automation",
+            "Foreign Languages Education",
+            "Modern Languages",
+            "Power Engineering",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Technological and Information",
+          "fields": [
+            "Engineering",
+            "Information Technology",
+            "Software Engineering",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Technology",
+          "fields": [
+            "Agriculture",
+            "Analytical Chemistry",
+            "Biochemistry",
+            "Chemical Engineering",
+            "Food Technology",
+            "Inorganic Chemistry",
+            "Mechanical Engineering",
+            "Microbiology",
+            "Organic Chemistry",
+            "Textile Technology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Magistr",
+          "fields": [
+            "Architecture",
+            "Civil Engineering",
+            "Economics",
+            "Electrical Engineering",
+            "Electronics and Automation",
+            "Finance",
+            "Food Technology",
+            "Information Technology",
+            "Maintenance Technology",
+            "Management",
+            "Power Engineering",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Doctorontura",
+          "fields": [
+            "Computer Science",
+            "Economics",
+            "Management"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education of Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Sanginova Dilafruz"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Shuhrat Maqsudov"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2014-2015",
+        "Students Total:": "3850"
+      },
+      "history": "Founded 1992 as Branch of Technological University of Tajikistan, acquired present status, 1996. Acquired present title and status by merging with the branch of the Tajik Technical University in Khujand, 2010.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "3860",
+      "iau_id": "IAU-003860",
+      "name": "Khujand State University named after academician Bobojon Gafurov",
+      "alt_name": "Donishgohi Davlatii Hujand ʙa nomi akademik Bobodžon Gafurov",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sU0BWLGBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003860",
+      "address": {
+        "Street": "pr. Mavlanbekova 1",
+        "City": "Hujand",
+        "Post Code": "735700",
+        "WWW": "https://hgu.tj"
+      },
+      "website": "https://hgu.tj",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1932,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Tajik",
+        "Russian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Art",
+          "fields": [
+            "Fine Arts",
+            "Music",
+            "Painting and Drawing",
+            "Printing and Printmaking"
+          ]
+        },
+        {
+          "name": "Faculty : Art and Graphic Art",
+          "fields": [
+            "Graphic Arts",
+            "Painting and Drawing"
+          ]
+        },
+        {
+          "name": "Faculty : Cybernetics and World Economics",
+          "fields": [
+            "Economics",
+            "International Economics"
+          ]
+        },
+        {
+          "name": "Faculty : Environmental Studies",
+          "fields": [
+            "Environmental Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Finance and Marketing Economy",
+          "fields": [
+            "Accountancy",
+            "Economics",
+            "Finance",
+            "Human Resources",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Foreign Languages",
+          "fields": [
+            "Arabic",
+            "English",
+            "German",
+            "Persian"
+          ]
+        },
+        {
+          "name": "Faculty : History",
+          "fields": [
+            "History"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Mathematics",
+          "fields": [
+            "Mathematics"
+          ]
+        },
+        {
+          "name": "Faculty : Oriental Studies - Eastern Languages",
+          "fields": [
+            "Oriental Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Pedagogy",
+          "fields": [
+            "Pedagogy"
+          ]
+        },
+        {
+          "name": "Faculty : Physics and Technology",
+          "fields": [
+            "Applied Physics",
+            "Astrophysics",
+            "Nuclear Physics",
+            "Radiophysics"
+          ]
+        },
+        {
+          "name": "Faculty : Russian Language and Literature",
+          "fields": [
+            "Russian"
+          ]
+        },
+        {
+          "name": "Faculty : Tajik Philology",
+          "fields": [
+            "Native Language",
+            "Philology"
+          ]
+        },
+        {
+          "name": "Faculty : Uzbek Philology",
+          "fields": [
+            "Philology"
+          ]
+        },
+        {
+          "name": "Institute : Management and Computer Technology",
+          "fields": [
+            "Banking",
+            "Business Administration",
+            "Business and Commerce",
+            "Computer Engineering",
+            "International Relations and Diplomacy",
+            "Marketing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalavr",
+          "fields": []
+        },
+        {
+          "name": "Magistr",
+          "fields": []
+        },
+        {
+          "name": "Doctorontura",
+          "fields": []
+        }
+      ],
+      "accreditation": "Ministry of Education of Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Mirzotohir Sayfiddin Nabizoda"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Guzalkhon Mahmudjonovna Mirsaminova"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1932 as High Pedagogical Institute. During the Soviet era, Khujand State University was known as Leninabad State Pedagogical Institute. Acquired present status and title 1991.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "10591",
+      "iau_id": "IAU-010591",
+      "name": "Kulob State University named after Abuabdullohi Rudaki",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM2BVLjMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-010591",
+      "address": {
+        "Street": "16 S. Safarov Street",
+        "City": "Kulob",
+        "Post Code": "735360",
+        "WWW": "https://new.kgu.tj/tj"
+      },
+      "website": "https://new.kgu.tj/tj",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1945,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Tajik"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Basic and Physical Education",
+          "fields": [
+            "Pedagogy",
+            "Physical Education",
+            "Primary Education"
+          ]
+        },
+        {
+          "name": "Faculty : Chemistry, Biology and Geography",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Geography"
+          ]
+        },
+        {
+          "name": "Faculty : Economics and Management",
+          "fields": [
+            "Economics",
+            "Management"
+          ]
+        },
+        {
+          "name": "Faculty : Finance and Economics",
+          "fields": [
+            "Banking",
+            "Economics",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Faculty : Foreign Philology",
+          "fields": [
+            "Modern Languages",
+            "Philology"
+          ]
+        },
+        {
+          "name": "Faculty : History and International Relations",
+          "fields": [
+            "History",
+            "International Relations and Diplomacy",
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Physics, Mathematics and Computer Sciences",
+          "fields": [
+            "Computer Science",
+            "Mathematics",
+            "Mathematics and Computer Science",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Faculty : Russian Philology",
+          "fields": [
+            "Philology",
+            "Russian"
+          ]
+        },
+        {
+          "name": "Faculty : Tajik Philology and Journalism",
+          "fields": [
+            "Journalism",
+            "Philology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalavr",
+          "fields": [
+            "Accountancy",
+            "Applied Mathematics",
+            "Banking",
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "English",
+            "Geography",
+            "History",
+            "International Relations and Diplomacy",
+            "Journalism",
+            "Management",
+            "Marketing",
+            "Mathematics",
+            "Philosophy",
+            "Physical Education",
+            "Physics",
+            "Primary Education",
+            "Psychology",
+            "Public Administration",
+            "Russian",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Magistr",
+          "fields": [
+            "Accountancy",
+            "Applied Mathematics",
+            "Banking",
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "English",
+            "Geography",
+            "History",
+            "International Relations and Diplomacy",
+            "Journalism",
+            "Management",
+            "Marketing",
+            "Mathematics",
+            "Philosophy",
+            "Physical Education",
+            "Physics",
+            "Primary Education",
+            "Psychology",
+            "Public Administration",
+            "Russian",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Doctorontura",
+          "fields": [
+            "Accountancy",
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Economics",
+            "Finance",
+            "Foreign Languages Education",
+            "Geography",
+            "History",
+            "Journalism",
+            "Linguistics",
+            "Literature",
+            "Management",
+            "Marketing",
+            "Mathematics Education",
+            "Native Language Education",
+            "Pedagogy",
+            "Philology",
+            "Philosophy",
+            "Physical Education",
+            "Physics",
+            "Political Sciences",
+            "Primary Education",
+            "Science Education",
+            "Wood Technology"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education of Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Munir Vatan Safarzoda"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1945. Acquired present status and title 1992.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "14098",
+      "iau_id": "IAU-014098",
+      "name": "Russian Tajik Slavonic University",
+      "alt_name": "Rossijsko Tadžikskij Slavjanskij Universitet (RTSU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzBQLjNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-014098",
+      "address": {
+        "Street": "ul. M. Tursunzade 30",
+        "City": "Dušanbe",
+        "Post Code": "734025",
+        "WWW": "https://www.rtsu.tj"
+      },
+      "website": "https://www.rtsu.tj",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1996,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June.",
+      "languages": [
+        "Russian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Economics and Management",
+          "fields": [
+            "Economics",
+            "Finance",
+            "Management",
+            "Taxation",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Foreign Languages",
+          "fields": [
+            "Linguistics",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Faculty : History and International Relations",
+          "fields": [
+            "Cultural Studies",
+            "History",
+            "International Relations and Diplomacy",
+            "Political Sciences",
+            "Regional Studies",
+            "Social Work",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Faculty : Natural Sciences",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Faculty : Russian Philology, Journalism and Media Technology",
+          "fields": [
+            "Journalism",
+            "Linguistics",
+            "Mass Communication",
+            "Media Studies",
+            "Philology",
+            "Preschool Education",
+            "Primary Education",
+            "Russian"
+          ]
+        },
+        {
+          "name": "School : Law",
+          "fields": [
+            "Civil Security",
+            "Law",
+            "Private Law"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalavr",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Cultural Studies",
+            "Economics",
+            "History",
+            "International Relations and Diplomacy",
+            "Journalism",
+            "Law",
+            "Linguistics",
+            "Management",
+            "Mathematics",
+            "Philology",
+            "Physics",
+            "Preschool Education",
+            "Primary Education",
+            "Regional Studies",
+            "Russian",
+            "Sociology",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Mutakhassis",
+          "fields": [
+            "Civil Security",
+            "Taxation",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Magistr",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Cultural Studies",
+            "Economics",
+            "Finance",
+            "History",
+            "International Relations and Diplomacy",
+            "Journalism",
+            "Law",
+            "Linguistics",
+            "Management",
+            "Mathematics",
+            "Philology",
+            "Physics",
+            "Regional Studies",
+            "Social Work",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Doctorontura",
+          "fields": [
+            "Economics",
+            "History",
+            "International Relations and Diplomacy",
+            "Linguistics",
+            "Mass Communication",
+            "Political Sciences",
+            "Private Law"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Sciences of the Russian Federation",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ilhomuddin Rajabali Ibrokhimzoda"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Bakhodur Shovali Saidamirzoda"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Bakhtovar Kudratullo Kudratullozoda"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1996",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "16101",
+      "iau_id": "IAU-016101",
+      "name": "Tajik National University",
+      "alt_name": "Tajikskij Nationalnij Universitet",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhRLCMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016101",
+      "address": {
+        "Street": "prosp. Rudaki 17",
+        "City": "Dušanbe",
+        "Post Code": "734025",
+        "WWW": "http://www.tnu.tj"
+      },
+      "website": "http://www.tnu.tj",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1948,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to July (September-January; February-July)",
+      "languages": [
+        "Russian",
+        "Tajik",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Ecology",
+          "fields": [
+            "Ecology"
+          ]
+        },
+        {
+          "name": "Department/Division : Military Training",
+          "fields": [
+            "Military Science"
+          ]
+        },
+        {
+          "name": "Department/Division : Pedagogy",
+          "fields": [
+            "Pedagogy"
+          ]
+        },
+        {
+          "name": "Department/Division : Physical Education and Hygiene",
+          "fields": [
+            "Hygiene",
+            "Physical Education"
+          ]
+        },
+        {
+          "name": "Faculty : Accountancy",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Finance",
+            "International Economics",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Faculty : Asia and Europe",
+          "fields": [
+            "Asian Studies",
+            "European Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Biology",
+          "fields": [
+            "Biochemistry",
+            "Biology",
+            "Botany",
+            "Ecology",
+            "Zoology"
+          ]
+        },
+        {
+          "name": "Faculty : Chemistry",
+          "fields": [
+            "Analytical Chemistry",
+            "Chemistry",
+            "Inorganic Chemistry",
+            "Organic Chemistry",
+            "Physical Chemistry"
+          ]
+        },
+        {
+          "name": "Faculty : Finance and Economics",
+          "fields": [
+            "Agricultural Economics",
+            "Business Administration",
+            "Economic and Finance Policy",
+            "Economics",
+            "Electronics and Automation",
+            "Finance",
+            "Government",
+            "Labour and Industrial Relations",
+            "Management"
+          ]
+        },
+        {
+          "name": "Faculty : Geology",
+          "fields": [
+            "Geology",
+            "Mineralogy",
+            "Petrology"
+          ]
+        },
+        {
+          "name": "Faculty : History",
+          "fields": [
+            "African Studies",
+            "Asian Studies",
+            "Contemporary History",
+            "History",
+            "International Relations and Diplomacy",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Faculty : International Cooperation",
+          "fields": [
+            "International Relations and Diplomacy",
+            "Political Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Journalism",
+          "fields": [
+            "Arabic",
+            "English",
+            "German",
+            "Journalism",
+            "Mass Communication",
+            "Radio and Television Broadcasting",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "International Law",
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Mechanics and Mathematics",
+          "fields": [
+            "Applied Mathematics",
+            "Computer Science",
+            "Mathematics",
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine and Pharmacy",
+          "fields": [
+            "Medicine",
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Faculty : Phillology",
+          "fields": [
+            "Arabic",
+            "English",
+            "French",
+            "German",
+            "Hindi",
+            "Linguistics",
+            "Literature",
+            "Modern Languages",
+            "Oriental Languages",
+            "Persian"
+          ]
+        },
+        {
+          "name": "Faculty : Philosophy",
+          "fields": [
+            "Philosophy"
+          ]
+        },
+        {
+          "name": "Faculty : Physics",
+          "fields": [
+            "Astronomy and Space Science",
+            "Electronic Engineering",
+            "Meteorology",
+            "Nuclear Physics",
+            "Optics",
+            "Physics",
+            "Polymer and Plastics Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Russian Language and Literature",
+          "fields": [
+            "Literature",
+            "Modern Languages",
+            "Philology",
+            "Russian"
+          ]
+        },
+        {
+          "name": "Research Division : Automation System Studies",
+          "fields": [
+            "Electronics and Automation"
+          ]
+        },
+        {
+          "name": "Research Division : Biochemistry",
+          "fields": [
+            "Biochemistry"
+          ]
+        },
+        {
+          "name": "Research Division : Co-ordination Chemistry",
+          "fields": [
+            "Chemistry"
+          ]
+        },
+        {
+          "name": "Research Division : Fermentology",
+          "fields": [
+            "Biological and Life Sciences"
+          ]
+        },
+        {
+          "name": "Research Division : Human and Animal Physiology",
+          "fields": [
+            "Physiology"
+          ]
+        },
+        {
+          "name": "Research Division : Mathematical Modelling of Growth and Development",
+          "fields": [
+            "Applied Mathematics"
+          ]
+        },
+        {
+          "name": "Research Division : Peptides",
+          "fields": [
+            "Chemistry"
+          ]
+        },
+        {
+          "name": "Research Division : Physics of Polymer Strength",
+          "fields": [
+            "Physics",
+            "Polymer and Plastics Technology"
+          ]
+        },
+        {
+          "name": "Research Division : Radioactive Nuclear Chemistry",
+          "fields": [
+            "Chemistry"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalavr",
+          "fields": []
+        },
+        {
+          "name": "Magistr",
+          "fields": []
+        }
+      ],
+      "accreditation": "Ministry of Education of Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Mahmaisuf Sajdalievich Imomov"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1948 with two Faculties. Placed under the authority of the Union-Republic State Committee for Public Education which determines the budget, decides on staff and student numbers, and provides general, scientific, and methodological direction. Acquired present status and title 1997.",
+      "periodicals": [
+        "April Conference Journal Vestnik Tajikskogo Gosudarstvennojo Universita",
+        "April Conference Journal",
+        "Vestnik Tajikskogo Gosudarstvennojo Universita"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "16098",
+      "iau_id": "IAU-016098",
+      "name": "Tajik State Agricultural University named after Shirinsho Shotemu",
+      "alt_name": "Tajikskij Agrarnij Universitet",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhQLjNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016098",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "3866",
+      "iau_id": "IAU-003866",
+      "name": "Tajik State Institute of Arts named after Mirzo Tursunzade",
+      "alt_name": "Donishkadai Davlatii Sanati Tojikiston",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sU0BWLUBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003866",
+      "address": {
+        "Street": "ul. Borbad 73a",
+        "City": "Dušanbe",
+        "Post Code": "734032"
+      },
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1973,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Russian",
+        "Tajik"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Cultural Studies",
+          "fields": [
+            "Cultural Studies",
+            "Management",
+            "Museum Studies",
+            "Theatre",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Library Science",
+          "fields": [
+            "Library Science"
+          ]
+        },
+        {
+          "name": "Faculty : Music Pedagogy",
+          "fields": [
+            "Conducting",
+            "Music",
+            "Music Education",
+            "Music Theory and Composition",
+            "Musicology",
+            "Sound Engineering (Acoustics)"
+          ]
+        },
+        {
+          "name": "Faculty : Theatre",
+          "fields": [
+            "Acting",
+            "Journalism",
+            "Painting and Drawing",
+            "Radio and Television Broadcasting",
+            "Theatre"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalavr",
+          "fields": []
+        },
+        {
+          "name": "Mutakhassis",
+          "fields": []
+        },
+        {
+          "name": "Magistr",
+          "fields": []
+        }
+      ],
+      "accreditation": "Ministry of Education of Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Dilovar Latipov"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1973. Acquired present status and title 1978.",
+      "periodicals": [
+        "Olami Hunar",
+        "Olami Hunar"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "16094",
+      "iau_id": "IAU-016094",
+      "name": "Tajik State Institute of Languages",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhQLjMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016094",
+      "address": {
+        "Street": "ul. F. Muhammadieva 13",
+        "City": "Dušanbe",
+        "Post Code": "734064"
+      },
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1980,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Tajik",
+        "Russian"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Foreign Languages",
+          "fields": [
+            "Modern Languages"
+          ]
+        },
+        {
+          "name": "Faculty : Philology",
+          "fields": [
+            "Philology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalavr",
+          "fields": [
+            "Philology"
+          ]
+        },
+        {
+          "name": "Mutakhassis",
+          "fields": [
+            "Philology"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education of Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Khurshed Ziyoyev"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1980 as Tajik State Pedagogical Institute of Russian Language and Literature, acquired present status and title 1992.",
+      "periodicals": [
+        "Ganginai Sukhan",
+        "Ganginai Sukhan"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "16095",
+      "iau_id": "IAU-016095",
+      "name": "Tajik State Pedagogical University named after S. Ayni",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhQLjM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016095",
+      "address": {
+        "Street": "prosp. Rudaki 121",
+        "City": "Dušanbe",
+        "Post Code": "734001",
+        "WWW": "http://www.tgpu.tj"
+      },
+      "website": "http://www.tgpu.tj",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1931,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [],
+      "faculties": [
+        {
+          "name": "Campus : Rasht District",
+          "fields": [
+            "Mathematics",
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Economics and Management",
+          "fields": [
+            "Economics",
+            "Management"
+          ]
+        },
+        {
+          "name": "Faculty : History",
+          "fields": [
+            "History"
+          ]
+        },
+        {
+          "name": "Faculty : Mathematics",
+          "fields": [
+            "Mathematics"
+          ]
+        },
+        {
+          "name": "Faculty : Pedagogics",
+          "fields": [
+            "Pedagogy"
+          ]
+        },
+        {
+          "name": "Faculty : Philology",
+          "fields": [
+            "Modern Languages",
+            "Native Language"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalavr",
+          "fields": []
+        },
+        {
+          "name": "Magistr",
+          "fields": []
+        }
+      ],
+      "accreditation": "Ministry of Education of Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Nosir Solimov"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1931.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "16096",
+      "iau_id": "IAU-016096",
+      "name": "Tajik State University of Commerce",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhQLjM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016096",
+      "address": {
+        "Street": "ul. Dehoti 1/2",
+        "City": "Dušanbe",
+        "Post Code": "734061",
+        "WWW": "https://www.tguk.tj"
+      },
+      "website": "https://www.tguk.tj",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1991,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June",
+      "languages": [
+        "Russian",
+        "Tajik"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Economics and Commerce",
+          "fields": [
+            "Accountancy",
+            "Business and Commerce",
+            "Business Computing",
+            "Economics",
+            "Finance",
+            "International Economics",
+            "Law",
+            "Mathematics"
+          ]
+        },
+        {
+          "name": "Faculty : Finance and Credit",
+          "fields": [
+            "Banking",
+            "Finance",
+            "Hotel and Restaurant",
+            "Hotel Management",
+            "Insurance",
+            "Management",
+            "Statistics",
+            "Taxation",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : International Economic Relations, Law and Customs",
+          "fields": [
+            "Business and Commerce",
+            "Commercial Law",
+            "Economics",
+            "Fiscal Law",
+            "International Business",
+            "International Economics",
+            "International Relations and Diplomacy",
+            "Taxation"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalavr",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Economics",
+            "Finance",
+            "Industrial Management",
+            "International Economics",
+            "Management"
+          ]
+        },
+        {
+          "name": "Magistr",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Economics",
+            "Finance",
+            "Industrial Management",
+            "International Economics",
+            "Management"
+          ]
+        },
+        {
+          "name": "Aspirantura",
+          "fields": [
+            "Economics"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education of Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Khairullo Kholnazar. Nazarzoda"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1991 as Tajik Commercial Institute. Acquired present name and status 2000.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "23194",
+      "iau_id": "IAU-023194",
+      "name": "Tajik State University of Finance and Economics",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyxRLjMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-023194",
+      "address": {
+        "Street": "Nakhimov St., 64/14",
+        "City": "Dušanbe",
+        "Post Code": "734064",
+        "WWW": "https://tgfeu.tj"
+      },
+      "website": "https://tgfeu.tj",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1942,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Tajik"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Accountancy and Statistics",
+          "fields": [
+            "Accountancy",
+            "Economics",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Faculty : Economics and Business",
+          "fields": [
+            "Economics",
+            "Insurance",
+            "Management"
+          ]
+        },
+        {
+          "name": "Faculty : Finance and Credit",
+          "fields": [
+            "Banking",
+            "Finance",
+            "Taxation"
+          ]
+        },
+        {
+          "name": "Faculty : Information Technology in Economics",
+          "fields": [
+            "Applied Mathematics",
+            "Business Computing",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Faculty : International Economics Relations",
+          "fields": [
+            "International Business",
+            "International Economics",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Faculty : Management and Financial Law",
+          "fields": [
+            "Commercial Law",
+            "Economics",
+            "Fiscal Law",
+            "Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalavr",
+          "fields": [
+            "Accountancy",
+            "Applied Mathematics",
+            "Banking",
+            "Business Computing",
+            "Commercial Law",
+            "Economics",
+            "Finance",
+            "Fiscal Law",
+            "Information Technology",
+            "Insurance",
+            "International Business",
+            "International Economics",
+            "Management",
+            "Statistics",
+            "Taxation",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Magistr",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Economics",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Doctorontura",
+          "fields": [
+            "Accountancy",
+            "Economics",
+            "Finance",
+            "International Economics",
+            "Mathematics",
+            "Statistics"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education of Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Bobojon Abdujabbor Sattorzoda"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1942 as Finance and Economics College, became a branch of the All-Union Correspondence Financial College in 1957, became Dushanbe Technical School of Finance and Economics in 1973, became Tajik Financial Institute in 2009, then Finance and Economics Institute of Tajikistan in 2012. Acquired current status and title 2018.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "3865",
+      "iau_id": "IAU-003865",
+      "name": "Tajik Technical University named after M.S. Osimi",
+      "alt_name": "Donishgohi Tekxnikii Tojikiston ba nomi M.S. Osimi",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sU0BWLTBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003865",
+      "address": {
+        "Street": "10, Prosp. Acad. Rajabovs",
+        "City": "Dušanbe",
+        "Post Code": "734042",
+        "WWW": "https://web.ttu.tj/tj"
+      },
+      "website": "https://web.ttu.tj/tj",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1956,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to July (September-January; February-July)",
+      "languages": [
+        "Tajik",
+        "Russian"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Business and Management Engineering",
+          "fields": [
+            "Business and Commerce",
+            "Construction Engineering",
+            "Industrial Management",
+            "Institutional Administration",
+            "Management",
+            "Management Systems",
+            "Power Engineering",
+            "Safety Engineering",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Faculty : Chemical Engineering and Metallurgy",
+          "fields": [
+            "Chemical Engineering",
+            "Inorganic Chemistry",
+            "Metal Techniques",
+            "Metallurgical Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Construction and Architecture",
+          "fields": [
+            "Architectural and Environmental Design",
+            "Architecture",
+            "Architecture and Planning",
+            "Building Technologies",
+            "Construction Engineering",
+            "Heating and Refrigeration",
+            "Industrial Engineering",
+            "Mining Engineering",
+            "Petroleum and Gas Engineering",
+            "Real Estate",
+            "Town Planning",
+            "Water Management"
+          ]
+        },
+        {
+          "name": "Faculty : Energy",
+          "fields": [
+            "Energy Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Information Technology and Communication",
+          "fields": [
+            "Communication Arts",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Mechanical Technology",
+          "fields": [
+            "Environmental Engineering",
+            "Machine Building",
+            "Mechanical Equipment and Maintenance",
+            "Metal Techniques",
+            "Metallurgical Engineering",
+            "Power Engineering",
+            "Technology",
+            "Textile Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Transport",
+          "fields": [
+            "Aeronautical and Aerospace Engineering",
+            "Air Transport",
+            "Automotive Engineering",
+            "Civil Engineering",
+            "Construction Engineering",
+            "Electronics and Automation",
+            "Road Engineering",
+            "Transport Economics",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Faculty : Transport Construction",
+          "fields": [
+            "Transport Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalavr",
+          "fields": [
+            "Engineering"
+          ]
+        },
+        {
+          "name": "Mutakhassis",
+          "fields": [
+            "Engineering"
+          ]
+        },
+        {
+          "name": "Magistr",
+          "fields": [
+            "Architecture",
+            "Building Technologies",
+            "Chemistry",
+            "Computer Engineering",
+            "Construction Engineering",
+            "Economics",
+            "Electrical Engineering",
+            "Energy Engineering",
+            "Engineering",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Metallurgical Engineering",
+            "Technology",
+            "Textile Technology"
+          ]
+        },
+        {
+          "name": "Doctorontura",
+          "fields": [
+            "Architecture",
+            "Building Technologies",
+            "Chemistry",
+            "Computer Engineering",
+            "Construction Engineering",
+            "Economics",
+            "Electrical Engineering",
+            "Energy Engineering",
+            "Engineering",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Metallurgical Engineering",
+            "Technology",
+            "Textile Technology"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education of Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Qudrat Qambar Davlatzoda"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Said Tohir"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Mohjabin Davlatqadamova"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Rauf Jurakhonzoda"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1956 as Stalinabad Polytechnic Institute. Renamed Tajik Polytechnic Institute 1961 and Tajik Technical University 1992. Acquired present name 1996 and status 1997.",
+      "periodicals": [
+        "Payomi Donishgohi tekhnikii",
+        "Payomi Donishgohi tekhnikii"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "16097",
+      "iau_id": "IAU-016097",
+      "name": "Tajik University of Law, Business and Politics",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhQLjM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016097",
+      "address": {
+        "Street": "17 micro-region, building 1",
+        "City": "Khujand",
+        "Post Code": "735700",
+        "WWW": "http://www.tsulbp.tj"
+      },
+      "website": "http://www.tsulbp.tj",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1993,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [],
+      "faculties": [
+        {
+          "name": "Faculty : Business and Management",
+          "fields": [
+            "Business Administration",
+            "Economics",
+            "Management"
+          ]
+        },
+        {
+          "name": "Faculty : Computer Technologies and Accountancy",
+          "fields": [
+            "Accountancy",
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Faculty : Innovation and Telecommunication",
+          "fields": [
+            "Information Technology",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Civil Law",
+            "Commercial Law",
+            "Constitutional Law",
+            "Criminal Law",
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Political Science and International Relations",
+          "fields": [
+            "International Relations and Diplomacy",
+            "Political Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Tax and Taxation",
+          "fields": [
+            "Taxation"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalavr",
+          "fields": []
+        },
+        {
+          "name": "Magistr",
+          "fields": []
+        },
+        {
+          "name": "Doctorontura",
+          "fields": []
+        }
+      ],
+      "accreditation": "Ministry of Education of Science",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Juraboev Jamshed Habibulloevich"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1993.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "3863",
+      "iau_id": "IAU-003863",
+      "name": "Technological University of Tajikistan",
+      "alt_name": "Donishgohi Tehnolojii Tojikiston – Tehnologičeskij Universitet Tajikistana (TUT)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sU0BWLFBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003863",
+      "address": {
+        "Street": "N. Karabaev Street 63/3",
+        "City": "Dušanbe",
+        "Post Code": "734061",
+        "WWW": "https://tut.tj"
+      },
+      "website": "https://tut.tj",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1990,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June",
+      "languages": [
+        "Tajik",
+        "Russian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : Isfara",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Economics",
+            "Education",
+            "Food Technology",
+            "Management",
+            "Mathematics",
+            "Physics",
+            "Technology",
+            "Textile Technology"
+          ]
+        },
+        {
+          "name": "Campus : Kulob",
+          "fields": [
+            "Engineering",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Design and Technology",
+          "fields": [
+            "Design",
+            "Fashion Design",
+            "Technology",
+            "Textile Design",
+            "Textile Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Economics and Management",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Economics",
+            "Finance",
+            "Management"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering and Technology",
+          "fields": [
+            "Dairy",
+            "Food Science",
+            "Food Technology",
+            "Meat and Poultry",
+            "Oenology"
+          ]
+        },
+        {
+          "name": "Faculty : Finance and Innovation Management",
+          "fields": [
+            "Banking",
+            "Economics",
+            "Finance",
+            "Management"
+          ]
+        },
+        {
+          "name": "Faculty : Information Technologies and Artificial Intelligence",
+          "fields": [
+            "Software Engineering",
+            "Telecommunications Engineering",
+            "Telecommunications Services"
+          ]
+        },
+        {
+          "name": "Faculty : Joint Tajik-Russian Faculty",
+          "fields": [
+            "Energy Engineering",
+            "Finance",
+            "Information Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Joint Tajik-Ukrainian Faculty",
+          "fields": [
+            "Computer Science",
+            "Electronics and Automation",
+            "International Business",
+            "Management"
+          ]
+        },
+        {
+          "name": "Faculty : Systems and Industrial Information Technology",
+          "fields": [
+            "Business Computing",
+            "Computer Science",
+            "Information Technology",
+            "Software Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalavr",
+          "fields": [
+            "Accountancy",
+            "Economics",
+            "Management"
+          ]
+        },
+        {
+          "name": "Mutakhassis",
+          "fields": [
+            "Finance"
+          ]
+        },
+        {
+          "name": "Magistr",
+          "fields": [
+            "Economics",
+            "Management"
+          ]
+        },
+        {
+          "name": "Aspirantura",
+          "fields": [
+            "Economics"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education of Science; Ministry of Industry",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Zoir Faizali Rahmonzoda"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Mirzomudin Shamsudin Nasriddinzoda"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Basher Khujakulovich Okhunov"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Khurshed Ikrom Ikromi"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1990, acquired present status 1996.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    }
+  ]
+}

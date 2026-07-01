@@ -1,0 +1,4031 @@
+{
+  "country_name": "Sri Lanka",
+  "country_id": "Sri Lanka",
+  "institutions": [
+    {
+      "id": "1816",
+      "iau_id": "IAU-001816",
+      "name": "Bhiksu University of Sri Lanka",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sM0BRLUBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-001816",
+      "address": {
+        "Street": "Ratmalana",
+        "City": "Colombo",
+        "Province": "Western",
+        "Post Code": "10390",
+        "WWW": "https://www.kdu.ac.lk"
+      },
+      "website": "https://www.kdu.ac.lk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1981,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "January to December",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Allied Health Sciences",
+          "fields": [
+            "Medical Technology",
+            "Midwifery",
+            "Nursing",
+            "Pharmacology",
+            "Pharmacy",
+            "Physical Therapy",
+            "Radiology"
+          ]
+        },
+        {
+          "name": "Faculty : Built Environment and Spatial Sciences",
+          "fields": [
+            "Architecture",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "Faculty : Computing",
+          "fields": [
+            "Computer Engineering",
+            "Computer Science",
+            "Information Sciences",
+            "Information Technology",
+            "Mathematics and Computer Science",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Criminal Justice",
+          "fields": [
+            "Criminology",
+            "Police Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Defence and Strategic Studies",
+          "fields": [
+            "Military Science"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Aeronautical and Aerospace Engineering",
+            "Biomedical Engineering",
+            "Civil Engineering",
+            "Electrical and Electronic Engineering",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Marine Engineering",
+            "Marine Science and Oceanography",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Naval Architecture",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Graduate Studies",
+          "fields": [
+            "Business Administration",
+            "E-Business/Commerce",
+            "Information Technology",
+            "Law",
+            "Management",
+            "Military Science",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Management, Social Sciences and Humanities",
+          "fields": [
+            "English",
+            "Finance",
+            "Humanities and Social Science Education",
+            "Management",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Faculty : Technology",
+          "fields": [
+            "Building Technologies",
+            "Construction Engineering",
+            "Information Technology",
+            "Medical Technology",
+            "Technology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Law",
+            "Management",
+            "Medical Technology",
+            "Nursing",
+            "Pharmacy",
+            "Physical Therapy",
+            "Radiology",
+            "Technology",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Bachelor (Honours/Special) Degree",
+          "fields": [
+            "Aeronautical and Aerospace Engineering",
+            "Architecture",
+            "Biomedical Engineering",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Criminal Law",
+            "Electrical and Electronic Engineering",
+            "Engineering",
+            "Information Sciences",
+            "Information Technology",
+            "International Relations and Diplomacy",
+            "Law",
+            "Management",
+            "Marine Engineering",
+            "Mechanical Engineering",
+            "Medical Technology",
+            "Medicine",
+            "Nursing",
+            "Pharmacology",
+            "Pharmacy",
+            "Physical Therapy",
+            "Radiology",
+            "Social Sciences",
+            "Software Engineering",
+            "Surveying and Mapping",
+            "Technology",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Bachelor of Medicine, Bachelor of Surgery, Bachelor of Dental Surgery",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Master's Degree (by coursework)",
+          "fields": [
+            "Biomedical Engineering",
+            "Business Administration",
+            "Civil Engineering",
+            "E-Business/Commerce",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "International Relations and Diplomacy",
+            "Law",
+            "Management",
+            "Military Science",
+            "Safety Engineering",
+            "Telecommunications Engineering",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Postgraduate Certificate / Diploma",
+          "fields": [
+            "Computer Science",
+            "Engineering",
+            "Information Technology",
+            "International Relations and Diplomacy",
+            "Law",
+            "Management",
+            "Nursing",
+            "Radiology"
+          ]
+        },
+        {
+          "name": "Master of Philosophy",
+          "fields": [
+            "Computer Science",
+            "Engineering",
+            "Information Technology",
+            "International Relations and Diplomacy",
+            "Law",
+            "Management",
+            "Nursing",
+            "Radiology"
+          ]
+        },
+        {
+          "name": "Doctorate",
+          "fields": [
+            "Computer Science",
+            "Engineering",
+            "Information Technology",
+            "International Relations and Diplomacy",
+            "Law",
+            "Management",
+            "Medicine",
+            "Technology"
+          ]
+        }
+      ],
+      "accreditation": "University Grants Commission (UGC); Ministry of Defence",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Dammika Kumara"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "V.D. Kithsiri"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Harinda Vidanage"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2021-2022",
+        "Staff Full Time Male:": "52",
+        "Staff Full Time Female:": "40",
+        "Staff Full Time Total:": "92",
+        "Students Statistics Year:": "2021-2022",
+        "Students Male:": "2929",
+        "Students Female:": "2871",
+        "Students Total:": "5800",
+        "Students Foreign Male:": "87",
+        "Students Foreign Female:": "162",
+        "Students Foreign Total:": "249"
+      },
+      "history": "Founded 1981 as Defence Academy. Acquired university status 1986.",
+      "periodicals": [
+        "Journal of Management, Social Sciences, and Humanities (JMSH) KDU Journal of Multidisciplinary studies (KJMS)",
+        "Journal of Management, Social Sciences, and Humanities (JMSH)",
+        "KDU Journal of Multidisciplinary studies (KJMS)"
+      ],
+      "student_body": null
+    },
+    {
+      "id": "1817",
+      "iau_id": "IAU-001817",
+      "name": "Buddhist and Pali University of Sri Lanka",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sM0BRLVBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-001817",
+      "address": {
+        "Street": "PO Box 02",
+        "City": "Belihuloya",
+        "Province": "Sabaragamuwa",
+        "Post Code": "70140",
+        "WWW": "https://www.sab.ac.lk"
+      },
+      "website": "https://www.sab.ac.lk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1992,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Sinhala",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Agricultural Sciences",
+          "fields": [
+            "Agricultural Business",
+            "Agriculture",
+            "Cattle Breeding"
+          ]
+        },
+        {
+          "name": "Faculty : Applied Sciences",
+          "fields": [
+            "Computer Science",
+            "Food Science",
+            "Food Technology",
+            "Natural Resources",
+            "Physics",
+            "Sports",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Geomatics",
+          "fields": [
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "Faculty : Graduate Studies",
+          "fields": [
+            "Agriculture",
+            "Business Administration",
+            "Computer Science",
+            "Finance",
+            "Health Administration",
+            "Management",
+            "Marketing",
+            "Modern Languages",
+            "Natural Sciences",
+            "Physical Education",
+            "Social Sciences",
+            "Sports",
+            "Surveying and Mapping",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Management Studies",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Finance",
+            "Management",
+            "Marketing",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Social Sciences and Languages",
+          "fields": [
+            "Economics",
+            "English",
+            "Modern Languages",
+            "Social Sciences",
+            "Statistics"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Agricultural Management",
+            "Agriculture",
+            "Applied Physics",
+            "Business Administration",
+            "Computer Science",
+            "Economics",
+            "English",
+            "Environmental Studies",
+            "Finance",
+            "Food Science",
+            "Geography",
+            "German",
+            "Hindi",
+            "Hotel Management",
+            "Information Technology",
+            "Japanese",
+            "Marketing",
+            "Natural Resources",
+            "Physical Education",
+            "Political Sciences",
+            "Sociology",
+            "Sports",
+            "Statistics",
+            "Surveying and Mapping",
+            "Tourism",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Master's Degree (by coursework)",
+          "fields": [
+            "Biotechnology",
+            "Economics",
+            "Finance",
+            "Health Administration",
+            "Information Technology",
+            "Marketing",
+            "Surveying and Mapping",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Postgraduate Certificate / Diploma",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Master of Philosophy",
+          "fields": [
+            "Agricultural Business",
+            "Agricultural Management",
+            "Applied Physics",
+            "Chemistry",
+            "Computer Science",
+            "Cultural Studies",
+            "Development Studies",
+            "Earth Sciences",
+            "Econometrics",
+            "Economics",
+            "English",
+            "Environmental Management",
+            "Finance",
+            "Food Science",
+            "German",
+            "Information Technology",
+            "Library Science",
+            "Marketing",
+            "Media Studies",
+            "Parks and Recreation",
+            "Physical Education",
+            "Plant and Crop Protection",
+            "Regional Planning",
+            "Regional Studies",
+            "Rural Planning",
+            "Software Engineering",
+            "South and Southeast Asian Languages",
+            "Sports",
+            "Statistics",
+            "Surveying and Mapping",
+            "Tourism",
+            "Water Management"
+          ]
+        },
+        {
+          "name": "Doctorate",
+          "fields": [
+            "Agricultural Business",
+            "Agricultural Management",
+            "Applied Physics",
+            "Chemistry",
+            "Computer Science",
+            "Cultural Studies",
+            "Development Studies",
+            "Earth Sciences",
+            "Econometrics",
+            "Economics",
+            "English",
+            "Environmental Management",
+            "Finance",
+            "Food Science",
+            "German",
+            "Information Technology",
+            "Library Science",
+            "Marketing",
+            "Media Studies",
+            "Parks and Recreation",
+            "Physical Education",
+            "Plant and Crop Protection",
+            "Regional Planning",
+            "Regional Studies",
+            "Rural Planning",
+            "Software Engineering",
+            "South and Southeast Asian Languages",
+            "Sports",
+            "Statistics",
+            "Surveying and Mapping",
+            "Tourism",
+            "Water Management",
+            "Water Science"
+          ]
+        }
+      ],
+      "accreditation": "UGC, Sri Lanka",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "M. Sunil Shantha"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "S. Uyangoda"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2024-2025",
+        "Students Total:": "9500"
+      },
+      "history": "Founded 1992 as affiliated university college. Acquired present status 1995",
+      "periodicals": [
+        "Journal of Agricultural Sciences Sabaragamuwa University Journal",
+        "Journal of Agricultural Sciences",
+        "Sabaragamuwa University Journal"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "30602",
+      "iau_id": "IAU-030602",
+      "name": "CINEC Campus (Private) Limited",
+      "alt_name": "Colombo International Nautical and Engineering College (CINEC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sU2BWLCMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-030602",
+      "address": {
+        "Street": "New Kandy Road",
+        "City": "Malabe",
+        "Post Code": "10115",
+        "WWW": "https://www.sliit.lk"
+      },
+      "website": "https://www.sliit.lk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1999,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "November to October",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Business",
+          "fields": [
+            "Business Administration",
+            "Business Computing",
+            "Information Management"
+          ]
+        },
+        {
+          "name": "Faculty : Computing",
+          "fields": [
+            "Computer Graphics",
+            "Computer Networks",
+            "Information Technology",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Architecture",
+            "Civil Engineering",
+            "Electrical and Electronic Engineering",
+            "Materials Engineering",
+            "Mechanical Engineering",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "Faculty : Graduate Studies",
+          "fields": [
+            "Business Administration",
+            "Computer Science",
+            "Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Science and Education",
+          "fields": [
+            "Computer Education",
+            "Foreign Languages Education",
+            "Science Education"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Human Resources",
+            "Information Technology",
+            "Management",
+            "Marketing",
+            "Science Education",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Master's Degree (by coursework)",
+          "fields": [
+            "Business Administration",
+            "Education",
+            "Information Management",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Postgraduate Certificate / Diploma",
+          "fields": [
+            "Education",
+            "Information Management",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Master of Philosophy",
+          "fields": [
+            "Civil Engineering",
+            "Computer Networks",
+            "Electrical and Electronic Engineering",
+            "Information Technology",
+            "Materials Engineering",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Doctorate",
+          "fields": [
+            "Civil Engineering",
+            "Computer Networks",
+            "Electrical and Electronic Engineering",
+            "Information Technology",
+            "Materials Engineering",
+            "Mechanical Engineering",
+            "Software Engineering"
+          ]
+        }
+      ],
+      "accreditation": "UGC, Sri Lanka",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Lalith Gamage"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2024-2025",
+        "Students Total:": "7000"
+      },
+      "history": "Founded 1999. Acquired current status and 2000",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "3980",
+      "iau_id": "IAU-003980",
+      "name": "Eastern University, Sri Lanka",
+      "alt_name": "(EUSL)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sU0RYLGBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003980",
+      "address": {
+        "Street": "PallekeleKundasale",
+        "City": "Kandy",
+        "Province": "20168",
+        "WWW": "https://www.siba.edu.lk"
+      },
+      "website": "https://www.siba.edu.lk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "Jan to Dec",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Buddhist Studies",
+          "fields": [
+            "Asian Religious Studies",
+            "Leadership",
+            "Philosophy",
+            "Religious Practice"
+          ]
+        },
+        {
+          "name": "Faculty : Humanities and Social Sciences",
+          "fields": [
+            "Education",
+            "English",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Information Technology, Media and Management Studies",
+          "fields": [
+            "Information Technology",
+            "Management",
+            "Mass Communication"
+          ]
+        },
+        {
+          "name": "Faculty : Kandyan Dance",
+          "fields": [
+            "Dance"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Information Technology",
+            "Leadership",
+            "Mass Communication"
+          ]
+        },
+        {
+          "name": "Bachelor (Honours/Special) Degree",
+          "fields": [
+            "Dance",
+            "Management",
+            "Religious Practice"
+          ]
+        }
+      ],
+      "accreditation": "UGC, Sri Lanka",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Upali M. Sedere"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Jagath Kulathunga"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2019-2020",
+        "Staff Full Time Total:": "16",
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "388"
+      },
+      "history": "Created 2009",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "25399",
+      "iau_id": "IAU-025399",
+      "name": "Horizon Campus",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRTLjNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025399",
+      "address": {
+        "Street": "Kandy RoadDalugama",
+        "City": "Kelaniya",
+        "Province": "Western Province",
+        "Post Code": "11600",
+        "WWW": "https://www.kln.ac.lk"
+      },
+      "website": "https://www.kln.ac.lk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "October to September",
+      "languages": [
+        "Sinhala",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Asian Studies",
+          "fields": [
+            "Asian Studies",
+            "Chinese",
+            "Korean"
+          ]
+        },
+        {
+          "name": "Centre : Open and Distance Learning",
+          "fields": [
+            "Distance Education"
+          ]
+        },
+        {
+          "name": "Faculty : Commerce and Management",
+          "fields": [
+            "Accountancy",
+            "Business and Commerce",
+            "Finance",
+            "Human Resources",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Computing and Technology",
+          "fields": [
+            "Computer Science",
+            "Engineering",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Graduate Studies",
+          "fields": [
+            "Asian Religious Studies",
+            "Christian Religious Studies",
+            "Classical Languages",
+            "Design",
+            "English",
+            "Hindi",
+            "Indic Languages",
+            "Linguistics",
+            "Modern Languages",
+            "Performing Arts",
+            "Sanskrit",
+            "Theatre",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Faculty : Humanities",
+          "fields": [
+            "Asian Religious Studies",
+            "Christian Religious Studies",
+            "Classical Languages",
+            "Design",
+            "English",
+            "Hindi",
+            "Indic Languages",
+            "Linguistics",
+            "Modern Languages",
+            "Performing Arts",
+            "Sanskrit",
+            "Theatre",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Anatomy",
+            "Biochemistry",
+            "Community Health",
+            "Forensic Medicine and Dentistry",
+            "Health Education",
+            "Medicine",
+            "Microbiology",
+            "Obstetrics and Gynaecology",
+            "Paediatrics",
+            "Parasitology",
+            "Pathology",
+            "Pharmacology",
+            "Physiology",
+            "Psychiatry and Mental Health",
+            "Public Health",
+            "Surgery",
+            "Tropical Medicine"
+          ]
+        },
+        {
+          "name": "Faculty : Science",
+          "fields": [
+            "Applied Mathematics",
+            "Biochemistry",
+            "Botany",
+            "Chemistry",
+            "Environmental Management",
+            "Industrial Management",
+            "Information Sciences",
+            "Mathematics",
+            "Microbiology",
+            "Molecular Biology",
+            "Physics",
+            "Plant Pathology",
+            "Statistics",
+            "Zoology"
+          ]
+        },
+        {
+          "name": "Faculty : Social Sciences",
+          "fields": [
+            "Archaeology",
+            "Economics",
+            "Geography",
+            "History",
+            "Information Sciences",
+            "Library Science",
+            "Mass Communication",
+            "Philosophy",
+            "Sociology",
+            "Sports",
+            "Sports Management"
+          ]
+        },
+        {
+          "name": "Institute : Archaeology",
+          "fields": [
+            "Archaeology"
+          ]
+        },
+        {
+          "name": "Institute : Pali and Buddhist Studies",
+          "fields": [
+            "Asian Religious Studies"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Arts and Humanities",
+            "Banking",
+            "Botany",
+            "Business Administration",
+            "Business and Commerce",
+            "Chemistry",
+            "Christian Religious Studies",
+            "Cinema and Television",
+            "Computer Networks",
+            "Computer Science",
+            "Dance",
+            "Economics",
+            "Electronics and Automation",
+            "English",
+            "Environmental Management",
+            "Finance",
+            "Geography",
+            "Germanic Studies",
+            "Hindi",
+            "History",
+            "Human Resources",
+            "Information Technology",
+            "Insurance",
+            "International Studies",
+            "Japanese",
+            "Korean",
+            "Leadership",
+            "Library Science",
+            "Linguistics",
+            "Management",
+            "Marketing",
+            "Materials Engineering",
+            "Mathematical Physics",
+            "Mathematics",
+            "Media Studies",
+            "Medicine",
+            "Microbiology",
+            "Molecular Biology",
+            "Occupational Therapy",
+            "Philosophy",
+            "Physics",
+            "Political Sciences",
+            "Psychology",
+            "Robotics",
+            "Sanskrit",
+            "Software Engineering",
+            "Speech Therapy and Audiology",
+            "Statistics",
+            "Theatre",
+            "Tourism",
+            "Visual Arts",
+            "Zoology"
+          ]
+        },
+        {
+          "name": "Master's Degree (by coursework)",
+          "fields": [
+            "Accountancy",
+            "Aquaculture",
+            "Archaeology",
+            "Art History",
+            "Ayurvedic Medicine",
+            "Business Administration",
+            "Business and Commerce",
+            "Christian Religious Studies",
+            "Civil Security",
+            "Computer Science",
+            "Dance",
+            "Economics",
+            "Environmental Management",
+            "Finance",
+            "Fine Arts",
+            "Fishery",
+            "Food Technology",
+            "Geography",
+            "Heritage Preservation",
+            "History",
+            "Human Resources",
+            "Indic Languages",
+            "Industrial Chemistry",
+            "Information Technology",
+            "Library Science",
+            "Linguistics",
+            "Literature",
+            "Marketing",
+            "Mass Communication",
+            "Microbiology",
+            "Museum Management",
+            "Museum Studies",
+            "Music",
+            "Nutrition",
+            "Philosophy",
+            "Plant and Crop Protection",
+            "Political Sciences",
+            "Public Health",
+            "Sociology",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Postgraduate Certificate / Diploma",
+          "fields": [
+            "Analytical Chemistry",
+            "Archaeology",
+            "Art History",
+            "Ayurvedic Medicine",
+            "Heritage Preservation",
+            "Human Resources",
+            "Industrial Management",
+            "Information Technology",
+            "Marketing",
+            "Mathematics",
+            "Museum Management",
+            "Museum Studies",
+            "Regional Planning"
+          ]
+        },
+        {
+          "name": "Master of Philosophy",
+          "fields": [
+            "Arts and Humanities",
+            "Business Administration",
+            "Business and Commerce",
+            "Computer Engineering",
+            "Humanities and Social Science Education",
+            "Medicine",
+            "Natural Sciences",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Doctorate",
+          "fields": [
+            "Arts and Humanities",
+            "Business Administration",
+            "Computer Engineering",
+            "Computer Science",
+            "Medicine",
+            "Natural Sciences",
+            "Social Sciences"
+          ]
+        }
+      ],
+      "accreditation": "UGC, Sri Lanka",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Nilanthi de Silva"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Kithsiri Dharmathilaka"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Neelakshi C. Premawardhane"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2024-2025",
+        "Students Total:": "17082"
+      },
+      "history": "The University of Kelaniya has its origin in the historic Vidyalankara Pirivena, founded in 1875 by Ratmalane Sri Dharmaloka Thero as a center of learning for Buddhist monks. With the establishment of modern universities in Sri Lanka in the 1940s and 1950s, the Vidyalankara Pirivena became the Vidyalankara University in 1959, later the Vidyalankara Campus of the University of Ceylon in 1972, and, ultimately, the University of Kelaniya in 1978",
+      "periodicals": [
+        "Archaeologia - Journal of South Asian Archaeology International Journal of Accountancy (IJA) Journal of Business and Technology Journal of International Studies Journal of Political Science Journal of Political Science Journal of Science Journal of Science Journal of Social Statistics Journal of the Centre for Heritage Studies Journal of the Faculty of Graduate Studies Journal of the Faculty of Humanities Journal of the Faculty of Social Sciences Kalyani - The Journal of Humanities and Social Sciences Kelaniya Journal of Human Resource Management Kelaniya Journal of Management Sri Lanka Journal of Marketing Trivalent ත්‍රිසංයුජ - Journal of Archaeology, Tourism & Anthropology Yugathara Journal",
+        "Archaeologia - Journal of South Asian Archaeology",
+        "International Journal of Accountancy (IJA)",
+        "Journal of Business and Technology",
+        "Journal of International Studies",
+        "Journal of Political Science",
+        "Journal of Political Science",
+        "Journal of Science",
+        "Journal of Science",
+        "Journal of Social Statistics",
+        "Journal of the Centre for Heritage Studies",
+        "Journal of the Faculty of Graduate Studies",
+        "Journal of the Faculty of Humanities",
+        "Journal of the Faculty of Social Sciences",
+        "Kalyani - The Journal of Humanities and Social Sciences",
+        "Kelaniya Journal of Human Resource Management",
+        "Kelaniya Journal of Management",
+        "Sri Lanka Journal of Marketing",
+        "Trivalent ත්‍රිසංයුජ - Journal of Archaeology, Tourism & Anthropology",
+        "Yugathara Journal"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "27783",
+      "iau_id": "IAU-027783",
+      "name": "KIU Sri Lanka",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzxXLiMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-027783",
+      "address": {
+        "Street": "Puttalam Road",
+        "City": "Anuradhapura",
+        "Province": "North Central Province",
+        "WWW": "http://busl.ac.lk"
+      },
+      "website": "http://busl.ac.lk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1997,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Sinhala",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Buddhist Studies",
+          "fields": [
+            "Asian Religious Studies",
+            "Philosophy"
+          ]
+        },
+        {
+          "name": "Faculty : Languages and Cultural Studies",
+          "fields": [
+            "English",
+            "Sanskrit",
+            "South and Southeast Asian Languages"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Archaeology",
+            "Education",
+            "Philosophy",
+            "Sanskrit"
+          ]
+        },
+        {
+          "name": "Postgraduate Certificate / Diploma",
+          "fields": [
+            "Asian Religious Studies",
+            "English"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Kanattegoda Saddarathana Thero"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "U.D. Dodanwala"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1997 as Buddhasravaka Bhiksu University. Acquired present status and title 2012. A state institution dedicated to Buddhist Monks' education",
+      "periodicals": [
+        "Buddhist Talk Lochana Social and Cultural Magazine Sorowwa",
+        "Buddhist Talk",
+        "Lochana",
+        "Social and Cultural Magazine",
+        "Sorowwa"
+      ],
+      "student_body": "male"
+    },
+    {
+      "id": "25363",
+      "iau_id": "IAU-025363",
+      "name": "Nagananda International Institute for Buddhist Studies",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRTLUMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025363",
+      "address": {
+        "Street": "Gurulugomi Mawatha, Pitipana North",
+        "City": "Homagama",
+        "Province": "Colombo",
+        "Post Code": "10206",
+        "WWW": "http://www.bpu.ac.lk"
+      },
+      "website": "http://www.bpu.ac.lk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1982,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Sinhala",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Buddhist Studies",
+          "fields": [
+            "Archaeology",
+            "Asian Religious Studies",
+            "Cultural Studies",
+            "Philosophy"
+          ]
+        },
+        {
+          "name": "Faculty : Language Studies",
+          "fields": [
+            "English",
+            "Sanskrit",
+            "South and Southeast Asian Languages"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma / Higher Diploma",
+          "fields": [
+            "Archaeology",
+            "Asian Religious Studies",
+            "English",
+            "Philosophy",
+            "Sanskrit",
+            "South and Southeast Asian Languages"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Archaeology",
+            "Asian Religious Studies",
+            "English",
+            "Philosophy",
+            "Sanskrit",
+            "South and Southeast Asian Languages"
+          ]
+        },
+        {
+          "name": "Master's Degree (by coursework)",
+          "fields": [
+            "Archaeology",
+            "Asian Religious Studies",
+            "Philosophy",
+            "Sanskrit"
+          ]
+        },
+        {
+          "name": "Postgraduate Certificate / Diploma",
+          "fields": [
+            "Archaeology",
+            "Asian Religious Studies",
+            "Philosophy",
+            "Sanskrit"
+          ]
+        },
+        {
+          "name": "Master of Philosophy",
+          "fields": [
+            "Archaeology",
+            "Asian Religious Studies",
+            "Philosophy",
+            "Sanskrit"
+          ]
+        },
+        {
+          "name": "Doctorate",
+          "fields": [
+            "Asian Religious Studies",
+            "English",
+            "Indic Languages"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Gallelle Sumanasiri Thero"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Deerananda Thero"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1982, acquired present status 1997.",
+      "periodicals": [
+        "Buddhist and Pali Studies Postgraduate Studies Sri Lanka Journal of Buddhist Studies",
+        "Buddhist and Pali Studies",
+        "Postgraduate Studies",
+        "Sri Lanka Journal of Buddhist Studies"
+      ],
+      "student_body": null
+    },
+    {
+      "id": "25394",
+      "iau_id": "IAU-025394",
+      "name": "National Institute of Education",
+      "alt_name": "(NIE)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRTLjMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025394",
+      "address": {
+        "Street": "CINEC Campus (Pvt) Ltd. and Millennium DriveIT Park",
+        "City": "Malabe",
+        "WWW": "https://www.cinec.edu"
+      },
+      "website": "https://www.cinec.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1990,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : Jaffna",
+          "fields": [
+            "CINEC Skills (pvt) ltd"
+          ]
+        },
+        {
+          "name": "Campus : Metro",
+          "fields": [
+            "CINEC Skills (pvt) ltd"
+          ]
+        },
+        {
+          "name": "Campus : Trincomalee",
+          "fields": [
+            "CINEC Skills (pvt) ltd"
+          ]
+        },
+        {
+          "name": "Campus Abroad : Fiji Maritime Academy",
+          "fields": [
+            "Air Transport"
+          ]
+        },
+        {
+          "name": "Campus Abroad : Seychelles Maritime Academy",
+          "fields": [
+            "Air Transport"
+          ]
+        },
+        {
+          "name": "Department/Division : Aviation",
+          "fields": [
+            "Air Transport"
+          ]
+        },
+        {
+          "name": "Department/Division : Industrial Engineering",
+          "fields": [
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Department/Division : Interdisciplinary Studies",
+          "fields": [
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Department/Division : Marine Simulation",
+          "fields": [
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Department/Division : Safety and Survival Training",
+          "fields": [
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Faculty : Computing",
+          "fields": [
+            "Computer Engineering",
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering and Technology",
+          "fields": [
+            "Automotive Engineering",
+            "Civil Engineering",
+            "Electrical and Electronic Engineering",
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences",
+          "fields": [
+            "Health Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Humanities and Education",
+          "fields": [
+            "Arts and Humanities",
+            "Education"
+          ]
+        },
+        {
+          "name": "Faculty : Management and Social Sciences",
+          "fields": [
+            "Management",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Marine Engineering",
+          "fields": [
+            "Electrical Engineering",
+            "Industrial Engineering",
+            "Marine Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Maritime Sciences",
+          "fields": [
+            "Electronic Engineering",
+            "Marine Transport",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Science",
+          "fields": [
+            "Chemistry"
+          ]
+        },
+        {
+          "name": "Research Division : Research Division and Learning Resource Centre",
+          "fields": [
+            "Hotel Management"
+          ]
+        },
+        {
+          "name": "School : Hotel Management (International)",
+          "fields": [
+            "Hotel Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor (Honours/Special) Degree",
+          "fields": [
+            "Accountancy",
+            "Applied Mathematics",
+            "Automotive Engineering",
+            "Banking",
+            "Biological and Life Sciences",
+            "Biomedicine",
+            "Business Administration",
+            "Civil Engineering",
+            "Cosmetology",
+            "Electronic Engineering",
+            "English",
+            "Finance",
+            "Health Administration",
+            "Hotel and Restaurant",
+            "Human Resources",
+            "Industrial Management",
+            "Information Technology",
+            "Logistics Management",
+            "Management",
+            "Marine Engineering",
+            "Marine Transport",
+            "Maritime Law",
+            "Marketing",
+            "Mechanical Engineering",
+            "Mechatronics",
+            "Natural Sciences",
+            "Pharmacology",
+            "Retailing and Wholesaling",
+            "Software Engineering",
+            "Telecommunications Engineering",
+            "Tourism",
+            "Transport and Communications"
+          ]
+        },
+        {
+          "name": "Postgraduate Certificate / Diploma",
+          "fields": [
+            "Management"
+          ]
+        },
+        {
+          "name": "Master's degree",
+          "fields": [
+            "Business Administration"
+          ]
+        }
+      ],
+      "accreditation": "University Grants Commission (UGC)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ajith Peiris"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Tharanga Dilrukshi Gamage"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Peshala Medagama"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1990 as Colombo International Nautical and Engineering College, acquired current title 2019",
+      "periodicals": [
+        "CINEC Academic Journal",
+        "CINEC Academic Journal"
+      ],
+      "student_body": null
+    },
+    {
+      "id": "25397",
+      "iau_id": "IAU-025397",
+      "name": "National Institute of Social Development",
+      "alt_name": "(NISD)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRTLjM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025397",
+      "address": {
+        "Street": "Vantharumoolai",
+        "City": "Chenkalady",
+        "Province": "Eastern Province",
+        "Post Code": "30350",
+        "WWW": "http://www.esn.ac.lk"
+      },
+      "website": "http://www.esn.ac.lk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1981,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "January to November (January-May; July-November)",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : Trincomalee",
+          "fields": [
+            "Business Administration",
+            "Communication Studies",
+            "Computer Science",
+            "Information Management",
+            "Linguistics",
+            "Modern Languages",
+            "Physics",
+            "Traditional Eastern Medicine"
+          ]
+        },
+        {
+          "name": "Faculty : Agriculture",
+          "fields": [
+            "Agricultural Economics",
+            "Agricultural Engineering",
+            "Agriculture",
+            "Agrobiology",
+            "Animal Husbandry",
+            "Crop Production",
+            "Food Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Arts and Culture",
+          "fields": [
+            "Arabic",
+            "Child Care and Development",
+            "Comparative Religion",
+            "Cultural Studies",
+            "Education",
+            "Fine Arts",
+            "Geography",
+            "History",
+            "Islamic Studies",
+            "Philosophy",
+            "Social Sciences",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Faculty : Commerce and Management",
+          "fields": [
+            "Business and Commerce",
+            "Economics",
+            "Management"
+          ]
+        },
+        {
+          "name": "Faculty : Healthcare Sciences",
+          "fields": [
+            "Medicine",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Faculty : Science",
+          "fields": [
+            "Botany",
+            "Chemistry",
+            "Environmental Studies",
+            "Mathematics",
+            "Physics",
+            "Zoology"
+          ]
+        },
+        {
+          "name": "Institute : Swami Vipulananda Institute of Aesthetic Studies - SVIAS",
+          "fields": [
+            "Dance",
+            "Fine Arts"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Agriculture",
+            "Botany",
+            "Business Administration",
+            "Chemistry",
+            "Economics",
+            "Education",
+            "Fine Arts",
+            "Geography",
+            "Human Resources",
+            "Marketing",
+            "Mathematics and Computer Science",
+            "Medicine",
+            "Nursing",
+            "Philosophy",
+            "Physics",
+            "Political Sciences",
+            "Sociology",
+            "Theatre",
+            "Zoology"
+          ]
+        },
+        {
+          "name": "Master's Degree (by coursework)",
+          "fields": [
+            "Business Administration",
+            "Economics",
+            "Education",
+            "Environmental Studies",
+            "Fine Arts",
+            "Food Technology",
+            "Geography",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Postgraduate Certificate / Diploma",
+          "fields": [
+            "Management"
+          ]
+        },
+        {
+          "name": "Master of Philosophy",
+          "fields": [
+            "Comparative Religion",
+            "Fine Arts",
+            "Geography",
+            "Natural Sciences",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Doctorate",
+          "fields": [
+            "Fine Arts",
+            "Natural Sciences"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "T. Jayasingam"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "A. Pahirathan"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1981 as Batticaloa University College, acquired present status and title 1986.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "25398",
+      "iau_id": "IAU-025398",
+      "name": "National School of Business Management Limited",
+      "alt_name": "NSBM Green University (NSBM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRTLjNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025398",
+      "address": {
+        "Street": "482/B, Millennium Drive, Chandrika Kumaranathunga Mawatha",
+        "City": "Malabe",
+        "WWW": "http://horizoncampus.edu.lk"
+      },
+      "website": "http://horizoncampus.edu.lk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [],
+      "faculties": [
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Faculty : Information Technology",
+          "fields": [
+            "Computer Networks",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Management",
+          "fields": [
+            "Business Administration",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Science",
+          "fields": [
+            "Food Technology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Business Administration",
+            "Computer Networks",
+            "Education",
+            "Information Technology",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Master's Degree (by coursework)",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Postgraduate Certificate / Diploma",
+          "fields": [
+            "Food Technology"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "K. Ruwan Perera"
+        }
+      ],
+      "statistics": {},
+      "history": "Created in 2011 and is the higher education campus of Horizon College of Business and Technology.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "13102",
+      "iau_id": "IAU-013102",
+      "name": "Open University of Sri Lanka",
+      "alt_name": "(OUSL)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyxRLCMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-013102",
+      "address": {
+        "Street": "249/1, Malabe RoadThalangama NorthKoswatta, Battaramulla.",
+        "City": "Colombo",
+        "Post Code": "10120",
+        "WWW": "https://www.kiu.ac.lk"
+      },
+      "website": "https://www.kiu.ac.lk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Behavioural Sciences",
+          "fields": [
+            "Linguistics",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Faculty : Computer Science and Engineering",
+          "fields": [
+            "Computer Networks",
+            "Cybersecurity",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Graduate Studies",
+          "fields": [
+            "Business Administration",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences",
+          "fields": [
+            "Acupuncture and Oriental Medicine",
+            "Biomedicine"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Management",
+          "fields": [
+            "Accountancy",
+            "Human Resources",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor (Honours/Special) Degree",
+          "fields": [
+            "Accountancy",
+            "Acupuncture and Oriental Medicine",
+            "Biomedicine",
+            "Computer Networks",
+            "Cybersecurity",
+            "Human Resources",
+            "Law",
+            "Marketing",
+            "Nursing",
+            "Psychology",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Master's Degree (by coursework)",
+          "fields": [
+            "Business Administration",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Master of Philosophy",
+          "fields": [
+            "Nursing"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education, Higher Education, and Vocational Education of Sri Lanka",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Sajeewanie Liyana-arachchi"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Sashini Caldera"
+        }
+      ],
+      "statistics": {},
+      "history": "Created in 2009 under the Companies Act No. 7 of 2007",
+      "periodicals": [
+        "International Journal of KIU",
+        "International Journal of KIU"
+      ],
+      "student_body": null
+    },
+    {
+      "id": "13881",
+      "iau_id": "IAU-013881",
+      "name": "Rajarata University of Sri Lanka",
+      "alt_name": "(RUSL)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyxYLiMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-013881",
+      "address": {
+        "Street": "Manelwatta, Bollegala",
+        "City": "Kelaniya",
+        "WWW": "https://niibs.edu.lk"
+      },
+      "website": "https://niibs.edu.lk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Sinhala",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Buddhist Studies",
+          "fields": [
+            "Buddhist Religious Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Graduate Studies",
+          "fields": [
+            "Buddhist Religious Studies",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Faculty : Humanities and Social Sciences",
+          "fields": [
+            "Anthropology",
+            "Archaeology",
+            "Chinese",
+            "Communication Arts",
+            "English",
+            "Korean"
+          ]
+        },
+        {
+          "name": "School : Information and Communication Technology",
+          "fields": [
+            "Computer Graphics",
+            "Information Technology",
+            "Multimedia"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Buddhist Religious Studies"
+          ]
+        },
+        {
+          "name": "Bachelor (Honours/Special) Degree",
+          "fields": [
+            "Anthropology",
+            "Archaeology",
+            "Buddhist Religious Studies",
+            "Communication Arts",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Master's degree",
+          "fields": [
+            "Buddhist Religious Studies"
+          ]
+        },
+        {
+          "name": "Master of Philosophy",
+          "fields": [
+            "Buddhist Religious Studies"
+          ]
+        },
+        {
+          "name": "Doctorate",
+          "fields": [
+            "Buddhist Religious Studies"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education, Higher Education and Vocational Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Bodagama Chandima Thero"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Piyaratna Ranasinghe Arachchi"
+        }
+      ],
+      "statistics": {},
+      "history": "Created 2015",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "15569",
+      "iau_id": "IAU-015569",
+      "name": "South Eastern University of Sri Lanka",
+      "alt_name": "(SEUSL)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzRVLUNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-015569",
+      "address": {
+        "Street": "PO Box 21, High Level Road",
+        "City": "Maharagama",
+        "WWW": "http://www.nie.lk"
+      },
+      "website": "http://www.nie.lk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [],
+      "faculties": [
+        {
+          "name": "Course/Programme : Education",
+          "fields": [
+            "Education",
+            "Educational Administration",
+            "Educational and Student Counselling"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Master's Degree (by coursework)",
+          "fields": [
+            "Education",
+            "Educational Administration"
+          ]
+        },
+        {
+          "name": "Postgraduate Certificate / Diploma",
+          "fields": [
+            "Education",
+            "Educational Administration",
+            "Educational and Student Counselling"
+          ]
+        },
+        {
+          "name": "Master of Philosophy",
+          "fields": [
+            "Education"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Jayanthi Gunasekara"
+        }
+      ],
+      "statistics": {},
+      "history": "Created in 1986 in order to establish a unique institute for capacity building of educational managers, teacher educators and teachers, design and develop school curricula and conduct policy research on education. The NIE is also mandated to advise the Minister on matters related to the development of education in Sri Lanka.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "25396",
+      "iau_id": "IAU-025396",
+      "name": "Sri Lanka Institute of Development Administration",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRTLjM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025396",
+      "address": {
+        "Street": "488 A, Nawala Road",
+        "City": "Rajagiriya",
+        "WWW": "http://www.nisd.lk"
+      },
+      "website": "http://www.nisd.lk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [],
+      "faculties": [
+        {
+          "name": "Course/Programme : Social Work",
+          "fields": [
+            "Social Work"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Master's Degree (by coursework)",
+          "fields": [
+            "Social Work"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Riddley Jayasinghe"
+        }
+      ],
+      "statistics": {},
+      "history": "Created 1992 by National Institute of Social Development Act no.41 of 1992 and initially collaborated with University of Colombo. Awarded status of a degree-awarding institution in 2005 by the UGC, and Master's degree awarded from 2008.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "20118",
+      "iau_id": "IAU-020118",
+      "name": "University of Colombo",
+      "alt_name": "(CMB)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BRLDNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020118",
+      "address": {
+        "Street": "Pitipana - Thalagala Road",
+        "City": "Homagama",
+        "WWW": "https://www.nsbm.ac.lk"
+      },
+      "website": "https://www.nsbm.ac.lk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Science",
+          "fields": [
+            "Biomedicine",
+            "Nutrition",
+            "Public Health"
+          ]
+        },
+        {
+          "name": "School : Business",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Human Resources",
+            "Industrial Management",
+            "Management",
+            "Multimedia",
+            "Tourism",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "School : Computing",
+          "fields": [
+            "Business Computing",
+            "Computer Networks",
+            "Computer Science",
+            "Multimedia",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "School : Engineering",
+          "fields": [
+            "Computer Engineering",
+            "Electrical and Electronic Engineering",
+            "Mechanical Engineering",
+            "Software Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Biomedicine",
+            "Business Administration",
+            "Business Computing",
+            "Computer Networks",
+            "Computer Science",
+            "Electrical and Electronic Engineering",
+            "Human Resources",
+            "Industrial Management",
+            "Interior Design",
+            "International Business",
+            "Mechanical Engineering",
+            "Multimedia",
+            "Public Health",
+            "Software Engineering",
+            "Tourism",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Master's Degree (by coursework)",
+          "fields": [
+            "Business Administration",
+            "Business and Commerce"
+          ]
+        },
+        {
+          "name": "Postgraduate Certificate / Diploma",
+          "fields": [
+            "Computer Networks",
+            "Human Resources",
+            "Industrial Management",
+            "Management",
+            "Software Engineering"
+          ]
+        }
+      ],
+      "accreditation": "University Grants Commission (UGC)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "E.A. Weerasinghe"
+        }
+      ],
+      "statistics": {},
+      "history": "Created 2012",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "20202",
+      "iau_id": "IAU-020202",
+      "name": "University of Jaffna",
+      "alt_name": "(JAF)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BSLCMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020202",
+      "address": {
+        "Street": "PO Box 21, Nawala",
+        "City": "Nugegoda",
+        "Province": "Western Province",
+        "Post Code": "10250",
+        "WWW": "http://www.ou.ac.lk"
+      },
+      "website": "http://www.ou.ac.lk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1980,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English",
+        "Sinhala",
+        "Tamil"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Distance Education",
+            "Education",
+            "Preschool Education",
+            "Secondary Education",
+            "Special Education",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering Technology",
+          "fields": [
+            "Agricultural Engineering",
+            "Automotive Engineering",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Electrical Engineering",
+            "Engineering",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Textile Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences",
+          "fields": [
+            "Medical Technology",
+            "Nursing",
+            "Pharmacy",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Faculty : Human and Social Sciences",
+          "fields": [
+            "Law",
+            "Management",
+            "Modern Languages",
+            "Social Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Natural Sciences",
+          "fields": [
+            "Botany",
+            "Chemistry",
+            "Computer Science",
+            "Mathematics",
+            "Physics",
+            "Zoology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma / Higher Diploma",
+          "fields": [
+            "Agriculture",
+            "Civil Engineering",
+            "Education",
+            "Electrical Engineering",
+            "Engineering",
+            "English",
+            "Industrial Engineering",
+            "Law",
+            "Management",
+            "Medical Technology",
+            "Natural Sciences",
+            "Nursing",
+            "Pharmacy",
+            "Psychology",
+            "Science Education",
+            "Social Sciences",
+            "Software Engineering",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Agriculture",
+            "Civil Engineering",
+            "Education",
+            "Electrical Engineering",
+            "Engineering",
+            "English",
+            "Industrial Engineering",
+            "Law",
+            "Management",
+            "Medical Technology",
+            "Natural Sciences",
+            "Nursing",
+            "Pharmacy",
+            "Psychology",
+            "Science Education",
+            "Social Sciences",
+            "Software Engineering",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Master's Degree (by coursework)",
+          "fields": [
+            "Business Administration",
+            "Development Studies",
+            "Education",
+            "Engineering Management",
+            "Entomology",
+            "Environmental Studies",
+            "Teacher Training",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Postgraduate Certificate / Diploma",
+          "fields": [
+            "Development Studies",
+            "Distance Education",
+            "Education",
+            "Environmental Studies",
+            "Special Education",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Master of Philosophy",
+          "fields": [
+            "Education",
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "Doctorate",
+          "fields": [
+            "Education",
+            "Natural Sciences"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "S.A. Ariadurai"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Vindhya Jayasena"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1980 to enable those of 18 years of age and over to pursue courses mainly in their own time and in their own homes. The multimedia learning system developed by the British Open University has served as a model.",
+      "periodicals": [
+        "Open University Review of Engineering Technology OUSL Journal VISTAS Journal",
+        "Open University Review of Engineering Technology",
+        "OUSL Journal",
+        "VISTAS Journal"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20315",
+      "iau_id": "IAU-020315",
+      "name": "University of Moratuwa",
+      "alt_name": "(MOR)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BTLDM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020315",
+      "address": {
+        "Street": "Mihintale",
+        "City": "Anuradhapura",
+        "Province": "North Central Province",
+        "Post Code": "0001",
+        "WWW": "https://www.rjt.ac.lk"
+      },
+      "website": "https://www.rjt.ac.lk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1996,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Sinhala",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Agriculture",
+          "fields": [
+            "Agricultural Engineering",
+            "Agriculture",
+            "Animal Husbandry",
+            "Food Technology",
+            "Plant and Crop Protection",
+            "Soil Management",
+            "Water Management"
+          ]
+        },
+        {
+          "name": "Faculty : Applied Sciences",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Engineering",
+            "Health Education",
+            "Information Technology",
+            "Mathematics",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Faculty : Management Studies",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Business Computing",
+            "Finance",
+            "Hotel Management",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Medical and Allied Sciences",
+          "fields": [
+            "Anaesthesiology",
+            "Anatomy",
+            "Biochemistry",
+            "Forensic Medicine and Dentistry",
+            "Medicine",
+            "Microbiology",
+            "Obstetrics and Gynaecology",
+            "Paediatrics",
+            "Parasitology",
+            "Pathology",
+            "Pharmacology",
+            "Physiology",
+            "Psychiatry and Mental Health",
+            "Radiology",
+            "Surgery"
+          ]
+        },
+        {
+          "name": "Faculty : Social Sciences and Humanities",
+          "fields": [
+            "Archaeology",
+            "Economics",
+            "Environmental Management",
+            "Heritage Preservation",
+            "History"
+          ]
+        },
+        {
+          "name": "Faculty : Technology",
+          "fields": [
+            "Biotechnology",
+            "Electrical and Electronic Engineering",
+            "Food Technology",
+            "Information Technology",
+            "Materials Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Agriculture",
+            "Applied Physics",
+            "Archaeology",
+            "Biology",
+            "Biotechnology",
+            "Business Administration",
+            "Business Computing",
+            "Economics",
+            "Electrical and Electronic Engineering",
+            "Environmental Management",
+            "Finance",
+            "Food Technology",
+            "Health Education",
+            "Heritage Preservation",
+            "History",
+            "Information Technology",
+            "Management",
+            "Materials Engineering",
+            "Mathematics",
+            "Medicine",
+            "Physics",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Master's Degree (by coursework)",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Postgraduate Certificate / Diploma",
+          "fields": [
+            "Management",
+            "Rural Studies"
+          ]
+        },
+        {
+          "name": "Master of Philosophy",
+          "fields": [
+            "Agriculture"
+          ]
+        },
+        {
+          "name": "Doctorate",
+          "fields": [
+            "Agriculture"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "P. M. B. Jayathilake"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "S.C. Herath"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "W.H.M.S. Samarathunga"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1996.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "20423",
+      "iau_id": "IAU-020423",
+      "name": "University of Peradeniya",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BULEMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020423",
+      "address": {
+        "Street": "University Park",
+        "City": "Oluvil",
+        "Province": "Eastern Province",
+        "Post Code": "32360",
+        "WWW": "http://www.seu.ac.lk"
+      },
+      "website": "http://www.seu.ac.lk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1995,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English",
+        "Tamil"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Applied Sciences",
+          "fields": [
+            "Biology",
+            "Mathematics",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Faculty : Arts and Culture",
+          "fields": [
+            "Economics",
+            "English",
+            "Geography",
+            "History",
+            "Philosophy",
+            "Political Sciences",
+            "Sociology",
+            "South and Southeast Asian Languages",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Electrical Engineering",
+            "Mechanical Engineering",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Islamic Studies and Arabic Language",
+          "fields": [
+            "Arabic",
+            "Islamic Law",
+            "Islamic Studies",
+            "Literature",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Faculty : Management and Commerce",
+          "fields": [
+            "Accountancy",
+            "Finance",
+            "Management"
+          ]
+        },
+        {
+          "name": "Faculty : Technology",
+          "fields": [
+            "Biotechnology",
+            "Computer Graphics",
+            "Information Technology",
+            "Multimedia"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Arabic",
+            "Biotechnology",
+            "Business Administration",
+            "Business and Commerce",
+            "Business Computing",
+            "Computer Science",
+            "Engineering",
+            "Finance",
+            "Geography",
+            "History",
+            "Human Resources",
+            "Information Technology",
+            "Islamic Law",
+            "Islamic Studies",
+            "Linguistics",
+            "Marketing",
+            "Philosophy",
+            "Political Sciences",
+            "Sociology",
+            "South and Southeast Asian Languages",
+            "Statistics",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Master's Degree (by coursework)",
+          "fields": [
+            "Business Administration",
+            "South and Southeast Asian Languages"
+          ]
+        },
+        {
+          "name": "Postgraduate Certificate / Diploma",
+          "fields": [
+            "Management",
+            "South and Southeast Asian Languages"
+          ]
+        },
+        {
+          "name": "Master of Philosophy",
+          "fields": [
+            "South and Southeast Asian Languages"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "M.M.M. Najim"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "H. Abdul Saththar"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1995. Acquired present status 1996.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "20462",
+      "iau_id": "IAU-020462",
+      "name": "University of Ruhuna",
+      "alt_name": "(RUH)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BULUMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020462",
+      "address": {
+        "Street": "28/10, Malalasekara Mawatha",
+        "City": "Colombo",
+        "Post Code": "07",
+        "WWW": "http://www.slida.lk"
+      },
+      "website": "http://www.slida.lk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [],
+      "faculties": [
+        {
+          "name": "Course/Programme : Public Management",
+          "fields": [
+            "Management",
+            "Public Administration"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Master's Degree (by coursework)",
+          "fields": [
+            "Management",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "Postgraduate Certificate / Diploma",
+          "fields": [
+            "Management",
+            "Public Administration"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Wasantha Perera"
+        }
+      ],
+      "statistics": {},
+      "history": "Created in 1982 as a public sector training organization for the development of knowledge and improvement of skills in public administration and management.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "20514",
+      "iau_id": "IAU-020514",
+      "name": "University of Sri Jayewardenepura",
+      "alt_name": "(SJP)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BVLDMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020514",
+      "address": {
+        "Street": "Cumaratunge Munidasa MawathaPO Box 1490",
+        "City": "Colombo",
+        "Province": "Western Province",
+        "Post Code": "3",
+        "WWW": "https://cmb.ac.lk"
+      },
+      "website": "https://cmb.ac.lk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1921,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "October to September",
+      "languages": [
+        "Sinhala",
+        "Tamil",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : Sripalee",
+          "fields": [
+            "Dance",
+            "Design",
+            "Fine Arts",
+            "Mass Communication",
+            "Media Studies",
+            "Music",
+            "Performing Arts",
+            "Radio and Television Broadcasting",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Centre : Contemporary Indian Studies",
+          "fields": [
+            "South Asian Studies"
+          ]
+        },
+        {
+          "name": "Centre : Education and Research Evaluation",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Centre : Human Rights",
+          "fields": [
+            "Human Rights"
+          ]
+        },
+        {
+          "name": "Centre : Social Policy Analysis and Research",
+          "fields": [
+            "Social Policy"
+          ]
+        },
+        {
+          "name": "Faculty : Arts",
+          "fields": [
+            "Asian Religious Studies",
+            "Demography and Population",
+            "Economics",
+            "English",
+            "Geography",
+            "History",
+            "International Relations and Diplomacy",
+            "Journalism",
+            "Media Studies",
+            "Native Language",
+            "Political Sciences",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Art Education",
+            "Developmental Psychology",
+            "Education",
+            "Educational Administration",
+            "Educational and Student Counselling",
+            "Foreign Languages Education",
+            "Science Education"
+          ]
+        },
+        {
+          "name": "Faculty : Graduate Studies",
+          "fields": [
+            "Business and Commerce",
+            "Clinical Psychology",
+            "Development Studies",
+            "East Asian Studies",
+            "Environmental Management",
+            "Gender Studies",
+            "Human Resources",
+            "Human Rights",
+            "Information Management",
+            "Peace and Disarmament",
+            "Psychology",
+            "Public Administration",
+            "Regional Planning",
+            "Women's Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Management and Finance",
+          "fields": [
+            "Accountancy",
+            "Business and Commerce",
+            "Economics",
+            "Finance",
+            "Hotel Management",
+            "Human Resources",
+            "International Business",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Biochemistry",
+            "Health Administration",
+            "Medicine",
+            "Molecular Biology",
+            "Physical Therapy",
+            "Toxicology"
+          ]
+        },
+        {
+          "name": "Faculty : Science",
+          "fields": [
+            "Botany",
+            "Chemistry",
+            "Computer Science",
+            "Mathematics",
+            "Molecular Biology",
+            "Natural Sciences",
+            "Pharmacy",
+            "Physics",
+            "Zoology"
+          ]
+        },
+        {
+          "name": "Faculty : Technology",
+          "fields": [
+            "Agriculture",
+            "Biotechnology",
+            "Environmental Studies",
+            "Information Technology",
+            "Measurement and Precision Engineering"
+          ]
+        },
+        {
+          "name": "Institute : Agro-technology and Rural Sciences",
+          "fields": [
+            "Agriculture",
+            "Rural Studies"
+          ]
+        },
+        {
+          "name": "Institute : Biochemistry, Molecular Biology, Biotechnology",
+          "fields": [
+            "Biochemistry",
+            "Biotechnology",
+            "Molecular Biology"
+          ]
+        },
+        {
+          "name": "Institute : Human Resource Advancement",
+          "fields": [
+            "Human Resources"
+          ]
+        },
+        {
+          "name": "Institute : Indigenous Medicine",
+          "fields": [
+            "Ayurvedic Medicine",
+            "Traditional Eastern Medicine"
+          ]
+        },
+        {
+          "name": "Institute : Library and Information Sciences",
+          "fields": [
+            "Information Sciences",
+            "Library Science"
+          ]
+        },
+        {
+          "name": "Institute : Postgraduate Medicine",
+          "fields": [
+            "Anaesthesiology",
+            "Cardiology",
+            "Community Health",
+            "Dentistry",
+            "Dermatology",
+            "Endocrinology",
+            "Gastroenterology",
+            "Health Administration",
+            "Medicine",
+            "Microbiology",
+            "Nephrology",
+            "Neurology",
+            "Obstetrics and Gynaecology",
+            "Oncology",
+            "Ophthalmology",
+            "Oral Pathology",
+            "Otorhinolaryngology",
+            "Paediatrics",
+            "Pathology",
+            "Pneumology",
+            "Psychiatry and Mental Health",
+            "Radiology",
+            "Rehabilitation and Therapy",
+            "Rheumatology",
+            "Surgery",
+            "Venereology"
+          ]
+        },
+        {
+          "name": "School : Computing",
+          "fields": [
+            "Communication Studies",
+            "Computer Science",
+            "Information Sciences",
+            "Information Technology",
+            "Media Studies"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Ayurvedic Medicine",
+            "Biotechnology",
+            "Computer Science",
+            "Economics",
+            "Engineering",
+            "Finance",
+            "Fine Arts",
+            "Hotel Management",
+            "Human Resources",
+            "International Business",
+            "Law",
+            "Management",
+            "Marketing",
+            "Medicine",
+            "Pharmacy",
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "Master's Degree (by coursework)",
+          "fields": [
+            "American Studies",
+            "Analytical Chemistry",
+            "Applied Chemistry",
+            "Art Education",
+            "Ayurvedic Medicine",
+            "Biochemistry",
+            "Business Administration",
+            "Business and Commerce",
+            "Clinical Psychology",
+            "Computer Science",
+            "Development Studies",
+            "Developmental Psychology",
+            "Educational Administration",
+            "Educational Psychology",
+            "Environmental Management",
+            "Fine Arts",
+            "Foreign Languages Education",
+            "Genetics",
+            "Human Resources",
+            "Human Rights",
+            "Information Management",
+            "Information Technology",
+            "Law",
+            "Management",
+            "Microbiology",
+            "Molecular Biology",
+            "Nuclear Physics",
+            "Peace and Disarmament",
+            "Philosophy",
+            "Plant Pathology",
+            "Science Education",
+            "Women's Studies"
+          ]
+        },
+        {
+          "name": "Postgraduate Certificate / Diploma",
+          "fields": [
+            "Analytical Chemistry",
+            "Applied Chemistry",
+            "Art Education",
+            "Ayurvedic Medicine",
+            "Banking",
+            "Educational and Student Counselling",
+            "Foreign Languages Education",
+            "Health Administration",
+            "Meteorology",
+            "Microbiology",
+            "Physics",
+            "Science Education",
+            "Toxicology"
+          ]
+        },
+        {
+          "name": "Master of Philosophy",
+          "fields": [
+            "Clinical Psychology",
+            "Education",
+            "Law",
+            "Medicine",
+            "Organic Chemistry",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Doctorate",
+          "fields": [
+            "Education",
+            "Law",
+            "Management",
+            "Medicine"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Hettige Don Karunaratne"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "K.A.S. Edward"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1921 as Ceylon University College, became University of Ceylon 1942, University of Ceylon, Colombo 1968, and Colombo Campus of University of Sri Lanka 1972. Again became an independent University with present title 1979.",
+      "periodicals": [
+        "Ceylon Journal of Medical Science Sri Lanka Journal of International Law University of Colombo Review",
+        "Ceylon Journal of Medical Science",
+        "Sri Lanka Journal of International Law",
+        "University of Colombo Review"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "8337",
+      "iau_id": "IAU-008337",
+      "name": "University of the Visual and Performing Arts",
+      "alt_name": "(IAS)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uIyxTLVBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-008337",
+      "address": {
+        "Street": "PO Box 57, Thirunelvely",
+        "City": "Jaffna",
+        "Province": "Northern Province",
+        "Post Code": "40000",
+        "WWW": "http://www.jfn.ac.lk"
+      },
+      "website": "http://www.jfn.ac.lk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1974,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "August to May",
+      "languages": [
+        "Tamil",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : Vavuniya",
+          "fields": [
+            "Accountancy",
+            "Computer Science",
+            "Economics",
+            "Education",
+            "Environmental Studies",
+            "Finance",
+            "Information Technology",
+            "Management",
+            "Marketing",
+            "Mathematics"
+          ]
+        },
+        {
+          "name": "Centre : English Language Teaching",
+          "fields": [
+            "English"
+          ]
+        },
+        {
+          "name": "Faculty : Agriculture",
+          "fields": [
+            "Agricultural Economics",
+            "Agricultural Engineering",
+            "Agriculture",
+            "Agronomy",
+            "Applied Chemistry",
+            "Zoology"
+          ]
+        },
+        {
+          "name": "Faculty : Applied Sciences",
+          "fields": [
+            "Biological and Life Sciences",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Faculty : Arts",
+          "fields": [
+            "Cultural Studies",
+            "Economics",
+            "Education",
+            "English",
+            "Fine Arts",
+            "Geography (Human)",
+            "History",
+            "Indic Languages",
+            "Islamic Studies",
+            "Linguistics",
+            "Philosophy",
+            "Political Sciences",
+            "Sanskrit",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Faculty : Business Studies",
+          "fields": [
+            "Accountancy",
+            "Business and Commerce",
+            "Economics",
+            "Finance",
+            "Management"
+          ]
+        },
+        {
+          "name": "Faculty : Graduate Studies",
+          "fields": [
+            "Cultural Studies",
+            "Education",
+            "South and Southeast Asian Languages"
+          ]
+        },
+        {
+          "name": "Faculty : Management Studies and Commerce",
+          "fields": [
+            "Accountancy",
+            "Business and Commerce",
+            "Finance",
+            "Human Resources",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Anatomy",
+            "Biochemistry",
+            "Community Health",
+            "Forensic Medicine and Dentistry",
+            "Medicine",
+            "Microbiology",
+            "Obstetrics and Gynaecology",
+            "Paediatrics",
+            "Parasitology",
+            "Pathology",
+            "Pharmacology",
+            "Physiology",
+            "Psychiatry and Mental Health",
+            "Surgery"
+          ]
+        },
+        {
+          "name": "Faculty : Science",
+          "fields": [
+            "Botany",
+            "Chemistry",
+            "Fishery",
+            "Mathematics and Computer Science",
+            "Natural Sciences",
+            "Physics",
+            "Statistics",
+            "Zoology"
+          ]
+        },
+        {
+          "name": "Unit : Health Studies",
+          "fields": [
+            "Health Sciences"
+          ]
+        },
+        {
+          "name": "Unit : Physical Education",
+          "fields": [
+            "Physical Education"
+          ]
+        },
+        {
+          "name": "Unit : Siddha Medicine",
+          "fields": [
+            "Traditional Eastern Medicine"
+          ]
+        },
+        {
+          "name": "Unit : Sports Science",
+          "fields": [
+            "Sports"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Agriculture",
+            "Dance",
+            "Design",
+            "Finance",
+            "Fine Arts",
+            "Human Resources",
+            "Law",
+            "Management",
+            "Marketing",
+            "Medical Technology",
+            "Medicine",
+            "Music",
+            "Natural Sciences",
+            "Nursing",
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Master's Degree (by coursework)",
+          "fields": [
+            "Cultural Studies",
+            "Education",
+            "South and Southeast Asian Languages"
+          ]
+        },
+        {
+          "name": "Postgraduate Certificate / Diploma",
+          "fields": [
+            "Education",
+            "Library Science"
+          ]
+        },
+        {
+          "name": "Master of Philosophy",
+          "fields": [
+            "Biochemistry",
+            "Biology",
+            "Botany",
+            "Chemistry",
+            "Computer Science",
+            "Education",
+            "Fine Arts",
+            "Geography",
+            "History",
+            "Linguistics",
+            "Management",
+            "Mathematics",
+            "Music",
+            "Nursing",
+            "Parasitology",
+            "Pharmacology",
+            "Philosophy",
+            "Physics",
+            "Political Sciences",
+            "Psychology",
+            "Sanskrit",
+            "Traditional Eastern Medicine",
+            "Zoology"
+          ]
+        },
+        {
+          "name": "Doctorate",
+          "fields": [
+            "Agricultural Engineering",
+            "Economics",
+            "Education",
+            "Geography",
+            "Library Science",
+            "Linguistics",
+            "Management",
+            "Philosophy",
+            "Political Sciences"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ratnam Vigneswaran"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Visvanathan Kandeepan"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1974 as Jaffna Campus of University of Sri Lanka, acquired present status and title 1979.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "20801",
+      "iau_id": "IAU-020801",
+      "name": "Uva Wellassa University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BYLCMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020801",
+      "address": {
+        "Street": "Katubedda",
+        "City": "Moratuwa",
+        "Province": "Western Province",
+        "Post Code": "10400",
+        "WWW": "http://www.mrt.ac.lk"
+      },
+      "website": "http://www.mrt.ac.lk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1966,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "June to March",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Architecture",
+          "fields": [
+            "Architecture",
+            "Design",
+            "Landscape Architecture",
+            "Management",
+            "Rural Planning",
+            "Surveying and Mapping",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "Faculty : Business",
+          "fields": [
+            "Business and Commerce",
+            "Finance",
+            "Management"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Earth Sciences",
+            "Electrical and Electronic Engineering",
+            "Engineering",
+            "Engineering Management",
+            "Industrial Engineering",
+            "Management Systems",
+            "Marine Engineering",
+            "Materials Engineering",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Mining Engineering",
+            "Polymer and Plastics Technology",
+            "Technology",
+            "Telecommunications Engineering",
+            "Textile Design",
+            "Textile Technology",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Faculty : Graduate Studies",
+          "fields": [
+            "Information Technology",
+            "Mathematics and Computer Science"
+          ]
+        },
+        {
+          "name": "Faculty : Information Technology",
+          "fields": [
+            "Information Technology",
+            "Mathematics and Computer Science"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Architecture",
+            "Business and Commerce",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Design",
+            "Electrical Engineering",
+            "Environmental Engineering",
+            "Fashion Design",
+            "Information Management",
+            "Information Technology",
+            "Landscape Architecture",
+            "Materials Engineering",
+            "Mechanical Engineering",
+            "Rural Planning",
+            "Surveying and Mapping",
+            "Telecommunications Engineering",
+            "Textile Technology",
+            "Town Planning",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Master's Degree (by coursework)",
+          "fields": [
+            "Architecture",
+            "Artificial Intelligence",
+            "Engineering Management",
+            "Information Technology",
+            "Interior Design",
+            "Materials Engineering",
+            "Mathematics",
+            "Mining Engineering",
+            "Safety Engineering",
+            "Statistics",
+            "Surveying and Mapping",
+            "Textile Technology",
+            "Urban Studies",
+            "Water Management"
+          ]
+        },
+        {
+          "name": "Postgraduate Certificate / Diploma",
+          "fields": [
+            "Artificial Intelligence",
+            "Educational Technology",
+            "Engineering Management",
+            "Environmental Engineering",
+            "Information Technology",
+            "Landscape Architecture",
+            "Road Engineering",
+            "Rural Planning",
+            "Town Planning",
+            "Transport Engineering",
+            "Transport Management",
+            "Water Management"
+          ]
+        },
+        {
+          "name": "Master of Philosophy",
+          "fields": [
+            "Architecture",
+            "Computer Science",
+            "Engineering",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Doctorate",
+          "fields": [
+            "Architecture",
+            "Information Technology"
+          ]
+        }
+      ],
+      "accreditation": "UGC, Sri Lanka; Institution of Engineers; Institute of Achitects; Royal Institute of British Architects (RIBA); Royal Institute of Chartered Surveyors (RICS), Australian Institute of Quantity Surveyors (AIQS); Institution of Civil Engineers (ICE) and Institution of Mechanical Engineers (IMechE), UK.",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "K. Kapila C.K. Perera"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "A.L. Joufer Sadique"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1966 as Ceylon College of Technology, became Katubedda Campus of University of Sri Lanka 1972 and acquired present status and title 1978.",
+      "periodicals": [
+        "A.S.A. Development Planning Research Journal",
+        "A.S.A. Development Planning Research Journal"
+      ],
+      "student_body": null
+    },
+    {
+      "id": "21151",
+      "iau_id": "IAU-021151",
+      "name": "Wayamba University of Sri Lanka",
+      "alt_name": "(WUSL)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyRRLTMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-021151",
+      "address": {
+        "Street": "University Park",
+        "City": "Peradeniya",
+        "Province": "Central Province",
+        "Post Code": "20400",
+        "WWW": "http://www.pdn.ac.lk"
+      },
+      "website": "http://www.pdn.ac.lk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1942,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "October to September",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Agriculture",
+          "fields": [
+            "Agricultural Economics",
+            "Agricultural Engineering",
+            "Agriculture",
+            "Animal Husbandry",
+            "Crop Production",
+            "Food Science",
+            "Food Technology",
+            "Soil Science"
+          ]
+        },
+        {
+          "name": "Faculty : Allied Health Sciences",
+          "fields": [
+            "Medical Technology",
+            "Nursing",
+            "Pharmacy",
+            "Physical Therapy",
+            "Radiology"
+          ]
+        },
+        {
+          "name": "Faculty : Arts",
+          "fields": [
+            "Arabic",
+            "Archaeology",
+            "Arts and Humanities",
+            "Asian Religious Studies",
+            "Business and Commerce",
+            "Classical Languages",
+            "Cultural Studies",
+            "Economics",
+            "Education",
+            "English",
+            "Geography",
+            "History",
+            "Indic Languages",
+            "Islamic Studies",
+            "Law",
+            "Philosophy",
+            "Political Sciences",
+            "Psychology",
+            "Sociology",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Faculty : Dental Sciences",
+          "fields": [
+            "Dental Hygiene",
+            "Dentistry",
+            "Surgery"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Electrical and Electronic Engineering",
+            "Engineering",
+            "Engineering Management",
+            "Mathematics and Computer Science",
+            "Mechanical Engineering",
+            "Production Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Management",
+          "fields": [
+            "Management"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Anaesthesiology",
+            "Anatomy",
+            "Biochemistry",
+            "Community Health",
+            "Forensic Medicine and Dentistry",
+            "Medicine",
+            "Microbiology",
+            "Obstetrics and Gynaecology",
+            "Paediatrics",
+            "Parasitology",
+            "Pathology",
+            "Pharmacology",
+            "Physiology",
+            "Psychiatry and Mental Health"
+          ]
+        },
+        {
+          "name": "Faculty : Science",
+          "fields": [
+            "Botany",
+            "Chemistry",
+            "Geology",
+            "Mathematics",
+            "Natural Sciences",
+            "Physics",
+            "Zoology"
+          ]
+        },
+        {
+          "name": "Faculty : Veterinary  Medicine and Animal Science",
+          "fields": [
+            "Animal Husbandry",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Institute : Postgraduate  Institute of Agriculture",
+          "fields": [
+            "Agricultural Economics",
+            "Agricultural Engineering",
+            "Agriculture",
+            "Agrobiology",
+            "Business Administration",
+            "Crop Production",
+            "Food Science",
+            "Food Technology",
+            "Plant and Crop Protection",
+            "Soil Science",
+            "Statistics",
+            "Zoology"
+          ]
+        },
+        {
+          "name": "Institute : Postgraduate Institute  of Science",
+          "fields": [
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "Institute : Postgraduate Institute of Humanities and Social Sciences",
+          "fields": [
+            "Arts and Humanities",
+            "Social Sciences"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Agricultural Equipment",
+            "Agricultural Management",
+            "Animal Husbandry",
+            "Arabic",
+            "Archaeology",
+            "Biology",
+            "Botany",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Dentistry",
+            "Economics",
+            "Electrical and Electronic Engineering",
+            "English",
+            "Finance",
+            "Fine Arts",
+            "Fishery",
+            "Food Science",
+            "Geography",
+            "History",
+            "Indic Languages",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Medical Technology",
+            "Medicine",
+            "Molecular Biology",
+            "Nursing",
+            "Operations Research",
+            "Pharmacy",
+            "Philosophy",
+            "Physical Therapy",
+            "Physics",
+            "Political Sciences",
+            "Production Engineering",
+            "Psychology",
+            "Radiology",
+            "Sanskrit",
+            "Sociology",
+            "Statistics",
+            "Veterinary Science",
+            "Zoology"
+          ]
+        },
+        {
+          "name": "Master's Degree (by coursework)",
+          "fields": [
+            "Archaeology",
+            "Economics",
+            "Education",
+            "English",
+            "Fine Arts",
+            "History",
+            "Indic Languages",
+            "Islamic Studies",
+            "Philosophy",
+            "Political Sciences",
+            "Psychology",
+            "Sanskrit",
+            "Sociology",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Postgraduate Certificate / Diploma",
+          "fields": [
+            "Archaeology",
+            "Economics",
+            "Education",
+            "English",
+            "Fine Arts",
+            "Geography",
+            "History",
+            "Indic Languages",
+            "Islamic Studies",
+            "Philosophy",
+            "Political Sciences",
+            "Psychology",
+            "Sanskrit",
+            "Sociology",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Master of Philosophy",
+          "fields": [
+            "Agricultural Economics",
+            "Animal Husbandry",
+            "Archaeology",
+            "Dentistry",
+            "Economics",
+            "English",
+            "Fine Arts",
+            "Food Technology",
+            "Geography",
+            "History",
+            "Indic Languages",
+            "Islamic Studies",
+            "Oral Pathology",
+            "Philosophy",
+            "Political Sciences",
+            "Psychology",
+            "Sanskrit",
+            "Sociology",
+            "Zoology"
+          ]
+        },
+        {
+          "name": "Doctorate",
+          "fields": [
+            "Agriculture",
+            "Archaeology",
+            "Dentistry",
+            "Economics",
+            "Engineering",
+            "English",
+            "Fine Arts",
+            "Geography",
+            "History",
+            "Indic Languages",
+            "Islamic Studies",
+            "Natural Sciences",
+            "Philosophy",
+            "Political Sciences",
+            "Psychology",
+            "Sanskrit",
+            "Sociology",
+            "Veterinary Science",
+            "Zoology"
+          ]
+        }
+      ],
+      "accreditation": "UGC, Sri Lanka",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "M.D. Lamawansa"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "W.M.T. Madhujith"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1942, incorporating Ceylon Medical College (1870) and Ceylon University College (1921), and became Peradeniya Campus of University of Sri Lanka 1972. Acquired present status and title 1978.",
+      "periodicals": [
+        "Ceylon Journal of Science Modern Ceylon Studies: A Journal of the Social Sciences The Sri Lanka Journal of Humanities",
+        "Ceylon Journal of Science",
+        "Modern Ceylon Studies: A Journal of the Social Sciences",
+        "The Sri Lanka Journal of Humanities"
+      ],
+      "student_body": null
+    }
+  ]
+}

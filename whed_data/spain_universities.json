@@ -1,0 +1,6773 @@
+{
+  "country_name": "Spain",
+  "country_id": "Spain",
+  "institutions": [
+    {
+      "id": "19311",
+      "iau_id": "IAU-019311",
+      "name": "Abat Oliba CEU University",
+      "alt_name": "Universitat Abat Oliba CEU (UAOC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RTLDMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019311",
+      "address": {
+        "Street": "Edificio ConvalecenciaAvenida Teniente Flomesta, s/n",
+        "City": "Murcia",
+        "Post Code": "30003",
+        "WWW": "https://www.um.es"
+      },
+      "website": "https://www.um.es",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1915,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "October to June (October-December; January-March; April-June)",
+      "languages": [
+        "Spanish",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Arts and Humanities",
+          "fields": [
+            "Archaeology",
+            "Art History",
+            "Arts and Humanities",
+            "Comparative Literature",
+            "Foreign Languages Education",
+            "Geography",
+            "Geography (Human)",
+            "History",
+            "Literature",
+            "Philology",
+            "Philosophy",
+            "Prehistory"
+          ]
+        },
+        {
+          "name": "Faculty : Biology",
+          "fields": [
+            "Biology",
+            "Biotechnology",
+            "Environmental Studies",
+            "Microbiology",
+            "Molecular Biology"
+          ]
+        },
+        {
+          "name": "Faculty : Chemistry",
+          "fields": [
+            "Analytical Chemistry",
+            "Biochemistry",
+            "Chemical Engineering",
+            "Chemistry",
+            "Genetics",
+            "Inorganic Chemistry",
+            "Organic Chemistry",
+            "Pharmacology",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Faculty : Communication and Documentation Sciences",
+          "fields": [
+            "Communication Studies",
+            "Documentation Techniques",
+            "Library Science"
+          ]
+        },
+        {
+          "name": "Faculty : Computer Science",
+          "fields": [
+            "Computer Science",
+            "Information Technology",
+            "Systems Analysis"
+          ]
+        },
+        {
+          "name": "Faculty : Economics and Business Management",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Economics",
+            "Finance",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Education",
+            "English",
+            "Foreign Languages Education",
+            "French",
+            "Music Education",
+            "Pedagogy",
+            "Physical Education",
+            "Preschool Education",
+            "Primary Education",
+            "Special Education"
+          ]
+        },
+        {
+          "name": "Faculty : Fine Arts",
+          "fields": [
+            "Art History",
+            "Fine Arts",
+            "Painting and Drawing",
+            "Sculpture"
+          ]
+        },
+        {
+          "name": "Faculty : Labour Studies",
+          "fields": [
+            "Labour and Industrial Relations",
+            "Labour Law"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Administration",
+            "Civil Law",
+            "Criminal Law",
+            "Labour Law",
+            "Law",
+            "Political Sciences",
+            "Private Law",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "Faculty : Mathematics",
+          "fields": [
+            "Applied Mathematics",
+            "Artificial Intelligence",
+            "Mathematics",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Anatomy",
+            "Biochemistry",
+            "Cell Biology",
+            "Dentistry",
+            "Dermatology",
+            "Genetics",
+            "Medicine",
+            "Microbiology",
+            "Molecular Biology",
+            "Obstetrics and Gynaecology",
+            "Ophthalmology",
+            "Otorhinolaryngology",
+            "Paediatrics",
+            "Pharmacology",
+            "Physical Therapy",
+            "Psychiatry and Mental Health",
+            "Psychology",
+            "Radiology",
+            "Stomatology",
+            "Surgery"
+          ]
+        },
+        {
+          "name": "Faculty : Optics and Optometry",
+          "fields": [
+            "Optometry"
+          ]
+        },
+        {
+          "name": "Faculty : Philosophy",
+          "fields": [
+            "Philosophy"
+          ]
+        },
+        {
+          "name": "Faculty : Psychology",
+          "fields": [
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Faculty : Social Work",
+          "fields": [
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Faculty : Veterinary Medicine",
+          "fields": [
+            "Animal Husbandry",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "School : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Título de Graduado",
+          "fields": [
+            "Business Administration",
+            "Engineering",
+            "Industrial Management",
+            "Library Science",
+            "Medicine",
+            "Nursing",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Máster Universitario",
+          "fields": [
+            "Aquaculture",
+            "Biological and Life Sciences",
+            "Biotechnology",
+            "Chemistry",
+            "Education",
+            "Finance",
+            "Fine Arts",
+            "Food Science",
+            "Health Sciences",
+            "History",
+            "Labour Law",
+            "Law",
+            "Linguistics",
+            "Literature",
+            "Management",
+            "Marketing",
+            "Mathematics",
+            "Medicine",
+            "Nutrition",
+            "Philosophy",
+            "Psychology",
+            "Public Health",
+            "Social Work",
+            "Sports",
+            "Theology",
+            "Veterinary Science",
+            "Water Science"
+          ]
+        },
+        {
+          "name": "Doctor",
+          "fields": [
+            "Art History",
+            "Biology",
+            "Business Administration",
+            "Chemistry",
+            "Computer Science",
+            "Criminal Law",
+            "Education",
+            "Fine Arts",
+            "Food Science",
+            "Geography",
+            "Health Sciences",
+            "History",
+            "Labour and Industrial Relations",
+            "Law",
+            "Linguistics",
+            "Literature",
+            "Mathematics",
+            "Nutrition",
+            "Ophthalmology",
+            "Philosophy",
+            "Physics",
+            "Political Sciences",
+            "Psychology",
+            "Public Administration",
+            "Theology",
+            "Translation and Interpretation",
+            "Veterinary Science",
+            "Viticulture"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Universities",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "José Luján Alcaraz"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Francisco Antonio González Díaz"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "María Senena Corbalán García"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1915, a State institution under the jurisdiction of the Ministry of Education and Science",
+      "periodicals": [
+        "Anales de la Universidad de Murcia",
+        "Anales de la Universidad de Murcia"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "17133",
+      "iau_id": "IAU-017133",
+      "name": "Alfonso X El Sabio University",
+      "alt_name": "Universidad Alfonso X El Sabio (UAX)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxRLFMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017133",
+      "address": {
+        "Street": "University campus",
+        "City": "Pamplona",
+        "Province": "Navarra",
+        "Post Code": "31009",
+        "WWW": "https://www.unav.edu"
+      },
+      "website": "https://www.unav.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1952,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "September to June (September-January; February-June)",
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Applied Medical Research",
+          "fields": [
+            "Biomedicine"
+          ]
+        },
+        {
+          "name": "Centre : Pharmacobiology Research",
+          "fields": [
+            "Pharmacology"
+          ]
+        },
+        {
+          "name": "Faculty : Architecture",
+          "fields": [
+            "Architecture",
+            "Structural Architecture"
+          ]
+        },
+        {
+          "name": "Faculty : Canon Law",
+          "fields": [
+            "Canon Law"
+          ]
+        },
+        {
+          "name": "Faculty : Communication",
+          "fields": [
+            "Advertising and Publicity",
+            "Cinema and Television",
+            "Communication Studies",
+            "Journalism",
+            "Public Relations"
+          ]
+        },
+        {
+          "name": "Faculty : Ecclesiastical Philosophy",
+          "fields": [
+            "Ethics",
+            "Philosophy"
+          ]
+        },
+        {
+          "name": "Faculty : Economics and Management",
+          "fields": [
+            "Business Administration",
+            "Economics",
+            "Law",
+            "Management"
+          ]
+        },
+        {
+          "name": "Faculty : Education and Psychology",
+          "fields": [
+            "Education",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Faculty : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Faculty : Pharmacy",
+          "fields": [
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Faculty : Philosophy and Letters",
+          "fields": [
+            "Arts and Humanities",
+            "History",
+            "Journalism",
+            "Pedagogy",
+            "Philology",
+            "Philosophy",
+            "Preschool Education",
+            "Primary Education"
+          ]
+        },
+        {
+          "name": "Faculty : Science",
+          "fields": [
+            "Biochemistry",
+            "Biology",
+            "Chemistry",
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Theology",
+          "fields": [
+            "Theology"
+          ]
+        },
+        {
+          "name": "Institute : Anthropology and Ethics",
+          "fields": [
+            "Anthropology",
+            "Ethics"
+          ]
+        },
+        {
+          "name": "Institute : Applied Biology",
+          "fields": [
+            "Biology"
+          ]
+        },
+        {
+          "name": "Institute : Civil Engineering",
+          "fields": [
+            "Civil Engineering"
+          ]
+        },
+        {
+          "name": "Institute : Culture and Society",
+          "fields": [
+            "Cultural Studies"
+          ]
+        },
+        {
+          "name": "Institute : Family Studies",
+          "fields": [
+            "Family Studies"
+          ]
+        },
+        {
+          "name": "Institute : Food Sciences",
+          "fields": [
+            "Food Science"
+          ]
+        },
+        {
+          "name": "Institute : Human Rights",
+          "fields": [
+            "Human Rights"
+          ]
+        },
+        {
+          "name": "Institute : Liberal Arts",
+          "fields": [
+            "Arts and Humanities"
+          ]
+        },
+        {
+          "name": "Institute : Martín Azpilcueta",
+          "fields": [
+            "Canon Law"
+          ]
+        },
+        {
+          "name": "Institute : Medieval Studies",
+          "fields": [
+            "Medieval Studies"
+          ]
+        },
+        {
+          "name": "School : Applied Management",
+          "fields": [
+            "Hotel Management",
+            "Management"
+          ]
+        },
+        {
+          "name": "School : Architecture",
+          "fields": [
+            "Architecture"
+          ]
+        },
+        {
+          "name": "School : Engineering",
+          "fields": [
+            "Electrical and Electronic Engineering",
+            "Materials Engineering",
+            "Mechanical Engineering",
+            "Robotics",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "School : Fashion Business",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "School : Management Assistants",
+          "fields": [
+            "Secretarial Studies"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Título de Graduado",
+          "fields": [
+            "Architecture",
+            "Arts and Humanities",
+            "Biochemistry",
+            "Biology",
+            "Canon Law",
+            "Chemistry",
+            "Dietetics",
+            "Economics",
+            "Education",
+            "Fine Arts",
+            "History",
+            "Industrial Engineering",
+            "Journalism",
+            "Law",
+            "Management",
+            "Medicine",
+            "Nursing",
+            "Nutrition",
+            "Pharmacy",
+            "Philology",
+            "Philosophy",
+            "Public Relations",
+            "Radio and Television Broadcasting",
+            "Secretarial Studies",
+            "Spanish",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Máster Propio",
+          "fields": [
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Máster Universitario",
+          "fields": [
+            "Architecture",
+            "Arts and Humanities",
+            "Biomedical Engineering",
+            "Biomedicine",
+            "Business Administration",
+            "Cell Biology",
+            "Commercial Law",
+            "Computer Engineering",
+            "Data Science",
+            "Economics",
+            "Education",
+            "Environmental Management",
+            "Ethics",
+            "Finance",
+            "Gerontology",
+            "Government",
+            "Health Sciences",
+            "Hotel Management",
+            "Human Resources",
+            "Industrial Engineering",
+            "Journalism",
+            "Law",
+            "Management",
+            "Media Studies",
+            "Nursing",
+            "Nutrition",
+            "Pharmacology",
+            "Pharmacy",
+            "Psychology",
+            "Teacher Training",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Doctor",
+          "fields": [
+            "Arts and Humanities",
+            "Biology",
+            "Biomedicine",
+            "Business Administration",
+            "Canon Law",
+            "Chemistry",
+            "Communication Studies",
+            "Economics",
+            "Education",
+            "Environmental Studies",
+            "Food Science",
+            "Law",
+            "Management",
+            "Nursing",
+            "Philosophy",
+            "Theology"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Universities",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "​​​María Iraburu Elizalde"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Jesús María Ezponda"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Ana Beatriz Delgado García-Muñoz"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Rosalía Baena"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1952 as Estudio General de Navarra by Opus Dei, recognized as Catholic University by decree of the Holy See 1960. Degrees granted equivalence with State degrees 1962. A private autonomous institution. Financially supported by Associations of Friends of the University of Navarra, and by tuition fees and donations",
+      "periodicals": [
+        "Alergología e Imunopatología Anuario de Historia de le Iglesia Anuario Filosófico Comunicación y Sociedad Cuadernos de Arqueologia Europe Today Humana Jura Ius Canonicum Nuestro Tiempo Persona y Derecho Publicaciones de Biología Redacción Revista de Edificación Revista de Medicina Revista de Proyectos Revista Española de Fisiología RILCE Scripta Theologica",
+        "Alergología e Imunopatología",
+        "Anuario de Historia de le Iglesia",
+        "Anuario Filosófico",
+        "Comunicación y Sociedad",
+        "Cuadernos de Arqueologia",
+        "Europe Today",
+        "Humana Jura",
+        "Ius Canonicum",
+        "Nuestro Tiempo",
+        "Persona y Derecho",
+        "Publicaciones de Biología",
+        "Redacción",
+        "Revista de Edificación",
+        "Revista de Medicina",
+        "Revista de Proyectos",
+        "Revista Española de Fisiología",
+        "RILCE",
+        "Scripta Theologica"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "8985",
+      "iau_id": "IAU-008985",
+      "name": "Art Institute of the Community of Valencia",
+      "alt_name": "Instituto Superior de Enseñanzas Artísticas de la Comunitat Valenciana (ISEACV)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uI0RYLTBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-008985",
+      "address": {
+        "Street": "Calle San Francisco, 3",
+        "City": "Oviedo",
+        "Province": "Asturias",
+        "Post Code": "33003",
+        "WWW": "http://www.uniovi.es"
+      },
+      "website": "http://www.uniovi.es",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1608,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to July (September-January; February-July)",
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Biology",
+          "fields": [
+            "Biology",
+            "Biotechnology"
+          ]
+        },
+        {
+          "name": "Faculty : Chemistry",
+          "fields": [
+            "Chemistry"
+          ]
+        },
+        {
+          "name": "Faculty : Economics and Business",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Economics",
+            "Finance",
+            "Human Resources",
+            "Labour and Industrial Relations",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "Faculty : Geology",
+          "fields": [
+            "Geology"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Gender Studies",
+            "Human Rights",
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine and Health Sciences",
+          "fields": [
+            "Dentistry",
+            "Medicine",
+            "Physical Therapy",
+            "Surgery"
+          ]
+        },
+        {
+          "name": "Faculty : Philosophy and Letters",
+          "fields": [
+            "Art History",
+            "Geography",
+            "History",
+            "Literature",
+            "Modern Languages",
+            "Music",
+            "Music Education",
+            "Philology",
+            "Philosophy"
+          ]
+        },
+        {
+          "name": "Faculty : Psychology",
+          "fields": [
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Faculty : Science",
+          "fields": [
+            "Mathematics",
+            "Natural Sciences",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Faculty : Teacher Training and Education",
+          "fields": [
+            "Education",
+            "Educational Sciences",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Institute : Artificial Intelligence",
+          "fields": [
+            "Artificial Intelligence"
+          ]
+        },
+        {
+          "name": "Institute : Biodiversity",
+          "fields": [
+            "Biological and Life Sciences"
+          ]
+        },
+        {
+          "name": "Institute : Biotechnology",
+          "fields": [
+            "Biotechnology"
+          ]
+        },
+        {
+          "name": "Institute : Business Studies",
+          "fields": [
+            "Business Education"
+          ]
+        },
+        {
+          "name": "Institute : Education",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Institute : Eighteenth Century Studies",
+          "fields": [
+            "History",
+            "Philology"
+          ]
+        },
+        {
+          "name": "Institute : Industrial Technology",
+          "fields": [
+            "Industrial Engineering"
+          ]
+        },
+        {
+          "name": "Institute : Natural Resources and Regional Planning",
+          "fields": [
+            "Natural Resources",
+            "Regional Planning"
+          ]
+        },
+        {
+          "name": "Institute : Oncology",
+          "fields": [
+            "Oncology"
+          ]
+        },
+        {
+          "name": "Institute : Organic-metallic Chemistry",
+          "fields": [
+            "Chemistry",
+            "Organic Chemistry"
+          ]
+        },
+        {
+          "name": "Research Division : Nanomaterials and Nanotechnology",
+          "fields": [
+            "Nanotechnology"
+          ]
+        },
+        {
+          "name": "School :  Engineering",
+          "fields": [
+            "Engineering"
+          ]
+        },
+        {
+          "name": "School : Business Management",
+          "fields": [
+            "Business Administration",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "School : Business Management",
+          "fields": [
+            "Business Administration",
+            "Business and Commerce",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "School : Civil Navy",
+          "fields": [
+            "Marine Engineering",
+            "Nautical Science",
+            "Transport and Communications"
+          ]
+        },
+        {
+          "name": "School : Civil Navy",
+          "fields": [
+            "Marine Transport",
+            "Nautical Science"
+          ]
+        },
+        {
+          "name": "School : Computer Engineering",
+          "fields": [
+            "Computer Engineering",
+            "Computer Science",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "School : Engineering",
+          "fields": [
+            "Chemical Engineering",
+            "Electrical Engineering",
+            "Electronics and Automation",
+            "Industrial Engineering",
+            "Information Technology",
+            "Mechanical Engineering",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "School : Mining Engineering",
+          "fields": [
+            "Mining Engineering"
+          ]
+        },
+        {
+          "name": "School : Mining, Energy and Materials Engineering",
+          "fields": [
+            "Energy Engineering",
+            "Materials Engineering",
+            "Mining Engineering"
+          ]
+        },
+        {
+          "name": "School : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "School : Physical Education and Sports Medicine",
+          "fields": [
+            "Energy Engineering",
+            "Forestry",
+            "Mining Engineering",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "School : Polytechnic",
+          "fields": [
+            "Energy Engineering",
+            "Forestry",
+            "Mining Engineering",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "School : Trade, Tourism and Social Sciences",
+          "fields": [
+            "Business and Commerce",
+            "Marketing",
+            "Social Work",
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Título de Graduado",
+          "fields": [
+            "Arts and Humanities",
+            "Economics",
+            "Education",
+            "Engineering",
+            "Health Sciences",
+            "Natural Sciences",
+            "Teacher Training",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Máster Propio",
+          "fields": [
+            "Business Administration",
+            "Computer Networks",
+            "Dentistry",
+            "Human Rights",
+            "Industrial Management",
+            "Management",
+            "Marine Transport",
+            "Mining Engineering",
+            "Nephrology",
+            "Neurosciences",
+            "Nursing",
+            "Ophthalmology",
+            "Optometry",
+            "Periodontics",
+            "Rehabilitation and Therapy",
+            "Retailing and Wholesaling",
+            "Social Work",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Máster Universitario",
+          "fields": [
+            "Accountancy",
+            "Art History",
+            "Biomedicine",
+            "Biotechnology",
+            "Business Administration",
+            "Business Computing",
+            "Chemical Engineering",
+            "Chemistry",
+            "Computer Engineering",
+            "Data Science",
+            "Economics",
+            "Electrical Engineering",
+            "Electronics and Automation",
+            "Energy Engineering",
+            "Engineering Management",
+            "Foreign Languages Education",
+            "Gender Studies",
+            "Geological Engineering",
+            "Health Administration",
+            "History",
+            "Industrial Engineering",
+            "Law",
+            "Linguistics",
+            "Marine Biology",
+            "Marine Transport",
+            "Materials Engineering",
+            "Mathematics and Computer Science",
+            "Mechanical Engineering",
+            "Mining Engineering",
+            "Music",
+            "Natural Resources",
+            "Nautical Science",
+            "Neurosciences",
+            "Nursing",
+            "Oncology",
+            "Orthodontics",
+            "Physics",
+            "Primary Education",
+            "Psychology",
+            "Public Health",
+            "Regional Planning",
+            "Road Engineering",
+            "Safety Engineering",
+            "Secondary Education",
+            "Spanish",
+            "Technology",
+            "Telecommunications Engineering",
+            "Tourism",
+            "Transport Engineering"
+          ]
+        },
+        {
+          "name": "Doctor",
+          "fields": [
+            "Art History",
+            "Biomedicine",
+            "Business Administration",
+            "Cell Biology",
+            "Chemical Engineering",
+            "Chemistry",
+            "Computer Science",
+            "Economics",
+            "Education",
+            "Electrical and Electronic Engineering",
+            "Environmental Engineering",
+            "Gender Studies",
+            "Health Sciences",
+            "Information Technology",
+            "Law",
+            "Marine Engineering",
+            "Materials Engineering",
+            "Mathematics",
+            "Mining Engineering",
+            "Molecular Biology",
+            "Musicology",
+            "Physics",
+            "Production Engineering",
+            "Psychology",
+            "Statistics"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Universities",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ignacio Villaverde Menéndez"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Ángel Espiniella Menéndez"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Jesús Daniel Santos Rodríguez"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1608 as university by Royal Charter, previously approved by Papal Bull. A State institution under the jurisdiction of the Ministry of Education and Science",
+      "periodicals": [
+        "Archivos de la Facultad de Medicina Archivum Aula Abierta Ería Magister Memorias de Historia Antigua Psicothema Revista de Biología Trabajos de Geología",
+        "Archivos de la Facultad de Medicina",
+        "Archivum",
+        "Aula Abierta",
+        "Ería",
+        "Magister",
+        "Memorias de Historia Antigua",
+        "Psicothema",
+        "Revista de Biología",
+        "Trabajos de Geología"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "19313",
+      "iau_id": "IAU-019313",
+      "name": "Autonomous University of Barcelona",
+      "alt_name": "Universitat Autónoma de Barcelona – Universidad Autónoma de Barcelona (UAB)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RTLDMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019313",
+      "address": {
+        "Street": "Colexio de San Xerome, Praza do Obradoiro, s/n",
+        "City": "Santiago de Compostela",
+        "Province": "A Coruña",
+        "Post Code": "15782",
+        "WWW": "https://www.usc.gal"
+      },
+      "website": "https://www.usc.gal",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1495,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to July",
+      "languages": [
+        "Spanish",
+        "Galician"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Arts and Humanities",
+          "fields": [
+            "Arts and Humanities",
+            "Philology",
+            "Spanish"
+          ]
+        },
+        {
+          "name": "Faculty : Biology",
+          "fields": [
+            "Biology"
+          ]
+        },
+        {
+          "name": "Faculty : Business Administration and Management",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Faculty : Chemistry",
+          "fields": [
+            "Chemistry"
+          ]
+        },
+        {
+          "name": "Faculty : Communication Sciences",
+          "fields": [
+            "Information Sciences",
+            "Journalism"
+          ]
+        },
+        {
+          "name": "Faculty : Economics and Business Studies",
+          "fields": [
+            "Business Administration",
+            "Economics"
+          ]
+        },
+        {
+          "name": "Faculty : Educational Sciences",
+          "fields": [
+            "Education",
+            "Educational Psychology",
+            "Educational Sciences",
+            "Humanities and Social Science Education",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Faculty : Geography and History",
+          "fields": [
+            "Art History",
+            "Geography",
+            "History"
+          ]
+        },
+        {
+          "name": "Faculty : Labour Relations",
+          "fields": [
+            "Labour and Industrial Relations",
+            "Labour Law"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Mathematics",
+          "fields": [
+            "Mathematics"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine and Dentistry",
+          "fields": [
+            "Dentistry",
+            "Medicine",
+            "Surgery"
+          ]
+        },
+        {
+          "name": "Faculty : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Faculty : Optics and Optometry",
+          "fields": [
+            "Optics",
+            "Optometry"
+          ]
+        },
+        {
+          "name": "Faculty : Pharmacy",
+          "fields": [
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Faculty : Philology",
+          "fields": [
+            "Classical Languages",
+            "English",
+            "French",
+            "German",
+            "Italian",
+            "Native Language",
+            "Philology",
+            "Portuguese",
+            "Romance Languages",
+            "Spanish"
+          ]
+        },
+        {
+          "name": "Faculty : Philosophy",
+          "fields": [
+            "Philosophy"
+          ]
+        },
+        {
+          "name": "Faculty : Physics",
+          "fields": [
+            "Physics"
+          ]
+        },
+        {
+          "name": "Faculty : Political and Social Sciences",
+          "fields": [
+            "Political Sciences",
+            "Social Sciences",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Faculty : Psychology",
+          "fields": [
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Faculty : Science",
+          "fields": [
+            "Engineering",
+            "Food Technology",
+            "Industrial Chemistry",
+            "Mathematics",
+            "Natural Sciences",
+            "Nutrition",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Faculty : Teacher Training",
+          "fields": [
+            "Preschool Education",
+            "Primary Education",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Faculty : Veterinary Science",
+          "fields": [
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Research Division : Agricultural Biodiversity and Rural Development",
+          "fields": [
+            "Agricultural Management",
+            "Agriculture",
+            "Rural Planning",
+            "Rural Studies"
+          ]
+        },
+        {
+          "name": "Research Division : Aquaculture",
+          "fields": [
+            "Aquaculture"
+          ]
+        },
+        {
+          "name": "Research Division : Ceramics",
+          "fields": [
+            "Technology"
+          ]
+        },
+        {
+          "name": "Research Division : Criminology",
+          "fields": [
+            "Criminology"
+          ]
+        },
+        {
+          "name": "Research Division : Educational Sciences",
+          "fields": [
+            "Educational Sciences"
+          ]
+        },
+        {
+          "name": "Research Division : Forensic Medicine",
+          "fields": [
+            "Forensic Medicine and Dentistry"
+          ]
+        },
+        {
+          "name": "Research Division : Galician Language",
+          "fields": [
+            "Native Language"
+          ]
+        },
+        {
+          "name": "Research Division : Galician Studies and Development",
+          "fields": [
+            "Development Studies",
+            "Regional Planning"
+          ]
+        },
+        {
+          "name": "Research Division : High Energy Physics",
+          "fields": [
+            "Physics"
+          ]
+        },
+        {
+          "name": "Research Division : Industrial Law",
+          "fields": [
+            "Commercial Law",
+            "Law"
+          ]
+        },
+        {
+          "name": "Research Division : Industrial Pharmacy",
+          "fields": [
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Research Division : Mathematics",
+          "fields": [
+            "Mathematics"
+          ]
+        },
+        {
+          "name": "Research Division : Neurology",
+          "fields": [
+            "Neurology"
+          ]
+        },
+        {
+          "name": "Research Division : Nutritional Analysis and Research",
+          "fields": [
+            "Nutrition"
+          ]
+        },
+        {
+          "name": "Research Division : Orthopaedics and Muscular-Skeletal Tissue Bank",
+          "fields": [
+            "Orthopaedics"
+          ]
+        },
+        {
+          "name": "Research Division : Technological Research",
+          "fields": [
+            "Technology"
+          ]
+        },
+        {
+          "name": "School : Advanced Musical Studies of Galicia",
+          "fields": [
+            "Music"
+          ]
+        },
+        {
+          "name": "School : International PhD",
+          "fields": [
+            "Labour and Industrial Relations",
+            "Labour Law"
+          ]
+        },
+        {
+          "name": "School : Labour Relations",
+          "fields": [
+            "Labour and Industrial Relations",
+            "Labour Law"
+          ]
+        },
+        {
+          "name": "School : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "School : Polytechnic Engineering",
+          "fields": [
+            "Agricultural Engineering",
+            "Engineering",
+            "Forestry"
+          ]
+        },
+        {
+          "name": "School : Social Work",
+          "fields": [
+            "Social Work"
+          ]
+        },
+        {
+          "name": "School : Technical Engineering",
+          "fields": [
+            "Chemical Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Technology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Título de Graduado",
+          "fields": [
+            "Agriculture",
+            "Arts and Humanities",
+            "Business Administration",
+            "Chemistry",
+            "Economics",
+            "Engineering",
+            "Food Science",
+            "Health Sciences",
+            "Law",
+            "Modern Languages",
+            "Natural Sciences",
+            "Physics",
+            "Psychology",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Máster Propio",
+          "fields": [
+            "Agricultural Engineering",
+            "Aquaculture",
+            "Arts and Humanities",
+            "Business Administration",
+            "Chemistry",
+            "Environmental Engineering",
+            "Food Technology",
+            "Health Sciences",
+            "History",
+            "Law",
+            "Linguistics",
+            "Modern Languages",
+            "Natural Sciences",
+            "Nursing",
+            "Philosophy",
+            "Psychology",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Doctor",
+          "fields": [
+            "Agriculture",
+            "Ancient Civilizations",
+            "Art History",
+            "Biology",
+            "Clinical Psychology",
+            "Cultural Studies",
+            "Dentistry",
+            "Economics",
+            "Education",
+            "Endocrinology",
+            "Energy Engineering",
+            "English Studies",
+            "Environmental Studies",
+            "Epidemiology",
+            "Forestry",
+            "Geography",
+            "History",
+            "Information Technology",
+            "Law",
+            "Linguistics",
+            "Literature",
+            "Marine Science and Oceanography",
+            "Mathematics",
+            "Medicine",
+            "Medieval Studies",
+            "Ophthalmology",
+            "Philosophy",
+            "Psychology",
+            "Public Health",
+            "Statistics"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Universities",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Antonio López Díaz"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Diana Santiago Iglesias"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "María José López Couso"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1495 as Colegio de Estudiantes by Lope Gómez de Marzoa. Became Estudio Gramática 1501. Approved by Papal Bull of Julian II 1504, and Papal Bull of Clement VII 1526, became university by Papal Bull of Pius V 1566. A State institution under the jurisdiction of the Ministry of Education and Science",
+      "periodicals": [
+        "Acora Adaxe  (studies and experiences in education) Boletín Gallego de Literatura (Galician literature) Dereito (law) Dorna (Galician poetic expression) Nacc  (Nova Acta Científica Compostelana) Obradoiro (modern history) Thalassas Verba",
+        "Acora",
+        "Adaxe  (studies and experiences in education)",
+        "Boletín Gallego de Literatura (Galician literature)",
+        "Dereito (law)",
+        "Dorna (Galician poetic expression)",
+        "Nacc  (Nova Acta Científica Compostelana)",
+        "Obradoiro (modern history)",
+        "Thalassas",
+        "Verba"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "17213",
+      "iau_id": "IAU-017213",
+      "name": "Autonomous University of Madrid",
+      "alt_name": "Universidad Autónoma de Madrid (UAM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxSLDMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017213",
+      "address": {
+        "Street": "Calle San Fernando, 4",
+        "City": "Sevilla",
+        "Post Code": "41004",
+        "WWW": "https://www.us.es"
+      },
+      "website": "https://www.us.es",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1505,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "October to July",
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Centre : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Faculty : Biology",
+          "fields": [
+            "Biology",
+            "Botany",
+            "Cell Biology",
+            "Ecology",
+            "Genetics",
+            "Microbiology",
+            "Molecular Biology",
+            "Physiology"
+          ]
+        },
+        {
+          "name": "Faculty : Chemistry",
+          "fields": [
+            "Analytical Chemistry",
+            "Chemistry",
+            "Inorganic Chemistry",
+            "Organic Chemistry",
+            "Physical Chemistry"
+          ]
+        },
+        {
+          "name": "Faculty : Communication Studies",
+          "fields": [
+            "Advertising and Publicity",
+            "Communication Studies",
+            "Information Sciences",
+            "Journalism",
+            "Media Studies",
+            "Public Relations"
+          ]
+        },
+        {
+          "name": "Faculty : Economics and Business",
+          "fields": [
+            "Business Administration",
+            "Economics",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Educational Sciences",
+          "fields": [
+            "Education",
+            "Educational Psychology",
+            "Educational Sciences",
+            "Foreign Languages Education",
+            "Music Education",
+            "Pedagogy",
+            "Physical Education",
+            "Special Education"
+          ]
+        },
+        {
+          "name": "Faculty : Fine Arts",
+          "fields": [
+            "Engraving",
+            "Fine Arts",
+            "Painting and Drawing",
+            "Restoration of Works of Art",
+            "Sculpture"
+          ]
+        },
+        {
+          "name": "Faculty : Geography and History",
+          "fields": [
+            "Anthropology",
+            "Art History",
+            "Cultural Studies",
+            "Geography",
+            "History",
+            "Social Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Labour Sciences",
+          "fields": [
+            "Labour and Industrial Relations"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Administrative Law",
+            "Commercial Law",
+            "Constitutional Law",
+            "Labour Law",
+            "Law",
+            "Private Law",
+            "Public Law"
+          ]
+        },
+        {
+          "name": "Faculty : Mathematics",
+          "fields": [
+            "Mathematics",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Anatomy",
+            "Embryology and Reproduction Biology",
+            "Medicine",
+            "Microbiology",
+            "Pathology",
+            "Psychiatry and Mental Health",
+            "Surgery"
+          ]
+        },
+        {
+          "name": "Faculty : Nursing, Physiotherapy and Podology",
+          "fields": [
+            "Anatomy",
+            "Biochemistry",
+            "Embryology and Reproduction Biology",
+            "Histology",
+            "Medicine",
+            "Microbiology",
+            "Molecular Biology",
+            "Nursing",
+            "Paediatrics",
+            "Pharmacology",
+            "Physical Education",
+            "Physical Therapy",
+            "Podiatry",
+            "Psychiatry and Mental Health",
+            "Psychology",
+            "Radiology",
+            "Sociology",
+            "Sports",
+            "Surgery"
+          ]
+        },
+        {
+          "name": "Faculty : Odontology",
+          "fields": [
+            "Dentistry"
+          ]
+        },
+        {
+          "name": "Faculty : Pharmacy",
+          "fields": [
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Faculty : Philology",
+          "fields": [
+            "Arabic",
+            "Classical Languages",
+            "English",
+            "French",
+            "German",
+            "Italian",
+            "Philology",
+            "Spanish"
+          ]
+        },
+        {
+          "name": "Faculty : Philosophy",
+          "fields": [
+            "Philosophy"
+          ]
+        },
+        {
+          "name": "Faculty : Physics",
+          "fields": [
+            "Physics"
+          ]
+        },
+        {
+          "name": "Faculty : Psychology",
+          "fields": [
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Faculty : Tourism and Finance",
+          "fields": [
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Institute : Construction Sciences",
+          "fields": [
+            "Architecture"
+          ]
+        },
+        {
+          "name": "Institute : Criminology",
+          "fields": [
+            "Criminology"
+          ]
+        },
+        {
+          "name": "Institute : Developmental Biology",
+          "fields": [
+            "Biology"
+          ]
+        },
+        {
+          "name": "Institute : Educational Sciences",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Institute : Languages",
+          "fields": [
+            "Modern Languages"
+          ]
+        },
+        {
+          "name": "Institute : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Institute : Legal Medicine and Forensic Sciences",
+          "fields": [
+            "Forensic Medicine and Dentistry"
+          ]
+        },
+        {
+          "name": "Institute : Regional Development",
+          "fields": [
+            "Regional Studies"
+          ]
+        },
+        {
+          "name": "School : Agricultural Technical Engineering",
+          "fields": [
+            "Agricultural Engineering",
+            "Agricultural Equipment"
+          ]
+        },
+        {
+          "name": "School : Architecture",
+          "fields": [
+            "Architecture"
+          ]
+        },
+        {
+          "name": "School : Business Studies",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "School : Cardenal Spínola",
+          "fields": [
+            "Education",
+            "Modern Languages",
+            "Music Education",
+            "Pedagogy",
+            "Physical Education",
+            "Preschool Education",
+            "Primary Education",
+            "Psychology",
+            "Special Education"
+          ]
+        },
+        {
+          "name": "School : Computer Engineering",
+          "fields": [
+            "Computer Engineering"
+          ]
+        },
+        {
+          "name": "School : Engineering",
+          "fields": [
+            "Aeronautical and Aerospace Engineering",
+            "Chemical Engineering",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Electronics and Automation",
+            "Industrial Engineering",
+            "Mechanical Engineering",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "School : Francisco Maldonado de Osuna",
+          "fields": [
+            "Business Administration",
+            "Health Sciences",
+            "Labour Law"
+          ]
+        },
+        {
+          "name": "School : Health Sciences",
+          "fields": [
+            "Health Sciences",
+            "Nursing",
+            "Physical Therapy",
+            "Podiatry"
+          ]
+        },
+        {
+          "name": "School : Polytechnic",
+          "fields": [
+            "Aesthetics",
+            "Applied Physics",
+            "Architecture",
+            "Chemical Engineering",
+            "Design",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Electronics and Automation",
+            "Energy Engineering",
+            "Environmental Engineering",
+            "Industrial and Organizational Psychology",
+            "Materials Engineering",
+            "Mechanical Engineering",
+            "Philology"
+          ]
+        },
+        {
+          "name": "School : Polytechnic",
+          "fields": [
+            "Electrical and Electronic Engineering",
+            "Industrial Chemistry",
+            "Industrial Design",
+            "Industrial Engineering",
+            "Mechanical Engineering",
+            "Mechanics"
+          ]
+        },
+        {
+          "name": "School : Technical Architecture",
+          "fields": [
+            "Architecture"
+          ]
+        },
+        {
+          "name": "School : Technical Industrial Engineering",
+          "fields": [
+            "Electrical and Electronic Engineering",
+            "Industrial Chemistry",
+            "Industrial Design",
+            "Industrial Engineering",
+            "Mechanical Engineering",
+            "Mechanics"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Título de Graduado",
+          "fields": [
+            "Arts and Humanities",
+            "Engineering",
+            "Health Sciences",
+            "Law",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Máster Propio",
+          "fields": [
+            "Architecture",
+            "Arts and Humanities",
+            "Dentistry",
+            "Engineering",
+            "European Studies",
+            "Health Sciences",
+            "Heritage Preservation",
+            "Law",
+            "Medicine",
+            "Natural Sciences",
+            "Pharmacy",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Máster Universitario",
+          "fields": [
+            "Agricultural Engineering",
+            "Architecture",
+            "Biology",
+            "Business Administration",
+            "Chemical Engineering",
+            "Communication Studies",
+            "Computer Engineering",
+            "Economics",
+            "Education",
+            "Electronic Engineering",
+            "Electronics and Automation",
+            "Energy Engineering",
+            "Environmental Engineering",
+            "Fine Arts",
+            "Geography",
+            "Health Sciences",
+            "History",
+            "Law",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Pharmacy",
+            "Philology",
+            "Philosophy",
+            "Psychology",
+            "Social Sciences",
+            "Telecommunications Engineering",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Doctor",
+          "fields": [
+            "Agricultural Engineering",
+            "Architecture",
+            "Biology",
+            "Business Administration",
+            "Chemical Engineering",
+            "Communication Studies",
+            "Computer Engineering",
+            "Economics",
+            "Education",
+            "Electronic Engineering",
+            "Electronics and Automation",
+            "Energy Engineering",
+            "Environmental Engineering",
+            "Fine Arts",
+            "Geography",
+            "Health Sciences",
+            "History",
+            "Law",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Pharmacy",
+            "Philology",
+            "Philosophy",
+            "Psychology",
+            "Social Sciences",
+            "Telecommunications Engineering",
+            "Tourism"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Universities",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Miguel Ángel Castro Arroyo"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Pedro García Vázquez,"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Carmen Vargas Macías"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1505 as Colegio Mayor. Recognized by Papal Bull 1505 and authorized to confer degrees. Officially became university 1551. A State institution under the jurisdiction of the Ministry of Education and Science",
+      "periodicals": [
+        "Anales de la Universidad Hispalense",
+        "Anales de la Universidad Hispalense"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "17262",
+      "iau_id": "IAU-017262",
+      "name": "Camilo José Cela University",
+      "alt_name": "Universidad Camilo José Cela (UCJC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxSLUMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017262",
+      "address": {
+        "Street": "Son Lledó. Campus UniversitariCarretera de Valldemossa, Km 7.5",
+        "City": "Palma",
+        "Province": "Illes Balears",
+        "Post Code": "07122",
+        "WWW": "https://www.uib.eu"
+      },
+      "website": "https://www.uib.eu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1483,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "October to June (October-December; January-March; April-June)",
+      "languages": [
+        "Catalan",
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Economics and Business Science",
+          "fields": [
+            "Administration",
+            "Business and Commerce",
+            "Economics"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Education",
+            "Educational Sciences",
+            "Music Education",
+            "Pedagogy",
+            "Preschool Education",
+            "Primary Education",
+            "Psychology",
+            "Social Studies",
+            "Teacher Trainers Education"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Labour and Industrial Relations",
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Nursing and Physiotherapy",
+          "fields": [
+            "Nursing",
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "Faculty : Philosophy and Arts",
+          "fields": [
+            "Art History",
+            "Arts and Humanities",
+            "Catalan",
+            "English",
+            "Geography",
+            "History",
+            "Literature",
+            "Social Work",
+            "Spanish"
+          ]
+        },
+        {
+          "name": "Faculty : Psychology",
+          "fields": [
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Faculty : Science",
+          "fields": [
+            "Biochemistry",
+            "Biology",
+            "Chemistry",
+            "Mathematics",
+            "Natural Sciences",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Faculty : Tourism",
+          "fields": [
+            "Hotel Management",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Institute : Educational Sciences",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Research Division : Advanced Studies",
+          "fields": [
+            "Marine Science and Oceanography"
+          ]
+        },
+        {
+          "name": "Research Division : Heath Sciences",
+          "fields": [
+            "Health Education",
+            "Health Sciences"
+          ]
+        },
+        {
+          "name": "Research Division : Interdisciplinary Physics and Complex Systems",
+          "fields": [
+            "Optometry",
+            "Physics"
+          ]
+        },
+        {
+          "name": "School : Hotel Management",
+          "fields": [
+            "Hotel Management"
+          ]
+        },
+        {
+          "name": "School : Polytechnic",
+          "fields": [
+            "Architecture",
+            "Computer Engineering",
+            "Engineering",
+            "Industrial Engineering",
+            "Mathematics",
+            "Systems Analysis",
+            "Technology",
+            "Telecommunications Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Título de Graduado",
+          "fields": [
+            "Arts and Humanities",
+            "Biochemistry",
+            "Biology",
+            "Business Administration",
+            "Chemistry",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Construction Engineering",
+            "Dentistry",
+            "Education",
+            "Electronics and Automation",
+            "Engineering",
+            "Health Sciences",
+            "Law",
+            "Mathematics",
+            "Medicine",
+            "Natural Sciences",
+            "Nursing",
+            "Physical Therapy",
+            "Physics",
+            "Primary Education",
+            "Social Work",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Máster Universitario",
+          "fields": [
+            "Accountancy",
+            "Agricultural Engineering",
+            "Applied Mathematics",
+            "Biomedicine",
+            "Biotechnology",
+            "Business and Commerce",
+            "Catalan",
+            "Clinical Psychology",
+            "Computer Engineering",
+            "Ecology",
+            "Educational Technology",
+            "Engineering",
+            "Food Science",
+            "Heritage Preservation",
+            "Home Economics",
+            "Human Resources",
+            "Industrial Engineering",
+            "Law",
+            "Literature",
+            "Marine Biology",
+            "Microbiology",
+            "Modern Languages",
+            "Philosophy",
+            "Physics",
+            "Teacher Training",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Doctor",
+          "fields": [
+            "Art History",
+            "Biomedicine",
+            "Chemistry",
+            "Economics",
+            "Education",
+            "Educational Technology",
+            "Electronic Engineering",
+            "Food Science",
+            "Gender Studies",
+            "Geography",
+            "History",
+            "Information Technology",
+            "Law",
+            "Management",
+            "Marine Science and Oceanography",
+            "Microbiology",
+            "Neurosciences",
+            "Nutrition",
+            "Plant Pathology",
+            "Public Health",
+            "Tourism"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Universities",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Llorenç Huguet"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Antònia Paniza Fullana"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Ricardo Sagrera"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1483 as Estudi General Lul·lià. Became Universitat Literària de Mallorca 1772. Incorporating faculties and colleges previously part of the 'Universitat Autónoma of Barcelona' acquired present status and title 1978",
+      "periodicals": [
+        "Educació i Cultura Revista de la Ecologia del Deporte",
+        "Educació i Cultura",
+        "Revista de la Ecologia del Deporte"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "17265",
+      "iau_id": "IAU-017265",
+      "name": "Cardinal Herrera-CEU University",
+      "alt_name": "Universidad Cardenal Herrera-CEU (UCH)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxSLUM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017265",
+      "address": {
+        "Street": "Campus de LeioaBarrio Sarriena s/n",
+        "City": "Leioa",
+        "Province": "Bizcaya",
+        "Post Code": "48940",
+        "WWW": "http://www.ehu.es"
+      },
+      "website": "http://www.ehu.es",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1968,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "October to June (October-December; December-March; March-June)",
+      "languages": [
+        "Spanish",
+        "Basque"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Chemistry",
+          "fields": [
+            "Chemical Engineering",
+            "Chemistry"
+          ]
+        },
+        {
+          "name": "Faculty : Computer Science",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Faculty : Economics and Business Administration",
+          "fields": [
+            "Business Administration",
+            "Economics"
+          ]
+        },
+        {
+          "name": "Faculty : Economics and Business Administration",
+          "fields": [
+            "Business Administration",
+            "Economics"
+          ]
+        },
+        {
+          "name": "Faculty : Economics and Business Administration",
+          "fields": [
+            "Business Administration",
+            "Economics"
+          ]
+        },
+        {
+          "name": "Faculty : Economics and Entrepreneurship Management",
+          "fields": [
+            "Economics",
+            "Management"
+          ]
+        },
+        {
+          "name": "Faculty : Fine Arts",
+          "fields": [
+            "Fine Arts"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine and Dentistry",
+          "fields": [
+            "Dentistry",
+            "Health Sciences",
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Faculty : Pharmacy",
+          "fields": [
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Faculty : Philology, Geography and History",
+          "fields": [
+            "Geography",
+            "History",
+            "Philology"
+          ]
+        },
+        {
+          "name": "Faculty : Philosophy and Educational Sciences",
+          "fields": [
+            "Anthropology",
+            "Education",
+            "Philosophy"
+          ]
+        },
+        {
+          "name": "Faculty : Psychology",
+          "fields": [
+            "San Sebastián"
+          ]
+        },
+        {
+          "name": "Faculty : Science",
+          "fields": [
+            "Leioa"
+          ]
+        },
+        {
+          "name": "Faculty : Social Sciences and Communication",
+          "fields": [
+            "Arts and Humanities",
+            "Journalism",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Institute : Ancient Civilizations",
+          "fields": [
+            "Ancient Civilizations"
+          ]
+        },
+        {
+          "name": "Institute : Basque Studies",
+          "fields": [
+            "Anthropology",
+            "Cultural Studies",
+            "Native Language"
+          ]
+        },
+        {
+          "name": "Institute : Co-operative Law and Social Economics",
+          "fields": [
+            "Economics",
+            "Law"
+          ]
+        },
+        {
+          "name": "Institute : Criminology",
+          "fields": [
+            "Criminology"
+          ]
+        },
+        {
+          "name": "Institute : Development and International Co-operation Studies",
+          "fields": [
+            "Development Studies"
+          ]
+        },
+        {
+          "name": "Institute : Economics Applied to Business",
+          "fields": [
+            "Business and Commerce",
+            "Economics"
+          ]
+        },
+        {
+          "name": "Institute : Educational Sciences",
+          "fields": [
+            "Education",
+            "Educational Sciences"
+          ]
+        },
+        {
+          "name": "Institute : Epidemiology and Preventive Medicine",
+          "fields": [
+            "Epidemiology",
+            "Nursing",
+            "Social and Preventive Medicine"
+          ]
+        },
+        {
+          "name": "Institute : Finance and Actuarial Studies",
+          "fields": [
+            "Actuarial Science",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Institute : Historic Law of the Basque Country",
+          "fields": [
+            "History of Law",
+            "Law"
+          ]
+        },
+        {
+          "name": "Institute : Logic, Cognition, Language and Information",
+          "fields": [
+            "Cognitive Sciences",
+            "Information Sciences",
+            "Linguistics",
+            "Logic"
+          ]
+        },
+        {
+          "name": "Institute : Medicine",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Institute : Microelectronic Technology",
+          "fields": [
+            "Microelectronics"
+          ]
+        },
+        {
+          "name": "Institute : Physical Education",
+          "fields": [
+            "Physical Education"
+          ]
+        },
+        {
+          "name": "Institute : Polymers",
+          "fields": [
+            "Polymer and Plastics Technology"
+          ]
+        },
+        {
+          "name": "Institute : Public Economics",
+          "fields": [
+            "Economics"
+          ]
+        },
+        {
+          "name": "Institute : Research and Process Development",
+          "fields": [
+            "Artificial Intelligence",
+            "Chemical Engineering",
+            "Electronics and Automation",
+            "Robotics"
+          ]
+        },
+        {
+          "name": "Institute : Social History",
+          "fields": [
+            "History of Societies"
+          ]
+        },
+        {
+          "name": "School : Architecture",
+          "fields": [
+            "Architecture"
+          ]
+        },
+        {
+          "name": "School : Business",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "School : Business",
+          "fields": [
+            "Business and Commerce"
+          ]
+        },
+        {
+          "name": "School : Business",
+          "fields": [
+            "Business and Commerce"
+          ]
+        },
+        {
+          "name": "School : Industrial and Telecommunications Engineering",
+          "fields": [
+            "Industrial Engineering",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "School : Industrial Engineering",
+          "fields": [
+            "Industrial Engineering",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "School : Industrial Engineering and Topography",
+          "fields": [
+            "Industrial Engineering",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "School : Labour Relations",
+          "fields": [
+            "Leioa"
+          ]
+        },
+        {
+          "name": "School : Mining Engineering",
+          "fields": [
+            "Mining Engineering"
+          ]
+        },
+        {
+          "name": "School : Nautical Science and Marine Engineering",
+          "fields": [
+            "Marine Engineering",
+            "Nautical Science"
+          ]
+        },
+        {
+          "name": "School : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "School : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "School : Social Work",
+          "fields": [
+            "Social Work"
+          ]
+        },
+        {
+          "name": "School : Teacher Training",
+          "fields": [
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "School : Technical Industrial Engineering",
+          "fields": [
+            "Engineering"
+          ]
+        },
+        {
+          "name": "School : Technical Industrial Engineering",
+          "fields": [
+            "Industrial Engineering"
+          ]
+        },
+        {
+          "name": "Unit : Biophysics",
+          "fields": [
+            "Biophysics"
+          ]
+        },
+        {
+          "name": "Unit : Physics of Materials",
+          "fields": [
+            "Materials Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Título de Graduado",
+          "fields": [
+            "Architecture",
+            "Education",
+            "Engineering",
+            "Health Sciences",
+            "Law",
+            "Natural Sciences",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Máster Propio",
+          "fields": [
+            "Arts and Humanities",
+            "Biomedicine",
+            "Chemistry",
+            "Clinical Psychology",
+            "Engineering",
+            "Environmental Studies",
+            "Fine Arts",
+            "Health Sciences",
+            "History",
+            "Latin American Studies",
+            "Law",
+            "Mathematics and Computer Science",
+            "Natural Sciences",
+            "Philosophy",
+            "Public Health",
+            "Social Sciences",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Máster Universitario",
+          "fields": [
+            "Business Administration",
+            "Cinema and Television",
+            "Design",
+            "Gender Studies",
+            "International Studies",
+            "Law",
+            "Management"
+          ]
+        },
+        {
+          "name": "Doctor",
+          "fields": [
+            "Architecture",
+            "Biomedicine",
+            "Business Administration",
+            "Chemistry",
+            "Communication Studies",
+            "Economics",
+            "Education",
+            "Energy Engineering",
+            "Engineering",
+            "Environmental Studies",
+            "Fine Arts",
+            "Food Science",
+            "Health Sciences",
+            "History",
+            "Information Technology",
+            "Journalism",
+            "Law",
+            "Linguistics",
+            "Literature",
+            "Materials Engineering",
+            "Modern Languages",
+            "Philosophy",
+            "Physics",
+            "Psychology",
+            "Technology"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Universities",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Nekane Balluerka Lasa"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Miren Lorea Bilbao Artetxe"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Marta Barandiaran Landin"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1968 as Universidad de Bilbao. Reorganized under present title 1980",
+      "periodicals": [
+        "Recursos Científicos y Líneas de Investigación Revista 'Ereiton'",
+        "Recursos Científicos y Líneas de Investigación",
+        "Revista 'Ereiton'"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "17266",
+      "iau_id": "IAU-017266",
+      "name": "Carlos III University of Madrid",
+      "alt_name": "Universidad Carlos III de Madrid (UCAR)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxSLUM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017266",
+      "address": {
+        "Street": "Avenida Blasco Ibáñez, 13",
+        "City": "Valencia",
+        "Post Code": "46010",
+        "WWW": "https://www.uv.es"
+      },
+      "website": "https://www.uv.es",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1502,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "October to June",
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Florida Secondary and University Education",
+          "fields": [
+            "Biology",
+            "Cell Biology",
+            "Ecology",
+            "Microbiology"
+          ]
+        },
+        {
+          "name": "Faculty : Biology",
+          "fields": [
+            "Biology",
+            "Cell Biology",
+            "Ecology",
+            "Microbiology"
+          ]
+        },
+        {
+          "name": "Faculty : Chemistry",
+          "fields": [
+            "Analytical Chemistry",
+            "Chemistry",
+            "Inorganic Chemistry",
+            "Physical Chemistry"
+          ]
+        },
+        {
+          "name": "Faculty : Economics",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Economics",
+            "Finance",
+            "International Business",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Geography and History",
+          "fields": [
+            "Archaeology",
+            "Geography",
+            "Geology",
+            "History",
+            "Medieval Studies",
+            "Philology",
+            "Prehistory",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Administrative Law",
+            "Civil Law",
+            "Fiscal Law",
+            "International Law",
+            "Labour Law",
+            "Law",
+            "Private Law",
+            "Public Law"
+          ]
+        },
+        {
+          "name": "Faculty : Mathematics",
+          "fields": [
+            "Applied Mathematics",
+            "Mathematics",
+            "Mathematics Education"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine and Odontology",
+          "fields": [
+            "Anatomy",
+            "Dentistry",
+            "Embryology and Reproduction Biology",
+            "Medicine",
+            "Surgery",
+            "Toxicology"
+          ]
+        },
+        {
+          "name": "Faculty : Nursing and Podiatry",
+          "fields": [
+            "Nursing",
+            "Podiatry"
+          ]
+        },
+        {
+          "name": "Faculty : Pharmacy",
+          "fields": [
+            "Pharmacology",
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Faculty : Philology, Translation and Communication",
+          "fields": [
+            "English",
+            "French",
+            "German",
+            "Italian",
+            "Journalism",
+            "Philology"
+          ]
+        },
+        {
+          "name": "Faculty : Philosophy and Educational Sciences",
+          "fields": [
+            "Education",
+            "Educational Administration",
+            "Pedagogy",
+            "Philosophy"
+          ]
+        },
+        {
+          "name": "Faculty : Physical Education and Sports",
+          "fields": [
+            "Physical Education",
+            "Sports"
+          ]
+        },
+        {
+          "name": "Faculty : Physics",
+          "fields": [
+            "Astronomy and Space Science",
+            "Astrophysics",
+            "Atomic and Molecular Physics",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Faculty : Physiotherapy",
+          "fields": [
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "Faculty : Psychology",
+          "fields": [
+            "Psychology",
+            "Social Psychology"
+          ]
+        },
+        {
+          "name": "Faculty : Social Sciences",
+          "fields": [
+            "Labour and Industrial Relations",
+            "Political Sciences",
+            "Social Sciences",
+            "Social Work",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Faculty : Teacher Training",
+          "fields": [
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "School : Business (EDEM)",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "School : Engineering",
+          "fields": [
+            "Engineering"
+          ]
+        },
+        {
+          "name": "School : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Título de Graduado",
+          "fields": [
+            "Art History",
+            "Arts and Humanities",
+            "Biology",
+            "Biotechnology",
+            "Catalan",
+            "Chemistry",
+            "Classical Languages",
+            "Dentistry",
+            "Economics",
+            "Education",
+            "Engineering",
+            "English",
+            "Environmental Studies",
+            "French",
+            "German",
+            "Health Sciences",
+            "History",
+            "Law",
+            "Mathematics",
+            "Medicine",
+            "Natural Sciences",
+            "Nursing",
+            "Pharmacy",
+            "Philosophy",
+            "Physical Therapy",
+            "Physics",
+            "Podiatry",
+            "Political Sciences",
+            "Preschool Education",
+            "Primary Education",
+            "Psychology",
+            "Social Sciences",
+            "Social Work",
+            "Sociology",
+            "Speech Therapy and Audiology",
+            "Tourism",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Máster Universitario",
+          "fields": [
+            "Accountancy",
+            "Archaeology",
+            "Biology",
+            "Business Administration",
+            "Chemistry",
+            "Dental Technology",
+            "Education",
+            "Educational Administration",
+            "Engineering",
+            "English",
+            "Environmental Studies",
+            "Finance",
+            "Gender Studies",
+            "Health Sciences",
+            "Law",
+            "Management",
+            "Mathematics",
+            "Natural Sciences",
+            "Occupational Therapy",
+            "Psychology",
+            "Social Sciences",
+            "Social Work",
+            "Special Education",
+            "Sports Management",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Doctor",
+          "fields": [
+            "Accountancy",
+            "Art History",
+            "Biomedicine",
+            "Biotechnology",
+            "Business Administration",
+            "Chemical Engineering",
+            "Communication Studies",
+            "Criminal Law",
+            "Cultural Studies",
+            "Dentistry",
+            "Economics",
+            "Education",
+            "Electronic Engineering",
+            "Environmental Engineering",
+            "Ethics",
+            "Finance",
+            "Food Science",
+            "Gender Studies",
+            "Geography",
+            "History",
+            "Human Rights",
+            "Information Technology",
+            "International Law",
+            "Law",
+            "Literature",
+            "Logic",
+            "Marketing",
+            "Materials Engineering",
+            "Mathematics",
+            "Medicine",
+            "Modern Languages",
+            "Neurosciences",
+            "Nursing",
+            "Optometry",
+            "Parasitology",
+            "Pharmacy",
+            "Physics",
+            "Physiology",
+            "Political Sciences",
+            "Psychology",
+            "Social Sciences",
+            "Statistics",
+            "Toxicology"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Universities",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Maria Vicenta Mestre Escrivá"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Juan Vicente Climent Espí"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Carles Padilla Carmona"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1502 as a university and recognized by Papal Bull in succession to previous institutions established in the 13th and 14th centuries. A State institution under the jurisdiction of the Ministry of Education and Science",
+      "periodicals": [
+        "Anales de la Universidad de Valencia",
+        "Anales de la Universidad de Valencia"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "17285",
+      "iau_id": "IAU-017285",
+      "name": "Catholic University of Ávila",
+      "alt_name": "Universidad Católica Santa Teresa de Jesús de Ávila (UCAVILA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxSLiM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017285",
+      "address": {
+        "Street": "Plaza de Santa Cruz, 8",
+        "City": "Valladolid",
+        "Post Code": "47002",
+        "WWW": "https://www.uva.es"
+      },
+      "website": "https://www.uva.es",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1292,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "October to June",
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Arts and Philosophy",
+          "fields": [
+            "Art History",
+            "Arts and Humanities",
+            "Comparative Literature",
+            "Geography",
+            "Greek",
+            "History",
+            "Journalism",
+            "Latin",
+            "Literature",
+            "Music Education",
+            "Philology",
+            "Philosophy",
+            "Spanish"
+          ]
+        },
+        {
+          "name": "Faculty : Commerce",
+          "fields": [
+            "Business and Commerce"
+          ]
+        },
+        {
+          "name": "Faculty : Economics and Business Administration",
+          "fields": [
+            "Business Administration",
+            "Economics",
+            "Insurance",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Education and Social Work",
+          "fields": [
+            "Education",
+            "Foreign Languages Education",
+            "Music Education",
+            "Physical Education",
+            "Preschool Education",
+            "Primary Education",
+            "Special Education",
+            "Speech Therapy and Audiology"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Law",
+            "Private Law",
+            "Public Law"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Anatomy",
+            "Dermatology",
+            "Dietetics",
+            "Medicine",
+            "Nursing",
+            "Nutrition",
+            "Public Health"
+          ]
+        },
+        {
+          "name": "Faculty : Science",
+          "fields": [
+            "Chemical Engineering",
+            "Chemistry",
+            "Computer Science",
+            "Mathematics",
+            "Natural Sciences",
+            "Optometry",
+            "Physics",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "School : Architecture",
+          "fields": [
+            "Architecture"
+          ]
+        },
+        {
+          "name": "School : Computer Engineering",
+          "fields": [
+            "Computer Engineering"
+          ]
+        },
+        {
+          "name": "School : Industrial Engineering",
+          "fields": [
+            "Industrial Engineering"
+          ]
+        },
+        {
+          "name": "School : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "School : Polytechnic",
+          "fields": [
+            "Computer Engineering",
+            "Industrial Engineering",
+            "Management Systems",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "School : Social Work",
+          "fields": [
+            "Social Work"
+          ]
+        },
+        {
+          "name": "School : Telecommunications Engineering",
+          "fields": [
+            "Telecommunications Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Título de Graduado",
+          "fields": [
+            "Architecture",
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Máster Propio",
+          "fields": [
+            "Architecture",
+            "Chemistry",
+            "Educational Sciences",
+            "Engineering",
+            "English",
+            "Law",
+            "Natural Sciences",
+            "Philosophy",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Máster Universitario",
+          "fields": [
+            "Computer Science",
+            "Heritage Preservation",
+            "Law",
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "Doctor",
+          "fields": [
+            "Architecture",
+            "Biomedicine",
+            "Chemical Engineering",
+            "Chemistry",
+            "Computer Science",
+            "Cultural Studies",
+            "Economics",
+            "English Studies",
+            "Environmental Engineering",
+            "Health Sciences",
+            "Heritage Preservation",
+            "Industrial Engineering",
+            "Information Technology",
+            "Law",
+            "Mathematics",
+            "Musicology",
+            "Ophthalmology",
+            "Philosophy",
+            "Physics",
+            "Spanish",
+            "Translation and Interpretation",
+            "Viticulture"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Universities",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Antonio Largo Cabrerizo"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Helena Villarejo Galende"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Paloma Castro Prieto"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1292 and recognized by Pope Clement VI in 1346. Endowed and granted special privileges by the Kings of Spain. Reorganized as a State University in the 19th century. A State institution under the jurisdiction of the Ministry of Education and Science",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "17349",
+      "iau_id": "IAU-017349",
+      "name": "CEU San Pablo University",
+      "alt_name": "Universidad CEU San Pablo (UCEU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxTLSNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017349",
+      "address": {
+        "Street": "Campus de MiramargesCarrer de la Sagrada Família, 7",
+        "City": "Vic",
+        "Post Code": "08500",
+        "WWW": "https://www.uvic.cat/es"
+      },
+      "website": "https://www.uvic.cat/es",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1599,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "September to June",
+      "languages": [
+        "Catalan",
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Women's Studies",
+          "fields": [
+            "Women's Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Business and Communication Studies",
+          "fields": [
+            "Administration",
+            "Advertising and Publicity",
+            "Business Administration",
+            "Journalism"
+          ]
+        },
+        {
+          "name": "Faculty : Education, Translation and Humanities",
+          "fields": [
+            "Physical Education",
+            "Preschool Education",
+            "Primary Education",
+            "Psychology",
+            "Sports",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences",
+          "fields": [
+            "Nursing",
+            "Physical Therapy",
+            "Podiatry"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences and Welfare",
+          "fields": [
+            "Dietetics",
+            "Nursing",
+            "Nutrition",
+            "Occupational Therapy",
+            "Physical Therapy",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "School : Design",
+          "fields": [
+            "Design",
+            "Fashion Design",
+            "Graphic Design",
+            "Interior Design"
+          ]
+        },
+        {
+          "name": "School : Languages",
+          "fields": [
+            "Arabic",
+            "English",
+            "French",
+            "German",
+            "Italian",
+            "Modern Languages",
+            "Russian"
+          ]
+        },
+        {
+          "name": "School : Management and Administration",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "School : Polytechnic",
+          "fields": [
+            "Biology",
+            "Biotechnology",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Electronics and Automation",
+            "Environmental Studies",
+            "Food Technology",
+            "Industrial Engineering",
+            "Statistics"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Título de Graduado",
+          "fields": [
+            "Advertising and Publicity",
+            "Biology",
+            "Biotechnology",
+            "Business Administration",
+            "Clinical Psychology",
+            "Data Science",
+            "Design",
+            "Dietetics",
+            "Education",
+            "Educational Technology",
+            "Engineering",
+            "Gender Studies",
+            "Health Sciences",
+            "Journalism",
+            "Management",
+            "Marketing",
+            "Mass Communication",
+            "Medicine",
+            "Nursing",
+            "Nutrition",
+            "Occupational Therapy",
+            "Physical Therapy",
+            "Preschool Education",
+            "Psychology",
+            "Public Relations",
+            "Secondary Education",
+            "Social Policy",
+            "Social Sciences",
+            "Sports",
+            "Teacher Training",
+            "Translation and Interpretation",
+            "Women's Studies"
+          ]
+        },
+        {
+          "name": "Máster Universitario",
+          "fields": [
+            "Business Administration",
+            "Clinical Psychology",
+            "Data Science",
+            "Design",
+            "Education",
+            "Gender Studies",
+            "Health Sciences",
+            "Management",
+            "Preschool Education",
+            "Secondary Education",
+            "Social Policy",
+            "Translation and Interpretation",
+            "Women's Studies"
+          ]
+        },
+        {
+          "name": "Doctor",
+          "fields": [
+            "Bioengineering",
+            "Biomedicine",
+            "Business Administration",
+            "Communication Studies",
+            "Cultural Studies",
+            "Design",
+            "Economics",
+            "Educational Technology",
+            "Engineering",
+            "Gender Studies",
+            "Law",
+            "Medicine",
+            "Natural Sciences",
+            "Technology",
+            "Translation and Interpretation"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Universities",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Josep-Eladi Baños"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Anna Sabata"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Josep Bau"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1599 as Universitat Literària de Vic. Acquired present status and title 2013",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "18259",
+      "iau_id": "IAU-018259",
+      "name": "Comillas Pontifical University",
+      "alt_name": "Universidad Pontificia Comillas (UPCO)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BSLTNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018259",
+      "address": {
+        "Street": "As Lagoas, Marcosende",
+        "City": "Vigo",
+        "Province": "Pontevedra",
+        "Post Code": "36310",
+        "WWW": "https://www.uvigo.gal"
+      },
+      "website": "https://www.uvigo.gal",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1989,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "October to June",
+      "languages": [
+        "Spanish",
+        "Galician"
+      ],
+      "faculties": [
+        {
+          "name": "College : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "College : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Faculty : Biology",
+          "fields": [
+            "Aquaculture",
+            "Biological and Life Sciences",
+            "Biology",
+            "Neurosciences"
+          ]
+        },
+        {
+          "name": "Faculty : Business Science and Tourism",
+          "fields": [
+            "Business Administration",
+            "Business and Commerce",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Chemistry",
+          "fields": [
+            "Chemistry"
+          ]
+        },
+        {
+          "name": "Faculty : Economics and Business Studies",
+          "fields": [
+            "Business Administration",
+            "Economics",
+            "Management"
+          ]
+        },
+        {
+          "name": "Faculty : Educational Sciences",
+          "fields": [
+            "Educational Sciences",
+            "Social Work",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Faculty : Educational Sciences and Sports",
+          "fields": [
+            "Education",
+            "Music Education",
+            "Physical Education",
+            "Preschool Education",
+            "Primary Education"
+          ]
+        },
+        {
+          "name": "Faculty : Fine Arts",
+          "fields": [
+            "Fine Arts",
+            "Textile Design"
+          ]
+        },
+        {
+          "name": "Faculty : History",
+          "fields": [
+            "History"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Law and Labour Studies",
+          "fields": [
+            "Labour and Industrial Relations",
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Marine Science",
+          "fields": [
+            "Marine Science and Oceanography"
+          ]
+        },
+        {
+          "name": "Faculty : Philology and Translation",
+          "fields": [
+            "English",
+            "Philology",
+            "Spanish",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Faculty : Physiotherapy",
+          "fields": [
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "Faculty : Science",
+          "fields": [
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Science",
+          "fields": [
+            "Agricultural Engineering",
+            "Food Science",
+            "Food Technology",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Faculty : Social Sciences and Communication",
+          "fields": [
+            "Advertising and Publicity",
+            "Communication Arts",
+            "Management",
+            "Public Administration",
+            "Public Relations",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Institute : Applied Electronics",
+          "fields": [
+            "Electronic Engineering"
+          ]
+        },
+        {
+          "name": "School : Business Studies",
+          "fields": [
+            "Business and Commerce"
+          ]
+        },
+        {
+          "name": "School : Computer Engineering",
+          "fields": [
+            "Computer Engineering"
+          ]
+        },
+        {
+          "name": "School : Forestry Engineering",
+          "fields": [
+            "Forestry"
+          ]
+        },
+        {
+          "name": "School : Industrial Engineering",
+          "fields": [
+            "Industrial Engineering"
+          ]
+        },
+        {
+          "name": "School : Industrial Engineering",
+          "fields": [
+            "Chemical Engineering",
+            "Electrical Engineering",
+            "Electronics and Automation",
+            "Industrial Engineering",
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "School : Labour Relations",
+          "fields": [
+            "Labour and Industrial Relations"
+          ]
+        },
+        {
+          "name": "School : Mining Engineering",
+          "fields": [
+            "Mining Engineering"
+          ]
+        },
+        {
+          "name": "School : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "School : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "School : Teacher Training",
+          "fields": [
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "School : Teacher Training",
+          "fields": [
+            "Preschool Education",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "School : Telecommunications Engineering",
+          "fields": [
+            "Telecommunications Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Título de Graduado",
+          "fields": [
+            "Business Administration",
+            "Education",
+            "Engineering",
+            "English",
+            "Environmental Studies",
+            "Fine Arts",
+            "French",
+            "Law",
+            "Natural Sciences",
+            "Nursing",
+            "Physical Therapy",
+            "Spanish",
+            "Tourism",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Máster Propio",
+          "fields": [
+            "Aquaculture",
+            "Archaeology",
+            "Business Administration",
+            "Economics",
+            "Engineering",
+            "Finance",
+            "International Business",
+            "Law",
+            "Management",
+            "Marine Science and Oceanography",
+            "Nutrition",
+            "Sports Management",
+            "Teacher Training",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Doctor",
+          "fields": [
+            "Aeronautical and Aerospace Engineering",
+            "Agriculture",
+            "Biological and Life Sciences",
+            "Biotechnology",
+            "Chemical Engineering",
+            "Chemistry",
+            "Clinical Psychology",
+            "Communication Studies",
+            "Construction Engineering",
+            "Educational Sciences",
+            "English Studies",
+            "Fine Arts",
+            "Food Science",
+            "Health Sciences",
+            "Information Technology",
+            "Linguistics",
+            "Literature",
+            "Marine Science and Oceanography",
+            "Neurosciences",
+            "Physics",
+            "Software Engineering",
+            "Sports",
+            "Translation and Interpretation"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Universities",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Salustiano Mato de la Iglesia"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Manuel Fernández Iglesias"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "María Isabel Doval"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1989",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "17362",
+      "iau_id": "IAU-017362",
+      "name": "Complutense University of Madrid",
+      "alt_name": "Universidad Complutense de Madrid (UCM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxTLUMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017362",
+      "address": {
+        "Street": "Pedro Cerbuna,12",
+        "City": "Zaragoza",
+        "Post Code": "50009",
+        "WWW": "https://www.unizar.es"
+      },
+      "website": "https://www.unizar.es",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1474,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June (September-January; February-June)",
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Business and Public Administration",
+          "fields": [
+            "Business Administration",
+            "Management",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "Faculty : Economics and Business",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Economics",
+            "Finance",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Education",
+            "Educational Sciences",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Arts and Humanities",
+            "Education",
+            "Philology"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences",
+          "fields": [
+            "Dentistry",
+            "Health Sciences",
+            "Nutrition",
+            "Sports",
+            "Sports Medicine"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences and Sports",
+          "fields": [
+            "Dentistry",
+            "Medicine",
+            "Nursing",
+            "Nutrition",
+            "Sports"
+          ]
+        },
+        {
+          "name": "Faculty : Humanities and Education",
+          "fields": [
+            "Preschool Education",
+            "Primary Education"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Commercial Law",
+            "Criminal Law",
+            "History of Law",
+            "Law",
+            "Private Law",
+            "Public Law"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Faculty : Philosophy and Humanities",
+          "fields": [
+            "Art History",
+            "Arts and Humanities",
+            "Classical Languages",
+            "Documentation Techniques",
+            "Geography",
+            "History",
+            "Library Science",
+            "Modern Languages",
+            "Philosophy"
+          ]
+        },
+        {
+          "name": "Faculty : Science",
+          "fields": [
+            "Chemistry",
+            "Earth Sciences",
+            "Environmental Studies",
+            "Food Science",
+            "Mathematics and Computer Science",
+            "Natural Sciences",
+            "Optics",
+            "Optometry",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Faculty : Social and Labour Sciences",
+          "fields": [
+            "Labour and Industrial Relations",
+            "Social Sciences",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Faculty : Veterinary Science",
+          "fields": [
+            "Agriculture",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Institute : Educational Sciences",
+          "fields": [
+            "Educational Sciences"
+          ]
+        },
+        {
+          "name": "Research Division : Biocomputing and Physics of Complex Systems",
+          "fields": [
+            "Computer Science",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Research Division : Energy Resources",
+          "fields": [
+            "Energy Engineering"
+          ]
+        },
+        {
+          "name": "Research Division : Engineering",
+          "fields": [
+            "Engineering"
+          ]
+        },
+        {
+          "name": "Research Division : Environmental Sciences",
+          "fields": [
+            "Environmental Studies"
+          ]
+        },
+        {
+          "name": "Research Division : Mathematics and its Applications",
+          "fields": [
+            "Mathematics"
+          ]
+        },
+        {
+          "name": "Research Division : Nanoscience",
+          "fields": [
+            "Nanotechnology"
+          ]
+        },
+        {
+          "name": "School : Engineering and Architecture",
+          "fields": [
+            "Chemical Engineering",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Industrial Design",
+            "Industrial Engineering",
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "School : Polytechnic",
+          "fields": [
+            "Agricultural Engineering",
+            "Architecture",
+            "Computer Engineering",
+            "Electronic Engineering",
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "School : Polytechnic",
+          "fields": [
+            "Agricultural Engineering",
+            "Chemical Engineering"
+          ]
+        },
+        {
+          "name": "School : Polytechnic",
+          "fields": [
+            "Business Computing",
+            "Telecommunications Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Título de Graduado",
+          "fields": [
+            "Administration",
+            "Arts and Humanities",
+            "Business Administration",
+            "Economics",
+            "Education",
+            "Engineering",
+            "English",
+            "French",
+            "Management",
+            "Medicine",
+            "Natural Sciences",
+            "Nursing",
+            "Physical Education",
+            "Public Administration",
+            "Rehabilitation and Therapy",
+            "Social Work",
+            "Sports",
+            "Statistics",
+            "Teacher Training",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Máster Propio",
+          "fields": [
+            "Archaeology",
+            "Architecture",
+            "Art History",
+            "Clinical Psychology",
+            "Economics",
+            "Engineering",
+            "English",
+            "European Studies",
+            "Gerontology",
+            "Health Sciences",
+            "History",
+            "Law",
+            "Nursing",
+            "Public Health",
+            "Tourism",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Doctor",
+          "fields": [
+            "Analytical Chemistry",
+            "Ancient Civilizations",
+            "Animal Husbandry",
+            "Art History",
+            "Biochemistry",
+            "English Studies",
+            "Food Science",
+            "Geology",
+            "History",
+            "Linguistics",
+            "Literature",
+            "Mathematics",
+            "Molecular Biology",
+            "Philosophy",
+            "Physics",
+            "Statistics"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Universities. Agencia Nacional de Evaluación de la Calidad y Acreditación (ANECA)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Rosa María Bolea Bailo"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Alfonso Peña Ochoa"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Sergio Salinas Alcega"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1474 as Universitas Magistrorum, recognized by Papal Bull. Established 1542 with Papal recognition 1555 and formally recognized as University 1583. Reorganized 1807 and 1971. Became an autonomous institution 1921",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "27136",
+      "iau_id": "IAU-027136",
+      "name": "CUNEF University",
+      "alt_name": "CUNEF Universidad",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzxRLFM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-027136",
+      "address": {
+        "Street": "San Jerónimo, 46",
+        "City": "Granada",
+        "Post Code": "18001",
+        "WWW": "https://conservatoriosuperiorgranada.com"
+      },
+      "website": "https://conservatoriosuperiorgranada.com",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1921,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Artistic Activities",
+          "fields": [
+            "Performing Arts"
+          ]
+        },
+        {
+          "name": "Course/Programme : Music Theory and Composition",
+          "fields": [
+            "Music Theory and Composition"
+          ]
+        },
+        {
+          "name": "Course/Programme : Musical Instruments",
+          "fields": [
+            "Musical Instruments"
+          ]
+        },
+        {
+          "name": "Course/Programme : Musicology",
+          "fields": [
+            "Musicology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Pedagogy",
+          "fields": [
+            "Music Education"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Título Superior de Música",
+          "fields": [
+            "Music"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Universities",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Francisco J. Gil Valencia"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1921. Acquired present status and title 1987",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "3211",
+      "iau_id": "IAU-003211",
+      "name": "Eduardo Martínez Torner Music Conservatoire",
+      "alt_name": "Conservatorio Superior de Música Eduardo Martínez Torner (CONSMUPA)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sUyhRLDBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003211",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "27139",
+      "iau_id": "IAU-027139",
+      "name": "ESIC University",
+      "alt_name": "ESIC Universidad – ESIC Business and Marketing School",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzxRLFNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-027139",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "22100",
+      "iau_id": "IAU-022100",
+      "name": "European Institute of Design, Madrid",
+      "alt_name": "Instituto Europeo di Design, Madrid (IED Madrid)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyhRLCNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-022100",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17758",
+      "iau_id": "IAU-017758",
+      "name": "European University of Madrid",
+      "alt_name": "Universidad Europea de Madrid (UEM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxXLTNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017758",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "23452",
+      "iau_id": "IAU-023452",
+      "name": "European University of the Atlantic",
+      "alt_name": "Universidad Europea del Atlántico (UNEATLANTICO)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyxULTMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-023452",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "27118",
+      "iau_id": "IAU-027118",
+      "name": "European University of the Canary Islands",
+      "alt_name": "Universidad Europea de Canarias",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzxRLDNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-027118",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "27138",
+      "iau_id": "IAU-027138",
+      "name": "European University of Valencia",
+      "alt_name": "Universidad Europea de Valencia",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzxRLFNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-027138",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17779",
+      "iau_id": "IAU-017779",
+      "name": "Francisco de Vitoria University",
+      "alt_name": "Universidad Francisco de Vitoria (UFV)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxXLVNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017779",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "7713",
+      "iau_id": "IAU-007713",
+      "name": "IE University",
+      "alt_name": "IE Universidad",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tUzxRLFBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007713",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17869",
+      "iau_id": "IAU-017869",
+      "name": "International University Menéndez Pelayo",
+      "alt_name": "Universidad Internacional Menéndez Pelayo (UIMP)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxYLUNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017869",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17858",
+      "iau_id": "IAU-017858",
+      "name": "International University of Andalusia",
+      "alt_name": "Universidad Internacional de Andalucía (UNIA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxYLTNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017858",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "19343",
+      "iau_id": "IAU-019343",
+      "name": "International University of Catalonia",
+      "alt_name": "Universitat Internacional de Catalunya – Universidad Internacional de Cataluña (UIC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RTLSMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019343",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17864",
+      "iau_id": "IAU-017864",
+      "name": "International University of La Rioja",
+      "alt_name": "Universidad Internacional de La Rioja",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxYLUMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017864",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "23035",
+      "iau_id": "IAU-023035",
+      "name": "International University of Valencia",
+      "alt_name": "Universidad Internacional de Valencia – Universitat Internacional Valenciana",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyxQLFM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-023035",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "19344",
+      "iau_id": "IAU-019344",
+      "name": "Jaume I University",
+      "alt_name": "Universitat Jaume I – Universidad de Jaime I (UJCS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RTLSMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019344",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "3212",
+      "iau_id": "IAU-003212",
+      "name": "Joaquín Rodrigo Music Conservatoire of Valencia",
+      "alt_name": "Conservatorio Superior de Música Joaquín Rodrigo de Valencia (CSMV)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sUyhRLEBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003212",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "3213",
+      "iau_id": "IAU-003213",
+      "name": "Juan Crisóstomo de Arriaga Music Conservatoire, Bilbao",
+      "alt_name": "Conservatorio Superior de Música Juan Crisóstomo de Arriaga de Bilbao",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sUyhRLFBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003213",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "18315",
+      "iau_id": "IAU-018315",
+      "name": "King Juan Carlos University",
+      "alt_name": "Universidad Rey Juan Carlos (URJC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BTLDM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018315",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "27137",
+      "iau_id": "IAU-027137",
+      "name": "Las Hespérides University",
+      "alt_name": "Universidad de las Hespérides",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzxRLFM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-027137",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "23033",
+      "iau_id": "IAU-023033",
+      "name": "Loyola University Andalusia",
+      "alt_name": "Universidad Loyola Andalucía",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyxQLFMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-023033",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "3214",
+      "iau_id": "IAU-003214",
+      "name": "Manuel Castillo Music Conservatoire, Seville",
+      "alt_name": "Conservatorio Superior de Música Manuel Castillo de Sevilla (CSMS)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sUyhRLWBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003214",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "3207",
+      "iau_id": "IAU-003207",
+      "name": "Manuel Massotti Littel Music Conservatoire of Murcia",
+      "alt_name": "Conservatorio Superior de Musica de Murcia Manuel Massotti Littel",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sUyhQLVBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003207",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17759",
+      "iau_id": "IAU-017759",
+      "name": "Miguel de Cervantes European University",
+      "alt_name": "Universidad Europea Miguel de Cervantes (UEMC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxXLTNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017759",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17983",
+      "iau_id": "IAU-017983",
+      "name": "Miguel Hernández University of Elche",
+      "alt_name": "Universidad Miguel Hernández de Elche (UMH)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxZLiMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017983",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "3201",
+      "iau_id": "IAU-003201",
+      "name": "Music Conservatoire of A Coruña",
+      "alt_name": "Conservatorio Superior de Música da Coruña",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sUyhQLDBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003201",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "3202",
+      "iau_id": "IAU-003202",
+      "name": "Music Conservatoire of Aragon",
+      "alt_name": "Conservatorio Superior de Música de Aragón (CSMA)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sUyhQLEBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003202",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "3200",
+      "iau_id": "IAU-003200",
+      "name": "Music Conservatoire of Extremadura",
+      "alt_name": "Conservatorio Superior de Música Bonifacio Gil",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sUyhQLGBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003200",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "3206",
+      "iau_id": "IAU-003206",
+      "name": "Music Conservatoire of Málaga",
+      "alt_name": "Conservatorio Superior de Música de Málaga",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sUyhQLUBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003206",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "3208",
+      "iau_id": "IAU-003208",
+      "name": "Music Conservatoire of Navarra",
+      "alt_name": "Conservatorio Superior de Música de Navarra",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sUyhQLmBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003208",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "3209",
+      "iau_id": "IAU-003209",
+      "name": "Music Conservatoire of of Castilla y León",
+      "alt_name": "Conservatorio Superior de Música de Castilla y León",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sUyhQLjBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003209",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "3190",
+      "iau_id": "IAU-003190",
+      "name": "Music Conservatoire of the Ballearic Islands",
+      "alt_name": "Conservatori Superior de Música de les Illes Balears (CSMIB)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sUyRZLGBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003190",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "3203",
+      "iau_id": "IAU-003203",
+      "name": "Music Conservatoire of the Canary Islands",
+      "alt_name": "Conservatorio Superior de Música de Canarias (CSMC)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sUyhQLFBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003203",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "3189",
+      "iau_id": "IAU-003189",
+      "name": "Music Conservatoire of the Liceu",
+      "alt_name": "Conservatori Superior de Música del Liceu",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sUyRYLjBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003189",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "3210",
+      "iau_id": "IAU-003210",
+      "name": "Music Conservatoire of Vigo",
+      "alt_name": "Conservatorio Superior de Música de Vigo",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sUyhRLGBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003210",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "4591",
+      "iau_id": "IAU-004591",
+      "name": "Music School of Catalonia",
+      "alt_name": "Escola Superior de Música de Catalunya",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIzRZLDBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004591",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "12242",
+      "iau_id": "IAU-012242",
+      "name": "Musikene - Higher School of Music of the Basque Country",
+      "alt_name": "Musikene - Centro Superior de Música del País Vasco – Euskal Herriko Goi-Mailako Musika Ikastegia",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyhSLSMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-012242",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17165",
+      "iau_id": "IAU-017165",
+      "name": "Nebrija University",
+      "alt_name": "Universidad Antonio de Nebrija (UAN)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxRLUM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017165",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17110",
+      "iau_id": "IAU-017110",
+      "name": "Open University of Madrid",
+      "alt_name": "Universidad a Distancia de Madrid (UDIMA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxRLDNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017110",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "3215",
+      "iau_id": "IAU-003215",
+      "name": "Oscar Esplá Music Conservatoire, Alicante",
+      "alt_name": "Conservatorio Superior de Música Oscar Esplá de Alicante (CSMA)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sUyhRLTBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003215",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "18148",
+      "iau_id": "IAU-018148",
+      "name": "Pablo de Olavide University",
+      "alt_name": "Universidad Pablo de Olavide (UPO)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BRLSNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018148",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "18211",
+      "iau_id": "IAU-018211",
+      "name": "Polytechnic University of Cartagena",
+      "alt_name": "Universidad Politécnica de Cartagena (UPCT)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BSLDMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018211",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "18236",
+      "iau_id": "IAU-018236",
+      "name": "Polytechnic University of Valencia",
+      "alt_name": "Universitat Politècnica de València (UPVA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BSLFM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018236",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "19360",
+      "iau_id": "IAU-019360",
+      "name": "Pompeu Fabra University",
+      "alt_name": "Universitat Pompeu Fabra – Universidad Pompeu Fabra (UPF)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RTLUNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019360",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "18261",
+      "iau_id": "IAU-018261",
+      "name": "Pontifical University of Salamanca",
+      "alt_name": "Universidad Pontificia de Salamanca (UPSA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BSLUMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018261",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "18302",
+      "iau_id": "IAU-018302",
+      "name": "Public University of Navarra",
+      "alt_name": "Universidad Pública de Navarra (UPNA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BTLCMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018302",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "3204",
+      "iau_id": "IAU-003204",
+      "name": "Rafael Orozco Music Conservatoire of Cordoba",
+      "alt_name": "Conservatorio Superior de Música de Córdoba Rafael Orozco",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sUyhQLWBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003204",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "19362",
+      "iau_id": "IAU-019362",
+      "name": "Ramon Llull University",
+      "alt_name": "Universitat Ramon Llull (URL)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RTLUMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019362",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "19365",
+      "iau_id": "IAU-019365",
+      "name": "Rovira i Virgili University",
+      "alt_name": "Universitat Rovira i Virgili – Universidad Rovira y Virgili (URV)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RTLUM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019365",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "13931",
+      "iau_id": "IAU-013931",
+      "name": "Royal Higher College of Performing Arts",
+      "alt_name": "Real Escuela Superior de Arte Dramático (RESAD)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyxZLFMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-013931",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "13929",
+      "iau_id": "IAU-013929",
+      "name": "Royal Music Conservatoire of Madrid",
+      "alt_name": "Real Conservatorio Superior de Música de Madrid",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyxZLENEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-013929",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17309",
+      "iau_id": "IAU-017309",
+      "name": "Saint Vincent the Martyr Catholic University of Valencia",
+      "alt_name": "Universidad Católica de Valencia San Vicente Mártir (UCV)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxTLCNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017309",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17317",
+      "iau_id": "IAU-017317",
+      "name": "San Antonio Catholic University of Murcia",
+      "alt_name": "Universidad Católica San Antonio de Murcia (UCAM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxTLDM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017317",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "18328",
+      "iau_id": "IAU-018328",
+      "name": "San Jorge University",
+      "alt_name": "Universidad San Jorge",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BTLENAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018328",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "4564",
+      "iau_id": "IAU-004564",
+      "name": "School of Conservation and Restoration of Cultural Heritage of Galicia",
+      "alt_name": "Escola Superior de Conservación e Restauración de Bens Culturais de Galicia",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIzRWLWBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004564",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "4782",
+      "iau_id": "IAU-004782",
+      "name": "School of Dramatic Art of Murcia",
+      "alt_name": "Escuela Superior de Arte Dramático de Murcia (ESAD Murcia)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIzxYLEBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004782",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "4783",
+      "iau_id": "IAU-004783",
+      "name": "School of Dramatic Art of Seville",
+      "alt_name": "Escuela Superior de Arte Dramático de Sevilla (ESAD Sevilla)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIzxYLFBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004783",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "4784",
+      "iau_id": "IAU-004784",
+      "name": "School of Dramatic Art of Valencia",
+      "alt_name": "Escuela Superior de Arte Dramático de Valencia (ESADV)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIzxYLWBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004784",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "7936",
+      "iau_id": "IAU-007936",
+      "name": "Theatre Institute of Barcelona",
+      "alt_name": "Institut del Teatre",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tU0RTLUBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007936",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "18223",
+      "iau_id": "IAU-018223",
+      "name": "Universidad Politécnica de Madrid",
+      "alt_name": "(UPM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BSLEMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018223",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "19359",
+      "iau_id": "IAU-019359",
+      "name": "Universitat Politècnica de Catalunya - Barcelona Tech",
+      "alt_name": "Universitat Politècnica de Catalunya - BarcelonaTech – Universidad Politécnica de Cataluña (UPC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RTLTNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019359",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "23034",
+      "iau_id": "IAU-023034",
+      "name": "University Isabel 1",
+      "alt_name": "Universidad Isabel I",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyxQLFMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-023034",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "18537",
+      "iau_id": "IAU-018537",
+      "name": "University of A Coruña",
+      "alt_name": "Universidade da Coruña (UDC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BVLFM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018537",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17386",
+      "iau_id": "IAU-017386",
+      "name": "University of Alcalá",
+      "alt_name": "Universidad de Alcalá (UAH)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxTLiM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017386",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17387",
+      "iau_id": "IAU-017387",
+      "name": "University of Alicante",
+      "alt_name": "Universidad de Alicante – Universitat d'Alacant (UAL)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxTLiM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017387",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17388",
+      "iau_id": "IAU-017388",
+      "name": "University of Almería",
+      "alt_name": "Universidad de Almería (UALM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxTLiNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017388",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17408",
+      "iau_id": "IAU-017408",
+      "name": "University of Burgos",
+      "alt_name": "Universidad de Burgos (UBU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxULCNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017408",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17409",
+      "iau_id": "IAU-017409",
+      "name": "University of Cádiz",
+      "alt_name": "Universidad de Cádiz (UCA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxULCNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017409",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17412",
+      "iau_id": "IAU-017412",
+      "name": "University of Cantabria",
+      "alt_name": "Universidad de Cantabria (UC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxULDMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017412",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17416",
+      "iau_id": "IAU-017416",
+      "name": "University of Castilla-La Mancha",
+      "alt_name": "Universidad de Castilla-La Mancha (UCLM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxULDM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017416",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17437",
+      "iau_id": "IAU-017437",
+      "name": "University of Córdoba",
+      "alt_name": "Universidad de Córdoba (UCO)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxULFM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017437",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17447",
+      "iau_id": "IAU-017447",
+      "name": "University of Deusto",
+      "alt_name": "Universidad de Deusto (UDE)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxULSM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017447",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17458",
+      "iau_id": "IAU-017458",
+      "name": "University of Extremadura",
+      "alt_name": "Universidad de Extremadura (UEx)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxULTNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017458",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "19321",
+      "iau_id": "IAU-019321",
+      "name": "University of Girona",
+      "alt_name": "Universitat de Girona – Universidad de Gerona (UDG)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RTLEMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019321",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17468",
+      "iau_id": "IAU-017468",
+      "name": "University of Huelva",
+      "alt_name": "Universidad de Huelva (UHU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxULUNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017468",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17472",
+      "iau_id": "IAU-017472",
+      "name": "University of Jaén",
+      "alt_name": "Universidad de Jaén (UJA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxULVMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017472",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17487",
+      "iau_id": "IAU-017487",
+      "name": "University of La Laguna",
+      "alt_name": "Universidad de La Laguna (ULL)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxULiM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017487",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17492",
+      "iau_id": "IAU-017492",
+      "name": "University of La Rioja",
+      "alt_name": "Universidad de La Rioja (URI)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxULjMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017492",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17511",
+      "iau_id": "IAU-017511",
+      "name": "University of Las Palmas de Gran Canaria",
+      "alt_name": "Universidad de Las Palmas de Gran Canaria (UPGC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxVLDMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017511",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17514",
+      "iau_id": "IAU-017514",
+      "name": "University of León",
+      "alt_name": "Universidad de León (UNILEON)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxVLDMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017514",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "19324",
+      "iau_id": "IAU-019324",
+      "name": "University of Lleida",
+      "alt_name": "Universitat de Lleida – Universidad de Lérida (UDL)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RTLEMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019324",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "12029",
+      "iau_id": "IAU-012029",
+      "name": "University of Mondragón",
+      "alt_name": "Mondragón Unibertsitatea (UM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyhQLENEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-012029",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17546",
+      "iau_id": "IAU-017546",
+      "name": "University of Murcia",
+      "alt_name": "Universidad de Murcia (UMU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxVLSM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017546",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17548",
+      "iau_id": "IAU-017548",
+      "name": "University of Navarra",
+      "alt_name": "Universidad de Navarra (UNA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxVLSNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017548",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17564",
+      "iau_id": "IAU-017564",
+      "name": "University of Oviedo",
+      "alt_name": "Universidad de Oviedo (UOV)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxVLUMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017564",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17610",
+      "iau_id": "IAU-017610",
+      "name": "University of Santiago de Compostela",
+      "alt_name": "Universidad de Santiago de Compostela (USC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxWLDNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017610",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17611",
+      "iau_id": "IAU-017611",
+      "name": "University of Seville",
+      "alt_name": "Universidad de Sevilla (USE)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxWLDMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017611",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "19322",
+      "iau_id": "IAU-019322",
+      "name": "University of the Balearic Islands",
+      "alt_name": "Universitat de les Illes Balears – Universidad de las Islas Baleares (UIB)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RTLEMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019322",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17682",
+      "iau_id": "IAU-017682",
+      "name": "University of the Basque Country",
+      "alt_name": "Universidad del País Vasco - Euskal Herriko Unibertsitatea (UPV/EHU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxWLiMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017682",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "19325",
+      "iau_id": "IAU-019325",
+      "name": "University of Valencia",
+      "alt_name": "Universitat de València – Universidad de Valencia (UVEG)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RTLEM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019325",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17622",
+      "iau_id": "IAU-017622",
+      "name": "University of Valladolid",
+      "alt_name": "Universidad de Valladolid (UVA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxWLEMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017622",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "19326",
+      "iau_id": "IAU-019326",
+      "name": "University of Vic-Central University of Catalunya",
+      "alt_name": "Universitat de Vic-Universitat Central de Catalunya (UVic-UCC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RTLEM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019326",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17624",
+      "iau_id": "IAU-017624",
+      "name": "University of Vigo",
+      "alt_name": "Universidad de Vigo (UVI)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxWLEMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017624",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17630",
+      "iau_id": "IAU-017630",
+      "name": "University of Zaragoza",
+      "alt_name": "Universidad de Zaragoza (UZA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxWLFNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017630",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "13930",
+      "iau_id": "IAU-013930",
+      "name": "Victoria Eugenia Royal Music Conservatoire of Granda",
+      "alt_name": "Real Conservatorio Superior de Música Victoria Eugenia de Granada (RCSMVE)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyxZLFNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-013930",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    }
+  ]
+}

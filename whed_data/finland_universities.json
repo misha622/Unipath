@@ -1,0 +1,4756 @@
+{
+  "country_name": "Finland",
+  "country_id": "Finland",
+  "institutions": [
+    {
+      "id": "10",
+      "iau_id": "IAU-000010",
+      "name": "Aalto University",
+      "alt_name": "Aalto-yliopisto – Aalto-universitetet",
+      "detail_url": "https://whed.net/detail_institution.php?JTo2MF0sM2BgCmAK",
+      "iau_link": "https://www.whed.net/institutions/IAU-000010",
+      "address": {
+        "Street": "Ratapihantie 13",
+        "City": "Helsinki",
+        "Post Code": "00520",
+        "WWW": "https://www.haaga-helia.fi/en"
+      },
+      "website": "https://www.haaga-helia.fi/en",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1992,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "August to December; January to May",
+      "languages": [
+        "Finnish",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Business",
+          "fields": [
+            "Business Administration",
+            "Business and Commerce",
+            "Finance",
+            "International Business",
+            "Modern Languages",
+            "Sales Techniques"
+          ]
+        },
+        {
+          "name": "Department/Division : Hotel, Restaurant and Tourism",
+          "fields": [
+            "Cooking and Catering",
+            "Hotel Management",
+            "Leisure Studies",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Department/Division : Information Technology",
+          "fields": [
+            "Business Administration",
+            "Business Computing",
+            "Information Management",
+            "Information Sciences",
+            "Information Technology",
+            "Management Systems"
+          ]
+        },
+        {
+          "name": "Department/Division : Journalism",
+          "fields": [
+            "Information Sciences",
+            "Journalism"
+          ]
+        },
+        {
+          "name": "Department/Division : Sports",
+          "fields": [
+            "Leisure Studies",
+            "Sports",
+            "Sports Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Tourism",
+          "fields": [
+            "Business and Commerce",
+            "International Business",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Department/Division : Vocational Teacher Education",
+          "fields": [
+            "Teacher Training"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ammattikorkeakoulututkinto (AMK)/ Yrkeshögskoleexamen (YH)",
+          "fields": [
+            "Business Administration",
+            "Computer Education",
+            "Computer Science",
+            "Cultural Studies",
+            "Economics",
+            "English",
+            "Finance",
+            "Hotel and Restaurant",
+            "Information Technology",
+            "International Business",
+            "Journalism",
+            "Leisure Studies",
+            "Management",
+            "Marketing",
+            "Modern Languages",
+            "Physical Education",
+            "Sales Techniques",
+            "Service Trades",
+            "Sports Management",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Ylempi ammattikorkeakoulututkinto (ylempi AMK)/ Högre yrkeshögskoleexamen (högre YH)",
+          "fields": [
+            "Business Administration",
+            "Business Education",
+            "Computer Education",
+            "Hotel and Restaurant",
+            "Leadership",
+            "Physical Education",
+            "Service Trades",
+            "Sports Management",
+            "Technology Education",
+            "Tourism"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Culture",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Teemu Kokko"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Minna Hiillos"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2022-2023",
+        "Students Total:": "11000"
+      },
+      "history": "Founded 1992. Acquired present title 2007, following merger with Haaga ammattikorkeakoulu (Haaga Polytechnic). Formerly known as Helsingin liiketalouden ammattikorkeakoulu Helsingfors yrkeshögskola för företagsekonomi (Helsinki Business Polytechnic)",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "27",
+      "iau_id": "IAU-000027",
+      "name": "Åbo Akademi University",
+      "alt_name": "Åbo Akademi",
+      "detail_url": "https://whed.net/detail_institution.php?JTo2MF0sQzxgCmAK",
+      "iau_link": "https://www.whed.net/institutions/IAU-000027",
+      "address": {
+        "Street": "P.O. Box 479Arkadiankatu 22",
+        "City": "Helsinki",
+        "Post Code": "00101",
+        "WWW": "https://www.hanken.fi/en"
+      },
+      "website": "https://www.hanken.fi/en",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1909,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "August to July",
+      "languages": [
+        "Swedish",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Accounting and Commercial Law",
+          "fields": [
+            "Accountancy",
+            "Commercial Law"
+          ]
+        },
+        {
+          "name": "Department/Division : Economics",
+          "fields": [
+            "Economics"
+          ]
+        },
+        {
+          "name": "Department/Division : Finance",
+          "fields": [
+            "Finance",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Department/Division : Management and Organisation",
+          "fields": [
+            "Information Technology",
+            "Leadership",
+            "Management",
+            "Political Sciences"
+          ]
+        },
+        {
+          "name": "Department/Division : Marketing",
+          "fields": [
+            "Geography (Human)",
+            "Marketing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Kandidaatin tutkinto/Kandidatexamen",
+          "fields": [
+            "Business Administration",
+            "Economics"
+          ]
+        },
+        {
+          "name": "Maisterim tutkinto/Magisterexamen",
+          "fields": [
+            "Business Administration",
+            "Economics"
+          ]
+        },
+        {
+          "name": "Lisensiaatti/Licentiat",
+          "fields": [
+            "Business Administration",
+            "Economics"
+          ]
+        },
+        {
+          "name": "Tohtorin tutkinto/Doktorexamen",
+          "fields": [
+            "Business Administration",
+            "Economics"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Culture; EQUIS, AACSB International (Association to Advance Collegiate Schools of Business); AMBA (Association of MBAs)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ingmar Björkman"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Elina Stadigh"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Ida Borgar"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Johanna Julin Lilius"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2024-2025",
+        "Students Total:": "2815"
+      },
+      "history": "Founded 1909. Authorised to grant Master of Science 1927, PhD 1944, and Licentiate 1953. Unit in Vaasa established 1980. Reports to the Ministry of Education and Culture",
+      "periodicals": [
+        "Economics and Society",
+        "Economics and Society"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "1049",
+      "iau_id": "IAU-001049",
+      "name": "Arcada University of Applied Sciences",
+      "alt_name": "ARCADA",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sM2BULjBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-001049",
+      "address": {
+        "Street": "P.O. Box 3(Fabianinkatu 33)",
+        "City": "Helsinki",
+        "Post Code": "00014",
+        "WWW": "https://www.helsinki.fi"
+      },
+      "website": "https://www.helsinki.fi",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to May (September-December; January-May)",
+      "languages": [
+        "Finnish",
+        "Swedish",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Centre for University Teaching and Learning (HYPE)",
+          "fields": [
+            "https://www.helsinki.fi/en/centre-for-university-teaching-and-learning-hype"
+          ]
+        },
+        {
+          "name": "Centre : HY+",
+          "fields": [
+            "https://eduvisit.hyplusglobal.fi/"
+          ]
+        },
+        {
+          "name": "Centre : Language Centre",
+          "fields": [
+            "Offers language courses for all students",
+            "faculty and staff"
+          ]
+        },
+        {
+          "name": "Centre : Neuroscience Center",
+          "fields": [
+            "https://www.helsinki.fi/en/hilife-neuroscience-center"
+          ]
+        },
+        {
+          "name": "Faculty : Agriculture and Forestry",
+          "fields": [
+            "Agricultural Management",
+            "Agriculture",
+            "Arctic Studies",
+            "Environmental Studies",
+            "Food Science",
+            "Forestry"
+          ]
+        },
+        {
+          "name": "Faculty : Arts",
+          "fields": [
+            "Aesthetics",
+            "African Studies",
+            "Archaeology",
+            "Art History",
+            "Asian Studies",
+            "Baltic Languages",
+            "Cinema and Television",
+            "Comparative Literature",
+            "Comparative Religion",
+            "Cultural Studies",
+            "English",
+            "Ethnology",
+            "Film",
+            "Finnish",
+            "Folklore",
+            "German",
+            "History",
+            "Hungarian",
+            "Linguistics",
+            "Literature",
+            "Marine Science and Oceanography",
+            "Museum Studies",
+            "Musicology",
+            "Philology",
+            "Philosophy",
+            "Romance Languages",
+            "Scandinavian Languages",
+            "Slavic Languages",
+            "Theatre",
+            "Translation and Interpretation",
+            "Women's Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Biological and Environmental Sciences",
+          "fields": [
+            "Biochemistry",
+            "Biotechnology",
+            "Ecology",
+            "Genetics",
+            "Microbiology",
+            "Neurosciences",
+            "Physiology",
+            "Plant Pathology",
+            "Zoology"
+          ]
+        },
+        {
+          "name": "Faculty : Educational Sciences",
+          "fields": [
+            "Behavioural Sciences",
+            "Cognitive Sciences",
+            "Education",
+            "Educational Testing and Evaluation",
+            "Handicrafts",
+            "Higher Education",
+            "Home Economics",
+            "Speech Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Commercial Law",
+            "Criminal Law",
+            "Human Rights",
+            "International Economics",
+            "International Law",
+            "Justice Administration",
+            "Private Law",
+            "Public Law"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Biomedicine",
+            "Dentistry",
+            "Forensic Medicine and Dentistry",
+            "Medicine",
+            "Psychology",
+            "Public Health"
+          ]
+        },
+        {
+          "name": "Faculty : Pharmacy",
+          "fields": [
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Faculty : Science",
+          "fields": [
+            "Astronomy and Space Science",
+            "Chemistry",
+            "Computer Science",
+            "Geography",
+            "Geology",
+            "Mathematics",
+            "Physics",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Faculty : Social Sciences",
+          "fields": [
+            "Anthropology",
+            "Economics",
+            "Political Sciences",
+            "Social Psychology",
+            "Social Studies",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Faculty : Theology",
+          "fields": [
+            "Bible",
+            "Comparative Religion",
+            "History of Religion",
+            "Orthodox Theology",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Faculty : Veterinary Medicine",
+          "fields": [
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Institute : Aleksanteri Institute - Finnish Centre for Russian and East European Studies",
+          "fields": [
+            "https://www.helsinki.fi/en/aleksanteri-institute"
+          ]
+        },
+        {
+          "name": "Institute : Finnish Institute for Verification of the Chemical Weapons Convention (VERIFIN)",
+          "fields": [
+            "https://www.helsinki.fi/en/verifin-finnish-institute-for-verification-of-the-chemical-weapons-convention"
+          ]
+        },
+        {
+          "name": "Institute : Helsinki Collegium for Advanced Studies",
+          "fields": [
+            "https://www.helsinki.fi/en/helsinki-collegium-for-advanced-studies"
+          ]
+        },
+        {
+          "name": "Institute : Helsinki Institute for Information Technology (HIIT)",
+          "fields": [
+            "https://www.hiit.fi/"
+          ]
+        },
+        {
+          "name": "Institute : Helsinki Institute of Life Science (HiLIFE)",
+          "fields": [
+            "http://www.hip.fi/"
+          ]
+        },
+        {
+          "name": "Institute : Helsinki Institute of Physics (HIP)",
+          "fields": [
+            "http://www.hip.fi/"
+          ]
+        },
+        {
+          "name": "Institute : Helsinki Institute of Sustainability Science (HELSUS)",
+          "fields": [
+            "https://www.helsinki.fi/en/helsinki-institute-of-sustainability-science"
+          ]
+        },
+        {
+          "name": "Institute : Institute for Atmospheric and Earth system Research (INAR)",
+          "fields": [
+            "https://www.helsinki.fi/en/inar-institute-for-atmospheric-and-earth-system-research"
+          ]
+        },
+        {
+          "name": "Institute : Institute for Molecular Medicine Finland (FIMM)",
+          "fields": [
+            "https://www.helsinki.fi/en/hilife-fimm"
+          ]
+        },
+        {
+          "name": "Institute : Institute of Biotechnology",
+          "fields": [
+            "https://www.helsinki.fi/en/hilife-institute-of-biotechnology"
+          ]
+        },
+        {
+          "name": "Institute : Institute of Seismology",
+          "fields": [
+            "https://www.helsinki.fi/en/institute-of-seismology"
+          ]
+        },
+        {
+          "name": "Unit : Helsinki University Library",
+          "fields": [
+            "https://www.helsinki.fi/en/helsinki-university-library"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Kandidaatin tutkinto/Kandidatexamen",
+          "fields": [
+            "Agriculture",
+            "Biological and Life Sciences",
+            "Chemistry",
+            "Communication Studies",
+            "Computer Science",
+            "Cultural Studies",
+            "Economics",
+            "Environmental Studies",
+            "Fine Arts",
+            "Finnish",
+            "Food Science",
+            "Forestry",
+            "Geography",
+            "History",
+            "Literature",
+            "Mathematics",
+            "Modern Languages",
+            "Molecular Biology",
+            "Natural Sciences",
+            "Notary Studies",
+            "Pharmacy",
+            "Philosophy",
+            "Physics",
+            "Political Sciences",
+            "Psychology",
+            "Religious Studies",
+            "Social Sciences",
+            "Speech Therapy and Audiology",
+            "Theology",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Eläinlääketieteen lisensiaatti/Veterinärmedicine licentiat",
+          "fields": [
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Hammaslääketieteen lisensiaatti/Odontologie licentiat",
+          "fields": [
+            "Dentistry"
+          ]
+        },
+        {
+          "name": "Lääketieteen lisensiaatti/Medicine licentiat",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Maisterim tutkinto/Magisterexamen",
+          "fields": [
+            "Agricultural Economics",
+            "Agriculture",
+            "Arts and Humanities",
+            "Astronomy and Space Science",
+            "Astrophysics",
+            "Biological and Life Sciences",
+            "Biology",
+            "Biotechnology",
+            "Botany",
+            "Chemistry",
+            "Commercial Law",
+            "Communication Studies",
+            "Computer Science",
+            "Cultural Studies",
+            "Danish",
+            "Data Science",
+            "Ecology",
+            "Economics",
+            "Education",
+            "Educational Sciences",
+            "English",
+            "Environmental Studies",
+            "European Studies",
+            "Fine Arts",
+            "Finnish",
+            "Food Science",
+            "Forestry",
+            "Gender Studies",
+            "Genetics",
+            "Geography",
+            "Geology",
+            "Geophysics",
+            "Government",
+            "Health Sciences",
+            "Heritage Preservation",
+            "History",
+            "Hungarian",
+            "Icelandic",
+            "International Law",
+            "Law",
+            "Linguistics",
+            "Literature",
+            "Materials Engineering",
+            "Mathematics",
+            "Mathematics Education",
+            "Medicine",
+            "Meteorology",
+            "Microbiology",
+            "Modern Languages",
+            "Molecular Biology",
+            "Neurosciences",
+            "Nordic Studies",
+            "Nutrition",
+            "Pharmacy",
+            "Philosophy",
+            "Political Sciences",
+            "Psychology",
+            "Regional Studies",
+            "Religious Studies",
+            "Russian",
+            "Science Education",
+            "Social Sciences",
+            "Social Studies",
+            "Speech Therapy and Audiology",
+            "Statistics",
+            "Theology",
+            "Town Planning",
+            "Translation and Interpretation",
+            "Urban Studies"
+          ]
+        },
+        {
+          "name": "Tohtorin tutkinto/Doktorexamen",
+          "fields": [
+            "Arts and Humanities",
+            "Astronomy and Space Science",
+            "Biological and Life Sciences",
+            "Biology",
+            "Biomedicine",
+            "Biotechnology",
+            "Botany",
+            "Chemistry",
+            "Communication Studies",
+            "Computer Science",
+            "Cultural Studies",
+            "Earth Sciences",
+            "Economics",
+            "Education",
+            "Environmental Studies",
+            "Fine Arts",
+            "Food Science",
+            "Gender Studies",
+            "Health Sciences",
+            "Heritage Preservation",
+            "History",
+            "Law",
+            "Materials Engineering",
+            "Mathematics",
+            "Meteorology",
+            "Microbiology",
+            "Modern Languages",
+            "Molecular Biology",
+            "Nanotechnology",
+            "Natural Resources",
+            "Natural Sciences",
+            "Neurosciences",
+            "Oral Pathology",
+            "Pharmacology",
+            "Philosophy",
+            "Physics",
+            "Political Sciences",
+            "Psychology",
+            "Public Health",
+            "Regional Studies",
+            "Religious Studies",
+            "Social Sciences",
+            "Social Studies",
+            "Statistics",
+            "Theology",
+            "Veterinary Science",
+            "Wildlife"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Culture",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Sari Lind­blom"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Esa Hämäläinen"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Han­na Snell­man"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Markus Laitinen"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2019-2020",
+        "Staff Full Time Total:": "617",
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "31600",
+        "Students Foreign Total:": "1970"
+      },
+      "history": "Founded as Royal Academy of Turku 1640. Transferred to Helsinki 1828. The first and only university in the country until 1919. The University of Helsinki is part of the Seinäjoki University Consortium (UCS) which brings together University of Tampere, Helsinki University of the Arts - Sibelius Academy, University of Vaasa, University of Turku, the University Association of South Ostrobothnia, the Natural Resources Institute Finland and the Migration Institute of Finland. The Seinäjoki University Consortium is one of six university consortia in Finland and is coordinate by Tampere University.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "10296",
+      "iau_id": "IAU-010296",
+      "name": "Centria University of Applied Sciences",
+      "alt_name": "Centria ammattikorkeakoulu",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM2BSLjM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-010296",
+      "address": {
+        "Street": "Seminaarinkatu 15 (Kirjaamo ja arkisto)P.O. Box 35",
+        "City": "Jyväskylä",
+        "Post Code": "40014",
+        "WWW": "https://www.jyu.fi"
+      },
+      "website": "https://www.jyu.fi",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1863,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "Autumn semester: September-December; Spring semester: January-June",
+      "languages": [
+        "Finnish",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Education and Psychology",
+          "fields": [
+            "Adult Education",
+            "Curriculum",
+            "Education",
+            "Educational Administration",
+            "Educational and Student Counselling",
+            "Preschool Education",
+            "Primary Education",
+            "Psychology",
+            "Special Education",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Faculty : Humanities and Social Sciences",
+          "fields": [
+            "Applied Linguistics",
+            "Art Education",
+            "Art History",
+            "Arts and Humanities",
+            "Communication Studies",
+            "Cultural Studies",
+            "English",
+            "Ethnology",
+            "Finnish",
+            "Foreign Languages Education",
+            "French",
+            "German",
+            "History",
+            "Humanities and Social Science Education",
+            "Journalism",
+            "Linguistics",
+            "Literature",
+            "Modern Languages",
+            "Museum Studies",
+            "Music",
+            "Music Education",
+            "Musicology",
+            "Philosophy",
+            "Political Sciences",
+            "Romance Languages",
+            "Russian",
+            "Social Policy",
+            "Social Work",
+            "Sociology",
+            "Speech Studies",
+            "Swedish"
+          ]
+        },
+        {
+          "name": "Faculty : Information Technology",
+          "fields": [
+            "Applied Mathematics",
+            "Cognitive Sciences",
+            "Computer Education",
+            "Computer Science",
+            "Information Management",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Mathematics and Science",
+          "fields": [
+            "Biological and Life Sciences",
+            "Biology",
+            "Cell Biology",
+            "Chemistry",
+            "Ecology",
+            "Environmental Management",
+            "Environmental Studies",
+            "Limnology",
+            "Mathematics",
+            "Mathematics Education",
+            "Microbiology",
+            "Molecular Biology",
+            "Natural Resources",
+            "Natural Sciences",
+            "Nuclear Physics",
+            "Physics",
+            "Science Education",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Faculty : Sports and Health Sciences",
+          "fields": [
+            "Biology",
+            "Gerontology",
+            "Health Education",
+            "Health Sciences",
+            "Physical Education",
+            "Physical Therapy",
+            "Physiology",
+            "Public Health",
+            "Social Sciences",
+            "Sports Management",
+            "Sports Medicine"
+          ]
+        },
+        {
+          "name": "Institute : Chydenius",
+          "fields": [
+            "Information Technology",
+            "Social Work",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Institute : Educational Research",
+          "fields": [
+            "Educational Research"
+          ]
+        },
+        {
+          "name": "Institute : Open University",
+          "fields": [
+            "Arts and Humanities",
+            "Business Administration",
+            "Education",
+            "Environmental Studies",
+            "Health Sciences",
+            "Information Sciences",
+            "Mathematics and Computer Science",
+            "Natural Sciences",
+            "Social Sciences",
+            "Social Work",
+            "Writing"
+          ]
+        },
+        {
+          "name": "Institute : The Centre for Multilingual Academic Communication",
+          "fields": [
+            "Communication Studies",
+            "Linguistics",
+            "Modern Languages"
+          ]
+        },
+        {
+          "name": "School : Business and Economics (Jyväskylä)",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Business and Commerce",
+            "Economics",
+            "Environmental Management",
+            "Finance",
+            "Management",
+            "Marketing",
+            "Public Relations"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Kandidaatin tutkinto/Kandidatexamen",
+          "fields": [
+            "Arts and Humanities",
+            "Business Administration",
+            "Economics",
+            "Education",
+            "Health Sciences",
+            "Information Sciences",
+            "Mathematics and Computer Science",
+            "Natural Sciences",
+            "Psychology",
+            "Social Sciences",
+            "Sports"
+          ]
+        },
+        {
+          "name": "Maisterim tutkinto/Magisterexamen",
+          "fields": [
+            "Arts and Humanities",
+            "Business Administration",
+            "Economics",
+            "Education",
+            "Health Sciences",
+            "Information Sciences",
+            "Mathematics and Computer Science",
+            "Natural Sciences",
+            "Psychology",
+            "Social Sciences",
+            "Sports"
+          ]
+        },
+        {
+          "name": "Lisensiaatti/Licentiat",
+          "fields": [
+            "Arts and Humanities",
+            "Business Administration",
+            "Economics",
+            "Education",
+            "Health Sciences",
+            "Information Sciences",
+            "Mathematics and Computer Science",
+            "Natural Sciences",
+            "Psychology",
+            "Social Sciences",
+            "Sports"
+          ]
+        },
+        {
+          "name": "Tohtorin tutkinto/Doktorexamen",
+          "fields": [
+            "Arts and Humanities",
+            "Business Administration",
+            "Economics",
+            "Education",
+            "Health Sciences",
+            "Information Sciences",
+            "Mathematics and Computer Science",
+            "Psychology",
+            "Social Sciences",
+            "Sports"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Culture",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Jari Ojala"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Henrik Kunttu"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Marja-Leena Laakso"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Anna Grönlund"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2019-2020",
+        "Staff Full Time Male:": "448",
+        "Staff Full Time Female:": "416",
+        "Staff Full Time Total:": "864",
+        "Students Statistics Year:": "2019-2020",
+        "Students Male:": "5595",
+        "Students Female:": "8275",
+        "Students Total:": "13870",
+        "Students Foreign Male:": "271",
+        "Students Foreign Female:": "330",
+        "Students Foreign Total:": "601"
+      },
+      "history": "Founded 1863 as the first Finnish-speaking teacher training college, Jyväskylä Teacher Seminary. JYU became Jyväskylä College of Education in 1934 and acquired its present status and title, University of Jyväskylä, in 1966. The University of Jyväskylä is part of the Kajaani University Consortium (KUC) a networked academic community focused on scientific research, university teaching and community relations. The Kajaani University Consortium consists of four networked universities (Eastern Finland, Lapland, Jyväskylä and Oulu) that have units in Kajaani and Sotkamo. The Consortium is coordinated by University of Oulu.",
+      "periodicals": [
+        "Apples – Applied Language Studies EJBO – Electronic Journal of Family Business Studies JYU Dissertations JYU Reports JYU Working Papers and Policy Briefs Jyväskylä Studies in Biological and Environmental Science Jyväskylä Studies in Business and Economics Jyväskylän yliopiston tiedemuseon julkaisuja (Publications of the Science Museum) Kasvatus (Finnish Journal of Education) Reports (Finnish Institute for Educational Research) SoPhi (Social Sciences and Philosophy) Studies (Finnish Institute for Educational Research) Wisdom Letters (resource wisdom) Working Papers (Finnish Institute for Educational Research) Yliopistopedagogiikka (Peda-Forum) (University Pedagogics)",
+        "Apples – Applied Language Studies",
+        "EJBO – Electronic Journal of Family Business Studies",
+        "JYU Dissertations",
+        "JYU Reports",
+        "JYU Working Papers and Policy Briefs",
+        "Jyväskylä Studies in Biological and Environmental Science",
+        "Jyväskylä Studies in Business and Economics",
+        "Jyväskylän yliopiston tiedemuseon julkaisuja (Publications of the Science Museum)",
+        "Kasvatus (Finnish Journal of Education)",
+        "Reports (Finnish Institute for Educational Research)",
+        "SoPhi (Social Sciences and Philosophy)",
+        "Studies (Finnish Institute for Educational Research)",
+        "Wisdom Letters (resource wisdom)",
+        "Working Papers (Finnish Institute for Educational Research)",
+        "Yliopistopedagogiikka (Peda-Forum) (University Pedagogics)"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "3724",
+      "iau_id": "IAU-003724",
+      "name": "Diaconia University of Applied Sciences",
+      "alt_name": "Diakonia-ammattikorkeakoulu (DIAK)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sUzxSLWBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003724",
+      "address": {
+        "Street": "P.O. Box 122Yliopistonkatu 8",
+        "City": "Rovaniemi",
+        "Post Code": "96101",
+        "WWW": "https://www.ulapland.fi"
+      },
+      "website": "https://www.ulapland.fi",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1979,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "August to May (August-December; January-May)",
+      "languages": [
+        "Finnish",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Arctic",
+          "fields": [
+            "Arctic Studies",
+            "Environmental Studies"
+          ]
+        },
+        {
+          "name": "Centre : Language",
+          "fields": [
+            "Modern Languages"
+          ]
+        },
+        {
+          "name": "Faculty : Art and Design",
+          "fields": [
+            "Art Education",
+            "Clothing and Sewing",
+            "Fashion Design",
+            "Graphic Design",
+            "Industrial Design",
+            "Interior Design",
+            "Media Studies",
+            "Textile Design"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Adult Education",
+            "Education",
+            "Gender Studies",
+            "Primary Education",
+            "Teacher Training",
+            "Technology Education"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Comparative Law",
+            "International Law",
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Social Sciences",
+          "fields": [
+            "Administration",
+            "International Relations and Diplomacy",
+            "Management",
+            "Political Sciences",
+            "Psychology",
+            "Public Law",
+            "Social Sciences",
+            "Social Welfare",
+            "Social Work",
+            "Sociology",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Institute : Lapland Institute for Tourism Research and Education",
+          "fields": [
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Kandidaatin tutkinto/Kandidatexamen",
+          "fields": [
+            "Administration",
+            "Fine Arts",
+            "Law",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Maisterim tutkinto/Magisterexamen",
+          "fields": [
+            "Administration",
+            "Design",
+            "Education",
+            "Fine Arts",
+            "Law",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Lisensiaatti/Licentiat",
+          "fields": [
+            "Administration",
+            "Education",
+            "Law",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Tohtorin tutkinto/Doktorexamen",
+          "fields": [
+            "Administration",
+            "Education",
+            "Fine Arts",
+            "Law",
+            "Social Sciences"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Culture",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Antti Syväjärvi"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Ari Konu"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Piia Björn"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Jaana Severidt"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Outi Snellman"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "6000"
+      },
+      "history": "Founded 1979. A State institution. The University of Lapland is part of the Kajaani University Consortium (KUC) a networked academic community focused on scientific research, university teaching and community relations. The Kajaani University Consortium consists of four networked universities (Eastern Finland, Lapland, Jyväskylä and Oulu) that have units in Kajaani and Sotkamo. The Consortium is coordinated by University of Oulu. University of Lapland is also member of the University of the Arctic (Uartic), a network of over 200 universities, colleges, research institutes and other organizations concerned with education and research in and about the North",
+      "periodicals": [
+        "Acta Universitatis Lapponiensis",
+        "Acta Universitatis Lapponiensis"
+      ],
+      "student_body": null
+    },
+    {
+      "id": "6960",
+      "iau_id": "IAU-006960",
+      "name": "Häme University of Applied Sciences",
+      "alt_name": "Hämeen ammattikorkeakoulu HAMK (HAMK)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tQ0RWLGBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-006960",
+      "address": {
+        "Street": "P.O. Box 700Wolffintie 34",
+        "City": "Vaasa",
+        "Post Code": "65101",
+        "WWW": "https://www.uwasa.fi"
+      },
+      "website": "https://www.uwasa.fi",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1968,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to May (September-December; January-May)",
+      "languages": [
+        "Finnish",
+        "English",
+        "Swedish"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Business Studies",
+          "fields": [
+            "Accountancy",
+            "Commercial Law",
+            "Economics",
+            "Finance",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Philosophy",
+          "fields": [
+            "Communication Studies",
+            "English",
+            "Finnish",
+            "German",
+            "Health Administration",
+            "Public Administration",
+            "Public Law",
+            "Regional Studies",
+            "Scandinavian Languages",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Faculty : Technology",
+          "fields": [
+            "Computer Science",
+            "Electrical Engineering",
+            "Electronics and Automation",
+            "Mathematics",
+            "Statistics"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Kandidaatin tutkinto/Kandidatexamen",
+          "fields": [
+            "Administration",
+            "Business Administration",
+            "Communication Studies",
+            "Industrial and Production Economics",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Diplomi-insinööri/Diplomingenjör",
+          "fields": [
+            "Engineering",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Maisterim tutkinto/Magisterexamen",
+          "fields": [
+            "Business Administration",
+            "Finance",
+            "Industrial Management",
+            "International Business",
+            "Power Engineering"
+          ]
+        },
+        {
+          "name": "Lisensiaatti/Licentiat",
+          "fields": [
+            "Administration",
+            "Arts and Humanities",
+            "Business Administration",
+            "Economics",
+            "Engineering"
+          ]
+        },
+        {
+          "name": "Tohtorin tutkinto/Doktorexamen",
+          "fields": [
+            "Business Administration",
+            "Engineering",
+            "Social Sciences"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Culture",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Minna Martikainen"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Tanja Risikko"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Martin Meyer"
+        }
+      ],
+      "statistics": {
+        "Staff Full Time Total:": "650",
+        "Students Statistics Year:": "2024-2025",
+        "Students Total:": "6419"
+      },
+      "history": "Founded 1968 as private School of Economics and Business Administration. Became state institution 1977. Acquired present status and title 1991. The University of Vaasa is part of the Seinäjoki University Consortium (UCS) which brings together University of Tampere, Helsinki University of the Arts - Sibelius Academy, University of Turku, the University Association of South Ostrobothnia, the Natural Resources Institute Finland and the Migration Institute of Finland. The Seinäjoki University Consortium is one of six university consortia in Finland and is coordinate by Tampere University",
+      "periodicals": [
+        "Acta Wasaensia Proceedings of the University of Vaasa",
+        "Acta Wasaensia",
+        "Proceedings of the University of Vaasa"
+      ],
+      "student_body": null
+    },
+    {
+      "id": "7623",
+      "iau_id": "IAU-007623",
+      "name": "HUMAK University of Applied Sciences",
+      "alt_name": "Humanistinen ammattikorkeakoulu – Humanities Polytechnic (HUMAK)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tUzhSLFBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007623",
+      "address": {
+        "Street": "P.O. Box 18000Otakaari 1 B",
+        "City": "Espoo",
+        "Post Code": "00076",
+        "WWW": "http://www.aalto.fi/fi"
+      },
+      "website": "http://www.aalto.fi/fi",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2010,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Finnish",
+        "Swedish",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Institute : Information Technology",
+          "fields": [
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Institute : Physics",
+          "fields": [
+            "Physics"
+          ]
+        },
+        {
+          "name": "School : Arts, Design and Architecture",
+          "fields": [
+            "Art Education",
+            "Art History",
+            "Business and Commerce",
+            "Ceramics and Glass Technology",
+            "Cinema and Television",
+            "Design",
+            "Display and Stage Design",
+            "Fashion Design",
+            "Film",
+            "Fine Arts",
+            "Furniture Design",
+            "Graphic Design",
+            "Industrial Design",
+            "Interior Design",
+            "Media Studies",
+            "Painting and Drawing",
+            "Photography",
+            "Sculpture",
+            "Textile Design"
+          ]
+        },
+        {
+          "name": "School : Business",
+          "fields": [
+            "Accountancy",
+            "Commercial Law",
+            "Communication Studies",
+            "Economics",
+            "English",
+            "Finance",
+            "Information Sciences",
+            "Information Technology",
+            "International Business",
+            "International Economics",
+            "Labour Law",
+            "Leadership",
+            "Management",
+            "Management Systems",
+            "Marketing",
+            "Small Business"
+          ]
+        },
+        {
+          "name": "School : Chemical Engineering",
+          "fields": [
+            "Applied Physics",
+            "Biotechnology",
+            "Building Technologies",
+            "Chemical Engineering",
+            "Chemistry",
+            "Computer Science",
+            "Engineering",
+            "Forest Products",
+            "Geophysics",
+            "Industrial Management",
+            "Materials Engineering",
+            "Mathematics",
+            "Mechanics",
+            "Physics",
+            "Real Estate",
+            "Regional Studies",
+            "Systems Analysis",
+            "Technology",
+            "Urban Studies"
+          ]
+        },
+        {
+          "name": "School : Electrical Engineering",
+          "fields": [
+            "Computer Networks",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Electronics and Automation",
+            "Nanotechnology",
+            "Radio and Television Broadcasting",
+            "Sound Engineering (Acoustics)"
+          ]
+        },
+        {
+          "name": "School : Engineering",
+          "fields": [
+            "Architecture",
+            "Civil Engineering",
+            "Construction Engineering",
+            "Energy Engineering",
+            "Engineering Drawing and Design",
+            "Environmental Engineering",
+            "Mechanical Engineering",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "School : Science",
+          "fields": [
+            "Applied Physics",
+            "Biomedical Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Industrial Engineering",
+            "Industrial Management",
+            "Mathematics",
+            "Media Studies",
+            "Systems Analysis"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Kandidaatin tutkinto/Kandidatexamen",
+          "fields": [
+            "Computer Engineering",
+            "Data Science",
+            "Design",
+            "Economics",
+            "Engineering",
+            "International Business",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Arkkitehdin tutkinto/Arkitektexamen",
+          "fields": [
+            "Accountancy",
+            "Applied Mathematics",
+            "Architecture",
+            "Chemical Engineering",
+            "Cinema and Television",
+            "Computer Science",
+            "Design",
+            "Display and Stage Design",
+            "Economics",
+            "Environmental Engineering",
+            "Environmental Studies",
+            "Fashion Design",
+            "Finance",
+            "Graphic Design",
+            "Industrial Design",
+            "Industrial Engineering",
+            "Management",
+            "Marketing",
+            "Mechanical Engineering",
+            "Media Studies",
+            "Natural Sciences",
+            "Physical Engineering",
+            "Real Estate",
+            "Small Business"
+          ]
+        },
+        {
+          "name": "Diplomi-insinööri/Diplomingenjör",
+          "fields": [
+            "Accountancy",
+            "Applied Mathematics",
+            "Architecture",
+            "Chemical Engineering",
+            "Cinema and Television",
+            "Computer Science",
+            "Design",
+            "Display and Stage Design",
+            "Economics",
+            "Environmental Engineering",
+            "Environmental Studies",
+            "Fashion Design",
+            "Finance",
+            "Graphic Design",
+            "Industrial Design",
+            "Industrial Engineering",
+            "Management",
+            "Marketing",
+            "Mechanical Engineering",
+            "Media Studies",
+            "Natural Sciences",
+            "Physical Engineering",
+            "Real Estate",
+            "Small Business"
+          ]
+        },
+        {
+          "name": "Maisterim tutkinto/Magisterexamen",
+          "fields": [
+            "Accountancy",
+            "Applied Mathematics",
+            "Architecture",
+            "Chemical Engineering",
+            "Cinema and Television",
+            "Computer Science",
+            "Design",
+            "Display and Stage Design",
+            "Economics",
+            "Environmental Engineering",
+            "Environmental Studies",
+            "Fashion Design",
+            "Finance",
+            "Graphic Design",
+            "Industrial Design",
+            "Industrial Engineering",
+            "Management",
+            "Marketing",
+            "Mechanical Engineering",
+            "Media Studies",
+            "Natural Sciences",
+            "Physical Engineering",
+            "Real Estate",
+            "Small Business"
+          ]
+        },
+        {
+          "name": "Lisensiaatti/Licentiat",
+          "fields": [
+            "Architecture",
+            "Business Administration",
+            "Chemical Engineering",
+            "Design",
+            "Economics",
+            "Electrical Engineering",
+            "Engineering",
+            "Finance",
+            "Fine Arts",
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "Tohtorin tutkinto/Doktorexamen",
+          "fields": [
+            "Architecture",
+            "Business Administration",
+            "Chemical Engineering",
+            "Design",
+            "Economics",
+            "Electrical Engineering",
+            "Engineering",
+            "Finance",
+            "Fine Arts",
+            "Natural Sciences"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Culture",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ilkka Niemelä"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Kristiina Mäkelä"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Petri Suomala"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Hannu Seristö"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2019-2020",
+        "Staff Full Time Total:": "390",
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "11440"
+      },
+      "history": "Founded 2010 following the merger of Helsingin kauppakorkeakoulu (Helsinki School of Economics and Business Administration - HSE) founded 1911; Taideteollinen korkeakoulu - Konstindustriella högskolan (University of Art and Design, Helsinki - TaiK) founded 1871 and Teknillinen korkeakoulu-Tekniska högskolan (Helsinki University of Technology - TKK) founded 1849",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "10027",
+      "iau_id": "IAU-010027",
+      "name": "JAMK University of Applied Sciences",
+      "alt_name": "Jyväskylän ammattikorkeakoulu – Jyväskylä University of Applied Sciences",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM2BQLEM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-010027",
+      "address": {
+        "Street": "Tuomiokirkontori 3",
+        "City": "Turku",
+        "Post Code": "20500",
+        "WWW": "https://www.abo.fi"
+      },
+      "website": "https://www.abo.fi",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1918,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "August to July",
+      "languages": [
+        "Swedish",
+        "Finnish"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Biotechnology",
+          "fields": [
+            "Biotechnology"
+          ]
+        },
+        {
+          "name": "Faculty : Arts, Psychology and Theology",
+          "fields": [
+            "Art History",
+            "Communication Disorders",
+            "Comparative Religion",
+            "English",
+            "Ethnology",
+            "Gender Studies",
+            "German",
+            "History",
+            "Nordic Studies",
+            "Psychology",
+            "Religion",
+            "Russian",
+            "Swedish",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Faculty : Economics and Social Sciences",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Civil Law",
+            "Commercial Law",
+            "Economics",
+            "Information Sciences",
+            "International Business",
+            "International Economics",
+            "International Law",
+            "International Relations and Diplomacy",
+            "Law",
+            "Management",
+            "Maritime Law",
+            "Political Sciences",
+            "Private Law",
+            "Public Administration",
+            "Social Policy",
+            "Social Sciences",
+            "Sociology",
+            "Statistics",
+            "Women's Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Education and Welfare Studies",
+          "fields": [
+            "Adult Education",
+            "Developmental Psychology",
+            "Education",
+            "Home Economics",
+            "Mathematics Education",
+            "Physical Education",
+            "Preschool Education",
+            "Science Education",
+            "Special Education"
+          ]
+        },
+        {
+          "name": "Faculty : Science and Engineering",
+          "fields": [
+            "Biochemistry",
+            "Cell Biology",
+            "Chemistry",
+            "Computer Engineering",
+            "Computer Science",
+            "Geology",
+            "Marine Biology",
+            "Mathematics",
+            "Mineralogy",
+            "Molecular Biology",
+            "Paper Technology",
+            "Pharmacy",
+            "Physics",
+            "Software Engineering",
+            "Wood Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Social Sciences, Business and Economics",
+          "fields": [
+            "Accountancy",
+            "Business Computing",
+            "Commercial Law",
+            "Economics",
+            "International Law",
+            "Law",
+            "Maritime Law",
+            "Marketing",
+            "Mass Communication",
+            "Political Sciences",
+            "Public Administration",
+            "Public Law",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Institute : Human Rights",
+          "fields": [
+            "Human Rights"
+          ]
+        },
+        {
+          "name": "Research Division : Social Sciences",
+          "fields": [
+            "Social Sciences"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Farmaseutti/Farmaceut",
+          "fields": [
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Kandidaatin tutkinto/Kandidatexamen",
+          "fields": [
+            "Economics",
+            "Education",
+            "Fine Arts",
+            "Law",
+            "Natural Sciences",
+            "Political Sciences",
+            "Religion"
+          ]
+        },
+        {
+          "name": "Maisterim tutkinto/Magisterexamen",
+          "fields": [
+            "Economics",
+            "Education",
+            "Engineering",
+            "Fine Arts",
+            "Natural Sciences",
+            "Religion"
+          ]
+        },
+        {
+          "name": "Tohtorin tutkinto/Doktorexamen",
+          "fields": [
+            "Business Administration",
+            "Education",
+            "Engineering",
+            "Natural Sciences"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Culture",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Gunilla Widén"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Marko Joas"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "5500"
+      },
+      "history": "Founded 1918 as Centre of Research and Higher Education for the Swedish-speaking minority in Finland. First University established at Åbo 1640, and transferred to Helsingfors (Helsinki) 1828. Incorporated Swedish School of Economics, Åbo 1980. Under supervision of the Ministry of Education",
+      "periodicals": [
+        "Acta Academiae Aboensis Meddelanden från Åbo Akademi",
+        "Acta Academiae Aboensis",
+        "Meddelanden från Åbo Akademi"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "10053",
+      "iau_id": "IAU-010053",
+      "name": "Kajaani University of Applied Sciences",
+      "alt_name": "Kajaanin ammattikorkeakoulu – Kajaani Polytechnic (KAMK)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM2BQLTMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-010053",
+      "address": {
+        "Street": "Jan-Magnus Janssonin aukio 1",
+        "City": "Helsinki",
+        "Post Code": "00560",
+        "WWW": "http://www.arcada.fi"
+      },
+      "website": "http://www.arcada.fi",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1996,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English",
+        "Swedish"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Business Mangement and Analytics",
+          "fields": [
+            "Business Administration",
+            "Information Technology",
+            "International Business",
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "Department/Division : Culture and Communication",
+          "fields": [
+            "Cultural Studies",
+            "Mass Communication"
+          ]
+        },
+        {
+          "name": "Department/Division : Energy and Materials Technology",
+          "fields": [
+            "Energy Engineering",
+            "Industrial Management",
+            "Polymer and Plastics Technology"
+          ]
+        },
+        {
+          "name": "Department/Division : Health and Welfare",
+          "fields": [
+            "Nursing",
+            "Physical Therapy",
+            "Public Health",
+            "Social and Community Services",
+            "Sports"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ammattikorkeakoulututkinto (AMK)/ Yrkeshögskoleexamen (YH)",
+          "fields": [
+            "Business Administration",
+            "Cultural Studies",
+            "Energy Engineering",
+            "Environmental Engineering",
+            "Information Technology",
+            "International Business",
+            "Media Studies",
+            "Midwifery",
+            "Nursing",
+            "Occupational Therapy",
+            "Physical Therapy",
+            "Production Engineering",
+            "Public Health",
+            "Social Work",
+            "Sports"
+          ]
+        },
+        {
+          "name": "Ylempi ammattikorkeakoulututkinto (ylempi AMK)/ Högre yrkeshögskoleexamen (högre YH)",
+          "fields": [
+            "Data Science",
+            "Health Administration",
+            "International Business",
+            "Media Studies",
+            "Public Health",
+            "Welfare and Protective Services"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Culture; Finnish Higher Education Evaluation Council",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Mona Forsskåhl"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Carl-Johan Rosenbröijer"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Susanne Homén-Lindberg"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Kátia Torres Airava"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "2443"
+      },
+      "history": "Founded 1996. Acquired present status 1998",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "13551",
+      "iau_id": "IAU-013551",
+      "name": "Karelia University of Applied Sciences",
+      "alt_name": "Karelia ammattikorkeakoulu – Karelia Polytechnic",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyxVLTMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-013551",
+      "address": {
+        "Street": "Talonpojankatu 2",
+        "City": "Kokkola",
+        "Post Code": "67100",
+        "WWW": "https://web.centria.fi"
+      },
+      "website": "https://web.centria.fi",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1991,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English",
+        "Finnish",
+        "Swedish"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Culture",
+          "fields": [
+            "Cultural Studies"
+          ]
+        },
+        {
+          "name": "Department/Division : Humanities and Education",
+          "fields": [
+            "Arts and Humanities",
+            "Education"
+          ]
+        },
+        {
+          "name": "Department/Division : Natural Resources and the Environment",
+          "fields": [
+            "Environmental Studies",
+            "Natural Resources"
+          ]
+        },
+        {
+          "name": "Department/Division : Natural sciences",
+          "fields": [
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "Department/Division : Social Sciences, Business and Administration",
+          "fields": [
+            "Business Administration",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Department/Division : Social Services, Health and Sport",
+          "fields": [
+            "Health Administration",
+            "Public Health",
+            "Social Welfare",
+            "Sports"
+          ]
+        },
+        {
+          "name": "Department/Division : Technology, Communication and Transport",
+          "fields": [
+            "Technology",
+            "Transport and Communications"
+          ]
+        },
+        {
+          "name": "Department/Division : Tourism, Catering and Domestic Services",
+          "fields": [
+            "Hotel and Restaurant",
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ammattikorkeakoulututkinto (AMK)/ Yrkeshögskoleexamen (YH)",
+          "fields": [
+            "Applied Chemistry",
+            "Business Administration",
+            "Environmental Engineering",
+            "Industrial Management",
+            "Information Technology",
+            "International Business",
+            "Management",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Ylempi ammattikorkeakoulututkinto (ylempi AMK)/ Högre yrkeshögskoleexamen (högre YH)",
+          "fields": [
+            "Business Administration",
+            "Engineering Management",
+            "Health Sciences",
+            "International Business",
+            "Management",
+            "Nursing",
+            "Welfare and Protective Services"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Culture",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Tapio Huttula"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Jennie Elfving"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Francesca Cucinotta"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1991, acquired present status and title 1998",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "10801",
+      "iau_id": "IAU-010801",
+      "name": "LAB University of Applied Sciences",
+      "alt_name": "LAB ammattikorkeakoulu",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM2BYLCMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-010801",
+      "address": {
+        "Street": "P.O. Box 12",
+        "City": "Helsinki",
+        "Post Code": "00511",
+        "WWW": "http://www.diak.fi"
+      },
+      "website": "http://www.diak.fi",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2000,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English",
+        "Finnish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Social Services",
+          "fields": [
+            "Nursing",
+            "Social and Community Services",
+            "Social Welfare"
+          ]
+        },
+        {
+          "name": "Course/Programme : Social Services",
+          "fields": [
+            "Nursing",
+            "Public Health",
+            "Social and Community Services",
+            "Social Welfare"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ammattikorkeakoulututkinto (AMK)/ Yrkeshögskoleexamen (YH)",
+          "fields": [
+            "Midwifery",
+            "Nursing",
+            "Social and Community Services",
+            "Social Welfare"
+          ]
+        },
+        {
+          "name": "Ylempi ammattikorkeakoulututkinto (ylempi AMK)/ Högre yrkeshögskoleexamen (högre YH)",
+          "fields": [
+            "Social and Community Services",
+            "Social Welfare"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Culture",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Tapio Kujala"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Pirjo Hakala"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Riikka Hälikkä"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2000",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "14109",
+      "iau_id": "IAU-014109",
+      "name": "Lapland University of Applied Sciences",
+      "alt_name": "Lapin ammattikorkeakoulu – Also Open University of Applied Sciences (Lapin AMK)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzBRLCNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-014109",
+      "address": {
+        "Street": "P.O. Box 230",
+        "City": "Hämeenlinna",
+        "Post Code": "13101",
+        "WWW": "http://www.hamk.fi"
+      },
+      "website": "http://www.hamk.fi",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1840,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September-May",
+      "languages": [
+        "Finnish",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Culture",
+          "fields": [
+            "Cultural Studies"
+          ]
+        },
+        {
+          "name": "Course/Programme : Natural Resources and the Environment",
+          "fields": [
+            "Natural Resources"
+          ]
+        },
+        {
+          "name": "Course/Programme : Natural Sciences",
+          "fields": [
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "Course/Programme : Social Sciences, Business and Administration",
+          "fields": [
+            "Business Administration",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Course/Programme : Social Services, Health and Sports",
+          "fields": [
+            "Social and Community Services",
+            "Sports"
+          ]
+        },
+        {
+          "name": "Course/Programme : Technology, Communication and Transport",
+          "fields": [
+            "Technology",
+            "Transport and Communications"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ammattikorkeakoulututkinto (AMK)/ Yrkeshögskoleexamen (YH)",
+          "fields": [
+            "Agricultural Business",
+            "Agricultural Management",
+            "Animal Husbandry",
+            "Biotechnology",
+            "Business Administration",
+            "Business Computing",
+            "Civil Engineering",
+            "Computer Science",
+            "Construction Engineering",
+            "Design",
+            "Economics",
+            "Electrical Engineering",
+            "Electronics and Automation",
+            "Environmental Studies",
+            "Farm Management",
+            "Food Technology",
+            "Industrial Management",
+            "Information Technology",
+            "International Business",
+            "Landscape Architecture",
+            "Mechanical Engineering",
+            "Nursing",
+            "Production Engineering",
+            "Public Health",
+            "Social and Community Services",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Maisterim tutkinto/Magisterexamen",
+          "fields": [
+            "Business Administration",
+            "Computer Science",
+            "Construction Engineering",
+            "Cultural Studies",
+            "Economics",
+            "Environmental Engineering",
+            "Health Administration",
+            "Leadership",
+            "Management",
+            "Social and Preventive Medicine",
+            "Transport Engineering",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Ylempi ammattikorkeakoulututkinto (ylempi AMK)/ Högre yrkeshögskoleexamen (högre YH)",
+          "fields": [
+            "2019-2020"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Culture",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Pertti Puusaari"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Janne Salminen"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Johanna Närhi"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Kati Heikkinen"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "7543",
+        "Students Foreign Total:": "591"
+      },
+      "history": "Founded 1840 as School for agricultural studies. Unit for forestry studies created 1862, Handicraft school for girls 1885, Horticultural school 1910. Acquired present title and status 1996",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "10869",
+      "iau_id": "IAU-010869",
+      "name": "Laurea University of Applied Sciences",
+      "alt_name": "Laurea ammattikorkeakoulu – Laurea Polytechnic (Laurea UAS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM2BYLUNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-010869",
+      "address": {
+        "Street": "Ilkantie 4",
+        "City": "Helsinki",
+        "Post Code": "00400",
+        "WWW": "https://www.humak.fi/en"
+      },
+      "website": "https://www.humak.fi/en",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1998,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Finnish"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Cultural Management",
+          "fields": [
+            "Art Management",
+            "Cultural Studies"
+          ]
+        },
+        {
+          "name": "Faculty : NGO and Youth Work",
+          "fields": [
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Faculty : Sign Language Interpretation",
+          "fields": [
+            "Special Education"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ammattikorkeakoulututkinto (AMK)/ Yrkeshögskoleexamen (YH)",
+          "fields": [
+            "Art Management",
+            "Social and Community Services",
+            "Social Welfare"
+          ]
+        },
+        {
+          "name": "Ylempi ammattikorkeakoulututkinto (ylempi AMK)/ Högre yrkeshögskoleexamen (högre YH)",
+          "fields": [
+            "Art Management",
+            "Social Work"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Culture",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Jukka Määttä"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Anna Mattila"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "1500"
+      },
+      "history": "Founded 1998",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "10851",
+      "iau_id": "IAU-010851",
+      "name": "LUT University",
+      "alt_name": "LUT-yliopisto (LUT)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM2BYLTMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-010851",
+      "address": {
+        "Street": "P.O. Box 207",
+        "City": "Jyväskylä",
+        "Post Code": "40101",
+        "WWW": "http://www.jamk.fi"
+      },
+      "website": "http://www.jamk.fi",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1992,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Finnish"
+      ],
+      "faculties": [
+        {
+          "name": "School : Business",
+          "fields": [
+            "Business Administration",
+            "Hotel Management",
+            "Management",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "School : Health and Social Studies",
+          "fields": [
+            "Health Sciences",
+            "Music Education",
+            "Nursing",
+            "Social Studies"
+          ]
+        },
+        {
+          "name": "School : Teacher Education",
+          "fields": [
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "School : Technology",
+          "fields": [
+            "Civil Engineering",
+            "Information Technology",
+            "Mechanical Engineering",
+            "Natural Resources"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ammattikorkeakoulututkinto (AMK)/ Yrkeshögskoleexamen (YH)",
+          "fields": [
+            "Business Administration",
+            "Hotel Management",
+            "Nursing",
+            "Tourism",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Ylempi ammattikorkeakoulututkinto (ylempi AMK)/ Högre yrkeshögskoleexamen (högre YH)",
+          "fields": [
+            "Hotel Management",
+            "Information Technology",
+            "International Business",
+            "Music Education",
+            "Public Health",
+            "Social and Community Services",
+            "Social Welfare"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Culture",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Jussi Halttunen"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Mikko R. Salminen"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Heikki Pusa"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "8500"
+      },
+      "history": "Founded 1992, acquired present status and title 1997",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "11589",
+      "iau_id": "IAU-011589",
+      "name": "Metropolia University of Applied Sciences",
+      "alt_name": "Metropolia Ammattikorkeakoulu – Helsinki Metropolia Polytechnic",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyRVLiNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-011589",
+      "address": {
+        "Street": "PO Box 52Ketunpolku 3",
+        "City": "Kajaani",
+        "Post Code": "87101",
+        "WWW": "https://www.kamk.fi/en"
+      },
+      "website": "https://www.kamk.fi/en",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1992,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English",
+        "Finnish"
+      ],
+      "faculties": [
+        {
+          "name": "School : Business",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "School : Engineering",
+          "fields": [
+            "Construction Engineering",
+            "Information Technology",
+            "Mechanical Engineering",
+            "Production Engineering"
+          ]
+        },
+        {
+          "name": "School : Health",
+          "fields": [
+            "Health Sciences"
+          ]
+        },
+        {
+          "name": "School : Information Systems",
+          "fields": [
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "School : Sports",
+          "fields": [
+            "Leisure Studies",
+            "Nursing",
+            "Sports",
+            "Sports Management"
+          ]
+        },
+        {
+          "name": "School : Tourism",
+          "fields": [
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ammattikorkeakoulututkinto (AMK)/ Yrkeshögskoleexamen (YH)",
+          "fields": [
+            "Business Administration",
+            "Business Computing",
+            "Construction Engineering",
+            "Electronic Engineering",
+            "Leisure Studies",
+            "Mechanical Engineering",
+            "Nursing",
+            "Sports Management",
+            "Telecommunications Engineering",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Ylempi ammattikorkeakoulututkinto (ylempi AMK)/ Högre yrkeshögskoleexamen (högre YH)",
+          "fields": [
+            "Health Administration",
+            "Information Technology"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Culture",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Matti Sarén"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Merja Mäkinen"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Meira Kaikkonen"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "2200"
+      },
+      "history": "Founded 1992. Acquired present status 1996",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "21746",
+      "iau_id": "IAU-021746",
+      "name": "Novia University of Applied Sciences",
+      "alt_name": "Yrkeshögskolan Novia – Novia Polytechnic",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyRXLSM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-021746",
+      "address": {
+        "Street": "Tikkarinne 9",
+        "City": "Joensuu",
+        "Post Code": "80200",
+        "WWW": "http://www.karelia.fi"
+      },
+      "website": "http://www.karelia.fi",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1992,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Finnish",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Culture",
+          "fields": [
+            "Communication Studies",
+            "Design",
+            "Fine Arts",
+            "Media Studies",
+            "Music"
+          ]
+        },
+        {
+          "name": "Course/Programme : Natural Resources and the Environment",
+          "fields": [
+            "Environmental Studies",
+            "Forest Products",
+            "Forestry",
+            "Natural Resources",
+            "Rural Studies"
+          ]
+        },
+        {
+          "name": "Course/Programme : Natural Sciences",
+          "fields": [
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "Course/Programme : Social Sciences, Business and Administration",
+          "fields": [
+            "Administration",
+            "Business and Commerce",
+            "Economics",
+            "Information Technology",
+            "International Business"
+          ]
+        },
+        {
+          "name": "Course/Programme : Social services, Health and Sports",
+          "fields": [
+            "Biomedicine",
+            "Nursing",
+            "Physical Therapy",
+            "Social Sciences",
+            "Social Welfare",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Course/Programme : Technology, Communication and Transport",
+          "fields": [
+            "Civil Engineering",
+            "Environmental Engineering",
+            "Information Technology",
+            "Mechanical Engineering",
+            "Production Engineering",
+            "Wood Technology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Tourism, Catering and Domestic Services",
+          "fields": [
+            "Cooking and Catering",
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ammattikorkeakoulututkinto (AMK)/ Yrkeshögskoleexamen (YH)",
+          "fields": [
+            "Business Administration",
+            "Construction Engineering",
+            "Economics",
+            "Electrical Engineering",
+            "Environmental Engineering",
+            "Forestry",
+            "Information Technology",
+            "International Business",
+            "Mass Communication",
+            "Mechanical Engineering",
+            "Music Education",
+            "Nursing",
+            "Physical Therapy",
+            "Production Engineering",
+            "Social Welfare",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Ylempi ammattikorkeakoulututkinto (ylempi AMK)/ Högre yrkeshögskoleexamen (högre YH)",
+          "fields": [
+            "Business Administration",
+            "Environmental Management",
+            "Health Administration",
+            "Industrial Management"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Culture",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Petri Raivo"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Liisa Timonen"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "3696",
+        "Students Foreign Total:": "100"
+      },
+      "history": "Founded 1992. Acquired present status and title 1996",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "13202",
+      "iau_id": "IAU-013202",
+      "name": "Oulu University of Applied Sciences",
+      "alt_name": "Oulun ammattikorkeakoulu – Oulu Polytechnic (OAMK)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyxSLCMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-013202",
+      "address": {
+        "Street": "Mukkulankatu 19",
+        "City": "Lahti",
+        "Post Code": "15210",
+        "WWW": "https://lab.fi/fi"
+      },
+      "website": "https://lab.fi/fi",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1991,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Finnish",
+        "English",
+        "Swedish"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Business",
+          "fields": [
+            "Business Administration",
+            "Business and Commerce",
+            "Business Computing",
+            "Finance",
+            "Information Technology",
+            "International Business",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Design",
+          "fields": [
+            "Art Education",
+            "Design",
+            "Fashion Design",
+            "Furniture Design",
+            "Graphic Design",
+            "Industrial Design",
+            "Interior Design",
+            "Jewellery Art",
+            "Multimedia",
+            "Photography",
+            "Radio and Television Broadcasting"
+          ]
+        },
+        {
+          "name": "Faculty : Health Care",
+          "fields": [
+            "Health Administration",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Faculty : Technology",
+          "fields": [
+            "Biotechnology",
+            "Environmental Engineering",
+            "Environmental Management",
+            "Information Technology",
+            "Materials Engineering",
+            "Mechanical Engineering",
+            "Polymer and Plastics Technology",
+            "Production Engineering",
+            "Software Engineering",
+            "Telecommunications Engineering",
+            "Textile Technology",
+            "Wood Technology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ammattikorkeakoulututkinto (AMK)/ Yrkeshögskoleexamen (YH)",
+          "fields": [
+            "Business Administration",
+            "Design",
+            "Environmental Engineering",
+            "Graphic Design",
+            "Health Administration",
+            "Information Technology",
+            "Materials Engineering",
+            "Mechanical Engineering",
+            "Music",
+            "Music Education",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Ylempi ammattikorkeakoulututkinto (ylempi AMK)/ Högre yrkeshögskoleexamen (högre YH)",
+          "fields": [
+            "Business Administration",
+            "Construction Engineering",
+            "Cultural Studies",
+            "Design",
+            "Engineering",
+            "Engineering Management",
+            "Environmental Engineering",
+            "Health Administration",
+            "Health Sciences",
+            "Hotel and Restaurant",
+            "Information Technology",
+            "International Business",
+            "Management",
+            "Media Studies",
+            "Social Work",
+            "Tourism"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Culture",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Turo Kilpeläinen"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Henri Karppinen"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Merja Heino"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "8500"
+      },
+      "history": "Founded 1991, acquired present status and renamed Lahti University of Applied Sciences 1996. Acquired current title 2019 following merger with Saimaa University of Applied Sciences",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "14542",
+      "iau_id": "IAU-014542",
+      "name": "Satakunta University of Applied Sciences",
+      "alt_name": "Satakunnan ammattikorkeakoulu – Satakunta Polytechnic (SAMK)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzBVLSMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-014542",
+      "address": {
+        "Street": "Jokiväylä 11 C",
+        "City": "Rovaniemi",
+        "Post Code": "96300",
+        "WWW": "http://www.lapinamk.fi/fi"
+      },
+      "website": "http://www.lapinamk.fi/fi",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1996,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English",
+        "Finnish"
+      ],
+      "faculties": [
+        {
+          "name": "School : Business and Culture",
+          "fields": [
+            "Business Administration",
+            "Economics",
+            "Information Technology",
+            "International Business"
+          ]
+        },
+        {
+          "name": "School : Hospitality and Tourism",
+          "fields": [
+            "Cooking and Catering",
+            "Hotel and Restaurant",
+            "Hotel Management",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "School : Industry and Natural Resources",
+          "fields": [
+            "Agricultural Engineering",
+            "Agricultural Equipment",
+            "Forestry"
+          ]
+        },
+        {
+          "name": "School : Social Services, Health and Sport",
+          "fields": [
+            "Health Administration",
+            "Nursing",
+            "Physical Therapy",
+            "Public Health",
+            "Social and Community Services",
+            "Social Welfare",
+            "Sports"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ammattikorkeakoulututkinto (AMK)/ Yrkeshögskoleexamen (YH)",
+          "fields": [
+            "Engineering",
+            "Humanities and Social Science Education",
+            "Information Technology",
+            "International Business",
+            "Nursing",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Ylempi ammattikorkeakoulututkinto (ylempi AMK)/ Högre yrkeshögskoleexamen (högre YH)",
+          "fields": [
+            "Business Administration",
+            "Hotel Management",
+            "Industrial Management",
+            "International Business",
+            "Nursing",
+            "Physical Therapy",
+            "Social and Community Services",
+            "Surveying and Mapping"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Culture",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Martti Lampela"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Mari Putaansuu"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1996, acquired present status and title 1998. Formed by the merger of Rovaniemi University of Applied Sciences (Rovaniemen ammattikorkeakoulu) and Kemi-Tornio University of Applied Sciences (Kemi-Tornion ammattikorkeakoulu) 2014.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "14553",
+      "iau_id": "IAU-014553",
+      "name": "Savonia University of Applied Sciences",
+      "alt_name": "Savonia ammattikorkeakoulu – Savonia Polytechnic (Savonia UAS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzBVLTMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-014553",
+      "address": {
+        "Street": "Ratatie 22",
+        "City": "Vantaa",
+        "Post Code": "01300",
+        "WWW": "http://www.laurea.fi"
+      },
+      "website": "http://www.laurea.fi",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2001,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English",
+        "Finnish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Postgraduate",
+          "fields": [
+            "Business Administration",
+            "Health Administration",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Course/Programme : Undergraduate",
+          "fields": [
+            "Business Administration",
+            "Health Administration",
+            "Nursing",
+            "Service Trades",
+            "Welfare and Protective Services"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ammattikorkeakoulututkinto (AMK)/ Yrkeshögskoleexamen (YH)",
+          "fields": [
+            "Business Administration",
+            "Civil Security",
+            "Cosmetology",
+            "Hotel and Restaurant",
+            "Information Technology",
+            "Management",
+            "Nursing",
+            "Physical Therapy",
+            "Public Health",
+            "Service Trades",
+            "Social and Community Services",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Ylempi ammattikorkeakoulututkinto (ylempi AMK)/ Högre yrkeshögskoleexamen (högre YH)",
+          "fields": [
+            "Business Administration",
+            "Civil Security",
+            "Consumer Studies",
+            "Health Administration",
+            "Law",
+            "Leadership",
+            "Management",
+            "Service Trades"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Culture",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Jouni Koski"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Katri Ojasalo"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Teemu Ylikoski"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "7400"
+      },
+      "history": "Founded 2001. Formerly known as Vantaa University of Applied Sciences and Espoo-Vantaa University of Applied Sciences",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "14616",
+      "iau_id": "IAU-014616",
+      "name": "Seinäjoki University of Applied Sciences",
+      "alt_name": "Seinäjoen ammattikorkeakoulu – Seinäjoki Polytechnic (SeAmk)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzBWLDM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-014616",
+      "address": {
+        "Street": "Yliopistonkatu 34",
+        "City": "Lappeenranta",
+        "Post Code": "53850",
+        "WWW": "https://www.lut.fi"
+      },
+      "website": "https://www.lut.fi",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1969,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to May (September-December; January-May)",
+      "languages": [
+        "Finnish",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Technology",
+          "fields": [
+            "Chemical Engineering",
+            "Electrical Engineering",
+            "Energy Engineering",
+            "Environmental Engineering",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Faculty : Technology Management",
+          "fields": [
+            "Industrial Management",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Research Division : Carelian Drives and Motor",
+          "fields": [
+            "Electrical Engineering"
+          ]
+        },
+        {
+          "name": "Research Division : Computational Engineering and Integrated Design",
+          "fields": [
+            "Computer Engineering"
+          ]
+        },
+        {
+          "name": "Research Division : Northern Dimension",
+          "fields": [
+            "Central European Studies",
+            "Eastern European Studies",
+            "Russian"
+          ]
+        },
+        {
+          "name": "Research Division : Separation Technology",
+          "fields": [
+            "Environmental Engineering",
+            "Environmental Management"
+          ]
+        },
+        {
+          "name": "Research Division : South Karelian",
+          "fields": [
+            "Arts and Humanities",
+            "Development Studies",
+            "Regional Studies",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Research Division : Technology Business Research",
+          "fields": [
+            "Business and Commerce",
+            "Technology"
+          ]
+        },
+        {
+          "name": "School : Business",
+          "fields": [
+            "Finance",
+            "Marketing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Kandidaatin tutkinto/Kandidatexamen",
+          "fields": [
+            "Business Administration",
+            "Chemical Engineering",
+            "Computer Engineering",
+            "Electrical Engineering",
+            "Energy Engineering",
+            "Engineering",
+            "Environmental Engineering",
+            "Industrial Engineering",
+            "Industrial Management",
+            "Information Technology",
+            "Mechanical Engineering",
+            "Natural Sciences",
+            "Software Engineering",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Diplomi-insinööri/Diplomingenjör",
+          "fields": [
+            "Engineering"
+          ]
+        },
+        {
+          "name": "Maisterim tutkinto/Magisterexamen",
+          "fields": [
+            "Bioengineering",
+            "Business Administration",
+            "Chemical Engineering",
+            "Data Science",
+            "Economics",
+            "Electrical Engineering",
+            "Energy Engineering",
+            "Engineering",
+            "Environmental Engineering",
+            "Finance",
+            "Hydraulic Engineering",
+            "Industrial Design",
+            "Industrial Engineering",
+            "International Business",
+            "Management",
+            "Marketing",
+            "Mechanical Engineering",
+            "Nuclear Engineering",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Lisensiaatti/Licentiat",
+          "fields": [
+            "Business Administration",
+            "Economics",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Tohtorin tutkinto/Doktorexamen",
+          "fields": [
+            "Business Administration",
+            "Economics",
+            "Philosophy",
+            "Technology"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Culture",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Juha-Matti Saksa"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Jaana Sandström"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Maija Kuiri"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2019-2020",
+        "Staff Full Time Total:": "558",
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "5300",
+        "Students Distance:": "260"
+      },
+      "history": "Founded 1969. A State institution under the supervision of the Ministry of Education",
+      "periodicals": [
+        "Lappeenranta University of Technology Research Papers",
+        "Lappeenranta University of Technology Research Papers"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "26166",
+      "iau_id": "IAU-026166",
+      "name": "South-Eastern Finland University of Applied Sciences",
+      "alt_name": "Kaakkois-Suomen ammattikorkeakoulu (XAMK)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzhRLUM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-026166",
+      "address": {
+        "Street": "P.O. Box 4000Myllypurontie 1",
+        "City": "Metropolia",
+        "Post Code": "FI-00079",
+        "WWW": "http://www.metropolia.fi"
+      },
+      "website": "http://www.metropolia.fi",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2008,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Finnish",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Culture and Creative Industries",
+          "fields": [
+            "Cinema and Television",
+            "Design",
+            "Fashion Design",
+            "Heritage Preservation",
+            "Jazz and Popular Music",
+            "Media Studies",
+            "Music",
+            "Performing Arts"
+          ]
+        },
+        {
+          "name": "Faculty : Health Care and Nursing",
+          "fields": [
+            "Biomedicine",
+            "Nursing",
+            "Oral Pathology",
+            "Radiology",
+            "Social and Community Services"
+          ]
+        },
+        {
+          "name": "Faculty : Welfare and Human Functioning",
+          "fields": [
+            "Dental Technology",
+            "Gerontology",
+            "Occupational Therapy",
+            "Optometry",
+            "Osteopathy",
+            "Physical Therapy",
+            "Rehabilitation and Therapy",
+            "Social and Community Services"
+          ]
+        },
+        {
+          "name": "School : Business",
+          "fields": [
+            "Business Administration",
+            "Business Computing",
+            "International Business",
+            "Management"
+          ]
+        },
+        {
+          "name": "School : Civil Engineering and Building Services",
+          "fields": [
+            "Building Technologies",
+            "Civil Engineering",
+            "Construction Engineering",
+            "Real Estate",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "School : ICT",
+          "fields": [
+            "Industrial Management",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "School : Industrial Engineering",
+          "fields": [
+            "Automotive Engineering",
+            "Biotechnology",
+            "Chemical Engineering",
+            "Electrical Engineering",
+            "Electronics and Automation",
+            "Food Technology",
+            "Materials Engineering",
+            "Mechanical Engineering",
+            "Transport Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ammattikorkeakoulututkinto (AMK)/ Yrkeshögskoleexamen (YH)",
+          "fields": [
+            "Architecture",
+            "Automotive Engineering",
+            "Biological and Life Sciences",
+            "Biotechnology",
+            "Building Technologies",
+            "Business Administration",
+            "Chemical Engineering",
+            "Cinema and Television",
+            "Civil Engineering",
+            "Clothing and Sewing",
+            "Communication Arts",
+            "Computer Graphics",
+            "Construction Engineering",
+            "Cultural Studies",
+            "Dental Hygiene",
+            "Design",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Electronics and Automation",
+            "Energy Engineering",
+            "Engineering",
+            "Environmental Engineering",
+            "Gerontology",
+            "Graphic Design",
+            "Heritage Preservation",
+            "Industrial Design",
+            "Industrial Management",
+            "Information Technology",
+            "Interior Design",
+            "International Business",
+            "Laboratory Techniques",
+            "Mechanical Engineering",
+            "Midwifery",
+            "Music",
+            "Nursing",
+            "Occupational Therapy",
+            "Optometry",
+            "Performing Arts",
+            "Physical Therapy",
+            "Radiology",
+            "Real Estate",
+            "Service Trades",
+            "Social and Community Services",
+            "Social Sciences",
+            "Social Work",
+            "Surveying and Mapping",
+            "Technology",
+            "Telecommunications Engineering",
+            "Textile Design",
+            "Theatre",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Ylempi ammattikorkeakoulututkinto (ylempi AMK)/ Högre yrkeshögskoleexamen (högre YH)",
+          "fields": [
+            "Automotive Engineering",
+            "Business Administration",
+            "Business Computing",
+            "Civil Engineering",
+            "Clothing and Sewing",
+            "Construction Engineering",
+            "Cultural Studies",
+            "Dental Hygiene",
+            "Design",
+            "Engineering",
+            "Gerontology",
+            "Health Administration",
+            "Health Sciences",
+            "Heritage Preservation",
+            "Industrial Engineering",
+            "Industrial Management",
+            "Information Management",
+            "Information Technology",
+            "Media Studies",
+            "Midwifery",
+            "Music",
+            "Nursing",
+            "Occupational Therapy",
+            "Optometry",
+            "Paramedical Sciences",
+            "Performing Arts",
+            "Psychiatry and Mental Health",
+            "Real Estate",
+            "Rehabilitation and Therapy",
+            "Social and Community Services",
+            "Social Work",
+            "Sociology",
+            "Surveying and Mapping",
+            "Technology",
+            "Treatment Techniques"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Culture",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Riitta Konkola"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Tapani Martti"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "16200",
+        "Students Foreign Total:": "900"
+      },
+      "history": "Founded 2008 following merger of EVTEK University of Applied Sciences and Helsinki Polytechnic Stadia. Was also known as Helsinki Metropolia University of Applied Sciences",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "16141",
+      "iau_id": "IAU-016141",
+      "name": "Tampere University",
+      "alt_name": "Tampereen yliopisto (TAU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhRLSMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016141",
+      "address": {
+        "Street": "P.O. Box 6",
+        "City": "Vaasa",
+        "Post Code": "65201",
+        "WWW": "http://www.novia.fi"
+      },
+      "website": "http://www.novia.fi",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2008,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English",
+        "Finnish",
+        "Swedish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Postgraduate",
+          "fields": [
+            "Health Administration",
+            "Management",
+            "Natural Resources",
+            "Social and Community Services"
+          ]
+        },
+        {
+          "name": "Course/Programme : Undergraduate",
+          "fields": [
+            "Business Administration",
+            "Education",
+            "Engineering",
+            "Hotel Management",
+            "Social and Community Services"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ammattikorkeakoulututkinto (AMK)/ Yrkeshögskoleexamen (YH)",
+          "fields": [
+            "Business Administration",
+            "Coastal Studies",
+            "Engineering",
+            "Environmental Engineering",
+            "Health Sciences",
+            "Marine Engineering",
+            "Marine Transport",
+            "Natural Resources",
+            "Nursing",
+            "Social and Community Services"
+          ]
+        },
+        {
+          "name": "Ylempi ammattikorkeakoulututkinto (ylempi AMK)/ Högre yrkeshögskoleexamen (högre YH)",
+          "fields": [
+            "Art Management",
+            "Arts and Humanities",
+            "Business Administration",
+            "Cultural Studies",
+            "E-Business/Commerce",
+            "Electronics and Automation",
+            "Engineering",
+            "Environmental Management",
+            "Health Administration",
+            "Hotel Management",
+            "Industrial Engineering",
+            "Industrial Management",
+            "Management",
+            "Marine Transport",
+            "Natural Resources",
+            "Service Trades",
+            "Social and Community Services",
+            "Transport Management"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Culture",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Örjan Andersson"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Kjell Heir"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Camilla Pundars-Mitts"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2008 following the merger of Yrkeshögskolan Sydväst (Sydväst University of Applied Sciences) and Svenska yrkeshögskolan (Swedish Polytechnic, Finland)",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "16139",
+      "iau_id": "IAU-016139",
+      "name": "Tampere University of Applied Sciences",
+      "alt_name": "Tampereen ammattikorkeakoulu (TAMK)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhRLFNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016139",
+      "address": {
+        "Street": "P.O. Box 222",
+        "City": "Oulu",
+        "Post Code": "90101",
+        "WWW": "http://www.oamk.fi"
+      },
+      "website": "http://www.oamk.fi",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1992,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Finnish",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "School : Business and Information Management",
+          "fields": [
+            "Business and Commerce",
+            "Economics",
+            "Information Management",
+            "Information Technology",
+            "International Business",
+            "Library Science"
+          ]
+        },
+        {
+          "name": "School : Engineering and Natural Resources",
+          "fields": [
+            "Civil Engineering",
+            "Electrical Engineering",
+            "Electronics and Automation",
+            "Environmental Studies",
+            "Information Technology",
+            "Laboratory Techniques",
+            "Mechanical Engineering",
+            "Natural Resources",
+            "Production Engineering"
+          ]
+        },
+        {
+          "name": "School : Health and  Social Care",
+          "fields": [
+            "Nursing",
+            "Occupational Therapy",
+            "Optometry",
+            "Physical Therapy",
+            "Public Health",
+            "Radiology",
+            "Social and Community Services"
+          ]
+        },
+        {
+          "name": "School : Media and Performing Arts",
+          "fields": [
+            "Dance",
+            "Media Studies",
+            "Music"
+          ]
+        },
+        {
+          "name": "School : Vocational Teacher Education",
+          "fields": [
+            "Teacher Training"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ammattikorkeakoulututkinto (AMK)/ Yrkeshögskoleexamen (YH)",
+          "fields": [
+            "Architecture",
+            "Biological and Life Sciences",
+            "Business Administration",
+            "Business Computing",
+            "Civil Engineering",
+            "Construction Engineering",
+            "Dental Hygiene",
+            "Education",
+            "Electrical Engineering",
+            "Electronics and Automation",
+            "Energy Engineering",
+            "Engineering",
+            "Environmental Engineering",
+            "Health Sciences",
+            "Information Technology",
+            "International Business",
+            "Mechanical Engineering",
+            "Midwifery",
+            "Natural Resources",
+            "Nursing",
+            "Optometry",
+            "Paramedical Sciences",
+            "Performing Arts",
+            "Physical Therapy",
+            "Radiology",
+            "Social and Community Services",
+            "Social Sciences",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Ylempi ammattikorkeakoulututkinto (ylempi AMK)/ Högre yrkeshögskoleexamen (högre YH)",
+          "fields": [
+            "Art Management",
+            "Automotive Engineering",
+            "Business Administration",
+            "Cultural Studies",
+            "Educational Administration",
+            "Engineering",
+            "Engineering Management",
+            "Environmental Management",
+            "Health Administration",
+            "Health Sciences",
+            "Industrial Management",
+            "Information Technology",
+            "Optometry",
+            "Rehabilitation and Therapy",
+            "Robotics",
+            "Rural Planning",
+            "Service Trades",
+            "Social Work",
+            "Water Management"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Culture",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Jouko Paaso"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Jyrki Laitinen"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Allan Perttunen"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "9000",
+        "Students Foreign Total:": "350"
+      },
+      "history": "Founded 1992. Acquired present status and title 1996",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "16955",
+      "iau_id": "IAU-016955",
+      "name": "Turku University of Applied Sciences",
+      "alt_name": "Turun ammattikorkeakoulu - Åbo yrkeshögskola – Turku Polytechnic (TURKU AMK)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhZLTM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016955",
+      "address": {
+        "Street": "P.O. Box 1001Satakunnankatu 23",
+        "City": "Pori",
+        "Post Code": "28101",
+        "WWW": "http://www.samk.fi"
+      },
+      "website": "http://www.samk.fi",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1997,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English",
+        "Finnish"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Energy and Construction",
+          "fields": [
+            "Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Health",
+          "fields": [
+            "Nursing",
+            "Public Health"
+          ]
+        },
+        {
+          "name": "Faculty : Information Technology",
+          "fields": [
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Logistics and Maritime Technology",
+          "fields": [
+            "Industrial Engineering",
+            "Marine Transport",
+            "Production Engineering",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Faculty : Service Business",
+          "fields": [
+            "Business Administration",
+            "Business and Commerce",
+            "International Business",
+            "Management",
+            "Marketing",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Welfare",
+          "fields": [
+            "Fine Arts",
+            "Rehabilitation and Therapy",
+            "Social Welfare"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ammattikorkeakoulututkinto (AMK)/ Yrkeshögskoleexamen (YH)",
+          "fields": [
+            "Administration",
+            "Artificial Intelligence",
+            "Business Administration",
+            "Civil Engineering",
+            "Construction Engineering",
+            "Data Science",
+            "Electrical Engineering",
+            "Electronics and Automation",
+            "Energy Engineering",
+            "Engineering",
+            "Finance",
+            "Fine Arts",
+            "Health Sciences",
+            "Industrial and Production Economics",
+            "Industrial Management",
+            "Information Technology",
+            "International Business",
+            "Management",
+            "Marine Transport",
+            "Marketing",
+            "Mechanical Engineering",
+            "Nursing",
+            "Physical Therapy",
+            "Production Engineering",
+            "Social Work",
+            "Tourism",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Ylempi ammattikorkeakoulututkinto (ylempi AMK)/ Högre yrkeshögskoleexamen (högre YH)",
+          "fields": [
+            "Business Administration",
+            "Gerontology",
+            "Health Sciences",
+            "Management",
+            "Marine Transport",
+            "Medical Technology",
+            "Public Health",
+            "Rehabilitation and Therapy",
+            "Service Trades",
+            "Social and Community Services",
+            "Social Work",
+            "Technology",
+            "Visual Arts",
+            "Welfare and Protective Services"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Culture",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Jari Multisilta"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Timo Mattila"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Tommi Tamminen"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Ari-Pekka Kainu"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "6111",
+        "Students Foreign Total:": "235"
+      },
+      "history": "Founded 1997",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "9667",
+      "iau_id": "IAU-009667",
+      "name": "University of Eastern Finland",
+      "alt_name": "Itä-Suomen yliopisto (UEF)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMzhWLVBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009667",
+      "address": {
+        "Street": "P.O. Box 6Microkatu 1",
+        "City": "Kuopio",
+        "Post Code": "70201",
+        "WWW": "http://www.savonia.fi"
+      },
+      "website": "http://www.savonia.fi",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1992,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English",
+        "Finnish"
+      ],
+      "faculties": [
+        {
+          "name": "Academy : Design",
+          "fields": [
+            "Ceramic Art",
+            "Fashion Design",
+            "Furniture Design",
+            "Glass Art",
+            "Graphic Design",
+            "Industrial Design",
+            "Interior Design",
+            "Jewellery Art",
+            "Textile Design"
+          ]
+        },
+        {
+          "name": "Academy : Music and Dance",
+          "fields": [
+            "Dance",
+            "Music"
+          ]
+        },
+        {
+          "name": "Course/Programme : Business and Administration",
+          "fields": [
+            "Administration",
+            "Business and Commerce",
+            "International Business"
+          ]
+        },
+        {
+          "name": "Course/Programme : Engineering and Technology",
+          "fields": [
+            "Engineering",
+            "Industrial Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Natural Resources",
+          "fields": [
+            "Agriculture",
+            "Natural Resources",
+            "Rural Planning",
+            "Rural Studies"
+          ]
+        },
+        {
+          "name": "Course/Programme : Social and Health Care",
+          "fields": [
+            "Nursing",
+            "Public Health",
+            "Social and Community Services"
+          ]
+        },
+        {
+          "name": "Course/Programme : Tourism and Catering",
+          "fields": [
+            "Cooking and Catering",
+            "Hotel and Restaurant",
+            "Hotel Management",
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ammattikorkeakoulututkinto (AMK)/ Yrkeshögskoleexamen (YH)",
+          "fields": [
+            "Engineering",
+            "Mechanical Engineering",
+            "Midwifery",
+            "Nursing",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Ylempi ammattikorkeakoulututkinto (ylempi AMK)/ Högre yrkeshögskoleexamen (högre YH)",
+          "fields": [
+            "Computer Engineering",
+            "Engineering",
+            "Health Sciences",
+            "Management",
+            "Nursing",
+            "Social Work"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Culture",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Mervi Vidgrén"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Päivi Diov"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Virpi Laukkanen"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "6000"
+      },
+      "history": "Founded 1992, acquired present status and title 1998.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "13203",
+      "iau_id": "IAU-013203",
+      "name": "University of Oulu",
+      "alt_name": "Oulun yliopisto (OY)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyxSLCMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-013203",
+      "address": {
+        "Street": "P.O. Box 412Keskuskatu 34",
+        "City": "Seinäjoki",
+        "Post Code": "60101",
+        "WWW": "http://www.seamk.fi"
+      },
+      "website": "http://www.seamk.fi",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1996,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June (September-December; January-June)",
+      "languages": [
+        "Finnish",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "School : Business and Culture",
+          "fields": [
+            "Business Administration",
+            "Library Science",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "School : Food and Agriculture",
+          "fields": [
+            "Agricultural Business",
+            "Food Science",
+            "Forestry",
+            "Hotel and Restaurant"
+          ]
+        },
+        {
+          "name": "School : Health Care and Social Work",
+          "fields": [
+            "Health Administration",
+            "Nursing",
+            "Rehabilitation and Therapy",
+            "Social and Community Services",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "School : Technology",
+          "fields": [
+            "Engineering",
+            "Information Technology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ammattikorkeakoulututkinto (AMK)/ Yrkeshögskoleexamen (YH)",
+          "fields": [
+            "Agriculture",
+            "Biotechnology",
+            "Business Administration",
+            "Civil Engineering",
+            "Electronics and Automation",
+            "Engineering",
+            "Food Science",
+            "Gerontology",
+            "Health Sciences",
+            "Hotel and Restaurant",
+            "Information Sciences",
+            "International Business",
+            "Library Science",
+            "Nursing",
+            "Physical Therapy",
+            "Public Health",
+            "Rehabilitation and Therapy",
+            "Small Business",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Ylempi ammattikorkeakoulututkinto (ylempi AMK)/ Högre yrkeshögskoleexamen (högre YH)",
+          "fields": [
+            "Agricultural Business",
+            "Agriculture",
+            "Business Administration",
+            "Construction Engineering",
+            "Cultural Studies",
+            "Development Studies",
+            "Engineering",
+            "Engineering Management",
+            "Food Science",
+            "Health Administration",
+            "Health Sciences",
+            "Industrial Management",
+            "International Business",
+            "Management",
+            "Social Sciences",
+            "Social Work"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Culture",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Tapio Varmola"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Johanna Säilä-Jokinen"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Marjo Arola"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "4800"
+      },
+      "history": "Founded 1996",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "22382",
+      "iau_id": "IAU-022382",
+      "name": "University of the Arts Helsinki",
+      "alt_name": "Taideyliopisto – Uniarts Helsinki",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyhTLiMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-022382",
+      "address": {
+        "Street": "P.O. Box 68 (Patteristonkatu 3 D)",
+        "City": "Mikkeli",
+        "Post Code": "50101",
+        "WWW": "https://www.xamk.fi"
+      },
+      "website": "https://www.xamk.fi",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2017,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English",
+        "Finnish"
+      ],
+      "faculties": [
+        {
+          "name": "School : Business and Culture",
+          "fields": [
+            "Business Administration",
+            "Cultural Studies"
+          ]
+        },
+        {
+          "name": "School : Health and Wellbeing",
+          "fields": [
+            "Health Sciences",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "School : Technology",
+          "fields": [
+            "Technology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ammattikorkeakoulututkinto (AMK)/ Yrkeshögskoleexamen (YH)",
+          "fields": [
+            "Business Administration",
+            "Computer Engineering",
+            "Environmental Engineering",
+            "Information Technology",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Maisterim tutkinto/Magisterexamen",
+          "fields": [
+            "Health Sciences",
+            "International Business",
+            "Rehabilitation and Therapy"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Heikki Saastamoinen"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Olli Ervaala"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Tero Tallinen"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "9480",
+        "Students Foreign Total:": "600"
+      },
+      "history": "Founded 2017 following merger between Kymenlaakso University of Applied Sciences (Kymenlaakson ammattikorkeakoulu, created 1996) and Mikkeli University of Applied Sciences (Mikkelin ammattikorkeakoulu, created 1997).",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "16956",
+      "iau_id": "IAU-016956",
+      "name": "University of Turku",
+      "alt_name": "Turun yliopisto (UTU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhZLTM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016956",
+      "address": {
+        "Street": "Kalevantie 4",
+        "City": "Tampere",
+        "Post Code": "33014",
+        "WWW": "https://www.tuni.fi/en/about-us/tampere-university"
+      },
+      "website": "https://www.tuni.fi/en/about-us/tampere-university",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to May (September-December; January-May)",
+      "languages": [
+        "Finnish",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : University Consortium of Seinäjoki",
+          "fields": [
+            "Computer Engineering",
+            "Mechanical Engineering",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Faculty : Built Environment",
+          "fields": [
+            "Architecture",
+            "Civil Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Education and Culture",
+          "fields": [
+            "Educational Sciences",
+            "Foreign Languages Education",
+            "Preschool Education",
+            "Primary Education",
+            "Secondary Education",
+            "Teacher Trainers Education",
+            "Teacher Training",
+            "Upper Secondary Education"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering and Natural Sciences",
+          "fields": [
+            "Automation",
+            "Energy Engineering",
+            "Environmental Engineering",
+            "Materials Engineering",
+            "Mechanical Engineering",
+            "Physical Engineering",
+            "Physics",
+            "Robotics"
+          ]
+        },
+        {
+          "name": "Faculty : Information Technology and Communication Sciences",
+          "fields": [
+            "Computer Engineering",
+            "Digital Technology",
+            "Electrical and Electronic Engineering",
+            "Electronics and Automation",
+            "Information Technology",
+            "Mass Communication",
+            "Mathematics and Computer Science",
+            "Modern Languages",
+            "Robotics",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Faculty : Management and Business",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Business Administration",
+            "Commercial Law",
+            "Economics",
+            "Engineering Management",
+            "Finance",
+            "Industrial Engineering",
+            "Information Management",
+            "Insurance",
+            "Marketing",
+            "Political Sciences",
+            "Public Law",
+            "Regional Studies",
+            "Sustainable Development"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine and Health Technology",
+          "fields": [
+            "Bioengineering",
+            "Biological and Life Sciences",
+            "Biomedical Engineering",
+            "Biomedicine",
+            "Medical Technology",
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Faculty : Social Sciences",
+          "fields": [
+            "Gender Studies",
+            "Health Sciences",
+            "History",
+            "Literature",
+            "Nursing",
+            "Peace and Disarmament",
+            "Philosophy",
+            "Psychology",
+            "Public Health",
+            "Social Policy",
+            "Social Psychology",
+            "Social Sciences",
+            "Social Work",
+            "Sociology",
+            "Speech Therapy and Audiology"
+          ]
+        },
+        {
+          "name": "Institute : Tampere Institute of Advanced Study",
+          "fields": [
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Unit : Finnish Social Science Data Archive",
+          "fields": [
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Unit : Library",
+          "fields": [
+            "Architecture and Planning",
+            "Arts and Humanities",
+            "Business Administration",
+            "Education",
+            "Engineering",
+            "Health Sciences",
+            "Information Sciences",
+            "Law",
+            "Mathematics and Computer Science",
+            "Natural Sciences",
+            "Social Sciences",
+            "Theatre",
+            "Transport and Communications",
+            "Welfare and Protective Services"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Kandidaatin tutkinto/Kandidatexamen",
+          "fields": [
+            "Administration",
+            "Architecture",
+            "Arts and Humanities",
+            "Business Administration",
+            "Education",
+            "Engineering",
+            "Health Sciences",
+            "Medicine",
+            "Natural Sciences",
+            "Psychology",
+            "Social Sciences",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Maisterim tutkinto/Magisterexamen",
+          "fields": [
+            "Administration",
+            "Architecture",
+            "Arts and Humanities",
+            "Business Administration",
+            "Education",
+            "Engineering",
+            "Health Sciences",
+            "Medicine",
+            "Natural Sciences",
+            "Psychology",
+            "Social Sciences",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Lisensiaatti/Licentiat",
+          "fields": [
+            "Administration",
+            "Architecture",
+            "Arts and Humanities",
+            "Business Administration",
+            "Education",
+            "Engineering",
+            "Health Sciences",
+            "Medicine",
+            "Natural Sciences",
+            "Psychology",
+            "Social Sciences",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Tohtorin tutkinto/Doktorexamen",
+          "fields": [
+            "Administration",
+            "Architecture",
+            "Arts and Humanities",
+            "Business Administration",
+            "Education",
+            "Engineering",
+            "Health Sciences",
+            "Medicine",
+            "Natural Sciences",
+            "Psychology",
+            "Social Sciences",
+            "Theatre"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Culture",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Keijo Hämäläinen"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Jarmo Takala"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Marja Sutela"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Tapio Visakorpi"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Ilkka Virtanen"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2024-2025",
+        "Staff Full Time Male:": "1650",
+        "Staff Full Time Female:": "1350",
+        "Staff Full Time Total:": "1020",
+        "Students Statistics Year:": "2024-2025",
+        "Students Male:": "8830",
+        "Students Female:": "9570",
+        "Students Total:": "18400",
+        "Students Foreign Male:": "570",
+        "Students Foreign Female:": "430",
+        "Students Foreign Total:": "1000"
+      },
+      "history": "Tampere University was established in 2019, through the merger of the University of Tampere and Tampere University of Technology.  Both predecessors had a long history as higher education institutions before the merger. University of Tampere was originally founded in 1925 in Helsinki as the Civic College. It was renamed the School of Social Sciences in 1930 and relocated to Tampere in 1960. In 1966, it became the University of Tampere. Tampere University of Technology began as a branch of the Helsinki University of Technology in 1965 and gained independent university status in 1972. Today, Tampere University is a multidisciplinary institution and a major shareholder of Tampere University of Applied Sciences.",
+      "periodicals": [
+        "Acta Universitatis Tamperensis (Tampereen yliopiston julkaisusarja)",
+        "Acta Universitatis Tamperensis (Tampereen yliopiston julkaisusarja)"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20807",
+      "iau_id": "IAU-020807",
+      "name": "Vaasa University of Applied Sciences",
+      "alt_name": "Vaasan ammattikorkeakoulu - Vaasa yrkeshögskola – Vaasa Polytechnic (VAMK)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BYLCM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020807",
+      "address": {
+        "Street": "Kuntokatu 3",
+        "City": "Tampere",
+        "Post Code": "33520",
+        "WWW": "https://www.tuni.fi/en/about-us/tamk"
+      },
+      "website": "https://www.tuni.fi/en/about-us/tamk",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2010,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English",
+        "Finnish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Postgraduate, Master's Programmes in English",
+          "fields": [
+            "Business Administration",
+            "Education",
+            "Engineering",
+            "Forestry",
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "Course/Programme : Postgraduate, Master's Programmes in Finnish",
+          "fields": [
+            "Business Administration",
+            "Engineering",
+            "Health Sciences",
+            "Hotel and Restaurant",
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "Course/Programme : Undergraduate, Bachelor's Programmes in English",
+          "fields": [
+            "Business Administration",
+            "Engineering",
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "Course/Programme : Undergraduate, Bachelor's Programmes in Finnish",
+          "fields": [
+            "Business Administration",
+            "Engineering",
+            "Forestry",
+            "Health Sciences",
+            "Hotel and Restaurant",
+            "Media Studies",
+            "Social Work"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ammattikorkeakoulututkinto (AMK)/ Yrkeshögskoleexamen (YH)",
+          "fields": [
+            "Business Administration",
+            "Engineering",
+            "Environmental Engineering",
+            "Fine Arts",
+            "Forestry",
+            "Health Sciences",
+            "Hotel Management",
+            "Leadership",
+            "Management",
+            "Media Studies",
+            "Nursing",
+            "Social Sciences",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Ylempi ammattikorkeakoulututkinto (ylempi AMK)/ Högre yrkeshögskoleexamen (högre YH)",
+          "fields": [
+            "Business Administration",
+            "Educational Administration",
+            "Engineering",
+            "Fine Arts",
+            "Health Sciences",
+            "Hotel Management",
+            "Insurance",
+            "International Business",
+            "Media Studies",
+            "Natural Resources",
+            "Social Sciences",
+            "Writing"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Culture",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Markku Lahtinen"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Kirsi Viskari"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Päivi Karttunen"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "13000"
+      },
+      "history": "Founded 2010 following the merger of Pirkanmaan ammattikorkeakoulu (PIRAMK University of Applied Sciences) and Tampereen ammattikorkeakoulu (TAMK University of Applied Sciences). A full member of the Tampere Universities community – together with Tampere University since 2019. Tampere University of Applied Sciences is part of the Tampere Universities community",
+      "periodicals": [],
+      "student_body": null
+    }
+  ]
+}

@@ -1,0 +1,6330 @@
+{
+  "country_name": "Texas",
+  "country_id": "United States of America - Texas",
+  "institutions": [
+    {
+      "id": "26",
+      "iau_id": "IAU-000026",
+      "name": "Abilene Christian University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?JTo2MF0sQzhgCmAK",
+      "iau_link": "https://www.whed.net/institutions/IAU-000026",
+      "address": {
+        "Street": "5323 Harry Hines Boulevard",
+        "City": "Dallas",
+        "Province": "Texas",
+        "Post Code": "75390",
+        "WWW": "https://www.utsouthwestern.edu"
+      },
+      "website": "https://www.utsouthwestern.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1943,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to August",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Graduate School : Biomedical Sciences",
+          "fields": [
+            "Biomedicine"
+          ]
+        },
+        {
+          "name": "School : Health Professions",
+          "fields": [
+            "Nutrition",
+            "Paramedical Sciences",
+            "Physical Therapy",
+            "Rehabilitation and Therapy"
+          ]
+        },
+        {
+          "name": "School : Medicine",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "School : Public Health",
+          "fields": [
+            "Public Health"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Biochemistry",
+            "Bioengineering",
+            "Biomedical Engineering",
+            "Immunology",
+            "Medical Auxiliaries",
+            "Medical Science",
+            "Microbiology",
+            "Neurosciences",
+            "Nutrition",
+            "Oncology",
+            "Public Health"
+          ]
+        },
+        {
+          "name": "Doctor's Degrees (Professional Practice)",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Doctor's Degree (Research/Scholarship)",
+          "fields": [
+            "Biomedical Engineering",
+            "Biomedicine",
+            "Clinical Psychology",
+            "Medical Science",
+            "Medicine",
+            "Organic Chemistry",
+            "Physical Therapy"
+          ]
+        }
+      ],
+      "accreditation": "Southern Association of Colleges and Schools Commission on Colleges",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Daniel K. Podolsky"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "W. P. Andrew Lee"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2021-2022",
+        "Students Total:": "3800"
+      },
+      "history": "Founded 1943. Part of the University Texas System",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "887",
+      "iau_id": "IAU-000887",
+      "name": "Amberton University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?Jjo2MF0uI0BXCmAK",
+      "iau_link": "https://www.whed.net/institutions/IAU-000887",
+      "address": {
+        "Street": "1 Trinity Place,",
+        "City": "San Antonio",
+        "Province": "Texas",
+        "Post Code": "78212-7200",
+        "WWW": "https://www.trinity.edu"
+      },
+      "website": "https://www.trinity.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1869,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "September to June",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Art and Art History",
+          "fields": [
+            "Art History",
+            "Painting and Drawing",
+            "Paper Technology",
+            "Photography",
+            "Printing and Printmaking",
+            "Sculpture"
+          ]
+        },
+        {
+          "name": "Department/Division : Biology",
+          "fields": [
+            "Biology",
+            "Cell Biology",
+            "Ecology",
+            "Genetics",
+            "Microbiology",
+            "Molecular Biology",
+            "Plant Pathology"
+          ]
+        },
+        {
+          "name": "Department/Division : Chemistry",
+          "fields": [
+            "Analytical Chemistry",
+            "Biochemistry",
+            "Chemistry",
+            "Molecular Biology",
+            "Organic Chemistry"
+          ]
+        },
+        {
+          "name": "Department/Division : Classical Studies",
+          "fields": [
+            "Ancient Civilizations",
+            "Classical Languages"
+          ]
+        },
+        {
+          "name": "Department/Division : Communication",
+          "fields": [
+            "Mass Communication",
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "Department/Division : Computer Science",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Department/Division : Economics",
+          "fields": [
+            "Business and Commerce",
+            "Economics",
+            "Law"
+          ]
+        },
+        {
+          "name": "Department/Division : Education",
+          "fields": [
+            "Education",
+            "Educational Administration",
+            "Educational Psychology",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Department/Division : Engineering Science",
+          "fields": [
+            "Bioengineering",
+            "Chemical Engineering",
+            "Electrical and Electronic Engineering",
+            "Energy Engineering",
+            "Engineering",
+            "Environmental Engineering",
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "Department/Division : English",
+          "fields": [
+            "Comparative Literature",
+            "English",
+            "Linguistics",
+            "Literature",
+            "Writing"
+          ]
+        },
+        {
+          "name": "Department/Division : Geosciences",
+          "fields": [
+            "Earth Sciences"
+          ]
+        },
+        {
+          "name": "Department/Division : Health Care Administration",
+          "fields": [
+            "Health Administration"
+          ]
+        },
+        {
+          "name": "Department/Division : History",
+          "fields": [
+            "Ancient Civilizations",
+            "History",
+            "Modern History"
+          ]
+        },
+        {
+          "name": "Department/Division : Human Communication and Theatre",
+          "fields": [
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Department/Division : Mathematics",
+          "fields": [
+            "Mathematics"
+          ]
+        },
+        {
+          "name": "Department/Division : Modern Languages and Literature",
+          "fields": [
+            "Chinese",
+            "French",
+            "German",
+            "Literature",
+            "Russian",
+            "Spanish"
+          ]
+        },
+        {
+          "name": "Department/Division : Music",
+          "fields": [
+            "Music",
+            "Music Education",
+            "Musical Instruments"
+          ]
+        },
+        {
+          "name": "Department/Division : Philosophy",
+          "fields": [
+            "Philosophy"
+          ]
+        },
+        {
+          "name": "Department/Division : Physics and Astronomy",
+          "fields": [
+            "Astronomy and Space Science",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Department/Division : Political Science",
+          "fields": [
+            "International Relations and Diplomacy",
+            "Political Sciences",
+            "Public Law"
+          ]
+        },
+        {
+          "name": "Department/Division : Psychology",
+          "fields": [
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Department/Division : Religion",
+          "fields": [
+            "Asian Religious Studies",
+            "Bible",
+            "Christian Religious Studies",
+            "Judaic Religious Studies",
+            "Koran",
+            "Religion"
+          ]
+        },
+        {
+          "name": "Department/Division : Sociology and Anthropology",
+          "fields": [
+            "Anthropology",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Department/Division : Speech and Drama",
+          "fields": [
+            "Speech Studies",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "School : Business Administration",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Finance",
+            "International Business",
+            "Management",
+            "Marketing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Anthropology",
+            "Biology",
+            "Business Administration",
+            "Chemistry",
+            "Chinese",
+            "Classical Languages",
+            "Communication Studies",
+            "Computer Science",
+            "Earth Sciences",
+            "East Asian Studies",
+            "Economics",
+            "Engineering",
+            "English",
+            "Environmental Studies",
+            "Finance",
+            "Fine Arts",
+            "Geology",
+            "Health Sciences",
+            "History",
+            "Information Sciences",
+            "International Relations and Diplomacy",
+            "Mass Communication",
+            "Mathematics",
+            "Music",
+            "Neurosciences",
+            "Philosophy",
+            "Political Sciences",
+            "Psychology",
+            "Public Health",
+            "Religion",
+            "Russian",
+            "Sociology",
+            "Spanish",
+            "Theatre",
+            "Urban Studies"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Accountancy",
+            "Education",
+            "Educational Administration",
+            "Fine Arts",
+            "Health Administration",
+            "Natural Sciences",
+            "Psychology",
+            "Teacher Trainers Education"
+          ]
+        }
+      ],
+      "accreditation": "Southern Association of Colleges and Schools Commission on Colleges",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Vanessa B. Beasley"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2021-2022",
+        "Staff Full Time Total:": "347",
+        "Students Statistics Year:": "2021-2022",
+        "Students Total:": "2704"
+      },
+      "history": "Founded 1869. A private institution affiliated with the Presbyterian Church (USA)",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "900",
+      "iau_id": "IAU-000900",
+      "name": "American College of Acupuncture and Oriental Medicine",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?Jjo2MF0uM2BQCmAK",
+      "iau_link": "https://www.whed.net/institutions/IAU-000900",
+      "address": {
+        "Street": "1400 East Fifth Street",
+        "City": "Tyler",
+        "Province": "Texas",
+        "Post Code": "75701",
+        "WWW": "https://www.tjc.edu"
+      },
+      "website": "https://www.tjc.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1926,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "School : Continuing Studies",
+          "fields": [
+            "Dance",
+            "Health Sciences",
+            "Leisure Studies"
+          ]
+        },
+        {
+          "name": "School : Engineering, Mathematics and Sciences",
+          "fields": [
+            "Engineering",
+            "Mathematics",
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "School : Humanities, Communications, and Fine Arts!",
+          "fields": [
+            "Arts and Humanities",
+            "Communication Studies",
+            "Fine Arts"
+          ]
+        },
+        {
+          "name": "School : Nursing & Health Sciences",
+          "fields": [
+            "Health Sciences",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "School : Professional and Technical",
+          "fields": [
+            "Dental Hygiene",
+            "Nursing",
+            "Occupational Health",
+            "Physical Therapy",
+            "Respiratory Therapy"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Associate Degree",
+          "fields": [
+            "Dental Hygiene",
+            "Health Administration"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Dental Hygiene",
+            "Health Administration"
+          ]
+        }
+      ],
+      "accreditation": "Southern Association of Colleges and Schools Commission on Colleges",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Juan E. Mejia"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2021-2022",
+        "Staff Full Time Total:": "645",
+        "Students Statistics Year:": "2021-2022",
+        "Students Total:": "11913"
+      },
+      "history": "Founded 1926",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "971",
+      "iau_id": "IAU-000971",
+      "name": "Angelo State University",
+      "alt_name": "(ASU)",
+      "detail_url": "https://whed.net/detail_institution.php?Jjo2MF0uMzxRCmAK",
+      "iau_link": "https://www.whed.net/institutions/IAU-000971",
+      "address": {
+        "Street": "1845 East Northgate Drive",
+        "City": "Irving",
+        "Province": "Texas",
+        "Post Code": "75062-4736",
+        "WWW": "https://www.udallas.edu"
+      },
+      "website": "https://www.udallas.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1956,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "August to May (August-December; January-May). Also Summer Session (June-August)",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "College : Liberal Arts",
+          "fields": [
+            "Arts and Humanities",
+            "Biochemistry",
+            "Biology",
+            "Chemistry",
+            "Classical Languages",
+            "Economics",
+            "Education",
+            "English",
+            "Fine Arts",
+            "French",
+            "German",
+            "History",
+            "Mathematics",
+            "Philosophy",
+            "Physics",
+            "Political Sciences",
+            "Spanish",
+            "Theatre",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Graduate School : Management",
+          "fields": [
+            "Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Arts and Humanities",
+            "Biochemistry",
+            "Biology",
+            "Business Administration",
+            "Chemistry",
+            "Classical Languages",
+            "Computer Science",
+            "Economics",
+            "Education",
+            "English",
+            "Fine Arts",
+            "French",
+            "German",
+            "History",
+            "Italian",
+            "Management",
+            "Mathematics",
+            "Philosophy",
+            "Physics",
+            "Political Sciences",
+            "Psychology",
+            "Spanish",
+            "Theatre",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Business Administration",
+            "English",
+            "Philosophy",
+            "Political Sciences"
+          ]
+        },
+        {
+          "name": "Doctor's Degree (Research/Scholarship)",
+          "fields": []
+        }
+      ],
+      "accreditation": "Southern Association of Colleges and Schools Commission on Colleges",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Jonathan J. Sanford"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Matthias Vorwerk"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1956. A private institution affiliated with the Roman Catholic Church",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "29391",
+      "iau_id": "IAU-029391",
+      "name": "Arlington Baptist University",
+      "alt_name": "(ABU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0RTLjMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-029391",
+      "address": {
+        "Street": "212 E. Cullen Building",
+        "City": "Houston",
+        "Province": "Texas",
+        "Post Code": "77204-2018",
+        "WWW": "https://www.uh.edu"
+      },
+      "website": "https://www.uh.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1927,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "August to May. Also Summer Session (June-August)",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "College : Architecture",
+          "fields": [
+            "Architecture",
+            "Industrial Design",
+            "Interior Design"
+          ]
+        },
+        {
+          "name": "College : Arts",
+          "fields": [
+            "Dance",
+            "Fine Arts",
+            "Music",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "College : Business",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Finance",
+            "Management",
+            "Marketing",
+            "Taxation"
+          ]
+        },
+        {
+          "name": "College : Education",
+          "fields": [
+            "Art Education",
+            "Curriculum",
+            "Education",
+            "Education of the Gifted",
+            "Educational Psychology",
+            "Preschool Education",
+            "Primary Education"
+          ]
+        },
+        {
+          "name": "College : Engineering",
+          "fields": [
+            "Biomedical Engineering",
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Computer Education",
+            "Electrical Engineering",
+            "Environmental Engineering",
+            "Industrial Engineering",
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "College : Global Hospitality Leadership",
+          "fields": [
+            "Hotel and Restaurant",
+            "Hotel Management"
+          ]
+        },
+        {
+          "name": "College : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "College : Liberal Arts and Social Sciences",
+          "fields": [
+            "African American Studies",
+            "Anthropology",
+            "Art History",
+            "Classical Languages",
+            "Communication Disorders",
+            "Communication Studies",
+            "Cultural Studies",
+            "Dance",
+            "Economics",
+            "English",
+            "Hispanic American Studies",
+            "History",
+            "Modern Languages",
+            "Music",
+            "Nutrition",
+            "Painting and Drawing",
+            "Philosophy",
+            "Photography",
+            "Physical Therapy",
+            "Political Sciences",
+            "Psychology",
+            "Sculpture",
+            "Sociology",
+            "Sports Management"
+          ]
+        },
+        {
+          "name": "College : Natural Sciences and Mathematics",
+          "fields": [
+            "Biochemistry",
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Geology",
+            "Mathematics",
+            "Physics"
+          ]
+        },
+        {
+          "name": "College : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "College : Optometry",
+          "fields": [
+            "Optometry"
+          ]
+        },
+        {
+          "name": "College : Pharmacy",
+          "fields": [
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Graduate School : Social Work",
+          "fields": [
+            "Social Work"
+          ]
+        },
+        {
+          "name": "School : Medicine",
+          "fields": [
+            "Behavioural Sciences",
+            "Biomedicine",
+            "Health Sciences",
+            "Public Health"
+          ]
+        },
+        {
+          "name": "School : Public Affairs",
+          "fields": [
+            "Public Administration"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "African American Studies",
+            "Anthropology",
+            "Architecture",
+            "Art Education",
+            "Art History",
+            "Arts and Humanities",
+            "Behavioural Sciences",
+            "Biochemistry",
+            "Biology",
+            "Biomedical Engineering",
+            "Biomedicine",
+            "Business Administration",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civil Engineering",
+            "Classical Languages",
+            "Communication Disorders",
+            "Communication Studies",
+            "Computer Education",
+            "Computer Science",
+            "Cultural Studies",
+            "Curriculum",
+            "Dance",
+            "Economics",
+            "Education",
+            "Education of the Gifted",
+            "Educational Psychology",
+            "Electrical Engineering",
+            "English",
+            "Environmental Engineering",
+            "Finance",
+            "Fine Arts",
+            "Geology",
+            "Health Sciences",
+            "Hispanic American Studies",
+            "History",
+            "Hotel and Restaurant",
+            "Hotel Management",
+            "Industrial Design",
+            "Industrial Engineering",
+            "Interior Design",
+            "Law",
+            "Management",
+            "Marketing",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Modern Languages",
+            "Music",
+            "Nursing",
+            "Nutrition",
+            "Optometry",
+            "Painting and Drawing",
+            "Pharmacy",
+            "Philosophy",
+            "Photography",
+            "Physical Therapy",
+            "Physics",
+            "Political Sciences",
+            "Preschool Education",
+            "Primary Education",
+            "Psychology",
+            "Public Administration",
+            "Public Health",
+            "Sculpture",
+            "Social Work",
+            "Sociology",
+            "Sports Management",
+            "Taxation",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Accountancy",
+            "Anthropology",
+            "Architecture",
+            "Biology",
+            "Business Administration",
+            "Chemistry",
+            "Communication Disorders",
+            "Computer Science",
+            "Consumer Studies",
+            "Economics",
+            "Education",
+            "Engineering",
+            "English",
+            "Family Studies",
+            "Fine Arts",
+            "Foreign Languages Education",
+            "Geology",
+            "Geophysics",
+            "Hotel Management",
+            "Information Sciences",
+            "International Law",
+            "Management",
+            "Marketing",
+            "Mass Communication",
+            "Mathematics",
+            "Music",
+            "Nursing",
+            "Nutrition",
+            "Pharmacy",
+            "Philosophy",
+            "Physics",
+            "Political Sciences",
+            "Public Administration",
+            "Public Relations",
+            "Social Work",
+            "Sports Management",
+            "Taxation",
+            "Writing"
+          ]
+        },
+        {
+          "name": "Doctor's Degrees (Professional Practice)",
+          "fields": [
+            "Law",
+            "Optometry"
+          ]
+        },
+        {
+          "name": "Doctor's Degree (Research/Scholarship)",
+          "fields": [
+            "Biochemistry",
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Economics",
+            "Education",
+            "Engineering",
+            "English",
+            "Geology",
+            "History",
+            "Hotel Management",
+            "Information Sciences",
+            "Law",
+            "Mathematics",
+            "Music",
+            "Pharmacy",
+            "Physics",
+            "Psychology",
+            "Spanish",
+            "Writing"
+          ]
+        }
+      ],
+      "accreditation": "Southern Association of Colleges and Schools, Commission on Colleges",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Renu Khator"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Diane Z. Chase"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2021-2022",
+        "Staff Full Time Total:": "2027",
+        "Students Statistics Year:": "2021-2022",
+        "Students Total:": "47031"
+      },
+      "history": "Founded 1927 as Houston Junior College, acquired present title 1934, and became a State institution 1963",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "1290",
+      "iau_id": "IAU-001290",
+      "name": "Austin College",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sMyhZLGBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-001290",
+      "address": {
+        "Street": "2700 Bay Area Boulevard",
+        "City": "Houston",
+        "Province": "Texas",
+        "Post Code": "77058-1002",
+        "WWW": "https://www.uhcl.edu"
+      },
+      "website": "https://www.uhcl.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1971,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "August to July (August-December; January-May; June-July)",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "College : Business",
+          "fields": [
+            "Accountancy",
+            "Economics",
+            "Environmental Management",
+            "Finance",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "College : Education",
+          "fields": [
+            "Curriculum",
+            "Education",
+            "Educational Administration",
+            "Educational and Student Counselling",
+            "Leadership",
+            "Library Science",
+            "Literacy Education",
+            "Special Education"
+          ]
+        },
+        {
+          "name": "College : Human Sciences and Humanities",
+          "fields": [
+            "Anthropology",
+            "Arts and Humanities",
+            "Communication Arts",
+            "Cultural Studies",
+            "Fine Arts",
+            "Health Sciences",
+            "Psychology",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "College : Science and Engineering",
+          "fields": [
+            "Biology",
+            "Biotechnology",
+            "Computer Engineering",
+            "Computer Science",
+            "Engineering Management",
+            "Environmental Studies",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Physics",
+            "Software Engineering",
+            "Statistics"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Anthropology",
+            "Arts and Humanities",
+            "Biology",
+            "Chemistry",
+            "Communication Arts",
+            "Computer Engineering",
+            "Computer Science",
+            "Criminology",
+            "Curriculum",
+            "Economics",
+            "Education",
+            "Educational Administration",
+            "Educational and Student Counselling",
+            "Engineering Management",
+            "Environmental Management",
+            "Environmental Studies",
+            "Finance",
+            "Fine Arts",
+            "Geography",
+            "Health Administration",
+            "Health Sciences",
+            "Information Management",
+            "Information Technology",
+            "Law",
+            "Leadership",
+            "Library Science",
+            "Literacy Education",
+            "Literature",
+            "Management",
+            "Marketing",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Nursing",
+            "Occupational Health",
+            "Physics",
+            "Psychology",
+            "Public Administration",
+            "Social Sciences",
+            "Social Work",
+            "Sociology",
+            "Software Engineering",
+            "Special Education",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Accountancy",
+            "Arts and Humanities",
+            "Biology",
+            "Biotechnology",
+            "Business Administration",
+            "Chemistry",
+            "Computer Engineering",
+            "Computer Science",
+            "Criminology",
+            "Cultural Studies",
+            "Education",
+            "Engineering",
+            "Environmental Studies",
+            "Family Studies",
+            "Health Sciences",
+            "History",
+            "Information Sciences",
+            "Library Science",
+            "Literature",
+            "Mathematics",
+            "Physics",
+            "Psychiatry and Mental Health",
+            "Psychology",
+            "Sociology",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Doctor's Degrees (Professional Practice)",
+          "fields": [
+            "Curriculum",
+            "Education",
+            "Industrial and Organizational Psychology",
+            "Psychology"
+          ]
+        }
+      ],
+      "accreditation": "Southern Association of Colleges and Schools Commission on Colleges",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Richard Walker"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Christopher Maynard"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2021-2022",
+        "Staff Full Time Total:": "284",
+        "Students Statistics Year:": "2021-2022",
+        "Students Total:": "9279"
+      },
+      "history": "Founded 1971",
+      "periodicals": [
+        "EGRET UH Euclidian",
+        "EGRET",
+        "UH Euclidian"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "29392",
+      "iau_id": "IAU-029392",
+      "name": "Bakke Graduate University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0RTLjMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-029392",
+      "address": {
+        "Street": "1 Main Street",
+        "City": "Houston",
+        "Province": "Texas",
+        "Post Code": "77002",
+        "WWW": "https://www.uhd.edu"
+      },
+      "website": "https://www.uhd.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1974,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "College : Business",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Business and Commerce",
+            "Finance",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "College : Humanities and Social Sciences",
+          "fields": [
+            "Arts and Humanities",
+            "Communication Studies",
+            "English",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "College : Public Service",
+          "fields": [
+            "Criminal Law",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "College : Science and Technology",
+          "fields": [
+            "Engineering",
+            "Natural Sciences",
+            "Technology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Arts and Humanities",
+            "Business Administration",
+            "Business and Commerce",
+            "Communication Studies",
+            "Criminal Law",
+            "Education",
+            "Engineering",
+            "English",
+            "Finance",
+            "International Business",
+            "Management",
+            "Marketing",
+            "Natural Sciences",
+            "Philosophy",
+            "Psychology",
+            "Social Sciences",
+            "Social Work",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Communication Studies",
+            "Criminal Law",
+            "Data Science",
+            "Education",
+            "English",
+            "Finance",
+            "Management",
+            "Protective Services",
+            "Writing"
+          ]
+        }
+      ],
+      "accreditation": "Southern Association of Colleges and Schools Commission on Colleges",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Loren J. Blanchard"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2021-2022",
+        "Staff Full Time Total:": "759",
+        "Students Statistics Year:": "2022-2023",
+        "Students Total:": "14208"
+      },
+      "history": "Founded 1974",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "29393",
+      "iau_id": "IAU-029393",
+      "name": "Baptist Health System School of Health Professions",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0RTLjMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-029393",
+      "address": {
+        "Street": "3007 N.Ben Wilson",
+        "City": "Victoria",
+        "Province": "Texas",
+        "Post Code": "77901-4450",
+        "WWW": "https://www.uhv.edu"
+      },
+      "website": "https://www.uhv.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1973,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "August to May. Also Summer Session (June-August)",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "College : Business",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Economics",
+            "Finance",
+            "Health Administration",
+            "Human Resources",
+            "International Business",
+            "Management",
+            "Marketing",
+            "Small Business",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "College : Education and Health Professions",
+          "fields": [
+            "Adult Education",
+            "Computer Science",
+            "Curriculum",
+            "Education",
+            "Educational Administration",
+            "Educational and Student Counselling",
+            "Educational Psychology",
+            "Educational Technology",
+            "Higher Education",
+            "Nursing",
+            "Preschool Education",
+            "Primary Education",
+            "Rehabilitation and Therapy",
+            "Secondary Education",
+            "Special Education",
+            "Sports Management",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "College : Liberal Arts and Social Science",
+          "fields": [
+            "Biological and Life Sciences",
+            "Communication Studies",
+            "Criminal Law",
+            "English",
+            "History",
+            "Political Sciences",
+            "Psychology",
+            "Spanish",
+            "Writing"
+          ]
+        },
+        {
+          "name": "College : Natural and Applied Science",
+          "fields": [
+            "Biology",
+            "Computer Science",
+            "Information Technology",
+            "Mathematics",
+            "Secondary Education"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Biology",
+            "Business Administration",
+            "Communication Studies",
+            "English",
+            "History",
+            "Information Technology",
+            "Mathematics",
+            "Nursing",
+            "Political Sciences",
+            "Psychology",
+            "Rehabilitation and Therapy",
+            "Spanish",
+            "Teacher Training",
+            "Writing"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Accountancy",
+            "Adult Education",
+            "Biological and Life Sciences",
+            "Biomedicine",
+            "Business Administration",
+            "Computer Science",
+            "Curriculum",
+            "Data Science",
+            "Education",
+            "Educational Administration",
+            "Educational and Student Counselling",
+            "Educational Psychology",
+            "Educational Technology",
+            "Higher Education",
+            "Information Technology",
+            "Psychology",
+            "Publishing and Book Trade",
+            "Special Education",
+            "Sports Management",
+            "Writing"
+          ]
+        }
+      ],
+      "accreditation": "Southern Association of Colleges and Schools Commission on Colleges",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Robert K. Glenn"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Chance M. Glenn"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2021-2022",
+        "Staff Full Time Total:": "207",
+        "Students Statistics Year:": "2021-2022",
+        "Students Total:": "4189"
+      },
+      "history": "Founded 1973. A Campus in the University of Houston System",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "1502",
+      "iau_id": "IAU-001502",
+      "name": "Baylor College of Medicine",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sMzRQLEBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-001502",
+      "address": {
+        "Street": "P.O. Box 8367900 College Street",
+        "City": "Belton",
+        "Province": "Texas",
+        "Post Code": "76513",
+        "WWW": "https://www.umhb.edu"
+      },
+      "website": "https://www.umhb.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1845,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "August to May (August-December; January-May). Also Summer Session (May-August)",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "College : Business",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "College : Christian Studies",
+          "fields": [
+            "Christian Religious Studies"
+          ]
+        },
+        {
+          "name": "College : Education",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "College : Health Sciences",
+          "fields": [
+            "Health Sciences"
+          ]
+        },
+        {
+          "name": "College : Humanities & Sciences",
+          "fields": [
+            "Arts and Humanities",
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "College : Visual & Performing Arts",
+          "fields": [
+            "Performing Arts",
+            "Visual Arts"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Arts and Humanities",
+            "Biology",
+            "Business Administration",
+            "Christian Religious Studies",
+            "Criminal Law",
+            "Economics",
+            "Education",
+            "English",
+            "Health Sciences",
+            "International Business",
+            "Journalism",
+            "Leadership",
+            "Mathematics",
+            "Music",
+            "Natural Sciences",
+            "Neurosciences",
+            "Performing Arts",
+            "Political Sciences",
+            "Public Relations",
+            "Social Work",
+            "Sociology",
+            "Spanish",
+            "Speech Studies",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Education",
+            "Information Technology",
+            "Management",
+            "Medical Auxiliaries",
+            "Nursing",
+            "Occupational Therapy",
+            "Physiology",
+            "Psychology",
+            "Public Health",
+            "Sports Management"
+          ]
+        },
+        {
+          "name": "Doctor's Degrees (Professional Practice)",
+          "fields": [
+            "Education",
+            "Physical Therapy"
+          ]
+        }
+      ],
+      "accreditation": "Southern Association of Colleges and Schools, Commission on Colleges",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Randy O'Rear"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "John S. Vassar"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2021-2022",
+        "Staff Full Time Total:": "329",
+        "Students Statistics Year:": "2021-2022",
+        "Students Total:": "3732"
+      },
+      "history": "Founded 1845 as Women's division of Baylor University, changed name to Baylor Female College 1866, to Baylor College for Women 1924, to Mary Hardin-Baylor College 1934, and acquired present title 1978",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "1503",
+      "iau_id": "IAU-001503",
+      "name": "Baylor University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sMzRQLFBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-001503",
+      "address": {
+        "Street": "P.O. Box 3112771155 Union Circle",
+        "City": "Denton",
+        "Province": "Texas",
+        "Post Code": "76203",
+        "WWW": "https://www.unt.edu"
+      },
+      "website": "https://www.unt.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1890,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "August to May (August-December; January-May). Also 2 Summer Sessions (June-August)",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "College : Arts and Sciences",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Fine Arts",
+            "Mathematics",
+            "Natural Sciences",
+            "Physics",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "College : Business",
+          "fields": [
+            "Accountancy",
+            "Finance",
+            "Information Technology",
+            "Insurance",
+            "Law",
+            "Management",
+            "Marketing",
+            "Real Estate"
+          ]
+        },
+        {
+          "name": "College : Education",
+          "fields": [
+            "Bilingual and Bicultural Education",
+            "Curriculum",
+            "Education",
+            "Educational Administration",
+            "Educational and Student Counselling",
+            "Educational Psychology",
+            "Physical Therapy",
+            "Preschool Education"
+          ]
+        },
+        {
+          "name": "College : Engineering",
+          "fields": [
+            "Computer Engineering",
+            "Computer Science",
+            "Electrical Engineering",
+            "Energy Engineering",
+            "Engineering",
+            "Materials Engineering",
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "College : Information",
+          "fields": [
+            "Library Science"
+          ]
+        },
+        {
+          "name": "College : Music",
+          "fields": [
+            "Conducting",
+            "Jazz and Popular Music",
+            "Music",
+            "Music Theory and Composition",
+            "Musical Instruments",
+            "Opera",
+            "Singing"
+          ]
+        },
+        {
+          "name": "College : Public Affairs and Community Service",
+          "fields": [
+            "Administration",
+            "Anthropology",
+            "Behavioural Sciences",
+            "Criminal Law",
+            "Criminology",
+            "Economics",
+            "Gerontology",
+            "Public Administration",
+            "Rehabilitation and Therapy",
+            "Social Work",
+            "Sociology",
+            "Toxicology"
+          ]
+        },
+        {
+          "name": "College : Visual Arts and Design",
+          "fields": [
+            "Art History",
+            "Ceramic Art",
+            "Design",
+            "Jewellery Art",
+            "Media Studies",
+            "Painting and Drawing",
+            "Photography",
+            "Printing and Printmaking",
+            "Sculpture"
+          ]
+        },
+        {
+          "name": "School : Journalism",
+          "fields": [
+            "Journalism"
+          ]
+        },
+        {
+          "name": "School : Merchandising and Hospitality Management",
+          "fields": [
+            "Hotel and Restaurant",
+            "Sales Techniques"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Anthropology",
+            "Art History",
+            "Behavioural Sciences",
+            "Bilingual and Bicultural Education",
+            "Ceramic Art",
+            "Computer Engineering",
+            "Computer Science",
+            "Conducting",
+            "Criminal Law",
+            "Criminology",
+            "Curriculum",
+            "Design",
+            "Economics",
+            "Education",
+            "Educational Administration",
+            "Educational and Student Counselling",
+            "Educational Psychology",
+            "Electrical Engineering",
+            "Energy Engineering",
+            "Engineering",
+            "Finance",
+            "Gerontology",
+            "Hotel and Restaurant",
+            "Information Technology",
+            "Insurance",
+            "Jazz and Popular Music",
+            "Jewellery Art",
+            "Journalism",
+            "Law",
+            "Library Science",
+            "Management",
+            "Marketing",
+            "Materials Engineering",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Media Studies",
+            "Music",
+            "Music Theory and Composition",
+            "Musical Instruments",
+            "Natural Sciences",
+            "Opera",
+            "Painting and Drawing",
+            "Photography",
+            "Physical Therapy",
+            "Preschool Education",
+            "Printing and Printmaking",
+            "Public Administration",
+            "Real Estate",
+            "Rehabilitation and Therapy",
+            "Sales Techniques",
+            "Sculpture",
+            "Singing",
+            "Social Work",
+            "Sociology",
+            "Toxicology"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Anthropology",
+            "Biochemistry",
+            "Bioengineering",
+            "Biology",
+            "Business Administration",
+            "Business and Commerce",
+            "Chemistry",
+            "Communication Arts",
+            "Communication Studies",
+            "Community Health",
+            "Computer Engineering",
+            "Computer Science",
+            "Criminal Law",
+            "Design",
+            "Econometrics",
+            "Economics",
+            "Education",
+            "Educational and Student Counselling",
+            "Educational Technology",
+            "Electrical Engineering",
+            "Engineering",
+            "Engineering Management",
+            "English",
+            "Finance",
+            "Fine Arts",
+            "French",
+            "Geography",
+            "Government",
+            "Health Administration",
+            "Health Sciences",
+            "Higher Education",
+            "History",
+            "Information Sciences",
+            "Information Technology",
+            "Insurance",
+            "International Studies",
+            "Jazz and Popular Music",
+            "Journalism",
+            "Leadership",
+            "Library Science",
+            "Logistics Management",
+            "Management",
+            "Materials Engineering",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Music",
+            "Parks and Recreation",
+            "Philosophy",
+            "Physical Education",
+            "Physics",
+            "Political Sciences",
+            "Psychology",
+            "Public Administration",
+            "Radio and Television Broadcasting",
+            "Social Work",
+            "Sociology",
+            "Special Education",
+            "Speech Studies",
+            "Speech Therapy and Audiology",
+            "Statistics",
+            "Taxation",
+            "Visual Arts",
+            "Vocational Counselling",
+            "Women's Studies"
+          ]
+        },
+        {
+          "name": "Doctor's Degrees (Professional Practice)",
+          "fields": [
+            "Speech Therapy and Audiology"
+          ]
+        },
+        {
+          "name": "Doctor's Degree (Research/Scholarship)",
+          "fields": [
+            "Accountancy",
+            "Art Education",
+            "Biochemistry",
+            "Biology",
+            "Business Administration",
+            "Business and Commerce",
+            "Business Computing",
+            "Chemistry",
+            "Computer Science",
+            "Education",
+            "Engineering",
+            "English",
+            "Environmental Studies",
+            "Finance",
+            "Government",
+            "Health Sciences",
+            "History",
+            "Information Sciences",
+            "Insurance",
+            "Logistics Management",
+            "Management",
+            "Marketing",
+            "Mathematics",
+            "Music",
+            "Philosophical Schools",
+            "Physics",
+            "Political Sciences",
+            "Psychology",
+            "Public Administration",
+            "Sociology"
+          ]
+        }
+      ],
+      "accreditation": "Southern Association of Colleges and Schools Commission on Colleges",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Neal J. Smatresk"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Michael McPherson"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2021-2022",
+        "Staff Full Time Total:": "1756",
+        "Students Statistics Year:": "2021-2022",
+        "Students Total:": "42441"
+      },
+      "history": "Founded 1890, acquired present title 1988. (Previously North Texas State University)",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "1750",
+      "iau_id": "IAU-001750",
+      "name": "Brazosport College",
+      "alt_name": "(BC)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sMzxVLGBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-001750",
+      "address": {
+        "Street": "7300 University Hills Blvd",
+        "City": "Dallas",
+        "Province": "Texas",
+        "Post Code": "75241",
+        "WWW": "https://www.untdallas.edu"
+      },
+      "website": "https://www.untdallas.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2010,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "College : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "School : Behavioral Health and Human Services",
+          "fields": [
+            "Child Care and Development",
+            "Educational and Student Counselling",
+            "Family Studies",
+            "Leadership",
+            "Management",
+            "Psychiatry and Mental Health"
+          ]
+        },
+        {
+          "name": "School : Business",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Finance",
+            "Hotel Management",
+            "Human Resources",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "School : Education",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "School : Liberal Arts and Sciences",
+          "fields": [
+            "Administration",
+            "Agriculture",
+            "Biology",
+            "Communication Disorders",
+            "Comparative Religion",
+            "Criminology",
+            "English",
+            "Information Technology",
+            "Mathematics",
+            "Media Studies",
+            "Natural Resources",
+            "Political Sciences",
+            "Psychology",
+            "Public Health",
+            "Sociology",
+            "Spanish"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Agriculture",
+            "Bilingual and Bicultural Education",
+            "Biology",
+            "Business Administration",
+            "Child Care and Development",
+            "Communication Disorders",
+            "Comparative Religion",
+            "Criminology",
+            "Education",
+            "Educational and Student Counselling",
+            "English",
+            "Family Studies",
+            "Finance",
+            "Hotel Management",
+            "Human Resources",
+            "Information Technology",
+            "Law",
+            "Leadership",
+            "Management",
+            "Marketing",
+            "Mathematics",
+            "Mathematics Education",
+            "Media Studies",
+            "Modern Languages",
+            "Natural Resources",
+            "Political Sciences",
+            "Preschool Education",
+            "Primary Education",
+            "Psychiatry and Mental Health",
+            "Psychology",
+            "Public Health",
+            "Science Education",
+            "Secondary Education",
+            "Sociology",
+            "Spanish",
+            "Special Education"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Criminology",
+            "Curriculum",
+            "Education",
+            "Educational and Student Counselling",
+            "Human Resources",
+            "Leadership",
+            "Management",
+            "Marketing",
+            "Psychiatry and Mental Health"
+          ]
+        },
+        {
+          "name": "Doctor's Degrees (Professional Practice)",
+          "fields": [
+            "Law"
+          ]
+        }
+      ],
+      "accreditation": "Southern Association of Colleges and Schools Commission on Colleges",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Robert Mong"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Betty Stewart"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2021-2022",
+        "Staff Full Time Total:": "282",
+        "Students Statistics Year:": "2021-2022",
+        "Students Total:": "4120"
+      },
+      "history": "Founded 2010",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "29881",
+      "iau_id": "IAU-029278-029881",
+      "name": "Chamberlain University – Chamberlain University-Texas Houston Campus",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0RYLiMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-029278-029881",
+      "address": {
+        "Street": "3500 Camp Bowie Boulevard",
+        "City": "Fort Worth",
+        "Province": "Texas",
+        "Post Code": "76107",
+        "WWW": "https://www.unthsc.edu"
+      },
+      "website": "https://www.unthsc.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1966,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "College : Osteopathic Medicine",
+          "fields": [
+            "Osteopathy"
+          ]
+        },
+        {
+          "name": "College : Pharmacy",
+          "fields": [
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "School : Biomedical Sciences",
+          "fields": [
+            "Biomedicine"
+          ]
+        },
+        {
+          "name": "School : Health Professions",
+          "fields": [
+            "Medical Auxiliaries",
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "School : Public Health",
+          "fields": [
+            "Public Health"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Biomedicine"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Biomedicine",
+            "Biotechnology",
+            "Epidemiology",
+            "Health Administration",
+            "Health Sciences",
+            "Medical Auxiliaries",
+            "Medical Science",
+            "Pharmacy",
+            "Public Health"
+          ]
+        },
+        {
+          "name": "Doctor's Degrees (Professional Practice)",
+          "fields": [
+            "Osteopathy",
+            "Pharmacy",
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "Doctor's Degree (Research/Scholarship)",
+          "fields": [
+            "Public Health"
+          ]
+        }
+      ],
+      "accreditation": "Southern Association of Colleges and Schools Commission on Colleges",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Sylvia Trent-Adams"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2021-2022",
+        "Staff Full Time Total:": "354",
+        "Students Statistics Year:": "2021-2022",
+        "Students Total:": "2472"
+      },
+      "history": "Founded 1966. University of North Texas Health Science Center at Fort Worth is part of the 3 Universities of UNT System Institutions",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "29885",
+      "iau_id": "IAU-029278-029885",
+      "name": "Chamberlain University – Chamberlain University-Texas Irving Campus",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0RYLiM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-029278-029885",
+      "address": {
+        "Street": "3800 Montrose Boulevard",
+        "City": "Houston",
+        "Province": "Texas",
+        "Post Code": "77006-4696",
+        "WWW": "https://www.stthom.edu"
+      },
+      "website": "https://www.stthom.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1947,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "August to May. Also Summer Session (June-July)",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Faith and Culture",
+          "fields": [
+            "Pastoral Studies",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Graduate School : Theology",
+          "fields": [
+            "Pastoral Studies",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Institute : Saint John Paul II",
+          "fields": [
+            "Religious Studies"
+          ]
+        },
+        {
+          "name": "School : Arts and Sciences",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Classical Languages",
+            "English",
+            "Environmental Studies",
+            "Fine Arts",
+            "History",
+            "International Studies",
+            "Mathematics",
+            "Modern Languages",
+            "Pastoral Studies",
+            "Performing Arts",
+            "Philosophy",
+            "Physics",
+            "Political Sciences",
+            "Psychology",
+            "Theology"
+          ]
+        },
+        {
+          "name": "School : Business",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Finance",
+            "Management"
+          ]
+        },
+        {
+          "name": "School : Education and Human Services",
+          "fields": [
+            "Education",
+            "Teacher Training"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Biology",
+            "Business Administration",
+            "Chemistry",
+            "Classical Languages",
+            "Education",
+            "English",
+            "Environmental Studies",
+            "Fine Arts",
+            "History",
+            "International Studies",
+            "Mathematics",
+            "Modern Languages",
+            "Pastoral Studies",
+            "Performing Arts",
+            "Philosophy",
+            "Physics",
+            "Political Sciences",
+            "Psychology",
+            "Teacher Training",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Computer Science",
+            "Criminal Law",
+            "Criminology",
+            "Education",
+            "Finance",
+            "Fine Arts",
+            "Industrial Chemistry",
+            "Management",
+            "Nursing",
+            "Pastoral Studies",
+            "Psychology",
+            "Public Administration",
+            "Religion",
+            "Theology",
+            "Writing"
+          ]
+        },
+        {
+          "name": "Doctor's Degrees (Professional Practice)",
+          "fields": [
+            "Education",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Doctor's Degree (Research/Scholarship)",
+          "fields": [
+            "Philosophy"
+          ]
+        }
+      ],
+      "accreditation": "Southern Association of Colleges and Schools, Commission on Colleges",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Richard L. Ludwick"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2021-2022",
+        "Staff Full Time Total:": "338",
+        "Students Statistics Year:": "2021-2022",
+        "Students Total:": "3877"
+      },
+      "history": "Founded 1947",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "29887",
+      "iau_id": "IAU-029278-029887",
+      "name": "Chamberlain University – Chamberlain University-Texas Pearland Campus",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0RYLiM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-029278-029887",
+      "address": {
+        "Street": "4301 Broadway",
+        "City": "San Antonio",
+        "Province": "Texas",
+        "Post Code": "78209",
+        "WWW": "https://www.uiw.edu"
+      },
+      "website": "https://www.uiw.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1881,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "August to May (August-December; January-May). Also Summer Session (June-August)",
+      "languages": [
+        "English",
+        "Turkish",
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "College : Humanities, Arts, and Social Sciences",
+          "fields": [
+            "Art History",
+            "Ceramic Art",
+            "Criminal Law",
+            "Cultural Studies",
+            "Economic and Finance Policy",
+            "English",
+            "Fine Arts",
+            "History",
+            "International Studies",
+            "Music",
+            "Music Education",
+            "Painting and Drawing",
+            "Peace and Disarmament",
+            "Philosophy",
+            "Photography",
+            "Political Sciences",
+            "Printing and Printmaking",
+            "Psychology",
+            "Religious Studies",
+            "Sculpture",
+            "Sociology",
+            "Spanish",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "School : Business and Administration",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Economics",
+            "Finance",
+            "Information Technology",
+            "International Business",
+            "Management",
+            "Marketing",
+            "Sports Management"
+          ]
+        },
+        {
+          "name": "School : Doctoral",
+          "fields": [
+            "Higher Education",
+            "International and Comparative Education",
+            "Leadership"
+          ]
+        },
+        {
+          "name": "School : Education",
+          "fields": [
+            "Art Education",
+            "Biological and Life Sciences",
+            "Education",
+            "English",
+            "Foreign Languages Education",
+            "History",
+            "Mathematics Education",
+            "Music Education",
+            "Physical Education",
+            "Physics",
+            "Preschool Education",
+            "Primary Education",
+            "Secondary Education",
+            "Teacher Training",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "School : Graduate Studies",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Adult Education",
+            "Biology",
+            "Business Administration",
+            "Communication Arts",
+            "Education",
+            "Educational Technology",
+            "Health Administration",
+            "International Business",
+            "Leadership",
+            "Literacy Education",
+            "Mathematics Education",
+            "Nursing",
+            "Nutrition",
+            "Physical Therapy",
+            "Preschool Education",
+            "Primary Education",
+            "Secondary Education",
+            "Sports Management"
+          ]
+        },
+        {
+          "name": "School : Mathematics, Science and Engineering",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Environmental Management",
+            "Environmental Studies",
+            "Mathematics",
+            "Meteorology",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "School : Media and Design",
+          "fields": [
+            "Communication Arts",
+            "Computer Graphics",
+            "Fashion Design",
+            "Graphic Arts",
+            "Interior Design"
+          ]
+        },
+        {
+          "name": "School : Nursing",
+          "fields": [
+            "Nursing",
+            "Physical Therapy",
+            "Rehabilitation and Therapy"
+          ]
+        },
+        {
+          "name": "School : Optometry",
+          "fields": [
+            "Optometry"
+          ]
+        },
+        {
+          "name": "School : Osteopathic Medicine",
+          "fields": [
+            "Osteopathy"
+          ]
+        },
+        {
+          "name": "School : Pharmacy",
+          "fields": [
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "School : Physical Therapy",
+          "fields": [
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "School : Professional Studies",
+          "fields": [
+            "Administration",
+            "Business Administration",
+            "Criminal Law",
+            "Education",
+            "Health Sciences",
+            "Human Resources",
+            "Leadership",
+            "Management",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Unit : Virtual University",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Banking",
+            "Business Administration",
+            "Communication Arts",
+            "Criminal Law",
+            "Finance",
+            "Health Administration",
+            "Human Resources",
+            "Information Technology",
+            "Management",
+            "Marketing",
+            "Psychology",
+            "Religious Studies"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Associate Degree",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Adult Education",
+            "Art Education",
+            "Art History",
+            "Banking",
+            "Biological and Life Sciences",
+            "Biology",
+            "Business Administration",
+            "Ceramic Art",
+            "Chemistry",
+            "Communication Arts",
+            "Computer Graphics",
+            "Criminal Law",
+            "Cultural Studies",
+            "Economic and Finance Policy",
+            "Economics",
+            "Education",
+            "Educational Technology",
+            "Engineering",
+            "English",
+            "Environmental Management",
+            "Environmental Studies",
+            "Fashion Design",
+            "Finance",
+            "Fine Arts",
+            "Foreign Languages Education",
+            "Graphic Arts",
+            "Health Administration",
+            "Health Sciences",
+            "Higher Education",
+            "History",
+            "Human Resources",
+            "Information Technology",
+            "Interior Design",
+            "International and Comparative Education",
+            "International Business",
+            "International Studies",
+            "Leadership",
+            "Literacy Education",
+            "Management",
+            "Marketing",
+            "Mathematics",
+            "Mathematics Education",
+            "Meteorology",
+            "Music",
+            "Music Education",
+            "Nursing",
+            "Nutrition",
+            "Optometry",
+            "Osteopathy",
+            "Painting and Drawing",
+            "Peace and Disarmament",
+            "Pharmacy",
+            "Philosophy",
+            "Photography",
+            "Physical Education",
+            "Physical Therapy",
+            "Physics",
+            "Political Sciences",
+            "Preschool Education",
+            "Primary Education",
+            "Printing and Printmaking",
+            "Psychology",
+            "Rehabilitation and Therapy",
+            "Religious Studies",
+            "Sculpture",
+            "Secondary Education",
+            "Sociology",
+            "Spanish",
+            "Sports Management",
+            "Statistics",
+            "Teacher Training",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Adult Education",
+            "Art Education",
+            "Art History",
+            "Banking",
+            "Biological and Life Sciences",
+            "Biology",
+            "Business Administration",
+            "Ceramic Art",
+            "Chemistry",
+            "Communication Arts",
+            "Computer Graphics",
+            "Criminal Law",
+            "Cultural Studies",
+            "Economic and Finance Policy",
+            "Economics",
+            "Education",
+            "Educational Technology",
+            "Engineering",
+            "English",
+            "Environmental Management",
+            "Environmental Studies",
+            "Fashion Design",
+            "Finance",
+            "Fine Arts",
+            "Foreign Languages Education",
+            "Graphic Arts",
+            "Health Administration",
+            "Health Sciences",
+            "Higher Education",
+            "History",
+            "Human Resources",
+            "Information Technology",
+            "Interior Design",
+            "International and Comparative Education",
+            "International Business",
+            "International Studies",
+            "Leadership",
+            "Literacy Education",
+            "Management",
+            "Marketing",
+            "Mathematics",
+            "Mathematics Education",
+            "Meteorology",
+            "Music",
+            "Music Education",
+            "Nursing",
+            "Nutrition",
+            "Optometry",
+            "Osteopathy",
+            "Painting and Drawing",
+            "Peace and Disarmament",
+            "Pharmacy",
+            "Philosophy",
+            "Photography",
+            "Physical Education",
+            "Physical Therapy",
+            "Physics",
+            "Political Sciences",
+            "Preschool Education",
+            "Primary Education",
+            "Printing and Printmaking",
+            "Psychology",
+            "Rehabilitation and Therapy",
+            "Religious Studies",
+            "Sculpture",
+            "Secondary Education",
+            "Sociology",
+            "Spanish",
+            "Sports Management",
+            "Statistics",
+            "Teacher Training",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Administration",
+            "Biomedicine",
+            "Business Administration",
+            "Communication Arts",
+            "Computer Science",
+            "Criminology",
+            "Data Science",
+            "Justice Administration",
+            "Leadership",
+            "Nursing",
+            "Nutrition",
+            "Pharmacy",
+            "Public Health",
+            "Sports",
+            "Sports Management",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Doctor's Degrees (Professional Practice)",
+          "fields": [
+            "Business Administration",
+            "Nursing",
+            "Occupational Therapy",
+            "Osteopathy",
+            "Pharmacy",
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "Doctor's Degree (Research/Scholarship)",
+          "fields": [
+            "Education",
+            "Natural Sciences"
+          ]
+        }
+      ],
+      "accreditation": "Southern Association of Colleges and Schools Commission on Colleges",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Thomas M. Evans"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Marcos Fragoso"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2021-2022",
+        "Staff Full Time Total:": "739",
+        "Students Statistics Year:": "2021-2022",
+        "Students Total:": "7508"
+      },
+      "history": "Founded 1881 as Normal School, acquired present status 1904 and title 1996. A private institution affiliated with the Roman Catholic Church (Sisters of Charity of the Incarnate Word)",
+      "periodicals": [
+        "Research Compilation of Faculty Scholarship The Loqos The Word",
+        "Research Compilation of Faculty Scholarship",
+        "The Loqos",
+        "The Word"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "29886",
+      "iau_id": "IAU-029278-029886",
+      "name": "Chamberlain University – Chamberlain University-Texas San Antonio Campus",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0RYLiM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-029278-029886",
+      "address": {
+        "Street": "Infomart, 1950 N Stemmons Fwy1950 N. Stemmons Freeway, Suite 4080",
+        "City": "Dallas",
+        "Province": "Texas",
+        "Post Code": "75207",
+        "WWW": "https://www.wadecollege.edu"
+      },
+      "website": "https://www.wadecollege.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1962,
+      "type": null,
+      "funding": "Private-for-profit",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Design",
+          "fields": [
+            "Fashion Design",
+            "Interior Design"
+          ]
+        },
+        {
+          "name": "Course/Programme : Merchandise Marketing & Management",
+          "fields": [
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Course/Programme : Visual Communications",
+          "fields": [
+            "Communication Studies",
+            "Visual Arts"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Associate Degree",
+          "fields": [
+            "Communication Studies",
+            "Fashion Design",
+            "Interior Design",
+            "Management",
+            "Marketing",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Communication Studies",
+            "Fashion Design",
+            "Interior Design",
+            "Management",
+            "Marketing",
+            "Visual Arts"
+          ]
+        }
+      ],
+      "accreditation": "Southern Association of Colleges and Schools Commission on Colleges",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Harry Davros"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Jennifer Magee"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2021-2022",
+        "Staff Full Time Total:": "16",
+        "Students Statistics Year:": "2021-2022",
+        "Students Total:": "216"
+      },
+      "history": "Founded 1962",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "29397",
+      "iau_id": "IAU-003074-029397",
+      "name": "Columbia College – Columbia College-Fort Worth",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0RTLjM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003074-029397",
+      "address": {
+        "Street": "1900 West Seventh Street",
+        "City": "Plainview",
+        "Province": "Texas",
+        "Post Code": "79072",
+        "WWW": "https://www.wbu.edu"
+      },
+      "website": "https://www.wbu.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1908,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "August to May (August-December; January-May). Also Summer Session (May-August)",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "School : Behavioural and Social Sciences",
+          "fields": [
+            "History",
+            "Law",
+            "Political Sciences",
+            "Psychology",
+            "Social Problems",
+            "Social Sciences",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "School : Business",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Economics",
+            "Finance",
+            "Health Administration",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "School : Christian Studies",
+          "fields": [
+            "Philosophy",
+            "Religion"
+          ]
+        },
+        {
+          "name": "School : Creative Arts",
+          "fields": [
+            "Communication Studies",
+            "Media Studies",
+            "Music",
+            "Musical Instruments",
+            "Opera",
+            "Religious Music",
+            "Theatre",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "School : Education",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "School : Languages and Literature",
+          "fields": [
+            "English",
+            "Literature",
+            "Spanish"
+          ]
+        },
+        {
+          "name": "School : Mathematics and Sciences",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Environmental Studies",
+            "Geology",
+            "Mathematics"
+          ]
+        },
+        {
+          "name": "School : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Biology",
+            "Business Administration",
+            "Chemistry",
+            "Communication Studies",
+            "Economics",
+            "Education",
+            "English",
+            "Environmental Studies",
+            "Finance",
+            "Geology",
+            "Health Administration",
+            "History",
+            "Law",
+            "Literature",
+            "Management",
+            "Marketing",
+            "Mathematics",
+            "Media Studies",
+            "Music",
+            "Musical Instruments",
+            "Nursing",
+            "Opera",
+            "Philosophy",
+            "Political Sciences",
+            "Psychology",
+            "Religion",
+            "Religious Music",
+            "Social Problems",
+            "Social Sciences",
+            "Sociology",
+            "Spanish",
+            "Theatre",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Arts and Humanities",
+            "Business Administration",
+            "Christian Religious Studies",
+            "Education",
+            "Educational Psychology",
+            "English",
+            "History",
+            "Law",
+            "Leadership",
+            "Management",
+            "Psychology",
+            "Public Administration",
+            "Secondary Education",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Doctor's Degree (Research/Scholarship)",
+          "fields": [
+            "Management"
+          ]
+        }
+      ],
+      "accreditation": "Southern Association of Colleges and Schools Commission on Colleges",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Bobby Hall"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Cindy McClenagan"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2021-2022",
+        "Staff Full Time Total:": "329",
+        "Students Statistics Year:": "2021-2022",
+        "Students Total:": "3508"
+      },
+      "history": "Founded 1908 as Wayland Literary and Technical Institution, acquired present title 1917. A private institution affiliated with the Southern Baptist Convention",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "29396",
+      "iau_id": "IAU-003074-029396",
+      "name": "Columbia College – Columbia College-Mesquite",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0RTLjM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003074-029396",
+      "address": {
+        "Street": "225 College Park Drive",
+        "City": "Weatherford",
+        "Province": "Texas",
+        "Post Code": "76086",
+        "WWW": "https://www.wc.edu"
+      },
+      "website": "https://www.wc.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1869,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Agriculture",
+          "fields": [
+            "Agriculture"
+          ]
+        },
+        {
+          "name": "Course/Programme : Chemistry",
+          "fields": [
+            "Chemistry",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Course/Programme : Computer Science",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Course/Programme : Criminal Justice",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Course/Programme : Education",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Course/Programme : Health Sciences",
+          "fields": [
+            "Health Sciences"
+          ]
+        },
+        {
+          "name": "Course/Programme : Psychology",
+          "fields": [
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Radiologic Technology",
+          "fields": [
+            "Radiology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Respiratory Care",
+          "fields": [
+            "Respiratory Therapy"
+          ]
+        },
+        {
+          "name": "Course/Programme : Theater",
+          "fields": [
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Course/Programme : Veterinary Technology",
+          "fields": [
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Course/Programme : Visual Arts",
+          "fields": [
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Course/Programme : Vocal Studies",
+          "fields": [
+            "Music"
+          ]
+        },
+        {
+          "name": "Course/Programme : Web Development",
+          "fields": [
+            "Computer Science"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Associate Degree",
+          "fields": [
+            "Health Administration",
+            "Leadership",
+            "Nursing",
+            "Preschool Education"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Health Administration",
+            "Leadership",
+            "Nursing",
+            "Preschool Education"
+          ]
+        }
+      ],
+      "accreditation": "Southern Association of Colleges and Schools Commission on Colleges",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Tod Allen Farmer"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1869",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "3127",
+      "iau_id": "IAU-003127",
+      "name": "Concordia University-Texas",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sUyRSLVBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003127",
+      "address": {
+        "Street": "2323 North Central Expressway",
+        "City": "Richardson",
+        "Province": "Texas",
+        "Post Code": "75080",
+        "WWW": "https://westcoastuniversity.edu"
+      },
+      "website": "https://westcoastuniversity.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private-for-profit",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : Los Angeles",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Campus : Miami",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Campus : Ontario",
+          "fields": [
+            "Dental Hygiene",
+            "Nursing",
+            "Occupational Therapy",
+            "Pharmacy",
+            "Physical Therapy",
+            "Public Health",
+            "Speech Therapy and Audiology"
+          ]
+        },
+        {
+          "name": "Campus : Orange County",
+          "fields": [
+            "Clinical Psychology",
+            "Dental Hygiene",
+            "Medical Auxiliaries",
+            "Nursing",
+            "Occupational Therapy",
+            "Pharmacy",
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "Course/Programme : Healthcare & Business Programs",
+          "fields": [
+            "Business Administration",
+            "Health Administration",
+            "Medical Auxiliaries",
+            "Nursing",
+            "Public Health"
+          ]
+        },
+        {
+          "name": "Course/Programme : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Business Administration",
+            "Dental Hygiene",
+            "Health Administration",
+            "Nursing",
+            "Public Health"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Business Administration",
+            "Clinical Psychology",
+            "Health Administration",
+            "Medical Auxiliaries",
+            "Nursing",
+            "Occupational Therapy",
+            "Public Health",
+            "Speech Therapy and Audiology"
+          ]
+        },
+        {
+          "name": "Doctor's Degrees (Professional Practice)",
+          "fields": [
+            "Nursing",
+            "Occupational Therapy",
+            "Pharmacy",
+            "Physical Therapy"
+          ]
+        }
+      ],
+      "accreditation": "WASC Senior College and University Commission",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Timothy Lee"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2022-2023",
+        "Staff Full Time Total:": "123",
+        "Students Statistics Year:": "2022-2023",
+        "Students Total:": "1468"
+      },
+      "history": "Founded, 2012. West Coast University -Texas created 2012.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "29407",
+      "iau_id": "IAU-029407",
+      "name": "Criswell College",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0RULCM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-029407",
+      "address": {
+        "Street": "2501 Fourth Avenue",
+        "City": "Canyon",
+        "Province": "Texas",
+        "Post Code": "79016",
+        "WWW": "https://www.wtamu.edu"
+      },
+      "website": "https://www.wtamu.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1909,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to May (September-December; January-May). Also Summer Session (June-August)",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "College : Agriculture & Natural Sciences",
+          "fields": [
+            "Agriculture",
+            "Biological and Life Sciences",
+            "Chemistry",
+            "Computer Science",
+            "Earth Sciences",
+            "Engineering",
+            "Environmental Studies",
+            "Mathematics",
+            "Physics"
+          ]
+        },
+        {
+          "name": "College : Business",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Economics",
+            "Finance",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "College : Education and Social Sciences",
+          "fields": [
+            "Criminal Law",
+            "Education",
+            "Political Sciences",
+            "Psychology",
+            "Social Work",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "College : Engineering",
+          "fields": [
+            "Engineering"
+          ]
+        },
+        {
+          "name": "College : Fine Arts and Humanities",
+          "fields": [
+            "Art Education",
+            "Communication Studies",
+            "Dance",
+            "English",
+            "History",
+            "Modern Languages",
+            "Music",
+            "Philosophy",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "College : Nursing and Health Sciences",
+          "fields": [
+            "Communication Disorders",
+            "Nursing",
+            "Physical Education",
+            "Sports"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Agricultural Business",
+            "Agriculture",
+            "Agronomy",
+            "Animal Husbandry",
+            "Arts and Humanities",
+            "Biological and Life Sciences",
+            "Business Administration",
+            "Chemistry",
+            "Communication Disorders",
+            "Communication Studies",
+            "Computer Science",
+            "Criminal Law",
+            "Dance",
+            "Engineering",
+            "English",
+            "Environmental Studies",
+            "Finance",
+            "Fine Arts",
+            "Health Administration",
+            "Health Sciences",
+            "History",
+            "Information Technology",
+            "Journalism",
+            "Management",
+            "Marketing",
+            "Mathematics",
+            "Media Studies",
+            "Music",
+            "Nursing",
+            "Performing Arts",
+            "Physical Education",
+            "Physics",
+            "Political Sciences",
+            "Psychology",
+            "Public Administration",
+            "Social Sciences",
+            "Social Work",
+            "Sociology",
+            "Spanish",
+            "Theatre",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Accountancy",
+            "Agriculture",
+            "Agronomy",
+            "Animal Husbandry",
+            "Biological and Life Sciences",
+            "Business Administration",
+            "Communication Disorders",
+            "Communication Studies",
+            "Computer Science",
+            "Criminal Law",
+            "Education",
+            "Educational Psychology",
+            "Engineering",
+            "English",
+            "Finance",
+            "Fine Arts",
+            "Health Administration",
+            "History",
+            "Information Technology",
+            "Management",
+            "Marketing",
+            "Mathematics",
+            "Music",
+            "Nursing",
+            "Physical Education",
+            "Psychology",
+            "Social Work",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Doctor's Degrees (Professional Practice)",
+          "fields": [
+            "Education",
+            "Leadership"
+          ]
+        },
+        {
+          "name": "Doctor's Degree (Research/Scholarship)",
+          "fields": [
+            "Agriculture"
+          ]
+        }
+      ],
+      "accreditation": "Southern Association of Colleges and Schools Commission on Colleges",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Walter V. Wendler"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Neil Terry"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2021-2022",
+        "Staff Full Time Total:": "425",
+        "Students Statistics Year:": "2021-2022",
+        "Students Total:": "9602"
+      },
+      "history": "Founded 1909 as West Texas State Normal College, acquired present title 1993",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "3515",
+      "iau_id": "IAU-003515",
+      "name": "Dallas Baptist University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sUzRRLTBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003515",
+      "address": {
+        "Street": "711 Wiley Avenue",
+        "City": "Marshall",
+        "Province": "Texas",
+        "Post Code": "75670-5199",
+        "WWW": "https://www.wileyc.edu"
+      },
+      "website": "https://www.wileyc.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1873,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Arts and Sciences",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Criminal Law",
+            "English",
+            "Mass Communication",
+            "Mathematics",
+            "Music",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Department/Division : Business and Technology",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Hotel Management",
+            "Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Education",
+          "fields": [
+            "Biology",
+            "English",
+            "History",
+            "Literacy Education",
+            "Mathematics",
+            "Modern Languages",
+            "Music Education",
+            "Physical Education",
+            "Primary Education",
+            "Secondary Education",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Department/Division : General Education and Special Studies",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Institute : Criminal Justice",
+          "fields": [
+            "Criminal Law"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Associate Degree",
+          "fields": [
+            "Accountancy",
+            "Biology",
+            "Business Administration",
+            "Chemistry",
+            "Criminal Law",
+            "Education",
+            "English",
+            "History",
+            "Hotel Management",
+            "Literacy Education",
+            "Management",
+            "Mass Communication",
+            "Mathematics",
+            "Modern Languages",
+            "Music",
+            "Music Education",
+            "Physical Education",
+            "Primary Education",
+            "Secondary Education",
+            "Sociology",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Biology",
+            "Business Administration",
+            "Chemistry",
+            "Criminal Law",
+            "Education",
+            "English",
+            "History",
+            "Hotel Management",
+            "Literacy Education",
+            "Management",
+            "Mass Communication",
+            "Mathematics",
+            "Modern Languages",
+            "Music",
+            "Music Education",
+            "Physical Education",
+            "Primary Education",
+            "Secondary Education",
+            "Sociology",
+            "Teacher Training"
+          ]
+        }
+      ],
+      "accreditation": "Southern Association of Colleges and Schools Commission on Colleges",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Herman J. Felton"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Howard O. Gibson"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2021-2022",
+        "Staff Full Time Total:": "51",
+        "Students Statistics Year:": "2021-2022",
+        "Students Total:": "665"
+      },
+      "history": "Founded 1873",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "3516",
+      "iau_id": "IAU-003516",
+      "name": "Dallas Christian College",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sUzRRLUBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003516",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "29841",
+      "iau_id": "IAU-003701-029841",
+      "name": "DeVry University Illinois – DeVry University San Antonio",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0RYLSMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003701-029841",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "29409",
+      "iau_id": "IAU-003701-029409",
+      "name": "DeVry University Illinois – DeVry University-Irving",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0RULCNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003701-029409",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "3950",
+      "iau_id": "IAU-003950",
+      "name": "East Texas Baptist University",
+      "alt_name": "(ETBU)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sU0RVLGBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003950",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "29428",
+      "iau_id": "IAU-004374-029428",
+      "name": "ECPI University – ECPI University-San Antonio",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0RULENAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004374-029428",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "29429",
+      "iau_id": "IAU-029429",
+      "name": "Galen College of Nursing-San Antonio",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0RULENEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-029429",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "29430",
+      "iau_id": "IAU-029430",
+      "name": "Gemini School of Visual Arts & Communication",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0RULFNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-029430",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "23166",
+      "iau_id": "IAU-023166",
+      "name": "Hallmark University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyxRLUM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-023166",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "7017",
+      "iau_id": "IAU-007017",
+      "name": "Hardin-Simmons University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tU2BRLVBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007017",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "7578",
+      "iau_id": "IAU-007578",
+      "name": "Houston Christian University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tUzRXLmBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007578",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "7579",
+      "iau_id": "IAU-007579",
+      "name": "Howard Payne University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tUzRXLjBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007579",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "7659",
+      "iau_id": "IAU-007659",
+      "name": "Huston-Tillotson University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tUzhVLjBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007659",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "9871",
+      "iau_id": "IAU-009871",
+      "name": "Jarvis Christian University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uM0BXLDBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009871",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "10820",
+      "iau_id": "IAU-010820",
+      "name": "Lamar University",
+      "alt_name": "(LU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM2BYLENgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-010820",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "10918",
+      "iau_id": "IAU-010918",
+      "name": "LeTourneau University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM2BZLDNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-010918",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "11059",
+      "iau_id": "IAU-011059",
+      "name": "Lubbock Christian University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyRQLTNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-011059",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "11500",
+      "iau_id": "IAU-011500",
+      "name": "McMurry University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyRVLCNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-011500",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "11654",
+      "iau_id": "IAU-011654",
+      "name": "Midland College",
+      "alt_name": "(MC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyRWLTMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-011654",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "11662",
+      "iau_id": "IAU-011662",
+      "name": "Midwestern State University",
+      "alt_name": "(MSU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyRWLUMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-011662",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "22323",
+      "iau_id": "IAU-022323",
+      "name": "North American University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyhTLEMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-022323",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "13217",
+      "iau_id": "IAU-013217",
+      "name": "Our Lady of the Lake University",
+      "alt_name": "(OLLU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyxSLDM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-013217",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "13386",
+      "iau_id": "IAU-013386",
+      "name": "Parker University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyxTLiM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-013386",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "13402",
+      "iau_id": "IAU-013402",
+      "name": "Paul Quinn College",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyxULCMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-013402",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "13708",
+      "iau_id": "IAU-013708",
+      "name": "Prairie View A&M University",
+      "alt_name": "(PVAMU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyxXLCNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-013708",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "29420",
+      "iau_id": "IAU-029143-029420",
+      "name": "Relay Graduate School of Education – Relay Graduate School of Education-Dallas-Fort Worth",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0RULENgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-029143-029420",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "29419",
+      "iau_id": "IAU-029143-029419",
+      "name": "Relay Graduate School of Education – Relay Graduate School of Education-Houston",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0RULDNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-029143-029419",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "29421",
+      "iau_id": "IAU-029143-029421",
+      "name": "Relay Graduate School of Education – Relay Graduate School of Education-San Antonio",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0RULEMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-029143-029421",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "29423",
+      "iau_id": "IAU-029423",
+      "name": "Remington College-Dallas Campus",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0RULEMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-029423",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "13992",
+      "iau_id": "IAU-013992",
+      "name": "Rice University",
+      "alt_name": "William Marsh Rice University",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyxZLjMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-013992",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "14214",
+      "iau_id": "IAU-014214",
+      "name": "Saint Edward's University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzBSLDMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-014214",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "14346",
+      "iau_id": "IAU-014346",
+      "name": "Sam Houston State University",
+      "alt_name": "(SHSU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzBTLSM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-014346",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "14571",
+      "iau_id": "IAU-014571",
+      "name": "Schreiner University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzBVLVMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-014571",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "15573",
+      "iau_id": "IAU-015573",
+      "name": "South Texas College",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzRVLVMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-015573",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "15574",
+      "iau_id": "IAU-015574",
+      "name": "South Texas College of Law Houston",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzRVLVMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-015574",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "15620",
+      "iau_id": "IAU-015620",
+      "name": "Southern Methodist University",
+      "alt_name": "(SMU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzRWLENgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-015620",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "29424",
+      "iau_id": "IAU-029424",
+      "name": "Southwest University at El Paso",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0RULEMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-029424",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "15660",
+      "iau_id": "IAU-015660",
+      "name": "Southwestern Adventist University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzRWLUNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-015660",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "15661",
+      "iau_id": "IAU-015661",
+      "name": "Southwestern Assemblies of God University",
+      "alt_name": "(SAGU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzRWLUMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-015661",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "15672",
+      "iau_id": "IAU-015672",
+      "name": "Southwestern University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzRWLVMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-015672",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "14273",
+      "iau_id": "IAU-014273",
+      "name": "St Mary's University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzBSLVMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-014273",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "15863",
+      "iau_id": "IAU-015863",
+      "name": "Stephen F. Austin State University",
+      "alt_name": "(SFA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzRYLUMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-015863",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "29862",
+      "iau_id": "IAU-015899-029862",
+      "name": "Strayer University – Strayer University-Cedar Hill Campus",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0RYLUMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-015899-029862",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "29422",
+      "iau_id": "IAU-015899-029422",
+      "name": "Strayer University – Strayer University-North Dallas Campus",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0RULEMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-015899-029422",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "15930",
+      "iau_id": "IAU-015930",
+      "name": "Sul Ross State University",
+      "alt_name": "(SRSU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzRZLFNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-015930",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "16024",
+      "iau_id": "IAU-016024",
+      "name": "Swiss School of Management",
+      "alt_name": "(SSM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhQLEMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016024",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "16162",
+      "iau_id": "IAU-016162",
+      "name": "Tarleton State University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhRLUMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016162",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "16342",
+      "iau_id": "IAU-016342",
+      "name": "Texas A&M International University",
+      "alt_name": "(TAMIU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhTLSMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016342",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "16343",
+      "iau_id": "IAU-016343",
+      "name": "Texas A&M University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhTLSMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016343",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "16345",
+      "iau_id": "IAU-016345",
+      "name": "Texas A&M University Health Science Center",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhTLSM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016345",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "29364",
+      "iau_id": "IAU-029364",
+      "name": "Texas A&M University-Central Texas",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0RTLUMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-029364",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "16346",
+      "iau_id": "IAU-016346",
+      "name": "Texas A&M University-Commerce",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhTLSM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016346",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "16347",
+      "iau_id": "IAU-016347",
+      "name": "Texas A&M University-Corpus Christi",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhTLSM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016347",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "16348",
+      "iau_id": "IAU-016348",
+      "name": "Texas A&M University-Kingsville",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhTLSNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016348",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "29371",
+      "iau_id": "IAU-029371",
+      "name": "Texas A&M University-San Antonio",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0RTLVMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-029371",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "16349",
+      "iau_id": "IAU-016349",
+      "name": "Texas A&M University-Texarkana",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhTLSNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016349",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "16350",
+      "iau_id": "IAU-016350",
+      "name": "Texas Chiropractic College",
+      "alt_name": "(TCC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhTLTNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016350",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "16351",
+      "iau_id": "IAU-016351",
+      "name": "Texas Christian University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhTLTMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016351",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "16352",
+      "iau_id": "IAU-016352",
+      "name": "Texas College",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhTLTMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016352",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "16354",
+      "iau_id": "IAU-016354",
+      "name": "Texas Lutheran University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhTLTMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016354",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "16355",
+      "iau_id": "IAU-016355",
+      "name": "Texas Southern University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhTLTM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016355",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "16356",
+      "iau_id": "IAU-016356",
+      "name": "Texas State University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhTLTM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016356",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "16357",
+      "iau_id": "IAU-016357",
+      "name": "Texas Tech University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhTLTM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016357",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "16358",
+      "iau_id": "IAU-016358",
+      "name": "Texas Tech University Health Sciences Center",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhTLTNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016358",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "29381",
+      "iau_id": "IAU-029381",
+      "name": "Texas Tech University Health Sciences Center El Paso",
+      "alt_name": "(TTUHSC El Paso)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0RTLiMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-029381",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "16360",
+      "iau_id": "IAU-016360",
+      "name": "Texas Wesleyan University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhTLUNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016360",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "16361",
+      "iau_id": "IAU-016361",
+      "name": "Texas Woman's University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhTLUMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016361",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "29395",
+      "iau_id": "IAU-028650-029395",
+      "name": "The Chicago School of Professional Psychology at Los Angeles – Chicago School of Professional Psychology at Dallas",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0RTLjM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-028650-029395",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "29431",
+      "iau_id": "IAU-029431",
+      "name": "The College of Health Care Professions-Northwest",
+      "alt_name": "(CHCP Houston Northwest)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0RULFMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-029431",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "16601",
+      "iau_id": "IAU-016601",
+      "name": "The University of Texas at Arlington",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhWLCMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016601",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "16602",
+      "iau_id": "IAU-016602",
+      "name": "The University of Texas at Austin",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhWLCMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016602",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "16604",
+      "iau_id": "IAU-016604",
+      "name": "The University of Texas at Dallas",
+      "alt_name": "(UT Dallas)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhWLCMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016604",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "16605",
+      "iau_id": "IAU-016605",
+      "name": "The University of Texas at El Paso",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhWLCM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016605",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "16606",
+      "iau_id": "IAU-016606",
+      "name": "The University of Texas at San Antonio",
+      "alt_name": "(UTSA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhWLCM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016606",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "16607",
+      "iau_id": "IAU-016607",
+      "name": "The University of Texas at Tyler",
+      "alt_name": "(UTTYLER)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhWLCM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016607",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "16608",
+      "iau_id": "IAU-016608",
+      "name": "The University of Texas Health Science Center at Houston",
+      "alt_name": "(UTHealth Houston)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhWLCNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016608",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "16609",
+      "iau_id": "IAU-016609",
+      "name": "The University of Texas Health Science Center at San Antonio",
+      "alt_name": "(UT Health San Antonio)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhWLCNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016609",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "24463",
+      "iau_id": "IAU-024463",
+      "name": "The University of Texas MD Anderson Cancer Center",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBULUMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024463",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "16610",
+      "iau_id": "IAU-016610",
+      "name": "The University of Texas Medical Branch at Galveston",
+      "alt_name": "(UTMB)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhWLDNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016610",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "16611",
+      "iau_id": "IAU-016611",
+      "name": "The University of Texas of the Permian Basin",
+      "alt_name": "(UTPB)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhWLDMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016611",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "16603",
+      "iau_id": "IAU-016603",
+      "name": "The University of Texas Rio Grande Valley",
+      "alt_name": "(UTRGV)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhWLCMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016603",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "16612",
+      "iau_id": "IAU-016612",
+      "name": "The University of Texas Southwestern Medical Center at Dallas",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhWLDMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016612",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "16854",
+      "iau_id": "IAU-016854",
+      "name": "Trinity University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhYLTMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016854",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "29387",
+      "iau_id": "IAU-029387",
+      "name": "Tyler Junior College",
+      "alt_name": "(TJC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0RTLiM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-029387",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "16568",
+      "iau_id": "IAU-016568",
+      "name": "University of Dallas",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhVLUNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016568",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "20184",
+      "iau_id": "IAU-020184",
+      "name": "University of Houston",
+      "alt_name": "(UH)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BRLiMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020184",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "20185",
+      "iau_id": "IAU-020185",
+      "name": "University of Houston-Clear Lake",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BRLiM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020185",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "20186",
+      "iau_id": "IAU-020186",
+      "name": "University of Houston-Downtown",
+      "alt_name": "(UHD)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BRLiM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020186",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "20187",
+      "iau_id": "IAU-020187",
+      "name": "University of Houston-Victoria",
+      "alt_name": "(UHV)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BRLiM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020187",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "20277",
+      "iau_id": "IAU-020277",
+      "name": "University of Mary Hardin-Baylor",
+      "alt_name": "(UMHB)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BSLVM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020277",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "20351",
+      "iau_id": "IAU-020351",
+      "name": "University of North Texas",
+      "alt_name": "(UNT)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BTLTMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020351",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "29388",
+      "iau_id": "IAU-029388",
+      "name": "University of North Texas at Dallas",
+      "alt_name": "(UNT Dallas)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0RTLiNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-029388",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "20352",
+      "iau_id": "IAU-020352",
+      "name": "University of North Texas Health Science Center at Fort Worth",
+      "alt_name": "(HSC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BTLTMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020352",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "20520",
+      "iau_id": "IAU-020520",
+      "name": "University of St. Thomas",
+      "alt_name": "(UST)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BVLENgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020520",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "20560",
+      "iau_id": "IAU-020560",
+      "name": "University of the Incarnate Word",
+      "alt_name": "(UIW)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BVLUNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020560",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "29432",
+      "iau_id": "IAU-029432",
+      "name": "Wade College",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0RULFMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-029432",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "21152",
+      "iau_id": "IAU-021152",
+      "name": "Wayland Baptist University",
+      "alt_name": "(WBU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyRRLTMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-021152",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "29389",
+      "iau_id": "IAU-029389",
+      "name": "Weatherford College",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0RTLiNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-029389",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "29636",
+      "iau_id": "IAU-029636",
+      "name": "West Coast University",
+      "alt_name": "(WCU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0RWLFM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-029636",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "21199",
+      "iau_id": "IAU-021199",
+      "name": "West Texas A&M University",
+      "alt_name": "(WTAMU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyRRLjNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-021199",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "21263",
+      "iau_id": "IAU-021263",
+      "name": "Wiley College",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyRSLUMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-021263",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    }
+  ]
+}

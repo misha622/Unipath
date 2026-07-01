@@ -1,0 +1,475 @@
+{
+  "country_name": "Brunei Darussalam",
+  "country_id": "Brunei Darussalam",
+  "institutions": [
+    {
+      "id": "8288",
+      "iau_id": "IAU-008288",
+      "name": "Brunei University of Technology",
+      "alt_name": "Universiti Teknologi Brunei (UTB)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uIyhYLmBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-008288",
+      "address": {
+        "Street": "Spg 347, Jalan Pasar Baharu, Gadong",
+        "City": "Bandar Seri Begawan",
+        "Province": "Negara Brunei Darussalam",
+        "Post Code": "BE1310",
+        "WWW": "https://unissa.edu.bn"
+      },
+      "website": "https://unissa.edu.bn",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2007,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Malay",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Madhhab Shafi’i Research Centre (MSRC)",
+          "fields": [
+            "Arabic"
+          ]
+        },
+        {
+          "name": "Centre : Postgraduate Studies and Research (CPSR)",
+          "fields": [
+            "Arabic"
+          ]
+        },
+        {
+          "name": "Centre : Promotion of Knowledge and Language Learning",
+          "fields": [
+            "Arabic"
+          ]
+        },
+        {
+          "name": "Centre : Research and Publication",
+          "fields": [
+            "Arabic"
+          ]
+        },
+        {
+          "name": "Centre : Technology and Multimedia",
+          "fields": [
+            "Arabic"
+          ]
+        },
+        {
+          "name": "Faculty : Arabic Language",
+          "fields": [
+            "Arabic"
+          ]
+        },
+        {
+          "name": "Faculty : Islamic Economics and Finance",
+          "fields": [
+            "Economics",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Faculty : Shariah and Law",
+          "fields": [
+            "Islamic Law"
+          ]
+        },
+        {
+          "name": "Faculty : Usuluddin",
+          "fields": [
+            "Islamic Studies"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Arabic",
+            "Business Administration",
+            "Finance",
+            "History",
+            "Islamic Law",
+            "Islamic Studies",
+            "Koran",
+            "Law",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Arabic",
+            "Economics",
+            "History",
+            "Islamic Law",
+            "Islamic Studies",
+            "Koran"
+          ]
+        },
+        {
+          "name": "PhD",
+          "fields": [
+            "Arabic",
+            "Banking",
+            "Economics",
+            "Finance",
+            "History",
+            "Islamic Law",
+            "Islamic Studies",
+            "Law"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education, Brunei Darussalam",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Haji Norarfan bin Haji Zainal"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Zalinawati binti Haji Mohaimin"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Arman bin Haji Asmad"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Haji Hambali bin Haji Jaili"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2016-2017",
+        "Staff Full Time Total:": "48",
+        "Students Statistics Year:": "2016-2017",
+        "Students Total:": "881"
+      },
+      "history": "Founded 2007",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "10478",
+      "iau_id": "IAU-010478",
+      "name": "Seri Begawan Religious Teachers University College",
+      "alt_name": "Kolej Universiti Perguruan Ugama Seri Begawan (KUPU SB)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM2BULVNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-010478",
+      "address": {
+        "Street": "Jalan Tungku Link",
+        "City": "Gadong",
+        "Post Code": "BE1410",
+        "WWW": "https://www.utb.edu.bn"
+      },
+      "website": "https://www.utb.edu.bn",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1986,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Malay",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Communication, Teaching and Learning (CCTL)",
+          "fields": [
+            "Communication Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Electrical and Electronic Engineering",
+            "Mechanical Engineering",
+            "Petroleum and Gas Engineering"
+          ]
+        },
+        {
+          "name": "School : Applied Sciences and Mathematics",
+          "fields": [
+            "Applied Mathematics",
+            "Economics",
+            "Food Science",
+            "Food Technology"
+          ]
+        },
+        {
+          "name": "School : Business",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Computing",
+            "Economics",
+            "Finance",
+            "Management",
+            "Marketing",
+            "Technology"
+          ]
+        },
+        {
+          "name": "School : Computing and Informatics",
+          "fields": [
+            "Computer Engineering",
+            "Computer Networks",
+            "Computer Science",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "School : Design",
+          "fields": [
+            "Architecture",
+            "Industrial Design"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Applied Mathematics",
+            "Architecture",
+            "Business Administration",
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Networks",
+            "Computer Science",
+            "Data Science",
+            "Economics",
+            "Electrical and Electronic Engineering",
+            "Electronic Engineering",
+            "Engineering Management",
+            "Finance",
+            "Food Science",
+            "Food Technology",
+            "Industrial Design",
+            "Information Management",
+            "Information Technology",
+            "Insurance",
+            "Management",
+            "Marketing",
+            "Mechanical Engineering",
+            "Media Studies",
+            "Multimedia",
+            "Petroleum and Gas Engineering",
+            "Structural Architecture"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Accountancy",
+            "Applied Mathematics",
+            "Banking",
+            "Business Computing",
+            "Computer Science",
+            "Economics",
+            "Electrical and Electronic Engineering",
+            "Engineering Management",
+            "Environmental Engineering",
+            "Finance",
+            "Food Science",
+            "Information Management",
+            "Information Technology",
+            "Management",
+            "Marketing",
+            "Mechanical Engineering",
+            "Petroleum and Gas Engineering"
+          ]
+        },
+        {
+          "name": "PhD",
+          "fields": [
+            "Accountancy",
+            "Applied Mathematics",
+            "Banking",
+            "Business Computing",
+            "Computer Engineering",
+            "Computer Science",
+            "Economics",
+            "Engineering",
+            "Engineering Management",
+            "Finance",
+            "Food Science",
+            "Food Technology",
+            "Information Technology",
+            "Management",
+            "Marketing",
+            "Technology"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education, Brunei Darussalam",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Dayang Hajah Zohrah Haji Sulaiman"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Dayang Siti Asmahlati Bolkini binti Haji Ahmad"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Wendy Pei Qin Ng"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1986 as Institut Teknologi Brunei (Brunei Institute of Technology). Acquired current title and status 2016",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "19916",
+      "iau_id": "IAU-019916",
+      "name": "University of Brunei Darussalam",
+      "alt_name": "Universiti Brunei Darussalam (UBD)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RZLDM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019916",
+      "address": {
+        "Street": "KM 2, Jalan Raja Isteri Pengiran Anak Saleha",
+        "City": "Bandar Seri Begawan",
+        "Post Code": "BA 2111",
+        "WWW": "http://www.kupu-sb.edu.bn"
+      },
+      "website": "http://www.kupu-sb.edu.bn",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2007,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Malay"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Core Knowledge",
+          "fields": [
+            "Education",
+            "Religious Education",
+            "Religious Studies"
+          ]
+        },
+        {
+          "name": "Centre : Language",
+          "fields": [
+            "Education",
+            "Religious Education",
+            "Religious Studies"
+          ]
+        },
+        {
+          "name": "Centre : Multimedia and Technology",
+          "fields": [
+            "Education",
+            "Religious Education",
+            "Religious Studies"
+          ]
+        },
+        {
+          "name": "Centre : Postgraduate Studies and Research",
+          "fields": [
+            "Education",
+            "Religious Education",
+            "Religious Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Education",
+            "Religious Education",
+            "Religious Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Shariah",
+          "fields": [
+            "Islamic Law",
+            "Religious Education",
+            "Religious Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Ushuluddin",
+          "fields": [
+            "Islamic Studies",
+            "Religious Education",
+            "Religious Studies"
+          ]
+        },
+        {
+          "name": "School : Fiqh Al-Usrah",
+          "fields": [
+            "Religious Education"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma/Certificate",
+          "fields": [
+            "Religious Education"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "History of Religion",
+            "Islamic Law",
+            "Islamic Theology",
+            "Religious Education",
+            "Religious Studies"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Religious Studies"
+          ]
+        },
+        {
+          "name": "PhD",
+          "fields": [
+            "Islamic Law",
+            "Islamic Studies",
+            "Islamic Theology",
+            "Native Language Education",
+            "Religious Education"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Religious Affairs (Kementerian Hal Ehwal Ugama)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Haji Adanan bin Haji Basar"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Pengiran Anak Haji Damit Baharuddin bin Pengiran Anak Safiuddin"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2007",
+      "periodicals": [],
+      "student_body": "co-ed"
+    }
+  ]
+}

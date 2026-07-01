@@ -1,0 +1,968 @@
+{
+  "country_name": "Iceland",
+  "country_id": "Iceland",
+  "institutions": [
+    {
+      "id": "10833",
+      "iau_id": "IAU-010833",
+      "name": "Agricultural University of Iceland",
+      "alt_name": "Landbúnaðarháskóli Íslands",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM2BYLFMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-010833",
+      "address": {
+        "Street": "Sæmundargötu 2",
+        "City": "Reykjavík",
+        "Post Code": "101",
+        "WWW": "https://www.hi.is"
+      },
+      "website": "https://www.hi.is",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "August to May",
+      "languages": [
+        "Icelandic"
+      ],
+      "faculties": [
+        {
+          "name": "School : Education",
+          "fields": [
+            "Art Education",
+            "Computer Education",
+            "Curriculum",
+            "Education",
+            "Educational Administration",
+            "Educational and Student Counselling",
+            "Educational Testing and Evaluation",
+            "Foreign Languages Education",
+            "Health Education",
+            "Higher Education",
+            "Humanities and Social Science Education",
+            "International and Comparative Education",
+            "Leisure Studies",
+            "Literacy Education",
+            "Native Language Education",
+            "Pedagogy",
+            "Preschool Education",
+            "Primary Education",
+            "Science Education",
+            "Secondary Education",
+            "Sports",
+            "Teacher Training",
+            "Vocational Education"
+          ]
+        },
+        {
+          "name": "School : Engineering and Natural Sciences",
+          "fields": [
+            "Applied Mathematics",
+            "Biochemistry",
+            "Bioengineering",
+            "Bioinformatics",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Earth Sciences",
+            "Electrical Engineering",
+            "Energy Engineering",
+            "Engineering",
+            "Environmental Engineering",
+            "Environmental Studies",
+            "Fishery",
+            "Geography",
+            "Geology",
+            "Geophysics",
+            "Industrial Engineering",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Molecular Biology",
+            "Natural Resources",
+            "Physics",
+            "Software Engineering",
+            "Statistics",
+            "Technology",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "School : Health Sciences",
+          "fields": [
+            "Biological and Life Sciences",
+            "Dental Technology",
+            "Dentistry",
+            "Food Science",
+            "Medicine",
+            "Midwifery",
+            "Nursing",
+            "Nutrition",
+            "Pharmacy",
+            "Physical Therapy",
+            "Psychology",
+            "Radiology"
+          ]
+        },
+        {
+          "name": "School : Humanities",
+          "fields": [
+            "Archaeology",
+            "Art History",
+            "Arts and Humanities",
+            "Chinese",
+            "Classical Languages",
+            "Comparative Literature",
+            "Cultural Studies",
+            "Danish",
+            "English",
+            "Film",
+            "Folklore",
+            "French",
+            "German",
+            "History",
+            "Icelandic",
+            "Italian",
+            "Japanese",
+            "Linguistics",
+            "Medieval Studies",
+            "Native Language Education",
+            "Nordic Studies",
+            "Philosophy",
+            "Religious Studies",
+            "Russian",
+            "Spanish",
+            "Theology"
+          ]
+        },
+        {
+          "name": "School : Social Sciences",
+          "fields": [
+            "Anthropology",
+            "Business Administration",
+            "Criminology",
+            "Economics",
+            "Education",
+            "Ethnology",
+            "Folklore",
+            "Information Sciences",
+            "Law",
+            "Library Science",
+            "Management",
+            "Media Studies",
+            "Political Sciences",
+            "Psychology",
+            "Social Sciences",
+            "Social Work",
+            "Sociology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakkalárpróf",
+          "fields": [
+            "Anthropology",
+            "Applied Mathematics",
+            "Archaeology",
+            "Art Education",
+            "Art History",
+            "Biochemistry",
+            "Biological and Life Sciences",
+            "Biology",
+            "Business Administration",
+            "Chemical Engineering",
+            "Chemistry",
+            "Chinese",
+            "Civil Engineering",
+            "Classical Languages",
+            "Comparative Literature",
+            "Computer Education",
+            "Computer Science",
+            "Dental Technology",
+            "Dentistry",
+            "Economics",
+            "Education",
+            "Electrical Engineering",
+            "English",
+            "Film",
+            "Folklore",
+            "Foreign Languages Education",
+            "French",
+            "Geography",
+            "Geology",
+            "Geophysics",
+            "German",
+            "Health Education",
+            "History",
+            "Humanities and Social Science Education",
+            "Icelandic",
+            "Industrial Engineering",
+            "Italian",
+            "Japanese",
+            "Law",
+            "Leisure Studies",
+            "Linguistics",
+            "Mathematics",
+            "Mathematics Education",
+            "Mechanical Engineering",
+            "Media Studies",
+            "Medicine",
+            "Molecular Biology",
+            "Museum Studies",
+            "Native Language Education",
+            "Nursing",
+            "Pharmacy",
+            "Philosophy",
+            "Physical Therapy",
+            "Physics",
+            "Political Sciences",
+            "Preschool Education",
+            "Primary Education",
+            "Psychology",
+            "Radiology",
+            "Russian",
+            "Science Education",
+            "Social Work",
+            "Sociology",
+            "Spanish",
+            "Sports",
+            "Theology",
+            "Tourism",
+            "Vocational Education"
+          ]
+        },
+        {
+          "name": "Viðbótarpróf á meistarastigi",
+          "fields": [
+            "Arctic Studies",
+            "Education",
+            "Educational Administration",
+            "Educational and Student Counselling",
+            "Health Education",
+            "Higher Education",
+            "Humanities and Social Science Education",
+            "International Studies",
+            "Literacy Education",
+            "Pedagogy"
+          ]
+        },
+        {
+          "name": "Meistarapróf",
+          "fields": [
+            "American Studies",
+            "Anthropology",
+            "Archaeology",
+            "Art Education",
+            "Biochemistry",
+            "Bioengineering",
+            "Bioinformatics",
+            "Biological and Life Sciences",
+            "Biology",
+            "Biotechnology",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civil Engineering",
+            "Computer Education",
+            "Computer Engineering",
+            "Computer Science",
+            "Criminology",
+            "Curriculum",
+            "Danish",
+            "Dentistry",
+            "Earth Sciences",
+            "Economics",
+            "Education",
+            "Educational Administration",
+            "Educational and Student Counselling",
+            "Educational Testing and Evaluation",
+            "Electrical Engineering",
+            "Energy Engineering",
+            "English",
+            "Environmental Engineering",
+            "Epidemiology",
+            "Fishery",
+            "Food Science",
+            "Foreign Languages Education",
+            "French",
+            "Geography",
+            "Geology",
+            "Geophysics",
+            "German",
+            "Gerontology",
+            "Health Education",
+            "Health Sciences",
+            "Humanities and Social Science Education",
+            "Industrial Engineering",
+            "International and Comparative Education",
+            "International Relations and Diplomacy",
+            "International Studies",
+            "Law",
+            "Leisure Studies",
+            "Literacy Education",
+            "Management",
+            "Mathematics",
+            "Mathematics Education",
+            "Mechanical Engineering",
+            "Media Studies",
+            "Medieval Studies",
+            "Midwifery",
+            "Native Language Education",
+            "Natural Resources",
+            "Nordic Studies",
+            "Nursing",
+            "Pedagogy",
+            "Pharmacy",
+            "Physical Therapy",
+            "Physics",
+            "Preschool Education",
+            "Primary Education",
+            "Psychology",
+            "Public Health",
+            "Radiology",
+            "Religious Studies",
+            "Science Education",
+            "Secondary Education",
+            "Social Work",
+            "Sociology",
+            "Software Engineering",
+            "Spanish",
+            "Speech Therapy and Audiology",
+            "Sports",
+            "Statistics",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Doktorspróf",
+          "fields": [
+            "Anthropology",
+            "Biochemistry",
+            "Bioengineering",
+            "Bioinformatics",
+            "Biology",
+            "Business Administration",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Danish",
+            "Dentistry",
+            "Development Studies",
+            "Earth Sciences",
+            "Economics",
+            "Education",
+            "Electrical Engineering",
+            "English",
+            "Environmental Engineering",
+            "Environmental Studies",
+            "Epidemiology",
+            "Folklore",
+            "Food Science",
+            "French",
+            "Gender Studies",
+            "Geography",
+            "Geology",
+            "Geophysics",
+            "Health Sciences",
+            "Industrial Engineering",
+            "Information Sciences",
+            "International Studies",
+            "Law",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Medicine",
+            "Midwifery",
+            "Museum Studies",
+            "Natural Resources",
+            "Nursing",
+            "Nutrition",
+            "Pharmacy",
+            "Physics",
+            "Political Sciences",
+            "Psychology",
+            "Public Administration",
+            "Public Health",
+            "Sociology",
+            "Software Engineering",
+            "Spanish",
+            "Statistics",
+            "Tourism"
+          ]
+        }
+      ],
+      "accreditation": "Minister of Higher Education, Science and Innovation",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Silja Bára R. Ómarsdóttir"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Anna Jóna Baldursdóttir"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Steinunn Gestsdóttir"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Friðrika Þóra Harðardóttir"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2016-2017",
+        "Staff Full Time Total:": "710",
+        "Students Statistics Year:": "2016-2017",
+        "Students Total:": "12992"
+      },
+      "history": "The University of Iceland was founded in 1911 and was formed by a merger of the Theological Seminary (est. 1847), the School of Medicine (est. 1876) and the School of Law (est. 1908), which each formed a faculty, in addition to the newly-established Faculty of Philosophy. Since its foundation the University of Iceland has developed from a professional school of four major programmes to a fully-fledged research university offering a variety of academic and professional programmes at undergraduate, Master’s and Doctoral levels. Through most of the 20th century University of Iceland was the only comprehensive HEI in Iceland, and served as a center of training, competence and consulting at most levels of Icelandic society. Being a national university and the only comprehensive international research university in Iceland, University of Iceland is still by far the largest higher education and research institution in the country with over 70% of all students in higher education.",
+      "periodicals": [
+        "Ársskýrla Háskóla Íslands",
+        "Ársskýrla Háskóla Íslands"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "7047",
+      "iau_id": "IAU-007047",
+      "name": "Bifröst University",
+      "alt_name": "Háskólinn á Bifröst",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tU2BULVBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007047",
+      "address": {
+        "Street": "Hvanneyri",
+        "City": "Borgarbyggð",
+        "Post Code": "311",
+        "WWW": "https://www.lbhi.is"
+      },
+      "website": "https://www.lbhi.is",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2005,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Icelandic"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Agricultural Sciences",
+          "fields": [
+            "Agriculture",
+            "Animal Husbandry"
+          ]
+        },
+        {
+          "name": "Faculty : Environmental and Forestry Sciences",
+          "fields": [
+            "Environmental Management",
+            "Environmental Studies",
+            "Forestry",
+            "Natural Resources"
+          ]
+        },
+        {
+          "name": "Faculty : Planning and Design",
+          "fields": [
+            "Landscape Architecture"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diplómapróf",
+          "fields": [
+            "Agricultural Education"
+          ]
+        },
+        {
+          "name": "Bakkalárpróf",
+          "fields": [
+            "Agriculture",
+            "Animal Husbandry",
+            "Environmental Management",
+            "Forestry",
+            "Landscape Architecture",
+            "Natural Resources"
+          ]
+        },
+        {
+          "name": "Meistarapróf",
+          "fields": [
+            "Agriculture",
+            "Animal Husbandry",
+            "Environmental Management",
+            "Forestry",
+            "Landscape Architecture",
+            "Natural Resources"
+          ]
+        },
+        {
+          "name": "Doktorspróf",
+          "fields": [
+            "Agriculture",
+            "Landscape Architecture"
+          ]
+        }
+      ],
+      "accreditation": "Minister of Higher Education, Science and Innovation",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ragnheiður I. Þórarinsdóttir"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Eva Hlín Afreðsdóttir"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2005",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "7519",
+      "iau_id": "IAU-007519",
+      "name": "Hólár University College",
+      "alt_name": "Hólaskóli - Háskólinn á Hólum",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tUzRRLjBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007519",
+      "address": {
+        "City": "Bifröst",
+        "Post Code": "311",
+        "WWW": "https://www.bifrost.is"
+      },
+      "website": "https://www.bifrost.is",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1918,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "September to May (September-December; January-May)",
+      "languages": [
+        "Icelandic",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Business",
+          "fields": [
+            "Banking",
+            "Business Administration",
+            "Finance",
+            "Human Resources",
+            "International Business",
+            "Leadership",
+            "Management",
+            "Marketing",
+            "Retailing and Wholesaling"
+          ]
+        },
+        {
+          "name": "Department/Division : Law",
+          "fields": [
+            "Commercial Law",
+            "Law"
+          ]
+        },
+        {
+          "name": "Department/Division : Social Science",
+          "fields": [
+            "Economics",
+            "European Studies",
+            "Management",
+            "Philosophy",
+            "Political Sciences",
+            "Public Administration",
+            "Public Relations"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakkalárpróf",
+          "fields": [
+            "Business Administration",
+            "Commercial Law",
+            "Political Sciences",
+            "Public Administration",
+            "Public Relations"
+          ]
+        },
+        {
+          "name": "Meistarapróf",
+          "fields": [
+            "Commercial Law",
+            "Law",
+            "Leadership",
+            "Management",
+            "Social Sciences"
+          ]
+        }
+      ],
+      "accreditation": "Minister of Higher Education, Science and Innovation",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ólína Kjerúlf Þorvarðardóttir"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Heiða Vigdís Sigfúsdóttir"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1918 as Samvinnuskólinn á Bifröst (Co-operative College of Iceland). Became Bifröst Business School in 1988. Acquired present status 1989 and present title 2006",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "11006",
+      "iau_id": "IAU-011006",
+      "name": "Iceland Academy of the Arts",
+      "alt_name": "Listaháskóli Íslands (LHI)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyRQLCM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-011006",
+      "address": {
+        "City": "Sauðárkrókur",
+        "Post Code": "551",
+        "WWW": "https://www.holar.is"
+      },
+      "website": "https://www.holar.is",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1882,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Icelandic"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Aquaculture and Fish Biology",
+          "fields": [
+            "Aquaculture",
+            "Marine Biology"
+          ]
+        },
+        {
+          "name": "Department/Division : Equine Science",
+          "fields": [
+            "Animal Husbandry",
+            "Zoology"
+          ]
+        },
+        {
+          "name": "Department/Division : Rural Tourism",
+          "fields": [
+            "Hotel Management",
+            "Parks and Recreation",
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diplómapróf",
+          "fields": [
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Bakkalárpróf",
+          "fields": [
+            "Hotel Management",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Meistarapróf",
+          "fields": [
+            "Marine Biology",
+            "Parks and Recreation",
+            "Tourism"
+          ]
+        }
+      ],
+      "accreditation": "Minister of Higher Education, Science and Innovation",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Hólmfríður Sveinsdóttir"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Edda Matthíasdóttir"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1882. Acquired present status 2003.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "7048",
+      "iau_id": "IAU-007048",
+      "name": "Reykjavík University",
+      "alt_name": "Háskólinn í Reykjavík (RU)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tU2BULmBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007048",
+      "address": {
+        "Street": "Skipholti 31",
+        "City": "Reykjavík",
+        "Post Code": "105",
+        "WWW": "https://www.lhi.is"
+      },
+      "website": "https://www.lhi.is",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1998,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "August to July",
+      "languages": [
+        "Icelandic"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Art Education",
+          "fields": [
+            "Art Education"
+          ]
+        },
+        {
+          "name": "Department/Division : Design and Architecture",
+          "fields": [
+            "Architecture",
+            "Design",
+            "Fashion Design",
+            "Graphic Design",
+            "Industrial Design",
+            "Textile Design"
+          ]
+        },
+        {
+          "name": "Department/Division : Fine Arts",
+          "fields": [
+            "Fine Arts",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Department/Division : Music",
+          "fields": [
+            "Music",
+            "Music Theory and Composition",
+            "Performing Arts",
+            "Religious Music"
+          ]
+        },
+        {
+          "name": "Department/Division : Theatre and Dance",
+          "fields": [
+            "Acting",
+            "Dance",
+            "Theatre"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakkalárpróf",
+          "fields": [
+            "Acting",
+            "Architecture",
+            "Dance",
+            "Design",
+            "Fashion Design",
+            "Film",
+            "Fine Arts",
+            "Music",
+            "Music Education",
+            "Music Theory and Composition",
+            "Musical Instruments",
+            "Religious Music",
+            "Theatre",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Meistarapróf",
+          "fields": [
+            "Architecture",
+            "Art Education",
+            "Art Management",
+            "Design",
+            "Fine Arts",
+            "Music Education",
+            "Music Theory and Composition",
+            "Performing Arts"
+          ]
+        }
+      ],
+      "accreditation": "Minister of Higher Education, Science and Innovation",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Fríða Björk Ingvarsdóttir"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Björg Stefánsdóttir"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1998 following the merger of Leiklistarskóli Íslands (Icelandic Drama School), Myndlista-og Handíðskóli Íslands (Icelandic College of Arts and Crafts).",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "7046",
+      "iau_id": "IAU-007046",
+      "name": "University of Akureyri",
+      "alt_name": "Háskólinn á Akureyri",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tU2BULUBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007046",
+      "address": {
+        "Street": "Menntavegur 1",
+        "City": "Reykjavík",
+        "Post Code": "102",
+        "WWW": "https://www.ru.is"
+      },
+      "website": "https://www.ru.is",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1998,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Icelandic",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "School : Social Sciences",
+          "fields": [
+            "Accountancy",
+            "Behavioural Sciences",
+            "Business and Commerce",
+            "Clinical Psychology",
+            "Economics",
+            "Finance",
+            "Human Resources",
+            "Industrial and Organizational Psychology",
+            "Law",
+            "Management",
+            "Marketing",
+            "Physical Education",
+            "Psychology",
+            "Sports",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "School : Technology",
+          "fields": [
+            "Artificial Intelligence",
+            "Bioinformatics",
+            "Biomedical Engineering",
+            "Computer Science",
+            "Data Science",
+            "Engineering",
+            "Engineering Management",
+            "Mathematics and Computer Science",
+            "Mechanical Engineering",
+            "Software Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakkalárpróf",
+          "fields": [
+            "Biomedical Engineering",
+            "Business Administration",
+            "Civil Engineering",
+            "Computer Science",
+            "Construction Engineering",
+            "Economics",
+            "Electrical Engineering",
+            "Engineering Management",
+            "Law",
+            "Mathematics and Computer Science",
+            "Mechanical Engineering",
+            "Psychology",
+            "Software Engineering",
+            "Sports"
+          ]
+        },
+        {
+          "name": "Meistarapróf",
+          "fields": [
+            "Accountancy",
+            "Artificial Intelligence",
+            "Behavioural Sciences",
+            "Biomedical Engineering",
+            "Clinical Psychology",
+            "Computer Science",
+            "Data Science",
+            "Electrical Engineering",
+            "Energy Engineering",
+            "Engineering Management",
+            "Entrepreneurship",
+            "Finance",
+            "Human Resources",
+            "Information Management",
+            "Law",
+            "Management",
+            "Marketing",
+            "Mechanical Engineering",
+            "Physical Education",
+            "Power Engineering",
+            "Software Engineering",
+            "Sports",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Doktorspróf",
+          "fields": [
+            "Business Administration",
+            "Computer Science",
+            "Engineering",
+            "Law",
+            "Psychology"
+          ]
+        }
+      ],
+      "accreditation": "Minister of Higher Education, Science and Innovation",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ragnhildur Helgadóttir"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Guðlaug Jakobsdóttir"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1998 as Icelandic School of Business, acquired present status and title 2001.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    }
+  ]
+}

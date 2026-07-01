@@ -1,0 +1,115 @@
+{
+  "country_name": "Grenada",
+  "country_id": "Grenada",
+  "institutions": [
+    {
+      "id": "24549",
+      "iau_id": "IAU-024549",
+      "name": "St. George's University",
+      "alt_name": "(SGU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBVLSNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024549",
+      "address": {
+        "Street": "University Centre",
+        "City": "True Blue Bay",
+        "Province": "Ext.",
+        "WWW": "https://www.sgu.edu"
+      },
+      "website": "https://www.sgu.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1976,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "School : Arts and Sciences",
+          "fields": [
+            "Accountancy",
+            "Biology",
+            "Finance",
+            "Information Technology",
+            "International Business",
+            "Management",
+            "Psychology",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "School : Graduate Studies",
+          "fields": [
+            "Business Administration",
+            "Clinical Psychology",
+            "Education",
+            "Medical Technology",
+            "Natural Sciences",
+            "Pharmacology",
+            "Public Health"
+          ]
+        },
+        {
+          "name": "School : Medicine",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "School : Veterinary Science",
+          "fields": [
+            "Veterinary Science"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Biology",
+            "Finance",
+            "Information Technology",
+            "International Business",
+            "Management",
+            "Psychology",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Doctor of Medicine",
+          "fields": [
+            "Medicine"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education, Human Resource Development, Religious Affairs and Information (MoE); Grenada Medical and Dental Council (GMDC); American Veterinary Medical Association Council on Education (AVMA COE), USA; Royal College of Veterinary Surgeons (RCVS), UK; American Animal Hospital Association (AAHA), USA; Council on Education for Public Health (CEPH), USA",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "G. Richard Olds"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Dawne Buckmire"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Glen Jacobs"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2021-2022",
+        "Staff Full Time Total:": "2300",
+        "Students Statistics Year:": "2021-2022",
+        "Students Total:": "7400"
+      },
+      "history": "Founded 1976 as St. George’s University School of Medicine",
+      "periodicals": [],
+      "student_body": null
+    }
+  ]
+}

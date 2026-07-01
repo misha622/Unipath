@@ -1,0 +1,87 @@
+{
+  "country_name": "Yukon",
+  "country_id": "Canada - Yukon",
+  "institutions": [
+    {
+      "id": "22843",
+      "iau_id": "IAU-022843",
+      "name": "Yukon College",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyhYLSMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-022843",
+      "address": {
+        "Street": "P.O. Box 2799,500 College Drive",
+        "City": "Whitehorse",
+        "Province": "Yukon",
+        "Post Code": "Y1A 5K4",
+        "WWW": "http://www.yukoncollege.yk.ca"
+      },
+      "website": "http://www.yukoncollege.yk.ca",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1963,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "School : Health, Education and Human Services",
+          "fields": [
+            "Education",
+            "Health Sciences",
+            "Social Work",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "School : Liberal Arts",
+          "fields": [
+            "Arts and Humanities",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "School : Management, Tourism and Hospitality",
+          "fields": [
+            "Hotel and Restaurant",
+            "Management",
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor’s Degree",
+          "fields": [
+            "Education",
+            "Nordic Studies",
+            "Public Administration",
+            "Social Work"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Karen Barnes"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Deborah Bartlette"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2014-2015",
+        "Students Total:": "1223"
+      },
+      "history": "Founded 1963.",
+      "periodicals": [],
+      "student_body": null
+    }
+  ]
+}

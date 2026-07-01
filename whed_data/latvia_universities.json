@@ -1,0 +1,3060 @@
+{
+  "country_name": "Latvia",
+  "country_id": "Latvia",
+  "institutions": [
+    {
+      "id": "10862",
+      "iau_id": "IAU-010862",
+      "name": "Art Academy of Latvia",
+      "alt_name": "Latvijas Mākslas akadēmija (LMA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM2BYLUMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-010862",
+      "address": {
+        "Street": "Kalpaka bulvāris 13",
+        "City": "Rīga",
+        "Post Code": "1050",
+        "WWW": "https://www.lma.lv"
+      },
+      "website": "https://www.lma.lv",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "October to May (October-January; February-May)",
+      "languages": [
+        "Latvian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Audio-visual Media",
+          "fields": [
+            "Communication Arts",
+            "Display and Stage Design"
+          ]
+        },
+        {
+          "name": "Faculty : Design",
+          "fields": [
+            "Architectural and Environmental Design",
+            "Design"
+          ]
+        },
+        {
+          "name": "Faculty : History and Theory of Art",
+          "fields": [
+            "Art Criticism",
+            "Art History",
+            "Restoration of Works of Art"
+          ]
+        },
+        {
+          "name": "Faculty : Visual Arts (2D)",
+          "fields": [
+            "Graphic Design",
+            "Painting and Drawing",
+            "Textile Design",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Faculty : Visual Plastic Arts (3D)",
+          "fields": [
+            "Ceramic Art",
+            "Fashion Design",
+            "Glass Art",
+            "Sculpture",
+            "Visual Arts"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalaurs",
+          "fields": [
+            "Design",
+            "Multimedia",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Maģistrs",
+          "fields": [
+            "Design",
+            "Multimedia",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Doktora",
+          "fields": [
+            "Fine Arts"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Science (Izglītības un Zinātnes Ministrija)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Kristaps Zariņš"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Antra Priede"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Anna Zvaigzne"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded in 1919.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "1446",
+      "iau_id": "IAU-001446",
+      "name": "BA School of Business and Finance",
+      "alt_name": "Banku augstskola (BASBF)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sMzBULUBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-001446",
+      "address": {
+        "Street": "K. Valdemāra 161",
+        "City": "Rīga",
+        "Post Code": "1013",
+        "WWW": "https://www.ba.lv"
+      },
+      "website": "https://www.ba.lv",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June",
+      "languages": [
+        "Latvian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Entrepreneurship and IT",
+          "fields": [
+            "Business Administration",
+            "Business Computing",
+            "Cybersecurity",
+            "Entrepreneurship",
+            "International Business",
+            "Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Finance",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Finance"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalaurs",
+          "fields": [
+            "Business Computing",
+            "Finance",
+            "Management"
+          ]
+        },
+        {
+          "name": "Maģistrs",
+          "fields": [
+            "Business Administration",
+            "Cybersecurity",
+            "Entrepreneurship",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Doktora",
+          "fields": [
+            "Business Administration"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Science (Izglītības un Zinātnes Ministrija)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Līga Peiseniece"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded as Banking College under the Bank of Latvia in 1992. Acquired present title and accreditation status in 1997.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "1419",
+      "iau_id": "IAU-001419",
+      "name": "Baltic International Academy",
+      "alt_name": "Baltijas Starptautiskā akadēmija – BSA University of Applied Sciences (BSA)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sMzBRLjBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-001419",
+      "address": {
+        "Street": "Valērijas Seiles iela 4",
+        "City": "Rīga",
+        "Post Code": "LV-1003",
+        "WWW": "https://bsa.edu.lv"
+      },
+      "website": "https://bsa.edu.lv",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Latvian",
+        "English",
+        "Russian"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Business Management and Administration",
+          "fields": [
+            "Administration",
+            "Business Administration",
+            "Economics",
+            "Entrepreneurship",
+            "International Economics"
+          ]
+        },
+        {
+          "name": "Course/Programme : Entrepreneurship",
+          "fields": [
+            "Business Administration",
+            "Entrepreneurship",
+            "International Business",
+            "Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Financial Management",
+          "fields": [
+            "Finance",
+            "Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Human Resources Management",
+          "fields": [
+            "Human Resources",
+            "Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Course/Programme : Tourism and Hospitality Management",
+          "fields": [
+            "Hotel and Restaurant",
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalaurs",
+          "fields": [
+            "Economics",
+            "Entrepreneurship",
+            "Finance",
+            "Law",
+            "Management",
+            "Psychology",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Maģistrs",
+          "fields": [
+            "Administration",
+            "International Economics",
+            "Law",
+            "Management",
+            "Psychology",
+            "Tourism"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Science (Izglītības un Zinātnes Ministrija)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Svetlana Smane"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Vladislav Volkov"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Inta Buka"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded as Baltijas Krievu Institūts (Baltic Russian Institute) in 1992. Acquired present status in 1999. Acquired present title in 2006.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "3576",
+      "iau_id": "IAU-003576",
+      "name": "Daugavpils University",
+      "alt_name": "Daugavpils universitāte (DU)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sUzRXLUBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003576",
+      "address": {
+        "Street": "Vienības iela 13",
+        "City": "Daugavpils",
+        "Post Code": "5401",
+        "WWW": "https://du.lv"
+      },
+      "website": "https://du.lv",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June (September-January; February-June)",
+      "languages": [
+        "Latvian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Humanities and Social Sciences",
+          "fields": [
+            "Applied Linguistics",
+            "Archaeology",
+            "Art Management",
+            "Arts and Humanities",
+            "Business and Commerce",
+            "Cultural Studies",
+            "Design",
+            "Eastern European Studies",
+            "Economics",
+            "Educational Sciences",
+            "English",
+            "Fine Arts",
+            "History",
+            "Latvian",
+            "Law",
+            "Linguistics",
+            "Literature",
+            "Music",
+            "Philology",
+            "Primary Education",
+            "Psychology",
+            "Russian",
+            "Secondary Education"
+          ]
+        },
+        {
+          "name": "Faculty : Natural Sciences and Health Care",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Environmental Studies",
+            "Information Technology",
+            "Nursing",
+            "Occupational Health",
+            "Physical Therapy",
+            "Physics",
+            "Secondary Education",
+            "Solid State Physics"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalaurs",
+          "fields": [
+            "Art Management",
+            "Biology",
+            "Business and Commerce",
+            "Chemistry",
+            "Design",
+            "Eastern European Studies",
+            "English",
+            "Environmental Studies",
+            "History",
+            "Information Technology",
+            "Latvian",
+            "Music",
+            "Nursing",
+            "Physical Therapy",
+            "Primary Education",
+            "Psychology",
+            "Russian",
+            "Secondary Education"
+          ]
+        },
+        {
+          "name": "Maģistrs",
+          "fields": [
+            "Applied Linguistics",
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Cultural Studies",
+            "Economics",
+            "Educational Sciences",
+            "English",
+            "Environmental Management",
+            "Fine Arts",
+            "History",
+            "Latvian",
+            "Law",
+            "Music",
+            "Occupational Health",
+            "Physics",
+            "Psychology",
+            "Public Administration",
+            "Russian"
+          ]
+        },
+        {
+          "name": "Doktora",
+          "fields": [
+            "Biology",
+            "Economics",
+            "Educational Sciences",
+            "History",
+            "Law",
+            "Linguistics",
+            "Literature",
+            "Management",
+            "Mathematics",
+            "Psychology",
+            "Solid State Physics"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Science (Izglītības un Zinātnes Ministrija)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Arvīds Barševskis"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Pēteris Kokins"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Janis Kudins"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded as Daugavpils State Teachers’ Institute (1921 – 1952). Acquired present status and title in 2001.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "4448",
+      "iau_id": "IAU-004448",
+      "name": "EKA University of Applied Sciences",
+      "alt_name": "Ekonomikas un kultūras augstskola EKA – The University of Economics and Culture UCEC",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIzBULmBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004448",
+      "address": {
+        "Street": "Pērnavas iela 62",
+        "City": "Rīga",
+        "Post Code": "1019",
+        "WWW": "https://www.augstskola.lv"
+      },
+      "website": "https://www.augstskola.lv",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Latvian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Cultural Management",
+          "fields": [
+            "Cultural Studies",
+            "Interior Design",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Department/Division : Economics",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Business Administration",
+            "Economics",
+            "Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalaurs",
+          "fields": [
+            "Accountancy",
+            "Computer Science",
+            "Economics",
+            "Information Technology",
+            "Interior Design",
+            "Law",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Maģistrs",
+          "fields": [
+            "Business Administration",
+            "Design",
+            "Economics",
+            "Management"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Science (Izglītības un Zinātnes Ministrija)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Oksana Lentjušenkova"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Jelena Titko"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Olga Marnica"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded in 1998",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "10859",
+      "iau_id": "IAU-010859",
+      "name": "European Christian Academy",
+      "alt_name": "Eiropas Kristīgā akadēmija (LCA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM2BYLTNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-010859",
+      "address": {
+        "Street": "Vienības 23",
+        "City": "Jūrmala",
+        "Post Code": "2010",
+        "WWW": "https://www.kra.lv"
+      },
+      "website": "https://www.kra.lv",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Latvian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Social Work",
+          "fields": [
+            "Social Welfare",
+            "Social Work"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalaurs",
+          "fields": [
+            "Social Welfare"
+          ]
+        },
+        {
+          "name": "Maģistrs",
+          "fields": [
+            "Social Welfare"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Science (Izglītības un Zinātnes Ministrija)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Skaidrīte Gūtmane"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded in 1993 as Latvijas Kristīgā akadēmija (Latvian Christian Academy) and acquired first accreditation in 1997. Acquired current title 2022.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "7819",
+      "iau_id": "IAU-007819",
+      "name": "ISMA University of Applied Sciences",
+      "alt_name": "Informācijas Sistēmu Menedžmenta Augstskola (ISMA)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tU0BRLjBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007819",
+      "address": {
+        "Street": "Valērijas Seiles 1, k-6",
+        "City": "Rīga",
+        "Post Code": "1019",
+        "WWW": "https://www.isma.lv"
+      },
+      "website": "https://www.isma.lv",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Latvian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Computer Science",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Department/Division : Management and Marketing",
+          "fields": [
+            "Management",
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalaurs",
+          "fields": [
+            "Computer Science",
+            "Management",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Maģistrs",
+          "fields": [
+            "Computer Science",
+            "Management"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Science (Izglītības un Zinātnes Ministrija)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Deniss Djakons"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Valentina Djakona"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Žanna Kleščevņikova"
+        }
+      ],
+      "statistics": {},
+      "history": "Established in 1994",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "9884",
+      "iau_id": "IAU-009884",
+      "name": "Jāzeps Vītols Latvian Academy of Music",
+      "alt_name": "Jāzepa Vītola Latvijas Mūzikas akadēmija (JVLMA)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uM0BYLWBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009884",
+      "address": {
+        "Street": "K. Barona street 1",
+        "City": "Rīga",
+        "Post Code": "LV-1050",
+        "WWW": "https://www.jvlma.lv"
+      },
+      "website": "https://www.jvlma.lv",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1919,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Latvian"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Accompanists",
+          "fields": [
+            "Music",
+            "Musical Instruments"
+          ]
+        },
+        {
+          "name": "Department/Division : Chamber Ensemble and Piano Accompaniment",
+          "fields": [
+            "Music",
+            "Musical Instruments"
+          ]
+        },
+        {
+          "name": "Department/Division : Choir Conducting",
+          "fields": [
+            "Conducting"
+          ]
+        },
+        {
+          "name": "Department/Division : Choreography",
+          "fields": [
+            "Dance"
+          ]
+        },
+        {
+          "name": "Department/Division : Composition",
+          "fields": [
+            "Music Theory and Composition"
+          ]
+        },
+        {
+          "name": "Department/Division : Compulsory Piano",
+          "fields": [
+            "Musical Instruments"
+          ]
+        },
+        {
+          "name": "Department/Division : Early Music",
+          "fields": [
+            "Music"
+          ]
+        },
+        {
+          "name": "Department/Division : Humanities",
+          "fields": [
+            "Arts and Humanities",
+            "English",
+            "Modern Languages"
+          ]
+        },
+        {
+          "name": "Department/Division : Jazz Music",
+          "fields": [
+            "Jazz and Popular Music"
+          ]
+        },
+        {
+          "name": "Department/Division : Music Education",
+          "fields": [
+            "Music Education"
+          ]
+        },
+        {
+          "name": "Department/Division : Music Technology",
+          "fields": [
+            "Music",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Department/Division : Musicology",
+          "fields": [
+            "Musicology"
+          ]
+        },
+        {
+          "name": "Department/Division : Orchestra Conducting",
+          "fields": [
+            "Conducting"
+          ]
+        },
+        {
+          "name": "Department/Division : Piano",
+          "fields": [
+            "Musical Instruments"
+          ]
+        },
+        {
+          "name": "Department/Division : Science and Research",
+          "fields": [
+            "Musicology"
+          ]
+        },
+        {
+          "name": "Department/Division : Strings",
+          "fields": [
+            "Musical Instruments"
+          ]
+        },
+        {
+          "name": "Department/Division : Vocal Music",
+          "fields": [
+            "Singing"
+          ]
+        },
+        {
+          "name": "Department/Division : Wind Instruments",
+          "fields": [
+            "Musical Instruments"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalaurs",
+          "fields": [
+            "Art Education",
+            "Music",
+            "Music Education"
+          ]
+        },
+        {
+          "name": "Maģistrs",
+          "fields": [
+            "Dance",
+            "Music",
+            "Musicology"
+          ]
+        },
+        {
+          "name": "Doktora",
+          "fields": [
+            "Musicology"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ilona Meija"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Toms Ostrovskis"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1919 as Conservatoire, acquired present status and title 1991.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "10861",
+      "iau_id": "IAU-010861",
+      "name": "Latvia University of Life Sciences and Technologies",
+      "alt_name": "Latvijas Biozinātņu un tehnoloģiju universitāte",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM2BYLUMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-010861",
+      "address": {
+        "Street": "Lielā iela 2",
+        "City": "Jelgava",
+        "Post Code": "3001",
+        "WWW": "https://www.lbtu.lv/lv"
+      },
+      "website": "https://www.lbtu.lv/lv",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June (September-January; February-June)",
+      "languages": [
+        "English",
+        "Latvian"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Agriculture and Food Technology",
+          "fields": [
+            "Agricultural Business",
+            "Agricultural Management",
+            "Agriculture",
+            "Agronomy",
+            "Animal Husbandry",
+            "Crop Production",
+            "Food Science",
+            "Food Technology",
+            "Horticulture",
+            "Hotel Management",
+            "Nutrition",
+            "Plant and Crop Protection",
+            "Soil Management",
+            "Soil Science"
+          ]
+        },
+        {
+          "name": "Faculty : Economics and Social Development",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Anthropology",
+            "Business and Commerce",
+            "Economics",
+            "Entrepreneurship",
+            "Finance",
+            "Management",
+            "Marketing",
+            "Political Sciences",
+            "Real Estate",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering and Information Technologies",
+          "fields": [
+            "Agricultural Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Control Engineering",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Energy Engineering",
+            "Information Technology",
+            "Mechanics",
+            "Metallurgical Engineering",
+            "Power Engineering",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Forest and Environmental Sciences",
+          "fields": [
+            "Agriculture",
+            "Civil Engineering",
+            "Environmental Engineering",
+            "Environmental Management",
+            "Environmental Studies",
+            "Fishery",
+            "Forestry",
+            "Landscape Architecture",
+            "Materials Engineering",
+            "Surveying and Mapping",
+            "Transport Engineering",
+            "Water Management",
+            "Wood Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Veterinary Medicine",
+          "fields": [
+            "Veterinary Science"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalaurs",
+          "fields": [
+            "Agricultural Engineering",
+            "Agriculture",
+            "Civil Engineering",
+            "Computer Science",
+            "Control Engineering",
+            "Economics",
+            "Energy Engineering",
+            "Food Science",
+            "Food Technology",
+            "Forestry",
+            "Hotel Management",
+            "Industrial Design",
+            "Information Technology",
+            "Landscape Architecture",
+            "Management",
+            "Mechanical Engineering",
+            "Public Administration",
+            "Surveying and Mapping",
+            "Water Management",
+            "Wood Technology"
+          ]
+        },
+        {
+          "name": "Veterinārārsts",
+          "fields": [
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Maģistrs",
+          "fields": [
+            "Agricultural Engineering",
+            "Agriculture",
+            "Business and Commerce",
+            "Civil Engineering",
+            "Economics",
+            "Environmental Engineering",
+            "Finance",
+            "Food Science",
+            "Forestry",
+            "Human Resources",
+            "Information Technology",
+            "Landscape Architecture",
+            "Management",
+            "Nutrition",
+            "Public Administration",
+            "Surveying and Mapping",
+            "Wood Technology"
+          ]
+        },
+        {
+          "name": "Doktora",
+          "fields": [
+            "Agricultural Economics",
+            "Agricultural Engineering",
+            "Agriculture",
+            "Civil Engineering",
+            "Environmental Engineering",
+            "Food Science",
+            "Forestry",
+            "Information Technology",
+            "Landscape Architecture",
+            "Veterinary Science",
+            "Wood Technology"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Science (Izglītības un Zinātnes Ministrija)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Irina Arhipova"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Ilze Beitāne"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded as Department of Riga Polytechnical Institute in 1863. Became the Jelgava Academy of Agriculture in 1936. Acquired present status in 2001. Earned title in 2018.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "10860",
+      "iau_id": "IAU-010860",
+      "name": "Latvian Academy of Culture",
+      "alt_name": "Latvijas Kultūras akadēmija (LKA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM2BYLUNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-010860",
+      "address": {
+        "Street": "Ludzas iela 24",
+        "City": "Rīga",
+        "Post Code": "LV-1003",
+        "WWW": "https://www.lka.edu.lv"
+      },
+      "website": "https://www.lka.edu.lv",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1990,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June",
+      "languages": [
+        "Latvian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Cultural Theory and History",
+          "fields": [
+            "Cultural Studies",
+            "Folklore",
+            "Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Intercultural Communication and Foreign Languages",
+          "fields": [
+            "Cultural Studies",
+            "International Relations and Diplomacy",
+            "Literature",
+            "Modern Languages"
+          ]
+        },
+        {
+          "name": "Department/Division : Sociology and Management of Culture",
+          "fields": [
+            "Art Management",
+            "Cultural Studies",
+            "Museum Management",
+            "Museum Studies",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Department/Division : Theatre and Audiovisual Arts",
+          "fields": [
+            "Acting",
+            "Cinema and Television",
+            "Dance",
+            "Film",
+            "Theatre",
+            "Video"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalaurs",
+          "fields": [
+            "Acting",
+            "Cinema and Television",
+            "Cultural Studies",
+            "Dance",
+            "Sociology",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Maģistrs",
+          "fields": [
+            "Art Management",
+            "Cultural Studies",
+            "Heritage Preservation",
+            "Performing Arts",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Doktora",
+          "fields": [
+            "Cultural Studies",
+            "Performing Arts",
+            "Visual Arts"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Science (Izglītības un Zinātnes Ministrija)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Dāvis Sīmanis"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Agnese Hermane"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Ilze Beimane"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1990. An autonomous Institution financed by the State.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "10863",
+      "iau_id": "IAU-010863",
+      "name": "National Defence Academy of Latvia",
+      "alt_name": "Latvijas Nacionālā aizsardzības akadēmija (NAA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM2BYLUMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-010863",
+      "address": {
+        "Street": "Ezermalas iela 8B",
+        "City": "Rīga",
+        "Post Code": "LV-1014",
+        "WWW": "https://www.naa.mil.lv"
+      },
+      "website": "https://www.naa.mil.lv",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1992,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Latvian"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Military Science",
+          "fields": [
+            "Military Science"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalaurs",
+          "fields": [
+            "Military Science"
+          ]
+        },
+        {
+          "name": "Maģistrs",
+          "fields": [
+            "Military Science"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Science (Izglītības un Zinātnes Ministrija)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Māris Utināns"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Ēriks Keisters"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1992.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "13998",
+      "iau_id": "IAU-013998",
+      "name": "Riga Aeronautical Institute",
+      "alt_name": "Rīgas Aeronavigācijas institūts (RAI)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyxZLjNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-013998",
+      "address": {
+        "Street": "Mežkalna iela 9",
+        "City": "Rīga",
+        "Post Code": "LV-1058",
+        "WWW": "https://www.rai.lv"
+      },
+      "website": "https://www.rai.lv",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1942,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Latvian"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Aviation Engineering",
+          "fields": [
+            "Aeronautical and Aerospace Engineering",
+            "Air Transport",
+            "Computer Engineering",
+            "Electronic Engineering",
+            "Maintenance Technology",
+            "Power Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Electronics",
+          "fields": [
+            "Aeronautical and Aerospace Engineering",
+            "Electronic Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Transport Management",
+          "fields": [
+            "Air Transport",
+            "Transport Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalaurs",
+          "fields": [
+            "Aeronautical and Aerospace Engineering",
+            "Air Transport",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Maģistrs",
+          "fields": [
+            "Aeronautical and Aerospace Engineering",
+            "Transport Management"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Science (Izglītības un Zinātnes Ministrija)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Anatolijs Melnis"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Dmitrij Ulanov"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1942, acquired present status 1992.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "14000",
+      "iau_id": "IAU-014000",
+      "name": "Riga Graduate School of Law",
+      "alt_name": "Rīgas Juridiskā augstkola (RGSL)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzBQLCNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-014000",
+      "address": {
+        "Street": "Strēlnieku iela 4 k-2",
+        "City": "Rīga",
+        "Post Code": "1010",
+        "WWW": "https://www.rgsl.edu.lv"
+      },
+      "website": "https://www.rgsl.edu.lv",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "August to June",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : EU Law and Policy",
+          "fields": [
+            "Environmental Studies",
+            "European Studies",
+            "European Union Law",
+            "International Law",
+            "International Relations and Diplomacy"
+          ]
+        },
+        {
+          "name": "Course/Programme : International and EU Law",
+          "fields": [
+            "Commercial Law",
+            "European Union Law",
+            "Human Rights",
+            "International Law",
+            "Public Law"
+          ]
+        },
+        {
+          "name": "Course/Programme : Law and Business",
+          "fields": [
+            "Administrative Law",
+            "Business Administration",
+            "Commercial Law",
+            "Comparative Law",
+            "Constitutional Law",
+            "Demography and Population",
+            "Economics",
+            "Finance",
+            "Human Rights",
+            "International Economics",
+            "International Law",
+            "Law",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Course/Programme : Law and Diplomacy",
+          "fields": [
+            "International Relations and Diplomacy",
+            "Law"
+          ]
+        },
+        {
+          "name": "Course/Programme : Law and Finance",
+          "fields": [
+            "Accountancy",
+            "Commercial Law",
+            "Economics",
+            "Finance",
+            "International Law",
+            "Law",
+            "Taxation"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalaurs",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Maģistrs",
+          "fields": [
+            "Law"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Science (Izglītības un Zinātnes Ministrija)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Inga Kačevska"
+        }
+      ],
+      "statistics": {},
+      "history": "A specialized law school founded in 1998.",
+      "periodicals": [
+        "RGSL Working Papers",
+        "RGSL Working Papers"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "14003",
+      "iau_id": "IAU-014003",
+      "name": "Riga Stradiņš University",
+      "alt_name": "Rīgas Stradiņa universitāte (RSU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzBQLCMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-014003",
+      "address": {
+        "Street": "Dzirciema iela 16",
+        "City": "Rīga",
+        "Post Code": "1007",
+        "WWW": "https://www.rsu.lv"
+      },
+      "website": "https://www.rsu.lv",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June (September-January; February-June)",
+      "languages": [
+        "Latvian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Academy : Latvian Academy of Sports Pedagogy",
+          "fields": [
+            "Health Education",
+            "Physical Education",
+            "Sports"
+          ]
+        },
+        {
+          "name": "Campus : Liepaja",
+          "fields": [
+            "Medical Auxiliaries",
+            "Midwifery",
+            "Nursing",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Department/Division : Residency",
+          "fields": [
+            "Cardiology",
+            "Dentistry",
+            "Dermatology",
+            "Endocrinology",
+            "Forensic Medicine and Dentistry",
+            "Gastroenterology",
+            "Medicine",
+            "Ophthalmology",
+            "Orthopaedics",
+            "Paediatrics",
+            "Radiology",
+            "Surgery"
+          ]
+        },
+        {
+          "name": "Faculty : Dentistry",
+          "fields": [
+            "Dental Hygiene",
+            "Dental Technology",
+            "Dentistry",
+            "Oral Pathology",
+            "Orthodontics",
+            "Prosthetics and Orthotics"
+          ]
+        },
+        {
+          "name": "Faculty : Doctoral Studies",
+          "fields": [
+            "Law",
+            "Medicine",
+            "Pharmacy",
+            "Political Sciences",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Faculty : European Studies",
+          "fields": [
+            "Advertising and Publicity",
+            "Business Administration",
+            "Communication Studies",
+            "Economics",
+            "European Studies",
+            "European Union Law",
+            "Government",
+            "International Relations and Diplomacy",
+            "Management",
+            "Marketing",
+            "Political Sciences",
+            "Public Administration",
+            "Small Business"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "European Union Law",
+            "International Law",
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Faculty : Nursing",
+          "fields": [
+            "Midwifery",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Faculty : Pharmacy",
+          "fields": [
+            "Chemistry",
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Faculty : Public Health",
+          "fields": [
+            "Anatomy",
+            "Arts and Humanities",
+            "Biochemistry",
+            "Epidemiology",
+            "Ethics",
+            "Microbiology",
+            "Philosophy",
+            "Physiology",
+            "Psychology",
+            "Public Health"
+          ]
+        },
+        {
+          "name": "Faculty : Rehabilitation",
+          "fields": [
+            "Art Therapy",
+            "Dental Technology",
+            "Nutrition",
+            "Occupational Therapy",
+            "Orthodontics",
+            "Physical Therapy",
+            "Rehabilitation and Therapy",
+            "Social Work",
+            "Speech Therapy and Audiology",
+            "Sports"
+          ]
+        },
+        {
+          "name": "Faculty : Social Sciences",
+          "fields": [
+            "Anthropology",
+            "Communication Studies",
+            "Journalism",
+            "Management",
+            "Psychology",
+            "Public Relations",
+            "Sociology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalaurs",
+          "fields": [
+            "Biomedical Engineering",
+            "Entrepreneurship",
+            "European Studies",
+            "International Business",
+            "Journalism",
+            "Law",
+            "Marketing",
+            "Midwifery",
+            "Multimedia",
+            "Nursing",
+            "Nutrition",
+            "Occupational Therapy",
+            "Physical Education",
+            "Physical Therapy",
+            "Prosthetics and Orthotics",
+            "Psychology",
+            "Public Health",
+            "Public Relations",
+            "Social Work",
+            "Speech Therapy and Audiology",
+            "Sports"
+          ]
+        },
+        {
+          "name": "Ārsta grads",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Farmaceita grāds",
+          "fields": [
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Zobārsta grads",
+          "fields": [
+            "Dentistry"
+          ]
+        },
+        {
+          "name": "Maģistrs",
+          "fields": [
+            "Anthropology",
+            "Art Therapy",
+            "Bioinformatics",
+            "Biomedicine",
+            "Communication Studies",
+            "Economics",
+            "Health Administration",
+            "International Business",
+            "International Relations and Diplomacy",
+            "Law",
+            "Marketing",
+            "Nursing",
+            "Nutrition",
+            "Pharmacy",
+            "Psychology",
+            "Public Health",
+            "Public Relations",
+            "Rehabilitation and Therapy",
+            "Social Work",
+            "Sports"
+          ]
+        },
+        {
+          "name": "Doktora",
+          "fields": [
+            "Anthropology",
+            "Communication Studies",
+            "Economics",
+            "Health Administration",
+            "Law",
+            "Medicine",
+            "Pharmacy",
+            "Political Sciences",
+            "Psychology",
+            "Social Work",
+            "Sociology"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Science (Izglītības un Zinātnes Ministrija)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Aigars Pētersons"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Dins Šmits"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded as Riga Medical Institute in 1950. Became Latvian Academy of Medicine in 1990 and acquired present status and title in 2002. In 2024, the Latvian Academy of Sport Education (Latvijas Sporta pedagogijas akadēmija - IAU-010865) was integrated into the university.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "14004",
+      "iau_id": "IAU-014004",
+      "name": "Riga Technical University",
+      "alt_name": "Rīgas Tehniskā universitāte (RTU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzBQLCMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-014004",
+      "address": {
+        "Street": "Ķīpsalas iela 6A",
+        "City": "Rīga",
+        "Post Code": "1048",
+        "WWW": "https://www.rtu.lv"
+      },
+      "website": "https://www.rtu.lv",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1862,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June",
+      "languages": [
+        "Latvian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Academy : Latvian Maritime Academy",
+          "fields": [
+            "Electronics and Automation",
+            "Marine Engineering",
+            "Marine Transport"
+          ]
+        },
+        {
+          "name": "Academy : Liepaja",
+          "fields": [
+            "Computer Science",
+            "Educational Sciences",
+            "Environmental Studies",
+            "European Studies",
+            "Information Technology",
+            "Mechatronics",
+            "Media Studies",
+            "Multimedia"
+          ]
+        },
+        {
+          "name": "Faculty : Civil and Mechanical Engineering",
+          "fields": [
+            "Air Transport",
+            "Biomedical Engineering",
+            "Bridge Engineering",
+            "Civil Engineering",
+            "Mechanical Engineering",
+            "Mechanics",
+            "Physics",
+            "Production Engineering",
+            "Railway Engineering",
+            "Road Engineering",
+            "Surveying and Mapping",
+            "Transport Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Computer Science, Information Technology and Energy",
+          "fields": [
+            "Business Computing",
+            "Computer Engineering",
+            "Control Engineering",
+            "Cybersecurity",
+            "Digital Technology",
+            "Electrical and Electronic Engineering",
+            "Information Technology",
+            "Logistics Management",
+            "Network Technology",
+            "Telecommunications Engineering",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering Economics and Management",
+          "fields": [
+            "Entrepreneurship",
+            "Finance",
+            "Industrial Management",
+            "Logistics Management",
+            "Real Estate"
+          ]
+        },
+        {
+          "name": "Faculty : Natural Sciences and Technology",
+          "fields": [
+            "Chemistry",
+            "Environmental Engineering",
+            "Materials Engineering",
+            "Nanotechnology",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Institute : Architecture and Design",
+          "fields": [
+            "Architecture"
+          ]
+        },
+        {
+          "name": "School : Riga Business School",
+          "fields": [
+            "Computer Science",
+            "Information Technology",
+            "International Business"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalaurs",
+          "fields": [
+            "Air Transport",
+            "Biomedical Engineering",
+            "Business Computing",
+            "Chemistry",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Electronics and Automation",
+            "Entrepreneurship",
+            "Environmental Engineering",
+            "Environmental Management",
+            "European Studies",
+            "Information Technology",
+            "International Business",
+            "Marine Engineering",
+            "Marine Transport",
+            "Materials Engineering",
+            "Mechanical Engineering",
+            "Mechanics",
+            "Mechatronics",
+            "Railway Engineering",
+            "Telecommunications Engineering",
+            "Translation and Interpretation",
+            "Transport Engineering"
+          ]
+        },
+        {
+          "name": "Maģistrs",
+          "fields": [
+            "Air Transport",
+            "Architecture",
+            "Biomedical Engineering",
+            "Business Computing",
+            "Chemistry",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Control Engineering",
+            "Cybersecurity",
+            "Educational Sciences",
+            "Electronics and Automation",
+            "Entrepreneurship",
+            "Environmental Engineering",
+            "Finance",
+            "Industrial Management",
+            "Information Technology",
+            "Logistics Management",
+            "Marine Transport",
+            "Materials Engineering",
+            "Mechanical Engineering",
+            "Multimedia",
+            "Production Engineering",
+            "Railway Engineering",
+            "Real Estate",
+            "Road Engineering",
+            "Surveying and Mapping",
+            "Telecommunications Engineering",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Doktora",
+          "fields": [
+            "Architecture",
+            "Chemistry",
+            "Civil Engineering",
+            "Computer Science",
+            "Control Engineering",
+            "Educational Sciences",
+            "Electrical and Electronic Engineering",
+            "Electronics and Automation",
+            "Environmental Engineering",
+            "Materials Engineering",
+            "Mechanical Engineering",
+            "Multimedia",
+            "Physics",
+            "Telecommunications Engineering",
+            "Transport Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Science (Izglītības un Zinātnes Ministrija)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Tālis Juhna"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Elīna Gaile-Sarkane"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Igors Tipans"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1862 as Riga Polytechnical Institute. Became part of Latvia University 1919. Renamed Riga Polytechnical Institute 1958. Acquired present status and title 1990. In 2022 Latvijas Jūras akadēmija (Latvian Maritime Academy - IAU-010858) was incorporated into the university as an academic division, in 2024 Liepājas universitāte (Liepaja University - IAU-010958) was merged with the university and in April 2025 Rēzeknes Tehnoloģiju akadēmija (Rezekne Academy of Technologies - IAU-013926) was also merged with the university.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "14002",
+      "iau_id": "IAU-014002",
+      "name": "RISEBA University of Applied Sciences",
+      "alt_name": "Biznesa, mākslas un tehnoloģiju augstskola RISEBA (RISEBA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzBQLCMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-014002",
+      "address": {
+        "Street": "Meža iela 3",
+        "City": "Rīga",
+        "Post Code": "LV-1048",
+        "WWW": "https://riseba.lv"
+      },
+      "website": "https://riseba.lv",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "September to June (September - January; January - June)",
+      "languages": [
+        "Latvian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Architecture and Design",
+          "fields": [
+            "Architecture"
+          ]
+        },
+        {
+          "name": "Faculty : Business and Economics",
+          "fields": [
+            "Business and Commerce",
+            "Data Science",
+            "Economics",
+            "Finance",
+            "Health Administration",
+            "Human Resources",
+            "International Business",
+            "Management",
+            "Psychology",
+            "Public Relations",
+            "Sports Management"
+          ]
+        },
+        {
+          "name": "Faculty : Media and Creative Technologies",
+          "fields": [
+            "Cinema and Television",
+            "Multimedia"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalaurs",
+          "fields": [
+            "Architecture",
+            "Business and Commerce",
+            "Economics",
+            "Management",
+            "Multimedia",
+            "Public Relations"
+          ]
+        },
+        {
+          "name": "Maģistrs",
+          "fields": [
+            "Architecture",
+            "Data Science",
+            "Finance",
+            "Health Administration",
+            "Human Resources",
+            "International Business",
+            "Management",
+            "Multimedia",
+            "Sports Management"
+          ]
+        },
+        {
+          "name": "Doktora",
+          "fields": [
+            "Management",
+            "Multimedia"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Science (Izglītības un Zinātnes Ministrija)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Irina Sennikova"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Valters Kaže"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Galina Zilgalve"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded in 1992. Acquired present status in 2000.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "13999",
+      "iau_id": "IAU-013999",
+      "name": "Stockholm School of Economics in Riga",
+      "alt_name": "(SSE Riga)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyxZLjNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-013999",
+      "address": {
+        "Street": "Strelnieku iela 4a",
+        "City": "Rīga",
+        "Post Code": "1010",
+        "WWW": "https://www.sseriga.edu"
+      },
+      "website": "https://www.sseriga.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "August to June",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Business and Management",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Commercial Law",
+            "Leadership",
+            "Management",
+            "Mathematics",
+            "Taxation"
+          ]
+        },
+        {
+          "name": "Department/Division : Economics",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Econometrics",
+            "Economics",
+            "Finance",
+            "International Economics"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalaurs",
+          "fields": [
+            "Economics"
+          ]
+        },
+        {
+          "name": "Maģistrs",
+          "fields": [
+            "Management"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Science (Izglītības un Zinātnes Ministrija)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Anders Paalzow"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Marina Troškova"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded by the Stockholm School of Economics and the Latvian Government in 1994.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "16836",
+      "iau_id": "IAU-016836",
+      "name": "Transport and Telecommunication Institute",
+      "alt_name": "Transporta un Sakaru Institūts (TSI)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhYLFM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016836",
+      "address": {
+        "Street": "Lauvas street 2",
+        "City": "Rīga",
+        "Post Code": "LV-1019",
+        "WWW": "https://tsi.lv"
+      },
+      "website": "https://tsi.lv",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "September to June (September-January; February-June)",
+      "languages": [
+        "Latvian",
+        "Russian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Aeronautical and Aerospace Engineering",
+            "Artificial Intelligence",
+            "Computer Engineering",
+            "Computer Science",
+            "Electronic Engineering",
+            "Information Management",
+            "Logistics Management",
+            "Robotics",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Transport and Logistics",
+          "fields": [
+            "Air Transport",
+            "Logistics Management",
+            "Maintenance Technology",
+            "Management",
+            "Transport and Communications",
+            "Transport Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalaurs",
+          "fields": [
+            "Administration",
+            "Computer Engineering",
+            "Computer Science",
+            "Electronic Engineering",
+            "Energy Engineering",
+            "Information Technology",
+            "Management",
+            "Mechanical Engineering",
+            "Power Engineering",
+            "Real Estate",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Maģistrs",
+          "fields": [
+            "Administration",
+            "Computer Engineering",
+            "Computer Science",
+            "Electronic Engineering",
+            "Maintenance Technology",
+            "Management",
+            "Real Estate",
+            "Telecommunications Engineering",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Doktora",
+          "fields": [
+            "Computer Engineering",
+            "Computer Science",
+            "Information Technology",
+            "Telecommunications Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Science (Izglītības un Zinātnes Ministrija)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Juris Kanels"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Mihail Savrasov"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded as School of Aviation Technicians and Mechanics in 1919. Acquired present status in 1999. Operates Latgalian branch in Daugavpils since 2003.",
+      "periodicals": [
+        "Computer Modelling and New Technologies Transport and Telecommunication",
+        "Computer Modelling and New Technologies",
+        "Transport and Telecommunication"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "1693",
+      "iau_id": "IAU-001693",
+      "name": "Turība University",
+      "alt_name": "Biznesa augstskola Turība (SBAT)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sMzhZLFBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-001693",
+      "address": {
+        "Street": "Graudu iela 68",
+        "City": "Rīga",
+        "Post Code": "1058",
+        "WWW": "https://www.turiba.lv"
+      },
+      "website": "https://www.turiba.lv",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Latvian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Business Administration",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Economics",
+            "Finance",
+            "Human Resources",
+            "International Business",
+            "Leadership",
+            "Logistics Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Communication",
+          "fields": [
+            "Communication Studies",
+            "Public Relations"
+          ]
+        },
+        {
+          "name": "Faculty : Health Care",
+          "fields": [
+            "Cosmetology",
+            "Nutrition"
+          ]
+        },
+        {
+          "name": "Faculty : Information Technology",
+          "fields": [
+            "Computer Science",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Faculty : International Tourism",
+          "fields": [
+            "Hotel Management",
+            "Leisure Studies",
+            "Public Relations",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Law",
+            "Public Administration"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalaurs",
+          "fields": [
+            "Business Administration",
+            "Communication Studies",
+            "Computer Science",
+            "Hotel and Restaurant",
+            "International Business",
+            "Law",
+            "Logistics Management",
+            "Nutrition",
+            "Public Relations",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Maģistrs",
+          "fields": [
+            "Business Administration",
+            "Communication Studies",
+            "Human Resources",
+            "Law",
+            "Management",
+            "Public Administration",
+            "Public Relations",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Doktora",
+          "fields": [
+            "Business Administration",
+            "Communication Studies",
+            "Law",
+            "Leadership"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Science (Izglītības un Zinātnes Ministrija)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Zane Driņķe"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Agnese Pilāne"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded in 1993.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "10867",
+      "iau_id": "IAU-010867",
+      "name": "University of Latvia",
+      "alt_name": "Latvijas universitāte (UL)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM2BYLUM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-010867",
+      "address": {
+        "Street": "Raiņa bulvāris 19",
+        "City": "Rīga",
+        "Post Code": "1050",
+        "WWW": "https://www.lu.lv"
+      },
+      "website": "https://www.lu.lv",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1919,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June (September-January; February-June)",
+      "languages": [
+        "Latvian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Baltic Studies",
+          "fields": [
+            "Baltic Languages"
+          ]
+        },
+        {
+          "name": "Centre : European and Transition Studies",
+          "fields": [
+            "European Studies"
+          ]
+        },
+        {
+          "name": "Centre : Judaic Studies",
+          "fields": [
+            "Jewish Studies",
+            "Judaic Religious Studies"
+          ]
+        },
+        {
+          "name": "College : P. Stradiņš Medical College - LU PSK",
+          "fields": [
+            "Cosmetology",
+            "Medical Auxiliaries",
+            "Medicine",
+            "Nursing",
+            "Podiatry",
+            "Social and Preventive Medicine"
+          ]
+        },
+        {
+          "name": "Faculty : Economics and Social Sciences",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Communication Studies",
+            "Cultural Studies",
+            "E-Business/Commerce",
+            "Economics",
+            "Environmental Studies",
+            "Finance",
+            "Industrial Engineering",
+            "Information Management",
+            "International Business",
+            "International Economics",
+            "International Relations and Diplomacy",
+            "Library Science",
+            "Management",
+            "Political Sciences",
+            "Social Sciences",
+            "Social Work",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Faculty : Education Sciences and Psychology",
+          "fields": [
+            "Educational Sciences",
+            "Educational Technology",
+            "Graphic Design",
+            "Interior Design",
+            "Preschool Education",
+            "Primary Education",
+            "Psychology",
+            "Secondary Education",
+            "Sports"
+          ]
+        },
+        {
+          "name": "Faculty : Humanities",
+          "fields": [
+            "Archaeology",
+            "Asian Studies",
+            "English",
+            "European Languages",
+            "French",
+            "German",
+            "History",
+            "Latvian",
+            "Linguistics",
+            "Literature",
+            "Philology",
+            "Philosophy",
+            "Religious Studies",
+            "Romance Languages",
+            "Russian",
+            "Slavic Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Civil Law",
+            "Constitutional Law",
+            "Criminal Law",
+            "European Union Law",
+            "History of Law",
+            "Human Rights",
+            "International Law",
+            "Law",
+            "Public Law"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine and Life Sciences",
+          "fields": [
+            "Biology",
+            "Biotechnology",
+            "Chemistry",
+            "Dentistry",
+            "Epidemiology",
+            "Medicine",
+            "Nursing",
+            "Nutrition",
+            "Occupational Health",
+            "Pharmacy",
+            "Social and Preventive Medicine",
+            "Sports"
+          ]
+        },
+        {
+          "name": "Faculty : Science and Technology",
+          "fields": [
+            "Astronomy and Space Science",
+            "Computer Networks",
+            "Computer Science",
+            "Environmental Studies",
+            "Geography",
+            "Geology",
+            "Heritage Preservation",
+            "Mathematics",
+            "Mechanics",
+            "Optometry",
+            "Physics",
+            "Statistics",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "Institute : Astronomy",
+          "fields": [
+            "Astronomy and Space Science"
+          ]
+        },
+        {
+          "name": "Institute : Atomic Physics and Spectroscopy",
+          "fields": [
+            "Atomic and Molecular Physics",
+            "Optics",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Institute : Biology",
+          "fields": [
+            "Biology",
+            "Botany",
+            "Ecology",
+            "Environmental Management",
+            "Environmental Studies",
+            "Natural Resources",
+            "Zoology"
+          ]
+        },
+        {
+          "name": "Institute : Cardiology and Regenerative Medicine",
+          "fields": [
+            "Cardiology",
+            "Epidemiology",
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Institute : Chemical Physics",
+          "fields": [
+            "Chemistry",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Institute : Clinical and Preventive Medicine",
+          "fields": [
+            "Biology",
+            "Cell Biology",
+            "Diabetology",
+            "Endocrinology",
+            "Medicine",
+            "Oncology",
+            "Physiology"
+          ]
+        },
+        {
+          "name": "Institute : Geodesy and Geo-informatics",
+          "fields": [
+            "Computer Science",
+            "Earth Sciences",
+            "Geophysics"
+          ]
+        },
+        {
+          "name": "Institute : History of Latvia",
+          "fields": [
+            "Anthropology",
+            "Archaeology",
+            "Ethnology",
+            "History",
+            "Medieval Studies"
+          ]
+        },
+        {
+          "name": "Institute : Latvian Language",
+          "fields": [
+            "Grammar",
+            "Linguistics",
+            "Native Language",
+            "Terminology"
+          ]
+        },
+        {
+          "name": "Institute : Literature, Folklore and Art",
+          "fields": [
+            "Arts and Humanities",
+            "Comparative Literature",
+            "Folklore",
+            "Literature",
+            "Musicology",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Institute : Livonian Studies",
+          "fields": [
+            "Indigenous Studies"
+          ]
+        },
+        {
+          "name": "Institute : Mathematics and Computer Science",
+          "fields": [
+            "Artificial Intelligence",
+            "Computer Engineering",
+            "Computer Networks",
+            "Mathematics and Computer Science",
+            "Systems Analysis"
+          ]
+        },
+        {
+          "name": "Institute : Mechanics of Materials",
+          "fields": [
+            "Materials Engineering",
+            "Mechanics",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Institute : Microbiology and Biotechnology",
+          "fields": [
+            "Biotechnology",
+            "Cell Biology",
+            "Food Technology",
+            "Microbiology",
+            "Physiology"
+          ]
+        },
+        {
+          "name": "Institute : Philosophy and Sociology",
+          "fields": [
+            "Philosophy",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Institute : Physics",
+          "fields": [
+            "Mechanics",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Institute : Solid State Physics",
+          "fields": [
+            "Materials Engineering",
+            "Optometry",
+            "Physics",
+            "Radiophysics"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalaurs",
+          "fields": [
+            "Accountancy",
+            "Anthropology",
+            "Archaeology",
+            "Asian Studies",
+            "Biology",
+            "Biotechnology",
+            "Chemistry",
+            "Communication Studies",
+            "Computer Science",
+            "Cultural Studies",
+            "E-Business/Commerce",
+            "Economics",
+            "Environmental Studies",
+            "European Languages",
+            "Finance",
+            "French",
+            "Geography",
+            "Geology",
+            "German",
+            "Graphic Design",
+            "Heritage Preservation",
+            "History",
+            "Industrial Engineering",
+            "Information Management",
+            "Interior Design",
+            "International Economics",
+            "Latvian",
+            "Law",
+            "Management",
+            "Mathematics",
+            "Nursing",
+            "Occupational Health",
+            "Optometry",
+            "Pharmacy",
+            "Philology",
+            "Philosophy",
+            "Physics",
+            "Political Sciences",
+            "Primary Education",
+            "Psychology",
+            "Religious Studies",
+            "Russian",
+            "Secondary Education",
+            "Social Work",
+            "Sociology",
+            "Sports",
+            "Statistics",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "Ārsta grads",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Zobārsta grads",
+          "fields": [
+            "Dentistry"
+          ]
+        },
+        {
+          "name": "Maģistrs",
+          "fields": [
+            "Accountancy",
+            "Anthropology",
+            "Archaeology",
+            "Asian Studies",
+            "Biology",
+            "Chemistry",
+            "Civil Security",
+            "Communication Studies",
+            "Computer Science",
+            "Economics",
+            "Educational Sciences",
+            "Educational Technology",
+            "English",
+            "Environmental Studies",
+            "Epidemiology",
+            "European Studies",
+            "Finance",
+            "Geography",
+            "Geology",
+            "German",
+            "History",
+            "International Business",
+            "International Relations and Diplomacy",
+            "Latvian",
+            "Law",
+            "Library Science",
+            "Linguistics",
+            "Management",
+            "Mathematics and Computer Science",
+            "Nursing",
+            "Nutrition",
+            "Optometry",
+            "Pharmacy",
+            "Philosophy",
+            "Physics",
+            "Political Sciences",
+            "Psychology",
+            "Religious Studies",
+            "Romance Languages",
+            "Russian",
+            "Slavic Studies",
+            "Social Work",
+            "Sociology",
+            "Sports",
+            "Surveying and Mapping",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Doktora",
+          "fields": [
+            "Archaeology",
+            "Astrophysics",
+            "Biology",
+            "Chemistry",
+            "Economics",
+            "Educational Sciences",
+            "Environmental Studies",
+            "Geography",
+            "History",
+            "Linguistics",
+            "Literature",
+            "Mechanics",
+            "Occupational Health",
+            "Physics",
+            "Psychology",
+            "Religious Studies",
+            "Social Sciences"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Science (Izglītības un Zinātnes Ministrija)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Gundars Bērziņš"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Enno Ence"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Baiba Pētersone"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1919. Acquired present status 1990.",
+      "periodicals": [
+        "Acta Universitatis Latviensis Automatic Control and Computer Science Journal of Baltic psychology Journal of the Latvian Institute History Latvian Human Rights Quarterly Latvijas Vēsture Likums un Tiesibas Linguistica Lettica Magneto-hydro-dynamics Mechanics of Composite Materials Terra Zvaigžņota Debess",
+        "Acta Universitatis Latviensis",
+        "Automatic Control and Computer Science",
+        "Journal of Baltic psychology",
+        "Journal of the Latvian Institute History",
+        "Latvian Human Rights Quarterly",
+        "Latvijas Vēsture",
+        "Likums un Tiesibas",
+        "Linguistica Lettica",
+        "Magneto-hydro-dynamics",
+        "Mechanics of Composite Materials",
+        "Terra",
+        "Zvaigžņota Debess"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20852",
+      "iau_id": "IAU-020852",
+      "name": "Ventspils University of Applied Sciences",
+      "alt_name": "Ventspils augstskola (VUAS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BYLTMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020852",
+      "address": {
+        "Street": "Inženieru 101",
+        "City": "Ventspils",
+        "Post Code": "3601",
+        "WWW": "https://www.venta.lv"
+      },
+      "website": "https://www.venta.lv",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June",
+      "languages": [
+        "Latvian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Economics and Business Administration",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Economics",
+            "Entrepreneurship",
+            "Finance",
+            "Management",
+            "Marketing",
+            "Public Relations"
+          ]
+        },
+        {
+          "name": "Faculty : Information Technology",
+          "fields": [
+            "Computer Engineering",
+            "Computer Science",
+            "Electrical Engineering",
+            "Information Technology",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Translation Studies",
+          "fields": [
+            "Linguistics",
+            "Translation and Interpretation"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalaurs",
+          "fields": [
+            "Business Administration",
+            "Computer Science",
+            "Electrical Engineering",
+            "Entrepreneurship",
+            "Management",
+            "Public Relations",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Maģistrs",
+          "fields": [
+            "Business Administration",
+            "Computer Science",
+            "Electrical Engineering",
+            "Public Relations",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Doktora",
+          "fields": [
+            "Linguistics"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Science (Izglītības un Zinātnes Ministrija)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Andris Vaivads"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Liene Resele-Dūšele"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded in 1999. Received the status of scientific institution in 2013.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20874",
+      "iau_id": "IAU-020874",
+      "name": "Vidzeme University of Applied Sciences",
+      "alt_name": "Vidzemes augstskola (ViA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BYLVMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020874",
+      "address": {
+        "Street": "Cēsu iela 4",
+        "City": "Valmiera",
+        "Post Code": "4201",
+        "WWW": "https://www.va.lv"
+      },
+      "website": "https://www.va.lv",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June",
+      "languages": [
+        "Latvian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Computer Networks",
+            "Computer Science",
+            "Data Science",
+            "Information Management",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Society and Science",
+          "fields": [
+            "Communication Studies",
+            "Economics",
+            "Government",
+            "Media Studies",
+            "Political Sciences",
+            "Public Relations",
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bakalaurs",
+          "fields": [
+            "Information Technology",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Maģistrs",
+          "fields": [
+            "Business Administration",
+            "Communication Studies",
+            "Computer Science",
+            "Information Technology",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Doktora",
+          "fields": [
+            "Economics",
+            "Information Technology"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Science (Izglītības un Zinātnes Ministrija)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Agnese Dāvidsone"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Kārlis Krēsliņš"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Mārīte Balaņuka"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded in 1996. Acquired status as a state university in 2001.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    }
+  ]
+}

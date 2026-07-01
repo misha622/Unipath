@@ -1,0 +1,2977 @@
+{
+  "country_name": "North Dakota",
+  "country_id": "United States of America - North Dakota",
+  "institutions": [
+    {
+      "id": "29790",
+      "iau_id": "IAU-029790",
+      "name": "Bismarck State College",
+      "alt_name": "(BSC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0RXLjNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-029790",
+      "address": {
+        "Street": "1500 Edwards Avenue",
+        "City": "Bismarck",
+        "Province": "North Dakota",
+        "Post Code": "58506",
+        "WWW": "https://bismarckstate.edu"
+      },
+      "website": "https://bismarckstate.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1939,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Agriculture",
+          "fields": [
+            "Agricultural Business",
+            "Agriculture",
+            "Agronomy",
+            "Animal Husbandry",
+            "Farm Management",
+            "Food Technology",
+            "Natural Resources"
+          ]
+        },
+        {
+          "name": "Course/Programme : Automotive Transportation & Construction",
+          "fields": [
+            "Automotive Engineering",
+            "Construction Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Business & Finance",
+          "fields": [
+            "Business Administration",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Course/Programme : Communications, Arts & Design",
+          "fields": [
+            "Communication Arts",
+            "Design"
+          ]
+        },
+        {
+          "name": "Course/Programme : Cybersecurity & Computer Information Technology",
+          "fields": [
+            "Computer Science",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Education",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Course/Programme : Health Sciences",
+          "fields": [
+            "Health Sciences"
+          ]
+        },
+        {
+          "name": "Course/Programme : Manufacturing & Automation",
+          "fields": [
+            "Artificial Intelligence",
+            "Automation",
+            "Electrical Engineering",
+            "Heating and Refrigeration",
+            "Industrial and Production Economics",
+            "Industrial Maintenance",
+            "Maintenance Technology",
+            "Mechanical Engineering",
+            "Metal Techniques",
+            "Robotics",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Science, Engineering & Math",
+          "fields": [
+            "Engineering",
+            "Mathematics",
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "Course/Programme : Social & Behavioral Sciences & Human Services",
+          "fields": [
+            "Behavioural Sciences",
+            "Social and Community Services",
+            "Social Sciences"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Associate Degree",
+          "fields": [
+            "Finance",
+            "Industrial Management",
+            "Information Technology",
+            "Management",
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Finance",
+            "Industrial Management",
+            "Information Technology",
+            "Management",
+            "Mechanical Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Higher Learning Commission",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Doug Jensen"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Daniel Leingang"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2022-2023",
+        "Staff Full Time Total:": "377",
+        "Students Statistics Year:": "2022-2023",
+        "Students Total:": "4000"
+      },
+      "history": "Founded 1939",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "3728",
+      "iau_id": "IAU-003728",
+      "name": "Dickinson State University",
+      "alt_name": "(DSU)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sUzxSLmBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003728",
+      "address": {
+        "Street": "291 Campus Drive",
+        "City": "Dickinson",
+        "Province": "North Dakota",
+        "Post Code": "58601",
+        "WWW": "https://dickinsonstate.edu"
+      },
+      "website": "https://dickinsonstate.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Agriculture and Technical Studies",
+          "fields": [
+            "Agricultural Business",
+            "Agriculture",
+            "Farm Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Arts and Letters",
+          "fields": [
+            "Art Education",
+            "Dance",
+            "Education",
+            "Fine Arts",
+            "Graphic Design",
+            "Music",
+            "Music Theory and Composition",
+            "Musical Instruments",
+            "Performing Arts",
+            "Singing",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Department/Division : Health and Physical Education",
+          "fields": [
+            "Health Sciences",
+            "Physical Education"
+          ]
+        },
+        {
+          "name": "Department/Division : Language and Literature",
+          "fields": [
+            "English",
+            "Literature",
+            "Spanish",
+            "Writing"
+          ]
+        },
+        {
+          "name": "Department/Division : Mathematics and Computer Science",
+          "fields": [
+            "Computer Science",
+            "Mathematics and Computer Science",
+            "Mathematics Education"
+          ]
+        },
+        {
+          "name": "Department/Division : Natural Sciences",
+          "fields": [
+            "Biological and Life Sciences",
+            "Biology",
+            "Chemistry",
+            "Earth Sciences",
+            "Environmental Studies",
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "Department/Division : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Department/Division : Social Sciences",
+          "fields": [
+            "Geography",
+            "History",
+            "Political Sciences",
+            "Social Sciences",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Department/Division : Teacher Education",
+          "fields": [
+            "Primary Education",
+            "Psychology",
+            "Teacher Training",
+            "Technology Education"
+          ]
+        },
+        {
+          "name": "School : Business and Entrepreneurship",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Animal Husbandry",
+            "Business Administration",
+            "Business and Commerce",
+            "Business Education",
+            "Finance",
+            "Human Resources",
+            "Management"
+          ]
+        },
+        {
+          "name": "School : Kinesiology",
+          "fields": [
+            "Kinesiology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Associate Degree",
+          "fields": [
+            "Agriculture",
+            "Biology",
+            "Business Administration",
+            "Business Education",
+            "Chemistry",
+            "Communication Studies",
+            "Computer Science",
+            "Criminology",
+            "English",
+            "Environmental Studies",
+            "Health Education",
+            "History",
+            "Humanities and Social Science Education",
+            "Mathematics",
+            "Mathematics and Computer Science",
+            "Music",
+            "Music Education",
+            "Nursing",
+            "Physical Education",
+            "Political Sciences",
+            "Primary Education",
+            "Psychology",
+            "Science Education",
+            "Social Sciences",
+            "Technology Education",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Agriculture",
+            "Biology",
+            "Business Administration",
+            "Business Education",
+            "Chemistry",
+            "Communication Studies",
+            "Computer Science",
+            "Criminology",
+            "English",
+            "Environmental Studies",
+            "Health Education",
+            "History",
+            "Humanities and Social Science Education",
+            "Mathematics",
+            "Mathematics and Computer Science",
+            "Music",
+            "Music Education",
+            "Nursing",
+            "Physical Education",
+            "Political Sciences",
+            "Primary Education",
+            "Psychology",
+            "Science Education",
+            "Social Sciences",
+            "Technology Education",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Business Administration",
+            "Educational Administration",
+            "Entrepreneurship",
+            "Primary Education",
+            "Sports Management",
+            "Teacher Training"
+          ]
+        }
+      ],
+      "accreditation": "Higher Learning Commission",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Stephen D. Easton"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Holly Gruhlke"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Huijian Dong"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2022-2023",
+        "Staff Full Time Total:": "132",
+        "Students Statistics Year:": "2023-2024",
+        "Students Total:": "1441"
+      },
+      "history": "Created 1918",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "11489",
+      "iau_id": "IAU-011489",
+      "name": "Mayville State University",
+      "alt_name": "(MSU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyRULiNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-011489",
+      "address": {
+        "Street": "330 3rd Street, NE",
+        "City": "Mayville",
+        "Province": "North Dakota",
+        "Post Code": "58257",
+        "WWW": "https://www.mayvillestate.edu"
+      },
+      "website": "https://www.mayvillestate.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Online and Distance Education",
+          "fields": [
+            "Business Administration",
+            "Education",
+            "Mathematics",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Course/Programme : Pre-professional Program",
+          "fields": [
+            "Biomedical Engineering",
+            "Chemical Engineering",
+            "Chiropractic",
+            "Dentistry",
+            "Engineering",
+            "Fishery",
+            "Genetics",
+            "Law",
+            "Medicine",
+            "Nursing",
+            "Occupational Therapy",
+            "Pharmacy",
+            "Physical Therapy",
+            "Physiology",
+            "Sports",
+            "Wildlife"
+          ]
+        },
+        {
+          "name": "Department/Division : Business",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Department/Division : Computer Information Systems",
+          "fields": [
+            "Computer Engineering"
+          ]
+        },
+        {
+          "name": "Department/Division : Education and Psychology",
+          "fields": [
+            "Education",
+            "Information Sciences",
+            "Library Science",
+            "Preschool Education",
+            "Primary Education",
+            "Psychology",
+            "Secondary Education"
+          ]
+        },
+        {
+          "name": "Department/Division : Health, Physical Education and Recreation",
+          "fields": [
+            "Health Education",
+            "Physical Education",
+            "Sports Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Liberal Arts",
+          "fields": [
+            "Communication Studies",
+            "English",
+            "Geography",
+            "History",
+            "Social Sciences",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Department/Division : Mathematics",
+          "fields": [
+            "Mathematics"
+          ]
+        },
+        {
+          "name": "Department/Division : Science",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Laboratory Techniques",
+            "Science Education"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Associate Degree",
+          "fields": [
+            "Agricultural Business",
+            "Biology",
+            "Business Administration",
+            "Chemistry",
+            "Communication Studies",
+            "Education",
+            "English",
+            "Geography",
+            "Health Education",
+            "History",
+            "Information Sciences",
+            "Library Science",
+            "Music",
+            "Natural Sciences",
+            "Nursing",
+            "Parks and Recreation",
+            "Physical Education",
+            "Preschool Education",
+            "Psychology",
+            "Science Education",
+            "Social Sciences",
+            "Sociology",
+            "Special Education",
+            "Sports Management",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Agricultural Business",
+            "Biology",
+            "Business Administration",
+            "Chemistry",
+            "Communication Studies",
+            "Education",
+            "English",
+            "Geography",
+            "Health Education",
+            "History",
+            "Information Sciences",
+            "Library Science",
+            "Music",
+            "Natural Sciences",
+            "Nursing",
+            "Parks and Recreation",
+            "Physical Education",
+            "Preschool Education",
+            "Psychology",
+            "Science Education",
+            "Social Sciences",
+            "Sociology",
+            "Special Education",
+            "Sports Management",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Post-bachelor's Diploma/Certificate",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Education",
+            "Nursing",
+            "Teacher Training"
+          ]
+        }
+      ],
+      "accreditation": "Higher Learning Commission",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Brian Van Horn"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2022-2023",
+        "Staff Full Time Male:": "36",
+        "Staff Full Time Female:": "46",
+        "Staff Full Time Total:": "82",
+        "Students Statistics Year:": "2022-2023",
+        "Students Total:": "1123"
+      },
+      "history": "Created 1889",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "11933",
+      "iau_id": "IAU-011933",
+      "name": "Minot State University",
+      "alt_name": "(MSU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyRZLFMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-011933",
+      "address": {
+        "Street": "500 University Avenue West",
+        "City": "Minot",
+        "Province": "North Dakota",
+        "Post Code": "58707",
+        "WWW": "https://www.minotstateu.edu"
+      },
+      "website": "https://www.minotstateu.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1913,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "August to May. Also Summer Session",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "College : Arts and Sciences",
+          "fields": [
+            "American Studies",
+            "Arts and Humanities",
+            "Biology",
+            "Chemistry",
+            "Communication Arts",
+            "Communication Studies",
+            "Criminal Law",
+            "Earth Sciences",
+            "Economics",
+            "English",
+            "Film",
+            "Gender Studies",
+            "Geography",
+            "History",
+            "Mathematics and Computer Science",
+            "Modern Languages",
+            "Music",
+            "Native American Studies",
+            "Philosophy",
+            "Physics",
+            "Radio and Television Broadcasting",
+            "Radiology",
+            "Science Education",
+            "Social Sciences",
+            "Sociology",
+            "Theatre",
+            "Women's Studies",
+            "Writing"
+          ]
+        },
+        {
+          "name": "College : Business",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Finance",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "College : Education and Health Sciences",
+          "fields": [
+            "Behavioural Sciences",
+            "Communication Disorders",
+            "Education",
+            "Educational Psychology",
+            "Nursing",
+            "Physical Education",
+            "Psychology",
+            "Social Work",
+            "Special Education",
+            "Sports",
+            "Teacher Training"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Associate Degree",
+          "fields": [
+            "Development Studies"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Art Education",
+            "Bioinformatics",
+            "Biology",
+            "Business Administration",
+            "Business Education",
+            "Chemistry",
+            "Communication Disorders",
+            "Communication Studies",
+            "Computer Science",
+            "Criminology",
+            "Data Science",
+            "English",
+            "Entrepreneurship",
+            "Finance",
+            "Fine Arts",
+            "Geology",
+            "History",
+            "Humanities and Social Science Education",
+            "Information Technology",
+            "International Business",
+            "Journalism",
+            "Management",
+            "Marketing",
+            "Mathematics",
+            "Mathematics Education",
+            "Medical Technology",
+            "Multimedia",
+            "Museum Studies",
+            "Music",
+            "Music Education",
+            "Nursing",
+            "Physical Education",
+            "Preschool Education",
+            "Primary Education",
+            "Psychology",
+            "Public Relations",
+            "Radiology",
+            "Social and Community Services",
+            "Social Sciences",
+            "Social Work",
+            "Sociology",
+            "Special Education",
+            "Speech Studies"
+          ]
+        },
+        {
+          "name": "Post-bachelor's Diploma/Certificate",
+          "fields": [
+            "Management",
+            "Management Systems",
+            "Special Education"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Education",
+            "Information Technology",
+            "Management",
+            "Science Education",
+            "Social and Community Services",
+            "Special Education",
+            "Speech Therapy and Audiology",
+            "Sports Management"
+          ]
+        },
+        {
+          "name": "Education Specialist Degree",
+          "fields": [
+            "Educational Psychology"
+          ]
+        }
+      ],
+      "accreditation": "Higher Learning Commission",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Steven Shirley"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Kevin Harmon"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2022-2023",
+        "Staff Full Time Total:": "272",
+        "Students Statistics Year:": "2022-2023",
+        "Students Total:": "2777"
+      },
+      "history": "Founded 1913 as Northwestern Normal School, acquired present title 1987.",
+      "periodicals": [
+        "Undergraduate and Graduate Catalogs",
+        "Undergraduate and Graduate Catalogs"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "12780",
+      "iau_id": "IAU-012780",
+      "name": "North Dakota State University",
+      "alt_name": "(NDSU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyhXLiNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-012780",
+      "address": {
+        "Street": "P.O. Box 60501340 Administration Ave.",
+        "City": "Fargo",
+        "Province": "North Dakota",
+        "Post Code": "58102",
+        "WWW": "https://www.ndsu.edu"
+      },
+      "website": "https://www.ndsu.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1890,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "August to May (August-December; January-May). Also Summer sessions (May to June; June to August)",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "College : Agriculture, Food Systems and Natural Resources",
+          "fields": [
+            "Agricultural Business",
+            "Agricultural Economics",
+            "Agricultural Engineering",
+            "Agricultural Management",
+            "Animal Husbandry",
+            "Biotechnology",
+            "Crop Production",
+            "Ecology",
+            "Food Science",
+            "Horticulture",
+            "Meat and Poultry",
+            "Microbiology",
+            "Natural Resources",
+            "Plant Pathology",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "College : Arts and Sciences",
+          "fields": [
+            "Anthropology",
+            "Architecture",
+            "Biochemistry",
+            "Biology",
+            "Communication Studies",
+            "Computer Science",
+            "Criminal Law",
+            "Earth Sciences",
+            "English",
+            "Fine Arts",
+            "Geology",
+            "History",
+            "Landscape Architecture",
+            "Mathematics",
+            "Microbiology",
+            "Modern Languages",
+            "Music",
+            "Natural Resources",
+            "Performing Arts",
+            "Philosophy",
+            "Physics",
+            "Political Sciences",
+            "Polymer and Plastics Technology",
+            "Psychology",
+            "Religious Studies",
+            "Sociology",
+            "Statistics",
+            "Theatre",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "College : Business",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Finance",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "College : Engineering",
+          "fields": [
+            "Aeronautical and Aerospace Engineering",
+            "Agricultural Engineering",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Construction Engineering",
+            "Electrical Engineering",
+            "Environmental Engineering",
+            "Industrial Engineering",
+            "Landscape Architecture",
+            "Mechanical Engineering",
+            "Military Science"
+          ]
+        },
+        {
+          "name": "College : Health and Human Sciences",
+          "fields": [
+            "Child Care and Development",
+            "Education",
+            "Family Studies",
+            "Health Education",
+            "Nursing",
+            "Nutrition",
+            "Pharmacy",
+            "Physical Education",
+            "Radiology",
+            "Respiratory Therapy",
+            "Special Education",
+            "Teacher Training"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Agricultural Business",
+            "Agricultural Economics",
+            "Agricultural Education",
+            "Agricultural Engineering",
+            "Agricultural Management",
+            "Agriculture",
+            "Anthropology",
+            "Architecture",
+            "Art Education",
+            "Biochemistry",
+            "Biotechnology",
+            "Business Administration",
+            "Business Education",
+            "Chemistry",
+            "Civil Engineering",
+            "Communication Studies",
+            "Computer Engineering",
+            "Computer Science",
+            "Construction Engineering",
+            "Consumer Studies",
+            "Criminal Law",
+            "Crop Production",
+            "Development Studies",
+            "Earth Sciences",
+            "Economics",
+            "Electrical Engineering",
+            "English",
+            "Environmental Engineering",
+            "Environmental Studies",
+            "Ethics",
+            "Family Studies",
+            "Finance",
+            "Fine Arts",
+            "Food Science",
+            "Gender Studies",
+            "Health Education",
+            "Higher Education",
+            "History",
+            "Horticulture",
+            "Humanities and Social Science Education",
+            "Industrial Engineering",
+            "Industrial Management",
+            "Interior Design",
+            "International Business",
+            "International Studies",
+            "Journalism",
+            "Logistics Management",
+            "Management",
+            "Marketing",
+            "Mathematics",
+            "Mathematics and Computer Science",
+            "Mathematics Education",
+            "Mechanical Engineering",
+            "Medical Technology",
+            "Microbiology",
+            "Molecular Biology",
+            "Music",
+            "Music Education",
+            "Natural Resources",
+            "Natural Sciences",
+            "Nursing",
+            "Nutrition",
+            "Pharmacy",
+            "Philosophy",
+            "Physical Education",
+            "Physics",
+            "Political Sciences",
+            "Polymer and Plastics Technology",
+            "Primary Education",
+            "Protective Services",
+            "Psychology",
+            "Radiology",
+            "Respiratory Therapy",
+            "Science Education",
+            "Social Work",
+            "Sociology",
+            "Software Engineering",
+            "Spanish",
+            "Sports Management",
+            "Statistics",
+            "Theatre",
+            "Veterinary Science",
+            "Women's Studies"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Accountancy",
+            "Agricultural Business",
+            "Agricultural Education",
+            "Animal Husbandry",
+            "Anthropology",
+            "Architecture",
+            "Biochemistry",
+            "Bioinformatics",
+            "Biology",
+            "Biomedical Engineering",
+            "Botany",
+            "Business Administration",
+            "Chemistry",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Construction Engineering",
+            "Consumer Studies",
+            "Criminology",
+            "Crop Production",
+            "Development Studies",
+            "Education",
+            "Educational Administration",
+            "Educational and Student Counselling",
+            "Electrical Engineering",
+            "Engineering",
+            "English",
+            "Entomology",
+            "Environmental Engineering",
+            "Environmental Studies",
+            "Family Studies",
+            "Fine Arts",
+            "Food Science",
+            "Health Sciences",
+            "History",
+            "Horticulture",
+            "Industrial Engineering",
+            "International Business",
+            "Landscape Architecture",
+            "Logistics Management",
+            "Marketing",
+            "Mass Communication",
+            "Materials Engineering",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Microbiology",
+            "Music",
+            "Natural Resources",
+            "Nursing",
+            "Nutrition",
+            "Physical Education",
+            "Physics",
+            "Plant and Crop Protection",
+            "Plant Pathology",
+            "Polymer and Plastics Technology",
+            "Public Administration",
+            "Public Health",
+            "Sociology",
+            "Software Engineering",
+            "Soil Science",
+            "Speech Studies",
+            "Sports",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Doctor's Degrees (Professional Practice)",
+          "fields": [
+            "Education",
+            "Music",
+            "Nursing",
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Doctor's Degree (Research/Scholarship)",
+          "fields": [
+            "Agriculture",
+            "Animal Husbandry",
+            "Biochemistry",
+            "Botany",
+            "Cell Biology",
+            "Chemistry",
+            "Civil Engineering",
+            "Communication Studies",
+            "Computer Engineering",
+            "Computer Science",
+            "Criminal Law",
+            "Criminology",
+            "Crop Production",
+            "Development Studies",
+            "Dietetics",
+            "Economics",
+            "Education",
+            "Educational and Student Counselling",
+            "Electrical Engineering",
+            "English",
+            "Entomology",
+            "Family Studies",
+            "Food Science",
+            "Gerontology",
+            "History",
+            "Industrial Engineering",
+            "Logistics Management",
+            "Management",
+            "Materials Engineering",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Molecular Biology",
+            "Music",
+            "Nanotechnology",
+            "Natural Resources",
+            "Nursing",
+            "Nutrition",
+            "Pharmacy",
+            "Physical Education",
+            "Physics",
+            "Plant Pathology",
+            "Polymer and Plastics Technology",
+            "Psychology",
+            "Software Engineering",
+            "Soil Science",
+            "Statistics",
+            "Transport Management",
+            "Writing",
+            "Zoology"
+          ]
+        }
+      ],
+      "accreditation": "Higher Learning Commission",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Marshall Stewart"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Shari R. Veil"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2022-2023",
+        "Staff Full Time Total:": "839",
+        "Students Statistics Year:": "2022-2023",
+        "Students Total:": "12242"
+      },
+      "history": "Founded 1890. A Land-Grant institution.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "26514",
+      "iau_id": "IAU-026514",
+      "name": "Nueta Hidatsa Sahnish College",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzhVLDMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-026514",
+      "address": {
+        "Street": "P.O. Box 490301 College Drive",
+        "City": "New Town",
+        "Province": "North Dakota",
+        "Post Code": "58763",
+        "WWW": "https://nhsc.edu"
+      },
+      "website": "https://nhsc.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Addiction Studies",
+          "fields": [
+            "Public Health"
+          ]
+        },
+        {
+          "name": "Course/Programme : Business Administration",
+          "fields": [
+            "Business Administration",
+            "Entrepreneurship"
+          ]
+        },
+        {
+          "name": "Course/Programme : Computer Science",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Course/Programme : Education",
+          "fields": [
+            "Preschool Education",
+            "Primary Education"
+          ]
+        },
+        {
+          "name": "Course/Programme : Environmental Science",
+          "fields": [
+            "Environmental Studies"
+          ]
+        },
+        {
+          "name": "Course/Programme : Equine Studies",
+          "fields": [
+            "Animal Husbandry"
+          ]
+        },
+        {
+          "name": "Course/Programme : Human Services and Social Work",
+          "fields": [
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Course/Programme : Mathematics",
+          "fields": [
+            "Mathematics"
+          ]
+        },
+        {
+          "name": "Course/Programme : Native American Studies",
+          "fields": [
+            "Native American Studies"
+          ]
+        },
+        {
+          "name": "Course/Programme : Pre-Engineering",
+          "fields": [
+            "Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Science",
+          "fields": [
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "Course/Programme : Sustainable Energy",
+          "fields": [
+            "Sustainable Development"
+          ]
+        },
+        {
+          "name": "Course/Programme : Welding Technology",
+          "fields": [
+            "Metal Techniques"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Associate Degree",
+          "fields": [
+            "Business Administration",
+            "Environmental Studies",
+            "Native American Studies",
+            "Primary Education"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Business Administration",
+            "Environmental Studies",
+            "Native American Studies",
+            "Primary Education"
+          ]
+        }
+      ],
+      "accreditation": "Higher Learning Commission",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Twyla Baker-Demaray"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Robert Rainbow"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2022-2023",
+        "Staff Full Time Total:": "57",
+        "Students Statistics Year:": "2022-2023",
+        "Students Total:": "172"
+      },
+      "history": "Created 1973 and received first accreditation in 1988. Was previously known as Fort Berthold Community College.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "22390",
+      "iau_id": "IAU-022390",
+      "name": "Sitting Bull College",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyhTLjNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-022390",
+      "address": {
+        "Street": "9299 Highway 24",
+        "City": "Fort Yates",
+        "Province": "North Dakota",
+        "Post Code": "58538",
+        "WWW": "https://sittingbull.edu"
+      },
+      "website": "https://sittingbull.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "August to July (August-January, January-May, May-July)",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Agriculture",
+          "fields": [
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Department/Division : Arts and Humanities",
+          "fields": [
+            "Arts and Humanities",
+            "Communication Studies",
+            "Computer Science",
+            "English",
+            "Health Education",
+            "History",
+            "Mathematics",
+            "Native American Studies",
+            "Nursing",
+            "Physical Education",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Department/Division : Business Administration",
+          "fields": [
+            "Business Administration",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Department/Division : Construction Technology",
+          "fields": [
+            "Building Technologies",
+            "Construction Engineering",
+            "Electrical Engineering",
+            "Mechanical Equipment and Maintenance",
+            "Metal Techniques"
+          ]
+        },
+        {
+          "name": "Department/Division : Education",
+          "fields": [
+            "Curriculum",
+            "Education",
+            "Preschool Education",
+            "Primary Education",
+            "Secondary Education",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Department/Division : Engineering",
+          "fields": [
+            "Engineering"
+          ]
+        },
+        {
+          "name": "Department/Division : Math and Science",
+          "fields": [
+            "Environmental Studies"
+          ]
+        },
+        {
+          "name": "Department/Division : Native American Studies",
+          "fields": [
+            "Native American Studies"
+          ]
+        },
+        {
+          "name": "Department/Division : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Department/Division : Social and Behavioural Science",
+          "fields": [
+            "Criminology",
+            "Law",
+            "Social and Community Services",
+            "Social Sciences",
+            "Social Work"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Associate Degree",
+          "fields": [
+            "Business Administration",
+            "Criminology",
+            "Environmental Studies",
+            "Native American Studies",
+            "Preschool Education",
+            "Primary Education",
+            "Science Education",
+            "Secondary Education",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Business Administration",
+            "Criminology",
+            "Environmental Studies",
+            "Native American Studies",
+            "Preschool Education",
+            "Primary Education",
+            "Science Education",
+            "Secondary Education",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Business Administration",
+            "Curriculum",
+            "Education",
+            "Environmental Studies"
+          ]
+        }
+      ],
+      "accreditation": "Higher Learning Commission",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Tomi Kay Phillips"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Koreen Ressler"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2022-2023",
+        "Staff Full Time Total:": "40",
+        "Students Statistics Year:": "2022-2023",
+        "Students Total:": "257"
+      },
+      "history": "Founded as Standing Rock Community College (SRCC) 1973. Acquired present title and status 1996.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "16847",
+      "iau_id": "IAU-016847",
+      "name": "Trinity Bible College and Graduate School",
+      "alt_name": "(TBCGS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhYLSM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016847",
+      "address": {
+        "Street": "50 Sixth Avenue South",
+        "City": "Ellendale",
+        "Province": "North Dakota",
+        "Post Code": "58436",
+        "WWW": "https://trinitybiblecollege.edu"
+      },
+      "website": "https://trinitybiblecollege.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1948,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Bible",
+          "fields": [
+            "Bible"
+          ]
+        },
+        {
+          "name": "Course/Programme : Business Administration",
+          "fields": [
+            "Business Administration",
+            "Finance",
+            "Management",
+            "Pastoral Studies"
+          ]
+        },
+        {
+          "name": "Course/Programme : Education",
+          "fields": [
+            "Education",
+            "Physical Education",
+            "Primary Education"
+          ]
+        },
+        {
+          "name": "Course/Programme : General Studies",
+          "fields": [
+            "Arts and Humanities",
+            "History",
+            "Natural Sciences",
+            "Physical Education",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Intercultural Studies",
+          "fields": [
+            "Anthropology",
+            "Missionary Studies",
+            "Pastoral Studies",
+            "Religion",
+            "Religious Studies",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Music",
+          "fields": [
+            "Music"
+          ]
+        },
+        {
+          "name": "Course/Programme : Vocational Ministry",
+          "fields": [
+            "Christian Religious Studies"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Associate Degree",
+          "fields": [
+            "Bible",
+            "Business Administration",
+            "Cultural Studies",
+            "English",
+            "International Business",
+            "Marketing",
+            "Pastoral Studies",
+            "Physical Education",
+            "Primary Education",
+            "Psychology",
+            "Secondary Education",
+            "Social and Community Services",
+            "Teacher Training",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Bible",
+            "Business Administration",
+            "Cultural Studies",
+            "English",
+            "International Business",
+            "Marketing",
+            "Pastoral Studies",
+            "Physical Education",
+            "Primary Education",
+            "Psychology",
+            "Secondary Education",
+            "Social and Community Services",
+            "Teacher Training",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Missionary Studies",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Doctor's Degrees (Professional Practice)",
+          "fields": [
+            "Leadership"
+          ]
+        },
+        {
+          "name": "Doctor's Degree (Research/Scholarship)",
+          "fields": [
+            "Theology"
+          ]
+        }
+      ],
+      "accreditation": "Association for Biblical Higher Education, Commission on Accreditation",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Paul Alexander"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2022-2023",
+        "Staff Full Time Total:": "13",
+        "Students Statistics Year:": "2022-2023",
+        "Students Total:": "289"
+      },
+      "history": "Founded 1948 as Lakewood Park Bible School. Became Trinity Bible College, 1964. Acquired present title",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "26516",
+      "iau_id": "IAU-026516",
+      "name": "Turtle Mountain Community College",
+      "alt_name": "(TMCC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzhVLDM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-026516",
+      "address": {
+        "Street": "P.O. Box 34010145 BIA Road 7",
+        "City": "Belcourt",
+        "Province": "North Dakota",
+        "Post Code": "58316",
+        "WWW": "https://www.tm.edu"
+      },
+      "website": "https://www.tm.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Education",
+          "fields": [
+            "Biology",
+            "Primary Education",
+            "Science Education",
+            "Secondary Education"
+          ]
+        },
+        {
+          "name": "Course/Programme : Leadership and Management",
+          "fields": [
+            "Leadership",
+            "Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Native American Studies",
+          "fields": [
+            "Amerindian Languages",
+            "Native American Studies"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Associate Degree",
+          "fields": [
+            "Amerindian Languages",
+            "Biology",
+            "Cultural Studies",
+            "History",
+            "Leadership",
+            "Management",
+            "Native American Studies",
+            "Primary Education",
+            "Science Education",
+            "Secondary Education"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Amerindian Languages",
+            "Biology",
+            "Cultural Studies",
+            "History",
+            "Leadership",
+            "Management",
+            "Native American Studies",
+            "Primary Education",
+            "Science Education",
+            "Secondary Education"
+          ]
+        }
+      ],
+      "accreditation": "Higher Learning Commission",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Donna Brown"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Dave Ripley"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2022-2023",
+        "Staff Full Time Total:": "64",
+        "Students Statistics Year:": "2022-2023",
+        "Students Total:": "599"
+      },
+      "history": "Created 1972 by the Turtle Mountain Chippewa Tribe. First accredited 1984.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "26517",
+      "iau_id": "IAU-026517",
+      "name": "United Tribes Technical College",
+      "alt_name": "(UTTC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzhVLDM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-026517",
+      "address": {
+        "Street": "3315 University Drive",
+        "City": "Bismarck",
+        "Province": "North Dakota",
+        "Post Code": "58504",
+        "WWW": "https://uttc.edu"
+      },
+      "website": "https://uttc.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Automotive Technology",
+          "fields": [
+            "Automotive Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Business Administration",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Course/Programme : Computer Information Technology",
+          "fields": [
+            "Computer Science",
+            "Information Sciences"
+          ]
+        },
+        {
+          "name": "Course/Programme : Criminal Justice",
+          "fields": [
+            "Justice Administration"
+          ]
+        },
+        {
+          "name": "Course/Programme : Elementary Education",
+          "fields": [
+            "Primary Education"
+          ]
+        },
+        {
+          "name": "Course/Programme : Environmental Science and Research",
+          "fields": [
+            "Environmental Studies"
+          ]
+        },
+        {
+          "name": "Course/Programme : Graphic Design",
+          "fields": [
+            "Graphic Design"
+          ]
+        },
+        {
+          "name": "Course/Programme : Health, Physical Education & Recreation",
+          "fields": [
+            "Health Education",
+            "Parks and Recreation",
+            "Physical Education"
+          ]
+        },
+        {
+          "name": "Course/Programme : Human & Social Services",
+          "fields": [
+            "Social and Community Services"
+          ]
+        },
+        {
+          "name": "Course/Programme : Paralegal Studies",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Course/Programme : Pre-Engineering",
+          "fields": [
+            "Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Sustainable Agriculture and Food Systems",
+          "fields": [
+            "Agriculture",
+            "Food Science"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Associate Degree",
+          "fields": [
+            "Business Administration",
+            "Criminology",
+            "Environmental Studies",
+            "Primary Education"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Business Administration",
+            "Criminology",
+            "Environmental Studies",
+            "Primary Education"
+          ]
+        }
+      ],
+      "accreditation": "Higher Learning Commission",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Leander R. McDonald"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Alicia Reed"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2022-2023",
+        "Staff Full Time Total:": "37",
+        "Students Statistics Year:": "2022-2023",
+        "Students Total:": "506"
+      },
+      "history": "Created 1969. First accredited 1982.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "9810",
+      "iau_id": "IAU-009810",
+      "name": "University of Jamestown",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uM0BRLGBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009810",
+      "address": {
+        "Street": "6000 College Lane",
+        "City": "Jamestown",
+        "Province": "North Dakota",
+        "Post Code": "58405",
+        "WWW": "https://www.uj.edu"
+      },
+      "website": "https://www.uj.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1883,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Graduate",
+          "fields": [
+            "Education",
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "Course/Programme : Undergraduate",
+          "fields": [
+            "Accountancy",
+            "Applied Mathematics",
+            "Biochemistry",
+            "Biology",
+            "Business Administration",
+            "Chemistry",
+            "Communication Studies",
+            "Criminal Law",
+            "Economics",
+            "English",
+            "Finance",
+            "Fine Arts",
+            "French",
+            "German",
+            "Health Administration",
+            "History",
+            "Information Sciences",
+            "Information Technology",
+            "Management",
+            "Mathematics",
+            "Music",
+            "Music Education",
+            "Nursing",
+            "Philosophy",
+            "Physical Education",
+            "Physical Therapy",
+            "Political Sciences",
+            "Primary Education",
+            "Psychology",
+            "Religion",
+            "Science Education",
+            "Spanish",
+            "Teacher Training",
+            "Theatre"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Biochemistry",
+            "Biology",
+            "Business Administration",
+            "Chemistry",
+            "Civil Engineering",
+            "Communication Studies",
+            "Computer Science",
+            "Criminology",
+            "Education",
+            "English",
+            "Environmental Studies",
+            "Finance",
+            "Fine Arts",
+            "French",
+            "German",
+            "Graphic Design",
+            "Health Administration",
+            "History",
+            "Human Resources",
+            "Industrial Management",
+            "Information Sciences",
+            "Information Technology",
+            "Management",
+            "Mechanical Engineering",
+            "Medical Technology",
+            "Music",
+            "Physical Education",
+            "Primary Education",
+            "Science Education"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Clinical Psychology",
+            "Curriculum",
+            "Leadership"
+          ]
+        },
+        {
+          "name": "Doctor's Degrees (Professional Practice)",
+          "fields": [
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "Doctor's Degree (Research/Scholarship)",
+          "fields": [
+            "Health Sciences"
+          ]
+        }
+      ],
+      "accreditation": "Higher Learning Commission",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Polly Peterson"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Paul Olson"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2022-2023",
+        "Staff Full Time Total:": "135",
+        "Students Statistics Year:": "2022-2023",
+        "Students Total:": "1242"
+      },
+      "history": "Founded 1883 as Jamestown College. Acquired present title and status 2013.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20276",
+      "iau_id": "IAU-020276",
+      "name": "University of Mary",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BSLVM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020276",
+      "address": {
+        "Street": "7500 University Drive",
+        "City": "Bismarck",
+        "Province": "North Dakota",
+        "Post Code": "58504",
+        "WWW": "https://www.umary.edu"
+      },
+      "website": "https://www.umary.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1959,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "August to April. Also Summer Session (June-July); and May Term",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "School : Arts and Sciences",
+          "fields": [
+            "Arts and Humanities",
+            "Behavioural Sciences",
+            "Biology",
+            "Catholic Theology",
+            "Chemistry",
+            "Communication Studies",
+            "Economics",
+            "Engineering",
+            "English",
+            "Government",
+            "History",
+            "Mass Communication",
+            "Mathematics",
+            "Mathematics Education",
+            "Missionary Studies",
+            "Music",
+            "Music Education",
+            "Pastoral Studies",
+            "Philosophy",
+            "Political Sciences",
+            "Religious Music",
+            "Science Education",
+            "Social Sciences",
+            "Social Studies",
+            "Spanish",
+            "Theology"
+          ]
+        },
+        {
+          "name": "School : Business",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Business Computing",
+            "Business Education",
+            "Finance",
+            "Health Administration",
+            "Information Technology",
+            "Leadership",
+            "Leisure Studies",
+            "Management",
+            "Marketing",
+            "Sports Management"
+          ]
+        },
+        {
+          "name": "School : Education and Behavioural Sciences",
+          "fields": [
+            "Behavioural Sciences",
+            "Criminal Law",
+            "Curriculum",
+            "Education",
+            "Educational Administration",
+            "Educational and Student Counselling",
+            "Educational Psychology",
+            "Health Education",
+            "Physical Education",
+            "Preschool Education",
+            "Primary Education",
+            "Psychology",
+            "Social Studies",
+            "Social Work",
+            "Special Education"
+          ]
+        },
+        {
+          "name": "School : Engineering",
+          "fields": [
+            "Civil Engineering",
+            "Computer Science",
+            "Construction Engineering",
+            "Electrical Engineering",
+            "Engineering",
+            "Environmental Engineering",
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "School : Health Sciences",
+          "fields": [
+            "Health Administration",
+            "Medical Technology",
+            "Nursing",
+            "Occupational Therapy",
+            "Radiology",
+            "Respiratory Therapy"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Associate Degree",
+          "fields": [
+            "Accountancy",
+            "Biochemistry",
+            "Biology",
+            "Business Administration",
+            "Business Education",
+            "Catholic Theology",
+            "Chemistry",
+            "Child Care and Development",
+            "Civil Engineering",
+            "Communication Disorders",
+            "Communication Studies",
+            "Computer Science",
+            "Construction Engineering",
+            "Criminology",
+            "Economics",
+            "Electrical Engineering",
+            "English",
+            "Environmental Engineering",
+            "Finance",
+            "Higher Education",
+            "History",
+            "Leisure Studies",
+            "Mathematics",
+            "Mathematics Education",
+            "Mechanical Engineering",
+            "Medical Technology",
+            "Music",
+            "Music Education",
+            "Nursing",
+            "Philosophy",
+            "Physical Education",
+            "Political Sciences",
+            "Preschool Education",
+            "Primary Education",
+            "Psychology",
+            "Radiology",
+            "Religious Music",
+            "Respiratory Therapy",
+            "Social and Community Services",
+            "Social Sciences",
+            "Social Work",
+            "Spanish",
+            "Special Education",
+            "Sports",
+            "Sports Management",
+            "Theatre",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Biochemistry",
+            "Biology",
+            "Business Administration",
+            "Business Education",
+            "Catholic Theology",
+            "Chemistry",
+            "Child Care and Development",
+            "Civil Engineering",
+            "Communication Disorders",
+            "Communication Studies",
+            "Computer Science",
+            "Construction Engineering",
+            "Criminology",
+            "Economics",
+            "Electrical Engineering",
+            "English",
+            "Environmental Engineering",
+            "Finance",
+            "Higher Education",
+            "History",
+            "Leisure Studies",
+            "Mathematics",
+            "Mathematics Education",
+            "Mechanical Engineering",
+            "Medical Technology",
+            "Music",
+            "Music Education",
+            "Nursing",
+            "Philosophy",
+            "Physical Education",
+            "Political Sciences",
+            "Preschool Education",
+            "Primary Education",
+            "Psychology",
+            "Radiology",
+            "Religious Music",
+            "Respiratory Therapy",
+            "Social and Community Services",
+            "Social Sciences",
+            "Social Work",
+            "Spanish",
+            "Special Education",
+            "Sports",
+            "Sports Management",
+            "Theatre",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Biology",
+            "Business Administration",
+            "Catholic Theology",
+            "Clinical Psychology",
+            "Education",
+            "Educational Administration",
+            "Educational and Student Counselling",
+            "Ethics",
+            "Health Administration",
+            "Health Sciences",
+            "Kinesiology",
+            "Leadership",
+            "Literacy Education",
+            "Management",
+            "Music",
+            "Nursing",
+            "Physical Education",
+            "Physiology",
+            "Psychology",
+            "Rehabilitation and Therapy",
+            "Respiratory Therapy",
+            "Special Education",
+            "Speech Therapy and Audiology",
+            "Sports",
+            "Sports Management"
+          ]
+        },
+        {
+          "name": "Doctor's Degrees (Professional Practice)",
+          "fields": [
+            "Business Administration",
+            "Education",
+            "Nursing",
+            "Occupational Therapy",
+            "Philosophy",
+            "Physical Therapy"
+          ]
+        }
+      ],
+      "accreditation": "Higher Learning Commission",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "James Patrick Shea"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Diane Fladeland"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2022-2023",
+        "Staff Full Time Total:": "286",
+        "Students Statistics Year:": "2022-2023",
+        "Students Total:": "3652"
+      },
+      "history": "Founded 1959 by the Benedictine Sisters of Annunciation Priory (Roman Catholic Church).",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "16588",
+      "iau_id": "IAU-016588",
+      "name": "University of North Dakota",
+      "alt_name": "(UND)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhVLiNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016588",
+      "address": {
+        "Street": "264 Centennial DriveStop 8193",
+        "City": "Grand Forks",
+        "Province": "North Dakota",
+        "Post Code": "58202",
+        "WWW": "https://und.edu"
+      },
+      "website": "https://und.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1883,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "August to May (August-December; January-May)",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "College : Arts and Sciences",
+          "fields": [
+            "Amerindian Languages",
+            "Anthropology",
+            "Art History",
+            "Arts and Humanities",
+            "Astrophysics",
+            "Biology",
+            "Chemistry",
+            "Communication Arts",
+            "Communication Disorders",
+            "Communication Studies",
+            "Criminology",
+            "English",
+            "Fine Arts",
+            "Forensic Medicine and Dentistry",
+            "French",
+            "Gender Studies",
+            "Geography",
+            "German",
+            "Graphic Design",
+            "History",
+            "Mathematics",
+            "Media Studies",
+            "Metal Techniques",
+            "Modern Languages",
+            "Music",
+            "Norwegian",
+            "Peace and Disarmament",
+            "Philosophy",
+            "Photography",
+            "Physics",
+            "Printing and Printmaking",
+            "Psychology",
+            "Religion",
+            "Sculpture",
+            "Sociology",
+            "Spanish",
+            "Theatre",
+            "Visual Arts",
+            "Women's Studies"
+          ]
+        },
+        {
+          "name": "College : Business and Public Administration",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Computer Science",
+            "Economics",
+            "Finance",
+            "Management",
+            "Marketing",
+            "Political Sciences",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "College : Education and Human Development",
+          "fields": [
+            "Computer Education",
+            "Education",
+            "Educational Administration",
+            "Educational and Student Counselling",
+            "Physical Education",
+            "Preschool Education",
+            "Primary Education",
+            "Public Health",
+            "Secondary Education",
+            "Social Work",
+            "Special Education",
+            "Sports",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "College : Engineering and Mines",
+          "fields": [
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Electrical Engineering",
+            "Energy Engineering",
+            "Engineering",
+            "Geological Engineering",
+            "Geology",
+            "Mechanical Engineering",
+            "Petroleum and Gas Engineering"
+          ]
+        },
+        {
+          "name": "College : Nursing and Professional Disciplines",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "School : Aerospace Sciences",
+          "fields": [
+            "Aeronautical and Aerospace Engineering",
+            "Astronomy and Space Science",
+            "Computer Science",
+            "Earth Sciences",
+            "Meteorology"
+          ]
+        },
+        {
+          "name": "School : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "School : Medicine",
+          "fields": [
+            "Anatomy",
+            "Biochemistry",
+            "Cell Biology",
+            "Immunology",
+            "Microbiology",
+            "Molecular Biology",
+            "Neurosciences",
+            "Obstetrics and Gynaecology",
+            "Occupational Therapy",
+            "Paediatrics",
+            "Pathology",
+            "Pharmacology",
+            "Physical Therapy",
+            "Physiology",
+            "Radiology",
+            "Surgery"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Aeronautical and Aerospace Engineering",
+            "Air Transport",
+            "Amerindian Languages",
+            "Banking",
+            "Biology",
+            "Biomedical Engineering",
+            "Business Administration",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civil Engineering",
+            "Classical Languages",
+            "Communication Disorders",
+            "Communication Studies",
+            "Computer Science",
+            "Criminology",
+            "Data Science",
+            "Dietetics",
+            "Earth Sciences",
+            "Economics",
+            "Education",
+            "Electrical Engineering",
+            "Energy Engineering",
+            "English",
+            "Entrepreneurship",
+            "Environmental Studies",
+            "Finance",
+            "Fine Arts",
+            "Fishery",
+            "Forensic Medicine and Dentistry",
+            "French",
+            "Gender Studies",
+            "Geography",
+            "Geological Engineering",
+            "Geology",
+            "German",
+            "Graphic Design",
+            "History",
+            "Human Resources",
+            "Humanities and Social Science Education",
+            "Information Technology",
+            "International Studies",
+            "Kinesiology",
+            "Logistics Management",
+            "Management",
+            "Marketing",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Meteorology",
+            "Molecular Biology",
+            "Music",
+            "Music Education",
+            "Native American Studies",
+            "Norwegian",
+            "Nursing",
+            "Nutrition",
+            "Petroleum and Gas Engineering",
+            "Philosophy",
+            "Physics",
+            "Political Sciences",
+            "Preschool Education",
+            "Primary Education",
+            "Psychology",
+            "Public Administration",
+            "Public Health",
+            "Science Education",
+            "Secondary Education",
+            "Social and Community Services",
+            "Social Sciences",
+            "Social Work",
+            "Sociology",
+            "Spanish",
+            "Sports",
+            "Theatre",
+            "Visual Arts",
+            "Wildlife",
+            "Women's Studies"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Accountancy",
+            "Air Transport",
+            "Biology",
+            "Biomedical Engineering",
+            "Biomedicine",
+            "Business Administration",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civil Engineering",
+            "Clinical Psychology",
+            "Communication Studies",
+            "Computer Science",
+            "Criminology",
+            "Data Science",
+            "Design",
+            "Earth Sciences",
+            "Economics",
+            "Education",
+            "Educational Administration",
+            "Electrical Engineering",
+            "Energy Engineering",
+            "Engineering",
+            "English",
+            "Environmental Engineering",
+            "Forensic Medicine and Dentistry",
+            "Geography",
+            "Geological Engineering",
+            "Geology",
+            "Higher Education",
+            "Kinesiology",
+            "Literacy Education",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Medical Technology",
+            "Medicine",
+            "Meteorology",
+            "Music",
+            "Natural Sciences",
+            "Nutrition",
+            "Occupational Therapy",
+            "Petroleum and Gas Engineering",
+            "Physical Therapy",
+            "Physics",
+            "Political Sciences",
+            "Preschool Education",
+            "Primary Education",
+            "Psychology",
+            "Public Administration",
+            "Public Health",
+            "Social Work",
+            "Sociology",
+            "Special Education",
+            "Speech Therapy and Audiology",
+            "Sports",
+            "Statistics",
+            "Surveying and Mapping",
+            "Teacher Training",
+            "Technology",
+            "Theatre",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Doctor's Degrees (Professional Practice)",
+          "fields": [
+            "Education",
+            "Law",
+            "Medicine",
+            "Nursing",
+            "Occupational Therapy",
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "Doctor's Degree (Research/Scholarship)",
+          "fields": [
+            "Aeronautical and Aerospace Engineering",
+            "Behavioural Sciences",
+            "Biology",
+            "Biomedical Engineering",
+            "Biomedicine",
+            "Chemical Engineering",
+            "Chemistry",
+            "Clinical Psychology",
+            "Communication Disorders",
+            "Communication Studies",
+            "Computer Science",
+            "Criminal Law",
+            "Earth Sciences",
+            "Education",
+            "Educational Research",
+            "Electrical Engineering",
+            "Energy Engineering",
+            "Engineering",
+            "English",
+            "Environmental Engineering",
+            "Geological Engineering",
+            "Geology",
+            "Health Education",
+            "Higher Education",
+            "History",
+            "Leadership",
+            "Mechanical Engineering",
+            "Meteorology",
+            "Music Education",
+            "Nursing",
+            "Petroleum and Gas Engineering",
+            "Physics",
+            "Psychology",
+            "Public Health",
+            "Teacher Training"
+          ]
+        }
+      ],
+      "accreditation": "Higher Learning Commission",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Andrew Armacost"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Eric Link"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2022-2023",
+        "Staff Full Time Total:": "1091",
+        "Students Statistics Year:": "2022-2023",
+        "Students Total:": "13876"
+      },
+      "history": "Founded 1883, the largest institution of higher education in the region of North Dakota, South Dakota and Montana. A centre for innovation and academic excellence in the upper Midwest.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20815",
+      "iau_id": "IAU-020815",
+      "name": "Valley City State University",
+      "alt_name": "(VCSU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BYLDM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020815",
+      "address": {
+        "Street": "101 College Street SW",
+        "City": "Valley City",
+        "Province": "North Dakota",
+        "Post Code": "58072",
+        "WWW": "https://www.vcsu.edu"
+      },
+      "website": "https://www.vcsu.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1890,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Arts",
+          "fields": [
+            "Art Education",
+            "Design",
+            "Music",
+            "Painting and Drawing",
+            "Sculpture"
+          ]
+        },
+        {
+          "name": "Department/Division : Business",
+          "fields": [
+            "Accountancy",
+            "Agricultural Business",
+            "Business Administration",
+            "Business Computing",
+            "Business Education",
+            "Finance",
+            "Information Technology",
+            "Management",
+            "Technology Education"
+          ]
+        },
+        {
+          "name": "Department/Division : Communication Arts",
+          "fields": [
+            "Communication Arts",
+            "Library Science",
+            "Mass Communication",
+            "Performing Arts"
+          ]
+        },
+        {
+          "name": "Department/Division : Computer Systems and Software Engineering",
+          "fields": [
+            "Computer Engineering",
+            "Computer Science",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Department/Division : Kinesiology and Human Performance",
+          "fields": [
+            "Health Education",
+            "Kinesiology",
+            "Leisure Studies",
+            "Sports"
+          ]
+        },
+        {
+          "name": "Department/Division : Language and Literature Department",
+          "fields": [
+            "English",
+            "Literature",
+            "Spanish"
+          ]
+        },
+        {
+          "name": "Department/Division : Mathematics",
+          "fields": [
+            "Mathematics",
+            "Mathematics Education"
+          ]
+        },
+        {
+          "name": "Department/Division : Music",
+          "fields": [
+            "Music"
+          ]
+        },
+        {
+          "name": "Department/Division : Science",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Fishery",
+            "Health Sciences",
+            "Medical Technology",
+            "Physics",
+            "Science Education",
+            "Wildlife"
+          ]
+        },
+        {
+          "name": "Department/Division : Social Science",
+          "fields": [
+            "Communication Studies",
+            "Criminal Law",
+            "Foreign Languages Education",
+            "History",
+            "Humanities and Social Science Education",
+            "Mass Communication",
+            "Psychology",
+            "Social Sciences",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Department/Division : Technology and STEM Education",
+          "fields": [
+            "Education",
+            "Mathematics Education",
+            "Science Education",
+            "Technology"
+          ]
+        },
+        {
+          "name": "School : Education",
+          "fields": [
+            "Education",
+            "Primary Education",
+            "Teacher Training",
+            "Technology Education"
+          ]
+        },
+        {
+          "name": "School : Graduate Studies",
+          "fields": [
+            "Accountancy",
+            "Agricultural Business",
+            "Art Education",
+            "Biology",
+            "Business Administration",
+            "Business Education",
+            "Chemistry",
+            "Communication Studies",
+            "Computer Science",
+            "Criminology",
+            "Education",
+            "English",
+            "Environmental Studies",
+            "Family Studies",
+            "Fine Arts",
+            "Fishery",
+            "Gerontology",
+            "Graphic Design",
+            "Health Education",
+            "Health Sciences",
+            "Higher Education",
+            "History",
+            "Human Resources",
+            "Humanities and Social Science Education",
+            "Kinesiology",
+            "Management",
+            "Marketing",
+            "Mathematics",
+            "Mathematics Education",
+            "Medical Technology",
+            "Music",
+            "Music Education",
+            "Physical Education",
+            "Primary Education",
+            "Psychology",
+            "Rehabilitation and Therapy",
+            "Science Education",
+            "Social Sciences",
+            "Software Engineering",
+            "Spanish",
+            "Sports",
+            "Sports Management",
+            "Technology Education",
+            "Wildlife"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Agricultural Business",
+            "Art Education",
+            "Biology",
+            "Business Administration",
+            "Business Education",
+            "Chemistry",
+            "Communication Studies",
+            "Computer Science",
+            "Criminology",
+            "Education",
+            "English",
+            "Environmental Studies",
+            "Family Studies",
+            "Fine Arts",
+            "Fishery",
+            "Gerontology",
+            "Graphic Design",
+            "Health Education",
+            "Health Sciences",
+            "Higher Education",
+            "History",
+            "Human Resources",
+            "Humanities and Social Science Education",
+            "Kinesiology",
+            "Management",
+            "Marketing",
+            "Mathematics",
+            "Mathematics Education",
+            "Medical Technology",
+            "Music",
+            "Music Education",
+            "Physical Education",
+            "Primary Education",
+            "Psychology",
+            "Rehabilitation and Therapy",
+            "Science Education",
+            "Social Sciences",
+            "Software Engineering",
+            "Spanish",
+            "Sports",
+            "Sports Management",
+            "Technology Education",
+            "Wildlife"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Business Computing",
+            "Education",
+            "Teacher Training"
+          ]
+        }
+      ],
+      "accreditation": "Higher Learning Commission",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Alan D. LaFave"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2022-2023",
+        "Staff Full Time Total:": "132",
+        "Students Statistics Year:": "2022-2023",
+        "Students Total:": "1658"
+      },
+      "history": "Founded 1890 as State Normal School. Acquired present title and status 1987.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    }
+  ]
+}

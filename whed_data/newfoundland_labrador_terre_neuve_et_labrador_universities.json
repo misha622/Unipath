@@ -1,0 +1,618 @@
+{
+  "country_name": "Newfoundland & Labrador / Terre-Neuve et Labrador",
+  "country_id": "Canada - Newfoundland & Labrador / Terre-Neuve et Labrador",
+  "institutions": [
+    {
+      "id": "11558",
+      "iau_id": "IAU-011558",
+      "name": "Memorial University",
+      "alt_name": "Memorial University of Newfoundland (MUN)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyRVLTNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-011558",
+      "address": {
+        "Street": "PO Box 4200",
+        "City": "St John's",
+        "Province": "Newfoundland & Labrador",
+        "Post Code": "A1C 5S7",
+        "WWW": "https://www.mun.ca"
+      },
+      "website": "https://www.mun.ca",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1925,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to August (September-December; January-April; May-August); also 6-week inter-session and 6-week summer session.",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : Sir Wilfred Grenfell",
+          "fields": [
+            "Arts and Humanities",
+            "Biology",
+            "Business Administration",
+            "Chemistry",
+            "Cultural Studies",
+            "Earth Sciences",
+            "English",
+            "Environmental Studies",
+            "Fine Arts",
+            "History",
+            "Mathematics",
+            "Natural Resources",
+            "Nursing",
+            "Physics",
+            "Primary Education",
+            "Psychology",
+            "Social Studies",
+            "Theatre",
+            "Tourism",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "College : Queen's",
+          "fields": [
+            "Bible",
+            "History of Religion",
+            "New Testament",
+            "Pastoral Studies",
+            "Religion",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Department/Division : Distance Education and Learning Technologies",
+          "fields": [
+            "Anthropology",
+            "Biology",
+            "Business Administration",
+            "Criminology",
+            "Curriculum",
+            "Earth Sciences",
+            "Economics",
+            "Education",
+            "Educational and Student Counselling",
+            "Educational Psychology",
+            "Engineering",
+            "English",
+            "Folklore",
+            "French",
+            "German",
+            "Higher Education",
+            "Law",
+            "Leadership",
+            "Leisure Studies",
+            "Library Science",
+            "Linguistics",
+            "Marine Engineering",
+            "Marine Science and Oceanography",
+            "Mathematics",
+            "Music",
+            "Nursing",
+            "Parks and Recreation",
+            "Philosophy",
+            "Physical Education",
+            "Physical Therapy",
+            "Police Studies",
+            "Political Sciences",
+            "Psychology",
+            "Public Administration",
+            "Regional Studies",
+            "Religious Studies",
+            "Russian",
+            "Social Work",
+            "Sociology",
+            "Spanish",
+            "Sports",
+            "Statistics",
+            "Technology",
+            "Women's Studies"
+          ]
+        },
+        {
+          "name": "Department/Division : Lifelong Learning",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Communication Studies",
+            "Computer Networks",
+            "Criminology",
+            "Development Studies",
+            "Human Resources",
+            "Insurance",
+            "Leadership",
+            "Library Science",
+            "Management",
+            "Marketing",
+            "Public Administration",
+            "Public Relations",
+            "Regional Studies",
+            "Robotics",
+            "Transport and Communications",
+            "Writing"
+          ]
+        },
+        {
+          "name": "Faculty : Arts",
+          "fields": [
+            "Ancient Civilizations",
+            "Anthropology",
+            "Archaeology",
+            "Arts and Humanities",
+            "Asian Religious Studies",
+            "Bible",
+            "Canadian Studies",
+            "Communication Studies",
+            "Constitutional Law",
+            "Criminal Law",
+            "Cultural Studies",
+            "Economics",
+            "English",
+            "Ethics",
+            "European Studies",
+            "Film",
+            "Folklore",
+            "Foreign Languages Education",
+            "French",
+            "Gender Studies",
+            "Geography",
+            "German",
+            "Greek (Classical)",
+            "History",
+            "History of Law",
+            "History of Religion",
+            "Indigenous Studies",
+            "International Law",
+            "Islamic Theology",
+            "Judaic Religious Studies",
+            "Latin",
+            "Law",
+            "Linguistics",
+            "Literature",
+            "Medieval Studies",
+            "Music",
+            "New Testament",
+            "Philosophy",
+            "Police Studies",
+            "Political Sciences",
+            "Psychology",
+            "Regional Studies",
+            "Religious Studies",
+            "Russian",
+            "Sociology",
+            "Spanish",
+            "Theatre",
+            "Women's Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Business Administration",
+          "fields": [
+            "Business Administration",
+            "Business and Commerce",
+            "International Business",
+            "Labour and Industrial Relations",
+            "Management"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Adult Education",
+            "Computer Education",
+            "Curriculum",
+            "Education",
+            "Foreign Languages Education",
+            "French",
+            "Higher Education",
+            "Humanities and Social Science Education",
+            "Information Technology",
+            "Leadership",
+            "Literacy Education",
+            "Mathematics Education",
+            "Music",
+            "Music Education",
+            "Native Language Education",
+            "Natives Education",
+            "Primary Education",
+            "Psychology",
+            "Science Education",
+            "Secondary Education",
+            "Special Education",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering and Applied Science",
+          "fields": [
+            "Civil Engineering",
+            "Computer Engineering",
+            "Electrical Engineering",
+            "Engineering",
+            "Engineering Management",
+            "Environmental Engineering",
+            "Mechanical Engineering",
+            "Naval Architecture",
+            "Petroleum and Gas Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Anaesthesiology",
+            "Biomedicine",
+            "Cardiology",
+            "Community Health",
+            "Epidemiology",
+            "Genetics",
+            "Immunology",
+            "Laboratory Techniques",
+            "Medicine",
+            "Nephrology",
+            "Neurosciences",
+            "Obstetrics and Gynaecology",
+            "Oncology",
+            "Orthopaedics",
+            "Paediatrics",
+            "Pathology",
+            "Psychiatry and Mental Health",
+            "Public Health",
+            "Radiology",
+            "Surgery"
+          ]
+        },
+        {
+          "name": "Faculty : Science",
+          "fields": [
+            "Aquaculture",
+            "Atomic and Molecular Physics",
+            "Behavioural Sciences",
+            "Biochemistry",
+            "Biology",
+            "Chemistry",
+            "Cognitive Sciences",
+            "Computer Science",
+            "Earth Sciences",
+            "Environmental Studies",
+            "Food Science",
+            "Geography",
+            "Geology",
+            "Geophysics",
+            "Marine Biology",
+            "Marine Science and Oceanography",
+            "Mathematics",
+            "Physics",
+            "Psychology",
+            "Social Psychology",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Institute : Labrador",
+          "fields": [
+            "Anthropology",
+            "Archaeology",
+            "English",
+            "Geography",
+            "Linguistics",
+            "Meteorology",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Institute : Marine",
+          "fields": [
+            "Aquaculture",
+            "Fishery",
+            "Marine Science and Oceanography",
+            "Marine Transport",
+            "Natural Resources",
+            "Petroleum and Gas Engineering",
+            "Safety Engineering"
+          ]
+        },
+        {
+          "name": "Institute : Social and Economic Research",
+          "fields": [
+            "Economics",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Laboratory : Language",
+          "fields": [
+            "Classical Languages",
+            "Danish",
+            "English",
+            "French",
+            "German",
+            "Greek (Classical)",
+            "Irish",
+            "Italian",
+            "Latin",
+            "Linguistics",
+            "Russian",
+            "Spanish"
+          ]
+        },
+        {
+          "name": "Research Division : Ocean Engineering",
+          "fields": [
+            "Marine Engineering"
+          ]
+        },
+        {
+          "name": "Research Division : Study of Music, Media, and Place",
+          "fields": [
+            "Media Studies",
+            "Music"
+          ]
+        },
+        {
+          "name": "School : Graduate Studies",
+          "fields": [
+            "Administration",
+            "Ancient Civilizations",
+            "Anthropology",
+            "Aquaculture",
+            "Archaeology",
+            "Arts and Humanities",
+            "Asian Religious Studies",
+            "Atomic and Molecular Physics",
+            "Behavioural Sciences",
+            "Bible",
+            "Biochemistry",
+            "Biology",
+            "Business Administration",
+            "Cardiology",
+            "Chemistry",
+            "Christian Religious Studies",
+            "Civil Engineering",
+            "Cognitive Sciences",
+            "Computer Engineering",
+            "Computer Science",
+            "Conducting",
+            "Curriculum",
+            "Earth Sciences",
+            "Economics",
+            "Education",
+            "Electrical Engineering",
+            "Engineering",
+            "Engineering Management",
+            "English",
+            "Environmental Engineering",
+            "Environmental Management",
+            "Environmental Studies",
+            "Epidemiology",
+            "Ethics",
+            "Ethnology",
+            "Experimental Psychology",
+            "Fishery",
+            "Folklore",
+            "Food Science",
+            "Foreign Languages Education",
+            "French Studies",
+            "Genetics",
+            "Geography",
+            "Geology",
+            "Geophysics",
+            "German",
+            "Greek (Classical)",
+            "Health Sciences",
+            "Higher Education",
+            "History",
+            "History of Religion",
+            "Immunology",
+            "Information Technology",
+            "Inorganic Chemistry",
+            "Islamic Theology",
+            "Labour and Industrial Relations",
+            "Latin",
+            "Leadership",
+            "Linguistics",
+            "Literature",
+            "Management",
+            "Marine Biology",
+            "Marine Engineering",
+            "Marine Science and Oceanography",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Medicine",
+            "Music",
+            "Music Education",
+            "Musical Instruments",
+            "Musicology",
+            "Naval Architecture",
+            "Neurosciences",
+            "New Testament",
+            "Nursing",
+            "Oncology",
+            "Organic Chemistry",
+            "Parks and Recreation",
+            "Performing Arts",
+            "Petroleum and Gas Engineering",
+            "Pharmacy",
+            "Philosophy",
+            "Physical Therapy",
+            "Physics",
+            "Physiology",
+            "Political Sciences",
+            "Psychology",
+            "Public Health",
+            "Religious Studies",
+            "Social Psychology",
+            "Social Work",
+            "Sociology",
+            "Sports",
+            "Statistics",
+            "Women's Studies"
+          ]
+        },
+        {
+          "name": "School : Human Kinetics and Recreation",
+          "fields": [
+            "Administration",
+            "Curriculum",
+            "Parks and Recreation",
+            "Physical Education",
+            "Physical Therapy",
+            "Physiology",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "School : Music",
+          "fields": [
+            "Art History",
+            "Conducting",
+            "Music",
+            "Music Education",
+            "Music Theory and Composition",
+            "Musical Instruments",
+            "Musicology"
+          ]
+        },
+        {
+          "name": "School : Nursing (Western Regional)",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "School : Pharmacy",
+          "fields": [
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "School : Social Work",
+          "fields": [
+            "Social Work"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Certificat et diplôme universitaire/University certificate and diploma",
+          "fields": [
+            "Anthropology",
+            "Archaeology",
+            "English",
+            "Ethnology",
+            "Geography",
+            "History",
+            "Linguistics",
+            "Philosophy",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Baccalauréat/Bachelor's Degree",
+          "fields": [
+            "Anthropology",
+            "Archaeology",
+            "English",
+            "Ethnology",
+            "Geography",
+            "History",
+            "Linguistics",
+            "Philosophy",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Baccalauréat spécialisé/Bachelor’s Degree - Honours",
+          "fields": [
+            "Anthropology",
+            "Archaeology",
+            "English",
+            "Ethnology",
+            "Geography",
+            "History",
+            "Linguistics",
+            "Philosophy",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Maîtrise/Master's Degree",
+          "fields": [
+            "Anthropology",
+            "Archaeology",
+            "English",
+            "Ethnology",
+            "Geography",
+            "History",
+            "Linguistics",
+            "Philosophy",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Diplôme et certificat de 2e cycle/Graduate Diploma and Certificate",
+          "fields": [
+            "Anthropology",
+            "Archaeology",
+            "English",
+            "Ethnology",
+            "Geography",
+            "History",
+            "Linguistics",
+            "Philosophy",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Doctorat/Doctoral Degree",
+          "fields": [
+            "Anthropology",
+            "Archaeology",
+            "English",
+            "Ethnology",
+            "Geography",
+            "History",
+            "Linguistics",
+            "Philosophy",
+            "Sociology"
+          ]
+        }
+      ],
+      "accreditation": "Newfoundland and Labrador Department of Advanced Education, Skills and Labour",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Neil Bose"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Jennifer Lokash"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Lisa Browne"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Lynn Walsh"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1925 as Memorial University College. Awarded degree-granting status and present title 1949. The only degree-granting post-secondary institution in the Province of Newfoundland and Labrador",
+      "periodicals": [
+        "Canadian Folklore/Folklore canadien Culture and Tradition International Journal of Maritime History Labour/Le Travail Newfoundland Quarterly Regional Languages Studies Research Directory",
+        "Canadian Folklore/Folklore canadien",
+        "Culture and Tradition",
+        "International Journal of Maritime History",
+        "Labour/Le Travail",
+        "Newfoundland Quarterly",
+        "Regional Languages Studies",
+        "Research Directory"
+      ],
+      "student_body": "co-ed"
+    }
+  ]
+}

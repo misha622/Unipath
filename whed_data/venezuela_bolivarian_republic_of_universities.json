@@ -1,0 +1,6008 @@
+{
+  "country_name": "Venezuela (Bolivarian Republic of)",
+  "country_id": "Venezuela (Bolivarian Republic of)",
+  "institutions": [
+    {
+      "id": "9348",
+      "iau_id": "IAU-009348",
+      "name": "Agro-industrial Territorial Polytechnic University of the State of Táchira",
+      "alt_name": "Universidad Politécnica Territorial Agroindustrial del Estado Táchira (UPTAI)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMyxULmBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009348",
+      "address": {
+        "Street": "Final Av. Baralt, Calle Seminario, Esq. Hijos de Dios a Seminario, La Pastora, Edificio Universidad Santa Rosa",
+        "City": "Caracas",
+        "Province": "Distrito Capital",
+        "WWW": "http://www.santarosa.edu.ve"
+      },
+      "website": "http://www.santarosa.edu.ve",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1999,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "September to July (September-February; March-July)",
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Educational Sciences",
+          "fields": [
+            "Education",
+            "Preschool Education"
+          ]
+        },
+        {
+          "name": "Faculty : Humanities and Social Sciences",
+          "fields": [
+            "Communication Studies",
+            "Philosophy"
+          ]
+        },
+        {
+          "name": "Faculty : Theology",
+          "fields": [
+            "Theology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Técnico Superior",
+          "fields": [
+            "Education",
+            "Preschool Education",
+            "Religious Education"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Canon Law",
+            "Education",
+            "Humanities and Social Science Education",
+            "Mass Communication",
+            "Philosophy",
+            "Preschool Education",
+            "Religious Education",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Especialización",
+          "fields": [
+            "Business Administration",
+            "Criminal Law",
+            "Education",
+            "Educational Administration",
+            "Educational Testing and Evaluation",
+            "Finance",
+            "Information Technology",
+            "Marketing",
+            "Mathematics Education",
+            "Primary Education",
+            "Public Administration",
+            "Taxation"
+          ]
+        },
+        {
+          "name": "Maestría",
+          "fields": [
+            "Theology"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio del Poder Popular para la Educación Universitaria (MPPEU)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Carlos Alberto Boully Gómez"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Beltrán Chaurán"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Jesús Alexander Vargas"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Jesús Matheus Linares"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1999",
+      "periodicals": [
+        "Labor Theologicus",
+        "Labor Theologicus"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "9349",
+      "iau_id": "IAU-009348-009349",
+      "name": "Agro-industrial Territorial Polytechnic University of the State of Táchira – Colón Branch",
+      "alt_name": "Universidad Politécnica Territorial Agroindustrial del Estado Táchira – Sede Colón",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMyxULjBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009348-009349",
+      "address": {
+        "Street": "Carretera Hoyo de la Puerta, Valle de Sartenejas",
+        "City": "Caracas",
+        "Province": "Miranda",
+        "WWW": "http://www.usb.ve"
+      },
+      "website": "http://www.usb.ve",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1967,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to July (September-December; January-April; April-July)",
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : Litoral",
+          "fields": [
+            "Business Administration",
+            "Electrical and Electronic Equipment and Maintenance",
+            "Engineering",
+            "Hotel Management",
+            "International Business",
+            "Maintenance Technology",
+            "Mechanical Equipment and Maintenance",
+            "Taxation",
+            "Tourism",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Centre : IGLU-Caribbean Studies",
+          "fields": [
+            "Caribbean Studies"
+          ]
+        },
+        {
+          "name": "Centre : Petroleum Technological Training and Development",
+          "fields": [
+            "Petroleum and Gas Engineering"
+          ]
+        },
+        {
+          "name": "Centre : Seismic Data Interpretation",
+          "fields": [
+            "Seismology"
+          ]
+        },
+        {
+          "name": "Centre : Statistics and Mathematical Software",
+          "fields": [
+            "Mathematics",
+            "Software Engineering",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Centre : Surface and Interface Engineering",
+          "fields": [
+            "Engineering"
+          ]
+        },
+        {
+          "name": "Department/Division : Administration and Industry",
+          "fields": [
+            "Administration",
+            "Hotel Management",
+            "Industrial Engineering",
+            "Service Trades",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Department/Division : Biology",
+          "fields": [
+            "Biology",
+            "Cell Biology",
+            "Environmental Studies"
+          ]
+        },
+        {
+          "name": "Department/Division : Physics and Mathematics",
+          "fields": [
+            "Chemistry",
+            "Computer Science",
+            "Earth Sciences",
+            "Electronic Engineering",
+            "Energy Engineering",
+            "Information Technology",
+            "Materials Engineering",
+            "Mechanical Engineering",
+            "Physics",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Department/Division : Social Sciences and Humanities",
+          "fields": [
+            "Administration",
+            "Architecture",
+            "Behavioural Sciences",
+            "Design",
+            "Economics",
+            "Fine Arts",
+            "Literature",
+            "Modern Languages",
+            "Philosophy",
+            "Social Sciences",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "Institute : Development and Innovation",
+          "fields": [
+            "Energy Engineering"
+          ]
+        },
+        {
+          "name": "Institute : Energy",
+          "fields": [
+            "Energy Engineering"
+          ]
+        },
+        {
+          "name": "Institute : Historical Research",
+          "fields": [
+            "History"
+          ]
+        },
+        {
+          "name": "Institute : Latin American Studies",
+          "fields": [
+            "Latin American Studies"
+          ]
+        },
+        {
+          "name": "Institute : Marine Science and Technology",
+          "fields": [
+            "Marine Science and Oceanography"
+          ]
+        },
+        {
+          "name": "Institute : Natural Resources",
+          "fields": [
+            "Natural Resources"
+          ]
+        },
+        {
+          "name": "Institute : Regional and Urban Studies",
+          "fields": [
+            "Regional Studies",
+            "Urban Studies"
+          ]
+        },
+        {
+          "name": "Research Division : Gravity and High Energies",
+          "fields": [
+            "Agriculture",
+            "Business Administration",
+            "Ecology",
+            "Electrical and Electronic Equipment and Maintenance",
+            "Hotel Management",
+            "International Business",
+            "Maintenance Technology",
+            "Mechanical Equipment and Maintenance",
+            "Taxation",
+            "Tourism",
+            "Transport Economics"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Técnico Superior",
+          "fields": [
+            "Agriculture",
+            "Business Administration",
+            "Ecology",
+            "Electrical and Electronic Equipment and Maintenance",
+            "Hotel Management",
+            "International Business",
+            "Maintenance Technology",
+            "Mechanical Equipment and Maintenance",
+            "Taxation",
+            "Tourism",
+            "Transport Economics"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Administration",
+            "Agricultural Business",
+            "Agricultural Education",
+            "Agricultural Engineering",
+            "Engineering",
+            "Environmental Engineering",
+            "Hotel Management",
+            "International Business",
+            "Maintenance Technology",
+            "Preschool Education",
+            "Primary Education",
+            "Secondary Education",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Especialización",
+          "fields": [
+            "Educational Technology",
+            "Electrical and Electronic Equipment and Maintenance",
+            "Engineering",
+            "Environmental Management",
+            "Foreign Languages Education",
+            "Industrial Design",
+            "Industrial Maintenance",
+            "Management",
+            "Marketing",
+            "Petroleum and Gas Engineering",
+            "Telecommunications Engineering",
+            "Telecommunications Services",
+            "Transport and Communications"
+          ]
+        },
+        {
+          "name": "Maestría",
+          "fields": [
+            "Applied Linguistics",
+            "Biology",
+            "Biomedical Engineering",
+            "Chemical Engineering",
+            "Chemistry",
+            "Computer Science",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Engineering",
+            "Literature",
+            "Materials Engineering",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Philosophy",
+            "Physics",
+            "Political Sciences",
+            "Psychology",
+            "Statistics",
+            "Transport and Communications"
+          ]
+        },
+        {
+          "name": "Doctorado",
+          "fields": [
+            "Arts and Humanities",
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Engineering",
+            "Food Science",
+            "Nutrition",
+            "Philosophy",
+            "Physics",
+            "Political Sciences",
+            "Social Sciences",
+            "Sustainable Development"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio del Poder Popular para la Educación Universitaria (MPPEU)",
+      "officers": [
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Luis Holder"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Mariella Azzato"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1967 as a state experimental university under the name of Universidad Nacional Experimental Simón Bolívar. First courses started 1970",
+      "periodicals": [
+        "Argos Revista Venezolana de Filosofía",
+        "Argos",
+        "Revista Venezolana de Filosofía"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "17131",
+      "iau_id": "IAU-017131",
+      "name": "Alexander von Humboldt University",
+      "alt_name": "Universidad Alejandro de Humboldt (UAH)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxRLFMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017131",
+      "address": {
+        "Street": "Santa Fe Norte. Av. José María Vargas. Torre del Colegio Médicos. Piso 7",
+        "City": "Caracas",
+        "Province": "1080",
+        "WWW": "http://unesrspr.ddns.net"
+      },
+      "website": "http://unesrspr.ddns.net",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1974,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "October to September (October-March; April-September)",
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Area : Administration",
+          "fields": [
+            "Administration"
+          ]
+        },
+        {
+          "name": "Area : Agriculture",
+          "fields": [
+            "Agriculture",
+            "Food Technology"
+          ]
+        },
+        {
+          "name": "Area : Education",
+          "fields": [
+            "Education",
+            "Preschool Education"
+          ]
+        },
+        {
+          "name": "Area : Engineering",
+          "fields": [
+            "Engineering",
+            "Engineering Management",
+            "Maintenance Technology",
+            "Production Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Administration",
+            "Agricultural Business",
+            "Agricultural Education",
+            "Computer Science",
+            "Education",
+            "Finance",
+            "Food Technology",
+            "Foreign Languages Education",
+            "Human Resources",
+            "Marketing",
+            "Mathematics Education",
+            "Primary Education",
+            "Secondary Education"
+          ]
+        },
+        {
+          "name": "Especialización",
+          "fields": [
+            "Adult Education",
+            "Educational Administration",
+            "Educational and Student Counselling",
+            "Educational Testing and Evaluation",
+            "Finance",
+            "Food Technology",
+            "Information Management",
+            "Management",
+            "Primary Education",
+            "Social Work",
+            "Telecommunications Services"
+          ]
+        },
+        {
+          "name": "Maestría",
+          "fields": [
+            "Administration",
+            "Biotechnology",
+            "Development Studies",
+            "Education",
+            "Educational Sciences",
+            "Finance",
+            "Food Technology",
+            "Human Resources",
+            "Management",
+            "Public Administration",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Doctorado",
+          "fields": [
+            "Administration",
+            "Educational Sciences"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio del Poder Popular para la Educación Universitaria (MPPEU)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Rafael Enrique Ramos Olivares"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Ana Endrina Gómez Durán"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1974",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "9324",
+      "iau_id": "IAU-009324",
+      "name": "Algeria Laya Territorial Polytechnic University of Barlovento",
+      "alt_name": "Universidad Politécnica Territorial de Barlovento Argelia Laya (UPTBAL)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMyxSLWBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009324",
+      "address": {
+        "Street": "Vía Manrique, Av. Universidad, Km. 2 (Villa Deportiva)",
+        "City": "San Carlos",
+        "Province": "Cojedes",
+        "WWW": "http://www.uideporte.edu.ve"
+      },
+      "website": "http://www.uideporte.edu.ve",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2006,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Physical Activity and Healh",
+          "fields": [
+            "Health Sciences"
+          ]
+        },
+        {
+          "name": "Course/Programme : Sports Technological Management",
+          "fields": [
+            "Sports Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Sports Training",
+          "fields": [
+            "Sports"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Health Sciences",
+            "Sports",
+            "Sports Management"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio del Poder Popular para la Educación Universitaria (MPPEU)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ruben Darío Rumbos"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Dayse Yamila Machado Palacios"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2006",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "23307",
+      "iau_id": "IAU-023307",
+      "name": "Alonso de Ojeda Private University",
+      "alt_name": "Universidad Privada Alonso de Ojeda",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyxTLCM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-023307",
+      "address": {
+        "Street": "Vía Aragüitaa 2 Km de la Carretera Nacional",
+        "City": "Guacara",
+        "Province": "Carabobo",
+        "WWW": "https://portal.unitec.edu.ve"
+      },
+      "website": "https://portal.unitec.edu.ve",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1979,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "September to July (September-December; January-April; May-July)",
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Accountancy",
+          "fields": [
+            "Accountancy"
+          ]
+        },
+        {
+          "name": "Course/Programme : Administration",
+          "fields": [
+            "Administration",
+            "Human Resources",
+            "Marketing",
+            "Social Sciences",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Engineering",
+          "fields": [
+            "Electrical Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Técnico Superior",
+          "fields": [
+            "Electrical and Electronic Equipment and Maintenance",
+            "Human Resources",
+            "Industrial Management",
+            "Information Sciences",
+            "Management",
+            "Marketing",
+            "Mechanical Equipment and Maintenance",
+            "Telecommunications Engineering",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Electrical Engineering",
+            "Industrial Engineering",
+            "Information Technology",
+            "Management",
+            "Mechanical Engineering",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Especialización",
+          "fields": [
+            "Management"
+          ]
+        },
+        {
+          "name": "Maestría",
+          "fields": [
+            "Management"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio del Poder Popular para la Educación Universitaria (MPPEU)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Luis Eduardo Martínez Hidalgo"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Nilda Sanabria"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1979. A non-profit private Institution",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "9351",
+      "iau_id": "IAU-009351",
+      "name": "Alonso Gamero Territorial Polytechnic University of Falcón",
+      "alt_name": "Universidad Politécnica Territorial de Falcón Alonso Gamero (UPTFAG)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMyxVLDBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009351",
+      "address": {
+        "Street": "Calle Igualdad, cruce con Rosario y Progreso, sede UPTBolívar, N° 28, casco histórico de Ciudad Bolívar",
+        "City": "Bolívar",
+        "Province": "Bolívar",
+        "WWW": "https://www.uptbolivar.com"
+      },
+      "website": "https://www.uptbolivar.com",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2001,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Computer Science",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Course/Programme : Earth Sciences",
+          "fields": [
+            "Earth Sciences"
+          ]
+        },
+        {
+          "name": "Course/Programme : Electrical Engineering",
+          "fields": [
+            "Electrical Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Industrial Materials Engineering",
+          "fields": [
+            "Materials Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Jewellery Art",
+          "fields": [
+            "Jewellery Art"
+          ]
+        },
+        {
+          "name": "Course/Programme : Maintenance Engineering",
+          "fields": [
+            "Maintenance Technology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Mechanics",
+          "fields": [
+            "Mechanical Engineering",
+            "Mechanical Equipment and Maintenance"
+          ]
+        },
+        {
+          "name": "Course/Programme : Occupational Hygiene and Safety",
+          "fields": [
+            "Dental Hygiene",
+            "Occupational Health"
+          ]
+        },
+        {
+          "name": "Course/Programme : Quality and Environment Systems",
+          "fields": [
+            "Environmental Engineering",
+            "Safety Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Técnico Superior",
+          "fields": [
+            "Computer Science",
+            "Dental Hygiene",
+            "Earth Sciences",
+            "Electrical Engineering",
+            "Environmental Engineering",
+            "Jewellery Art",
+            "Maintenance Technology",
+            "Materials Engineering",
+            "Mechanical Equipment and Maintenance",
+            "Occupational Health",
+            "Safety Engineering"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Computer Science",
+            "Dental Hygiene",
+            "Earth Sciences",
+            "Electrical Engineering",
+            "Environmental Engineering",
+            "Jewellery Art",
+            "Maintenance Technology",
+            "Materials Engineering",
+            "Mechanical Engineering",
+            "Occupational Health",
+            "Safety Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio del Poder Popular para la Educación Universitaria (MPPEU)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Willfor Rafael Goudeth Galindo"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2001 as Instituto Universitario de Tecnología del Estado Bolívar (IUTEB), acquierd current status and title 2018Universidad Politécnica Territorial del Estado Bolívar",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17279",
+      "iau_id": "IAU-017279",
+      "name": "Andrés Bello Catholic University",
+      "alt_name": "Universidad Católica Andrés Bello (UCAB)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxSLVNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017279",
+      "address": {
+        "Street": "Av. 86, entre calles 79H y 79Eurbanización La Floresta",
+        "City": "Maracaibo",
+        "Province": "Zulia",
+        "WWW": "http://www.iutm.edu.ve"
+      },
+      "website": "http://www.iutm.edu.ve",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1986,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Administration",
+          "fields": [
+            "Administration"
+          ]
+        },
+        {
+          "name": "Course/Programme : Civil Engineering",
+          "fields": [
+            "Civil Engineering",
+            "Construction Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Computer Science",
+          "fields": [
+            "Computer Engineering",
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Course/Programme : Earth Sciences",
+          "fields": [
+            "Earth Sciences"
+          ]
+        },
+        {
+          "name": "Course/Programme : Food Science",
+          "fields": [
+            "Food Science",
+            "Food Technology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Food Security and Nutrition",
+          "fields": [
+            "Nutrition"
+          ]
+        },
+        {
+          "name": "Course/Programme : Materials Engineering",
+          "fields": [
+            "Materials Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Public Accountancy",
+          "fields": [
+            "Accountancy"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Técnico Superior",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Construction Engineering",
+            "Earth Sciences",
+            "Food Science",
+            "Food Technology",
+            "Materials Engineering",
+            "Nutrition"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Construction Engineering",
+            "Earth Sciences",
+            "Food Science",
+            "Food Technology",
+            "Materials Engineering",
+            "Nutrition"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio del Poder Popular para la Educación Universitaria (MPPEU)",
+      "officers": [],
+      "statistics": {},
+      "history": "Founded 1986 as Instituto Universitario de Tecnología de Maracaibo (IUTM), acquired current status and title 2018",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "17277",
+      "iau_id": "IAU-017279-017277",
+      "name": "Andrés Bello Catholic University – Ciudad Guayana Branch",
+      "alt_name": "Universidad Católica Andrés Bello – Núcleo Ciudad Guayana (UCAB-Guayana)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxSLVM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017279-017277",
+      "address": {
+        "Street": "Sector Tío Agustín ,granja Los Mangos",
+        "City": "Machiques",
+        "Province": "Zulia"
+      },
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Administration",
+          "fields": [
+            "Administration"
+          ]
+        },
+        {
+          "name": "Course/Programme : Agricultural and Food Science",
+          "fields": [
+            "Food Science"
+          ]
+        },
+        {
+          "name": "Course/Programme : Computer Science",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Course/Programme : Public Accountancy",
+          "fields": [
+            "Accountancy"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Técnico Superior",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Computer Science",
+            "Food Science"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Computer Science",
+            "Food Science"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio del Poder Popular para la Educación Universitaria (MPPEU)",
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17278",
+      "iau_id": "IAU-017279-017278",
+      "name": "Andrés Bello Catholic University – Los Teques Branch",
+      "alt_name": "Universidad Católica Andrés Bello – Núcleo Los Teques (UCAB-Los Teques)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxSLVNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017279-017278",
+      "address": {
+        "Street": "Av. Principal, urb. La Cabimas",
+        "City": "San Rafael del Moján",
+        "Province": "Zulia"
+      },
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Administration",
+          "fields": [
+            "Administration"
+          ]
+        },
+        {
+          "name": "Course/Programme : Agricultural and Food Science",
+          "fields": [
+            "Agriculture",
+            "Food Science"
+          ]
+        },
+        {
+          "name": "Course/Programme : Computer Science",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Course/Programme : Public Accountancy",
+          "fields": [
+            "Accountancy"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Técnico Superior",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Computer Science",
+            "Food Science"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Computer Science",
+            "Food Science"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio del Poder Popular para la Educación Universitaria (MPPEU)",
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "23298",
+      "iau_id": "IAU-023298",
+      "name": "Andres Eloy Blanco Territorial Polytechnic University of Lara State",
+      "alt_name": "Universidad Politécnica Territorial del estado Lara Andres Eloy Blanco – UPT Lara (UPTAEB)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyxSLjNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-023298",
+      "address": {
+        "Street": "Zona Industrial Santa Rosa, Galpón Nº8",
+        "City": "Puerto Cabello",
+        "Province": "Estado Carabobo",
+        "WWW": "http://www.iutpc.edu.ve"
+      },
+      "website": "http://www.iutpc.edu.ve",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1976,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Automotive Mechanic",
+          "fields": [
+            "Automotive Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Computing",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Course/Programme : Distribution and Logistics",
+          "fields": [
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Industrial Materials Engineering",
+          "fields": [
+            "Materials Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Maintenance Engineering",
+          "fields": [
+            "Maintenance Technology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Mechanics",
+          "fields": [
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Thermal Mechanics",
+          "fields": [
+            "Thermal Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Tourism",
+          "fields": [
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Técnico Superior",
+          "fields": [
+            "Ceramics and Glass Technology",
+            "Computer Science",
+            "Maintenance Technology",
+            "Mechanical Equipment and Maintenance",
+            "Metal Techniques",
+            "Polymer and Plastics Technology",
+            "Tourism",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Computer Engineering",
+            "Maintenance Technology",
+            "Materials Engineering",
+            "Mechanical Engineering",
+            "Tourism",
+            "Transport Management"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio del Poder Popular para la Educación Universitaria (MPPEU)",
+      "officers": [],
+      "statistics": {},
+      "history": "Founded 1976 as Instituto Universitario de Tecnología de Puerto Cabello (IUTPC), acquired current stats and title 2018",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "18106",
+      "iau_id": "IAU-018106",
+      "name": "Antonio José de Sucre National Experimental Polytechnic University",
+      "alt_name": "Universidad Nacional Experimental Politécnica Antonio José de Sucre (UNEXPO)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BRLCM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018106",
+      "address": {
+        "Street": "Av. Principal de Chichiriviche, Edificio los FOIS, municipio Monseñor Iturriza",
+        "City": "Chichiriviche",
+        "Province": "Falcón"
+      },
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Hotel and Tourist Management",
+          "fields": [
+            "Hotel Management",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Course/Programme : Maintenance Engineering",
+          "fields": [
+            "Maintenance Technology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Mechanics",
+          "fields": [
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Tourism",
+          "fields": [
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Técnico Superior",
+          "fields": [
+            "Hotel Management",
+            "Maintenance Technology",
+            "Mechanical Engineering",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Maintenance Technology",
+            "Mechanical Engineering",
+            "Tourism"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio del Poder Popular para la Educación Universitaria (MPPEU)",
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "18103",
+      "iau_id": "IAU-018106-018103",
+      "name": "Antonio José de Sucre National Experimental Polytechnic University – Caracas Branch",
+      "alt_name": "Universidad Nacional Experimental Politécnica Antonio José de Sucre – Núcleo Caracas",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BRLCMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018106-018103",
+      "address": {
+        "City": "Ocumare del Tuy",
+        "Province": "Miranda",
+        "WWW": "https://uptvallesdeltuy.gnomio.com"
+      },
+      "website": "https://uptvallesdeltuy.gnomio.com",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2014,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Agricultural and Food Science",
+          "fields": [
+            "Agriculture",
+            "Food Science"
+          ]
+        },
+        {
+          "name": "Course/Programme : Food Processing and Distribution",
+          "fields": [
+            "Food Technology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Industrial Engineering",
+          "fields": [
+            "Industrial Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Industrial Materials Engineering",
+          "fields": [
+            "Materials Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Maintenance Engineering",
+          "fields": [
+            "Maintenance Technology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Public Accountancy",
+          "fields": [
+            "Accountancy"
+          ]
+        },
+        {
+          "name": "Course/Programme : Social Psychology",
+          "fields": [
+            "Social Psychology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Técnico Superior",
+          "fields": [
+            "Accountancy",
+            "Agriculture",
+            "Ceramics and Glass Technology",
+            "Food Science",
+            "Food Technology",
+            "Industrial Engineering",
+            "Maintenance Technology",
+            "Metallurgical Engineering",
+            "Polymer and Plastics Technology"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Accountancy",
+            "Agriculture",
+            "Food Science",
+            "Food Technology",
+            "Industrial Engineering",
+            "Maintenance Technology",
+            "Materials Engineering",
+            "Social Psychology"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio del Poder Popular para la Educación Universitaria (MPPEU)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Adyaniz Noguera"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2014",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "18105",
+      "iau_id": "IAU-018106-018105",
+      "name": "Antonio José de Sucre National Experimental Polytechnic University – Puerto Ordaz Branch",
+      "alt_name": "Universidad Nacional Experimental Politécnica Antonio José de Sucre – Núcleo Puerto Ordaz",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BRLCM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018106-018105",
+      "address": {
+        "Street": "Avenida Paseo CuatricentenarioComplejo Educacional La Manguita, Vía Guatáparo",
+        "City": "Valencia",
+        "Province": "Carabobo",
+        "WWW": "http://www.iutvalencia.edu.ve"
+      },
+      "website": "http://www.iutvalencia.edu.ve",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1976,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Chemical Engineering",
+          "fields": [
+            "Chemical Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Chemistry",
+          "fields": [
+            "Chemistry"
+          ]
+        },
+        {
+          "name": "Course/Programme : Computer Science",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Course/Programme : Electrical Engineering",
+          "fields": [
+            "Electrical Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Industrial Materials Engineering",
+          "fields": [
+            "Materials Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Instrumentation and Control Engineering",
+          "fields": [
+            "Electronics and Automation"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Técnico Superior",
+          "fields": [
+            "Ceramics and Glass Technology",
+            "Chemical Engineering",
+            "Computer Science",
+            "Electrical and Electronic Equipment and Maintenance",
+            "Electronics and Automation",
+            "Metal Techniques",
+            "Polymer and Plastics Technology"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Chemical Engineering",
+            "Chemistry",
+            "Computer Engineering",
+            "Electrical Engineering",
+            "Electronics and Automation",
+            "Materials Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio del Poder Popular para la Educación Universitaria (MPPEU)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Roger Zabala"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1976 as Instituto Universitario de Tecnología de Valencia (IUTV), acquired current status 2018",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "28150",
+      "iau_id": "IAU-028150",
+      "name": "Argimiro Gabaldon Peasant University of Venezuela",
+      "alt_name": "Universidad Campesina de Venezuela Algimiro Gabaldon (UCVAG)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0BRLTNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-028150",
+      "address": {
+        "Street": "Urb. el Amparo, Calle la Estrella 117",
+        "City": "Cabimas",
+        "Province": "Zulia",
+        "WWW": "http://uptzulia.edu.ve"
+      },
+      "website": "http://uptzulia.edu.ve",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1974,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : Ojeda",
+          "fields": [
+            "Administration",
+            "Maintenance Technology",
+            "Occupational Health"
+          ]
+        },
+        {
+          "name": "Course/Programme : Administration",
+          "fields": [
+            "Administration"
+          ]
+        },
+        {
+          "name": "Course/Programme : Chemical Processes",
+          "fields": [
+            "Chemical Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Electrical Engineering",
+          "fields": [
+            "Electrical Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Electronic Engineering",
+          "fields": [
+            "Electronic Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Hydrocarbons",
+          "fields": [
+            "Petroleum and Gas Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Industrial Materials Engineering",
+          "fields": [
+            "Industrial Engineering",
+            "Materials Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Instrumentation and Control Engineering",
+          "fields": [
+            "Electronics and Automation"
+          ]
+        },
+        {
+          "name": "Course/Programme : Maintenance Engineering",
+          "fields": [
+            "Maintenance Technology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Mechanics",
+          "fields": [
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Occupational Health and Safety",
+          "fields": [
+            "Occupational Health",
+            "Safety Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Prevention and Health at Work",
+          "fields": [
+            "Social and Preventive Medicine"
+          ]
+        },
+        {
+          "name": "Course/Programme : Quality and Environmental Systems",
+          "fields": [
+            "Environmental Engineering",
+            "Safety Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Técnico Superior",
+          "fields": [
+            "Administration",
+            "Ceramics and Glass Technology",
+            "Chemical Engineering",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Electronics and Automation",
+            "Environmental Engineering",
+            "Maintenance Technology",
+            "Mechanical Engineering",
+            "Metallurgical Engineering",
+            "Occupational Health",
+            "Polymer and Plastics Technology",
+            "Safety Engineering",
+            "Social and Preventive Medicine"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Administration",
+            "Chemical Engineering",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Electronics and Automation",
+            "Environmental Engineering",
+            "Industrial Engineering",
+            "Maintenance Technology",
+            "Materials Engineering",
+            "Mechanical Engineering",
+            "Occupational Health",
+            "Petroleum and Gas Engineering",
+            "Safety Engineering",
+            "Social and Preventive Medicine"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio del Poder Popular para la Educación Universitaria (MPPEU)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Pedro Alberto Isea Gonzalez"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Nydia González de Martínez"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1974 as Colegio Universitario de Cabimas (CUNIC), renamed Instituto Universitario de Tecnología de Cabimas (IUTC) 1986, acquired current status and title 2018",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "9393",
+      "iau_id": "IAU-009393",
+      "name": "Arístides Bastidas Territorial Polytechnic University of Yaracuy",
+      "alt_name": "Universidad Politécnica Territorial de Yaracuy Arístides Bastidas (UPTYAB)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMyxZLFBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009393",
+      "address": {
+        "Street": "Avenida Sur 3, Esquinas de Pinto a Miseria, Edificio IUDERPParroquia Santa Rosalía",
+        "City": "Caracas",
+        "Post Code": "1010",
+        "WWW": "https://iuderp.edu.ve"
+      },
+      "website": "https://iuderp.edu.ve",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1972,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Public Relations",
+          "fields": [
+            "Public Relations"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Técnico Superior",
+          "fields": [
+            "Public Relations"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Public Relations"
+          ]
+        }
+      ],
+      "accreditation": "Consejo Nacional de Universidades (CNU); Ministerio del Poder Popular para la Educación Universitaria (MPPEU)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Luisa Cáceres"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Ana Dávila"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1972",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "17172",
+      "iau_id": "IAU-017172",
+      "name": "Arturo Michelena University",
+      "alt_name": "Universidad Arturo Michelena (UAM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxRLVMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017172",
+      "address": {
+        "Street": "Av. Bolívar Norte",
+        "City": "Valencia",
+        "Province": "Estado Carabobo",
+        "WWW": "http://www.uc.edu.ve"
+      },
+      "website": "http://www.uc.edu.ve",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1833,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "January to December (January-June; July-December)",
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : Maracay",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Biological and Life Sciences",
+            "Business and Commerce",
+            "Laboratory Techniques",
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Faculty : Dentistry",
+          "fields": [
+            "Dentistry"
+          ]
+        },
+        {
+          "name": "Faculty : Economics and Social  Sciences",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Business and Commerce",
+            "Economics",
+            "Labour and Industrial Relations",
+            "Law",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Educational Sciences",
+          "fields": [
+            "Business Education",
+            "Education",
+            "Linguistics",
+            "Literature",
+            "Modern Languages",
+            "Museum Studies",
+            "Physical Education",
+            "Social Sciences",
+            "Special Education",
+            "Vocational Education"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Electrical Engineering",
+            "Engineering",
+            "Industrial Engineering",
+            "Mechanical Engineering",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences",
+          "fields": [
+            "Biological and Life Sciences",
+            "Dentistry",
+            "Health Sciences",
+            "Medicine",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Faculty : Law and Political Sciences",
+          "fields": [
+            "Law",
+            "Political Sciences",
+            "Taxation"
+          ]
+        },
+        {
+          "name": "Faculty : Science and Technology",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Ecology",
+            "Mathematics",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Research Division : Biomedicine",
+          "fields": [
+            "Biomedicine"
+          ]
+        },
+        {
+          "name": "Research Division : Image Processing",
+          "fields": [
+            "Computer Graphics"
+          ]
+        },
+        {
+          "name": "Research Division : Medical and Biotechnology",
+          "fields": [
+            "Occupational Health"
+          ]
+        },
+        {
+          "name": "Research Division : Molecular Biology of Parasites",
+          "fields": [
+            "Occupational Health"
+          ]
+        },
+        {
+          "name": "Research Division : Nutrition",
+          "fields": [
+            "Occupational Health"
+          ]
+        },
+        {
+          "name": "Research Division : Occupational Health",
+          "fields": [
+            "Occupational Health"
+          ]
+        },
+        {
+          "name": "Research Division : Renal Lithiasis and Metabolic Diseases",
+          "fields": [
+            "Toxicology"
+          ]
+        },
+        {
+          "name": "Research Division : Sandflies",
+          "fields": [
+            "Toxicology"
+          ]
+        },
+        {
+          "name": "Research Division : Toxicology",
+          "fields": [
+            "Toxicology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Técnico Superior",
+          "fields": [
+            "Biotechnology",
+            "Cardiology",
+            "Nursing",
+            "Pneumology"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Art Education",
+            "Biological and Life Sciences",
+            "Business Education",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civil Engineering",
+            "Computer Education",
+            "Computer Science",
+            "Dentistry",
+            "Economics",
+            "Education",
+            "Educational and Student Counselling",
+            "Electrical Engineering",
+            "Foreign Languages Education",
+            "Humanities and Social Science Education",
+            "Industrial Engineering",
+            "Industrial Management",
+            "Laboratory Techniques",
+            "Labour and Industrial Relations",
+            "Law",
+            "Mathematics",
+            "Mathematics Education",
+            "Mechanical Engineering",
+            "Medicine",
+            "Music Education",
+            "Nursing",
+            "Physical Education",
+            "Physics",
+            "Preschool Education",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Especialización",
+          "fields": [
+            "Anaesthesiology",
+            "Automotive Engineering",
+            "Biochemistry",
+            "Criminal Law",
+            "Criminology",
+            "Dentistry",
+            "Dermatology",
+            "Education",
+            "Educational Technology",
+            "Foreign Languages Education",
+            "Health Sciences",
+            "Higher Education Teacher Training",
+            "Human Resources",
+            "Humanities and Social Science Education",
+            "Hygiene",
+            "Industrial Maintenance",
+            "Management",
+            "Medicine",
+            "Occupational Health",
+            "Oncology",
+            "Ophthalmology",
+            "Orthodontics",
+            "Paediatrics",
+            "Pneumology",
+            "Public Administration",
+            "Public Health",
+            "Safety Engineering",
+            "Software Engineering",
+            "Surgery",
+            "Taxation",
+            "Thermal Engineering",
+            "Urology"
+          ]
+        },
+        {
+          "name": "Maestría",
+          "fields": [
+            "Biochemistry",
+            "Biology",
+            "Biomedicine",
+            "Computer Science",
+            "Construction Engineering",
+            "Criminal Law",
+            "Curriculum",
+            "Dentistry",
+            "Education",
+            "Educational and Student Counselling",
+            "Educational Research",
+            "Educational Testing and Evaluation",
+            "Electrical Engineering",
+            "Environmental Engineering",
+            "Humanities and Social Science Education",
+            "Hygiene",
+            "Industrial Engineering",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Molecular Biology",
+            "Nursing",
+            "Nutrition",
+            "Occupational Health",
+            "Production Engineering",
+            "Writing"
+          ]
+        },
+        {
+          "name": "Doctorado",
+          "fields": [
+            "Administration",
+            "Bioengineering",
+            "Chemical Engineering",
+            "Computer Engineering",
+            "Cultural Studies",
+            "Economics",
+            "Electrical Engineering",
+            "Engineering",
+            "Environmental Engineering",
+            "Health Sciences",
+            "Management",
+            "Medicine",
+            "Nursing",
+            "Social Sciences"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio del Poder Popular para la Educación Universitaria (MPPEU)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Jessy Divo de Romero"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "José Ángel Ferreira García"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Ulises David Rojas Sánchez"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2020-2021",
+        "Staff Full Time Male:": "992",
+        "Staff Full Time Female:": "1370",
+        "Staff Full Time Total:": "2362"
+      },
+      "history": "Founded 1833 as National College, first courses started 1840. Became Federal College 1883. Acquired status of University from 1892 to 1904 when the Institution was attached to the Central University of Venezuela as School of Law. Re-established 1958 as National Institution financed by the State",
+      "periodicals": [
+        "Poesía Revista de la Facultad de Derecho",
+        "Poesía",
+        "Revista de la Facultad de Derecho"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "17254",
+      "iau_id": "IAU-017254",
+      "name": "Bicentenary University of Aragua",
+      "alt_name": "Universidad Bicentenaria de Aragua (UBA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxSLTMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017254",
+      "address": {
+        "Street": "Avenida Concepción Mariño, Sector Toporo",
+        "City": "El Valle del Espíritu Santo",
+        "Province": "Estado Nueva Esparta",
+        "WWW": "http://www.unimar.edu.ve"
+      },
+      "website": "http://www.unimar.edu.ve",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1998,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Economics and Social Sciences",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Economics",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Computer Engineering",
+            "Systems Analysis"
+          ]
+        },
+        {
+          "name": "Faculty : Humanities, Arts and Education",
+          "fields": [
+            "Arts and Humanities",
+            "Education",
+            "Graphic Design",
+            "Modern Languages"
+          ]
+        },
+        {
+          "name": "Faculty : Law and Political Sciences",
+          "fields": [
+            "Law",
+            "Political Sciences"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Computer Engineering",
+            "Education",
+            "Graphic Design",
+            "Law",
+            "Modern Languages"
+          ]
+        },
+        {
+          "name": "Especialización",
+          "fields": [
+            "Civil Law",
+            "Educational Administration",
+            "Environmental Management",
+            "Environmental Studies",
+            "Finance",
+            "Information Management",
+            "Management",
+            "Occupational Health",
+            "Taxation"
+          ]
+        },
+        {
+          "name": "Maestría",
+          "fields": [
+            "Criminal Law",
+            "Environmental Studies",
+            "History",
+            "Journalism",
+            "Latin American Studies",
+            "Multimedia",
+            "Regional Studies",
+            "Taxation"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio del Poder Popular para la Educación Universitaria (MPPEU)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Antonieta Rosales de Oxford"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Antonio Martínez Camacho"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1998",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "17257",
+      "iau_id": "IAU-017257",
+      "name": "Bolivarian University of Venezuela",
+      "alt_name": "Universidad Bolivariana de Venezuela (UBV)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxSLTM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017257",
+      "address": {
+        "Street": "Avenida 3Edificio del RectoradoPlaza Bolívar",
+        "City": "Mérida",
+        "Province": "Estado Mérida",
+        "WWW": "http://www.ula.ve"
+      },
+      "website": "http://www.ula.ve",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1785,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "January to December (January-June; July-December)",
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : Táchira",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Education",
+            "Mass Communication",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Campus : Tovar",
+          "fields": [
+            "Physical Education",
+            "Sports",
+            "Statistics",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Campus : Trujillo",
+          "fields": [
+            "Accountancy",
+            "Agriculture",
+            "Animal Husbandry",
+            "Business Administration",
+            "Economics",
+            "Education",
+            "Engineering",
+            "Mass Communication",
+            "Pharmacy",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Campus : Vigía",
+          "fields": [
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Electrical Engineering",
+            "Geological Engineering",
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Architecture and Design",
+          "fields": [
+            "Architecture",
+            "Industrial Design"
+          ]
+        },
+        {
+          "name": "Faculty : Art",
+          "fields": [
+            "Fine Arts",
+            "Graphic Design",
+            "Music",
+            "Musical Instruments",
+            "Singing",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Faculty : Dentistry",
+          "fields": [
+            "Dentistry"
+          ]
+        },
+        {
+          "name": "Faculty : Economics and Social Sciences",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Communication Studies",
+            "Economics",
+            "Social Sciences",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Faculty : Education and Humanities",
+          "fields": [
+            "Art History",
+            "Arts and Humanities",
+            "Cinema and Television",
+            "Education",
+            "Geography",
+            "History",
+            "Leisure Studies",
+            "Literature",
+            "Mathematics Education",
+            "Modern Languages",
+            "Physical Education",
+            "Preschool Education",
+            "Science Education",
+            "Sports"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Electrical Engineering",
+            "Engineering",
+            "Geological Engineering",
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Forestry and Environmental Studies",
+          "fields": [
+            "Environmental Studies",
+            "Forestry"
+          ]
+        },
+        {
+          "name": "Faculty : Law and Political Science",
+          "fields": [
+            "Criminology",
+            "Law",
+            "Political Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Anaesthesiology",
+            "Cardiology",
+            "Dietetics",
+            "Medicine",
+            "Nursing",
+            "Nutrition",
+            "Statistics",
+            "Surgery"
+          ]
+        },
+        {
+          "name": "Faculty : Pharmacy and Bioanalysis",
+          "fields": [
+            "Chemistry",
+            "Health Sciences",
+            "Microbiology",
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Faculty : Science",
+          "fields": [
+            "Biochemistry",
+            "Biology",
+            "Chemistry",
+            "Mathematics",
+            "Physics"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Técnico Superior",
+          "fields": [
+            "Agriculture",
+            "Animal Husbandry",
+            "Forestry",
+            "Health Sciences",
+            "Public Health",
+            "Radiology",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Agricultural Education",
+            "Agricultural Engineering",
+            "Architecture and Planning",
+            "Art History",
+            "Arts and Humanities",
+            "Biological and Life Sciences",
+            "Biology",
+            "Business Administration",
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Classical Languages",
+            "Computer Engineering",
+            "Conducting",
+            "Criminology",
+            "Dance",
+            "Dentistry",
+            "Dietetics",
+            "Economics",
+            "Education",
+            "Electrical Engineering",
+            "Fine Arts",
+            "Foreign Languages Education",
+            "Forestry",
+            "Geography",
+            "Geological Engineering",
+            "Graphic Design",
+            "Health Education",
+            "History",
+            "Humanities and Social Science Education",
+            "Industrial Design",
+            "Laboratory Techniques",
+            "Law",
+            "Literature",
+            "Mass Communication",
+            "Mathematics",
+            "Mathematics Education",
+            "Mechanical Engineering",
+            "Medicine",
+            "Modern Languages",
+            "Music",
+            "Musical Instruments",
+            "Native Language Education",
+            "Nursing",
+            "Nutrition",
+            "Pharmacy",
+            "Physical Education",
+            "Physics",
+            "Political Sciences",
+            "Preschool Education",
+            "Primary Education",
+            "Radio and Television Broadcasting",
+            "Science Education",
+            "Secondary Education",
+            "Spanish",
+            "Statistics",
+            "Technology Education",
+            "Visual Arts",
+            "Vocational Education"
+          ]
+        },
+        {
+          "name": "Especialización",
+          "fields": [
+            "Accountancy",
+            "Administrative Law",
+            "Anaesthesiology",
+            "Analytical Chemistry",
+            "Applied Chemistry",
+            "Applied Mathematics",
+            "Art Therapy",
+            "Banking",
+            "Biomedical Engineering",
+            "Business Computing",
+            "Cardiology",
+            "Commercial Law",
+            "Computer Science",
+            "Dentistry",
+            "Educational Administration",
+            "Electrical Engineering",
+            "Electronics and Automation",
+            "Endocrinology",
+            "Environmental Engineering",
+            "Environmental Management",
+            "Ethnology",
+            "Fire Science",
+            "Food Science",
+            "Gastroenterology",
+            "Haematology",
+            "Health Education",
+            "Human Resources",
+            "Hygiene",
+            "Journalism",
+            "Literacy Education",
+            "Management",
+            "Medicine",
+            "Microbiology",
+            "Nephrology",
+            "Neurology",
+            "Nursing",
+            "Nutrition",
+            "Obstetrics and Gynaecology",
+            "Ophthalmology",
+            "Orthopaedics",
+            "Paediatrics",
+            "Physical Chemistry",
+            "Physical Education",
+            "Physical Therapy",
+            "Pneumology",
+            "Private Law",
+            "Production Engineering",
+            "Psychiatry and Mental Health",
+            "Radiology",
+            "Real Estate",
+            "Rehabilitation and Therapy",
+            "Road Engineering",
+            "Rural Planning",
+            "Safety Engineering",
+            "Sanitary Engineering",
+            "Sports",
+            "Sports Management",
+            "Surgery",
+            "Systems Analysis",
+            "Taxation",
+            "Town Planning",
+            "Toxicology",
+            "Water Management"
+          ]
+        },
+        {
+          "name": "Maestría",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Agricultural Economics",
+            "Agriculture",
+            "Analytical Chemistry",
+            "Applied Chemistry",
+            "Applied Mathematics",
+            "Architecture",
+            "Art Criticism",
+            "Art History",
+            "Biomedical Engineering",
+            "Biotechnology",
+            "Botany",
+            "Cell Biology",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civil Engineering",
+            "Computer Science",
+            "Criminal Law",
+            "Dentistry",
+            "Development Studies",
+            "Ecology",
+            "Economic and Finance Policy",
+            "Economics",
+            "Education",
+            "Educational Administration",
+            "Educational Sciences",
+            "Educational Technology",
+            "Educational Testing and Evaluation",
+            "Electrical Engineering",
+            "Electronics and Automation",
+            "Engineering",
+            "Environmental Management",
+            "Environmental Studies",
+            "Ethnology",
+            "Finance",
+            "Foreign Languages Education",
+            "Forest Management",
+            "Geography (Human)",
+            "History",
+            "Immunology",
+            "Irrigation",
+            "Latin American Studies",
+            "Linguistics",
+            "Literacy Education",
+            "Literature",
+            "Maintenance Technology",
+            "Management",
+            "Materials Engineering",
+            "Mathematics",
+            "Mathematics and Computer Science",
+            "Mechanical Engineering",
+            "Medicine",
+            "Microbiology",
+            "Modern Languages",
+            "Molecular Biology",
+            "Natural Resources",
+            "Philosophy",
+            "Physical Chemistry",
+            "Physics",
+            "Political Sciences",
+            "Public Health",
+            "Road Engineering",
+            "Rural Studies",
+            "Science Education",
+            "Sports",
+            "Statistics",
+            "Telecommunications Engineering",
+            "Town Planning",
+            "Tropical Agriculture",
+            "Water Management",
+            "Water Science",
+            "Zoology"
+          ]
+        },
+        {
+          "name": "Doctorado",
+          "fields": [
+            "Accountancy",
+            "Analytical Chemistry",
+            "Anthropology",
+            "Applied Chemistry",
+            "Applied Physics",
+            "Arts and Humanities",
+            "Bioengineering",
+            "Biotechnology",
+            "Cell Biology",
+            "Chemistry",
+            "Ecology",
+            "Education",
+            "Electronics and Automation",
+            "Engineering",
+            "Environmental Studies",
+            "Forestry",
+            "Linguistics",
+            "Mathematics",
+            "Medicine",
+            "Microbiology",
+            "Neurosciences",
+            "Pedagogy",
+            "Philosophy",
+            "Physical Chemistry",
+            "Physics",
+            "Political Sciences",
+            "Sports"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio del Poder Popular para la Educación Universitaria (MPPEU)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Mario Bonucci Rossini"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Manuel Aranguren R."
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Patricia Rosenzweig"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1785 as Seminario de San Buenaventura, authorised to award degrees 1806. Raised to full University status 1810. Became a secular Institution 1832. An autonomous State Institution",
+      "periodicals": [
+        "Derecho y Reforma Agraria Revistas and Anuarios of each faculty",
+        "Derecho y Reforma Agraria",
+        "Revistas and Anuarios of each faculty"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "17312",
+      "iau_id": "IAU-017312",
+      "name": "Catholic University of Táchira",
+      "alt_name": "Universidad Católica del Táchira (UCAT)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxTLDMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017312",
+      "address": {
+        "Street": "Avenida Gran MariscalEdif. del Rectorado",
+        "City": "Cumaná",
+        "Province": "Estado Sucre",
+        "WWW": "http://www.udo.edu.ve"
+      },
+      "website": "http://www.udo.edu.ve",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1958,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "January to December (January-July; August-December)",
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : Anzoátegui",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Architecture",
+            "Engineering",
+            "Medicine",
+            "Technology",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Campus : Bolívar",
+          "fields": [
+            "Biological and Life Sciences",
+            "Engineering",
+            "Geology",
+            "Medicine",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Campus : Carúpano",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Computer Science",
+            "Education",
+            "Human Resources"
+          ]
+        },
+        {
+          "name": "Campus : Monagas",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Engineering",
+            "Human Resources",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Campus : Nueva Esparta",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Aquaculture",
+            "Business Administration",
+            "Computer Science",
+            "Education",
+            "Food Technology",
+            "Hotel Management",
+            "Marine Biology",
+            "Statistics",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Course/Programme : Administration, Social and Political Sciences",
+          "fields": [
+            "Administration",
+            "Political Sciences",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Course/Programme : Agriculture and Veterinary Sciences",
+          "fields": [
+            "Tropical Agriculture"
+          ]
+        },
+        {
+          "name": "Course/Programme : Arts and Humanity and Philosophy",
+          "fields": [
+            "Arts and Humanities",
+            "Education",
+            "Linguistics",
+            "Literature"
+          ]
+        },
+        {
+          "name": "Course/Programme : Engineering",
+          "fields": [
+            "Chemical Engineering",
+            "Electrical Engineering",
+            "Food Technology",
+            "Maintenance Technology",
+            "Mechanical Engineering",
+            "Natural Resources",
+            "Petroleum and Gas Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Medicine",
+          "fields": [
+            "Medicine",
+            "Public Health"
+          ]
+        },
+        {
+          "name": "Course/Programme : Natural Sciences",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Mathematics",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Unit : Puerto Ordaz",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Civil Engineering",
+            "Human Resources",
+            "Industrial Management",
+            "Statistics",
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Biological and Life Sciences",
+            "Business Education",
+            "Chemistry",
+            "Computer Science",
+            "Education",
+            "Foreign Languages Education",
+            "Human Resources",
+            "Humanities and Social Science Education",
+            "Industrial Arts Education",
+            "Mathematics",
+            "Native Language Education",
+            "Nursing",
+            "Physics",
+            "Science Education",
+            "Social Work",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Especialización",
+          "fields": [
+            "Administration",
+            "Anaesthesiology",
+            "Cardiology",
+            "Dermatology",
+            "Electrical Engineering",
+            "Food Technology",
+            "Gerontology",
+            "Maintenance Technology",
+            "Medicine",
+            "Natural Resources",
+            "Neurology",
+            "Obstetrics and Gynaecology",
+            "Orthopaedics",
+            "Paediatrics",
+            "Petroleum and Gas Engineering",
+            "Psychiatry and Mental Health",
+            "Public Health",
+            "Surgery",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Maestría",
+          "fields": [
+            "Administration",
+            "Biology",
+            "Business Computing",
+            "Chemical Engineering",
+            "Education",
+            "Electrical Engineering",
+            "Food Technology",
+            "Gerontology",
+            "Marine Science and Oceanography",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Public Health",
+            "Regional Studies",
+            "Tourism",
+            "Tropical Agriculture"
+          ]
+        },
+        {
+          "name": "Doctorado",
+          "fields": [
+            "Administration",
+            "Education",
+            "Marine Science and Oceanography"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Popular Power for University Education (MPPEU)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Milena Bravo de Romero"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Jesús M. Yépez"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Tahís Pico de Olivero"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1958. An autonomous State institution",
+      "periodicals": [
+        "Boletín del Instituto Oceanográfico Boletín del Instituto Oceanográfico de Venezuela Geominas Inteligencia Gerencial SABER UDO Agrícola",
+        "Boletín del Instituto Oceanográfico",
+        "Boletín del Instituto Oceanográfico de Venezuela",
+        "Geominas",
+        "Inteligencia Gerencial",
+        "SABER",
+        "UDO Agrícola"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "17284",
+      "iau_id": "IAU-017284",
+      "name": "Cecilio Acosta Catholic University",
+      "alt_name": "Universidad Católica Cecilio Acosta (UNICA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxSLiMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017284",
+      "address": {
+        "Street": "Edif. del Rectorado, Av. 16 (Guajira) con calle 67B(frente al Hospital Universitario)",
+        "City": "Maracaibo",
+        "Province": "Zulia",
+        "WWW": "http://www.luz.edu.ve"
+      },
+      "website": "http://www.luz.edu.ve",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1891,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : Cabimas",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Civil Engineering",
+            "Economics",
+            "Education",
+            "Engineering",
+            "Mechanical Engineering",
+            "Petroleum and Gas Engineering",
+            "Special Education",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Campus : Punto Fijo",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Biology",
+            "Chemistry",
+            "Education",
+            "Mathematics",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Agronomy",
+          "fields": [
+            "Agronomy"
+          ]
+        },
+        {
+          "name": "Faculty : Architecture and Design",
+          "fields": [
+            "Architecture",
+            "Graphic Design"
+          ]
+        },
+        {
+          "name": "Faculty : Arts",
+          "fields": [
+            "Fine Arts"
+          ]
+        },
+        {
+          "name": "Faculty : Dentistry",
+          "fields": [
+            "Dentistry"
+          ]
+        },
+        {
+          "name": "Faculty : Economics and Social Sciences",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Economics",
+            "Social Sciences",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Engineering",
+            "Geological Engineering",
+            "Mechanical Engineering",
+            "Petroleum and Gas Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Humanities and Education",
+          "fields": [
+            "Advertising and Publicity",
+            "Archiving",
+            "Arts and Humanities",
+            "Communication Studies",
+            "Education",
+            "Journalism",
+            "Library Science",
+            "Literature"
+          ]
+        },
+        {
+          "name": "Faculty : Law and Political Science",
+          "fields": [
+            "Law",
+            "Political Sciences",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Biological and Life Sciences",
+            "Dietetics",
+            "Health Sciences",
+            "Medicine",
+            "Nursing",
+            "Nutrition"
+          ]
+        },
+        {
+          "name": "Faculty : Science",
+          "fields": [
+            "Anthropology",
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Mathematics",
+            "Natural Sciences",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Faculty : Veterinary Science",
+          "fields": [
+            "Veterinary Science"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Técnico Superior",
+          "fields": [
+            "Forestry",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Advertising and Publicity",
+            "Agricultural Engineering",
+            "Architecture",
+            "Archiving",
+            "Biological and Life Sciences",
+            "Biology",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civil Engineering",
+            "Computer Science",
+            "Dance",
+            "Dentistry",
+            "Dietetics",
+            "Economics",
+            "Education",
+            "Educational and Student Counselling",
+            "Educational Sciences",
+            "Educational Technology",
+            "Electrical Engineering",
+            "Fine Arts",
+            "Geological Engineering",
+            "Graphic Design",
+            "Humanities and Social Science Education",
+            "Industrial Engineering",
+            "Law",
+            "Library Science",
+            "Literature",
+            "Mass Communication",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Medicine",
+            "Music",
+            "Native Language Education",
+            "Nursing",
+            "Nutrition",
+            "Performing Arts",
+            "Petroleum and Gas Engineering",
+            "Philosophy",
+            "Physical Education",
+            "Physics",
+            "Political Sciences",
+            "Preschool Education",
+            "Primary Education",
+            "Public Relations",
+            "Science Education",
+            "Social Work",
+            "Sociology",
+            "Spanish",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Especialización",
+          "fields": [
+            "Management"
+          ]
+        },
+        {
+          "name": "Maestría",
+          "fields": [
+            "Agricultural Management",
+            "Animal Husbandry",
+            "Business Administration",
+            "Computer Science",
+            "Ecology",
+            "Education",
+            "Educational Administration",
+            "Finance",
+            "Industrial Management",
+            "Marketing",
+            "Tropical Agriculture"
+          ]
+        },
+        {
+          "name": "Doctorado",
+          "fields": [
+            "Agriculture",
+            "Chemical Engineering",
+            "Education",
+            "Engineering",
+            "Environmental Engineering",
+            "Social Sciences"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio del Poder Popular para la Educación Universitaria (MPPEU)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Judith Elena Aular de Duran"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "María Artigas"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1891",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "2970",
+      "iau_id": "IAU-002970",
+      "name": "Cecilio Acosta Territorial Polytechnic University of the Altos Mirandinos",
+      "alt_name": "Universidad Politécnica Territorial de los Altos Mirandinos Cecilio Acosta (UPTAMCA)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sQ0RXLGBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-002970",
+      "address": {
+        "Street": "Av. Caracas con calle Buenos Aires, Quinta Las Palmas, Sector La Plata",
+        "City": "Valera",
+        "Province": "Trujillo",
+        "WWW": "http://www.uvm.edu.ve"
+      },
+      "website": "http://www.uvm.edu.ve",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1997,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "January to December",
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Deanery : Research and Postgraduate Studies",
+          "fields": [
+            "Business Administration",
+            "Education"
+          ]
+        },
+        {
+          "name": "Faculty : Economics, Administration and Business Administration",
+          "fields": [
+            "Accountancy",
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Computer Engineering",
+            "Industrial Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Law, Political Science and Social Sciences",
+          "fields": [
+            "Law",
+            "Political Sciences",
+            "Social Sciences"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Business Administration",
+            "Computer Engineering",
+            "Industrial Engineering",
+            "Law",
+            "Political Sciences"
+          ]
+        },
+        {
+          "name": "Especialización",
+          "fields": [
+            "Business Administration",
+            "Educational Administration",
+            "Educational Testing and Evaluation",
+            "Finance",
+            "Information Technology",
+            "Marketing",
+            "Mathematics Education",
+            "Preschool Education",
+            "Primary Education",
+            "Public Administration",
+            "Taxation"
+          ]
+        },
+        {
+          "name": "Maestría",
+          "fields": [
+            "Business Administration",
+            "Educational Sciences",
+            "Public Administration"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Maria Teresa Bravo"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1997",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "17333",
+      "iau_id": "IAU-017333",
+      "name": "Central University of Venezuela",
+      "alt_name": "Universidad Central de Venezuela (UCV)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxTLFMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017333",
+      "address": {
+        "Street": "Parque Residencial La Mora, Calle 1A entre avenidas 3 y 4",
+        "City": "Cabudare",
+        "Province": "Lara",
+        "WWW": "http://www.uny.edu.ve"
+      },
+      "website": "http://www.uny.edu.ve",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1989,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "October to July (October-January; February-June)",
+      "languages": [
+        "Spanish"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Administration",
+          "fields": [
+            "Accountancy",
+            "Administration"
+          ]
+        },
+        {
+          "name": "Faculty : Arts and Humanities",
+          "fields": [
+            "Arts and Humanities",
+            "Environmental Studies",
+            "Information Sciences",
+            "Library Science",
+            "Psychology",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Computer Engineering",
+            "Electronic Engineering",
+            "Engineering",
+            "Industrial Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Law and Political Science",
+          "fields": [
+            "Law",
+            "Political Sciences"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Accountancy",
+            "Agricultural Management",
+            "Computer Engineering",
+            "Documentation Techniques",
+            "Electronic Engineering",
+            "Environmental Studies",
+            "Industrial Engineering",
+            "Information Sciences",
+            "Law",
+            "Mass Communication",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Especialización",
+          "fields": [
+            "Administration",
+            "Criminal Law",
+            "Criminology",
+            "Environmental Studies",
+            "Finance",
+            "Health Administration",
+            "Industrial and Organizational Psychology",
+            "Information Technology",
+            "Management",
+            "Marketing",
+            "Production Engineering",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Maestría",
+          "fields": [
+            "Business Administration",
+            "Criminology",
+            "Education",
+            "Educational Administration",
+            "Electronic Engineering",
+            "Environmental Studies",
+            "Finance",
+            "Human Resources",
+            "Sustainable Development"
+          ]
+        },
+        {
+          "name": "Doctorado",
+          "fields": [
+            "Management"
+          ]
+        }
+      ],
+      "accreditation": "Ministerio del Poder Popular para la Educación Universitaria (MPPEU)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Juan Pedro Pereira Medinal"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Durby Pereira Pereira"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Sofía Beatriz Márquez Olmos"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1989",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "28191",
+      "iau_id": "IAU-028191",
+      "name": "Clodosbaldo Russián Territorial Polytechnic University of the West of Sucre",
+      "alt_name": "Universidad Politécnica Territorial del Oeste de Sucre Clodosbaldo Russián (UPTOSCR)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0BRLjMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-028191",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "23306",
+      "iau_id": "IAU-023306",
+      "name": "Dr. José Gregorio Hernández Private University",
+      "alt_name": "Universidad Dr. José Gregorio Hernández (UJGH)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyxTLCM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-023306",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "18096",
+      "iau_id": "IAU-018096",
+      "name": "Ezequiel Zamora National Experimental University of the Western Plains",
+      "alt_name": "Universidad Nacional Experimental de los Llanos Occidentales Ezequiel Zamora (UNELLEZ)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BQLjM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018096",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "23303",
+      "iau_id": "IAU-023303",
+      "name": "Falcón University",
+      "alt_name": "Universidad de Falcón (UDEFA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyxTLCMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-023303",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "9487",
+      "iau_id": "IAU-009487",
+      "name": "Father Ojeda Salesian University Institute",
+      "alt_name": "Instituto Universitario Salesiano Padre Ojeda (IUSPO)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMzBYLVBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009487",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "9384",
+      "iau_id": "IAU-009384",
+      "name": "Federico Brito Figueroa Territorial Polytechnic University of Aragua State",
+      "alt_name": "Universidad Politécnica Territorial del Estado Aragua Federico Brito Figueroa – Universidad Politecnica Territorial de Aragua Federico Brito Figueroa (UPTA)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMyxYLWBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009384",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17773",
+      "iau_id": "IAU-017773",
+      "name": "Fermín Toro University",
+      "alt_name": "Universidad Fermín Toro (UFT)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxXLVMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017773",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "18099",
+      "iau_id": "IAU-018099",
+      "name": "Francisco de Miranda National Experimental University",
+      "alt_name": "Universidad Nacional Experimental Francisco de Miranda (UNEFM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BQLjNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018099",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "9406",
+      "iau_id": "IAU-009406",
+      "name": "Francisco Tamayo Deltaic Territorial University",
+      "alt_name": "Universidad Territorial Deltaica Francisco Tamayo (IUTDM)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMzBQLUBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009406",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "18135",
+      "iau_id": "IAU-018135",
+      "name": "Grand Marshal of Ayacucho Northeastern University",
+      "alt_name": "Universidad Nororiental Gran Mariscal de Ayacucho – Universidad Nororiental Privada Gran Mariscal De Ayacucho Localidad Barcelona (UGMA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BRLFM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018135",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "28180",
+      "iau_id": "IAU-028180",
+      "name": "Hugo Chávez Frías University of Health Sciences",
+      "alt_name": "Universidad de las Ciencias de la Salud Hugo Chávez Frías (UCS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0BRLiNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-028180",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "23311",
+      "iau_id": "IAU-023311",
+      "name": "Institute of Advanced Studies in Public Health Dr. Arnoldo Gabaldon",
+      "alt_name": "Instituto de Altos Estudios de Salud Pública Dr. Arnoldo Gabaldon (IAES)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyxTLDMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-023311",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "18109",
+      "iau_id": "IAU-018109",
+      "name": "Jesús María Semprún Southern National Experimental University of the Lake",
+      "alt_name": "Universidad Nacional Experimental Sur del Lago Jesús María Semprún (UNESUR)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BRLCNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018109",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "28179",
+      "iau_id": "IAU-028179",
+      "name": "Jesús Rivero Bolivarian University of Workers",
+      "alt_name": "Universidad Bolivariana de los Trabajadores Jesús Rivero (UBTJR)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0BRLVNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-028179",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "9423",
+      "iau_id": "IAU-009423",
+      "name": "José Antonio Anzoátegui Territorial Polytechnic University",
+      "alt_name": "Universidad Politécnica Territorial José Antonio Anzoátegui (UPTJAA)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMzBSLFBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009423",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "9424",
+      "iau_id": "IAU-009423-009424",
+      "name": "José Antonio Anzoátegui Territorial Polytechnic University – Anaco Branch",
+      "alt_name": "Universidad Politécnica Territorial José Antonio Anzoátegui – Extensión Anaco",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMzBSLWBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009423-009424",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "9422",
+      "iau_id": "IAU-009423-009422",
+      "name": "José Antonio Anzoátegui Territorial Polytechnic University – Pariaguán Branch",
+      "alt_name": "Universidad Politécnica Territorial José Antonio Anzoátegui – Extensión Pariaguán",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMzBSLEBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009423-009422",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "9421",
+      "iau_id": "IAU-009423-009421",
+      "name": "José Antonio Anzoátegui Territorial Polytechnic University – Puerto La Cruz Branch",
+      "alt_name": "Universidad Politécnica Territorial José Antonio Anzoátegui – Extensión Puerto La Cruz",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMzBSLDBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009423-009421",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17886",
+      "iau_id": "IAU-017886",
+      "name": "José Antonio Páez University",
+      "alt_name": "Universidad José Antonio Páez (UJAP)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxYLiM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017886",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "28189",
+      "iau_id": "IAU-028189",
+      "name": "José Félix Ribas Territorial Polytechnic University",
+      "alt_name": "Universidad Politécnica Territorial José Félix Ribas (UPTJFR)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0BRLiNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-028189",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17889",
+      "iau_id": "IAU-017889",
+      "name": "José María Vargas University",
+      "alt_name": "Universidad José María Vargas (UJMV)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxYLiNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017889",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "23299",
+      "iau_id": "IAU-023299",
+      "name": "Juan de Jesús Montilla Territorial Polytechnic University of Portuguesa State",
+      "alt_name": "Universidad Politécnica Territorial del estado Portuguesa Juan de Jesús Montilla – UPTP Juan de Jesús Montilla (UPTP)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyxSLjNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-023299",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "9387",
+      "iau_id": "IAU-009387",
+      "name": "Juana Ramirez Territorial Polytechnic University of Los Llanos",
+      "alt_name": "Universidad Politécnica Territorial de los Llanos Juana Ramirez (IUTLL)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMyxYLVBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009387",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "9386",
+      "iau_id": "IAU-009387-009386",
+      "name": "Juana Ramirez Territorial Polytechnic University of Los Llanos – Altagracia de Orituco Branch",
+      "alt_name": "Universidad Politécnica Territorial de los Llanos Juana Ramirez – Extensión Altagracia de Orituco",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMyxYLUBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009387-009386",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "9385",
+      "iau_id": "IAU-009387-009385",
+      "name": "Juana Ramirez Territorial Polytechnic University of Los Llanos – Calabozo Branch",
+      "alt_name": "Universidad Politécnica Territorial de los Llanos Juana Ramirez – Extensión Calabozo",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMyxYLTBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009387-009385",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "9383",
+      "iau_id": "IAU-009383",
+      "name": "Kléber Ramírez Territorial Polytechnic University of Mérida",
+      "alt_name": "Universidad Politécnica Territorial de Mérida Kléber Ramírez (UPTM)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMyxYLFBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009383",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "18178",
+      "iau_id": "IAU-018178",
+      "name": "Libertador Experimental University of Education",
+      "alt_name": "Universidad Pedagógica Experimental Libertador (UPEL)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BRLVNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018178",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "18179",
+      "iau_id": "IAU-018178-018179",
+      "name": "Libertador Experimental University of Education – Institute for the Professional Upgrading of Teachers",
+      "alt_name": "Universidad Pedagógica Experimental Libertador – Instituto del Mejoramiento Profesional del Magisterio (IMPM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BRLVNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018178-018179",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "18176",
+      "iau_id": "IAU-018178-018176",
+      "name": "Libertador Experimental University of Education – Luis Beltrán Prieto Figueroa Pedagogical Institute of Barquisimeto",
+      "alt_name": "Universidad Pedagógica Experimental Libertador – Instituto Pedagógico de Barquisimeto Luis Beltrán Prieto Figueroa de Barquisimeto (UPEL-IPB)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BRLVM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018178-018176",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "18171",
+      "iau_id": "IAU-018178-018171",
+      "name": "Libertador Experimental University of Education – Pedagogical Institute of Caracas",
+      "alt_name": "Universidad Pedagógica Experimental Libertador – Instituto Pedagógico de Caracas (IPC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BRLVMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018178-018171",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "18173",
+      "iau_id": "IAU-018178-018173",
+      "name": "Libertador Experimental University of Education – Antonio Lira Alcalà Pedagogical Institute of Maturín",
+      "alt_name": "Universidad Pedagógica Experimental Libertador – Instituto Pedagógico de Maturín Antonio Lira Alcalà (IPM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BRLVMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018178-018173",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "18172",
+      "iau_id": "IAU-018178-018172",
+      "name": "Libertador Experimental University of Education – José Manuel Siso Martínez Pedagogical Institute of Miranda",
+      "alt_name": "Universidad Pedagógica Experimental Libertador – Instituto Pedagógico de Miranda José Manuel Siso Martínez (IPMJMSM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BRLVMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018178-018172",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "18174",
+      "iau_id": "IAU-018178-018174",
+      "name": "Libertador Experimental University of Education – Rafael Alberto Escobar Lara Pedagogical Institute",
+      "alt_name": "Universidad Pedagógica Experimental Libertador – Instituto Pedagógico Rafael Alberto Escobar Lara (IPMAR)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BRLVMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018178-018174",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "18175",
+      "iau_id": "IAU-018178-018175",
+      "name": "Libertador Experimental University of Education – El Mácaro Rural Pedagogical Institute",
+      "alt_name": "Universidad Pedagógica Experimental Libertador – Instituto Pedagógico Rural El Mácaro (Upel-IPR \"El Mácaro\")",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BRLVM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018178-018175",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "18177",
+      "iau_id": "IAU-018178-018177",
+      "name": "Libertador Experimental University of Education – Gervasio Rubio Rural Pedagogical Institute",
+      "alt_name": "Universidad Pedagógica Experimental Libertador – Instituto Pedagógico Rural Gervasio Rubio (IPRGR)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BRLVM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018178-018177",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17341",
+      "iau_id": "IAU-017341",
+      "name": "Lisandro Alvarado Central Western University",
+      "alt_name": "Universidad Centro Occidental Lisandro Alvarado (UCLA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxTLSMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017341",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "23300",
+      "iau_id": "IAU-023300",
+      "name": "Ludovico Silva Territorial Polytechnic University of North Monagas",
+      "alt_name": "Universidad Politécnica Territorial del Norte de Monagas Ludovico Silva",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyxTLCNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-023300",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "23302",
+      "iau_id": "IAU-023302",
+      "name": "Luís Mariano Rivera Territorial Polytechnic University of Paria",
+      "alt_name": "Universidad Politécnica Territorial de Paria Luís Mariano Rivera – UPTParia (UPTP)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyxTLCMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-023302",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "23301",
+      "iau_id": "IAU-023301",
+      "name": "Manuela Sáenz Territorial Polytechnic University of North Táchira",
+      "alt_name": "Universidad Politécnica Territorial del Norte del Táchira Manuela Sáenz (UPTNTMS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyxTLCMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-023301",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "28190",
+      "iau_id": "IAU-028190",
+      "name": "Mario Briceño Iragorry Territorial Polytechnic University of Trujillo State",
+      "alt_name": "Universidad Politécnica Territorial del Estado Trujillo Mario Briceño Iragorry (UPTMBI)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0BRLjNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-028190",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "9401",
+      "iau_id": "IAU-009401",
+      "name": "Mariscal de Sucre Territorial Polytechnic University of Caracas",
+      "alt_name": "Universidad Politécnica Territorial de Caracas Mariscal de Sucre – UPTEC-MS (UPTCMS)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMzBQLDBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009401",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "2973",
+      "iau_id": "IAU-002973",
+      "name": "May Hamilton College of Rehabilitation",
+      "alt_name": "Colegio Universitario de Rehabilitación May Hamilton (CUR)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sQ0RXLFBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-002973",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17963",
+      "iau_id": "IAU-017963",
+      "name": "Metropolitan University",
+      "alt_name": "Universidad Metropolitana (UNIMET)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxZLUMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017963",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "9472",
+      "iau_id": "IAU-009472",
+      "name": "Monsignor Rafael Arias Blanco Pedagogical University Institute",
+      "alt_name": "Instituto Universitario Pedagógico Monseñor Rafael Arias Blanco (IUPMA)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMzBXLEBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009472",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17988",
+      "iau_id": "IAU-017988",
+      "name": "Monteávila University",
+      "alt_name": "Universidad Monteávila (UMA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxZLiNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017988",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "18100",
+      "iau_id": "IAU-018100",
+      "name": "National Experimental Maritime University of the Caribbean",
+      "alt_name": "Universidad Nacional Experimental Marítima del Caribe",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BRLCNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018100",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "18093",
+      "iau_id": "IAU-018093",
+      "name": "National Experimental University of Guayana",
+      "alt_name": "Universidad Nacional Experimental de Guayana (UNEG)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BQLjMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018093",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "18097",
+      "iau_id": "IAU-018097",
+      "name": "National Experimental University of Táchira",
+      "alt_name": "Universidad Nacional Experimental del Táchira (UNET)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BQLjM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018097",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "28187",
+      "iau_id": "IAU-028187",
+      "name": "National Experimental University of the Armed Forces",
+      "alt_name": "Universidad Nacional Experimental Politécnica de la Fuerza Armada (UNEFA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0BRLiM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-028187",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "18094",
+      "iau_id": "IAU-018094",
+      "name": "National Experimental University of the Arts",
+      "alt_name": "Universidad Nacional Experimental de las Artes",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BQLjMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018094",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "2963",
+      "iau_id": "IAU-002963",
+      "name": "National Experimental University of the Greater Caracas",
+      "alt_name": "Universidad Nacional Experimental de la Gran Caracas (UNEXCA)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sQ0RWLFBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-002963",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "18098",
+      "iau_id": "IAU-018098",
+      "name": "National Experimental University of the Yaracuy",
+      "alt_name": "Universidad Nacional Experimental del Yaracuy (UNEY)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BQLjNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018098",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17997",
+      "iau_id": "IAU-017997",
+      "name": "National Open University",
+      "alt_name": "Universidad Nacional Abierta (UNA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxZLjM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017997",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "4703",
+      "iau_id": "IAU-004703",
+      "name": "National School of Administration and Public Finance - University Institute of Technology",
+      "alt_name": "Escuela Nacional de Administración y Hacienda Pública - Instituto Universitario de Tecnología (ENAHP-IUT)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIzxQLFBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004703",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "28149",
+      "iau_id": "IAU-028149",
+      "name": "National University of Tourism",
+      "alt_name": "Universidad Nacional del Turismo (UNATUR)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0BRLSNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-028149",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "2978",
+      "iau_id": "IAU-028149-002978",
+      "name": "National University of Tourism – National University of Tourism - Hotel School of the Venezuelan Andes",
+      "alt_name": "Universidad Nacional del Turismo – Universidad Nacional del Turismo - Núcleo Hotel Escuela de Los Andes Venezolanos – Universidad Nacional Del Turismo Núcleo Mérida (CUHELAV)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sQ0RXLmBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-028149-002978",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "18139",
+      "iau_id": "IAU-018139",
+      "name": "New Sparta University",
+      "alt_name": "Universidad Nueva Esparta (UNE)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BRLFNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018139",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "23304",
+      "iau_id": "IAU-023304",
+      "name": "Panamericana University of Puerto",
+      "alt_name": "Universidad Panamericana del Puerto (UNIPAP)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyxTLCMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-023304",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "28177",
+      "iau_id": "IAU-028177",
+      "name": "Paulo Freire Latin American University Institute of Agroecology",
+      "alt_name": "Instituto Universitario Latinoamericano de Agroecología Paulo Freire – IALA Paulo Freire (IALA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0BRLVM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-028177",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "9394",
+      "iau_id": "IAU-009394",
+      "name": "Pedro Camejo Territorial Polytechnic University of Alto Apure",
+      "alt_name": "Universidad Politécnica Territorial del Alto Apure Pedro Camejo (UPTAAPC)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMyxZLWBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009394",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "9473",
+      "iau_id": "IAU-009473",
+      "name": "Polytechnic University Institute Santiago Mariño",
+      "alt_name": "Instituto Universitario Politécnico Santiago Mariño (IUPSM)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMzBXLFBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009473",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "9481",
+      "iau_id": "IAU-009473-009481",
+      "name": "Polytechnic University Institute Santiago Mariño – Barinas Branch",
+      "alt_name": "Instituto Universitario Politécnico Santiago Mariño – Extensión Barinas",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMzBYLDBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009473-009481",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "9475",
+      "iau_id": "IAU-009473-009475",
+      "name": "Polytechnic University Institute Santiago Mariño – Cabimas Branch",
+      "alt_name": "Instituto Universitario Politécnico Santiago Mariño – Extensión Cabimas – Extensión Costa Oriental del Lago",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMzBXLTBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009473-009475",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "9485",
+      "iau_id": "IAU-009473-009485",
+      "name": "Polytechnic University Institute Santiago Mariño – Caracas Branch",
+      "alt_name": "Instituto Universitario Politécnico Santiago Mariño – Extensión Caracas",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMzBYLTBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009473-009485",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "9476",
+      "iau_id": "IAU-009473-009476",
+      "name": "Polytechnic University Institute Santiago Mariño – Maracaibo Branch",
+      "alt_name": "Instituto Universitario Politécnico Santiago Mariño – Extensión Maracaibo",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMzBXLUBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009473-009476",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "9483",
+      "iau_id": "IAU-009473-009483",
+      "name": "Polytechnic University Institute Santiago Mariño – Maracay Branch",
+      "alt_name": "Instituto Universitario Politécnico Santiago Mariño – Extensión Maracay",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMzBYLFBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009473-009483",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "9479",
+      "iau_id": "IAU-009473-009479",
+      "name": "Polytechnic University Institute Santiago Mariño – Maturín Branch",
+      "alt_name": "Instituto Universitario Politécnico Santiago Mariño – Extensión Maturín",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMzBXLjBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009473-009479",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "9477",
+      "iau_id": "IAU-009473-009477",
+      "name": "Polytechnic University Institute Santiago Mariño – Mérida Branch",
+      "alt_name": "Instituto Universitario Politécnico Santiago Mariño – Extensión Mérida",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMzBXLVBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009473-009477",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "9474",
+      "iau_id": "IAU-009473-009474",
+      "name": "Polytechnic University Institute Santiago Mariño – Porlamar Branch",
+      "alt_name": "Instituto Universitario Politécnico Santiago Mariño – Extensión Porlamar",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMzBXLWBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009473-009474",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "9478",
+      "iau_id": "IAU-009473-009478",
+      "name": "Polytechnic University Institute Santiago Mariño – Puerto Ordaz Branch",
+      "alt_name": "Instituto Universitario Politécnico Santiago Mariño – Extensión Puerto Ordaz",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMzBXLmBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009473-009478",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "9480",
+      "iau_id": "IAU-009473-009480",
+      "name": "Polytechnic University Institute Santiago Mariño – San Cristóbal Branch",
+      "alt_name": "Instituto Universitario Politécnico Santiago Mariño – Extensión San Cristóbal",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMzBYLGBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009473-009480",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "9482",
+      "iau_id": "IAU-009473-009482",
+      "name": "Polytechnic University Institute Santiago Mariño – Tovar Branch",
+      "alt_name": "Instituto Universitario Politécnico Santiago Mariño – Extensión Tovar",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMzBYLEBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009473-009482",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "9484",
+      "iau_id": "IAU-009473-009484",
+      "name": "Polytechnic University Institute Santiago Mariño – Valencia Branch",
+      "alt_name": "Instituto Universitario Politécnico Santiago Mariño – Extensión Valencia",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMzBYLWBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009473-009484",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "18304",
+      "iau_id": "IAU-018304",
+      "name": "Rafael Belloso Chacín University",
+      "alt_name": "Universidad Privada Dr. Rafael Belloso Chacín (URBE)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BTLCMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018304",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "18107",
+      "iau_id": "IAU-018107",
+      "name": "Rafael María Baralt National Experimental University",
+      "alt_name": "Universidad Nacional Experimental Rafael María Baralt (UNERMB)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BRLCM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018107",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "18306",
+      "iau_id": "IAU-018306",
+      "name": "Rafael Urdaneta University",
+      "alt_name": "Universidad Rafael Urdaneta (URU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BTLCM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018306",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "18095",
+      "iau_id": "IAU-018095",
+      "name": "Rómulo Gallegos National Experimental University of the Central Plains",
+      "alt_name": "Universidad Nacional Experimental de los Llanos Centrales Rómulo Gallegos – Universidad Rómulo Gallegos (UNERG)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BQLjM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018095",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "18336",
+      "iau_id": "IAU-018336",
+      "name": "Santa María University",
+      "alt_name": "Universidad Santa María (USM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BTLFM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018336",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17320",
+      "iau_id": "IAU-017320",
+      "name": "Santa Rosa Catholic University",
+      "alt_name": "Universidad Católica Santa Rosa (UCSAR)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxTLENgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017320",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "18347",
+      "iau_id": "IAU-018347",
+      "name": "Simón Bolívar Experimental University",
+      "alt_name": "Universidad Experimental Simón Bolívar – Universidad Nacional Experimental Simón Bolívar (USB)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BTLSM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018347",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "18108",
+      "iau_id": "IAU-018108",
+      "name": "Simón Rodríguez National Experimental University",
+      "alt_name": "Universidad Nacional Experimental Simón Rodríguez (UNESR)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BRLCNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018108",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "28181",
+      "iau_id": "IAU-028181",
+      "name": "Southern Sports University",
+      "alt_name": "Universidad Deportiva del Sur (UDS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0BRLiMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-028181",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "18432",
+      "iau_id": "IAU-018432",
+      "name": "Technological University of the Central Region",
+      "alt_name": "Universidad Tecnológica del Centro (UNITEC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BULFMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018432",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "9395",
+      "iau_id": "IAU-009395",
+      "name": "Territorial Polytechnic University of Bolívar State",
+      "alt_name": "Universidad Politécnica Territorial del Estado Bolívar (UPT Bolivar)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMyxZLTBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009395",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "9390",
+      "iau_id": "IAU-009390",
+      "name": "Territorial Polytechnic University of Maracaibo",
+      "alt_name": "Universidad Politécnica Territorial de Maracaibo (UPTMA)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMyxZLGBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009390",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "9388",
+      "iau_id": "IAU-009390-009388",
+      "name": "Territorial Polytechnic University of Maracaibo – Machiques Branch",
+      "alt_name": "Universidad Politécnica Territorial de Maracaibo – Extensión Machiques",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMyxYLmBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009390-009388",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "9389",
+      "iau_id": "IAU-009390-009389",
+      "name": "Territorial Polytechnic University of Maracaibo – San Rafael del Moján Branch",
+      "alt_name": "Universidad Politécnica Territorial de Maracaibo – Extensión San Rafael del Moján",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMyxYLjBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009390-009389",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "9391",
+      "iau_id": "IAU-009391",
+      "name": "Territorial Polytechnic University of Puerto Cabello",
+      "alt_name": "Universidad Politécnica Territorial de Puerto Cabello (UPTPC)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMyxZLDBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009391",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "28151",
+      "iau_id": "IAU-009391-028151",
+      "name": "Territorial Polytechnic University of Puerto Cabello – Chichiriviche Branch",
+      "alt_name": "Universidad Politécnica Territorial de Puerto Cabello – Extensión Chichiriviche (UPTPC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0BRLTMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009391-028151",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "28188",
+      "iau_id": "IAU-028188",
+      "name": "Territorial Polytechnic University of the Tuy Valleys",
+      "alt_name": "Universidad Politécnica Territorial de los Valles del Tuy – UPT Valles del Tuy (UPTVT)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0BRLiNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-028188",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "9392",
+      "iau_id": "IAU-009392",
+      "name": "Territorial Polytechnic University of Valencia",
+      "alt_name": "Universidad Politécnica Territorial de Valencia – UPT Valencia (UPTV)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMyxZLEBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009392",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "9380",
+      "iau_id": "IAU-009380",
+      "name": "Territorial Polytechnic University of Zulia",
+      "alt_name": "Universidad Politécnica Territorial del Zulia – UPT Zulia (UPTZ)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMyxYLGBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009380",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "9345",
+      "iau_id": "IAU-009345",
+      "name": "University Institute of Public Relations",
+      "alt_name": "Instituto Universitario de Relaciones Públicas (IURP)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMyxULTBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009345",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17413",
+      "iau_id": "IAU-017413",
+      "name": "University of Carabobo",
+      "alt_name": "Universidad de Carabobo (UC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxULDMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017413",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17533",
+      "iau_id": "IAU-017533",
+      "name": "University of Margarita",
+      "alt_name": "Universidad de Margarita (UNIMAR)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxVLFMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017533",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17522",
+      "iau_id": "IAU-017522",
+      "name": "University of the Andes",
+      "alt_name": "Universidad de Los Andes (ULA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxVLEMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017522",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17561",
+      "iau_id": "IAU-017561",
+      "name": "University of the East",
+      "alt_name": "Universidad de Oriente (UDO)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxVLUMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017561",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "17722",
+      "iau_id": "IAU-017722",
+      "name": "University of Zulia",
+      "alt_name": "Universidad del Zulia (LUZ)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxXLEMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017722",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "18488",
+      "iau_id": "IAU-018488",
+      "name": "Valley of the Momboy University",
+      "alt_name": "Universidad Valle del Momboy (UVM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BULiNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018488",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "18504",
+      "iau_id": "IAU-018504",
+      "name": "Yacambu University",
+      "alt_name": "Universidad Yacambú (UNY)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BVLCMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018504",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    }
+  ]
+}

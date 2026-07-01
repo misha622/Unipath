@@ -1,0 +1,3775 @@
+{
+  "country_name": "Greece",
+  "country_id": "Greece",
+  "institutions": [
+    {
+      "id": "6628",
+      "iau_id": "IAU-006628",
+      "name": "Agricultural University of Athens",
+      "alt_name": "Geoponiko Panepistimio Athinon (AUA)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tQzhSLmBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-006628",
+      "address": {
+        "Street": "University Campus",
+        "City": "Thessaloniki",
+        "Province": "Central Macedonia",
+        "Post Code": "54124",
+        "WWW": "https://www.auth.gr"
+      },
+      "website": "https://www.auth.gr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1925,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June (September-January; February-June)",
+      "languages": [
+        "Greek",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Chair : UNESCO",
+          "fields": [
+            "Human Rights",
+            "Peace and Disarmament"
+          ]
+        },
+        {
+          "name": "Faculty : Agriculture, Forestry and Natural Environment",
+          "fields": [
+            "Agriculture",
+            "Ecology",
+            "Forestry",
+            "Harvest Technology",
+            "Natural Resources",
+            "Plant and Crop Protection",
+            "Water Science",
+            "Wildlife"
+          ]
+        },
+        {
+          "name": "Faculty : Economics and Political Science",
+          "fields": [
+            "Administration",
+            "Business Administration",
+            "Communication Studies",
+            "Cultural Studies",
+            "Economics",
+            "Journalism",
+            "Mass Communication",
+            "Political Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Cultural Studies",
+            "Preschool Education",
+            "Primary Education",
+            "Science Education",
+            "Social Problems",
+            "Social Studies",
+            "Special Education",
+            "Technology Education"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Architectural Restoration",
+            "Architecture",
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Energy Engineering",
+            "Engineering",
+            "Engineering Drawing and Design",
+            "Environmental Engineering",
+            "Hydraulic Engineering",
+            "Industrial Engineering",
+            "Landscape Architecture",
+            "Mechanical Engineering",
+            "Regional Planning",
+            "Surveying and Mapping",
+            "Technology",
+            "Telecommunications Engineering",
+            "Transport Engineering",
+            "Urban Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Fine Arts",
+          "fields": [
+            "Acting",
+            "Cinema and Television",
+            "Film",
+            "Music",
+            "Musicology",
+            "Painting and Drawing",
+            "Sculpture",
+            "Theatre",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences",
+          "fields": [
+            "Anatomy",
+            "Biological and Life Sciences",
+            "Cattle Breeding",
+            "Dentistry",
+            "Medicine",
+            "Neurosciences",
+            "Oral Pathology",
+            "Orthodontics",
+            "Pathology",
+            "Periodontics",
+            "Pharmacology",
+            "Pharmacy",
+            "Physiology",
+            "Radiology",
+            "Social and Preventive Medicine",
+            "Surgery",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Philosophy",
+          "fields": [
+            "Anthropology",
+            "Applied Linguistics",
+            "Archaeology",
+            "Art History",
+            "Classical Languages",
+            "Clinical Psychology",
+            "Contemporary History",
+            "Developmental Psychology",
+            "Education",
+            "Educational Psychology",
+            "English",
+            "Experimental Psychology",
+            "Folklore",
+            "French",
+            "German",
+            "Greek",
+            "History",
+            "Italian",
+            "Linguistics",
+            "Literature",
+            "Modern History",
+            "Philology",
+            "Philosophy",
+            "Prehistory",
+            "Psychology",
+            "Social Psychology",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Faculty : Physical Education and Sport Sciences",
+          "fields": [
+            "Physical Education",
+            "Sports"
+          ]
+        },
+        {
+          "name": "Faculty : Science",
+          "fields": [
+            "Biology",
+            "Botany",
+            "Chemistry",
+            "Computer Networks",
+            "Computer Science",
+            "Ecology",
+            "Genetics",
+            "Geography",
+            "Geology",
+            "Geophysics",
+            "Information Sciences",
+            "Information Technology",
+            "Mathematics",
+            "Meteorology",
+            "Mineralogy",
+            "Physics",
+            "Zoology"
+          ]
+        },
+        {
+          "name": "Faculty : Theology",
+          "fields": [
+            "Bible",
+            "Christian Religious Studies",
+            "History of Religion",
+            "Orthodox Theology",
+            "Pastoral Studies",
+            "Religious Studies",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Institute : Modern Greek Studies",
+          "fields": [
+            "Greek"
+          ]
+        },
+        {
+          "name": "School : Modern Greek Language",
+          "fields": [
+            "Greek"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ptychio",
+          "fields": [
+            "Agriculture",
+            "Archaeology",
+            "Architecture",
+            "Biology",
+            "Chemical Engineering",
+            "Chemistry",
+            "Christian Religious Studies",
+            "Cinema and Television",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Dentistry",
+            "Economics",
+            "English",
+            "Fine Arts",
+            "Forestry",
+            "French",
+            "Genetics",
+            "Geology",
+            "German",
+            "History",
+            "Italian",
+            "Journalism",
+            "Law",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Medicine",
+            "Music",
+            "Pharmacy",
+            "Philology",
+            "Philosophy",
+            "Physical Education",
+            "Physics",
+            "Political Sciences",
+            "Preschool Education",
+            "Primary Education",
+            "Psychology",
+            "Sports",
+            "Surveying and Mapping",
+            "Theatre",
+            "Theology",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Metaptychiako Diploma Eidikefsis",
+          "fields": [
+            "Archaeology",
+            "Biology",
+            "Chemistry",
+            "Geology",
+            "History",
+            "Italian",
+            "Law",
+            "Mathematics",
+            "Pharmacy",
+            "Philology",
+            "Physics",
+            "Psychology",
+            "Theology",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Didaktoriko Diploma",
+          "fields": [
+            "Archaeology",
+            "Biology",
+            "Chemistry",
+            "Geology",
+            "History",
+            "Italian",
+            "Law",
+            "Mathematics",
+            "Pharmacy",
+            "Philology",
+            "Physics",
+            "Psychology",
+            "Theology",
+            "Veterinary Science"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Religious Affairs",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Kyriakos Anastasiadis"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Dimitra Mentekidou"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Iakovos Michailidis"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2022-2023",
+        "Staff Full Time Male:": "1286",
+        "Staff Full Time Female:": "914",
+        "Staff Full Time Total:": "2200",
+        "Students Statistics Year:": "2022-2023",
+        "Students Total:": "92090",
+        "Students Foreign Total:": "5622",
+        "Students Distance:": "2052"
+      },
+      "history": "Founded 1925. An autonomous institution under the supervision of the Ministry of Education. Financed by the State",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "1002",
+      "iau_id": "IAU-001002",
+      "name": "Athens School of Fine Arts",
+      "alt_name": "Anotati Scholi Kalon Technon (ASFA)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sM2BQLEBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-001002",
+      "address": {
+        "Street": "30 Panepistimiou street",
+        "City": "Athens",
+        "Province": "Attica",
+        "Post Code": "10679",
+        "WWW": "https://www.uoa.gr"
+      },
+      "website": "https://www.uoa.gr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to July",
+      "languages": [
+        "Greek"
+      ],
+      "faculties": [
+        {
+          "name": "School : Economics and Political Science",
+          "fields": [
+            "Asian Studies",
+            "Communication Studies",
+            "Economics",
+            "Media Studies",
+            "Political Sciences",
+            "Public Administration",
+            "Turkish"
+          ]
+        },
+        {
+          "name": "School : Education",
+          "fields": [
+            "Preschool Education",
+            "Primary Education"
+          ]
+        },
+        {
+          "name": "School : Health Sciences",
+          "fields": [
+            "Dentistry",
+            "Medicine",
+            "Nursing",
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "School : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "School : Philosophy",
+          "fields": [
+            "Archaeology",
+            "English",
+            "French",
+            "German",
+            "History",
+            "Italian",
+            "Literature",
+            "Music",
+            "Pedagogy",
+            "Philology",
+            "Philosophy",
+            "Psychology",
+            "Slavic Languages",
+            "Spanish",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "School : Physical Education and Sport Science",
+          "fields": [
+            "Physical Education",
+            "Sports"
+          ]
+        },
+        {
+          "name": "School : Science",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Geology",
+            "History",
+            "Mathematics",
+            "Philosophy",
+            "Physics",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "School : Theology",
+          "fields": [
+            "Theology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ptychio",
+          "fields": [
+            "Dentistry",
+            "Medicine",
+            "Music",
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Metaptychiako Diploma Eidikefsis",
+          "fields": [
+            "Archaeology",
+            "Eastern European Studies",
+            "English",
+            "Environmental Studies",
+            "Foreign Languages Education",
+            "French",
+            "German",
+            "Greek",
+            "Information Technology",
+            "Latin American Studies",
+            "Law",
+            "Media Studies",
+            "Molecular Biology",
+            "Music",
+            "Neurosciences",
+            "Orthodox Theology",
+            "Paleontology",
+            "Philosophy",
+            "Surveying and Mapping",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Didaktoriko Diploma",
+          "fields": [
+            "Archaeology",
+            "Asian Studies",
+            "Dentistry",
+            "Economics",
+            "Education",
+            "English",
+            "French",
+            "German",
+            "History",
+            "Law",
+            "Music",
+            "Pedagogy",
+            "Pharmacy",
+            "Philology",
+            "Philosophy",
+            "Political Sciences",
+            "Psychology",
+            "Turkish"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Culture, Education and Religious Affairs",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Gerasimos Siassos"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Efstathios Efstathopoulos"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Fryda Fotini"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Sophia Papaioannou"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2021-2022",
+        "Staff Full Time Total:": "2000",
+        "Students Statistics Year:": "2024-2025",
+        "Students Total:": "44600"
+      },
+      "history": "Founded in 1837. The first university after the foundation of the Greek state and the only university in Greece until 1925/1926. Acquired present title 1932. Autonomous institution under the jurisdiction of the Ministry of Education.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "7726",
+      "iau_id": "IAU-007726",
+      "name": "Athens University of Economics and Business",
+      "alt_name": "Oikonomiko Panepistimio Athinon (AUEB)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tUzxSLUBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007726",
+      "address": {
+        "Street": "Ag. Spyridonos Str,Aegaleo",
+        "City": "Athens",
+        "Province": "Attica",
+        "Post Code": "12243",
+        "WWW": "https://www.uniwa.gr"
+      },
+      "website": "https://www.uniwa.gr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1974,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June (September-January; February-June)",
+      "languages": [
+        "Greek"
+      ],
+      "faculties": [
+        {
+          "name": "School : Administrative, Economic and Social Sciences",
+          "fields": [
+            "Accountancy",
+            "Archiving",
+            "Business Administration",
+            "Economics",
+            "Finance",
+            "Library Science",
+            "Preschool Education",
+            "Social Work",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "School : Applied Arts and Culture",
+          "fields": [
+            "Cinema and Television",
+            "Design",
+            "Fine Arts",
+            "Graphic Arts",
+            "Graphic Design",
+            "Interior Design",
+            "Photography",
+            "Restoration of Works of Art",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "School : Engineering",
+          "fields": [
+            "Biomedical Engineering",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Electrical and Electronic Engineering",
+            "Industrial Design",
+            "Industrial Engineering",
+            "Marine Engineering",
+            "Mechanical Engineering",
+            "Production Engineering",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "School : Food Science",
+          "fields": [
+            "Brewing",
+            "Food Science",
+            "Food Technology",
+            "Oenology"
+          ]
+        },
+        {
+          "name": "School : Health and Care Sciences",
+          "fields": [
+            "Biomedicine",
+            "Midwifery",
+            "Nursing",
+            "Occupational Therapy",
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "School : Public Health",
+          "fields": [
+            "Community Health",
+            "Public Health"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ptychio",
+          "fields": [
+            "Accountancy",
+            "Biomedical Engineering",
+            "Biomedicine",
+            "Business Administration",
+            "Child Care and Development",
+            "Civil Engineering",
+            "Community Health",
+            "Computer Engineering",
+            "Electrical and Electronic Engineering",
+            "Food Science",
+            "Graphic Design",
+            "Industrial Engineering",
+            "Interior Design",
+            "Library Science",
+            "Marine Engineering",
+            "Mechanical Engineering",
+            "Midwifery",
+            "Nursing",
+            "Occupational Therapy",
+            "Photography",
+            "Physical Therapy",
+            "Public Health",
+            "Restoration of Works of Art",
+            "Social Work",
+            "Surveying and Mapping",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Metaptychiako Diploma Eidikefsis",
+          "fields": [
+            "Accountancy",
+            "Artificial Intelligence",
+            "Biomedical Engineering",
+            "Biomedicine",
+            "Brewing",
+            "Business Administration",
+            "Civil Engineering",
+            "Community Health",
+            "Computer Engineering",
+            "Design",
+            "Electrical and Electronic Engineering",
+            "Finance",
+            "Food Technology",
+            "Health Administration",
+            "Industrial Design",
+            "Information Management",
+            "Information Technology",
+            "Interior Design",
+            "Mechanical Engineering",
+            "Midwifery",
+            "Museum Studies",
+            "Naval Architecture",
+            "Nursing",
+            "Occupational Therapy",
+            "Oenology",
+            "Photography",
+            "Physical Therapy",
+            "Public Health",
+            "Surveying and Mapping",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Didaktoriko Diploma",
+          "fields": [
+            "2019-2020"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Culture, Education and Religious Affairs",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Panagiotis Kaldis"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Ioannis Agritellis"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2019-2020",
+        "Staff Full Time Total:": "714",
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "58100"
+      },
+      "history": "Founded 1974 as one of the five “K.A.T.E.E.” (Centres of Highest Technical Professional Education). Became a Τechnological Educational Institution (TEI) 1983 and became officially part of the higher education system in 2001 when it became the Technologiko Ekpaideutiko Idryma Athinas (Athens University of Applied Science). Acquired current title and status in 2018 following merger with the Technological Educational Institute of Piraeus (Technologiko Ekpaideutiko Idrima, Piraea). The establishment of the newly established University Institution came through the process of merging the Technological Educational Institute of Athens and the Technological Educational Institute of Piraeus (Technologiko Ekpaideutiko Idrima, Piraea).The National School of Public Health (ESDY) was integrated into the University in 2019.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "3735",
+      "iau_id": "IAU-003735",
+      "name": "Democritus University of Thrace",
+      "alt_name": "Dimokritio Panepistimio Thrakis (DUTH)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sUzxTLTBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003735",
+      "address": {
+        "Street": "Iera Odos 75",
+        "City": "Athens",
+        "Province": "Attica",
+        "Post Code": "11855",
+        "WWW": "https://www2.aua.gr"
+      },
+      "website": "https://www2.aua.gr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1920,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to August (October-January; February-June)",
+      "languages": [
+        "Greek"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Agricultural Economics and Rural Development",
+          "fields": [
+            "Agricultural Business",
+            "Agricultural Economics",
+            "Agricultural Management",
+            "Agriculture",
+            "Development Studies",
+            "Rural Planning",
+            "Rural Studies",
+            "Social Policy",
+            "Social Sciences",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Department/Division : Food Science and Technology",
+          "fields": [
+            "Agriculture",
+            "Biological and Life Sciences",
+            "Biotechnology",
+            "Chemistry",
+            "Dairy",
+            "Food Science",
+            "Food Technology",
+            "Hygiene",
+            "Microbiology",
+            "Natural Sciences",
+            "Safety Engineering"
+          ]
+        },
+        {
+          "name": "Department/Division : Natural Resources Management and Agricultural Engineering",
+          "fields": [
+            "Agricultural Engineering",
+            "Agricultural Equipment",
+            "Agriculture",
+            "Chemistry",
+            "Natural Resources",
+            "Soil Science",
+            "Water Management",
+            "Water Science"
+          ]
+        },
+        {
+          "name": "Faculty : Agricultural Biotechnology",
+          "fields": [
+            "Agriculture",
+            "Biological and Life Sciences",
+            "Biology",
+            "Biotechnology",
+            "Botany",
+            "Genetics",
+            "Microbiology",
+            "Molecular Biology",
+            "Natural Sciences",
+            "Plant Pathology"
+          ]
+        },
+        {
+          "name": "Faculty : Animal Science and Aquaculture",
+          "fields": [
+            "Agriculture",
+            "Anatomy",
+            "Animal Husbandry",
+            "Aquaculture",
+            "Biology",
+            "Nutrition",
+            "Physiology"
+          ]
+        },
+        {
+          "name": "Faculty : Crop Science",
+          "fields": [
+            "Agriculture",
+            "Agronomy",
+            "Animal Husbandry",
+            "Apiculture",
+            "Biological and Life Sciences",
+            "Crop Production",
+            "Ecology",
+            "Entomology",
+            "Environmental Studies",
+            "Floriculture",
+            "Horticulture",
+            "Landscape Architecture",
+            "Natural Sciences",
+            "Plant and Crop Protection",
+            "Plant Pathology",
+            "Sericulture",
+            "Vegetable Production",
+            "Viticulture",
+            "Zoology"
+          ]
+        },
+        {
+          "name": "Faculty : Science",
+          "fields": [
+            "Chemistry",
+            "Computer Science",
+            "Earth Sciences",
+            "Geology",
+            "Information Sciences",
+            "Mathematics",
+            "Mechanics",
+            "Meteorology",
+            "Natural Sciences",
+            "Physics",
+            "Statistics"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ptychio",
+          "fields": [
+            "Agricultural Engineering",
+            "Agricultural Management",
+            "Agriculture",
+            "Animal Husbandry",
+            "Biotechnology",
+            "Food Science",
+            "Horticulture",
+            "Marine Science and Oceanography",
+            "Natural Resources",
+            "Oenology",
+            "Technology",
+            "Viticulture"
+          ]
+        },
+        {
+          "name": "Metaptychiako Diploma Eidikefsis",
+          "fields": [
+            "Agricultural Engineering",
+            "Agricultural Management",
+            "Agriculture",
+            "Animal Husbandry",
+            "Biotechnology",
+            "Food Science",
+            "Horticulture",
+            "Marine Science and Oceanography",
+            "Natural Resources",
+            "Oenology",
+            "Technology",
+            "Viticulture"
+          ]
+        },
+        {
+          "name": "Didaktoriko Diploma",
+          "fields": [
+            "Agricultural Engineering",
+            "Agricultural Management",
+            "Agriculture",
+            "Animal Husbandry",
+            "Biotechnology",
+            "Food Science",
+            "Horticulture",
+            "Marine Science and Oceanography",
+            "Natural Resources",
+            "Oenology",
+            "Technology",
+            "Viticulture"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Culture, Education and Religious Affairs",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Spyridon Kintzios"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Elisabeth Hatzibarba"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Serkos A. Haroutounian"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Sophia Nikolaou"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Foteinh-Aliki Kyritsi"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1920 as an Independent Higher Education Institute with university status under the name of the Highest Agricultural School of Athens (H.A.S.A.). Acquired present status and english title 1989. Acquired present greek title 1995 as it was known as Georgikon Panepistimion Athinon. Under the jurisdiction of the Ministry of Education.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "7029",
+      "iau_id": "IAU-007029",
+      "name": "Harokopio University",
+      "alt_name": "Harokopeio Panepistimio",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tU2BSLjBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007029",
+      "address": {
+        "Street": "Patision 42",
+        "City": "Athens",
+        "Province": "Attica",
+        "Post Code": "10682",
+        "WWW": "http://www.asfa.gr"
+      },
+      "website": "http://www.asfa.gr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1837,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "October to June",
+      "languages": [
+        "Greek"
+      ],
+      "faculties": [
+        {
+          "name": "Unit : Ceramic",
+          "fields": [
+            "Ceramic Art",
+            "Fine Arts",
+            "Handicrafts"
+          ]
+        },
+        {
+          "name": "Unit : Fresco and Icon Painting",
+          "fields": [
+            "Fine Arts",
+            "Painting and Drawing",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Unit : Graphic Design",
+          "fields": [
+            "Design",
+            "Fine Arts",
+            "Graphic Design"
+          ]
+        },
+        {
+          "name": "Unit : Marble",
+          "fields": [
+            "Fine Arts",
+            "Handicrafts",
+            "Sculpture",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Unit : Materials and Material Technology",
+          "fields": [
+            "Fine Arts",
+            "Handicrafts",
+            "Sculpture",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Unit : Metal",
+          "fields": [
+            "Fine Arts",
+            "Handicrafts",
+            "Sculpture",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Unit : Mosaic",
+          "fields": [
+            "Fine Arts",
+            "Handicrafts"
+          ]
+        },
+        {
+          "name": "Unit : Multimedia",
+          "fields": [
+            "Multimedia"
+          ]
+        },
+        {
+          "name": "Unit : Painting",
+          "fields": [
+            "Fine Arts",
+            "Painting and Drawing",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Unit : Photography",
+          "fields": [
+            "Fine Arts",
+            "Photography",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Unit : Plaster",
+          "fields": [
+            "Fine Arts",
+            "Handicrafts",
+            "Sculpture",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Unit : Postgraduate Studies",
+          "fields": [
+            "Fine Arts"
+          ]
+        },
+        {
+          "name": "Unit : Printmaking",
+          "fields": [
+            "Printing and Printmaking"
+          ]
+        },
+        {
+          "name": "Unit : Sculpture",
+          "fields": [
+            "Handicrafts"
+          ]
+        },
+        {
+          "name": "Unit : Stage Design",
+          "fields": [
+            "Handicrafts"
+          ]
+        },
+        {
+          "name": "Unit : Woodcarving",
+          "fields": [
+            "Handicrafts"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ptychio",
+          "fields": [
+            "Fine Arts"
+          ]
+        },
+        {
+          "name": "Metaptychiako Diploma Eidikefsis",
+          "fields": [
+            "Fine Arts",
+            "Graphic Design"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Culture, Education and Religious Affairs",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Nikolaos Tranos"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Ioannis Skaltsas"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1837 as Royal School of Arts/ Polytechnic School.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "4472",
+      "iau_id": "IAU-004472",
+      "name": "Hellenic Open University",
+      "alt_name": "Elliniko Anoikto Panepistimio (HOU)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIzBXLEBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004472",
+      "address": {
+        "Street": "76 Patision Str.",
+        "City": "Athens",
+        "Province": "Attica",
+        "Post Code": "10434",
+        "WWW": "http://www.aueb.gr"
+      },
+      "website": "http://www.aueb.gr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1920,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June (September-January; February-June including the exams)",
+      "languages": [
+        "Greek"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Accountancy and Finance",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Finance",
+            "International Business"
+          ]
+        },
+        {
+          "name": "Department/Division : Business Administration",
+          "fields": [
+            "Business Administration",
+            "Communication Studies",
+            "International Business",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Department/Division : Economics",
+          "fields": [
+            "Banking",
+            "Economics",
+            "Finance",
+            "International Economics"
+          ]
+        },
+        {
+          "name": "Department/Division : Informatics",
+          "fields": [
+            "Business Computing",
+            "Computer Science",
+            "Information Management",
+            "Information Sciences",
+            "Management"
+          ]
+        },
+        {
+          "name": "Department/Division : International and European Economic Studies",
+          "fields": [
+            "Economics",
+            "European Studies",
+            "International Economics"
+          ]
+        },
+        {
+          "name": "Department/Division : Management Science and Technology",
+          "fields": [
+            "Business Administration",
+            "Human Resources",
+            "International Business",
+            "Management",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Department/Division : Marketing and Communication",
+          "fields": [
+            "Business Administration",
+            "Communication Studies",
+            "Human Resources",
+            "International Business",
+            "Management",
+            "Marketing",
+            "Operations Research",
+            "Public Relations"
+          ]
+        },
+        {
+          "name": "Department/Division : Statistics",
+          "fields": [
+            "Statistics"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ptychio",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Business and Commerce",
+            "Communication Arts",
+            "Computer Science",
+            "Economics",
+            "European Studies",
+            "Finance",
+            "Human Resources",
+            "Information Technology",
+            "International Business",
+            "Management",
+            "Marketing",
+            "Mathematics",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Metaptychiako Diploma Eidikefsis",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Business and Commerce",
+            "Communication Arts",
+            "Computer Science",
+            "Economics",
+            "European Studies",
+            "Finance",
+            "Human Resources",
+            "Information Technology",
+            "International Business",
+            "Management",
+            "Marketing",
+            "Mathematics",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Didaktoriko Diploma",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Communication Arts",
+            "Computer Science",
+            "Economics",
+            "Finance",
+            "International Business",
+            "Management",
+            "Marketing",
+            "Statistics"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Culture, Education and Religious Affairs",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Emmanuel Giakoumakis"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Dimitris Bourantonis"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1920 as Higher School of Commercial Sciences. A state university under the supervision of the Ministry of Education.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "9553",
+      "iau_id": "IAU-009553",
+      "name": "International Hellenic University",
+      "alt_name": "(IHU)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMzRVLFBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009553",
+      "address": {
+        "Street": "University Campus",
+        "City": "Komotini",
+        "Province": "Eastern Macedonia and Thrace",
+        "Post Code": "69100",
+        "WWW": "https://duth.gr"
+      },
+      "website": "https://duth.gr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1973,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to August",
+      "languages": [
+        "Greek"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Social, Political and Economic Sciences",
+          "fields": [
+            "Business Administration",
+            "Economics",
+            "Finance",
+            "International Relations and Diplomacy",
+            "Logistics Management",
+            "Political Sciences",
+            "Social Policy",
+            "Social Sciences",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "School : Agricultural and Forestry Sciences",
+          "fields": [
+            "Agricultural Business",
+            "Agricultural Economics",
+            "Agriculture",
+            "Environmental Studies",
+            "Food Science",
+            "Forest Management",
+            "Forestry",
+            "Natural Resources",
+            "Oenology",
+            "Plant and Crop Protection",
+            "Viticulture"
+          ]
+        },
+        {
+          "name": "School : Classics and Humanities",
+          "fields": [
+            "Ancient Languages",
+            "Anthropology",
+            "Ethnology",
+            "Greek",
+            "Greek (Classical)",
+            "History",
+            "Linguistics",
+            "Literature",
+            "Philology"
+          ]
+        },
+        {
+          "name": "School : Education",
+          "fields": [
+            "Education",
+            "Preschool Education",
+            "Primary Education",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "School : Engineering",
+          "fields": [
+            "Architecture",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Electrical Engineering",
+            "Engineering",
+            "Engineering Management",
+            "Environmental Engineering",
+            "Environmental Studies",
+            "Production Engineering"
+          ]
+        },
+        {
+          "name": "School : Health Sciences",
+          "fields": [
+            "Genetics",
+            "Medicine",
+            "Molecular Biology",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "School : Law",
+          "fields": [
+            "Civil Law",
+            "European Union Law",
+            "International Law",
+            "Labour Law",
+            "Law",
+            "Private Law",
+            "Public Law"
+          ]
+        },
+        {
+          "name": "School : Management Science and Accounting",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Finance",
+            "Management"
+          ]
+        },
+        {
+          "name": "School : Physical Education, Sports Science and Occupational Therapy",
+          "fields": [
+            "Leisure Studies",
+            "Occupational Therapy",
+            "Physical Education",
+            "Sports",
+            "Sports Management",
+            "Sports Medicine"
+          ]
+        },
+        {
+          "name": "School : Sciences",
+          "fields": [
+            "Chemistry",
+            "Computer Science",
+            "Physics"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ptychio",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Metaptychiako Diploma Eidikefsis",
+          "fields": [
+            "Civil Engineering",
+            "Computer Engineering",
+            "Electrical Engineering",
+            "Hydraulic Engineering",
+            "Law",
+            "Physical Education"
+          ]
+        },
+        {
+          "name": "Didaktoriko Diploma",
+          "fields": [
+            "Agriculture",
+            "Architecture",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Engineering Management",
+            "Finance",
+            "Forestry",
+            "History",
+            "Law",
+            "Literature",
+            "Molecular Biology",
+            "Philology",
+            "Physical Education",
+            "Political Sciences",
+            "Preschool Education",
+            "Primary Education",
+            "Social Policy",
+            "Social Work"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Culture, Education and Religious Affairs",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Fotios Maris"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Maria Grigoriou"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1973. An autonomous institution under the supervision of the Ministry of Education.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "9603",
+      "iau_id": "IAU-009603",
+      "name": "Ionian University",
+      "alt_name": "Ionio Panepistimio",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMzhQLFBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009603",
+      "address": {
+        "Street": "Eleftheriou Venizelou 70Kallithea-Attikis",
+        "City": "Athens",
+        "Province": "Attica",
+        "Post Code": "17671",
+        "WWW": "https://www.hua.gr"
+      },
+      "website": "https://www.hua.gr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1990,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June (September-February; February-June)",
+      "languages": [
+        "Greek"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Dietetics and Nutrition",
+          "fields": [
+            "Dietetics",
+            "Nutrition"
+          ]
+        },
+        {
+          "name": "Department/Division : Geography",
+          "fields": [
+            "Computer Science",
+            "Demography and Population",
+            "Economics",
+            "Geography",
+            "Marine Science and Oceanography",
+            "Mathematics and Computer Science",
+            "Natural Sciences",
+            "Regional Planning",
+            "Social Sciences",
+            "Surveying and Mapping",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "Department/Division : Home Economics and Ecology",
+          "fields": [
+            "Child Care and Development",
+            "Ecology",
+            "Home Economics",
+            "House Arts and Environment",
+            "Household Management",
+            "Nutrition"
+          ]
+        },
+        {
+          "name": "Department/Division : Informatics and Telematics",
+          "fields": [
+            "Artificial Intelligence",
+            "Computer Engineering",
+            "Computer Networks",
+            "Computer Science",
+            "Data Science",
+            "Electronic Engineering",
+            "Electronics and Automation",
+            "Information Technology",
+            "Logic",
+            "Mathematics",
+            "Mathematics and Computer Science",
+            "Operations Research",
+            "Software Engineering",
+            "Statistics",
+            "Systems Analysis",
+            "Telecommunications Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ptychio",
+          "fields": [
+            "Computer Science",
+            "Food Science",
+            "Geography"
+          ]
+        },
+        {
+          "name": "Metaptychiako Diploma Eidikefsis",
+          "fields": [
+            "Computer Science",
+            "Food Science",
+            "Geography"
+          ]
+        },
+        {
+          "name": "Didaktoriko Diploma",
+          "fields": [
+            "Computer Science",
+            "Food Science",
+            "Geography"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Culture, Education and Religious Affairs",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Georgios Dedousis"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Konstantina Koutrouba"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Chryssa Sofianopoulou"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1990.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "4836",
+      "iau_id": "IAU-004836",
+      "name": "National Technical University of Athens",
+      "alt_name": "Ethniko Metsovio Polytechneio (NTUA)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tI0BTLUBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004836",
+      "address": {
+        "Street": "18 Aristotelous Str.",
+        "City": "Patras",
+        "Province": "Western Greece",
+        "Post Code": "26335",
+        "WWW": "https://www.eap.gr"
+      },
+      "website": "https://www.eap.gr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1992,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "From October to July",
+      "languages": [
+        "Greek"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Lifelong Learning Centre",
+          "fields": [
+            "Design",
+            "Graphic Arts",
+            "Multimedia"
+          ]
+        },
+        {
+          "name": "School : Applied Arts and Sustainable Design",
+          "fields": [
+            "Design",
+            "Graphic Arts",
+            "Multimedia"
+          ]
+        },
+        {
+          "name": "School : Humanities",
+          "fields": [
+            "Adult Education",
+            "Ancient Civilizations",
+            "Arts and Humanities",
+            "Cultural Studies",
+            "Education",
+            "Educational Sciences",
+            "English",
+            "European Studies",
+            "Foreign Languages Education",
+            "French",
+            "German",
+            "Greek",
+            "Italian",
+            "Linguistics",
+            "Modern Languages",
+            "Orthodox Theology",
+            "Spanish",
+            "Theology"
+          ]
+        },
+        {
+          "name": "School : Science and Technology",
+          "fields": [
+            "Computer Science",
+            "Environmental Engineering",
+            "Environmental Studies",
+            "Information Sciences",
+            "Mathematics",
+            "Mathematics and Computer Science",
+            "Natural Sciences",
+            "Physics",
+            "Safety Engineering",
+            "Scandinavian Languages",
+            "Technology",
+            "Waste Management",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "School : Social Sciences",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Economics",
+            "Health Administration",
+            "Management",
+            "Public Administration",
+            "Social Sciences",
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ptychio",
+          "fields": [
+            "Ancient Civilizations",
+            "Business Administration",
+            "Computer Science",
+            "European Studies",
+            "Film",
+            "Natural Sciences",
+            "Public Administration",
+            "Spanish",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Metaptychiako Diploma Eidikefsis",
+          "fields": [
+            "Adult Education",
+            "Ancient Civilizations",
+            "Architectural and Environmental Design",
+            "Arts and Humanities",
+            "Banking",
+            "Business Administration",
+            "Communication Studies",
+            "Computer Graphics",
+            "Criminology",
+            "Cultural Studies",
+            "Developmental Psychology",
+            "Economics",
+            "Education",
+            "Educational Sciences",
+            "Educational Technology",
+            "English",
+            "Entrepreneurship",
+            "Epidemiology",
+            "European Studies",
+            "Finance",
+            "Folklore",
+            "Foreign Languages Education",
+            "French",
+            "Gender Studies",
+            "German",
+            "Greek",
+            "Health Administration",
+            "Heritage Preservation",
+            "History",
+            "Information Technology",
+            "Interior Design",
+            "Italian",
+            "Journalism",
+            "Linguistics",
+            "Logistics Management",
+            "Management",
+            "Mathematics",
+            "Modern Languages",
+            "Multimedia",
+            "Orthodox Theology",
+            "Performing Arts",
+            "Philosophy",
+            "Public Administration",
+            "Public Health",
+            "Science Education",
+            "Sound Engineering (Acoustics)",
+            "Spanish",
+            "Sports Management",
+            "Tourism",
+            "Writing"
+          ]
+        },
+        {
+          "name": "Didaktoriko Diploma",
+          "fields": [
+            "Arts and Humanities",
+            "Business Administration",
+            "Design",
+            "Education",
+            "Graphic Arts",
+            "Health Sciences",
+            "Law",
+            "Management",
+            "Natural Sciences",
+            "Social Sciences",
+            "Technology"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Culture, Education and Religious Affairs",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Manolis Koutouzis"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Efthimios Zervas"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Takis Kayalis"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Eirini Barkoula"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2025-2026",
+        "Staff Full Time Total:": "56",
+        "Students Statistics Year:": "2025-2026",
+        "Students Total:": "25536"
+      },
+      "history": "Founded 1992. ISO 9001:2000. Started operating 1998.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "13370",
+      "iau_id": "IAU-013370",
+      "name": "Panteion University of Social and Political Sciences",
+      "alt_name": "Panteion Panepistimio Oikonomikon kai Politikon Epistimon",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyxTLVNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-013370",
+      "address": {
+        "Street": "14th km Thessaloniki - Moudania",
+        "City": "Thermi, Thessaloniki",
+        "Province": "Central Greece",
+        "Post Code": "57001",
+        "WWW": "http://www.ihu.edu.gr"
+      },
+      "website": "http://www.ihu.edu.gr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "School : Economics, Business Administration and Legal Studies",
+          "fields": [
+            "Banking",
+            "Business Administration",
+            "Commercial Law",
+            "Economics",
+            "Finance",
+            "Law",
+            "Management"
+          ]
+        },
+        {
+          "name": "School : Humanities",
+          "fields": [
+            "Ancient Civilizations",
+            "Archaeology",
+            "Arts and Humanities",
+            "Cultural Studies"
+          ]
+        },
+        {
+          "name": "School : Science and Technology",
+          "fields": [
+            "Computer Science",
+            "Energy Engineering",
+            "Natural Sciences",
+            "Software Engineering",
+            "Technology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Metaptychiako Diploma Eidikefsis",
+          "fields": [
+            "Accountancy",
+            "Archaeology",
+            "Banking",
+            "Business Administration",
+            "E-Business/Commerce",
+            "Economics",
+            "Environmental Management",
+            "Finance",
+            "Fine Arts",
+            "History",
+            "Information Technology",
+            "Law",
+            "Management",
+            "Mediterranean Studies",
+            "Tourism"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Culture, Education and Religious Affairs",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Costas Th. Grammenos"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Anna Papadopoulou"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Thomaïs Gkrimpizi"
+        }
+      ],
+      "statistics": {},
+      "history": "The International Hellenic University (IHU) was established by Law (No 3391/2005) and was Greece’s first public university where programmes were taught exclusively in English. According to Law No 4610/2019, IHU has merged with the Alexander Technological Educational Institute of Thessaloniki, the Technological Educational Institute of Central Macedonia and the Technological Educational Institute of Eastern Macedonia and Thrace",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "14567",
+      "iau_id": "IAU-014567",
+      "name": "School of Pedagogical and Technological Education",
+      "alt_name": "Anotati Scholi Paidagogikis kai Technologikis Ekpaideusis (ASPETE)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzBVLUM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-014567",
+      "address": {
+        "Street": "72 Ioannou Theotoki str.",
+        "City": "Corfu",
+        "Province": "Ionian Islands",
+        "Post Code": "49100",
+        "WWW": "http://www.ionio.gr"
+      },
+      "website": "http://www.ionio.gr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "October to June (October-February; February-June)",
+      "languages": [
+        "Greek"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : History and Translation-Interpreting",
+          "fields": [
+            "Ancient Books",
+            "Anthropology",
+            "Archaeology",
+            "Art History",
+            "English",
+            "Ethnology",
+            "French",
+            "German",
+            "Greek (Classical)",
+            "History",
+            "Latin",
+            "Modern Languages",
+            "Philology",
+            "Philosophy",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Faculty : Information Science and Informatics",
+          "fields": [
+            "Archiving",
+            "Computer Science",
+            "Library Science",
+            "Museum Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Music and Audio-visual Arts",
+          "fields": [
+            "Art Therapy",
+            "Conducting",
+            "Jazz and Popular Music",
+            "Multimedia",
+            "Music",
+            "Music Education",
+            "Music Theory and Composition",
+            "Musical Instruments",
+            "Musicology",
+            "Singing",
+            "Visual Arts"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ptychio",
+          "fields": [
+            "Archiving",
+            "History",
+            "Library Science",
+            "Museum Studies",
+            "Music",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Metaptychiako Diploma Eidikefsis",
+          "fields": [
+            "Archiving",
+            "History",
+            "Library Science",
+            "Museum Studies",
+            "Music",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Didaktoriko Diploma",
+          "fields": [
+            "Archiving",
+            "History",
+            "Library Science",
+            "Museum Studies",
+            "Music",
+            "Visual Arts"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Culture, Education and Religious Affairs",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Vassilios Chrissikopoulos"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Joseph Papadatos"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Dionyssia Karvouni"
+        }
+      ],
+      "statistics": {},
+      "history": "Created 1811 in Ithaca as Ionian Academy by the British philhellene Frederic North. Moved to Corfu following the Greek War of Independence 1821. Officially started operating 1824. In 2018, according to law 4559/2018, the Technical Educational Institute of Ionian Islands merged with the Ionian University.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "13639",
+      "iau_id": "IAU-013639",
+      "name": "Technical University of Crete",
+      "alt_name": "Polytechneio Kritis (TUC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyxWLFNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-013639",
+      "address": {
+        "Street": "Zografou Campus9 Iroon Polytechniou str.",
+        "City": "Zografou",
+        "Province": "Attica",
+        "Post Code": "15780",
+        "WWW": "https://www.ntua.gr"
+      },
+      "website": "https://www.ntua.gr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1837,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to July",
+      "languages": [
+        "Greek"
+      ],
+      "faculties": [
+        {
+          "name": "School : Applied Mathematics and Physics",
+          "fields": [
+            "Applied Mathematics",
+            "Applied Physics",
+            "Arts and Humanities",
+            "Law",
+            "Mathematics",
+            "Physics",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "School : Architecture",
+          "fields": [
+            "Architecture"
+          ]
+        },
+        {
+          "name": "School : Chemical Engineering",
+          "fields": [
+            "Chemical Engineering",
+            "Chemistry",
+            "Computer Science",
+            "Engineering",
+            "Industrial Engineering",
+            "Systems Analysis"
+          ]
+        },
+        {
+          "name": "School : Civil Engineering",
+          "fields": [
+            "Civil Engineering",
+            "Construction Engineering",
+            "Engineering",
+            "Engineering Management",
+            "Geological Engineering",
+            "Marine Engineering",
+            "Transport Engineering"
+          ]
+        },
+        {
+          "name": "School : Electrical and Computer Engineering",
+          "fields": [
+            "Computer Engineering",
+            "Computer Science",
+            "Electrical and Electronic Engineering",
+            "Electrical Engineering",
+            "Engineering",
+            "Power Engineering"
+          ]
+        },
+        {
+          "name": "School : Mechanical Engineeering",
+          "fields": [
+            "Electronics and Automation",
+            "Engineering",
+            "Industrial Engineering",
+            "Mathematics",
+            "Mathematics and Computer Science",
+            "Mechanical Engineering",
+            "Nuclear Engineering",
+            "Operations Research",
+            "Thermal Engineering"
+          ]
+        },
+        {
+          "name": "School : Mining and Metallurgical Engineering",
+          "fields": [
+            "Civil Engineering",
+            "Engineering",
+            "Geological Engineering",
+            "Materials Engineering",
+            "Metallurgical Engineering",
+            "Mining Engineering"
+          ]
+        },
+        {
+          "name": "School : Naval Architecture and Marine Engineering",
+          "fields": [
+            "Engineering",
+            "Marine Engineering",
+            "Naval Architecture"
+          ]
+        },
+        {
+          "name": "School : Rural Surveying and Engineering",
+          "fields": [
+            "Development Studies",
+            "Earth Sciences",
+            "Engineering",
+            "Geography",
+            "Natural Sciences",
+            "Rural Studies",
+            "Social Sciences",
+            "Surveying and Mapping"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ptychio",
+          "fields": [
+            "Engineering"
+          ]
+        },
+        {
+          "name": "Metaptychiako Diploma Eidikefsis",
+          "fields": [
+            "Architecture",
+            "Chemical Engineering",
+            "Computer Engineering",
+            "Electrical Engineering",
+            "Mechanical Engineering",
+            "Metallurgical Engineering",
+            "Mining Engineering"
+          ]
+        },
+        {
+          "name": "Didaktoriko Diploma",
+          "fields": [
+            "Architecture",
+            "Chemical Engineering",
+            "Computer Engineering",
+            "Electrical Engineering",
+            "Mechanical Engineering",
+            "Metallurgical Engineering",
+            "Mining Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Culture, Education and Religious Affairs",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ioannis Golias"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Marinos Kavouras"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Valia Griva"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1837 as Polytechnion focused on architectural education by a royal decree. Acquired present title 1871. Acquired university-level status 1887. Acquired status 1929. Reorganized 1982. An autonomous institution under the supervision of the Ministry of Education.",
+      "periodicals": [
+        "Pyrphoros",
+        "Pyrphoros"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "16269",
+      "iau_id": "IAU-016269",
+      "name": "Technological Educational Institute of Crete",
+      "alt_name": "Technologiko Ekpaideutiko Idryma Kritis (TEI of Crete)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhSLUNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016269",
+      "address": {
+        "Street": "136 Sygrou Ave.Kallithea",
+        "City": "Athens",
+        "Province": "Attica",
+        "Post Code": "17671",
+        "WWW": "http://www.panteion.gr"
+      },
+      "website": "http://www.panteion.gr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1930,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June (September-January; February-June)",
+      "languages": [
+        "Greek"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Economics and Public Administration",
+          "fields": [
+            "Economics",
+            "Public Administration",
+            "Regional Planning"
+          ]
+        },
+        {
+          "name": "Faculty : International Studies, Communication and Culture",
+          "fields": [
+            "Communication Studies",
+            "Cultural Studies",
+            "European Studies",
+            "International Studies",
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Political Science",
+          "fields": [
+            "History",
+            "Political Sciences",
+            "Social Policy"
+          ]
+        },
+        {
+          "name": "Faculty : Social Sciences and Psychology",
+          "fields": [
+            "Anthropology",
+            "Psychology",
+            "Sociology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ptychio",
+          "fields": [
+            "Criminology",
+            "Cultural Studies",
+            "European Studies",
+            "History",
+            "International Studies",
+            "Social Policy",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Metaptychiako Diploma Eidikefsis",
+          "fields": [
+            "Criminology",
+            "Cultural Studies",
+            "European Studies",
+            "History",
+            "International Studies",
+            "Social Policy",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Didaktoriko Diploma",
+          "fields": [
+            "Communication Studies",
+            "Cultural Studies",
+            "Economics",
+            "European Studies",
+            "International Studies",
+            "Media Studies",
+            "Psychology",
+            "Public Administration",
+            "Sociology"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Culture, Education and Religious Affairs",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ismini A. Kriari"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2017-2018",
+        "Students Total:": "19"
+      },
+      "history": "Founded 1930 as School of Political Sciences. Acquired present status 1963. Acquired present title 1989.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "13316",
+      "iau_id": "IAU-013316",
+      "name": "University of Crete",
+      "alt_name": "Panepistimio Kritis",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyxTLDM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-013316",
+      "address": {
+        "Street": "Heraklion",
+        "City": "Athens",
+        "Province": "Attica",
+        "Post Code": "141 21",
+        "WWW": "http://www.aspete.gr"
+      },
+      "website": "http://www.aspete.gr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1959,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Greek"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Civil Engineering Educators",
+          "fields": [
+            "Civil Engineering",
+            "Construction Engineering",
+            "Teacher Training",
+            "Technology Education"
+          ]
+        },
+        {
+          "name": "Department/Division : Education",
+          "fields": [
+            "Education",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Department/Division : Electrical and Electronic Engineering Educators",
+          "fields": [
+            "Electrical and Electronic Engineering"
+          ]
+        },
+        {
+          "name": "Department/Division : Mechanical Engineering Educators",
+          "fields": [
+            "Mechanical Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ptychio",
+          "fields": []
+        }
+      ],
+      "accreditation": "Ministry of Culture, Education and Religious Affairs",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Yiannis Saridakis"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Evangelia Antoniou"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1959 as SELETE, a Technical & Vocational Teacher Training Institute. Acquired present status and title 2002.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "13319",
+      "iau_id": "IAU-013319",
+      "name": "University of Ioannina",
+      "alt_name": "Panepistimio Ioanninon (UOI)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyxTLDNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-013319",
+      "address": {
+        "Street": "University CampusAkrotiri",
+        "City": "Chania",
+        "Province": "Crete",
+        "Post Code": "73100",
+        "WWW": "http://www.tuc.gr"
+      },
+      "website": "http://www.tuc.gr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1977,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to August",
+      "languages": [
+        "Greek"
+      ],
+      "faculties": [
+        {
+          "name": "School : Architectural Engineering",
+          "fields": [
+            "Architecture",
+            "Architecture and Planning",
+            "Landscape Architecture",
+            "Town Planning",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "School : Electronic and Computer Engineering",
+          "fields": [
+            "Computer Engineering",
+            "Electronic Engineering",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "School : Environmental Engineering",
+          "fields": [
+            "Environmental Engineering",
+            "Environmental Management",
+            "Environmental Studies"
+          ]
+        },
+        {
+          "name": "School : Mineral Resources Engineering",
+          "fields": [
+            "Geological Engineering",
+            "Mineralogy"
+          ]
+        },
+        {
+          "name": "School : Production Engineering and Management",
+          "fields": [
+            "Engineering Management",
+            "Industrial and Production Economics",
+            "Operations Research",
+            "Production Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ptychio",
+          "fields": [
+            "Engineering"
+          ]
+        },
+        {
+          "name": "Metaptychiako Diploma Eidikefsis",
+          "fields": [
+            "Architecture",
+            "Computer Engineering",
+            "Electronic Engineering",
+            "Engineering",
+            "Environmental Engineering",
+            "Production Engineering"
+          ]
+        },
+        {
+          "name": "Didaktoriko Diploma",
+          "fields": [
+            "Architecture",
+            "Computer Engineering",
+            "Electronic Engineering",
+            "Engineering",
+            "Environmental Engineering",
+            "Production Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Culture, Education and Religious Affairs",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Evangelos Diamantopoulos"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Nikolaos Kallithrakas-Kontos"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1977. Admitted first students 1984. Acquired present status 1993. An autonomous institution under the supervision of the Ministry of Education",
+      "periodicals": [
+        "News of the Technical University of Crete",
+        "News of the Technical University of Crete"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "13320",
+      "iau_id": "IAU-013320",
+      "name": "University of Macedonia",
+      "alt_name": "Panepistimio Makedonias",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyxTLENgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-013320",
+      "address": {
+        "Street": "Stauromenos",
+        "City": "Heraklion",
+        "Province": "Crete",
+        "Post Code": "71004",
+        "WWW": "http://www.teicrete.gr"
+      },
+      "website": "http://www.teicrete.gr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1983,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to August",
+      "languages": [
+        "Greek"
+      ],
+      "faculties": [
+        {
+          "name": "School : Agricultural and Food Technology",
+          "fields": [
+            "Agriculture",
+            "Crop Production",
+            "Dietetics",
+            "Floriculture",
+            "Food Technology",
+            "Nutrition"
+          ]
+        },
+        {
+          "name": "School : Applied Sciences",
+          "fields": [
+            "Electronic Engineering",
+            "Environmental Engineering",
+            "Music",
+            "Natural Resources",
+            "Sound Engineering (Acoustics)"
+          ]
+        },
+        {
+          "name": "School : Engineering",
+          "fields": [
+            "Civil Engineering",
+            "Computer Engineering",
+            "Electrical Engineering",
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "School : Health and Welfare Services",
+          "fields": [
+            "Health Sciences",
+            "Nursing",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "School : Management and Economics",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Advertising and Publicity",
+            "Business Administration",
+            "Business and Commerce",
+            "Finance",
+            "Insurance",
+            "Management",
+            "Marketing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ptychio",
+          "fields": []
+        }
+      ],
+      "accreditation": "Ministry of Culture, Education and Religious Affairs",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Nikolaos Katsarakis"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Nektarios Papdogiannis"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1983",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "13321",
+      "iau_id": "IAU-013321",
+      "name": "University of Patras",
+      "alt_name": "Panepistimio Patron",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyxTLEMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-013321",
+      "address": {
+        "Street": "Gallos University Campus",
+        "City": "Rethymnon",
+        "Province": "Crete",
+        "Post Code": "74100",
+        "WWW": "http://www.uoc.gr"
+      },
+      "website": "http://www.uoc.gr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1973,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June",
+      "languages": [
+        "Greek"
+      ],
+      "faculties": [
+        {
+          "name": "School : Education",
+          "fields": [
+            "Education",
+            "Preschool Education",
+            "Primary Education"
+          ]
+        },
+        {
+          "name": "School : Medicine",
+          "fields": [
+            "Anatomy",
+            "Behavioural Sciences",
+            "Child Care and Development",
+            "Health Sciences",
+            "Laboratory Techniques",
+            "Medicine",
+            "Neurology",
+            "Psychiatry and Mental Health",
+            "Radiology",
+            "Social and Preventive Medicine",
+            "Surgery"
+          ]
+        },
+        {
+          "name": "School : Philosophy",
+          "fields": [
+            "Archaeology",
+            "History",
+            "Philology",
+            "Philosophy",
+            "Social Studies"
+          ]
+        },
+        {
+          "name": "School : Sciences and Engineering",
+          "fields": [
+            "Applied Mathematics",
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Engineering",
+            "Materials Engineering",
+            "Mathematics",
+            "Physics",
+            "Technology"
+          ]
+        },
+        {
+          "name": "School : Social, Economic and Political Sciences",
+          "fields": [
+            "Economics",
+            "Political Sciences",
+            "Psychology",
+            "Social Sciences",
+            "Sociology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ptychio",
+          "fields": [
+            "Ancient Civilizations",
+            "Archaeology",
+            "Art History",
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Economics",
+            "Materials Engineering",
+            "Mathematics",
+            "Philology",
+            "Philosophy",
+            "Physics",
+            "Political Sciences",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Metaptychiako Diploma Eidikefsis",
+          "fields": [
+            "Ancient Civilizations",
+            "Archaeology",
+            "Art History",
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Economics",
+            "Materials Engineering",
+            "Mathematics",
+            "Philology",
+            "Philosophy",
+            "Physics",
+            "Political Sciences",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Didaktoriko Diploma",
+          "fields": [
+            "Ancient Civilizations",
+            "Archaeology",
+            "Art History",
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Economics",
+            "Materials Engineering",
+            "Mathematics",
+            "Philology",
+            "Philosophy",
+            "Physics",
+            "Political Sciences",
+            "Social Sciences"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Culture, Education and Religious Affairs",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Odysseas Zoras"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Irene Thymiatzi"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1973. A State institution under the jurisdiction of the Ministry of National Education and Religious Affairs.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "13322",
+      "iau_id": "IAU-013322",
+      "name": "University of Piraeus",
+      "alt_name": "Panepistimio Pireos",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyxTLEMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-013322",
+      "address": {
+        "Street": "P.O. Box 1186",
+        "City": "Ioannina",
+        "Province": "Epirus",
+        "Post Code": "45110",
+        "WWW": "http://www.uoi.gr"
+      },
+      "website": "http://www.uoi.gr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1964,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June (September-January; February-June)",
+      "languages": [
+        "Greek"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Cultural Heritage Management and New Technologies",
+          "fields": [
+            "Cultural Studies",
+            "Heritage Preservation",
+            "Technology"
+          ]
+        },
+        {
+          "name": "School : Education",
+          "fields": [
+            "Education",
+            "Educational Sciences",
+            "Preschool Education",
+            "Primary Education"
+          ]
+        },
+        {
+          "name": "School : Fine Arts",
+          "fields": [
+            "Art History",
+            "Fine Arts",
+            "Graphic Design",
+            "Multimedia",
+            "Painting and Drawing",
+            "Photography",
+            "Sculpture",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "School : Health Sciences",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "School : Natural Resources and Enterprise Management",
+          "fields": [
+            "Agricultural Economics",
+            "Animal Husbandry",
+            "Biochemistry",
+            "Biology",
+            "Business Administration",
+            "Computer Science",
+            "Ecology",
+            "Environmental Studies",
+            "Molecular Biology",
+            "Natural Resources",
+            "Physical Chemistry"
+          ]
+        },
+        {
+          "name": "School : Philosophy",
+          "fields": [
+            "Archaeology",
+            "Arts and Humanities",
+            "Education",
+            "History",
+            "Literature",
+            "Philology",
+            "Philosophy",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "School : Science and Technology",
+          "fields": [
+            "Biochemistry",
+            "Biological and Life Sciences",
+            "Biology",
+            "Biotechnology",
+            "Botany",
+            "Chemistry",
+            "Ecology",
+            "Engineering",
+            "Genetics",
+            "Materials Engineering",
+            "Microbiology",
+            "Molecular Biology",
+            "Physical Chemistry",
+            "Plant Pathology",
+            "Polymer and Plastics Technology",
+            "Technology",
+            "Zoology"
+          ]
+        },
+        {
+          "name": "School : Sciences",
+          "fields": [
+            "Chemistry",
+            "Computer Science",
+            "Mathematics",
+            "Natural Sciences",
+            "Physics"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ptychio",
+          "fields": [
+            "Biology",
+            "Business Administration",
+            "Computer Science",
+            "Education",
+            "Engineering",
+            "Environmental Studies",
+            "Fine Arts",
+            "Management",
+            "Materials Engineering",
+            "Mathematics",
+            "Nursing",
+            "Philology",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Metaptychiako Diploma Eidikefsis",
+          "fields": [
+            "Biology",
+            "Business Administration",
+            "Computer Science",
+            "Education",
+            "Engineering",
+            "Environmental Studies",
+            "Fine Arts",
+            "Management",
+            "Materials Engineering",
+            "Mathematics",
+            "Nursing",
+            "Philology",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Didaktoriko Diploma",
+          "fields": [
+            "Biology",
+            "Business Administration",
+            "Computer Science",
+            "Education",
+            "Engineering",
+            "Environmental Studies",
+            "Fine Arts",
+            "Management",
+            "Materials Engineering",
+            "Mathematics",
+            "Nursing",
+            "Philology",
+            "Physics"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Culture, Education and Religious Affairs",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Triantafyllos A.D Albanis"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Spiros Georgatos"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Penelope Gkeka"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1964 in Ioannina as a branch Department of the Aristotle University of Thessaloniki's School of Philosophy. Acquired present status and title 1970. In 2018, according to law 4559/2018, the Technical Educational Institute of Epirus merged with the University of Ioannina. A state institution of the Epirus Region.",
+      "periodicals": [
+        "Epitris (Prospectus, Education) Epitris Dodoni I (History and Archaeology) Epitris Dodoni II (Literature and Philology) Epitris Dodoni III (Philosophy, Education and Psychology)",
+        "Epitris (Prospectus, Education)",
+        "Epitris Dodoni I (History and Archaeology)",
+        "Epitris Dodoni II (Literature and Philology)",
+        "Epitris Dodoni III (Philosophy, Education and Psychology)"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "13318",
+      "iau_id": "IAU-013318",
+      "name": "University of the Aegean",
+      "alt_name": "Panepistimio Aigaiou",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyxTLDNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-013318",
+      "address": {
+        "Street": "156 Odos Egnatia",
+        "City": "Thessaloniki",
+        "Province": "Central Macedonia",
+        "Post Code": "54636",
+        "WWW": "https://www.uom.gr"
+      },
+      "website": "https://www.uom.gr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1948,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to August",
+      "languages": [
+        "Greek",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Postgraduate Studies",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Computer Science",
+            "Economics",
+            "European Studies",
+            "Finance",
+            "Information Sciences"
+          ]
+        },
+        {
+          "name": "Department/Division : Accountancy and Finance",
+          "fields": [
+            "Accountancy",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Department/Division : Applied Informatics",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Department/Division : Balkan, Slavic and Oriental Studies",
+          "fields": [
+            "Baltic Languages",
+            "Oriental Studies",
+            "Slavic Languages"
+          ]
+        },
+        {
+          "name": "Department/Division : Business Administration",
+          "fields": [
+            "Business Administration",
+            "Computer Science",
+            "Political Sciences"
+          ]
+        },
+        {
+          "name": "Department/Division : Economics",
+          "fields": [
+            "Economics"
+          ]
+        },
+        {
+          "name": "Department/Division : Educational and Social Policy",
+          "fields": [
+            "Educational Sciences",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Department/Division : International and European Economic Studies",
+          "fields": [
+            "Economics",
+            "European Studies",
+            "International Studies"
+          ]
+        },
+        {
+          "name": "Department/Division : Marketing and Operations Management",
+          "fields": [
+            "Marketing",
+            "Operations Research"
+          ]
+        },
+        {
+          "name": "Department/Division : Music Science and Art",
+          "fields": [
+            "Music",
+            "Music Theory and Composition"
+          ]
+        },
+        {
+          "name": "Department/Division : Technology Management",
+          "fields": [
+            "Management",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Research Division : Applied Economic and Social Sciences",
+          "fields": [
+            "Economics",
+            "Social Sciences"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ptychio",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Computer Engineering",
+            "Economics",
+            "Finance",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Metaptychiako Diploma Eidikefsis",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Computer Engineering",
+            "Economics",
+            "Finance",
+            "Information Technology"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Culture, Education and Religious Affairs",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Stylianos D. Katranidis"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Dimitrios Kirkilis"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Mariet Vaina"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1948 as Graduate School of Industrial Studies. Acquired present status and renamed as Graduate School of Industrial Studies in Thessaloniki 1958. Previously the Graduate Industrial School of Thessaloniki. Acquired present title 1990.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20563",
+      "iau_id": "IAU-020563",
+      "name": "University of the Peloponnese",
+      "alt_name": "Panepistimio Peloponnisou",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BVLUMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020563",
+      "address": {
+        "Street": "University Campus",
+        "City": "Rio Achaia",
+        "Province": "Western Greece",
+        "Post Code": "26504",
+        "WWW": "http://www.upatras.gr"
+      },
+      "website": "http://www.upatras.gr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1964,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to August (September-February; February-August)",
+      "languages": [
+        "Greek"
+      ],
+      "faculties": [
+        {
+          "name": "School : Business Administration",
+          "fields": [
+            "Economics",
+            "Finance",
+            "Human Resources",
+            "Information Technology",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "School : Engineering",
+          "fields": [
+            "Aeronautical and Aerospace Engineering",
+            "Architecture",
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Electrical Engineering",
+            "Engineering",
+            "Information Technology",
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "School : Health Sciences",
+          "fields": [
+            "Medicine",
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "School : Humanities and Social Sciences",
+          "fields": [
+            "Child Care and Development",
+            "Educational Sciences",
+            "Philology",
+            "Philosophy",
+            "Preschool Education",
+            "Primary Education",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "School : Natural Sciences",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Geology",
+            "Materials Engineering",
+            "Mathematics",
+            "Physics"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ptychio",
+          "fields": [
+            "Arts and Humanities",
+            "Business Administration",
+            "Economics",
+            "Medicine",
+            "Natural Sciences",
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Metaptychiako Diploma Eidikefsis",
+          "fields": [
+            "Aeronautical and Aerospace Engineering",
+            "Biology",
+            "Business Administration",
+            "Chemical Engineering",
+            "Chemistry",
+            "Computer Engineering",
+            "Computer Science",
+            "Education",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Engineering",
+            "Environmental Studies",
+            "Geology",
+            "Linguistics",
+            "Materials Engineering",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Medical Technology",
+            "Pharmacy",
+            "Philosophy",
+            "Physics",
+            "Polymer and Plastics Technology",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Didaktoriko Diploma",
+          "fields": [
+            "Aeronautical and Aerospace Engineering",
+            "Biology",
+            "Business Administration",
+            "Chemical Engineering",
+            "Chemistry",
+            "Computer Engineering",
+            "Computer Science",
+            "Education",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Engineering",
+            "Environmental Studies",
+            "Geology",
+            "Linguistics",
+            "Materials Engineering",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Medical Technology",
+            "Pharmacy",
+            "Philosophy",
+            "Physics",
+            "Polymer and Plastics Technology",
+            "Theatre"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Culture, Education and Religious Affairs",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Venetsana E. Kyriazopoulou"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Maria Kotsari"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Nikos Karamanos"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1964. Acquired present status 1966. In June 2013 the University of Western Greece was incorporated in the University of Patras. According to law 4610/2019, The University of Patras has merged with the TEI of Western Greece (except for 4 departments)",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "13317",
+      "iau_id": "IAU-013317",
+      "name": "University of Thessaly",
+      "alt_name": "Panepistimio Thessalias (UTH)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyxTLDM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-013317",
+      "address": {
+        "Street": "Karaoli M. and A.Dimitriou 80",
+        "City": "Piraeus",
+        "Province": "Attica",
+        "Post Code": "18534",
+        "WWW": "https://www.unipi.gr/unipi"
+      },
+      "website": "https://www.unipi.gr/unipi",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1938,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to July (September-January; February-July)",
+      "languages": [
+        "Greek"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Research",
+          "fields": [
+            "Information Management",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "School : Economics, Business and International Studies",
+          "fields": [
+            "Business Administration",
+            "Economics",
+            "European Studies",
+            "Industrial and Production Economics",
+            "International Economics",
+            "International Relations and Diplomacy"
+          ]
+        },
+        {
+          "name": "School : Finance and Statistics",
+          "fields": [
+            "Banking",
+            "Finance",
+            "Insurance",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "School : Information and Communication Technologies",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "School : Maritime and Industrial Studies",
+          "fields": [
+            "Industrial Management",
+            "Marine Science and Oceanography",
+            "Marine Transport",
+            "Transport and Communications",
+            "Transport Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ptychio",
+          "fields": [
+            "Banking",
+            "Business Administration",
+            "Computer Science",
+            "Economics",
+            "European Studies",
+            "Finance",
+            "Industrial Management",
+            "International Studies"
+          ]
+        },
+        {
+          "name": "Metaptychiako Diploma Eidikefsis",
+          "fields": [
+            "Banking",
+            "Business Administration",
+            "Computer Science",
+            "Economics",
+            "European Studies",
+            "Finance",
+            "Industrial Management",
+            "International Studies"
+          ]
+        },
+        {
+          "name": "Didaktoriko Diploma",
+          "fields": [
+            "Banking",
+            "Business Administration",
+            "Computer Science",
+            "Economics",
+            "European Studies",
+            "Finance",
+            "Industrial Management",
+            "International Studies"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Culture, Education and Religious Affairs",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Angelos Kotios"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Pantelis Pantelidis"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Christina Kontogoulidou"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1938 as School of Industrial Studies. Renamed Higher School of Industrial Studies 1945. Acquired present status and renamed Graduate School of Industrial studies 1958. Acquired present title 1989",
+      "periodicals": [
+        "Spoudai (studies)",
+        "Spoudai (studies)"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20628",
+      "iau_id": "IAU-020628",
+      "name": "University of Western Macedonia",
+      "alt_name": "Panepistimio Dytikis Makedonias (UOWM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BWLENAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020628",
+      "address": {
+        "Street": "University HillAdministration Bldg.",
+        "City": "Mytilene",
+        "Province": "North Aegean",
+        "Post Code": "81100",
+        "WWW": "https://www.aegean.gr"
+      },
+      "website": "https://www.aegean.gr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1920,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "October to June (October-February; February-June)",
+      "languages": [
+        "Greek"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Product and Systems Design Engineering",
+          "fields": [
+            "Art Management",
+            "Design",
+            "Engineering Drawing and Design"
+          ]
+        },
+        {
+          "name": "School : Business Studies",
+          "fields": [
+            "Business Administration",
+            "Finance",
+            "Management",
+            "Marine Transport",
+            "Tourism",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "School : Environment",
+          "fields": [
+            "Environmental Studies",
+            "Food Science",
+            "Marine Science and Oceanography",
+            "Nutrition"
+          ]
+        },
+        {
+          "name": "School : Humanities",
+          "fields": [
+            "Mediterranean Studies",
+            "Preschool Education",
+            "Primary Education"
+          ]
+        },
+        {
+          "name": "School : Science",
+          "fields": [
+            "Actuarial Science",
+            "Communication Studies",
+            "Information Management",
+            "Information Technology",
+            "Mathematics",
+            "Natural Sciences",
+            "Statistics",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "School : Social Sciences",
+          "fields": [
+            "Anthropology",
+            "Communication Studies",
+            "Cultural Studies",
+            "Geography",
+            "Information Sciences",
+            "Mass Communication",
+            "Museum Studies",
+            "Social Sciences",
+            "Sociology",
+            "Technology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ptychio",
+          "fields": [
+            "Anthropology",
+            "Environmental Studies",
+            "Geography",
+            "History",
+            "Marine Science and Oceanography",
+            "Mediterranean Studies",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Metaptychiako Diploma Eidikefsis",
+          "fields": [
+            "Anthropology",
+            "Environmental Studies",
+            "Geography",
+            "History",
+            "Marine Science and Oceanography",
+            "Mediterranean Studies",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Didaktoriko Diploma",
+          "fields": [
+            "Anthropology",
+            "Environmental Studies",
+            "Geography",
+            "History",
+            "Marine Science and Oceanography",
+            "Mediterranean Studies",
+            "Sociology"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Culture, Education and Religious Affairs",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Dimitrios Papageorgiou"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Stylianos Xanthopoulos"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Efstratios Georgoulas"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1920 as Ionian University in Smyrna. Acquired present status and title 1984. A State institution under the jurisdiction of the Ministry of Education.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "16272",
+      "iau_id": "IAU-016272",
+      "name": "Western Greece University of Applied Science",
+      "alt_name": "Technologiko Ekpaideutiko Idryma Dytikis Elladas",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhSLVMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016272",
+      "address": {
+        "Street": "Erythroy Stavroy 28 & Karyotaki",
+        "City": "Tripolis",
+        "Province": "Peloponnese",
+        "Post Code": "22131",
+        "WWW": "http://www.uop.gr"
+      },
+      "website": "http://www.uop.gr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2000,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Greek"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Economics, Management and Informatics",
+          "fields": [
+            "Computer Science",
+            "Economics",
+            "Information Technology",
+            "Management"
+          ]
+        },
+        {
+          "name": "Faculty : Fine Arts",
+          "fields": [
+            "Fine Arts",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Faculty : Human Movement and Quality of Life",
+          "fields": [
+            "Nursing",
+            "Sports",
+            "Sports Management"
+          ]
+        },
+        {
+          "name": "Faculty : Humanities and Cultural Studies",
+          "fields": [
+            "Archaeology",
+            "Arts and Humanities",
+            "Cultural Studies",
+            "History",
+            "Philology"
+          ]
+        },
+        {
+          "name": "Faculty : Social Sciences",
+          "fields": [
+            "Education",
+            "International Relations and Diplomacy",
+            "Political Sciences",
+            "Social Policy",
+            "Social Sciences"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ptychio",
+          "fields": [
+            "Business Administration",
+            "Computer Science",
+            "Finance",
+            "Management",
+            "Public Administration",
+            "Sports Management"
+          ]
+        },
+        {
+          "name": "Metaptychiako Diploma Eidikefsis",
+          "fields": [
+            "Business Administration",
+            "Computer Science",
+            "Finance",
+            "Management",
+            "Public Administration",
+            "Sports Management"
+          ]
+        },
+        {
+          "name": "Didaktoriko Diploma",
+          "fields": [
+            "Computer Science",
+            "Economics"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Culture, Education and Religious Affairs",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Athanasios Katsis"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Eleni Sourla"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Sofia Kyriakopoulou"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2000. Started operating 2002. According to law 4610/2019, The University of the Peloponnese has merged with the TEI of Peloponnese and 4 departments of the TEI of Western Greece",
+      "periodicals": [],
+      "student_body": "co-ed"
+    }
+  ]
+}

@@ -1,0 +1,5037 @@
+{
+  "country_name": "Maine",
+  "country_id": "United States of America - Maine",
+  "institutions": [
+    {
+      "id": "1484",
+      "iau_id": "IAU-001484",
+      "name": "Bates College",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sMzBYLWBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-001484",
+      "address": {
+        "Street": "2 Andrews Road",
+        "City": "Lewiston",
+        "Province": "Maine",
+        "Post Code": "04240",
+        "WWW": "https://www.bates.edu"
+      },
+      "website": "https://www.bates.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1855,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Africana",
+          "fields": [
+            "African American Studies",
+            "African Studies"
+          ]
+        },
+        {
+          "name": "Department/Division : American Studies",
+          "fields": [
+            "American Studies"
+          ]
+        },
+        {
+          "name": "Department/Division : Anthropology",
+          "fields": [
+            "Anthropology"
+          ]
+        },
+        {
+          "name": "Department/Division : Art and Visual Culture",
+          "fields": [
+            "Fine Arts"
+          ]
+        },
+        {
+          "name": "Department/Division : Asian Studies",
+          "fields": [
+            "Asian Studies"
+          ]
+        },
+        {
+          "name": "Department/Division : Biology",
+          "fields": [
+            "Biology"
+          ]
+        },
+        {
+          "name": "Department/Division : Chemistry and Biochemistry",
+          "fields": [
+            "Biochemistry",
+            "Chemistry"
+          ]
+        },
+        {
+          "name": "Department/Division : Classical and Medieval Studies",
+          "fields": [
+            "Ancient Civilizations",
+            "Medieval Studies"
+          ]
+        },
+        {
+          "name": "Department/Division : Digital and Computational Studies",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Department/Division : Earth and Climate Sciences",
+          "fields": [
+            "Earth Sciences",
+            "Meteorology"
+          ]
+        },
+        {
+          "name": "Department/Division : Economics",
+          "fields": [
+            "Economics"
+          ]
+        },
+        {
+          "name": "Department/Division : Education",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Department/Division : English",
+          "fields": [
+            "English"
+          ]
+        },
+        {
+          "name": "Department/Division : Environmental Studies",
+          "fields": [
+            "Environmental Studies"
+          ]
+        },
+        {
+          "name": "Department/Division : European Studies",
+          "fields": [
+            "European Studies"
+          ]
+        },
+        {
+          "name": "Department/Division : Extra-disciplinary Studies",
+          "fields": [
+            "French",
+            "French Studies"
+          ]
+        },
+        {
+          "name": "Department/Division : First-Year Seminars",
+          "fields": [
+            "French",
+            "French Studies"
+          ]
+        },
+        {
+          "name": "Department/Division : French and Francophone Studies",
+          "fields": [
+            "French",
+            "French Studies"
+          ]
+        },
+        {
+          "name": "Department/Division : Gender and Sexuality Studies",
+          "fields": [
+            "Gender Studies"
+          ]
+        },
+        {
+          "name": "Department/Division : General Education Concentrations",
+          "fields": [
+            "German",
+            "Russian"
+          ]
+        },
+        {
+          "name": "Department/Division : German and Russian Studies",
+          "fields": [
+            "German",
+            "Russian"
+          ]
+        },
+        {
+          "name": "Department/Division : Hispanic Studies",
+          "fields": [
+            "Spanish"
+          ]
+        },
+        {
+          "name": "Department/Division : History",
+          "fields": [
+            "History"
+          ]
+        },
+        {
+          "name": "Department/Division : Interdisciplinary Studies",
+          "fields": [
+            "Latin American Studies"
+          ]
+        },
+        {
+          "name": "Department/Division : Latin American and Latinx Studies",
+          "fields": [
+            "Latin American Studies"
+          ]
+        },
+        {
+          "name": "Department/Division : Mathematics",
+          "fields": [
+            "Mathematics"
+          ]
+        },
+        {
+          "name": "Department/Division : Music",
+          "fields": [
+            "Music"
+          ]
+        },
+        {
+          "name": "Department/Division : Neuroscience",
+          "fields": [
+            "Neurosciences"
+          ]
+        },
+        {
+          "name": "Department/Division : Philosophy",
+          "fields": [
+            "Philosophy"
+          ]
+        },
+        {
+          "name": "Department/Division : Physical Education",
+          "fields": [
+            "Physical Education"
+          ]
+        },
+        {
+          "name": "Department/Division : Physics and Astronomy",
+          "fields": [
+            "Astronomy and Space Science",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Department/Division : Political Science",
+          "fields": [
+            "Political Sciences"
+          ]
+        },
+        {
+          "name": "Department/Division : Psychology",
+          "fields": [
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Department/Division : Religious Studies",
+          "fields": [
+            "Religious Studies"
+          ]
+        },
+        {
+          "name": "Department/Division : Rhetoric, Film, and Screen Studies",
+          "fields": [
+            "Film",
+            "Speech Studies"
+          ]
+        },
+        {
+          "name": "Department/Division : Sociology",
+          "fields": [
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Department/Division : Theater and Dance",
+          "fields": [
+            "Dance",
+            "Theatre"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "African American Studies",
+            "African Studies",
+            "American Studies",
+            "Ancient Civilizations",
+            "Anthropology",
+            "Asian Studies",
+            "Astronomy and Space Science",
+            "Biochemistry",
+            "Biology",
+            "Chinese",
+            "Computer Science",
+            "Dance",
+            "Earth Sciences",
+            "Economics",
+            "Education",
+            "English",
+            "Environmental Studies",
+            "European Studies",
+            "Film",
+            "Fine Arts",
+            "French",
+            "French Studies",
+            "Gender Studies",
+            "German",
+            "History",
+            "Latin American Studies",
+            "Mathematics",
+            "Medieval Studies",
+            "Meteorology",
+            "Music",
+            "Neurosciences",
+            "Philosophy",
+            "Physical Education",
+            "Physics",
+            "Political Sciences",
+            "Psychology",
+            "Religious Studies",
+            "Russian",
+            "Sociology",
+            "Spanish",
+            "Speech Studies",
+            "Theatre"
+          ]
+        }
+      ],
+      "accreditation": "New England Commission of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Clayton Spencer"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Geoffrey S. Swift"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Malcolm S. Hill"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Darren R. Gallant"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2021-2022",
+        "Staff Full Time Total:": "204",
+        "Students Statistics Year:": "2021-2022",
+        "Students Total:": "1821"
+      },
+      "history": "Founded 1855",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "29591",
+      "iau_id": "IAU-029591",
+      "name": "Beal University",
+      "alt_name": "Beal University-Bangor Campus",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0RVLjMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-029591",
+      "address": {
+        "Street": "99 Farm Road",
+        "City": "Bangor",
+        "Province": "Maine",
+        "Post Code": "04401",
+        "WWW": "https://beal.edu"
+      },
+      "website": "https://beal.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1891,
+      "type": null,
+      "funding": "Private-for-profit",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "School : Business and Technology",
+          "fields": [
+            "Business Administration",
+            "Technology"
+          ]
+        },
+        {
+          "name": "School : Health Sciences",
+          "fields": [
+            "Health Sciences"
+          ]
+        },
+        {
+          "name": "School : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Certificate or Diploma (Sub-Bachelor)",
+          "fields": [
+            "Biomedicine",
+            "Business Administration",
+            "Health Administration",
+            "Health Sciences",
+            "Herbalism",
+            "Information Management",
+            "Nursing",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Associate Degree",
+          "fields": [
+            "Biomedicine",
+            "Business Administration",
+            "Health Administration",
+            "Health Sciences",
+            "Herbalism",
+            "Information Management",
+            "Nursing",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Biomedicine",
+            "Business Administration",
+            "Health Administration",
+            "Health Sciences",
+            "Herbalism",
+            "Information Management",
+            "Nursing",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Business Administration",
+            "Health Education",
+            "Nursing"
+          ]
+        }
+      ],
+      "accreditation": "Accrediting Commission of Career Schools and Colleges",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Sheryl DeWalt"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Colleen Koob"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Steve Villett"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2021-2022",
+        "Staff Full Time Total:": "43",
+        "Students Statistics Year:": "2021-2022",
+        "Students Total:": "519"
+      },
+      "history": "Founded 1891 as the Bangor Business College, which later became known as Beal College, became Beal College of Commerce 1922, renamed Beal College School of Business and then Beal Business College 1929, acquired current status and title 2020",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "29592",
+      "iau_id": "IAU-029591-029592",
+      "name": "Beal University – Beal University-Wilton Campus",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0RVLjMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-029591-029592",
+      "address": {
+        "Street": "75 Allen Street",
+        "City": "Wilton",
+        "Province": "Maine",
+        "Post Code": "04294",
+        "WWW": "https://beal.edu/locations/wilton"
+      },
+      "website": "https://beal.edu/locations/wilton",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2021,
+      "type": null,
+      "funding": "Private-for-profit",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Healthcare Sciences",
+          "fields": [
+            "Health Sciences"
+          ]
+        },
+        {
+          "name": "Course/Programme : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Associate Degree",
+          "fields": [
+            "Health Sciences",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Health Sciences",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Nursing"
+          ]
+        }
+      ],
+      "accreditation": "Accrediting Commission of Career Schools and Colleges",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Sheryl DeWalt"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Colleen Koob"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Joseph Amoral"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2021",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "1735",
+      "iau_id": "IAU-001735",
+      "name": "Bowdoin College",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sMzxTLTBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-001735",
+      "address": {
+        "Street": "255 Maine Street",
+        "City": "Brunswick",
+        "Province": "Maine",
+        "Post Code": "04011",
+        "WWW": "https://www.bowdoin.edu"
+      },
+      "website": "https://www.bowdoin.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1794,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Africana Studies",
+          "fields": [
+            "African American Studies",
+            "African Studies"
+          ]
+        },
+        {
+          "name": "Department/Division : Anthropology",
+          "fields": [
+            "Anthropology"
+          ]
+        },
+        {
+          "name": "Department/Division : Art",
+          "fields": [
+            "Fine Arts"
+          ]
+        },
+        {
+          "name": "Department/Division : Biology",
+          "fields": [
+            "Biology"
+          ]
+        },
+        {
+          "name": "Department/Division : Chemistry",
+          "fields": [
+            "Chemistry"
+          ]
+        },
+        {
+          "name": "Department/Division : Classics",
+          "fields": [
+            "Ancient Civilizations",
+            "Classical Languages"
+          ]
+        },
+        {
+          "name": "Department/Division : Computer Science",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Department/Division : Earth and Oceanographic Science",
+          "fields": [
+            "Earth Sciences",
+            "Marine Science and Oceanography"
+          ]
+        },
+        {
+          "name": "Department/Division : Economics",
+          "fields": [
+            "Economics"
+          ]
+        },
+        {
+          "name": "Department/Division : Education",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Department/Division : English",
+          "fields": [
+            "English"
+          ]
+        },
+        {
+          "name": "Department/Division : German",
+          "fields": [
+            "German"
+          ]
+        },
+        {
+          "name": "Department/Division : Government and Legal Studies",
+          "fields": [
+            "Government",
+            "Law"
+          ]
+        },
+        {
+          "name": "Department/Division : History",
+          "fields": [
+            "History"
+          ]
+        },
+        {
+          "name": "Department/Division : Mathematics",
+          "fields": [
+            "Mathematics"
+          ]
+        },
+        {
+          "name": "Department/Division : Music",
+          "fields": [
+            "Music"
+          ]
+        },
+        {
+          "name": "Department/Division : Philosophy",
+          "fields": [
+            "Philosophy"
+          ]
+        },
+        {
+          "name": "Department/Division : Physics",
+          "fields": [
+            "Physics"
+          ]
+        },
+        {
+          "name": "Department/Division : Psychology",
+          "fields": [
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Department/Division : Religion",
+          "fields": [
+            "Religion"
+          ]
+        },
+        {
+          "name": "Department/Division : Romance Languages and Literatures",
+          "fields": [
+            "Literature",
+            "Romance Languages"
+          ]
+        },
+        {
+          "name": "Department/Division : Russian",
+          "fields": [
+            "Russian"
+          ]
+        },
+        {
+          "name": "Department/Division : Sociology",
+          "fields": [
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Department/Division : Theater and Dance",
+          "fields": [
+            "Dance",
+            "Theatre"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "African American Studies",
+            "African Studies",
+            "Ancient Civilizations",
+            "Anthropology",
+            "Art History",
+            "Asian Studies",
+            "Biochemistry",
+            "Biology",
+            "Caribbean Studies",
+            "Chemistry",
+            "Classical Languages",
+            "Computer Science",
+            "Dance",
+            "Earth Sciences",
+            "Economics",
+            "Education",
+            "English",
+            "Environmental Studies",
+            "French",
+            "Gender Studies",
+            "German",
+            "Government",
+            "History",
+            "Italian",
+            "Latin American Studies",
+            "Law",
+            "Literature",
+            "Marine Science and Oceanography",
+            "Mathematics",
+            "Music",
+            "Neurosciences",
+            "Philosophy",
+            "Physics",
+            "Psychology",
+            "Religion",
+            "Romance Languages",
+            "Russian",
+            "Sociology",
+            "Spanish",
+            "Theatre",
+            "Visual Arts",
+            "Women's Studies"
+          ]
+        }
+      ],
+      "accreditation": "New England Commission of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Clayton Rose"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Jennifer Scanlon"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Matthew Orlando"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Khoa Khuong"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2021-2022",
+        "Staff Full Time Total:": "248",
+        "Students Statistics Year:": "2021-2022",
+        "Students Total:": "1951"
+      },
+      "history": "Founded 1794",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "2883",
+      "iau_id": "IAU-002883",
+      "name": "Colby College",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sQ0BYLFBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-002883",
+      "address": {
+        "Street": "4000 Mayflower Hill",
+        "City": "Waterville",
+        "Province": "Maine",
+        "Post Code": "04901",
+        "WWW": "https://www.colby.edu"
+      },
+      "website": "https://www.colby.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1813,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Humanities",
+          "fields": [
+            "Arts and Humanities",
+            "Classical Languages",
+            "Dance",
+            "East Asian Studies",
+            "English",
+            "French",
+            "German",
+            "Italian",
+            "Music",
+            "Philosophy",
+            "Religious Studies",
+            "Russian",
+            "Spanish",
+            "Theatre",
+            "Writing"
+          ]
+        },
+        {
+          "name": "Department/Division : Interdisciplinary Studies",
+          "fields": [
+            "African American Studies",
+            "American Studies",
+            "Education",
+            "Environmental Studies",
+            "Gender Studies",
+            "International Studies",
+            "Jewish Studies",
+            "Latin American Studies",
+            "Natural Sciences",
+            "Social Studies",
+            "Technology",
+            "Women's Studies"
+          ]
+        },
+        {
+          "name": "Department/Division : Natural Sciences",
+          "fields": [
+            "Astronomy and Space Science",
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Geology",
+            "Mathematics",
+            "Physics",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Department/Division : Social Sciences",
+          "fields": [
+            "Anthropology",
+            "Economics",
+            "Government",
+            "History",
+            "Psychology",
+            "Sociology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "African American Studies",
+            "American Studies",
+            "Anthropology",
+            "Art History",
+            "Astrophysics",
+            "Biochemistry",
+            "Biological and Life Sciences",
+            "Biology",
+            "Cell Biology",
+            "Chemistry",
+            "Classical Languages",
+            "Computer Science",
+            "Cultural Studies",
+            "Dance",
+            "East Asian Studies",
+            "Ecology",
+            "Economics",
+            "Educational Sciences",
+            "English",
+            "Environmental Studies",
+            "Finance",
+            "Fine Arts",
+            "French Studies",
+            "Gender Studies",
+            "Geology",
+            "German",
+            "Government",
+            "History",
+            "International Studies",
+            "Latin American Studies",
+            "Literature",
+            "Mathematics",
+            "Molecular Biology",
+            "Music",
+            "Natural Sciences",
+            "Neurosciences",
+            "Performing Arts",
+            "Philosophy",
+            "Physics",
+            "Psychology",
+            "Religious Studies",
+            "Russian",
+            "Social Sciences",
+            "Sociology",
+            "Spanish",
+            "Statistics",
+            "Technology",
+            "Theatre",
+            "Women's Studies",
+            "Writing"
+          ]
+        }
+      ],
+      "accreditation": "New England Commission of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "David A. Greene"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Margaret McFadden"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Masibonge Ngidi-Brown"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2021-2022",
+        "Staff Full Time Total:": "263",
+        "Students Statistics Year:": "2021-2022",
+        "Students Total:": "2262"
+      },
+      "history": "Founded 1813",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "3035",
+      "iau_id": "IAU-003035",
+      "name": "College of the Atlantic",
+      "alt_name": "(COA)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sU2BTLTBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003035",
+      "address": {
+        "Street": "105 Eden Street",
+        "City": "Bar Harbor",
+        "Province": "Maine",
+        "Post Code": "04609",
+        "WWW": "https://www.coa.edu"
+      },
+      "website": "https://www.coa.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1969,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "September to June (September-November; January-March; March-June). Summer courses available",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Area : Biomedical Studies and Molecular Biology",
+          "fields": [
+            "Biomedicine",
+            "Molecular Biology"
+          ]
+        },
+        {
+          "name": "Area : Climate Change and Energy",
+          "fields": [
+            "Energy Engineering",
+            "Meteorology"
+          ]
+        },
+        {
+          "name": "Area : Community Planning and Ecological Policy",
+          "fields": [
+            "Ecology",
+            "Social and Community Services"
+          ]
+        },
+        {
+          "name": "Area : Culture and Place",
+          "fields": [
+            "Cultural Studies"
+          ]
+        },
+        {
+          "name": "Area : Educational Studies",
+          "fields": [
+            "Educational Sciences"
+          ]
+        },
+        {
+          "name": "Area : Environmental Law and Politics",
+          "fields": [
+            "Law",
+            "Political Sciences"
+          ]
+        },
+        {
+          "name": "Area : Ethnography and Documentary",
+          "fields": [
+            "Documentation Techniques",
+            "Ethnology"
+          ]
+        },
+        {
+          "name": "Area : Farming and Food Systems",
+          "fields": [
+            "Farm Management",
+            "Food Science"
+          ]
+        },
+        {
+          "name": "Area : Field Ecology and Natural History",
+          "fields": [
+            "Ecology",
+            "History"
+          ]
+        },
+        {
+          "name": "Area : Gender and Identity Studies",
+          "fields": [
+            "Gender Studies"
+          ]
+        },
+        {
+          "name": "Area : International Studies",
+          "fields": [
+            "International Studies"
+          ]
+        },
+        {
+          "name": "Area : Languages",
+          "fields": [
+            "Modern Languages"
+          ]
+        },
+        {
+          "name": "Area : Literature and Writing",
+          "fields": [
+            "Literature",
+            "Writing"
+          ]
+        },
+        {
+          "name": "Area : Marine Science",
+          "fields": [
+            "Marine Science and Oceanography"
+          ]
+        },
+        {
+          "name": "Area : Mathematics and Physical Sciences",
+          "fields": [
+            "Mathematics",
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "Area : Mind, Meaning, and Consciousness",
+          "fields": [
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Area : Performance and Music",
+          "fields": [
+            "Music",
+            "Performing Arts"
+          ]
+        },
+        {
+          "name": "Area : Sustainable Business",
+          "fields": [
+            "Business Administration",
+            "Sustainable Development"
+          ]
+        },
+        {
+          "name": "Area : Visual Arts and Design",
+          "fields": [
+            "Design",
+            "Visual Arts"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Ecology"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Ecology"
+          ]
+        }
+      ],
+      "accreditation": "New England Commission of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Darron Collins"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Kenneth Hill"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Paul Bear"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Jason Ford"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2021-2022",
+        "Staff Full Time Total:": "26",
+        "Students Statistics Year:": "2021-2022",
+        "Students Total:": "376"
+      },
+      "history": "Founded 1969, acquired present status 1973",
+      "periodicals": [
+        "Catalogs",
+        "Catalogs"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "7658",
+      "iau_id": "IAU-007658",
+      "name": "Husson University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tUzhVLmBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007658",
+      "address": {
+        "Street": "1 College Circle",
+        "City": "Bangor",
+        "Province": "Maine",
+        "Post Code": "04401",
+        "WWW": "https://www.husson.edu"
+      },
+      "website": "https://www.husson.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1898,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "September to May (September-December; January-May). Also Summer Session (June-August)",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "College : Business",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Hotel and Restaurant",
+            "Law",
+            "Management",
+            "Sports Management",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "College : Health and Pharmacy",
+          "fields": [
+            "Nursing",
+            "Occupational Therapy",
+            "Pharmacy",
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "College : Science and Humanities",
+          "fields": [
+            "Arts and Humanities",
+            "Biology",
+            "Chemistry",
+            "Education",
+            "English",
+            "Environmental Studies",
+            "Health Sciences",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Department/Division : Division of Online and Distance Education",
+          "fields": [
+            "Accountancy",
+            "Animal Husbandry",
+            "Arts and Humanities",
+            "Biochemistry",
+            "Biology",
+            "Business Administration",
+            "Clinical Psychology",
+            "Communication Studies",
+            "Computer Science",
+            "Criminology",
+            "Educational and Student Counselling",
+            "Environmental Studies",
+            "Film",
+            "Finance",
+            "Graphic Design",
+            "Health Administration",
+            "Health Sciences",
+            "Information Technology",
+            "Journalism",
+            "Law",
+            "Management",
+            "Marketing",
+            "Nursing",
+            "Occupational Therapy",
+            "Pharmacy",
+            "Physical Therapy",
+            "Primary Education",
+            "Psychology",
+            "Public Health",
+            "Rehabilitation and Therapy",
+            "Secondary Education",
+            "Software Engineering",
+            "Sound Engineering (Acoustics)",
+            "Sports",
+            "Sports Management",
+            "Tourism",
+            "Video"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Associate Degree",
+          "fields": [
+            "Accountancy",
+            "Animal Husbandry",
+            "Arts and Humanities",
+            "Biochemistry",
+            "Biology",
+            "Business Administration",
+            "Clinical Psychology",
+            "Communication Studies",
+            "Computer Science",
+            "Criminology",
+            "Educational and Student Counselling",
+            "Environmental Studies",
+            "Film",
+            "Finance",
+            "Graphic Design",
+            "Health Administration",
+            "Health Sciences",
+            "Information Technology",
+            "Journalism",
+            "Law",
+            "Management",
+            "Marketing",
+            "Nursing",
+            "Occupational Therapy",
+            "Pharmacy",
+            "Physical Therapy",
+            "Primary Education",
+            "Psychology",
+            "Public Health",
+            "Rehabilitation and Therapy",
+            "Secondary Education",
+            "Software Engineering",
+            "Sound Engineering (Acoustics)",
+            "Sports",
+            "Sports Management",
+            "Tourism",
+            "Video"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Animal Husbandry",
+            "Arts and Humanities",
+            "Biochemistry",
+            "Biology",
+            "Business Administration",
+            "Clinical Psychology",
+            "Communication Studies",
+            "Computer Science",
+            "Criminology",
+            "Educational and Student Counselling",
+            "Environmental Studies",
+            "Film",
+            "Finance",
+            "Graphic Design",
+            "Health Administration",
+            "Health Sciences",
+            "Information Technology",
+            "Journalism",
+            "Law",
+            "Management",
+            "Marketing",
+            "Nursing",
+            "Occupational Therapy",
+            "Pharmacy",
+            "Physical Therapy",
+            "Primary Education",
+            "Psychology",
+            "Public Health",
+            "Rehabilitation and Therapy",
+            "Secondary Education",
+            "Software Engineering",
+            "Sound Engineering (Acoustics)",
+            "Sports",
+            "Sports Management",
+            "Tourism",
+            "Video"
+          ]
+        },
+        {
+          "name": "Post-bachelor's Diploma/Certificate",
+          "fields": [
+            "Business Administration",
+            "Health Administration",
+            "Hotel and Restaurant",
+            "Human Resources",
+            "Insurance",
+            "Leadership",
+            "Nursing",
+            "Protective Services",
+            "Psychology",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Business Administration",
+            "Clinical Psychology",
+            "Educational and Student Counselling",
+            "Gerontology",
+            "Justice Administration",
+            "Nursing",
+            "Occupational Therapy",
+            "Psychiatry and Mental Health",
+            "Psychology",
+            "Public Health"
+          ]
+        },
+        {
+          "name": "Certificate of Advanced Study",
+          "fields": [
+            "Nursing",
+            "Psychiatry and Mental Health"
+          ]
+        },
+        {
+          "name": "Doctor's Degrees (Professional Practice)",
+          "fields": [
+            "Pharmacy",
+            "Physical Therapy"
+          ]
+        }
+      ],
+      "accreditation": "New England Commission of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Robert A. Clark"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Lynne Coy-Ogan"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Thomas Welch"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Kimberly Odusami"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2021-2022",
+        "Staff Full Time Total:": "505",
+        "Students Statistics Year:": "2021-2022",
+        "Students Total:": "3311"
+      },
+      "history": "Founded 1898 as Shaw Business College, became Husson College 1947. Acquired present title and status 2008",
+      "periodicals": [
+        "Catalog Crosscuts",
+        "Catalog",
+        "Crosscuts"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "22885",
+      "iau_id": "IAU-022885",
+      "name": "Institute for Doctoral Studies in the Visual Arts",
+      "alt_name": "(IDSVA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyhYLiM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-022885",
+      "address": {
+        "Street": "795 Congress Street",
+        "City": "Portland",
+        "Province": "Maine",
+        "Post Code": "04102",
+        "WWW": "https://www.idsva.edu"
+      },
+      "website": "https://www.idsva.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2006,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Visual Arts",
+          "fields": [
+            "Aesthetics",
+            "Cultural Studies",
+            "Fine Arts",
+            "Philosophy",
+            "Visual Arts"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Doctor's Degree (Research/Scholarship)",
+          "fields": [
+            "Visual Arts"
+          ]
+        }
+      ],
+      "accreditation": "New England Commission of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "George Smith"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Simonetta Moro"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "‍Molly Davis"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2021-2022",
+        "Staff Full Time Total:": "3",
+        "Students Statistics Year:": "2021-2022",
+        "Students Total:": "95"
+      },
+      "history": "Founded 2006",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "11305",
+      "iau_id": "IAU-011305",
+      "name": "Maine College of Art and Design",
+      "alt_name": "(MECA&D)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyRTLCM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-011305",
+      "address": {
+        "Street": "522 Congress Street",
+        "City": "Portland",
+        "Province": "Maine",
+        "Post Code": "04101",
+        "WWW": "https://www.meca.edu"
+      },
+      "website": "https://www.meca.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1882,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Academic Studies",
+          "fields": [
+            "Art Criticism",
+            "Art History",
+            "Business Administration",
+            "Cultural Studies",
+            "Design",
+            "Fine Arts",
+            "History",
+            "Literature",
+            "Mathematics",
+            "Media Studies",
+            "Natural Sciences",
+            "Writing"
+          ]
+        },
+        {
+          "name": "Course/Programme : Fine Arts",
+          "fields": [
+            "Ceramic Art",
+            "Computer Graphics",
+            "Fashion Design",
+            "Furniture Design",
+            "Graphic Design",
+            "Handicrafts",
+            "Jewellery Art",
+            "Painting and Drawing",
+            "Photography",
+            "Printing and Printmaking",
+            "Sculpture",
+            "Textile Design",
+            "Visual Arts",
+            "Weaving"
+          ]
+        },
+        {
+          "name": "Course/Programme : Graduate Studies",
+          "fields": [
+            "Art Education",
+            "Film",
+            "Fine Arts"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Ceramic Art",
+            "Computer Graphics",
+            "Fashion Design",
+            "Fine Arts",
+            "Furniture Design",
+            "Graphic Design",
+            "Handicrafts",
+            "Jewellery Art",
+            "Painting and Drawing",
+            "Photography",
+            "Printing and Printmaking",
+            "Sculpture",
+            "Textile Design",
+            "Visual Arts",
+            "Weaving"
+          ]
+        },
+        {
+          "name": "Post-bachelor's Diploma/Certificate",
+          "fields": [
+            "Film"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Art Education",
+            "Fine Arts"
+          ]
+        }
+      ],
+      "accreditation": "National Association of Schools of Art and Design, Commission on Accreditation; New England Commission of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Laura Freid"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Elizabeth Elicker"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Ian Anderson"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2021-2022",
+        "Staff Full Time Total:": "98",
+        "Students Statistics Year:": "2021-2022",
+        "Students Total:": "491"
+      },
+      "history": "Founded 1882 as part of the Portland Society of Art and Design, renamed Portland School of Art 1972, separated from the Portland Society of Art to become an independent organization 1982, became Maine College of Art 1992, acquired current title 2021",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "29593",
+      "iau_id": "IAU-029593",
+      "name": "Maine College of Health Professions",
+      "alt_name": "(MCHP)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0RVLjMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-029593",
+      "address": {
+        "Street": "70 Middle Street",
+        "City": "Lewiston",
+        "Province": "Maine",
+        "Post Code": "04240",
+        "WWW": "https://www.mchp.edu"
+      },
+      "website": "https://www.mchp.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1891,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Computed Tomography",
+          "fields": [
+            "Treatment Techniques"
+          ]
+        },
+        {
+          "name": "Course/Programme : Diagnostic Medical Sonography",
+          "fields": [
+            "Treatment Techniques"
+          ]
+        },
+        {
+          "name": "Course/Programme : Health Sciences",
+          "fields": [
+            "Health Sciences"
+          ]
+        },
+        {
+          "name": "Course/Programme : Healthcare Administration",
+          "fields": [
+            "Health Administration"
+          ]
+        },
+        {
+          "name": "Course/Programme : Mammography",
+          "fields": [
+            "Treatment Techniques"
+          ]
+        },
+        {
+          "name": "Course/Programme : Medical Imaging",
+          "fields": [
+            "Radiology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Course/Programme : Radiologic Technology",
+          "fields": [
+            "Medical Technology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Certificate or Diploma (Sub-Bachelor)",
+          "fields": [
+            "Health Administration",
+            "Nursing",
+            "Radiology"
+          ]
+        },
+        {
+          "name": "Associate Degree",
+          "fields": [
+            "Health Administration",
+            "Nursing",
+            "Radiology"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Health Administration",
+            "Nursing",
+            "Radiology"
+          ]
+        }
+      ],
+      "accreditation": "New England Commission of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Monika Bissell"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Lesa Rose"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2021-2022",
+        "Staff Full Time Total:": "13",
+        "Students Statistics Year:": "2021-2022",
+        "Students Total:": "235"
+      },
+      "history": "Founded 1891 the Central Maine General Hospital Training School, renamed Central Maine Medical Center School of Nursing 1976, and then the Central Maine Medical Center College of Nursing and Health Professions 2007, acquired current title 2014",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "11306",
+      "iau_id": "IAU-011306",
+      "name": "Maine Maritime Academy",
+      "alt_name": "(MMA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyRTLCM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-011306",
+      "address": {
+        "Street": "1 Pleasant Street",
+        "City": "Castine",
+        "Province": "Maine",
+        "Post Code": "04420",
+        "WWW": "https://mainemaritime.edu"
+      },
+      "website": "https://mainemaritime.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1941,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to May (September-December; January-May). Also Co-op/Sea Term (May-June)",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Arts and Sciences",
+          "fields": [
+            "Arts and Humanities",
+            "Astronomy and Space Science",
+            "Computer Science",
+            "Geography (Human)",
+            "Literature",
+            "Mathematics",
+            "Physics",
+            "Political Sciences",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "School : Engineering",
+          "fields": [
+            "Engineering",
+            "Engineering Management",
+            "Technology"
+          ]
+        },
+        {
+          "name": "School : International Business",
+          "fields": [
+            "Business Administration",
+            "International Business",
+            "Marine Transport",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "School : Marine Transportation",
+          "fields": [
+            "Marine Engineering",
+            "Marine Transport",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "School : Ocean Studies",
+          "fields": [
+            "Marine Biology",
+            "Marine Science and Oceanography"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Associate Degree",
+          "fields": [
+            "Coastal Studies",
+            "Environmental Studies",
+            "International Business",
+            "Logistics Management",
+            "Management",
+            "Marine Biology",
+            "Marine Engineering",
+            "Marine Science and Oceanography",
+            "Marine Transport",
+            "Nautical Science",
+            "Power Engineering",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Coastal Studies",
+            "Environmental Studies",
+            "International Business",
+            "Logistics Management",
+            "Management",
+            "Marine Biology",
+            "Marine Engineering",
+            "Marine Science and Oceanography",
+            "Marine Transport",
+            "Nautical Science",
+            "Power Engineering",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "International Business",
+            "Logistics Management",
+            "Marine Transport"
+          ]
+        }
+      ],
+      "accreditation": "New England Commission of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Jerald S. Paul"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Craig Jonson"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Keith Williamson"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2013-2014",
+        "Staff Full Time Total:": "129",
+        "Students Statistics Year:": "2021-2022",
+        "Students Total:": "888"
+      },
+      "history": "Founded 1941",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "29594",
+      "iau_id": "IAU-029594",
+      "name": "Maine Media College",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0RVLjMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-029594",
+      "address": {
+        "Street": "70 Camden Street",
+        "City": "Rockport",
+        "Province": "Maine",
+        "Post Code": "04856",
+        "WWW": "https://www.mainemedia.edu/college"
+      },
+      "website": "https://www.mainemedia.edu/college",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1973,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Collaborative Filmmaking (CCF)",
+          "fields": [
+            "Film"
+          ]
+        },
+        {
+          "name": "Course/Programme : Fine Arts",
+          "fields": [
+            "Fine Arts"
+          ]
+        },
+        {
+          "name": "Course/Programme : Visual Storytelling (PCVS)",
+          "fields": [
+            "Communication Arts",
+            "Media Studies"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Certificate or Diploma (Sub-Bachelor)",
+          "fields": [
+            "Fine Arts"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Fine Arts"
+          ]
+        }
+      ],
+      "accreditation": "New England Commission of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Michael Mansfield"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Cathi Finnemore"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Rebecca Born"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2021-2022",
+        "Staff Full Time Total:": "3",
+        "Students Statistics Year:": "2021-2022",
+        "Students Total:": "28"
+      },
+      "history": "Founded 1973",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "14245",
+      "iau_id": "IAU-014245",
+      "name": "Saint Joseph's College of Maine",
+      "alt_name": "(SJC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzBSLSM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-014245",
+      "address": {
+        "Street": "278 Whites Bridge Road",
+        "City": "Standish",
+        "Province": "Maine",
+        "Post Code": "04084",
+        "WWW": "https://www.sjcme.edu"
+      },
+      "website": "https://www.sjcme.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1912,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Biology",
+          "fields": [
+            "Biology"
+          ]
+        },
+        {
+          "name": "Department/Division : Business Administration",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Department/Division : Chemistry",
+          "fields": [
+            "Chemistry"
+          ]
+        },
+        {
+          "name": "Department/Division : Classics",
+          "fields": [
+            "Classical Languages"
+          ]
+        },
+        {
+          "name": "Department/Division : Communications",
+          "fields": [
+            "Communication Studies"
+          ]
+        },
+        {
+          "name": "Department/Division : Criminology",
+          "fields": [
+            "Criminology"
+          ]
+        },
+        {
+          "name": "Department/Division : Education",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Department/Division : English",
+          "fields": [
+            "English"
+          ]
+        },
+        {
+          "name": "Department/Division : Environmental Science",
+          "fields": [
+            "Environmental Studies"
+          ]
+        },
+        {
+          "name": "Department/Division : Fine Arts",
+          "fields": [
+            "Fine Arts"
+          ]
+        },
+        {
+          "name": "Department/Division : History",
+          "fields": [
+            "History"
+          ]
+        },
+        {
+          "name": "Department/Division : Honors Studies",
+          "fields": [
+            "Marine Science and Oceanography"
+          ]
+        },
+        {
+          "name": "Department/Division : Marine Science",
+          "fields": [
+            "Marine Science and Oceanography"
+          ]
+        },
+        {
+          "name": "Department/Division : Mathematics",
+          "fields": [
+            "Mathematics"
+          ]
+        },
+        {
+          "name": "Department/Division : Modern Languages",
+          "fields": [
+            "Modern Languages"
+          ]
+        },
+        {
+          "name": "Department/Division : Natural Science",
+          "fields": [
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "Department/Division : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Department/Division : Philosophy",
+          "fields": [
+            "Philosophy"
+          ]
+        },
+        {
+          "name": "Department/Division : Physical Education",
+          "fields": [
+            "Physical Education"
+          ]
+        },
+        {
+          "name": "Department/Division : Political Science",
+          "fields": [
+            "Political Sciences"
+          ]
+        },
+        {
+          "name": "Department/Division : Psychology",
+          "fields": [
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Department/Division : Sociology",
+          "fields": [
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Department/Division : Sport and Exercise Science",
+          "fields": [
+            "Sports"
+          ]
+        },
+        {
+          "name": "Department/Division : Theology",
+          "fields": [
+            "Theology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Certificate or Diploma (Sub-Bachelor)",
+          "fields": [
+            "Accountancy",
+            "American Studies",
+            "Biology",
+            "Business Administration",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civil Engineering",
+            "Classical Languages",
+            "Communication Studies",
+            "Criminology",
+            "Education",
+            "English",
+            "Environmental Engineering",
+            "Environmental Studies",
+            "Finance",
+            "Fine Arts",
+            "Health Sciences",
+            "History",
+            "Human Resources",
+            "Humanities and Social Science Education",
+            "International Business",
+            "Journalism",
+            "Latin",
+            "Literature",
+            "Management",
+            "Marine Science and Oceanography",
+            "Marketing",
+            "Mathematics",
+            "Mathematics Education",
+            "Media Studies",
+            "Native Language Education",
+            "Nursing",
+            "Philosophy",
+            "Physical Education",
+            "Political Sciences",
+            "Primary Education",
+            "Psychology",
+            "Public Relations",
+            "Science Education",
+            "Secondary Education",
+            "Social Work",
+            "Sociology",
+            "Special Education",
+            "Sports",
+            "Sports Management",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Associate Degree",
+          "fields": [
+            "Accountancy",
+            "American Studies",
+            "Biology",
+            "Business Administration",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civil Engineering",
+            "Classical Languages",
+            "Communication Studies",
+            "Criminology",
+            "Education",
+            "English",
+            "Environmental Engineering",
+            "Environmental Studies",
+            "Finance",
+            "Fine Arts",
+            "Health Sciences",
+            "History",
+            "Human Resources",
+            "Humanities and Social Science Education",
+            "International Business",
+            "Journalism",
+            "Latin",
+            "Literature",
+            "Management",
+            "Marine Science and Oceanography",
+            "Marketing",
+            "Mathematics",
+            "Mathematics Education",
+            "Media Studies",
+            "Native Language Education",
+            "Nursing",
+            "Philosophy",
+            "Physical Education",
+            "Political Sciences",
+            "Primary Education",
+            "Psychology",
+            "Public Relations",
+            "Science Education",
+            "Secondary Education",
+            "Social Work",
+            "Sociology",
+            "Special Education",
+            "Sports",
+            "Sports Management",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "American Studies",
+            "Biology",
+            "Business Administration",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civil Engineering",
+            "Classical Languages",
+            "Communication Studies",
+            "Criminology",
+            "Education",
+            "English",
+            "Environmental Engineering",
+            "Environmental Studies",
+            "Finance",
+            "Fine Arts",
+            "Health Sciences",
+            "History",
+            "Human Resources",
+            "Humanities and Social Science Education",
+            "International Business",
+            "Journalism",
+            "Latin",
+            "Literature",
+            "Management",
+            "Marine Science and Oceanography",
+            "Marketing",
+            "Mathematics",
+            "Mathematics Education",
+            "Media Studies",
+            "Native Language Education",
+            "Nursing",
+            "Philosophy",
+            "Physical Education",
+            "Political Sciences",
+            "Primary Education",
+            "Psychology",
+            "Public Relations",
+            "Science Education",
+            "Secondary Education",
+            "Social Work",
+            "Sociology",
+            "Special Education",
+            "Sports",
+            "Sports Management",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Post-bachelor's Diploma/Certificate",
+          "fields": [
+            "Catholic Theology",
+            "Christian Religious Studies",
+            "Educational Administration",
+            "Health Administration",
+            "Jewish Studies",
+            "Leadership",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Accountancy",
+            "Adult Education",
+            "Business Administration",
+            "Education",
+            "Educational Administration",
+            "Health Administration",
+            "Health Education",
+            "Leadership",
+            "Nursing",
+            "Pastoral Studies",
+            "Religion",
+            "Teacher Training",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Certificate of Advanced Study",
+          "fields": [
+            "Health Administration",
+            "Leadership",
+            "Nursing",
+            "Sustainable Development",
+            "Theology"
+          ]
+        }
+      ],
+      "accreditation": "New England Commission of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "James Dlugos"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Jonathan Greven"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Monique LaRocque"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2021-2022",
+        "Staff Full Time Total:": "192",
+        "Students Statistics Year:": "2021-2022",
+        "Students Total:": "1235"
+      },
+      "history": "Founded 1912. Affiliated to the Roman Catholic Church",
+      "periodicals": [
+        "St. Joseph's College News",
+        "St. Joseph's College News"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "16635",
+      "iau_id": "IAU-016635",
+      "name": "Thomas College",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhWLFM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016635",
+      "address": {
+        "Street": "180 West River",
+        "City": "Waterville",
+        "Province": "Maine",
+        "Post Code": "04901",
+        "WWW": "https://www.thomas.edu"
+      },
+      "website": "https://www.thomas.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1894,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "September to May (September-December; January-May)",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "School : Arts and Sciences",
+          "fields": [
+            "Arts and Humanities",
+            "Mathematics and Computer Science",
+            "Social Sciences",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "School : Business",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "School : Education",
+          "fields": [
+            "Education"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Actuarial Science",
+            "Applied Mathematics",
+            "Business Administration",
+            "Communication Studies",
+            "Computer Science",
+            "Criminology",
+            "English",
+            "Entrepreneurship",
+            "Environmental Studies",
+            "Finance",
+            "Human Resources",
+            "Humanities and Social Science Education",
+            "Information Technology",
+            "International Business",
+            "Leadership",
+            "Literacy Education",
+            "Management",
+            "Marketing",
+            "Mathematics Education",
+            "Media Studies",
+            "Political Sciences",
+            "Preschool Education",
+            "Primary Education",
+            "Protective Services",
+            "Psychology",
+            "Public Administration",
+            "Public Relations",
+            "Science Education",
+            "Secondary Education",
+            "Small Business",
+            "Sports",
+            "Sports Management"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Computer Science",
+            "Criminology",
+            "Education",
+            "Educational Administration",
+            "Health Administration",
+            "Human Resources",
+            "Leadership",
+            "Management"
+          ]
+        },
+        {
+          "name": "Certificate of Advanced Study",
+          "fields": [
+            "Human Resources",
+            "Management"
+          ]
+        }
+      ],
+      "accreditation": "New England Commission of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Laurie Lachance"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Thomas Edwards"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2021-2022",
+        "Staff Full Time Total:": "65",
+        "Students Statistics Year:": "2021-2022",
+        "Students Total:": "1394"
+      },
+      "history": "Founded 1894 as Kiest Business College, renamed Morgan Business College 1896, Morgan-Thomas Business College 1911, Thomas Junior College 1950, acquired current title 1962 and current status 1963",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "17102",
+      "iau_id": "IAU-017102",
+      "name": "Unity Environmental University",
+      "alt_name": "Unity",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzxRLCMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-017102",
+      "address": {
+        "Street": "70 Farm View DriveSuite 200",
+        "City": "New Gloucester",
+        "Province": "Maine",
+        "Post Code": "04260",
+        "WWW": "https://unity.edu"
+      },
+      "website": "https://unity.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1965,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Area : Agriculture",
+          "fields": [
+            "Agriculture"
+          ]
+        },
+        {
+          "name": "Area : Animal Care and Education",
+          "fields": [
+            "Animal Husbandry"
+          ]
+        },
+        {
+          "name": "Area : Business and Entrepreneurship",
+          "fields": [
+            "Business Administration",
+            "Entrepreneurship"
+          ]
+        },
+        {
+          "name": "Area : Communication and Media",
+          "fields": [
+            "Communication Studies",
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "Area : Environmental Science",
+          "fields": [
+            "Environmental Studies"
+          ]
+        },
+        {
+          "name": "Area : Geography and GIS",
+          "fields": [
+            "Geography",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "Area : Government and Law",
+          "fields": [
+            "Government",
+            "Law"
+          ]
+        },
+        {
+          "name": "Area : Health and Wellness",
+          "fields": [
+            "Health Sciences"
+          ]
+        },
+        {
+          "name": "Area : Humanities and Art",
+          "fields": [
+            "Arts and Humanities",
+            "Fine Arts",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Area : Marine Biology and Aquaculture",
+          "fields": [
+            "Aquaculture",
+            "Marine Biology"
+          ]
+        },
+        {
+          "name": "Area : Natural Sciences",
+          "fields": [
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "Area : Outdoor Recreation",
+          "fields": [
+            "Parks and Recreation"
+          ]
+        },
+        {
+          "name": "Area : Personal Enrichment",
+          "fields": [
+            "Environmental Studies"
+          ]
+        },
+        {
+          "name": "Area : Policy and Advocacy",
+          "fields": [
+            "Environmental Studies"
+          ]
+        },
+        {
+          "name": "Area : Sustainability",
+          "fields": [
+            "Sustainable Development"
+          ]
+        },
+        {
+          "name": "Area : Wildlife and Natural Resources",
+          "fields": [
+            "Natural Resources",
+            "Wildlife"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Certificate or Diploma (Sub-Bachelor)",
+          "fields": [
+            "Agricultural Business",
+            "Agriculture",
+            "Animal Husbandry",
+            "Aquaculture",
+            "Business Administration",
+            "Ecology",
+            "Environmental Management",
+            "Environmental Studies",
+            "Farm Management",
+            "Fire Science",
+            "Fishery",
+            "Food Science",
+            "Forestry",
+            "Horticulture",
+            "Law",
+            "Marine Biology",
+            "Natural Resources",
+            "Sustainable Development",
+            "Tourism",
+            "Wildlife"
+          ]
+        },
+        {
+          "name": "Associate Degree",
+          "fields": [
+            "Agricultural Business",
+            "Agriculture",
+            "Animal Husbandry",
+            "Aquaculture",
+            "Business Administration",
+            "Ecology",
+            "Environmental Management",
+            "Environmental Studies",
+            "Farm Management",
+            "Fire Science",
+            "Fishery",
+            "Food Science",
+            "Forestry",
+            "Horticulture",
+            "Law",
+            "Marine Biology",
+            "Natural Resources",
+            "Sustainable Development",
+            "Tourism",
+            "Wildlife"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Agricultural Business",
+            "Agriculture",
+            "Animal Husbandry",
+            "Aquaculture",
+            "Business Administration",
+            "Ecology",
+            "Environmental Management",
+            "Environmental Studies",
+            "Farm Management",
+            "Fire Science",
+            "Fishery",
+            "Food Science",
+            "Forestry",
+            "Horticulture",
+            "Law",
+            "Marine Biology",
+            "Natural Resources",
+            "Sustainable Development",
+            "Tourism",
+            "Wildlife"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Animal Husbandry",
+            "Economics",
+            "Environmental Studies",
+            "Marine Science and Oceanography",
+            "Marketing",
+            "Surveying and Mapping",
+            "Sustainable Development",
+            "Wildlife"
+          ]
+        }
+      ],
+      "accreditation": "New England Commission of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Melik Peter Khoury"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2021-2022",
+        "Staff Full Time Total:": "186",
+        "Students Statistics Year:": "2021-2022",
+        "Students Total:": "2439"
+      },
+      "history": "Founded 1965 as Unity Institute of Liberal Arts and Sciences, which shortly afterward became Unity College, acquired current status and title 2023",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20260",
+      "iau_id": "IAU-020260",
+      "name": "University of Maine",
+      "alt_name": "UMaine",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BSLUNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020260",
+      "address": {
+        "Street": "168 College Avenue",
+        "City": "Orono",
+        "Province": "Maine",
+        "Post Code": "04469",
+        "WWW": "https://umaine.edu"
+      },
+      "website": "https://umaine.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1865,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "August to May (August-December; January-May). Also Summer Session",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "College : Education and Human Development",
+          "fields": [
+            "Child Care and Development",
+            "Curriculum",
+            "Education",
+            "Educational Administration",
+            "Educational and Student Counselling",
+            "Educational Technology",
+            "Educational Testing and Evaluation",
+            "Higher Education",
+            "Humanities and Social Science Education",
+            "Physical Education",
+            "Physical Therapy",
+            "Preschool Education",
+            "Primary Education",
+            "Rehabilitation and Therapy",
+            "Science Education",
+            "Secondary Education",
+            "Special Education",
+            "Sports"
+          ]
+        },
+        {
+          "name": "College : Engineering and Computing",
+          "fields": [
+            "Bioengineering",
+            "Business Administration",
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Electrical Engineering",
+            "Engineering",
+            "Environmental Engineering",
+            "Mechanical Engineering",
+            "Physics",
+            "Technology"
+          ]
+        },
+        {
+          "name": "College : Honors Studies",
+          "fields": [
+            "Arts and Humanities",
+            "History",
+            "Literature",
+            "Natural Sciences",
+            "Philosophy",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "College : Liberal Arts and Sciences",
+          "fields": [
+            "American Studies",
+            "Anthropology",
+            "Arts and Humanities",
+            "Astronomy and Space Science",
+            "Canadian Studies",
+            "Chemistry",
+            "Classical Languages",
+            "Computer Science",
+            "Dance",
+            "English",
+            "Fine Arts",
+            "French Studies",
+            "Gender Studies",
+            "History",
+            "Information Sciences",
+            "International Studies",
+            "Journalism",
+            "Mass Communication",
+            "Mathematics",
+            "Media Studies",
+            "Modern Languages",
+            "Music",
+            "Native American Studies",
+            "Philosophy",
+            "Physics",
+            "Political Sciences",
+            "Psychology",
+            "Romance Languages",
+            "Sociology",
+            "Spanish",
+            "Statistics",
+            "Theatre",
+            "Women's Studies"
+          ]
+        },
+        {
+          "name": "College : Natural Sciences, Forestry and Agriculture",
+          "fields": [
+            "Agriculture",
+            "Biology",
+            "Biomedicine",
+            "Communication Disorders",
+            "Communication Studies",
+            "Earth Sciences",
+            "Ecology",
+            "Economics",
+            "Environmental Studies",
+            "Fishery",
+            "Food Science",
+            "Forest Products",
+            "Marine Science and Oceanography",
+            "Meteorology",
+            "Molecular Biology",
+            "Nursing",
+            "Social Work",
+            "Wildlife"
+          ]
+        },
+        {
+          "name": "College : UMaine Online",
+          "fields": [
+            "Business Administration",
+            "Education",
+            "Engineering",
+            "Health Sciences",
+            "Information Technology",
+            "Social Sciences",
+            "Technology",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Graduate School : Graduate Studies",
+          "fields": [
+            "Aeronautical and Aerospace Engineering",
+            "Agriculture",
+            "Anthropology",
+            "Astronomy and Space Science",
+            "Bioengineering",
+            "Biology",
+            "Biomedical Engineering",
+            "Biomedicine",
+            "Business Administration",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civil Engineering",
+            "Classical Languages",
+            "Communication Disorders",
+            "Communication Studies",
+            "Computer Engineering",
+            "Computer Science",
+            "Developmental Psychology",
+            "Earth Sciences",
+            "Ecology",
+            "Economics",
+            "Education",
+            "Electrical Engineering",
+            "Engineering",
+            "English",
+            "Environmental Engineering",
+            "Environmental Studies",
+            "Fine Arts",
+            "Fishery",
+            "Food Science",
+            "Forestry",
+            "History",
+            "Information Technology",
+            "International Relations and Diplomacy",
+            "Journalism",
+            "Marine Science and Oceanography",
+            "Mass Communication",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Meteorology",
+            "Modern Languages",
+            "Molecular Biology",
+            "Natural Sciences",
+            "Nursing",
+            "Performing Arts",
+            "Physics",
+            "Psychology",
+            "Social Work",
+            "Statistics",
+            "Surveying and Mapping",
+            "Teacher Training",
+            "Wildlife"
+          ]
+        },
+        {
+          "name": "School : Business",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Finance",
+            "Management",
+            "Marketing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Certificate or Diploma (Sub-Bachelor)",
+          "fields": [
+            "Accountancy",
+            "Agriculture",
+            "Animal Husbandry",
+            "Anthropology",
+            "Applied Physics",
+            "Art Education",
+            "Art History",
+            "Arts and Humanities",
+            "Astronomy and Space Science",
+            "Biochemistry",
+            "Biology",
+            "Biomedical Engineering",
+            "Botany",
+            "Business Computing",
+            "Cell Biology",
+            "Chemical Engineering",
+            "Chemistry",
+            "Child Care and Development",
+            "Civil Engineering",
+            "Communication Disorders",
+            "Communication Studies",
+            "Computer Engineering",
+            "Computer Science",
+            "Construction Engineering",
+            "Earth Sciences",
+            "Ecology",
+            "Economics",
+            "Education",
+            "Electrical Engineering",
+            "Engineering",
+            "English",
+            "Environmental Engineering",
+            "Environmental Studies",
+            "Family Studies",
+            "Finance",
+            "Fine Arts",
+            "Food Science",
+            "Forestry",
+            "French",
+            "Gender Studies",
+            "Health Sciences",
+            "History",
+            "Horticulture",
+            "Information Technology",
+            "International Relations and Diplomacy",
+            "Journalism",
+            "Management",
+            "Marine Science and Oceanography",
+            "Marketing",
+            "Materials Engineering",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Media Studies",
+            "Meteorology",
+            "Microbiology",
+            "Molecular Biology",
+            "Music",
+            "Music Education",
+            "Musical Instruments",
+            "Natural Sciences",
+            "Nursing",
+            "Nutrition",
+            "Parks and Recreation",
+            "Philosophy",
+            "Physical Education",
+            "Physics",
+            "Political Sciences",
+            "Primary Education",
+            "Psychology",
+            "Romance Languages",
+            "Secondary Education",
+            "Social Sciences",
+            "Social Work",
+            "Sociology",
+            "Spanish",
+            "Sports Management",
+            "Surveying and Mapping",
+            "Sustainable Development",
+            "Technology",
+            "Theatre",
+            "Tourism",
+            "Veterinary Science",
+            "Wildlife",
+            "Women's Studies",
+            "Zoology"
+          ]
+        },
+        {
+          "name": "Associate Degree",
+          "fields": [
+            "Accountancy",
+            "Agriculture",
+            "Animal Husbandry",
+            "Anthropology",
+            "Applied Physics",
+            "Art Education",
+            "Art History",
+            "Arts and Humanities",
+            "Astronomy and Space Science",
+            "Biochemistry",
+            "Biology",
+            "Biomedical Engineering",
+            "Botany",
+            "Business Computing",
+            "Cell Biology",
+            "Chemical Engineering",
+            "Chemistry",
+            "Child Care and Development",
+            "Civil Engineering",
+            "Communication Disorders",
+            "Communication Studies",
+            "Computer Engineering",
+            "Computer Science",
+            "Construction Engineering",
+            "Earth Sciences",
+            "Ecology",
+            "Economics",
+            "Education",
+            "Electrical Engineering",
+            "Engineering",
+            "English",
+            "Environmental Engineering",
+            "Environmental Studies",
+            "Family Studies",
+            "Finance",
+            "Fine Arts",
+            "Food Science",
+            "Forestry",
+            "French",
+            "Gender Studies",
+            "Health Sciences",
+            "History",
+            "Horticulture",
+            "Information Technology",
+            "International Relations and Diplomacy",
+            "Journalism",
+            "Management",
+            "Marine Science and Oceanography",
+            "Marketing",
+            "Materials Engineering",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Media Studies",
+            "Meteorology",
+            "Microbiology",
+            "Molecular Biology",
+            "Music",
+            "Music Education",
+            "Musical Instruments",
+            "Natural Sciences",
+            "Nursing",
+            "Nutrition",
+            "Parks and Recreation",
+            "Philosophy",
+            "Physical Education",
+            "Physics",
+            "Political Sciences",
+            "Primary Education",
+            "Psychology",
+            "Romance Languages",
+            "Secondary Education",
+            "Social Sciences",
+            "Social Work",
+            "Sociology",
+            "Spanish",
+            "Sports Management",
+            "Surveying and Mapping",
+            "Sustainable Development",
+            "Technology",
+            "Theatre",
+            "Tourism",
+            "Veterinary Science",
+            "Wildlife",
+            "Women's Studies",
+            "Zoology"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Agriculture",
+            "Animal Husbandry",
+            "Anthropology",
+            "Applied Physics",
+            "Art Education",
+            "Art History",
+            "Arts and Humanities",
+            "Astronomy and Space Science",
+            "Biochemistry",
+            "Biology",
+            "Biomedical Engineering",
+            "Botany",
+            "Business Computing",
+            "Cell Biology",
+            "Chemical Engineering",
+            "Chemistry",
+            "Child Care and Development",
+            "Civil Engineering",
+            "Communication Disorders",
+            "Communication Studies",
+            "Computer Engineering",
+            "Computer Science",
+            "Construction Engineering",
+            "Earth Sciences",
+            "Ecology",
+            "Economics",
+            "Education",
+            "Electrical Engineering",
+            "Engineering",
+            "English",
+            "Environmental Engineering",
+            "Environmental Studies",
+            "Family Studies",
+            "Finance",
+            "Fine Arts",
+            "Food Science",
+            "Forestry",
+            "French",
+            "Gender Studies",
+            "Health Sciences",
+            "History",
+            "Horticulture",
+            "Information Technology",
+            "International Relations and Diplomacy",
+            "Journalism",
+            "Management",
+            "Marine Science and Oceanography",
+            "Marketing",
+            "Materials Engineering",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Media Studies",
+            "Meteorology",
+            "Microbiology",
+            "Molecular Biology",
+            "Music",
+            "Music Education",
+            "Musical Instruments",
+            "Natural Sciences",
+            "Nursing",
+            "Nutrition",
+            "Parks and Recreation",
+            "Philosophy",
+            "Physical Education",
+            "Physics",
+            "Political Sciences",
+            "Primary Education",
+            "Psychology",
+            "Romance Languages",
+            "Secondary Education",
+            "Social Sciences",
+            "Social Work",
+            "Sociology",
+            "Spanish",
+            "Sports Management",
+            "Surveying and Mapping",
+            "Sustainable Development",
+            "Technology",
+            "Theatre",
+            "Tourism",
+            "Veterinary Science",
+            "Wildlife",
+            "Women's Studies",
+            "Zoology"
+          ]
+        },
+        {
+          "name": "Post-bachelor's Diploma/Certificate",
+          "fields": [
+            "Aeronautical and Aerospace Engineering",
+            "Behavioural Sciences",
+            "Business Administration",
+            "Computer Science",
+            "Educational Administration",
+            "Educational Sciences",
+            "Educational Technology",
+            "Electrical Engineering",
+            "Engineering",
+            "Engineering Management",
+            "Environmental Studies",
+            "Food Technology",
+            "Gerontology",
+            "Health Education",
+            "Health Sciences",
+            "Information Technology",
+            "Leadership",
+            "Library Science",
+            "Materials Engineering",
+            "Media Studies",
+            "Meteorology",
+            "Nutrition",
+            "Preschool Education",
+            "Special Education",
+            "Surveying and Mapping",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Animal Husbandry",
+            "Anthropology",
+            "Applied Physics",
+            "Aquaculture",
+            "Biochemistry",
+            "Biological and Life Sciences",
+            "Biomedical Engineering",
+            "Business Administration",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civil Engineering",
+            "Communication Studies",
+            "Computer Engineering",
+            "Computer Science",
+            "Curriculum",
+            "Data Science",
+            "Development Studies",
+            "Earth Sciences",
+            "Ecology",
+            "Economics",
+            "Educational Administration",
+            "Educational Technology",
+            "Educational Testing and Evaluation",
+            "Electrical Engineering",
+            "Engineering",
+            "English",
+            "Entomology",
+            "Environmental Studies",
+            "Food Science",
+            "Forestry",
+            "French",
+            "Health Sciences",
+            "Higher Education",
+            "History",
+            "Horticulture",
+            "Information Technology",
+            "International Relations and Diplomacy",
+            "Leadership",
+            "Literacy Education",
+            "Marine Biology",
+            "Marine Science and Oceanography",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Media Studies",
+            "Meteorology",
+            "Microbiology",
+            "Music",
+            "Music Education",
+            "Musical Instruments",
+            "Natural Resources",
+            "Nursing",
+            "Nutrition",
+            "Peace and Disarmament",
+            "Physical Education",
+            "Physics",
+            "Plant and Crop Protection",
+            "Primary Education",
+            "Psychology",
+            "Secondary Education",
+            "Social Sciences",
+            "Social Work",
+            "Soil Science",
+            "Spanish",
+            "Special Education",
+            "Sports",
+            "Surveying and Mapping",
+            "Teacher Training",
+            "Technology",
+            "Wildlife"
+          ]
+        },
+        {
+          "name": "Certificate of Advanced Study",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Doctor's Degrees (Professional Practice)",
+          "fields": [
+            "Educational Administration",
+            "Leadership"
+          ]
+        },
+        {
+          "name": "Education Specialist Degree",
+          "fields": [
+            "Curriculum",
+            "Educational Administration",
+            "Educational Technology",
+            "Educational Testing and Evaluation",
+            "Leadership",
+            "Literacy Education",
+            "Secondary Education",
+            "Special Education"
+          ]
+        },
+        {
+          "name": "Doctor's Degree (Research/Scholarship)",
+          "fields": [
+            "Anthropology",
+            "Aquaculture",
+            "Biochemistry",
+            "Biological and Life Sciences",
+            "Biomedical Engineering",
+            "Biomedicine",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civil Engineering",
+            "Clinical Psychology",
+            "Communication Studies",
+            "Computer Engineering",
+            "Computer Science",
+            "Earth Sciences",
+            "Ecology",
+            "Education",
+            "Electrical Engineering",
+            "Environmental Studies",
+            "Food Science",
+            "Forestry",
+            "History",
+            "Marine Biology",
+            "Marine Science and Oceanography",
+            "Materials Engineering",
+            "Mechanical Engineering",
+            "Meteorology",
+            "Microbiology",
+            "Molecular Biology",
+            "Natural Resources",
+            "Nutrition",
+            "Physics",
+            "Psychology",
+            "Surveying and Mapping",
+            "Wildlife"
+          ]
+        }
+      ],
+      "accreditation": "New England Commission of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Joan Ferrini-Mundy"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "John Volin"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Orlina Boteva"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2021-2022",
+        "Staff Full Time Total:": "799",
+        "Students Statistics Year:": "2021-2022",
+        "Students Total:": "12657"
+      },
+      "history": "Founded 1865 as State College of Agriculture and Mechanic Arts, acquired present title 1897. The University of Maine System has Campuses in: Augusta, Farmington, Fort Kent, Machias, Orono, Presque Isle, and Portland/Gorham (University of Southern Maine)",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20264",
+      "iau_id": "IAU-020260-020264",
+      "name": "University of Maine – University of Maine at Machias",
+      "alt_name": "UMaine Machias (UMM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BSLUMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020260-020264",
+      "address": {
+        "Street": "116 O’Brien Avenue",
+        "City": "Machias",
+        "Province": "Maine",
+        "Post Code": "04654",
+        "WWW": "https://machias.edu"
+      },
+      "website": "https://machias.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1909,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Arts and Letters",
+          "fields": [
+            "Arts and Humanities"
+          ]
+        },
+        {
+          "name": "Department/Division : Environmental and Biological Sciences",
+          "fields": [
+            "Biological and Life Sciences",
+            "Environmental Studies"
+          ]
+        },
+        {
+          "name": "Department/Division : Professional Studies",
+          "fields": [
+            "Business Administration",
+            "Education",
+            "Law",
+            "Welfare and Protective Services"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Certificate or Diploma (Sub-Bachelor)",
+          "fields": [
+            "Biology",
+            "Business Administration",
+            "Education",
+            "Entrepreneurship",
+            "Fine Arts",
+            "Leadership",
+            "Marine Biology",
+            "Parks and Recreation",
+            "Psychology",
+            "Social and Community Services",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "Associate Degree",
+          "fields": [
+            "Biology",
+            "Business Administration",
+            "Education",
+            "Entrepreneurship",
+            "Fine Arts",
+            "Leadership",
+            "Marine Biology",
+            "Parks and Recreation",
+            "Psychology",
+            "Social and Community Services",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Biology",
+            "Business Administration",
+            "Education",
+            "Entrepreneurship",
+            "Fine Arts",
+            "Leadership",
+            "Marine Biology",
+            "Parks and Recreation",
+            "Psychology",
+            "Social and Community Services",
+            "Surveying and Mapping"
+          ]
+        }
+      ],
+      "accreditation": "New England Commission of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Megan Walsh"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2013-2014",
+        "Staff Full Time Total:": "32",
+        "Students Statistics Year:": "2013-2014",
+        "Students Total:": "892"
+      },
+      "history": "Founded 1909. within the University of Maine’s NECHE accreditation",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20261",
+      "iau_id": "IAU-020261",
+      "name": "University of Maine at Augusta",
+      "alt_name": "(UMA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BSLUMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020261",
+      "address": {
+        "Street": "46 University Drive",
+        "City": "Augusta",
+        "Province": "Maine",
+        "Post Code": "04330",
+        "WWW": "https://www.uma.edu"
+      },
+      "website": "https://www.uma.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1965,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "College : Arts and Sciences",
+          "fields": [
+            "Architecture",
+            "Arts and Humanities",
+            "Biology",
+            "English",
+            "Fine Arts",
+            "Jazz and Popular Music",
+            "Natural Sciences",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "College : Professional Studies",
+          "fields": [
+            "Business Administration",
+            "Computer Science",
+            "Dental Hygiene",
+            "Finance",
+            "Information Sciences",
+            "Information Technology",
+            "Laboratory Techniques",
+            "Law",
+            "Library Science",
+            "Medical Auxiliaries",
+            "Medical Technology",
+            "Nursing",
+            "Psychiatry and Mental Health",
+            "Public Administration",
+            "Social and Community Services",
+            "Veterinary Science"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Certificate or Diploma (Sub-Bachelor)",
+          "fields": [
+            "Accountancy",
+            "Air Transport",
+            "Architecture",
+            "Arts and Humanities",
+            "Biology",
+            "Communication Studies",
+            "Computer Science",
+            "Data Science",
+            "Dental Hygiene",
+            "English",
+            "Fine Arts",
+            "Information Sciences",
+            "Information Technology",
+            "Jazz and Popular Music",
+            "Library Science",
+            "Management",
+            "Nursing",
+            "Primary Education",
+            "Psychology",
+            "Public Administration",
+            "Secondary Education",
+            "Social and Community Services",
+            "Social Sciences",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Associate Degree",
+          "fields": [
+            "Accountancy",
+            "Air Transport",
+            "Architecture",
+            "Arts and Humanities",
+            "Biology",
+            "Communication Studies",
+            "Computer Science",
+            "Data Science",
+            "Dental Hygiene",
+            "English",
+            "Fine Arts",
+            "Information Sciences",
+            "Information Technology",
+            "Jazz and Popular Music",
+            "Library Science",
+            "Management",
+            "Nursing",
+            "Primary Education",
+            "Psychology",
+            "Public Administration",
+            "Secondary Education",
+            "Social and Community Services",
+            "Social Sciences",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Air Transport",
+            "Architecture",
+            "Arts and Humanities",
+            "Biology",
+            "Communication Studies",
+            "Computer Science",
+            "Data Science",
+            "Dental Hygiene",
+            "English",
+            "Fine Arts",
+            "Information Sciences",
+            "Information Technology",
+            "Jazz and Popular Music",
+            "Library Science",
+            "Management",
+            "Nursing",
+            "Primary Education",
+            "Psychology",
+            "Public Administration",
+            "Secondary Education",
+            "Social and Community Services",
+            "Social Sciences",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Post-bachelor's Diploma/Certificate",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Computer Science",
+            "Data Science",
+            "Information Technology",
+            "Law",
+            "Protective Services",
+            "Psychology",
+            "Public Administration",
+            "Social and Community Services"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Computer Science",
+            "Protective Services"
+          ]
+        }
+      ],
+      "accreditation": "New England Commission of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Joseph Szakas"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2021-2022",
+        "Staff Full Time Total:": "233",
+        "Students Statistics Year:": "2021-2022",
+        "Students Total:": "4422"
+      },
+      "history": "Founded 1965 as a community-based institution offering associate degrees under the auspices of the University of Maine (Orono), became an autonomous institution part of the University of Maine System 1971",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20262",
+      "iau_id": "IAU-020262",
+      "name": "University of Maine at Farmington",
+      "alt_name": "(UMF)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BSLUMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020262",
+      "address": {
+        "Street": "111 South Street",
+        "City": "Farmington",
+        "Province": "Maine",
+        "Post Code": "04938",
+        "WWW": "https://www.umf.maine.edu"
+      },
+      "website": "https://www.umf.maine.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1863,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Community Health Education, Recreation and Rehabilitation Services",
+          "fields": [
+            "Parks and Recreation",
+            "Rehabilitation and Therapy"
+          ]
+        },
+        {
+          "name": "Department/Division : Elementary, Early Childhood and Early Childhood Special Education",
+          "fields": [
+            "Preschool Education",
+            "Primary Education",
+            "Special Education"
+          ]
+        },
+        {
+          "name": "Department/Division : Humanities",
+          "fields": [
+            "Chinese",
+            "English",
+            "French",
+            "Philosophy",
+            "Religion",
+            "Spanish",
+            "Writing"
+          ]
+        },
+        {
+          "name": "Department/Division : Mathematics and Computer Science",
+          "fields": [
+            "Computer Science",
+            "Mathematics"
+          ]
+        },
+        {
+          "name": "Department/Division : Natural Sciences",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Environmental Studies",
+            "Geology",
+            "Natural Sciences",
+            "Physics",
+            "Science Education"
+          ]
+        },
+        {
+          "name": "Department/Division : Psychology and Human Development",
+          "fields": [
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Department/Division : Secondary Education and Special Education",
+          "fields": [
+            "Secondary Education",
+            "Special Education"
+          ]
+        },
+        {
+          "name": "Department/Division : Social Sciences and Business",
+          "fields": [
+            "Anthropology",
+            "Business Administration",
+            "Economics",
+            "History",
+            "Political Sciences",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Department/Division : The Arts",
+          "fields": [
+            "Fine Arts",
+            "Music",
+            "Performing Arts",
+            "Sound Engineering (Acoustics)",
+            "Theatre"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Certificate or Diploma (Sub-Bachelor)",
+          "fields": [
+            "Actuarial Science",
+            "Anthropology",
+            "Art Management",
+            "Arts and Humanities",
+            "Biology",
+            "Business Administration",
+            "Computer Science",
+            "Design",
+            "Earth Sciences",
+            "English",
+            "Environmental Studies",
+            "Foreign Languages Education",
+            "Geography (Human)",
+            "Health Education",
+            "History",
+            "Humanities and Social Science Education",
+            "Industrial and Organizational Psychology",
+            "International Studies",
+            "Mathematics",
+            "Mathematics Education",
+            "Media Studies",
+            "Music",
+            "Native Language Education",
+            "Parks and Recreation",
+            "Performing Arts",
+            "Physical Education",
+            "Political Sciences",
+            "Preschool Education",
+            "Primary Education",
+            "Psychology",
+            "Rehabilitation and Therapy",
+            "Science Education",
+            "Secondary Education",
+            "Special Education",
+            "Theatre",
+            "Visual Arts",
+            "Writing"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Actuarial Science",
+            "Anthropology",
+            "Art Management",
+            "Arts and Humanities",
+            "Biology",
+            "Business Administration",
+            "Computer Science",
+            "Design",
+            "Earth Sciences",
+            "English",
+            "Environmental Studies",
+            "Foreign Languages Education",
+            "Geography (Human)",
+            "Health Education",
+            "History",
+            "Humanities and Social Science Education",
+            "Industrial and Organizational Psychology",
+            "International Studies",
+            "Mathematics",
+            "Mathematics Education",
+            "Media Studies",
+            "Music",
+            "Native Language Education",
+            "Parks and Recreation",
+            "Performing Arts",
+            "Physical Education",
+            "Political Sciences",
+            "Preschool Education",
+            "Primary Education",
+            "Psychology",
+            "Rehabilitation and Therapy",
+            "Science Education",
+            "Secondary Education",
+            "Special Education",
+            "Theatre",
+            "Visual Arts",
+            "Writing"
+          ]
+        },
+        {
+          "name": "Post-bachelor's Diploma/Certificate",
+          "fields": [
+            "Administration",
+            "Education of the Gifted",
+            "Educational Administration",
+            "Leadership",
+            "Mathematics Education",
+            "Native Language Education",
+            "Primary Education",
+            "Secondary Education",
+            "Special Education",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Educational Administration",
+            "Leadership",
+            "Mathematics Education",
+            "Preschool Education",
+            "Psychology",
+            "Special Education"
+          ]
+        }
+      ],
+      "accreditation": "New England Commission of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Joseph McDonnell"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Linda Beck"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2021-2022",
+        "Staff Full Time Total:": "174",
+        "Students Statistics Year:": "2021-2022",
+        "Students Total:": "1878"
+      },
+      "history": "Founded 1863 as a Normal School, merged into the University of Maine System 1968, acquired current status and title 1971",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20263",
+      "iau_id": "IAU-020263",
+      "name": "University of Maine at Fort Kent",
+      "alt_name": "(UMFK)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BSLUMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020263",
+      "address": {
+        "Street": "23 University Drive",
+        "City": "Fort Kent",
+        "Province": "Maine",
+        "Post Code": "04743",
+        "WWW": "https://www.umfk.edu"
+      },
+      "website": "https://www.umfk.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1878,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Behavioral Sciences",
+          "fields": [
+            "Behavioural Sciences",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Department/Division : Humanities and Professional Studies",
+          "fields": [
+            "Arts and Humanities",
+            "Business Administration",
+            "Criminology",
+            "Mathematics and Computer Science",
+            "Writing"
+          ]
+        },
+        {
+          "name": "Department/Division : Natural Sciences",
+          "fields": [
+            "Environmental Studies",
+            "Forestry",
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "Department/Division : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Certificate or Diploma (Sub-Bachelor)",
+          "fields": [
+            "Arctic Studies",
+            "Arts and Humanities",
+            "Behavioural Sciences",
+            "Biology",
+            "Business Administration",
+            "Criminology",
+            "Education",
+            "English",
+            "Environmental Studies",
+            "Health Sciences",
+            "History",
+            "Management",
+            "Natural Sciences",
+            "Nursing",
+            "Political Sciences",
+            "Surveying and Mapping",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Associate Degree",
+          "fields": [
+            "Arctic Studies",
+            "Arts and Humanities",
+            "Behavioural Sciences",
+            "Biology",
+            "Business Administration",
+            "Criminology",
+            "Education",
+            "English",
+            "Environmental Studies",
+            "Health Sciences",
+            "History",
+            "Management",
+            "Natural Sciences",
+            "Nursing",
+            "Political Sciences",
+            "Surveying and Mapping",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Arctic Studies",
+            "Arts and Humanities",
+            "Behavioural Sciences",
+            "Biology",
+            "Business Administration",
+            "Criminology",
+            "Education",
+            "English",
+            "Environmental Studies",
+            "Health Sciences",
+            "History",
+            "Management",
+            "Natural Sciences",
+            "Nursing",
+            "Political Sciences",
+            "Surveying and Mapping",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Nursing"
+          ]
+        }
+      ],
+      "accreditation": "New England Commission of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Deborah Hedeen"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2021-2022",
+        "Staff Full Time Total:": "78",
+        "Students Statistics Year:": "2021-2022",
+        "Students Total:": "1517"
+      },
+      "history": "Founded 1878 as the Madawaska Training School",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20265",
+      "iau_id": "IAU-020265",
+      "name": "University of Maine at Presque Isle",
+      "alt_name": "(UMPI)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BSLUM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020265",
+      "address": {
+        "Street": "181 Main Street",
+        "City": "Presque Isle",
+        "Province": "Maine",
+        "Post Code": "04769",
+        "WWW": "https://www.umpi.edu"
+      },
+      "website": "https://www.umpi.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1903,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "College : Arts and Sciences",
+          "fields": [
+            "Agriculture",
+            "Art Education",
+            "Biology",
+            "English",
+            "Environmental Studies",
+            "Film",
+            "Fine Arts",
+            "History",
+            "Journalism",
+            "Laboratory Techniques",
+            "Mass Communication",
+            "Mathematics",
+            "Medical Technology",
+            "Natural Resources",
+            "Political Sciences",
+            "Psychology",
+            "Writing"
+          ]
+        },
+        {
+          "name": "College : Professional Programmes and Education",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Criminal Law",
+            "Education",
+            "Information Technology",
+            "Leadership",
+            "Management",
+            "Parks and Recreation",
+            "Physical Education",
+            "Physical Therapy",
+            "Social Work",
+            "Sports"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Certificate or Diploma (Sub-Bachelor)",
+          "fields": [
+            "Accountancy",
+            "Agricultural Business",
+            "Agriculture",
+            "Art Education",
+            "Arts and Humanities",
+            "Biology",
+            "Business Administration",
+            "Communication Studies",
+            "Computer Science",
+            "Criminology",
+            "Data Science",
+            "Ecology",
+            "English",
+            "Environmental Studies",
+            "Fine Arts",
+            "Health Administration",
+            "Health Sciences",
+            "History",
+            "Humanities and Social Science Education",
+            "Information Technology",
+            "Journalism",
+            "Leadership",
+            "Management",
+            "Mathematics",
+            "Mathematics Education",
+            "Native Language Education",
+            "Natural Resources",
+            "Natural Sciences",
+            "Nursing",
+            "Parks and Recreation",
+            "Physical Education",
+            "Political Sciences",
+            "Preschool Education",
+            "Primary Education",
+            "Psychology",
+            "Science Education",
+            "Secondary Education",
+            "Social Work",
+            "Software Engineering",
+            "Special Education",
+            "Sports",
+            "Sustainable Development",
+            "Teacher Training",
+            "Writing"
+          ]
+        },
+        {
+          "name": "Associate Degree",
+          "fields": [
+            "Accountancy",
+            "Agricultural Business",
+            "Agriculture",
+            "Art Education",
+            "Arts and Humanities",
+            "Biology",
+            "Business Administration",
+            "Communication Studies",
+            "Computer Science",
+            "Criminology",
+            "Data Science",
+            "Ecology",
+            "English",
+            "Environmental Studies",
+            "Fine Arts",
+            "Health Administration",
+            "Health Sciences",
+            "History",
+            "Humanities and Social Science Education",
+            "Information Technology",
+            "Journalism",
+            "Leadership",
+            "Management",
+            "Mathematics",
+            "Mathematics Education",
+            "Native Language Education",
+            "Natural Resources",
+            "Natural Sciences",
+            "Nursing",
+            "Parks and Recreation",
+            "Physical Education",
+            "Political Sciences",
+            "Preschool Education",
+            "Primary Education",
+            "Psychology",
+            "Science Education",
+            "Secondary Education",
+            "Social Work",
+            "Software Engineering",
+            "Special Education",
+            "Sports",
+            "Sustainable Development",
+            "Teacher Training",
+            "Writing"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Agricultural Business",
+            "Agriculture",
+            "Art Education",
+            "Arts and Humanities",
+            "Biology",
+            "Business Administration",
+            "Communication Studies",
+            "Computer Science",
+            "Criminology",
+            "Data Science",
+            "Ecology",
+            "English",
+            "Environmental Studies",
+            "Fine Arts",
+            "Health Administration",
+            "Health Sciences",
+            "History",
+            "Humanities and Social Science Education",
+            "Information Technology",
+            "Journalism",
+            "Leadership",
+            "Management",
+            "Mathematics",
+            "Mathematics Education",
+            "Native Language Education",
+            "Natural Resources",
+            "Natural Sciences",
+            "Nursing",
+            "Parks and Recreation",
+            "Physical Education",
+            "Political Sciences",
+            "Preschool Education",
+            "Primary Education",
+            "Psychology",
+            "Science Education",
+            "Secondary Education",
+            "Social Work",
+            "Software Engineering",
+            "Special Education",
+            "Sports",
+            "Sustainable Development",
+            "Teacher Training",
+            "Writing"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Leadership"
+          ]
+        }
+      ],
+      "accreditation": "New England Commission of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Raymond J. Rice"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Heather Mazorow"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2021-2022",
+        "Staff Full Time Total:": "77",
+        "Students Statistics Year:": "2021-2022",
+        "Students Total:": "1590"
+      },
+      "history": "Founded 1903",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20330",
+      "iau_id": "IAU-020330",
+      "name": "University of New England",
+      "alt_name": "(UNE)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BTLFNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020330",
+      "address": {
+        "Street": "11, Hillsbeach Road",
+        "City": "Biddeford",
+        "Province": "Maine",
+        "Post Code": "04005",
+        "WWW": "https://www.une.edu"
+      },
+      "website": "https://www.une.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1831,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "September to May",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : Portland, Maine",
+          "fields": [
+            "Occupational Therapy"
+          ]
+        },
+        {
+          "name": "Campus : Tangier, Morocco",
+          "fields": [
+            "Occupational Therapy"
+          ]
+        },
+        {
+          "name": "College : Arts and Sciences",
+          "fields": [
+            "Animal Husbandry",
+            "Applied Mathematics",
+            "Aquaculture",
+            "Art Education",
+            "Arts and Humanities",
+            "Biochemistry",
+            "Biological and Life Sciences",
+            "Biomedicine",
+            "Business Administration",
+            "Chemistry",
+            "Communication Studies",
+            "Cultural Studies",
+            "Curriculum",
+            "Design",
+            "Education",
+            "Educational Administration",
+            "English",
+            "Environmental Studies",
+            "Fine Arts",
+            "History",
+            "Humanities and Social Science Education",
+            "Laboratory Techniques",
+            "Marine Biology",
+            "Marine Science and Oceanography",
+            "Mathematics Education",
+            "Medical Auxiliaries",
+            "Native Language Education",
+            "Neurosciences",
+            "Parks and Recreation",
+            "Political Sciences",
+            "Primary Education",
+            "Psychology",
+            "Science Education",
+            "Secondary Education",
+            "Social Sciences",
+            "Sociology",
+            "Sports",
+            "Teacher Training",
+            "Technology Education",
+            "Vocational Education"
+          ]
+        },
+        {
+          "name": "College : Business",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "College : Dental Medicine",
+          "fields": [
+            "Dentistry"
+          ]
+        },
+        {
+          "name": "College : Health Professions",
+          "fields": [
+            "Anaesthesiology",
+            "Dental Hygiene",
+            "Health Sciences",
+            "Management",
+            "Medical Auxiliaries",
+            "Nursing",
+            "Occupational Therapy",
+            "Physical Education",
+            "Physical Therapy",
+            "Public Health",
+            "Social Work",
+            "Sports"
+          ]
+        },
+        {
+          "name": "College : Osteopathic Medicine",
+          "fields": [
+            "Educational Administration",
+            "Health Education",
+            "Leadership",
+            "Osteopathy"
+          ]
+        },
+        {
+          "name": "College : Professional Studies (UNE Online)",
+          "fields": [
+            "Education",
+            "Health Administration",
+            "Health Sciences",
+            "Nutrition",
+            "Protective Services",
+            "Public Health",
+            "Social Work",
+            "Technology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Animal Husbandry",
+            "Applied Mathematics",
+            "Aquaculture",
+            "Art Education",
+            "Arts and Humanities",
+            "Biochemistry",
+            "Biological and Life Sciences",
+            "Biology",
+            "Business Administration",
+            "Chemistry",
+            "Communication Arts",
+            "Communication Studies",
+            "Criminology",
+            "Cultural Studies",
+            "Data Science",
+            "Dental Hygiene",
+            "Design",
+            "Ecology",
+            "Educational Sciences",
+            "English",
+            "Entrepreneurship",
+            "Environmental Studies",
+            "Fine Arts",
+            "Health Sciences",
+            "History",
+            "International Studies",
+            "Laboratory Techniques",
+            "Marine Science and Oceanography",
+            "Neurosciences",
+            "Nursing",
+            "Nutrition",
+            "Occupational Health",
+            "Parks and Recreation",
+            "Political Sciences",
+            "Primary Education",
+            "Psychology",
+            "Public Health",
+            "Secondary Education",
+            "Social Sciences",
+            "Social Work",
+            "Sociology",
+            "Special Education",
+            "Sports",
+            "Sports Management",
+            "Sustainable Development"
+          ]
+        },
+        {
+          "name": "Post-bachelor's Diploma/Certificate",
+          "fields": [
+            "Data Science",
+            "Educational Sciences",
+            "Health Administration",
+            "Protective Services",
+            "Public Health",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Anaesthesiology",
+            "Biological and Life Sciences",
+            "Education",
+            "Educational Administration",
+            "Environmental Studies",
+            "Food Science",
+            "Health Administration",
+            "Leadership",
+            "Literacy Education",
+            "Marine Science and Oceanography",
+            "Medical Auxiliaries",
+            "Nursing",
+            "Nutrition",
+            "Occupational Therapy",
+            "Protective Services",
+            "Public Health",
+            "Social Work",
+            "Sports"
+          ]
+        },
+        {
+          "name": "Certificate of Advanced Study",
+          "fields": [
+            "Education",
+            "Educational Administration",
+            "Leadership"
+          ]
+        },
+        {
+          "name": "Doctor's Degrees (Professional Practice)",
+          "fields": [
+            "Anaesthesiology",
+            "Dentistry",
+            "Education",
+            "Nursing",
+            "Osteopathy",
+            "Pharmacy",
+            "Physical Therapy"
+          ]
+        }
+      ],
+      "accreditation": "New England Commission of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "James D. Herbert"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Gwendolyn Mahon"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Debra Leahy"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2021-2022",
+        "Staff Full Time Total:": "519",
+        "Students Statistics Year:": "2021-2022",
+        "Students Total:": "6642"
+      },
+      "history": "Founded 1831",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20508",
+      "iau_id": "IAU-020508",
+      "name": "University of Southern Maine",
+      "alt_name": "(USM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BVLCNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020508",
+      "address": {
+        "Street": "P.O. Box 9300",
+        "City": "Portland",
+        "Province": "Maine",
+        "Post Code": "04104",
+        "WWW": "https://usm.maine.edu"
+      },
+      "website": "https://usm.maine.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1878,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to May. Also Summer Session (May-August)",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "College : Arts, Humanities, and Social Sciences",
+          "fields": [
+            "American Studies",
+            "Arts and Humanities",
+            "Classical Languages",
+            "Criminology",
+            "Economics",
+            "English",
+            "Fine Arts",
+            "French",
+            "History",
+            "Literature",
+            "Mass Communication",
+            "Media Studies",
+            "Modern Languages",
+            "Music",
+            "Philosophy",
+            "Sociology",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "College : Management and Human Service",
+          "fields": [
+            "Business Administration",
+            "Development Studies",
+            "Education",
+            "Public Administration",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "College : Science, Technology and Health",
+          "fields": [
+            "Biological and Life Sciences",
+            "Chemistry",
+            "Computer Science",
+            "Earth Sciences",
+            "Engineering",
+            "Environmental Studies",
+            "Health Sciences",
+            "Leisure Studies",
+            "Linguistics",
+            "Mathematics",
+            "Medicine",
+            "Nursing",
+            "Parks and Recreation",
+            "Physical Education",
+            "Physical Therapy",
+            "Physics",
+            "Psychology",
+            "Sports",
+            "Statistics",
+            "Technology"
+          ]
+        },
+        {
+          "name": "School : Education and Human Development",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "School : Music",
+          "fields": [
+            "Music"
+          ]
+        },
+        {
+          "name": "School : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "School : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Associate Degree",
+          "fields": [
+            "Accountancy",
+            "Anthropology",
+            "Applied Mathematics",
+            "Art Education",
+            "Art History",
+            "Arts and Humanities",
+            "Behavioural Sciences",
+            "Biochemistry",
+            "Biology",
+            "Biotechnology",
+            "Business Administration",
+            "Chemistry",
+            "Communication Studies",
+            "Computer Engineering",
+            "Computer Science",
+            "Criminology",
+            "Economics",
+            "Electrical Engineering",
+            "English",
+            "Entrepreneurship",
+            "Environmental Studies",
+            "Finance",
+            "Fine Arts",
+            "Foreign Languages Education",
+            "French",
+            "Gender Studies",
+            "Geography (Human)",
+            "Health Sciences",
+            "Heritage Preservation",
+            "History",
+            "Hotel and Restaurant",
+            "Humanities and Social Science Education",
+            "Industrial Engineering",
+            "Information Technology",
+            "Jazz and Popular Music",
+            "Leadership",
+            "Leisure Studies",
+            "Linguistics",
+            "Management",
+            "Marketing",
+            "Mathematics",
+            "Mathematics Education",
+            "Mechanical Engineering",
+            "Media Studies",
+            "Music",
+            "Music Education",
+            "Music Theory and Composition",
+            "Musical Instruments",
+            "Native Language Education",
+            "Natural Sciences",
+            "Nursing",
+            "Operations Research",
+            "Parks and Recreation",
+            "Philosophy",
+            "Physics",
+            "Political Sciences",
+            "Primary Education",
+            "Psychology",
+            "Public Health",
+            "Rehabilitation and Therapy",
+            "Science Education",
+            "Secondary Education",
+            "Social Sciences",
+            "Social Studies",
+            "Social Work",
+            "Sociology",
+            "Spanish",
+            "Speech Studies",
+            "Sports",
+            "Sports Management",
+            "Statistics",
+            "Surveying and Mapping",
+            "Sustainable Development",
+            "Technology Education",
+            "Theatre",
+            "Tourism",
+            "Translation and Interpretation",
+            "Women's Studies"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Anthropology",
+            "Applied Mathematics",
+            "Art Education",
+            "Art History",
+            "Arts and Humanities",
+            "Behavioural Sciences",
+            "Biochemistry",
+            "Biology",
+            "Biotechnology",
+            "Business Administration",
+            "Chemistry",
+            "Communication Studies",
+            "Computer Engineering",
+            "Computer Science",
+            "Criminology",
+            "Economics",
+            "Electrical Engineering",
+            "English",
+            "Entrepreneurship",
+            "Environmental Studies",
+            "Finance",
+            "Fine Arts",
+            "Foreign Languages Education",
+            "French",
+            "Gender Studies",
+            "Geography (Human)",
+            "Health Sciences",
+            "Heritage Preservation",
+            "History",
+            "Hotel and Restaurant",
+            "Humanities and Social Science Education",
+            "Industrial Engineering",
+            "Information Technology",
+            "Jazz and Popular Music",
+            "Leadership",
+            "Leisure Studies",
+            "Linguistics",
+            "Management",
+            "Marketing",
+            "Mathematics",
+            "Mathematics Education",
+            "Mechanical Engineering",
+            "Media Studies",
+            "Music",
+            "Music Education",
+            "Music Theory and Composition",
+            "Musical Instruments",
+            "Native Language Education",
+            "Natural Sciences",
+            "Nursing",
+            "Operations Research",
+            "Parks and Recreation",
+            "Philosophy",
+            "Physics",
+            "Political Sciences",
+            "Primary Education",
+            "Psychology",
+            "Public Health",
+            "Rehabilitation and Therapy",
+            "Science Education",
+            "Secondary Education",
+            "Social Sciences",
+            "Social Studies",
+            "Social Work",
+            "Sociology",
+            "Spanish",
+            "Speech Studies",
+            "Sports",
+            "Sports Management",
+            "Statistics",
+            "Surveying and Mapping",
+            "Sustainable Development",
+            "Technology Education",
+            "Theatre",
+            "Tourism",
+            "Translation and Interpretation",
+            "Women's Studies"
+          ]
+        },
+        {
+          "name": "Post-bachelor's Diploma/Certificate",
+          "fields": [
+            "Behavioural Sciences",
+            "Computer Science",
+            "Data Science",
+            "Development Studies",
+            "Education",
+            "Education of the Gifted",
+            "Educational Administration",
+            "Educational Testing and Evaluation",
+            "Food Science",
+            "Foreign Languages Education",
+            "Health Sciences",
+            "Humanities and Social Science Education",
+            "Leadership",
+            "Literacy Education",
+            "Management",
+            "Political Sciences",
+            "Public Health",
+            "Rehabilitation and Therapy",
+            "Statistics",
+            "Surveying and Mapping",
+            "Sustainable Development",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Adult Education",
+            "Applied Mathematics",
+            "Behavioural Sciences",
+            "Biology",
+            "Clinical Psychology",
+            "Computer Science",
+            "Conducting",
+            "Data Science",
+            "Educational Administration",
+            "Educational Psychology",
+            "Foreign Languages Education",
+            "Government",
+            "Health Administration",
+            "Health Education",
+            "Higher Education",
+            "Jazz and Popular Music",
+            "Leadership",
+            "Literacy Education",
+            "Management",
+            "Music",
+            "Music Education",
+            "Music Theory and Composition",
+            "Musical Instruments",
+            "Nursing",
+            "Occupational Therapy",
+            "Operations Research",
+            "Psychiatry and Mental Health",
+            "Psychology",
+            "Public Health",
+            "Rehabilitation and Therapy",
+            "Social Work",
+            "Special Education",
+            "Sports",
+            "Statistics",
+            "Teacher Training",
+            "Writing"
+          ]
+        },
+        {
+          "name": "Certificate of Advanced Study",
+          "fields": [
+            "Adult Education",
+            "Educational Administration",
+            "Educational and Student Counselling",
+            "Foreign Languages Education",
+            "Leadership",
+            "Literacy Education",
+            "Nursing",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Doctor's Degrees (Professional Practice)",
+          "fields": [
+            "Educational Psychology",
+            "Nursing",
+            "Occupational Therapy"
+          ]
+        },
+        {
+          "name": "Doctor's Degree (Research/Scholarship)",
+          "fields": [
+            "Educational Administration",
+            "Government",
+            "Leadership"
+          ]
+        }
+      ],
+      "accreditation": "New England Commission of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Jacqueline Edmondson"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Georita M. Frierson"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Kimberly B. Sinclair"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2021-2022",
+        "Staff Full Time Total:": "800",
+        "Students Statistics Year:": "2021-2022",
+        "Students Total:": "7996"
+      },
+      "history": "Founded 1878. Part of the University of Maine System",
+      "periodicals": [
+        "Maine Law Review",
+        "Maine Law Review"
+      ],
+      "student_body": "co-ed"
+    }
+  ]
+}

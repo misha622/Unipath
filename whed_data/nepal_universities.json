@@ -1,0 +1,1845 @@
+{
+  "country_name": "Nepal",
+  "country_id": "Nepal",
+  "institutions": [
+    {
+      "id": "25280",
+      "iau_id": "IAU-025280",
+      "name": "Agriculture and Forestry University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRSLiNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025280",
+      "address": {
+        "Street": "Central Administrative BuildingPO Box 8212Kirtipur",
+        "City": "Kathmandu",
+        "Province": "Bagmati",
+        "WWW": "https://tu.edu.np"
+      },
+      "website": "https://tu.edu.np",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1959,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "July to July",
+      "languages": [
+        "English",
+        "Nepali"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Education",
+            "Educational Technology",
+            "English",
+            "Indic Languages",
+            "Social Studies",
+            "Vocational Education"
+          ]
+        },
+        {
+          "name": "Faculty : Humanities and Social Sciences",
+          "fields": [
+            "Anthropology",
+            "Arts and Humanities",
+            "Cultural Studies",
+            "Dance",
+            "Demography and Population",
+            "Economics",
+            "English",
+            "Fine Arts",
+            "Geography",
+            "Hindi",
+            "History",
+            "Home Economics",
+            "Indic Languages",
+            "Journalism",
+            "Linguistics",
+            "Mathematics",
+            "Military Science",
+            "Music",
+            "Peace and Disarmament",
+            "Philosophy",
+            "Political Sciences",
+            "Psychology",
+            "Rural Studies",
+            "Sanskrit",
+            "Social Sciences",
+            "Social Work",
+            "Sociology",
+            "Statistics",
+            "Urdu",
+            "Women's Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Management",
+          "fields": [
+            "Business and Commerce",
+            "Hotel Management",
+            "Management",
+            "Public Administration",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Institute : Agriculture and Animal Science",
+          "fields": [
+            "Agriculture",
+            "Animal Husbandry",
+            "Horticulture",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Institute : Engineering",
+          "fields": [
+            "Architecture",
+            "Civil Engineering",
+            "Construction Engineering",
+            "Electrical and Electronic Engineering",
+            "Engineering",
+            "Environmental Engineering",
+            "Heating and Refrigeration",
+            "Mechanical Engineering",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "Institute : Forestry",
+          "fields": [
+            "Forest Biology",
+            "Forest Management",
+            "Forest Products",
+            "Forestry",
+            "Soil Conservation",
+            "Water Management"
+          ]
+        },
+        {
+          "name": "Institute : Medicine",
+          "fields": [
+            "Medicine",
+            "Nursing",
+            "Ophthalmology",
+            "Paediatrics",
+            "Pathology",
+            "Pharmacy",
+            "Psychiatry and Mental Health",
+            "Radiology",
+            "Surgery"
+          ]
+        },
+        {
+          "name": "Institute : Science and Technology",
+          "fields": [
+            "Biology",
+            "Botany",
+            "Chemistry",
+            "Computer Science",
+            "Environmental Studies",
+            "Food Technology",
+            "Geology",
+            "Mathematics",
+            "Meteorology",
+            "Microbiology",
+            "Natural Sciences",
+            "Physics",
+            "Statistics",
+            "Technology",
+            "Zoology"
+          ]
+        },
+        {
+          "name": "Research Division : Applied Science and Technology",
+          "fields": [
+            "Natural Sciences",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Research Division : Economic Development and Administration",
+          "fields": [
+            "Administration",
+            "Economics"
+          ]
+        },
+        {
+          "name": "Research Division : Educational Innovation and Development",
+          "fields": [
+            "Development Studies",
+            "Educational Research"
+          ]
+        },
+        {
+          "name": "Research Division : Nepalese and Asian Studies",
+          "fields": [
+            "Asian Studies",
+            "Cultural Studies"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Agriculture",
+            "Ayurvedic Medicine",
+            "Business Administration",
+            "Business and Commerce",
+            "Computer Science",
+            "Education",
+            "Engineering",
+            "Forestry",
+            "Hotel Management",
+            "Information Management",
+            "Law",
+            "Linguistics",
+            "Mathematics",
+            "Medicine",
+            "Nursing",
+            "Pharmacy",
+            "Public Administration",
+            "Rural Studies",
+            "Speech Therapy and Audiology",
+            "Tourism",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Postgraduate Diploma",
+          "fields": [
+            "Demography and Population",
+            "Library Science",
+            "Police Studies",
+            "Psychology",
+            "Women's Studies"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Agriculture",
+            "Animal Husbandry",
+            "Aquaculture",
+            "Ayurvedic Medicine",
+            "Biotechnology",
+            "Botany",
+            "Business Administration",
+            "Business and Commerce",
+            "Chemistry",
+            "Computer Education",
+            "Computer Science",
+            "Demography and Population",
+            "Development Studies",
+            "Economics",
+            "Education",
+            "Engineering",
+            "Environmental Management",
+            "Environmental Studies",
+            "Finance",
+            "Folklore",
+            "Foreign Languages Education",
+            "Forestry",
+            "Geography",
+            "Geological Engineering",
+            "Geology",
+            "Hotel Management",
+            "Information Technology",
+            "International Relations and Diplomacy",
+            "Law",
+            "Linguistics",
+            "Management",
+            "Mathematics",
+            "Medicine",
+            "Meteorology",
+            "Microbiology",
+            "Music",
+            "Native Language Education",
+            "Natural Resources",
+            "Nursing",
+            "Painting and Drawing",
+            "Physics",
+            "Police Studies",
+            "Political Sciences",
+            "Psychology",
+            "Public Administration",
+            "Public Health",
+            "Rural Studies",
+            "Science Education",
+            "Sculpture",
+            "Social Work",
+            "Special Education",
+            "Sports",
+            "Statistics",
+            "Tourism",
+            "Veterinary Science",
+            "Water Management",
+            "Zoology"
+          ]
+        },
+        {
+          "name": "Master of Philosophy",
+          "fields": [
+            "Curriculum",
+            "Demography and Population",
+            "Economics",
+            "Educational Administration",
+            "English",
+            "Finance",
+            "Management",
+            "Mathematics",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "Doctor's Degree",
+          "fields": [
+            "Agriculture",
+            "Anthropology",
+            "Arts and Humanities",
+            "Biotechnology",
+            "Botany",
+            "Chemistry",
+            "Demography and Population",
+            "Economics",
+            "Education",
+            "Educational Sciences",
+            "Engineering",
+            "English",
+            "Fine Arts",
+            "Forestry",
+            "Geography",
+            "Law",
+            "Linguistics",
+            "Management",
+            "Mathematics",
+            "Microbiology",
+            "Music",
+            "Native Language",
+            "Nursing",
+            "Physics",
+            "Political Sciences",
+            "Public Health",
+            "Rural Studies",
+            "Sociology",
+            "Statistics"
+          ]
+        }
+      ],
+      "accreditation": "University Grants Commission (UGC)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Keshar Jung Baral"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "K.C. Khadga"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Kedar Prasad Rijal"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Bhupa Prasad Dhamala"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1959 as a teaching and affiliated University with a National Institute of Higher Education. Reorganized 1971 and 1993. An autonomous institution financed by the State.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "1345",
+      "iau_id": "IAU-001345",
+      "name": "B.P. Koirala Institute of Health Sciences",
+      "alt_name": "(BPKIHS)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sMyxULTBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-001345",
+      "address": {
+        "City": "Rampur",
+        "Province": "Chitwan",
+        "WWW": "http://www.afu.edu.np"
+      },
+      "website": "http://www.afu.edu.np",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [],
+      "faculties": [
+        {
+          "name": "Faculty : Agriculture",
+          "fields": [
+            "Agricultural Business",
+            "Agricultural Economics",
+            "Agricultural Engineering",
+            "Agricultural Management",
+            "Agriculture",
+            "Agronomy",
+            "Biotechnology",
+            "Botany",
+            "Development Studies",
+            "Entomology",
+            "Genetics",
+            "Horticulture",
+            "Natural Resources",
+            "Plant Pathology",
+            "Soil Science"
+          ]
+        },
+        {
+          "name": "Faculty : Animal Science, Veterinary Science and Fisheries",
+          "fields": [
+            "Animal Husbandry",
+            "Aquaculture",
+            "Biotechnology",
+            "Fishery",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Faculty : Forestry",
+          "fields": [
+            "Forest Products",
+            "Forestry",
+            "Natural Resources",
+            "Soil Science",
+            "Water Management",
+            "Wildlife"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Agriculture",
+            "Animal Husbandry",
+            "Fishery",
+            "Forestry",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Agriculture",
+            "Animal Husbandry",
+            "Food Science",
+            "Forestry",
+            "Microbiology",
+            "Pharmacology",
+            "Plant Pathology",
+            "Soil Science"
+          ]
+        },
+        {
+          "name": "Doctor's Degree",
+          "fields": [
+            "Agricultural Economics",
+            "Agriculture",
+            "Agronomy",
+            "Animal Husbandry",
+            "Entomology",
+            "Fishery",
+            "Horticulture",
+            "Veterinary Science"
+          ]
+        }
+      ],
+      "accreditation": "University Grants Commission (UGC)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Sharada Thapaliya"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Mana Raj Kolakshyapati"
+        }
+      ],
+      "statistics": {},
+      "history": "Created 2010",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "25281",
+      "iau_id": "IAU-025281",
+      "name": "Far Western University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRSLiMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025281",
+      "address": {
+        "Street": "PO Box 7053",
+        "City": "Dharan",
+        "WWW": "http://www.bpkihs.edu"
+      },
+      "website": "http://www.bpkihs.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Nepali",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "College : Dental Surgery",
+          "fields": [
+            "Dentistry",
+            "Forensic Medicine and Dentistry",
+            "Oral Pathology",
+            "Orthodontics",
+            "Periodontics"
+          ]
+        },
+        {
+          "name": "College : Medicine",
+          "fields": [
+            "Anaesthesiology",
+            "Anatomy",
+            "Biochemistry",
+            "Community Health",
+            "Dermatology",
+            "Forensic Medicine and Dentistry",
+            "Medicine",
+            "Microbiology",
+            "Obstetrics and Gynaecology",
+            "Ophthalmology",
+            "Orthopaedics",
+            "Otorhinolaryngology",
+            "Paediatrics",
+            "Pathology",
+            "Pharmacology",
+            "Physiology",
+            "Psychiatry and Mental Health",
+            "Radiology",
+            "Surgery"
+          ]
+        },
+        {
+          "name": "College : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "School : Public Health",
+          "fields": [
+            "Public Health"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Dentistry",
+            "Medicine",
+            "Nursing",
+            "Surgery"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Anaesthesiology",
+            "Dentistry",
+            "Dermatology",
+            "Medicine",
+            "Nursing",
+            "Orthopaedics",
+            "Otorhinolaryngology",
+            "Paediatrics",
+            "Pharmacology",
+            "Psychiatry and Mental Health",
+            "Public Health",
+            "Radiology",
+            "Surgery",
+            "Venereology"
+          ]
+        },
+        {
+          "name": "Master of Philosophy",
+          "fields": [
+            "Biological and Life Sciences",
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Doctor's Degree",
+          "fields": [
+            "Biological and Life Sciences",
+            "Medicine"
+          ]
+        }
+      ],
+      "accreditation": "University Grants Commission (UGC); Nepal Medical Council",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Raj Kumar Rauniyar"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Guru Prasad Khanal"
+        }
+      ],
+      "statistics": {},
+      "history": "Created 1993 and became an autonomous health sciences university in 1998",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "10168",
+      "iau_id": "IAU-010168",
+      "name": "Kathmandu University",
+      "alt_name": "Kathmandu Vishwavidalaya (KU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM2BRLUNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-010168",
+      "address": {
+        "City": "Mahendranagar",
+        "Province": "Kanchanpur",
+        "WWW": "http://farwesternuniversity.edu.np"
+      },
+      "website": "http://farwesternuniversity.edu.np",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [],
+      "faculties": [
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Civil Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Humanities and Social Sciences",
+          "fields": [
+            "Arts and Humanities",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Management",
+          "fields": [
+            "Business and Commerce",
+            "Management"
+          ]
+        },
+        {
+          "name": "Faculty : Science and Technology",
+          "fields": [
+            "Computer Science",
+            "Information Technology",
+            "Natural Sciences"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Arts and Humanities",
+            "Business Administration",
+            "Civil Engineering",
+            "Computer Science",
+            "Education",
+            "Information Technology",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Arts and Humanities",
+            "Business Administration",
+            "Education",
+            "Social Sciences"
+          ]
+        }
+      ],
+      "accreditation": "University Grants Commission (UGC)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Bhusan Shrestha"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Dwij Raj Bhatta"
+        }
+      ],
+      "statistics": {},
+      "history": "Created 2010",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "22202",
+      "iau_id": "IAU-022202",
+      "name": "Lumbini Buddhist University",
+      "alt_name": "Lumbini Bauddha Vishwavidyalaya",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyhSLCMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-022202",
+      "address": {
+        "Street": "PO Box 6250",
+        "City": "Dhulikhel",
+        "Province": "Kabhre",
+        "WWW": "http://www.ku.edu.np"
+      },
+      "website": "http://www.ku.edu.np",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1991,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "August to June",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "School : Arts",
+          "fields": [
+            "Design",
+            "Development Studies",
+            "Fine Arts",
+            "Media Studies",
+            "Music"
+          ]
+        },
+        {
+          "name": "School : Education",
+          "fields": [
+            "Education",
+            "Educational Administration",
+            "Mathematics Education",
+            "Primary Education"
+          ]
+        },
+        {
+          "name": "School : Engineering",
+          "fields": [
+            "Civil Engineering",
+            "Computer Engineering",
+            "Electrical and Electronic Engineering",
+            "Information Technology",
+            "Mechanical Engineering",
+            "Power Engineering",
+            "Surveying and Mapping",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "School : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "School : Management",
+          "fields": [
+            "Business Administration",
+            "Management",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "School : Medical Sciences",
+          "fields": [
+            "Dentistry",
+            "Medicine",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "School : Science",
+          "fields": [
+            "Applied Physics",
+            "Biology",
+            "Biotechnology",
+            "Chemistry",
+            "Environmental Engineering",
+            "Environmental Studies",
+            "Mathematics",
+            "Natural Sciences",
+            "Pharmacy",
+            "Physics"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Applied Physics",
+            "Architecture",
+            "Biology",
+            "Biotechnology",
+            "Business Administration",
+            "Business Computing",
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Dentistry",
+            "Electrical and Electronic Engineering",
+            "Environmental Engineering",
+            "Environmental Studies",
+            "Fine Arts",
+            "Hotel Management",
+            "Law",
+            "Mathematics and Computer Science",
+            "Mechanical Engineering",
+            "Media Studies",
+            "Medicine",
+            "Music",
+            "Nursing",
+            "Pharmacy",
+            "Power Engineering",
+            "Surveying and Mapping",
+            "Telecommunications Engineering",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Postgraduate Diploma",
+          "fields": [
+            "Educational Administration",
+            "Primary Education"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Biotechnology",
+            "Business Administration",
+            "Computer Engineering",
+            "Development Studies",
+            "Educational Administration",
+            "Energy Engineering",
+            "Environmental Studies",
+            "Information Technology",
+            "Mathematics Education",
+            "Mechanical Engineering",
+            "Music",
+            "Pharmacy",
+            "Physics",
+            "Power Engineering",
+            "Surveying and Mapping",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Master of Philosophy",
+          "fields": [
+            "Chemistry",
+            "Development Studies",
+            "Education",
+            "Management",
+            "Mathematics",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Doctor's Degree",
+          "fields": [
+            "Biotechnology",
+            "Education",
+            "Engineering",
+            "Environmental Studies",
+            "Management",
+            "Mathematics",
+            "Pharmacy",
+            "Physics"
+          ]
+        }
+      ],
+      "accreditation": "University Grants Commission (UGC)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ram Kantha Makaju Shrestha"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Bhola Thapa"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1991",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "25282",
+      "iau_id": "IAU-025282",
+      "name": "Mid-Western University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRSLiMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025282",
+      "address": {
+        "Street": "Parsa Chauraha",
+        "City": "Llumbini",
+        "Province": "Rupandehi",
+        "WWW": "http://www.lbu.edu.np"
+      },
+      "website": "http://www.lbu.edu.np",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [],
+      "faculties": [
+        {
+          "name": "Course/Programme : Buddhist Studies",
+          "fields": [
+            "Archaeology",
+            "Arts and Humanities",
+            "Asian Religious Studies",
+            "Museum Studies",
+            "Peace and Disarmament",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Course/Programme : Disaster Risk Engineering",
+          "fields": [
+            "Construction Engineering",
+            "Engineering Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Arts and Humanities",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Postgraduate Diploma",
+          "fields": [
+            "Archaeology",
+            "Asian Religious Studies"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Asian Religious Studies",
+            "Construction Engineering",
+            "Engineering Management",
+            "Museum Studies",
+            "Peace and Disarmament"
+          ]
+        },
+        {
+          "name": "Doctor's Degree",
+          "fields": []
+        }
+      ],
+      "accreditation": "University Grants Commission (UGC)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Naresh Man Bajracharya"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Tilak Ram Acharya"
+        }
+      ],
+      "statistics": {},
+      "history": "Created 2006",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "22203",
+      "iau_id": "IAU-022203",
+      "name": "National Academy of Medical Sciences",
+      "alt_name": "(NAMS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyhSLCMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-022203",
+      "address": {
+        "Street": "Central Office Post Box 21700Birendranagar - 10",
+        "City": "Surkhet",
+        "Province": "Karnali",
+        "WWW": "http://www.mwu.edu.np"
+      },
+      "website": "http://www.mwu.edu.np",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2010,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [],
+      "faculties": [
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Humanities and Social Sciences",
+          "fields": [
+            "Arts and Humanities",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Management",
+          "fields": [
+            "Business Administration",
+            "Management"
+          ]
+        },
+        {
+          "name": "Faculty : Science and Technology",
+          "fields": [
+            "Biology",
+            "Computer Science",
+            "Engineering",
+            "Information Technology",
+            "Mathematics",
+            "Natural Sciences"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Biology",
+            "Business Administration",
+            "Computer Science",
+            "Education",
+            "Engineering",
+            "Information Technology",
+            "Mathematics and Computer Science",
+            "Natural Sciences",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Business Administration",
+            "Education",
+            "Modern Languages",
+            "Social Sciences"
+          ]
+        }
+      ],
+      "accreditation": "University Grants Commission (UGC)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Upendra Kumar Koirala"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Mahendra Kumar Malla"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2010",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "29532",
+      "iau_id": "IAU-029532",
+      "name": "Nepal Open University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0RVLFMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-029532",
+      "address": {
+        "Street": "Bir HospitalMahaboudha",
+        "City": "Kathmandu",
+        "WWW": "https://nams.edu.np"
+      },
+      "website": "https://nams.edu.np",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Nepali",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Medicine",
+          "fields": [
+            "Anaesthesiology",
+            "Cardiology",
+            "Dentistry",
+            "Dermatology",
+            "Gastroenterology",
+            "Hepatology",
+            "Medicine",
+            "Nephrology",
+            "Neurology",
+            "Nursing",
+            "Obstetrics and Gynaecology",
+            "Oncology",
+            "Ophthalmology",
+            "Oral Pathology",
+            "Orthopaedics",
+            "Otorhinolaryngology",
+            "Paediatrics",
+            "Pathology",
+            "Periodontics",
+            "Plastic Surgery",
+            "Psychiatry and Mental Health",
+            "Radiology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Medicine",
+            "Nursing",
+            "Surgery"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Anaesthesiology",
+            "Cardiology",
+            "Dermatology",
+            "Diabetology",
+            "Endocrinology",
+            "Gastroenterology",
+            "Hepatology",
+            "Medicine",
+            "Nephrology",
+            "Neurology",
+            "Obstetrics and Gynaecology",
+            "Oncology",
+            "Ophthalmology",
+            "Orthodontics",
+            "Paediatrics",
+            "Pathology",
+            "Periodontics",
+            "Plastic Surgery",
+            "Psychiatry and Mental Health",
+            "Surgery",
+            "Urology"
+          ]
+        }
+      ],
+      "accreditation": "University Grants Commission (UGC); Nepal Medical Council",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Bhupendra Kumar Basnet"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Lochan Karki"
+        }
+      ],
+      "statistics": {},
+      "history": "Provides postgraduate training and specializations for doctors and nurses.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "11303",
+      "iau_id": "IAU-011303",
+      "name": "Nepal Sanskrit University",
+      "alt_name": "Nepal Sanskrit Vishwavidalaya (NSU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyRTLCMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-011303",
+      "address": {
+        "Street": "Manbhawan",
+        "City": "Lalitpur",
+        "WWW": "https://nou.edu.np"
+      },
+      "website": "https://nou.edu.np",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Nepali",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Health Science and Technology",
+          "fields": [
+            "Health Administration",
+            "Health Sciences",
+            "Medical Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Management and Law",
+          "fields": [
+            "Business Administration",
+            "Law",
+            "Management",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "Faculty : Social Sciences and Education",
+          "fields": [
+            "Anthropology",
+            "Economics",
+            "Education",
+            "English",
+            "Foreign Languages Education",
+            "Health Education",
+            "Mathematics Education",
+            "Media Studies",
+            "Political Sciences",
+            "Sociology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Education",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Business Administration",
+            "Educational Sciences",
+            "Law",
+            "Media Studies",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "Master of Philosophy",
+          "fields": [
+            "Anthropology",
+            "Economics",
+            "Educational Sciences",
+            "English",
+            "Social Sciences",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Doctor's Degree",
+          "fields": [
+            "Educational Sciences"
+          ]
+        }
+      ],
+      "accreditation": "University Grants Commission (UGC)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Shilu Manandhar Bajarcharya"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Govinda Singh Bista"
+        }
+      ],
+      "statistics": {},
+      "history": "Created 2016",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "22204",
+      "iau_id": "IAU-022204",
+      "name": "Patan Academy of Health Sciences",
+      "alt_name": "(PAHS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyhSLCMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-022204",
+      "address": {
+        "Street": "Beljhundi",
+        "City": "Dang",
+        "Post Code": "22412"
+      },
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1986,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "July to May",
+      "languages": [
+        "Nepali",
+        "Sanskrit",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Asian Religious Studies",
+          "fields": [
+            "Asian Religious Studies",
+            "Yoga"
+          ]
+        },
+        {
+          "name": "Course/Programme : Ayurveda Medicine and Surgery",
+          "fields": [
+            "Ayurvedic Medicine"
+          ]
+        },
+        {
+          "name": "Course/Programme : Classical Languages",
+          "fields": [
+            "Indic Languages",
+            "Malay",
+            "Native Language",
+            "Sanskrit"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Sanskrit"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Sanskrit"
+          ]
+        },
+        {
+          "name": "Doctor's Degree",
+          "fields": [
+            "Sanskrit"
+          ]
+        }
+      ],
+      "accreditation": "University Grants Commission (UGC)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Kul Prasad Koirala"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1986. Previously known as Mahendra Sanskrit University (Mahendra Sanskrit Vishwavidalaya).",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "13554",
+      "iau_id": "IAU-013554",
+      "name": "Pokhara University",
+      "alt_name": "Pokhara Vishwavidyalaya",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyxVLTMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-013554",
+      "address": {
+        "Street": "PO Box 26500",
+        "City": "Patan",
+        "WWW": "http://www.pahs.edu.np"
+      },
+      "website": "http://www.pahs.edu.np",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [],
+      "faculties": [
+        {
+          "name": "School : Medicine",
+          "fields": [
+            "Medicine",
+            "Surgery"
+          ]
+        },
+        {
+          "name": "School : Nursing and Midwifery",
+          "fields": [
+            "Midwifery",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "School : Public Health",
+          "fields": [
+            "Public Health"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Medicine",
+            "Nursing",
+            "Surgery"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Medicine",
+            "Nursing",
+            "Public Health",
+            "Surgery"
+          ]
+        }
+      ],
+      "accreditation": "University Grants Commission (UGC); Nepal Mecial Council",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Bharat Kumar Yadav"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Rajesh Nath Gongal"
+        }
+      ],
+      "statistics": {},
+      "history": "Created 2008. Provides post-sedondary medical training.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "13786",
+      "iau_id": "IAU-013786",
+      "name": "Purbanchal University",
+      "alt_name": "Purbanchal Vishwavidalaya",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyxXLiM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-013786",
+      "address": {
+        "Street": "Lekhnath-12Khudi, Dhungepatan",
+        "City": "Pokhara",
+        "Province": "Kaski",
+        "WWW": "http://www.pu.edu.np"
+      },
+      "website": "http://www.pu.edu.np",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1997,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Health Sciences",
+          "fields": [
+            "Biochemistry",
+            "Health Administration",
+            "Health Sciences",
+            "Medical Technology",
+            "Microbiology",
+            "Nursing",
+            "Optometry",
+            "Pharmacy",
+            "Physical Therapy",
+            "Public Health"
+          ]
+        },
+        {
+          "name": "Faculty : Humanities and Social Sciences",
+          "fields": [
+            "Demography and Population",
+            "Development Studies",
+            "English"
+          ]
+        },
+        {
+          "name": "Faculty : Management Studies",
+          "fields": [
+            "Banking",
+            "Business Administration",
+            "Finance",
+            "Health Administration",
+            "Hotel Management",
+            "Information Technology",
+            "Insurance",
+            "International Business",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Science and Technology",
+          "fields": [
+            "Architecture",
+            "Biochemistry",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Electrical and Electronic Engineering",
+            "Engineering Management",
+            "Environmental Management",
+            "Information Technology",
+            "Natural Resources",
+            "Transport Engineering",
+            "Transport Management",
+            "Water Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Architecture",
+            "Banking",
+            "Biochemistry",
+            "Business Administration",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Development Studies",
+            "Electrical and Electronic Engineering",
+            "Environmental Management",
+            "Health Administration",
+            "Hotel Management",
+            "Information Technology",
+            "Medical Technology",
+            "Nursing",
+            "Pharmacy",
+            "Public Health",
+            "Software Engineering",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Postgraduate Diploma",
+          "fields": [
+            "Health Administration"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Biochemistry",
+            "Bioinformatics",
+            "Business Administration",
+            "Computer Science",
+            "Demography and Population",
+            "Development Studies",
+            "Engineering Management",
+            "English",
+            "Environmental Management",
+            "Finance",
+            "Health Administration",
+            "Information Technology",
+            "Microbiology",
+            "Natural Resources",
+            "Optometry",
+            "Pharmacy",
+            "Public Health",
+            "Transport Engineering",
+            "Water Management"
+          ]
+        },
+        {
+          "name": "Master of Philosophy",
+          "fields": [
+            "English"
+          ]
+        },
+        {
+          "name": "Doctor's Degree",
+          "fields": [
+            "Arts and Humanities",
+            "Development Studies",
+            "Management"
+          ]
+        }
+      ],
+      "accreditation": "University Grants Commission (UGC)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Prem Narayan Aryal"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Dipak Bahadur Bhandari"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Tek Bahadur Chhetri"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1997.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "30256",
+      "iau_id": "IAU-030256",
+      "name": "Rajarshi Janak University",
+      "alt_name": "(RJU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sU2BSLTM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-030256",
+      "address": {
+        "Street": "Post Box 142, Puspalal chowk",
+        "City": "Biratnagar",
+        "Province": "Morang",
+        "Post Code": "56613",
+        "WWW": "http://purbuniv.edu.np"
+      },
+      "website": "http://purbuniv.edu.np",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1993,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "July to June",
+      "languages": [
+        "Nepali",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Arts",
+          "fields": [
+            "Anthropology",
+            "Arts and Humanities",
+            "Demography and Population",
+            "Development Studies",
+            "Gender Studies",
+            "Interior Design",
+            "Journalism",
+            "Mass Communication",
+            "Media Studies",
+            "Peace and Disarmament",
+            "Social Work",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Management",
+          "fields": [
+            "Business and Commerce",
+            "Fashion Design",
+            "Hotel Management",
+            "Management",
+            "Public Administration",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Medical and Allied Sciences",
+          "fields": [
+            "Homeopathic Medicine",
+            "Medicine",
+            "Nursing",
+            "Pharmacy",
+            "Public Health"
+          ]
+        },
+        {
+          "name": "Faculty : Science and Technology",
+          "fields": [
+            "Agricultural Business",
+            "Agricultural Management",
+            "Agriculture",
+            "Animal Husbandry",
+            "Architecture",
+            "Biochemistry",
+            "Biomedical Engineering",
+            "Biotechnology",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Dairy",
+            "Electrical and Electronic Engineering",
+            "Engineering Management",
+            "Food Technology",
+            "Information Technology",
+            "Surveying and Mapping",
+            "Telecommunications Engineering",
+            "Veterinary Science"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Agriculture",
+            "Architecture",
+            "Arts and Humanities",
+            "Biomedical Engineering",
+            "Biotechnology",
+            "Business Administration",
+            "Business and Commerce",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Cooking and Catering",
+            "Dairy",
+            "Education",
+            "Fashion Design",
+            "Food Technology",
+            "Homeopathic Medicine",
+            "Hotel Management",
+            "Information Technology",
+            "Interior Design",
+            "Journalism",
+            "Law",
+            "Media Studies",
+            "Medicine",
+            "Nursing",
+            "Pharmacy",
+            "Public Health",
+            "Social Work",
+            "Surveying and Mapping",
+            "Telecommunications Engineering",
+            "Tourism",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Postgraduate Diploma",
+          "fields": [
+            "Development Studies",
+            "Economics",
+            "Journalism",
+            "Peace and Disarmament"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Agricultural Management",
+            "Anthropology",
+            "Biological and Life Sciences",
+            "Business Administration",
+            "Computer Engineering",
+            "Computer Science",
+            "Dairy",
+            "Demography and Population",
+            "Development Studies",
+            "Education",
+            "Engineering Management",
+            "Environmental Management",
+            "Hotel Management",
+            "Human Rights",
+            "Journalism",
+            "Law",
+            "Mass Communication",
+            "Meat and Poultry",
+            "Media Studies",
+            "Medicine",
+            "Nursing",
+            "Public Administration",
+            "Regional Planning",
+            "Seismology",
+            "Social Work",
+            "Sociology",
+            "Tourism",
+            "Town Planning"
+          ]
+        }
+      ],
+      "accreditation": "University Grants Commission (UGC)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ghanshyam Lal Das"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Pramila Thapa"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1993",
+      "periodicals": [],
+      "student_body": "co-ed"
+    }
+  ]
+}

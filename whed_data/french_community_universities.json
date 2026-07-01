@@ -1,0 +1,5154 @@
+{
+  "country_name": "French Community",
+  "country_id": "Belgium - French Community",
+  "institutions": [
+    {
+      "id": "61",
+      "iau_id": "IAU-000061",
+      "name": "Académie des Beaux-Arts de Tournai - Ecole supérieure des Arts de Tournai",
+      "alt_name": "(ACTOURNAI)",
+      "detail_url": "https://whed.net/detail_institution.php?JTo2MF0tQyRgCmAK",
+      "iau_link": "https://www.whed.net/institutions/IAU-000061",
+      "address": {
+        "Street": "Place de l'Université, 1",
+        "City": "Louvain-la-Neuve",
+        "Post Code": "1348",
+        "WWW": "https://uclouvain.be"
+      },
+      "website": "https://uclouvain.be",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1425,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to July (September-February; February-July)",
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : Bruxelles Saint-Gilles",
+          "fields": [
+            "Architecture",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "Campus : Bruxelles Woluwe",
+          "fields": [
+            "Biomedicine",
+            "Dentistry",
+            "Medicine",
+            "Pharmacy",
+            "Public Health"
+          ]
+        },
+        {
+          "name": "Campus : Charleroi",
+          "fields": [
+            "Administration",
+            "Management"
+          ]
+        },
+        {
+          "name": "Campus : Louvain-la-Neuve",
+          "fields": [
+            "Administration",
+            "Ancient Civilizations",
+            "Archaeology",
+            "Architecture",
+            "Art History",
+            "Arts and Humanities",
+            "Behavioural Sciences",
+            "Biology",
+            "Building Technologies",
+            "Chemical Engineering",
+            "Chemistry",
+            "Chinese",
+            "Civil Engineering",
+            "Classical Languages",
+            "Communication Studies",
+            "Crop Production",
+            "Cultural Studies",
+            "Data Science",
+            "Dutch",
+            "Earth Sciences",
+            "Economics",
+            "Educational Sciences",
+            "Electrical and Electronic Engineering",
+            "Electronic Engineering",
+            "Electronics and Automation",
+            "Energy Engineering",
+            "English",
+            "Environmental Studies",
+            "Ethics",
+            "Food Science",
+            "French",
+            "German",
+            "Greek",
+            "History",
+            "Information Technology",
+            "Italian",
+            "Journalism",
+            "Latin",
+            "Law",
+            "Linguistics",
+            "Literature",
+            "Management",
+            "Marketing",
+            "Materials Engineering",
+            "Mathematics",
+            "Mechanics",
+            "Medieval Studies",
+            "Modern Languages",
+            "Musicology",
+            "Oriental Languages",
+            "Performing Arts",
+            "Philosophy",
+            "Political Sciences",
+            "Psychology",
+            "Rehabilitation and Therapy",
+            "Religion",
+            "Romance Languages",
+            "Social Studies",
+            "Social Work",
+            "Sociology",
+            "Software Engineering",
+            "Sports",
+            "Statistics",
+            "Teacher Training",
+            "Theology",
+            "Town Planning",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Campus : Mons",
+          "fields": [
+            "Administration",
+            "Advertising and Publicity",
+            "Business Administration",
+            "Communication Studies",
+            "Demography and Population",
+            "Development Studies",
+            "Economics",
+            "Journalism",
+            "Management",
+            "Marketing",
+            "Political Sciences",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Campus : Namur",
+          "fields": [
+            "Biology",
+            "Biotechnology",
+            "Building Technologies",
+            "Civil Engineering",
+            "Cultural Studies",
+            "Electrical and Electronic Engineering",
+            "Electronics and Automation",
+            "Social Studies",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Campus : Saint-Louis Bruxelles",
+          "fields": [
+            "Anthropology",
+            "Economics",
+            "European Studies",
+            "French",
+            "German",
+            "History",
+            "Human Rights",
+            "Information Sciences",
+            "Law",
+            "Management",
+            "Philosophy",
+            "Political Sciences",
+            "Public Law",
+            "Romance Languages",
+            "Sociology",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Campus : Tournai",
+          "fields": [
+            "Architecture",
+            "Regional Planning",
+            "Structural Architecture",
+            "Town Planning"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelier (enseignement supérieur de type court)",
+          "fields": [
+            "Administration",
+            "Advertising and Publicity",
+            "Anthropology",
+            "Archaeology",
+            "Architecture",
+            "Biology",
+            "Building Technologies",
+            "Business and Commerce",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civics",
+            "Civil Engineering",
+            "Criminology",
+            "Crop Production",
+            "Cultural Studies",
+            "Data Science",
+            "Demography and Population",
+            "Dentistry",
+            "Development Studies",
+            "Earth Sciences",
+            "Economics",
+            "Educational Sciences",
+            "Electrical and Electronic Engineering",
+            "Electronics and Automation",
+            "Energy Engineering",
+            "Engineering",
+            "Environmental Engineering",
+            "Environmental Studies",
+            "Ethics",
+            "Food Science",
+            "Food Technology",
+            "Health Sciences",
+            "History",
+            "Human Resources",
+            "Journalism",
+            "Law",
+            "Linguistics",
+            "Literature",
+            "Management",
+            "Marketing",
+            "Materials Engineering",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Medicine",
+            "Music",
+            "Performing Arts",
+            "Pharmacy",
+            "Philology",
+            "Physics",
+            "Political Sciences",
+            "Psychology",
+            "Public Administration",
+            "Rehabilitation and Therapy",
+            "Religion",
+            "Social Work",
+            "Sociology",
+            "Software Engineering",
+            "Sports",
+            "Statistics",
+            "Teacher Training",
+            "Theology",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "Bachelier (enseignement universitaire et enseignement supérieur de type long)",
+          "fields": [
+            "Administration",
+            "Advertising and Publicity",
+            "Anthropology",
+            "Archaeology",
+            "Architecture",
+            "Biology",
+            "Building Technologies",
+            "Business and Commerce",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civics",
+            "Civil Engineering",
+            "Criminology",
+            "Crop Production",
+            "Cultural Studies",
+            "Data Science",
+            "Demography and Population",
+            "Dentistry",
+            "Development Studies",
+            "Earth Sciences",
+            "Economics",
+            "Educational Sciences",
+            "Electrical and Electronic Engineering",
+            "Electronics and Automation",
+            "Energy Engineering",
+            "Engineering",
+            "Environmental Engineering",
+            "Environmental Studies",
+            "Ethics",
+            "Food Science",
+            "Food Technology",
+            "Health Sciences",
+            "History",
+            "Human Resources",
+            "Journalism",
+            "Law",
+            "Linguistics",
+            "Literature",
+            "Management",
+            "Marketing",
+            "Materials Engineering",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Medicine",
+            "Music",
+            "Performing Arts",
+            "Pharmacy",
+            "Philology",
+            "Physics",
+            "Political Sciences",
+            "Psychology",
+            "Public Administration",
+            "Rehabilitation and Therapy",
+            "Religion",
+            "Social Work",
+            "Sociology",
+            "Software Engineering",
+            "Sports",
+            "Statistics",
+            "Teacher Training",
+            "Theology",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Administration",
+            "Advertising and Publicity",
+            "Anthropology",
+            "Archaeology",
+            "Architecture",
+            "Biology",
+            "Building Technologies",
+            "Business and Commerce",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civics",
+            "Civil Engineering",
+            "Criminology",
+            "Crop Production",
+            "Cultural Studies",
+            "Data Science",
+            "Demography and Population",
+            "Dentistry",
+            "Development Studies",
+            "Earth Sciences",
+            "Economics",
+            "Educational Sciences",
+            "Electrical and Electronic Engineering",
+            "Electronics and Automation",
+            "Energy Engineering",
+            "Engineering",
+            "Environmental Engineering",
+            "Environmental Studies",
+            "Ethics",
+            "Food Science",
+            "Food Technology",
+            "Health Sciences",
+            "History",
+            "Human Resources",
+            "Journalism",
+            "Law",
+            "Linguistics",
+            "Literature",
+            "Management",
+            "Marketing",
+            "Materials Engineering",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Medicine",
+            "Music",
+            "Performing Arts",
+            "Pharmacy",
+            "Philology",
+            "Physics",
+            "Political Sciences",
+            "Psychology",
+            "Public Administration",
+            "Rehabilitation and Therapy",
+            "Religion",
+            "Social Work",
+            "Sociology",
+            "Software Engineering",
+            "Sports",
+            "Statistics",
+            "Teacher Training",
+            "Theology",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "Master de spécialisation",
+          "fields": [
+            "Archaeology",
+            "Architecture",
+            "Art History",
+            "Civil Engineering",
+            "Communication Studies",
+            "Computer Science",
+            "Economics",
+            "Education",
+            "History",
+            "Management",
+            "Natural Sciences",
+            "Philosophy",
+            "Physical Therapy",
+            "Political Sciences",
+            "Psychology",
+            "Social Sciences",
+            "Translation and Interpretation",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Doctorat",
+          "fields": [
+            "Archaeology",
+            "Architecture",
+            "Art History",
+            "Civil Engineering",
+            "Communication Studies",
+            "Computer Science",
+            "Economics",
+            "Education",
+            "History",
+            "Management",
+            "Natural Sciences",
+            "Philosophy",
+            "Physical Therapy",
+            "Political Sciences",
+            "Psychology",
+            "Social Sciences",
+            "Translation and Interpretation",
+            "Veterinary Science"
+          ]
+        }
+      ],
+      "accreditation": "Wallonia-Brussels Federation (Fédération Wallonie-Bruxelles)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Françoise Smets"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Alexia Autenne"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1425, UCL is one of the oldest universities in the world. Erasmus, Jansenius, Vesalius, Mercator, Georges Lemaître worked or taught at the UCL. In 1970, separation into two distinct universities, the Flemish-speaking one remained on the original site in Leuven. The French-speaking University moved to Wallonia (Louvain-la-Neuve). The faculty of Medicine moved to Brussels. Merged with Université Saint-Louis - Bruxelles (IAU-019835) which became a campus of UCL.",
+      "periodicals": [
+        "La Lucarne Louvain medical Revue Louvain",
+        "La Lucarne",
+        "Louvain medical",
+        "Revue Louvain"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "65",
+      "iau_id": "IAU-000065",
+      "name": "Académie royale des Beaux-Arts de Bruxelles - Ecole supérieure des Arts",
+      "alt_name": "(ARBA-ESA)",
+      "detail_url": "https://whed.net/detail_institution.php?JTo2MF0tQzRgCmAK",
+      "iau_link": "https://www.whed.net/institutions/IAU-000065",
+      "address": {
+        "Street": "Avenue F. Roosevelt 50",
+        "City": "Bruxelles",
+        "Post Code": "1050",
+        "WWW": "https://www.ulb.be"
+      },
+      "website": "https://www.ulb.be",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "September to July",
+      "languages": [
+        "French",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : Erasme",
+          "fields": [
+            "Biology",
+            "Dental Technology",
+            "Medicine",
+            "Pharmacy",
+            "Public Health",
+            "Rehabilitation and Therapy",
+            "Sports",
+            "Teacher Training",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Campus : Plaine",
+          "fields": [
+            "Biology",
+            "Biomedicine",
+            "Chemical Engineering",
+            "Chemistry",
+            "Computer Science",
+            "Data Science",
+            "Dentistry",
+            "Earth Sciences",
+            "Environmental Studies",
+            "Food Technology",
+            "Mathematics",
+            "Medicine",
+            "Pharmacy",
+            "Statistics",
+            "Teacher Trainers Education",
+            "Teacher Training",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Campus : Solbosch",
+          "fields": [
+            "Actuarial Science",
+            "Administration",
+            "Advertising and Publicity",
+            "Agronomy",
+            "Anthropology",
+            "Archaeology",
+            "Architecture",
+            "Banking",
+            "Biochemistry",
+            "Biology",
+            "Building Technologies",
+            "Cell Biology",
+            "Chemistry",
+            "Civics",
+            "Civil Engineering",
+            "Commercial Law",
+            "Computer Networks",
+            "Criminal Law",
+            "Cultural Studies",
+            "Data Science",
+            "Earth Sciences",
+            "Ecology",
+            "Economics",
+            "Educational Sciences",
+            "Electrical and Electronic Engineering",
+            "Electronics and Automation",
+            "Energy Engineering",
+            "Engineering",
+            "Environmental Studies",
+            "Ethics",
+            "Finance",
+            "Fine Arts",
+            "Food Science",
+            "Geography",
+            "Geology",
+            "History",
+            "Journalism",
+            "Law",
+            "Leisure Studies",
+            "Linguistics",
+            "Literature",
+            "Management",
+            "Marketing",
+            "Materials Engineering",
+            "Mathematics",
+            "Molecular Biology",
+            "Music",
+            "Notary Studies",
+            "Performing Arts",
+            "Philosophy",
+            "Physical Therapy",
+            "Physics",
+            "Political Sciences",
+            "Private Law",
+            "Psychology",
+            "Public Law",
+            "Rehabilitation and Therapy",
+            "Religion",
+            "Social Sciences",
+            "Social Work",
+            "Sociology",
+            "Speech Studies",
+            "Statistics",
+            "Structural Architecture",
+            "Theology",
+            "Tourism",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "Campus : ULB-Charleroi-Gosselies",
+          "fields": [
+            "Biology",
+            "Mathematics",
+            "Natural Sciences",
+            "Osteopathy",
+            "Physical Therapy",
+            "Sports Medicine",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Campus : ULB-Charleroi-Ville-Haute",
+          "fields": [
+            "Architecture",
+            "Behavioural Sciences",
+            "Social Sciences",
+            "Social Work",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "Campus : ULB-Flagey",
+          "fields": [
+            "Architecture",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "Campus : ULB-Uccle",
+          "fields": [
+            "Modern Languages"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelier (enseignement supérieur de type court)",
+          "fields": [
+            "Administration",
+            "Advertising and Publicity",
+            "Archaeology",
+            "Banking",
+            "Biology",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civics",
+            "Dental Technology",
+            "Earth Sciences",
+            "Economics",
+            "Electrical Engineering",
+            "Energy Engineering",
+            "Engineering Management",
+            "Environmental Studies",
+            "Ethics",
+            "Finance",
+            "History",
+            "Insurance",
+            "Journalism",
+            "Law",
+            "Linguistics",
+            "Literature",
+            "Management",
+            "Marketing",
+            "Mathematics",
+            "Medicine",
+            "Music",
+            "Natural Sciences",
+            "Performing Arts",
+            "Pharmacy",
+            "Philosophy",
+            "Physics",
+            "Political Sciences",
+            "Psychology",
+            "Rehabilitation and Therapy",
+            "Religion",
+            "Religious Studies",
+            "Social Work",
+            "Sociology",
+            "Sports",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Bachelier (enseignement universitaire et enseignement supérieur de type long)",
+          "fields": [
+            "Administration",
+            "Advertising and Publicity",
+            "Archaeology",
+            "Banking",
+            "Biology",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civics",
+            "Dental Technology",
+            "Earth Sciences",
+            "Economics",
+            "Electrical Engineering",
+            "Energy Engineering",
+            "Engineering Management",
+            "Environmental Studies",
+            "Ethics",
+            "Finance",
+            "History",
+            "Insurance",
+            "Journalism",
+            "Law",
+            "Linguistics",
+            "Literature",
+            "Management",
+            "Marketing",
+            "Mathematics",
+            "Medicine",
+            "Music",
+            "Natural Sciences",
+            "Performing Arts",
+            "Pharmacy",
+            "Philosophy",
+            "Physics",
+            "Political Sciences",
+            "Psychology",
+            "Rehabilitation and Therapy",
+            "Religion",
+            "Religious Studies",
+            "Social Work",
+            "Sociology",
+            "Sports",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Administration",
+            "Advertising and Publicity",
+            "Archaeology",
+            "Architecture",
+            "Banking",
+            "Biology",
+            "Building Technologies",
+            "Chemistry",
+            "Civics",
+            "Civil Engineering",
+            "Computer Graphics",
+            "Computer Networks",
+            "Cultural Studies",
+            "Data Science",
+            "Dental Technology",
+            "Earth Sciences",
+            "Educational Sciences",
+            "Electrical and Electronic Engineering",
+            "Engineering",
+            "Environmental Studies",
+            "Ethics",
+            "Finance",
+            "Food Science",
+            "Food Technology",
+            "History",
+            "Insurance",
+            "Journalism",
+            "Law",
+            "Leisure Studies",
+            "Linguistics",
+            "Literature",
+            "Management",
+            "Marketing",
+            "Materials Engineering",
+            "Mathematics",
+            "Medicine",
+            "Modern Languages",
+            "Music",
+            "Natural Sciences",
+            "Performing Arts",
+            "Pharmacy",
+            "Philosophy",
+            "Physics",
+            "Political Sciences",
+            "Psychology",
+            "Public Health",
+            "Rehabilitation and Therapy",
+            "Religion",
+            "Social Work",
+            "Sociology",
+            "Sports",
+            "Statistics",
+            "Teacher Training",
+            "Theology",
+            "Tourism",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "Doctorat",
+          "fields": [
+            "Actuarial Science",
+            "Archaeology",
+            "Architecture",
+            "Astrophysics",
+            "Biology",
+            "Computer Science",
+            "Criminal Law",
+            "Economics",
+            "Fine Arts",
+            "History",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Medicine",
+            "Modern Languages",
+            "Multimedia",
+            "Pharmacology",
+            "Philosophy",
+            "Physics",
+            "Physiology",
+            "Public Health",
+            "Social Sciences",
+            "Statistics",
+            "Theology",
+            "Town Planning"
+          ]
+        }
+      ],
+      "accreditation": "Wallonia-Brussels Federation (Fédération Wallonie-Bruxelles)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Annemie Schaus"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Isabelle Mazzara"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Anne Weyembergh"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Elodie Decostre"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2024-2025",
+        "Students Total:": "40000"
+      },
+      "history": "The Université libre de Bruxelles has 13 faculties, schools and specialized institutes combining academic input and research. It offers almost 40 undergraduate programmes and 235 graduate programmes. It also partners with 20 Doctoral schools, with almost 1,600 PhD in progress",
+      "periodicals": [
+        "Esprit Libre",
+        "Esprit Libre"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "4315",
+      "iau_id": "IAU-004315",
+      "name": "ARTS² - Academy of Arts",
+      "alt_name": "ARTS² - Ecole supérieure des Arts – Arts au carré",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIyxRLTBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004315",
+      "address": {
+        "Street": "Place du 20 Août, 7",
+        "City": "Liège",
+        "Post Code": "4000",
+        "WWW": "https://www.uliege.be"
+      },
+      "website": "https://www.uliege.be",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to July (September-January; January-July)",
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : Arlon",
+          "fields": [
+            "Environmental Engineering",
+            "Occupational Health",
+            "Wildlife"
+          ]
+        },
+        {
+          "name": "Campus : City Centre",
+          "fields": [
+            "Administration",
+            "Advertising and Publicity",
+            "Archaeology",
+            "Architecture",
+            "Banking",
+            "Cultural Studies",
+            "Economics",
+            "Ethics",
+            "Finance",
+            "History",
+            "Insurance",
+            "Journalism",
+            "Law",
+            "Linguistics",
+            "Literature",
+            "Management",
+            "Marketing",
+            "Music",
+            "Performing Arts",
+            "Philology",
+            "Retailing and Wholesaling",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Campus : Gembloux",
+          "fields": [
+            "Chemical Engineering",
+            "Crop Production",
+            "Environmental Engineering",
+            "Food Science",
+            "Horticulture"
+          ]
+        },
+        {
+          "name": "Campus : Sart-Tilman",
+          "fields": [
+            "Administration",
+            "Architecture",
+            "Biology",
+            "Building Technologies",
+            "Chemistry",
+            "Civics",
+            "Civil Engineering",
+            "Crop Production",
+            "Cultural Studies",
+            "Data Science",
+            "Dentistry",
+            "Earth Sciences",
+            "Educational Sciences",
+            "Electrical and Electronic Engineering",
+            "Electronic Engineering",
+            "Electronics and Automation",
+            "Energy Engineering",
+            "Engineering",
+            "Fishery",
+            "Law",
+            "Management",
+            "Materials Engineering",
+            "Mathematics",
+            "Mechanics",
+            "Medicine",
+            "Mining Engineering",
+            "Natural Sciences",
+            "Pharmacy",
+            "Physics",
+            "Political Sciences",
+            "Psychology",
+            "Public Health",
+            "Rehabilitation and Therapy",
+            "Social Work",
+            "Sociology",
+            "Software Engineering",
+            "Sports",
+            "Statistics",
+            "Teacher Training",
+            "Town Planning",
+            "Veterinary Science"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelier (enseignement universitaire et enseignement supérieur de type long)",
+          "fields": [
+            "Administration",
+            "Archaeology",
+            "Architecture",
+            "Behavioural Sciences",
+            "Biology",
+            "Chemistry",
+            "Dentistry",
+            "Earth Sciences",
+            "Engineering",
+            "Ethics",
+            "Food Technology",
+            "History",
+            "Horticulture",
+            "Journalism",
+            "Law",
+            "Linguistics",
+            "Literature",
+            "Management",
+            "Mathematics",
+            "Medicine",
+            "Music",
+            "Performing Arts",
+            "Pharmacy",
+            "Philology",
+            "Physics",
+            "Political Sciences",
+            "Psychology",
+            "Public Health",
+            "Rehabilitation and Therapy",
+            "Sociology",
+            "Software Engineering",
+            "Sports",
+            "Town Planning",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Administration",
+            "Advertising and Publicity",
+            "Archaeology",
+            "Architecture",
+            "Banking",
+            "Biology",
+            "Building Technologies",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civics",
+            "Civil Engineering",
+            "Crop Production",
+            "Cultural Studies",
+            "Data Science",
+            "Dentistry",
+            "Earth Sciences",
+            "Economics",
+            "Educational Sciences",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Electronics and Automation",
+            "Energy Engineering",
+            "Engineering",
+            "Environmental Engineering",
+            "Environmental Studies",
+            "Ethics",
+            "Finance",
+            "Fishery",
+            "Food Technology",
+            "History",
+            "Horticulture",
+            "Insurance",
+            "Journalism",
+            "Law",
+            "Linguistics",
+            "Literature",
+            "Management",
+            "Marketing",
+            "Materials Engineering",
+            "Mathematics",
+            "Mechanics",
+            "Medicine",
+            "Mining Engineering",
+            "Music",
+            "Natural Sciences",
+            "Occupational Health",
+            "Performing Arts",
+            "Pharmacy",
+            "Philosophy",
+            "Physics",
+            "Political Sciences",
+            "Psychology",
+            "Rehabilitation and Therapy",
+            "Social Work",
+            "Sociology",
+            "Software Engineering",
+            "Sports",
+            "Statistics",
+            "Teacher Training",
+            "Town Planning",
+            "Veterinary Science",
+            "Wildlife"
+          ]
+        },
+        {
+          "name": "Master de spécialisation",
+          "fields": [
+            "Aeronautical and Aerospace Engineering",
+            "Applied Chemistry",
+            "Archaeology",
+            "Architecture",
+            "Art History",
+            "Civil Engineering",
+            "Communication Studies",
+            "Computer Science",
+            "Electrical and Electronic Engineering",
+            "History",
+            "Information Sciences",
+            "Literature",
+            "Management",
+            "Mechanical Engineering",
+            "Modern Languages",
+            "Philosophy",
+            "Town Planning",
+            "Translation and Interpretation",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Doctorat",
+          "fields": [
+            "Aeronautical and Aerospace Engineering",
+            "Applied Chemistry",
+            "Archaeology",
+            "Architecture",
+            "Art History",
+            "Civil Engineering",
+            "Communication Studies",
+            "Computer Science",
+            "Electrical and Electronic Engineering",
+            "History",
+            "Information Sciences",
+            "Literature",
+            "Management",
+            "Mechanical Engineering",
+            "Modern Languages",
+            "Philosophy",
+            "Town Planning",
+            "Translation and Interpretation",
+            "Veterinary Science"
+          ]
+        }
+      ],
+      "accreditation": "Wallonia-Brussels Federation (Fédération Wallonie-Bruxelles)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Anne-Sophie Nyssen"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Anne Girin"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Oriana Bertucci"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2021-2022",
+        "Students Total:": "26863"
+      },
+      "history": "Founded under King William I of the Netherlands in 1817. Designated as a State University following the independence of Belgium in 1835. Provision was made in 1959 for the transfer of the University to a new campus. The University enjoys limited autonomy and receives the major share of its income from the Communauté française de Belgique",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "4310",
+      "iau_id": "IAU-004310",
+      "name": "Beaux-arts de Liège - Ecole supérieure des arts",
+      "alt_name": "Académie royale des beaux-arts de Liège",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIyxRLGBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004310",
+      "address": {
+        "Street": "Place du Parc, 20",
+        "City": "Mons",
+        "Post Code": "7000",
+        "WWW": "https://web.umons.ac.be"
+      },
+      "website": "https://web.umons.ac.be",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to September (September-December; January-May; June-September)",
+      "languages": [
+        "French",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : Charleroi",
+          "fields": [
+            "Administration",
+            "Biology",
+            "Computer Networks",
+            "Computer Science",
+            "Data Science",
+            "Educational Sciences",
+            "Electronic Engineering",
+            "Electronics and Automation",
+            "Engineering",
+            "Management",
+            "Mathematics",
+            "Natural Sciences",
+            "Psychology",
+            "Social Work",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Campus : Mons",
+          "fields": [
+            "Administration",
+            "American Studies",
+            "Architecture",
+            "Biology",
+            "Business Administration",
+            "Chemical Engineering",
+            "Chemistry",
+            "Communication Studies",
+            "Computer Networks",
+            "Criminology",
+            "Danish",
+            "Data Science",
+            "Dutch",
+            "Economics",
+            "Educational Sciences",
+            "Electrical and Electronic Engineering",
+            "Electronic Engineering",
+            "Electronics and Automation",
+            "Energy Engineering",
+            "Engineering",
+            "English",
+            "German",
+            "Italian",
+            "Law",
+            "Linguistics",
+            "Literature",
+            "Management",
+            "Materials Engineering",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Mechanics",
+            "Medicine",
+            "Metal Techniques",
+            "Mining Engineering",
+            "Occupational Health",
+            "Pharmacy",
+            "Physics",
+            "Political Sciences",
+            "Psychology",
+            "Rehabilitation and Therapy",
+            "Russian",
+            "Safety Engineering",
+            "Social Sciences",
+            "Social Work",
+            "Spanish",
+            "Teacher Training",
+            "Town Planning",
+            "Translation and Interpretation"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelier (enseignement supérieur de type court)",
+          "fields": [
+            "Administration",
+            "Architecture",
+            "Biology",
+            "Chemistry",
+            "Computer Networks",
+            "Engineering",
+            "Management",
+            "Mathematics",
+            "Medicine",
+            "Pharmacy",
+            "Physics",
+            "Psychology",
+            "Public Health",
+            "Rehabilitation and Therapy",
+            "Social Sciences",
+            "Software Engineering",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "Bachelier (enseignement universitaire et enseignement supérieur de type long)",
+          "fields": [
+            "Administration",
+            "Architecture",
+            "Biology",
+            "Chemistry",
+            "Computer Networks",
+            "Engineering",
+            "Management",
+            "Mathematics",
+            "Medicine",
+            "Pharmacy",
+            "Physics",
+            "Psychology",
+            "Public Health",
+            "Rehabilitation and Therapy",
+            "Social Sciences",
+            "Software Engineering",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Administration",
+            "Architecture",
+            "Biology",
+            "Chemistry",
+            "Computer Networks",
+            "Data Science",
+            "Educational Sciences",
+            "Educational Technology",
+            "Electrical and Electronic Engineering",
+            "Electronics and Automation",
+            "Energy Engineering",
+            "Health Sciences",
+            "Linguistics",
+            "Literature",
+            "Management",
+            "Materials Engineering",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Mining Engineering",
+            "Occupational Health",
+            "Pharmacy",
+            "Physics",
+            "Psychology",
+            "Social Work",
+            "Teacher Training",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "Doctorat",
+          "fields": [
+            "Biology",
+            "Biomedicine",
+            "Chemistry",
+            "Computer Science",
+            "Educational Sciences",
+            "Engineering",
+            "Mathematics",
+            "Medicine",
+            "Pharmacy",
+            "Political Sciences",
+            "Psychology",
+            "Town Planning"
+          ]
+        }
+      ],
+      "accreditation": "Wallonia-Brussels Federation (Fédération Wallonie-Bruxelles)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Philippe Dubois"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Philippe Mettens"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Pierre Duez"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2022-2023",
+        "Students Total:": "10000"
+      },
+      "history": "Created from the merger of Faculté polytechnique de Mons (Faculty of Engineering, Mons, created 1837) and Université de Mons-Hainaut (University of Mons-Hainaut, created 1899) in 2009",
+      "periodicals": [
+        "Elément L'UMONS PolytechNews",
+        "Elément",
+        "L'UMONS",
+        "PolytechNews"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "3186",
+      "iau_id": "IAU-003186",
+      "name": "Conservatoire royal de Bruxelles",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sUyRYLUBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003186",
+      "address": {
+        "Street": "rue de l'Hôpital Notre-Dame,14",
+        "City": "Tournai",
+        "Post Code": "7500",
+        "WWW": "http://www.actournai.be"
+      },
+      "website": "http://www.actournai.be",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Fine Arts",
+          "fields": [
+            "Advertising and Publicity",
+            "Graphic Arts",
+            "Interior Design",
+            "Painting and Drawing",
+            "Textile Design",
+            "Visual Arts"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelier (enseignement universitaire et enseignement supérieur de type long)",
+          "fields": [
+            "Industrial Design",
+            "Interior Design",
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Fine Arts",
+            "Graphic Arts",
+            "Interior Design",
+            "Teacher Training",
+            "Textile Design",
+            "Visual Arts"
+          ]
+        }
+      ],
+      "accreditation": "Wallonia-Brussels Federation (Fédération Wallonie-Bruxelles)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Bernard Bay"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Patrick Winberg"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded as Académie royale des Beaux-Arts et des Arts décoratifs de Tournai in 1756",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "3187",
+      "iau_id": "IAU-003187",
+      "name": "Conservatoire royal de Liège",
+      "alt_name": "(CRLG)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sUyRYLVBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003187",
+      "address": {
+        "Street": "rue du Midi, 144",
+        "City": "Brussels",
+        "Post Code": "1000",
+        "WWW": "https://arba-esa.be"
+      },
+      "website": "https://arba-esa.be",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Plastic Arts, Visual Arts and Graphic Arts",
+          "fields": [
+            "Architectural and Environmental Design",
+            "Communication Arts",
+            "Engraving",
+            "Fine Arts",
+            "Graphic Arts",
+            "Interior Design",
+            "Painting and Drawing",
+            "Photography",
+            "Sculpture",
+            "Textile Design",
+            "Visual Arts",
+            "Weaving"
+          ]
+        },
+        {
+          "name": "Institute : Arts and Choreography",
+          "fields": [
+            "Dance",
+            "Fine Arts"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelier (enseignement universitaire et enseignement supérieur de type long)",
+          "fields": [
+            "Fine Arts",
+            "Handicrafts",
+            "Industrial Design",
+            "Interior Design",
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Fine Arts",
+            "Graphic Arts",
+            "Media Studies",
+            "Music",
+            "Performing Arts",
+            "Teacher Training",
+            "Textile Design",
+            "Visual Arts"
+          ]
+        }
+      ],
+      "accreditation": "Wallonia-Brussels Federation (Fédération Wallonie-Bruxelles)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Daphné de Hemptinne"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded in 1711, acquired present status in 1980. A participant of the European League of Institutes of the Arts since 1990",
+      "periodicals": [
+        "La Part de l'Oeil",
+        "La Part de l'Oeil"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "4167",
+      "iau_id": "IAU-004167",
+      "name": "Ecole nationale supérieure des Arts visuels de La Cambre",
+      "alt_name": "La Cambre Arts visuels (ENSAV - La Cambre)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIyRWLVBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004167",
+      "address": {
+        "Street": "rue de Nimy, 7",
+        "City": "Mons",
+        "Post Code": "7000",
+        "WWW": "https://www.artsaucarre.be"
+      },
+      "website": "https://www.artsaucarre.be",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to September (September - January; February - June; July - September)",
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Music",
+          "fields": [
+            "Music",
+            "Music Theory and Composition",
+            "Musical Instruments"
+          ]
+        },
+        {
+          "name": "Department/Division : Theatre",
+          "fields": [
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Department/Division : Visual Arts",
+          "fields": [
+            "Engraving",
+            "Fine Arts",
+            "Furniture Design",
+            "Interior Design",
+            "Multimedia",
+            "Painting and Drawing",
+            "Sculpture",
+            "Visual Arts"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelier (enseignement supérieur de type court)",
+          "fields": [
+            "Music",
+            "Performing Arts"
+          ]
+        },
+        {
+          "name": "Bachelier (enseignement universitaire et enseignement supérieur de type long)",
+          "fields": [
+            "Fine Arts",
+            "Music",
+            "Performing Arts",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Engraving",
+            "Furniture Design",
+            "Industrial Design",
+            "Interior Design",
+            "Teacher Training",
+            "Visual Arts"
+          ]
+        }
+      ],
+      "accreditation": "Wallonia-Brussels Federation (Fédération Wallonie-Bruxelles)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Michel Stockhem"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Emmanuelle Moulart"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Marie Kanabus"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded following the merger of the Royal Conservatory of Mons (CrM) and the Superior School of Plastic, Visual and Space Arts (ESAPV) in 2012",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "4309",
+      "iau_id": "IAU-004309",
+      "name": "Ecole supérieure des Arts - Ecole de recherche graphique",
+      "alt_name": "(ERG)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIyxQLjBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004309",
+      "address": {
+        "Street": "21, rue des Anglais",
+        "City": "Liège",
+        "Post Code": "4000",
+        "WWW": "https://beauxartsdeliege.be"
+      },
+      "website": "https://beauxartsdeliege.be",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Graphic and Visual Arts",
+          "fields": [
+            "Advertising and Publicity",
+            "Engraving",
+            "Graphic Arts",
+            "Painting and Drawing",
+            "Sculpture",
+            "Video",
+            "Visual Arts"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelier (enseignement universitaire et enseignement supérieur de type long)",
+          "fields": [
+            "Fine Arts",
+            "Music",
+            "Painting and Drawing",
+            "Performing Arts",
+            "Photography",
+            "Sculpture",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Fine Arts",
+            "Music",
+            "Painting and Drawing",
+            "Performing Arts",
+            "Sculpture",
+            "Teacher Training",
+            "Visual Arts"
+          ]
+        }
+      ],
+      "accreditation": "Wallonia-Brussels Federation (Fédération Wallonie-Bruxelles)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "André Delalleau"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Marie Zolamian"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded as Ecole supérieure des Arts de la Ville de Liège - Académie royale des beaux-arts de Liège (ESAVL-ARBAL) in 1836. Earned present status and title in 2002. Renamed Beaux-arts de Liège - Ecole supérieure des arts in 2021",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "4316",
+      "iau_id": "IAU-004316",
+      "name": "Ecole supérieure des Arts - Saint-Luc Bruxelles",
+      "alt_name": "Institut Saint-Luc (ESA Saint-Luc)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIyxRLUBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004316",
+      "address": {
+        "Street": "rue de la Régence, 30",
+        "City": "Brussels",
+        "Post Code": "1000",
+        "WWW": "http://www.conservatoire.be"
+      },
+      "website": "http://www.conservatoire.be",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Music",
+          "fields": [
+            "Conducting",
+            "Music",
+            "Music Theory and Composition",
+            "Musical Instruments",
+            "Singing",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Course/Programme : Theatre",
+          "fields": [
+            "Speech Studies",
+            "Theatre"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelier (enseignement supérieur de type court)",
+          "fields": [
+            "Music",
+            "Performing Arts"
+          ]
+        },
+        {
+          "name": "Bachelier (enseignement universitaire et enseignement supérieur de type long)",
+          "fields": [
+            "Music",
+            "Performing Arts"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Music",
+            "Performing Arts",
+            "Teacher Training",
+            "Theatre"
+          ]
+        }
+      ],
+      "accreditation": "Wallonia-Brussels Federation (Fédération Wallonie-Bruxelles)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Frédéric de Roos"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded as Conservatoire Royal de Bruxelles in 1832. Acquired status under the Wallonia-Brussels Federation in 2014. Associated with La Cambre, National School of Visual Arts, and INSAS, the Higher National Institute for the Performing Arts",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "4224",
+      "iau_id": "IAU-004224",
+      "name": "Ecole supérieure des Arts de l'image - Le 75",
+      "alt_name": "Etablissement communal d'enseignement supérieur artistique - Le 75 (ESA Le 75)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIyhSLWBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004224",
+      "address": {
+        "Street": "Bd Piercot, 29",
+        "City": "Liège",
+        "Post Code": "4000",
+        "WWW": "https://www.crlg.be"
+      },
+      "website": "https://www.crlg.be",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to September (September - December; February - June; June - September)",
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Music",
+          "fields": [
+            "Conducting",
+            "Music",
+            "Music Theory and Composition",
+            "Musical Instruments",
+            "Singing",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Course/Programme : Theatre",
+          "fields": [
+            "Speech Studies",
+            "Theatre"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelier (enseignement supérieur de type court)",
+          "fields": [
+            "Music",
+            "Performing Arts",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Bachelier (enseignement universitaire et enseignement supérieur de type long)",
+          "fields": [
+            "Music",
+            "Performing Arts"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Music",
+            "Performing Arts",
+            "Teacher Training",
+            "Theatre"
+          ]
+        }
+      ],
+      "accreditation": "Wallonia-Brussels Federation (Fédération Wallonie-Bruxelles)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Nathanaël Harcq"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Loredana Sulejmani"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded as Conservatoire royal de Musique de Liège in 1827",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "4317",
+      "iau_id": "IAU-004317",
+      "name": "Ecole supérieure des Arts Saint-Luc Liège",
+      "alt_name": "(ESA Saint-Luc Liège)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIyxRLVBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004317",
+      "address": {
+        "Street": "Abbaye de La Cambre, 21",
+        "City": "Brussels",
+        "Post Code": "1000",
+        "WWW": "http://www.lacambre.be"
+      },
+      "website": "http://www.lacambre.be",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Fine Arts",
+          "fields": [
+            "Ceramic Art",
+            "Display and Stage Design",
+            "Engraving",
+            "Fashion Design",
+            "Film",
+            "Furniture Design",
+            "Graphic Arts",
+            "Graphic Design",
+            "Industrial Design",
+            "Painting and Drawing",
+            "Photography",
+            "Printing and Printmaking",
+            "Publishing and Book Trade",
+            "Restoration of Works of Art",
+            "Sculpture",
+            "Video",
+            "Visual Arts"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelier (enseignement universitaire et enseignement supérieur de type long)",
+          "fields": [
+            "Fine Arts",
+            "Handicrafts",
+            "Industrial Design",
+            "Interior Design",
+            "Music",
+            "Performing Arts",
+            "Video",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Film",
+            "Fine Arts",
+            "Graphic Design",
+            "Handicrafts",
+            "Industrial Design",
+            "Interior Design",
+            "Music",
+            "Performing Arts",
+            "Teacher Training",
+            "Visual Arts"
+          ]
+        }
+      ],
+      "accreditation": "Wallonia-Brussels Federation (Fédération Wallonie-Bruxelles)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Benoît Hennaut"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Julie Ravets"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Xavier Prévinaire"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded as Superior Institute of Decorative Arts in 1927. A member of ELIA (European League of Arts Institutes)",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "7056",
+      "iau_id": "IAU-007056",
+      "name": "Haute Ecole Albert Jacquard",
+      "alt_name": "(HEAJ)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tU2BVLUBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007056",
+      "address": {
+        "Street": "Rue du Page, 87",
+        "City": "Brussels",
+        "Post Code": "1050",
+        "WWW": "https://wiki.erg.be"
+      },
+      "website": "https://wiki.erg.be",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Graphic and Visual Arts",
+          "fields": [
+            "Film",
+            "Graphic Arts",
+            "Painting and Drawing",
+            "Performing Arts",
+            "Photography",
+            "Sculpture",
+            "Video",
+            "Visual Arts"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelier (enseignement supérieur de type court)",
+          "fields": [
+            "Media Studies",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Bachelier (enseignement universitaire et enseignement supérieur de type long)",
+          "fields": [
+            "Fine Arts",
+            "Handicrafts",
+            "Media Studies",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Fine Arts",
+            "Graphic Design",
+            "Handicrafts",
+            "Media Studies",
+            "Photography",
+            "Teacher Training",
+            "Visual Arts"
+          ]
+        }
+      ],
+      "accreditation": "Wallonia-Brussels Federation (Fédération Wallonie-Bruxelles)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Laurence Rassel"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Sammy Del Gallo"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded as Institut supérieur libre des Arts plastiques - Ecole de Recherche graphique in 1972. Associated with Instituts Saint-Luc",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "7053",
+      "iau_id": "IAU-007053",
+      "name": "Haute Ecole Bruxelles - Brabant",
+      "alt_name": "Haute Ecole de Bruxelles (HE2B)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tU2BVLFBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007053",
+      "address": {
+        "Street": "Place Louis Morichar, 30",
+        "City": "Brussels",
+        "Post Code": "1060",
+        "WWW": "http://www.stluc-bruxelles-esa.be"
+      },
+      "website": "http://www.stluc-bruxelles-esa.be",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Advertising and Publicity",
+          "fields": [
+            "Advertising and Publicity",
+            "Mass Communication",
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "Course/Programme : Architectural and Planning",
+          "fields": [
+            "Architecture",
+            "Architecture and Planning",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "Course/Programme : Comics",
+          "fields": [
+            "Painting and Drawing",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Course/Programme : Computer Graphics",
+          "fields": [
+            "Computer Graphics"
+          ]
+        },
+        {
+          "name": "Course/Programme : Interior Architecture and Design",
+          "fields": [
+            "Interior Design"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelier (enseignement supérieur de type court)",
+          "fields": [
+            "Design",
+            "Fashion Design",
+            "Industrial Design",
+            "Interior Design",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Bachelier (enseignement universitaire et enseignement supérieur de type long)",
+          "fields": [
+            "Architecture",
+            "Fashion Design",
+            "Industrial Design",
+            "Interior Design",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Fashion Design",
+            "Industrial Design",
+            "Interior Design",
+            "Mass Communication",
+            "Media Studies",
+            "Visual Arts"
+          ]
+        }
+      ],
+      "accreditation": "Wallonia-Brussels Federation (Fédération Wallonie-Bruxelles)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Marc Streker"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Cécile Thuillier"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Julie Dupont"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded as Institut Saint-Luc in 1863. A part of the 5 institutes grouped within the ASBL Organizing Committee of the Saint-Luc Institutes in Saint-Gilles",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "7051",
+      "iau_id": "IAU-007051",
+      "name": "Haute Ecole Charlemagne",
+      "alt_name": "(HECh)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tU2BVLDBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007051",
+      "address": {
+        "Street": "Avenue Jean-François DeBecker, 10",
+        "City": "Brussels",
+        "Post Code": "1200",
+        "WWW": "https://leseptantecinq.be/fr"
+      },
+      "website": "https://leseptantecinq.be/fr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Unit : Plastic Arts",
+          "fields": [
+            "Fine Arts",
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "Unit : Visual Arts",
+          "fields": [
+            "Media Studies",
+            "Photography",
+            "Visual Arts"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelier (enseignement supérieur de type court)",
+          "fields": [
+            "Fine Arts",
+            "Media Studies",
+            "Photography"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Media Studies",
+            "Visual Arts"
+          ]
+        }
+      ],
+      "accreditation": "Wallonia-Brussels Federation (Fédération Wallonie-Bruxelles)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Marie-Agnès Capron"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Sophie Maas"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded as Etablissement communal d'Enseignement supérieur artistique 'Le 75' in 1969",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "7090",
+      "iau_id": "IAU-007090",
+      "name": "Haute Ecole Condorcet",
+      "alt_name": "Haute Ecole Provinciale de Hainaut - Condorcet (HEPHC)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tU2BZLGBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007090",
+      "address": {
+        "Street": "Bd de la Constitution, 41",
+        "City": "Liège",
+        "Post Code": "4020",
+        "WWW": "https://www.saint-luc.be"
+      },
+      "website": "https://www.saint-luc.be",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Plastic Arts",
+          "fields": [
+            "Advertising and Publicity",
+            "Fine Arts",
+            "Graphic Arts",
+            "Industrial Design",
+            "Interior Design",
+            "Media Studies",
+            "Painting and Drawing",
+            "Photography",
+            "Restoration of Works of Art",
+            "Sculpture"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelier (enseignement supérieur de type court)",
+          "fields": [
+            "Architecture",
+            "Fine Arts",
+            "Industrial Design",
+            "Interior Design",
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "Bachelier (enseignement universitaire et enseignement supérieur de type long)",
+          "fields": [
+            "Fine Arts",
+            "Industrial Design",
+            "Interior Design",
+            "Media Studies",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Architecture",
+            "Fine Arts",
+            "Industrial Design",
+            "Interior Design",
+            "Teacher Training"
+          ]
+        }
+      ],
+      "accreditation": "Wallonia-Brussels Federation (Fédération Wallonie-Bruxelles)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Fabienne Pironnet"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Elsa Cabergs"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Stefan Askew"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded as Institut supérieur des Beaux-Arts Saint-Luc in 1890. Earned current status and title through the merger of École supérieure des Arts Saint-Luc Liège and the Institut Supérieur d'Architecture Saint-Luc in 2000",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "7064",
+      "iau_id": "IAU-007064",
+      "name": "Haute Ecole de la Province de Liège",
+      "alt_name": "(HEPL)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tU2BWLWBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007064",
+      "address": {
+        "Street": "Rue Godefroid, 32",
+        "City": "Namur",
+        "Post Code": "5000",
+        "WWW": "http://www.heaj.be"
+      },
+      "website": "http://www.heaj.be",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : HEAJ Economy",
+          "fields": [
+            "Accountancy",
+            "Marketing",
+            "Public Relations",
+            "Real Estate",
+            "Secretarial Studies",
+            "Taxation"
+          ]
+        },
+        {
+          "name": "Campus : HEAJ Infographic",
+          "fields": [
+            "Computer Graphics",
+            "Multimedia",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Campus : HEAJ Pedagogy",
+          "fields": [
+            "Art Education",
+            "Preschool Education",
+            "Primary Education",
+            "Rehabilitation and Therapy"
+          ]
+        },
+        {
+          "name": "Campus : Namur",
+          "fields": [
+            "Media Studies",
+            "Visual Arts"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelier (enseignement universitaire et enseignement supérieur de type long)",
+          "fields": [
+            "Accountancy",
+            "Art Education",
+            "Computer Graphics",
+            "Marketing",
+            "Multimedia",
+            "Preschool Education",
+            "Primary Education",
+            "Public Relations",
+            "Real Estate",
+            "Rehabilitation and Therapy",
+            "Secretarial Studies",
+            "Taxation",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Multimedia",
+            "Visual Arts"
+          ]
+        }
+      ],
+      "accreditation": "Wallonia-Brussels Federation (Fédération Wallonie-Bruxelles)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Véronique Dodinval"
+        }
+      ],
+      "statistics": {},
+      "history": "Created 1995 following a merger between the Institut d’Enseignement Supérieur Pédagogique de la Communauté française à Namur (ESPENA) and the Institut d’Enseignement Supérieur Économique de la Communauté française à Tamines (IESET)",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "7066",
+      "iau_id": "IAU-007066",
+      "name": "Haute Ecole de la Province de Namur",
+      "alt_name": "(HEPN)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tU2BWLUBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007066",
+      "address": {
+        "Street": "Chaussée de Waterloo, 749",
+        "City": "Brussels",
+        "Post Code": "1180",
+        "WWW": "https://www.he2b.be"
+      },
+      "website": "https://www.he2b.be",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : Defré",
+          "fields": [
+            "Child Care and Development",
+            "Pedagogy",
+            "Preschool Education",
+            "Teacher Training",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Campus : Erasme",
+          "fields": [
+            "Midwifery",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Campus : ESI",
+          "fields": [
+            "Business Computing",
+            "Computer Networks",
+            "Computer Science",
+            "Information Technology",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Campus : IESSID",
+          "fields": [
+            "Library Science",
+            "Psychology",
+            "Rehabilitation and Therapy",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Campus : ISEK Forest",
+          "fields": [
+            "Medical Technology"
+          ]
+        },
+        {
+          "name": "Campus : ISES",
+          "fields": [
+            "Business Administration",
+            "Law",
+            "Secretarial Studies",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Campus : ISIB Goujons",
+          "fields": [
+            "Electrical Engineering",
+            "Energy Engineering",
+            "Engineering Management",
+            "Mechanics",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Campus : ISIB Royale",
+          "fields": [
+            "Chemical Engineering",
+            "Electrical and Electronic Engineering",
+            "Electronic Engineering",
+            "Energy Engineering",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Campus : Nivelles",
+          "fields": [
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Campus : Schaller",
+          "fields": [
+            "Rehabilitation and Therapy"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelier (enseignement supérieur de type court)",
+          "fields": [
+            "Business Administration",
+            "Child Care and Development",
+            "Communication Arts",
+            "Computer Networks",
+            "Education",
+            "Information Technology",
+            "Law",
+            "Library Science",
+            "Nursing",
+            "Preschool Education",
+            "Psychology",
+            "Rehabilitation and Therapy",
+            "Secretarial Studies",
+            "Social Work",
+            "Teacher Training",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Bachelier (enseignement universitaire et enseignement supérieur de type long)",
+          "fields": [
+            "Rehabilitation and Therapy"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Chemical Engineering",
+            "Computer Networks",
+            "Computer Science",
+            "Electrical and Electronic Engineering",
+            "Electronics and Automation",
+            "Industrial Engineering",
+            "Information Management",
+            "Mechanics",
+            "Rehabilitation and Therapy",
+            "Social Work",
+            "Telecommunications Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Wallonia-Brussels Federation (Fédération Wallonie-Bruxelles)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Suna Tekir"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Marie-Laure Brasseur"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded in 1996. Merged with Haute Ecole de Bruxelles and Haute Ecole Paul-Henri Spaak in 2016",
+      "periodicals": [
+        "Equivalences",
+        "Equivalences"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "7069",
+      "iau_id": "IAU-007069",
+      "name": "Haute Ecole de la Ville de Liège",
+      "alt_name": "(HEL)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tU2BWLjBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007069",
+      "address": {
+        "Street": "Rue des Rivageois, 6",
+        "City": "Liège",
+        "Post Code": "4000",
+        "WWW": "https://www.hech.be"
+      },
+      "website": "https://www.hech.be",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to September",
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : Campus ISIa Gembloux-Huy",
+          "fields": [
+            "Agriculture",
+            "Crop Production",
+            "Environmental Engineering",
+            "Food Technology",
+            "Horticulture"
+          ]
+        },
+        {
+          "name": "Campus : Charlemagne CHU",
+          "fields": [
+            "Medical Technology"
+          ]
+        },
+        {
+          "name": "Campus : Charlemagne Huy",
+          "fields": [
+            "Secretarial Studies",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Campus : Charlemagne Verviers",
+          "fields": [
+            "Administration",
+            "Cooking and Catering",
+            "Hotel Management",
+            "Management",
+            "Secretarial Studies",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Campus : Les Rivageois",
+          "fields": [
+            "Sports",
+            "Teacher Training",
+            "Tourism",
+            "Welfare and Protective Services"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelier (enseignement supérieur de type court)",
+          "fields": [
+            "Administration",
+            "Agriculture",
+            "Cooking and Catering",
+            "Crop Production",
+            "Environmental Engineering",
+            "Food Technology",
+            "Horticulture",
+            "Hotel Management",
+            "Management",
+            "Medical Technology",
+            "Preschool Education",
+            "Secretarial Studies",
+            "Sports",
+            "Teacher Training",
+            "Tourism",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Bachelier (enseignement universitaire et enseignement supérieur de type long)",
+          "fields": [
+            "Agriculture"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Agronomy",
+            "Environmental Engineering",
+            "Food Science"
+          ]
+        }
+      ],
+      "accreditation": "Wallonia-Brussels Federation (Fédération Wallonie-Bruxelles)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Michèle Simar"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded in 1996",
+      "periodicals": [
+        "Bulletin International Charlemagne",
+        "Bulletin International Charlemagne"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "7062",
+      "iau_id": "IAU-007062",
+      "name": "Haute Ecole en Hainaut",
+      "alt_name": "(HEH)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tU2BWLEBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007062",
+      "address": {
+        "Street": "Chemin du Champ de Mars, 17",
+        "City": "Mons",
+        "Post Code": "7000",
+        "WWW": "https://www.condorcet.be"
+      },
+      "website": "https://www.condorcet.be",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to September (September - January; February - June; July - September)",
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : Charleroi",
+          "fields": [
+            "Accountancy",
+            "Electrical and Electronic Engineering",
+            "Energy Engineering",
+            "Information Sciences",
+            "Law",
+            "Retailing and Wholesaling",
+            "Secretarial Studies",
+            "Taxation"
+          ]
+        },
+        {
+          "name": "Campus : Froyennes",
+          "fields": [
+            "Computer Networks",
+            "Data Science",
+            "Secretarial Studies",
+            "Social Problems",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Campus : Mons",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Advertising and Publicity",
+            "Business Computing",
+            "E-Business/Commerce",
+            "Economics",
+            "Hotel Management",
+            "Information Sciences",
+            "Insurance",
+            "International Business",
+            "Law",
+            "Management",
+            "Marketing",
+            "Midwifery",
+            "Nursing",
+            "Real Estate",
+            "Retailing and Wholesaling",
+            "Secretarial Studies",
+            "Taxation",
+            "Teacher Training",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Campus : Montignies-sur-Sambre",
+          "fields": [
+            "Midwifery",
+            "Nursing",
+            "Rehabilitation and Therapy"
+          ]
+        },
+        {
+          "name": "Campus : Morlanwelz",
+          "fields": [
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Campus : Saint-Ghislain",
+          "fields": [
+            "Administration",
+            "Hotel and Restaurant",
+            "Hotel Management",
+            "Leisure Studies",
+            "Management",
+            "Media Studies",
+            "Rehabilitation and Therapy",
+            "Video",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Campus : Tournai",
+          "fields": [
+            "Chemical Engineering",
+            "Electrical and Electronic Engineering",
+            "Electronics and Automation",
+            "Midwifery",
+            "Nursing",
+            "Rehabilitation and Therapy"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelier (enseignement supérieur de type court)",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Advertising and Publicity",
+            "Agriculture",
+            "Agronomy",
+            "Banking",
+            "Chemistry",
+            "Crop Production",
+            "Data Science",
+            "Educational Sciences",
+            "Electrical and Electronic Engineering",
+            "Electronics and Automation",
+            "Finance",
+            "Forestry",
+            "Horticulture",
+            "Hotel and Restaurant",
+            "Hotel Management",
+            "Information Sciences",
+            "Insurance",
+            "Law",
+            "Leisure Studies",
+            "Management",
+            "Marketing",
+            "Media Studies",
+            "Medicine",
+            "Midwifery",
+            "Nursing",
+            "Preschool Education",
+            "Rehabilitation and Therapy",
+            "Retailing and Wholesaling",
+            "Software Engineering",
+            "Taxation",
+            "Teacher Training",
+            "Video",
+            "Visual Arts",
+            "Welfare and Protective Services",
+            "Wildlife"
+          ]
+        },
+        {
+          "name": "Bachelier (enseignement universitaire et enseignement supérieur de type long)",
+          "fields": [
+            "Agriculture",
+            "Rehabilitation and Therapy"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Agronomy",
+            "Chemical Engineering",
+            "Electrical and Electronic Engineering",
+            "Energy Engineering",
+            "Environmental Engineering",
+            "Food Science",
+            "Rehabilitation and Therapy",
+            "Social Work"
+          ]
+        }
+      ],
+      "accreditation": "Wallonia-Brussels Federation (Fédération Wallonie-Bruxelles)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Axelle Leroy"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Claire Avril"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded following the merger of the Haute Ecole Provinciale Mons-Borinage-Centre (HEPMBC), the Haute Ecole Provinciale du Hainaut Occidental (HEPHO) and the Haute Ecole Provinciale Charleroi-Université du travail (HEPCUT) in 2009",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "31443",
+      "iau_id": "IAU-031443",
+      "name": "Haute École EPHEC",
+      "alt_name": "(EPHEC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sUyRULSMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-031443",
+      "address": {
+        "Street": "Avenue Montesquieu, 6",
+        "City": "Jemeppe-sur-Meuse",
+        "Post Code": "4101",
+        "WWW": "https://www.hepl.be"
+      },
+      "website": "https://www.hepl.be",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June (September - December; February - May; July - September)",
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : 2000",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Law",
+            "Library Science",
+            "Management",
+            "Marketing",
+            "Psychology",
+            "Rehabilitation and Therapy",
+            "Social Work",
+            "Software Engineering",
+            "Taxation",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Campus : Avroy",
+          "fields": [
+            "Administration",
+            "Management"
+          ]
+        },
+        {
+          "name": "Campus : Barbou",
+          "fields": [
+            "Dental Technology",
+            "Medical Technology",
+            "Midwifery",
+            "Nursing",
+            "Rehabilitation and Therapy"
+          ]
+        },
+        {
+          "name": "Campus : Beeckman",
+          "fields": [
+            "Sports",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Campus : Delchambre",
+          "fields": [
+            "Midwifery",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Campus : Gloesener",
+          "fields": [
+            "Administration",
+            "Architectural and Environmental Design",
+            "Building Technologies",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civil Engineering",
+            "Electronic Engineering",
+            "Electronics and Automation",
+            "Management"
+          ]
+        },
+        {
+          "name": "Campus : La Reid",
+          "fields": [
+            "Agriculture",
+            "Crop Production",
+            "Forestry",
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "Campus : Laines",
+          "fields": [
+            "Building Technologies",
+            "Civil Engineering",
+            "Midwifery",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Campus : Parc Des Marêts - Seraing",
+          "fields": [
+            "Computer Networks",
+            "Information Technology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelier (enseignement supérieur de type court)",
+          "fields": [
+            "Accountancy",
+            "Agriculture",
+            "Building Technologies",
+            "Chemistry",
+            "Civil Engineering",
+            "Dental Technology",
+            "Electrical and Electronic Engineering",
+            "Forestry",
+            "Information Technology",
+            "Law",
+            "Library Science",
+            "Marketing",
+            "Media Studies",
+            "Midwifery",
+            "Nursing",
+            "Physical Therapy",
+            "Psychology",
+            "Rehabilitation and Therapy",
+            "Retailing and Wholesaling",
+            "Social Work",
+            "Software Engineering",
+            "Sports",
+            "Taxation",
+            "Teacher Training",
+            "Welfare and Protective Services",
+            "Wildlife"
+          ]
+        },
+        {
+          "name": "Bachelier (enseignement universitaire et enseignement supérieur de type long)",
+          "fields": [
+            "Administration",
+            "Management",
+            "Rehabilitation and Therapy"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Administration",
+            "Architecture",
+            "Building Technologies",
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Data Science",
+            "Electrical and Electronic Engineering",
+            "Electronics and Automation",
+            "Industrial Engineering",
+            "Management",
+            "Physical Therapy",
+            "Rehabilitation and Therapy",
+            "Social Work",
+            "Town Planning"
+          ]
+        }
+      ],
+      "accreditation": "Wallonia-Brussels Federation (Fédération Wallonie-Bruxelles)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Annick Lapierre"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Philippe Parmentier"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded in 2007 following the merger of three Hautes Ecoles provinciales: Rennequin Sualem, Léon-Eli Troclet and André Vésale",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "7074",
+      "iau_id": "IAU-007074",
+      "name": "Haute Ecole Francisco Ferrer",
+      "alt_name": "(HEFF)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tU2BXLWBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007074",
+      "address": {
+        "Street": "Rue Henri Blès, 192",
+        "City": "Namur",
+        "Post Code": "5000",
+        "WWW": "https://hepn.be"
+      },
+      "website": "https://hepn.be",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : Agro Pole",
+          "fields": [
+            "Agriculture",
+            "Crop Production",
+            "Wildlife"
+          ]
+        },
+        {
+          "name": "Campus : HEPN",
+          "fields": [
+            "Midwifery",
+            "Nursing",
+            "Rehabilitation and Therapy"
+          ]
+        },
+        {
+          "name": "Campus : Provincial",
+          "fields": [
+            "Civics",
+            "Political Sciences",
+            "Secretarial Studies"
+          ]
+        },
+        {
+          "name": "Course/Programme : Hotels",
+          "fields": [
+            "Administration",
+            "Agronomy",
+            "Cooking and Catering",
+            "Hotel and Restaurant",
+            "Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelier (enseignement supérieur de type court)",
+          "fields": [
+            "Administration",
+            "Agriculture",
+            "Agronomy",
+            "Civics",
+            "Crop Production",
+            "Hotel and Restaurant",
+            "Hotel Management",
+            "Management",
+            "Midwifery",
+            "Nursing",
+            "Political Sciences",
+            "Rehabilitation and Therapy",
+            "Secretarial Studies",
+            "Wildlife"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Agronomy"
+          ]
+        }
+      ],
+      "accreditation": "Wallonia-Brussels Federation (Fédération Wallonie-Bruxelles)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Emmanuel Devroye"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Céline Legrand"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded in 2007 from the merger of Haute école namuroise catholique (HENaC) and haute école d'enseignement supérieur de Namur (IESN)",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "7075",
+      "iau_id": "IAU-007075",
+      "name": "Haute Ecole Galilée",
+      "alt_name": "(HEG)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tU2BXLTBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007075",
+      "address": {
+        "Street": "Rue Hazinelle, 2",
+        "City": "Liège",
+        "Post Code": "4000",
+        "WWW": "http://www.hel.be"
+      },
+      "website": "http://www.hel.be",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : Condroz",
+          "fields": [
+            "Chemistry",
+            "Electrical and Electronic Engineering",
+            "Electronics and Automation"
+          ]
+        },
+        {
+          "name": "Campus : Hazinelle",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Advertising and Publicity",
+            "Hotel and Restaurant",
+            "Management",
+            "Marketing",
+            "Rehabilitation and Therapy",
+            "Secretarial Studies",
+            "Taxation",
+            "Teacher Trainers Education",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Campus : Jonfosse",
+          "fields": [
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Campus : Londres",
+          "fields": [
+            "Information Sciences",
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "Campus : Sohet",
+          "fields": [
+            "Chemistry"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelier (enseignement supérieur de type court)",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Advertising and Publicity",
+            "Business Administration",
+            "Chemistry",
+            "Education",
+            "Electrical and Electronic Engineering",
+            "Hotel and Restaurant",
+            "Information Sciences",
+            "Management",
+            "Marketing",
+            "Media Studies",
+            "Rehabilitation and Therapy",
+            "Secretarial Studies",
+            "Speech Therapy and Audiology",
+            "Taxation",
+            "Teacher Training",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Computer Science",
+            "Public Administration",
+            "Sales Techniques"
+          ]
+        }
+      ],
+      "accreditation": "Wallonia-Brussels Federation (Fédération Wallonie-Bruxelles)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Pascale Lebichot"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Ingrid Jacob"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Antoine Dechêne"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded in 1996",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "27727",
+      "iau_id": "IAU-007076-027727",
+      "name": "Haute Ecole ICHEC - ECAM - ISFSC – École centrale des Arts et Métiers",
+      "alt_name": "Brussels Engineering School (ECAM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzxXLEM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007076-027727",
+      "address": {
+        "Street": "Rue Pierre-Joseph Duménil, 4",
+        "City": "Mons",
+        "Post Code": "7000",
+        "WWW": "https://www.heh.be"
+      },
+      "website": "https://www.heh.be",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : Economics - Tournai",
+          "fields": [
+            "Economics",
+            "Law",
+            "Secretarial Studies",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Campus : Pedagogy - Mons",
+          "fields": [
+            "Arts and Humanities",
+            "Economics",
+            "Education",
+            "Educational Technology",
+            "Fine Arts",
+            "French",
+            "Germanic Languages",
+            "Mathematics",
+            "Natural Sciences",
+            "Pedagogy",
+            "Preschool Education",
+            "Primary Education",
+            "Special Education",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Campus : Social - Mons",
+          "fields": [
+            "Social Studies",
+            "Teacher Training",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Campus : Social -Tournai",
+          "fields": [
+            "Teacher Training",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Campus : Technical - Mons",
+          "fields": [
+            "Biotechnology",
+            "Chemical Engineering",
+            "Computer Engineering",
+            "Computer Graphics",
+            "Construction Engineering",
+            "Electronic Engineering",
+            "Industrial Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelier (enseignement supérieur de type court)",
+          "fields": [
+            "Chemical Engineering",
+            "Electronic Engineering",
+            "Electronics and Automation",
+            "Law",
+            "Media Studies",
+            "Preschool Education",
+            "Teacher Training",
+            "Tourism",
+            "Visual Arts",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Bachelier (enseignement universitaire et enseignement supérieur de type long)",
+          "fields": [
+            "Computer Science",
+            "Electrical and Electronic Engineering"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Architecture",
+            "Building Technologies",
+            "Civil Engineering",
+            "Computer Science",
+            "Electrical and Electronic Engineering",
+            "Electronics and Automation",
+            "Town Planning"
+          ]
+        }
+      ],
+      "accreditation": "Wallonia-Brussels Federation (Fédération Wallonie-Bruxelles)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Denis Dufrane"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Laurence Baras"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Héloïse Toussaint"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded in 1996",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "27726",
+      "iau_id": "IAU-007076-027726",
+      "name": "Haute Ecole ICHEC - ECAM - ISFSC – Institut catholique des hautes études commerciales",
+      "alt_name": "Brussels Management School (ICHEC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzxXLEM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007076-027726",
+      "address": {
+        "Street": "Avenue Konrad Adenauer, 3",
+        "City": "Woluwé-Saint-Lambert",
+        "Post Code": "1200",
+        "WWW": "https://www.ephec.be"
+      },
+      "website": "https://www.ephec.be",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1969,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Business",
+          "fields": [
+            "Accountancy",
+            "E-Business/Commerce",
+            "International Business",
+            "Marketing",
+            "Secretarial Studies"
+          ]
+        },
+        {
+          "name": "Course/Programme : Education",
+          "fields": [
+            "Art Education",
+            "Education",
+            "Foreign Languages Education",
+            "Mathematics Education",
+            "Native Language Education",
+            "Science Education"
+          ]
+        },
+        {
+          "name": "Course/Programme : Health",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Course/Programme : Technology",
+          "fields": [
+            "Information Technology",
+            "Mechanical Equipment and Maintenance"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelier (enseignement supérieur de type court)",
+          "fields": [
+            "Accountancy",
+            "E-Business/Commerce",
+            "Information Technology",
+            "International Business",
+            "Law",
+            "Marketing",
+            "Mechanical Equipment and Maintenance",
+            "Nursing",
+            "Secretarial Studies"
+          ]
+        },
+        {
+          "name": "Bachelier (enseignement universitaire et enseignement supérieur de type long)",
+          "fields": [
+            "Art Education",
+            "Education",
+            "Foreign Languages Education",
+            "Mathematics Education",
+            "Native Language Education",
+            "Science Education"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Emmanuelle Havrenne"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Caroline Lovens"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1969",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "7077",
+      "iau_id": "IAU-007077",
+      "name": "Haute Ecole Léonard de Vinci",
+      "alt_name": "(HE Vinci)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tU2BXLVBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007077",
+      "address": {
+        "Street": "Rue de la Fontaine, 4",
+        "City": "Brussels",
+        "Post Code": "1000",
+        "WWW": "https://www.he-ferrer.eu"
+      },
+      "website": "https://www.he-ferrer.eu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Applied Arts",
+          "fields": [
+            "Advertising and Publicity",
+            "Fashion Design",
+            "Textile Design"
+          ]
+        },
+        {
+          "name": "Department/Division : Economics",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Business Administration",
+            "Insurance",
+            "Public Administration",
+            "Secretarial Studies",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Paramedical Studies",
+          "fields": [
+            "Medical Technology",
+            "Midwifery",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Department/Division : Pedagogy",
+          "fields": [
+            "Economics",
+            "French",
+            "Germanic Languages",
+            "Mathematics",
+            "Natural Sciences",
+            "Physical Education",
+            "Preschool Education",
+            "Primary Education",
+            "Secondary Education"
+          ]
+        },
+        {
+          "name": "Department/Division : Technical",
+          "fields": [
+            "Electronic Engineering",
+            "Graphic Design"
+          ]
+        },
+        {
+          "name": "Department/Division : Translation and Interpretation",
+          "fields": [
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Unit : Applied Mathematics",
+          "fields": [
+            "Applied Mathematics"
+          ]
+        },
+        {
+          "name": "Unit : Physical Education",
+          "fields": [
+            "Physical Education"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelier (enseignement supérieur de type court)",
+          "fields": [
+            "Administration",
+            "Business Administration",
+            "Management"
+          ]
+        },
+        {
+          "name": "Bachelier (enseignement universitaire et enseignement supérieur de type long)",
+          "fields": [
+            "Administration",
+            "Business Administration",
+            "Management"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Administration",
+            "Business Administration",
+            "Management"
+          ]
+        }
+      ],
+      "accreditation": "Wallonia-Brussels Federation (Fédération Wallonie-Bruxelles)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Régine Calloens"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Amaël Toussain"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Ilias Ouehhabi"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded in 1996 from the merger of Institut Cooremans, Institut Charles Buls, Institut supérieur De Mot, Institut d’enseignement supérieur artistique Bishoffsheim, and Institut de nursing Eveline Anspach",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "7078",
+      "iau_id": "IAU-007078",
+      "name": "Haute Ecole libre de Bruxelles Ilya Prigogine",
+      "alt_name": "(HELB-IP)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tU2BXLmBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007078",
+      "address": {
+        "Street": "Rue Royale, 336",
+        "City": "Brussels",
+        "Post Code": "1030",
+        "WWW": "http://www.galilee.be"
+      },
+      "website": "http://www.galilee.be",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June",
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Economics",
+          "fields": [
+            "Hotel Management",
+            "Secretarial Studies",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Institute : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Institute : Pedagogy",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Dutch",
+            "Economics",
+            "English",
+            "Fine Arts",
+            "French",
+            "Geography",
+            "History",
+            "Mathematics",
+            "Pedagogy",
+            "Physics",
+            "Religion",
+            "Social Sciences",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Institute : Social Communication",
+          "fields": [
+            "Advertising and Publicity",
+            "Communication Studies",
+            "Journalism",
+            "Media Studies",
+            "Modern Languages",
+            "Public Relations"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelier (enseignement supérieur de type court)",
+          "fields": [
+            "Communication Arts"
+          ]
+        },
+        {
+          "name": "Bachelier (enseignement universitaire et enseignement supérieur de type long)",
+          "fields": [
+            "Communication Arts"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Communication Arts",
+            "Journalism",
+            "Media Studies"
+          ]
+        }
+      ],
+      "accreditation": "Wallonia-Brussels Federation (Fédération Wallonie-Bruxelles)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Pierre Smets"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Mélissa D'hont"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded following the merger of IHECS, ECSEDI-ISALT, ISSIG and ISPG in 1996",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "7085",
+      "iau_id": "IAU-007085",
+      "name": "Haute Ecole Libre Mosane",
+      "alt_name": "(HELMo)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tU2BYLTBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007085",
+      "address": {
+        "Street": "Promenade de l’Alma 50,",
+        "City": "Bruxelles",
+        "Post Code": "1200",
+        "WWW": "https://www.ecam.be"
+      },
+      "website": "https://www.ecam.be",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Automation Engineering",
+          "fields": [
+            "Electronics and Automation",
+            "Industrial Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Computer  Engineering",
+          "fields": [
+            "Computer Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Construction Engineering",
+          "fields": [
+            "Construction Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Electro-Mechanical Engineering",
+          "fields": [
+            "Electronic Engineering",
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Electronic Engineering",
+          "fields": [
+            "Electronic Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Master",
+          "fields": [
+            "Civil Engineering",
+            "Computer Engineering",
+            "Construction Engineering",
+            "Electronic Engineering",
+            "Electronics and Automation",
+            "Industrial Engineering",
+            "Mechanical Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Wallonia-Brussels Federation (Fédération Wallonie-Bruxelles)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Xavier Van den Dooren"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Sophie Alsteens"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded in 1898. Acquired status in 2004",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "7086",
+      "iau_id": "IAU-007086",
+      "name": "Haute Ecole Louvain en Hainaut",
+      "alt_name": "(HELHa)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tU2BYLUBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007086",
+      "address": {
+        "Street": "Rue au Bois, 365a",
+        "City": "Bruxelles",
+        "Post Code": "1150",
+        "WWW": "https://www.ichec.be/fr"
+      },
+      "website": "https://www.ichec.be/fr",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "French",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "School : Ecole Supérieure des Sciences Fiscales (ESSF)",
+          "fields": [
+            "European Union Law",
+            "Fiscal Law"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Master",
+          "fields": [
+            "Business and Commerce",
+            "European Union Law",
+            "Fiscal Law",
+            "International Business",
+            "Sales Techniques",
+            "Teacher Training"
+          ]
+        }
+      ],
+      "accreditation": "Wallonia-Brussels Federation (Fédération Wallonie-Bruxelles)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Brigitte Chanoine"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Kristien Minet"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded in 1934",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "7087",
+      "iau_id": "IAU-007087",
+      "name": "Haute Ecole Lucia de Brouckère",
+      "alt_name": "(HELdB)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tU2BYLVBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007087",
+      "address": {
+        "Street": "Place de l'Alma, 3",
+        "City": "Brussels",
+        "Post Code": "1200",
+        "WWW": "https://www.vinci.be"
+      },
+      "website": "https://www.vinci.be",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : ENCBW",
+          "fields": [
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Campus : Marie Haps",
+          "fields": [
+            "Psychology",
+            "Rehabilitation and Therapy",
+            "Speech Therapy and Audiology",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Campus : Parnasse-ISEI",
+          "fields": [
+            "Child Care and Development",
+            "Midwifery",
+            "Nursing",
+            "Rehabilitation and Therapy",
+            "Sports",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Campus : Paul Lambin",
+          "fields": [
+            "Biomedicine",
+            "Business Computing",
+            "Chemistry",
+            "Dietetics",
+            "Laboratory Techniques",
+            "Medical Technology",
+            "Rehabilitation and Therapy"
+          ]
+        },
+        {
+          "name": "Campus : SE-ISEI",
+          "fields": [
+            "Anaesthesiology",
+            "Community Health",
+            "Gerontology",
+            "Midwifery",
+            "Nursing",
+            "Oncology",
+            "Paediatrics",
+            "Psychiatry and Mental Health"
+          ]
+        },
+        {
+          "name": "School : Pedagogy",
+          "fields": [
+            "Pedagogy",
+            "Teacher Training"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelier (enseignement supérieur de type court)",
+          "fields": [
+            "Biological and Life Sciences",
+            "Chemistry",
+            "Child Care and Development",
+            "French",
+            "Germanic Languages",
+            "Health Sciences",
+            "Information Sciences",
+            "Mathematics and Computer Science",
+            "Midwifery",
+            "Nursing",
+            "Psychology",
+            "Rehabilitation and Therapy",
+            "Sports",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Bachelier (enseignement universitaire et enseignement supérieur de type long)",
+          "fields": [
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Architecture",
+            "Building Technologies",
+            "Electrical and Electronic Engineering",
+            "Electronics and Automation",
+            "Physical Therapy",
+            "Rehabilitation and Therapy"
+          ]
+        }
+      ],
+      "accreditation": "Wallonia-Brussels Federation (Fédération Wallonie-Bruxelles)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Didier Lambert"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded from the merger of ENCBW, Marie Haps, Paul Lambin, and Parnassus-ISEI in 1995",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "7061",
+      "iau_id": "IAU-007061",
+      "name": "Haute Ecole Robert Schuman",
+      "alt_name": "(HERS)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tU2BWLDBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007061",
+      "address": {
+        "Street": "Boulevard du Triomphe, accès 02, Campus de la Plaine-Bâtiment H",
+        "City": "Brussels",
+        "Post Code": "1050",
+        "WWW": "https://www.helb-prigogine.be"
+      },
+      "website": "https://www.helb-prigogine.be",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1995,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : Erasme",
+          "fields": [
+            "Dental Technology",
+            "Environmental Studies",
+            "Health Sciences",
+            "Midwifery",
+            "Nursing",
+            "Rehabilitation and Therapy"
+          ]
+        },
+        {
+          "name": "Campus : Plaine",
+          "fields": [
+            "Administration",
+            "Information Sciences",
+            "Management"
+          ]
+        },
+        {
+          "name": "Campus : Reyers",
+          "fields": [
+            "Advertising and Publicity",
+            "Marketing",
+            "Media Studies",
+            "Software Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelier (enseignement supérieur de type court)",
+          "fields": [
+            "Advertising and Publicity",
+            "Computer Science",
+            "Dentistry",
+            "Electrical and Electronic Equipment and Maintenance",
+            "Electronics and Automation",
+            "Health Sciences",
+            "Information Sciences",
+            "Information Technology",
+            "Marketing",
+            "Mass Communication",
+            "Mathematics and Computer Science",
+            "Midwifery",
+            "Nursing",
+            "Photography",
+            "Public Relations",
+            "Rehabilitation and Therapy",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Bachelier (enseignement universitaire et enseignement supérieur de type long)",
+          "fields": [
+            "Rehabilitation and Therapy"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Administration",
+            "Computer Engineering",
+            "Management",
+            "Paramedical Sciences",
+            "Social Work",
+            "Software Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Wallonia-Brussels Federation (Fédération Wallonie-Bruxelles)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Jean-Luc Mahieu"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Michael Robert"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1995",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "7076",
+      "iau_id": "IAU-007076",
+      "name": "ICHEC Brussels Management School - ECAM Business Engineering School - ISFSC",
+      "alt_name": "Haute Ecole ICHEC - ECAM - ISFSC – Haute Ecole groupe ICHEC - ISC Saint-Louis - ISFSC",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tU2BXLUBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007076",
+      "address": {
+        "Street": "Mont Saint-Martin, 41",
+        "City": "Liège",
+        "Post Code": "4000",
+        "WWW": "https://www.helmo.be"
+      },
+      "website": "https://www.helmo.be",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1996,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June (September-January; February-June)",
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : Guillemins",
+          "fields": [
+            "Accountancy",
+            "Advertising and Publicity",
+            "Civics",
+            "Data Science",
+            "Information Technology",
+            "Insurance",
+            "International Business",
+            "Law",
+            "Marketing",
+            "Political Sciences",
+            "Retailing and Wholesaling",
+            "Secretarial Studies",
+            "Taxation"
+          ]
+        },
+        {
+          "name": "Campus : Ourthe",
+          "fields": [
+            "Administration",
+            "Biomedicine",
+            "Business and Commerce",
+            "Chemical Engineering",
+            "Computer Networks",
+            "Computer Science",
+            "Electrical and Electronic Engineering",
+            "Electronics and Automation",
+            "Energy Engineering",
+            "Media Studies",
+            "Midwifery",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Centre : HELMo-CFEL",
+          "fields": [
+            "Child Care and Development",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Institute : HELMo ESAS",
+          "fields": [
+            "Child Care and Development",
+            "Social Welfare",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Institute : HELMo Huy",
+          "fields": [
+            "Primary Education",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Institute : HELMo Loncin",
+          "fields": [
+            "Physical Education"
+          ]
+        },
+        {
+          "name": "Institute : HELMo Mode",
+          "fields": [
+            "Fashion Design"
+          ]
+        },
+        {
+          "name": "Institute : HELMo Saint-Roch",
+          "fields": [
+            "Primary Education",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Institute : HELMo Sainte-Croix",
+          "fields": [
+            "Preschool Education",
+            "Primary Education",
+            "Secondary Education",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Institute : HELMo Verviers",
+          "fields": [
+            "Modern Languages",
+            "Secretarial Studies"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelier (enseignement supérieur de type court)",
+          "fields": [
+            "Accountancy",
+            "Advertising and Publicity",
+            "Business Administration",
+            "Child Care and Development",
+            "Civics",
+            "Computer Networks",
+            "Computer Science",
+            "Educational Sciences",
+            "Electrical and Electronic Engineering",
+            "Information Sciences",
+            "Law",
+            "Marketing",
+            "Midwifery",
+            "Nursing",
+            "Political Sciences",
+            "Preschool Education",
+            "Retailing and Wholesaling",
+            "Secretarial Studies",
+            "Taxation",
+            "Textile Design",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Bachelier (enseignement universitaire et enseignement supérieur de type long)",
+          "fields": [
+            "Education",
+            "Laboratory Techniques",
+            "Midwifery",
+            "Nursing",
+            "Social Welfare",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Chemistry",
+            "Computer Engineering",
+            "Education",
+            "Electrical and Electronic Engineering",
+            "Energy Engineering",
+            "Social Welfare",
+            "Social Work"
+          ]
+        }
+      ],
+      "accreditation": "Wallonia-Brussels Federation (Fédération Wallonie-Bruxelles)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Bernard Feltz"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Bénédicte Delserre"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Julie Guiot"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1996. Acquired present title 2008 following merger with ISELL",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "7938",
+      "iau_id": "IAU-007938",
+      "name": "Institut des Arts de diffusion",
+      "alt_name": "(IAD)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tU0RTLmBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007938",
+      "address": {
+        "Street": "Chaussée de Binche, 159",
+        "City": "Mons",
+        "Post Code": "7000",
+        "WWW": "https://www.helha.be"
+      },
+      "website": "https://www.helha.be",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2009,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to July",
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : HELHa Braine-le-Comte",
+          "fields": [
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Campus : HELHa Charleroi",
+          "fields": [
+            "Electrical and Electronic Engineering",
+            "Energy Engineering",
+            "Information Sciences"
+          ]
+        },
+        {
+          "name": "Campus : HELHa Gilly",
+          "fields": [
+            "Media Studies",
+            "Midwifery",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Campus : HELHa Gosselies",
+          "fields": [
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Campus : HELHa Jolimont",
+          "fields": [
+            "Midwifery",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Campus : HELHa La Louvière",
+          "fields": [
+            "Administration",
+            "Advertising and Publicity",
+            "Hotel and Restaurant",
+            "Management",
+            "Marketing",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Campus : HELHa Leuze-en-Hainaut",
+          "fields": [
+            "Preschool Education",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Campus : HELHa Louvain-la-Neuve",
+          "fields": [
+            "Health Sciences",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Campus : HELHa Loverval",
+          "fields": [
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Campus : HELHa Mons",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Advertising and Publicity",
+            "Building Technologies",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civil Engineering",
+            "Electrical and Electronic Engineering",
+            "Electronics and Automation",
+            "Information Sciences",
+            "Information Technology",
+            "Management",
+            "Marketing",
+            "Media Studies",
+            "Secretarial Studies",
+            "Taxation",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Campus : HELHa Montignies",
+          "fields": [
+            "Advertising and Publicity",
+            "Agriculture",
+            "Information Sciences",
+            "Marketing",
+            "Medical Technology",
+            "Plant and Crop Protection",
+            "Rehabilitation and Therapy",
+            "Secretarial Studies"
+          ]
+        },
+        {
+          "name": "Campus : HELHa Mouscron",
+          "fields": [
+            "Midwifery",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Campus : HELHa Tournai-Paramedic",
+          "fields": [
+            "Midwifery",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Campus : HELHa Tournai-Social",
+          "fields": [
+            "Administration",
+            "Advertising and Publicity",
+            "Management"
+          ]
+        },
+        {
+          "name": "Campus : HELHa Tournai-Technic",
+          "fields": [
+            "Electrical and Electronic Engineering",
+            "Energy Engineering",
+            "Information Sciences"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelier (enseignement supérieur de type court)",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Agriculture",
+            "Building Technologies",
+            "Chemistry",
+            "Civil Engineering",
+            "Electrical and Electronic Engineering",
+            "Energy Engineering",
+            "Hotel and Restaurant",
+            "Information Technology",
+            "Leisure Studies",
+            "Management",
+            "Medicine",
+            "Midwifery",
+            "Nursing",
+            "Plant and Crop Protection",
+            "Preschool Education",
+            "Rehabilitation and Therapy",
+            "Secretarial Studies",
+            "Taxation",
+            "Teacher Training",
+            "Visual Arts",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Bachelier (enseignement universitaire et enseignement supérieur de type long)",
+          "fields": [
+            "Rehabilitation and Therapy"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Administration",
+            "Automotive Engineering",
+            "Chemical Engineering",
+            "Construction Engineering",
+            "Electrical and Electronic Engineering",
+            "Electronics and Automation",
+            "Industrial Engineering",
+            "Management",
+            "Physical Therapy",
+            "Rehabilitation and Therapy",
+            "Social Work"
+          ]
+        }
+      ],
+      "accreditation": "Wallonia-Brussels Federation (Fédération Wallonie-Bruxelles)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Philippe Declercq"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Vincent Cappeliez"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Nicole Gauquie"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2009 following merger of the Haute Ecole Charleroi Europe, the Haute Ecole Libre du Hainaut Occidental and the Haute Ecole Roi Baudouin",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "8090",
+      "iau_id": "IAU-008090",
+      "name": "Institut national supérieur des Arts du Spectacle et des Techniques de diffusion",
+      "alt_name": "(INSAS)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uI2BZLGBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-008090",
+      "address": {
+        "Street": "Avenue Emile Gryzon, 1",
+        "City": "Brussels",
+        "Post Code": "1070",
+        "WWW": "https://www.heldb.be"
+      },
+      "website": "https://www.heldb.be",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : Anderlecht",
+          "fields": [
+            "Accountancy",
+            "Advertising and Publicity",
+            "Architecture",
+            "Automotive Engineering",
+            "Chemical Engineering",
+            "Electrical and Electronic Engineering",
+            "Horticulture",
+            "Hotel and Restaurant",
+            "Law",
+            "Leisure Studies",
+            "Management",
+            "Rehabilitation and Therapy",
+            "Retailing and Wholesaling",
+            "Software Engineering",
+            "Taxation",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Campus : Jodoigne",
+          "fields": [
+            "Secretarial Studies",
+            "Special Education",
+            "Teacher Training"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelier (enseignement supérieur de type court)",
+          "fields": [
+            "Accountancy",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Biochemistry",
+            "Chemical Engineering",
+            "Chemistry"
+          ]
+        }
+      ],
+      "accreditation": "Wallonia-Brussels Federation (Fédération Wallonie-Bruxelles)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Renaud Loridan"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Linda Leonora"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded in 1995",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "22683",
+      "iau_id": "IAU-022683",
+      "name": "Institut Saint-Laurent Promotion Sociale",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyhWLiMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-022683",
+      "address": {
+        "Street": "Rue Fontaine aux Mûres, 138",
+        "City": "Libramont",
+        "Post Code": "6800",
+        "WWW": "https://www.hers.be"
+      },
+      "website": "https://www.hers.be",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to September",
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : Libramont",
+          "fields": [
+            "Accountancy",
+            "Business Computing",
+            "Computer Science",
+            "Information Sciences",
+            "Midwifery",
+            "Nursing",
+            "Rehabilitation and Therapy",
+            "Secretarial Studies",
+            "Taxation",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Campus : Mageroux of Virton",
+          "fields": [
+            "Preschool Education",
+            "Teacher Training",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Campus : Printemps",
+          "fields": [
+            "Building Technologies",
+            "Civil Engineering",
+            "Rehabilitation and Therapy"
+          ]
+        },
+        {
+          "name": "Campus : Weyler of Arlon",
+          "fields": [
+            "Chemical Engineering",
+            "Chemistry",
+            "Data Science",
+            "Electrical and Electronic Engineering",
+            "Energy Engineering",
+            "Social Work"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelier (enseignement supérieur de type court)",
+          "fields": [
+            "Accountancy",
+            "Building Technologies",
+            "Chemistry",
+            "Civil Engineering",
+            "Economics",
+            "Education",
+            "Electrical and Electronic Engineering",
+            "Energy Engineering",
+            "Engineering",
+            "Information Sciences",
+            "Midwifery",
+            "Nursing",
+            "Paramedical Sciences",
+            "Pedagogy",
+            "Rehabilitation and Therapy",
+            "Secretarial Studies",
+            "Social Work",
+            "Taxation",
+            "Teacher Training",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Bachelier (enseignement universitaire et enseignement supérieur de type long)",
+          "fields": [
+            "Rehabilitation and Therapy"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Chemical Engineering",
+            "Data Science",
+            "Engineering",
+            "Engineering Management",
+            "Industrial Engineering",
+            "Physical Therapy",
+            "Rehabilitation and Therapy"
+          ]
+        }
+      ],
+      "accreditation": "Wallonia-Brussels Federation (Fédération Wallonie Bruxelles)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Laurence Denis"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded through the merger of Ecole normale de Virton, Ecole d’ingénieurs industriels d’Arlon, and Ecole supérieure paramédicale de Libramont in 1955",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "8225",
+      "iau_id": "IAU-008225",
+      "name": "Institut supérieur de Musique et de Pédagogie",
+      "alt_name": "(IMEP)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uIyhSLTBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-008225",
+      "address": {
+        "Street": "Bd Brand Whitlock, 6",
+        "City": "Brussels",
+        "Post Code": "1150",
+        "WWW": "http://www.he-ichec-isfsc.be"
+      },
+      "website": "http://www.he-ichec-isfsc.be",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : Campus ECAM",
+          "fields": [
+            "Architecture",
+            "Building Technologies",
+            "Electronic Engineering",
+            "Electronics and Automation",
+            "Industrial Management",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "Campus : Montgomery",
+          "fields": [
+            "Administration",
+            "Advertising and Publicity",
+            "Information Technology",
+            "Management",
+            "Marketing",
+            "Public Health",
+            "Teacher Trainers Education",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Campus : Poste",
+          "fields": [
+            "Advertising and Publicity",
+            "Marketing",
+            "Mass Communication",
+            "Media Studies",
+            "Multimedia",
+            "Public Health",
+            "Radio and Television Broadcasting",
+            "Welfare and Protective Services"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelier (enseignement supérieur de type court)",
+          "fields": [
+            "Advertising and Publicity",
+            "Marketing",
+            "Mass Communication",
+            "Media Studies",
+            "Multimedia",
+            "Public Health",
+            "Radio and Television Broadcasting",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Bachelier (enseignement universitaire et enseignement supérieur de type long)",
+          "fields": [
+            "Administration",
+            "Management"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Administration",
+            "Advertising and Publicity",
+            "Architecture",
+            "Building Technologies",
+            "Electronic Engineering",
+            "Electronics and Automation",
+            "Higher Education Teacher Training",
+            "Industrial Management",
+            "Information Technology",
+            "Management",
+            "Marketing",
+            "Teacher Trainers Education",
+            "Town Planning"
+          ]
+        }
+      ],
+      "accreditation": "Wallonia-Brussels Federation (Fédération Wallonie-Bruxelles)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Brigitte Chanoine"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Kristien Minet"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded in 1996. Acquired current name in 2019: the Haute Ecole ICHEC - ECAM - ISFSC is the fruit of the merger of three institutions, ICHEC (Institut catholique des hautes études commerciales), ECAM (Ecole centrale des Arts et Métiers) and ISFSC (Institut supérieur de formation sociale et de communication)",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "7070",
+      "iau_id": "IAU-007070",
+      "name": "University College of Namur - Liège - Luxembourg",
+      "alt_name": "Haute Ecole de Namur - Liège - Luxembourg (HENALLUX)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tU2BXLGBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007070",
+      "address": {
+        "Street": "Route de Blocry, 5",
+        "City": "Louvain-la-Neuve",
+        "Post Code": "1348",
+        "WWW": "https://www.iad-arts.be"
+      },
+      "website": "https://www.iad-arts.be",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Arts",
+          "fields": [
+            "Cinema and Television",
+            "Computer Graphics",
+            "Multimedia",
+            "Radio and Television Broadcasting",
+            "Sound Engineering (Acoustics)",
+            "Theatre"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelier (enseignement supérieur de type court)",
+          "fields": [
+            "Media Studies",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Bachelier (enseignement universitaire et enseignement supérieur de type long)",
+          "fields": [
+            "Music",
+            "Performing Arts"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Cinema and Television",
+            "Computer Graphics",
+            "Multimedia",
+            "Music",
+            "Performing Arts",
+            "Radio and Television Broadcasting",
+            "Sound Engineering (Acoustics)",
+            "Teacher Training",
+            "Theatre"
+          ]
+        }
+      ],
+      "accreditation": "Wallonia-Brussels Federation (Fédération Wallonie-Bruxelles)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Etienne Baffrey"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Michel Wouters"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Nathalie Degimbe"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2018-2019",
+        "Staff Full Time Total:": "150",
+        "Students Statistics Year:": "2018-2019",
+        "Students Total:": "500"
+      },
+      "history": "Founded in 1959. Acquired present status in 1962",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "19626",
+      "iau_id": "IAU-019626",
+      "name": "University of Namur",
+      "alt_name": "Université de Namur (UNamur)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RWLEM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019626",
+      "address": {
+        "Street": "Rue Thérésienne, 8",
+        "City": "Brussels",
+        "Post Code": "1000",
+        "WWW": "https://insas.be"
+      },
+      "website": "https://insas.be",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Audio-visual Arts",
+          "fields": [
+            "Cinema and Television",
+            "Radio and Television Broadcasting",
+            "Writing"
+          ]
+        },
+        {
+          "name": "Department/Division : Theatre",
+          "fields": [
+            "Acting",
+            "Theatre"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelier (enseignement supérieur de type court)",
+          "fields": [
+            "Media Studies",
+            "Theatre",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Bachelier (enseignement universitaire et enseignement supérieur de type long)",
+          "fields": [
+            "Music",
+            "Performing Arts"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Music",
+            "Performing Arts",
+            "Theatre"
+          ]
+        }
+      ],
+      "accreditation": "Wallonia-Brussels Federation (Fédération Wallonie-Bruxelles)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Laurent Gross"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Gaëlle Beeckmans"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Magali Sonnet"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded in 1962",
+      "periodicals": [],
+      "student_body": "co-ed"
+    }
+  ]
+}

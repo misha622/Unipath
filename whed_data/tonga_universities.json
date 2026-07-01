@@ -1,0 +1,76 @@
+{
+  "country_name": "Tonga",
+  "country_id": "Tonga",
+  "institutions": [
+    {
+      "id": "20578",
+      "iau_id": "IAU-020578",
+      "name": "University of the South Pacific Tonga Centre",
+      "alt_name": "(USP)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BVLVNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020578",
+      "address": {
+        "Street": "PO Box 278",
+        "City": "Nuku'alofa",
+        "WWW": "https://www.usp.ac.fj/usp-tonga"
+      },
+      "website": "https://www.usp.ac.fj/usp-tonga",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1971,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "January to November (January-June; July-November)",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Extension Studies/Continuing Education",
+          "fields": [
+            "Agriculture",
+            "Arts and Humanities",
+            "Fine Arts",
+            "Law",
+            "Management",
+            "Natural Sciences"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Agriculture",
+            "Arts and Humanities",
+            "Fine Arts",
+            "Law",
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "Postgraduate Certificate/ Diploma",
+          "fields": [
+            "Management"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Robin Siale Havea"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Olikoni Ta'ai"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1971. An extension centre of the University of South Pacific with responsibilities for Distance Education, Adult non-formal education, village and community development and appropriate technology.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    }
+  ]
+}

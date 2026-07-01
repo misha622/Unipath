@@ -1,0 +1,118 @@
+{
+  "country_name": "Curaçao",
+  "country_id": "Curaçao",
+  "institutions": [
+    {
+      "id": "19864",
+      "iau_id": "IAU-019864",
+      "name": "University of Curaçao Dr. Moises Frumencio da Costa Gomez",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RYLUMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019864",
+      "address": {
+        "Street": "Jan Noorduynweg 111",
+        "City": "Willemstad",
+        "WWW": "https://www.uoc.cw"
+      },
+      "website": "https://www.uoc.cw",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1970,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June (September-December; January-April)",
+      "languages": [
+        "Dutch",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Arts",
+          "fields": [
+            "Dutch",
+            "English",
+            "Foreign Languages Education",
+            "Native Language",
+            "Spanish",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Architecture",
+            "Civil Engineering",
+            "Electrical Engineering",
+            "Engineering",
+            "Engineering Drawing and Design",
+            "Industrial Engineering",
+            "Information Technology",
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Social and Behavioral Sciences",
+          "fields": [
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Faculty : Social Sciences and Economics",
+          "fields": [
+            "Accountancy",
+            "Business Administration"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Architecture",
+            "Business Administration",
+            "Civil Engineering",
+            "Education",
+            "Electrical Engineering",
+            "Engineering",
+            "Finance",
+            "Hotel and Restaurant",
+            "Human Resources",
+            "Law",
+            "Management",
+            "Psychology",
+            "Social Work",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Accountancy",
+            "Education",
+            "Fiscal Law",
+            "Law"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Francis de Lanoy"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1970 as Law School, became Institute of Higher Studies 1973 and became Universiteit van de Nederlandse Antillen (University of the Netherlands Antilles) in 1979, incorporating the School of Engineering, which was founded in 1972. Acquired current title 2013. The University is responsible to the Ministry of Education.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    }
+  ]
+}

@@ -1,0 +1,2912 @@
+{
+  "country_name": "Serbia",
+  "country_id": "Serbia",
+  "institutions": [
+    {
+      "id": "30565",
+      "iau_id": "IAU-030565",
+      "name": "Alfa BK University",
+      "alt_name": "Alfa BK Univerzitet",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sU2BVLUM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-030565",
+      "address": {
+        "Street": "Palmira Toljatija 3",
+        "City": "Beograd",
+        "WWW": "https://alfa.edu.rs"
+      },
+      "website": "https://alfa.edu.rs",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "1st October to 30 September",
+      "languages": [
+        "Serbian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Academy : Arts",
+          "fields": [
+            "Acting",
+            "Art Management",
+            "Cinema and Television",
+            "Jazz and Popular Music",
+            "Multimedia",
+            "Photography",
+            "Sound Engineering (Acoustics)",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Faculty : Finance, Banking and Audit",
+          "fields": [
+            "Accountancy",
+            "Agricultural Business",
+            "Agricultural Economics",
+            "Economics",
+            "Finance",
+            "International Business",
+            "Marketing",
+            "Taxation"
+          ]
+        },
+        {
+          "name": "Faculty : Foreign Languages",
+          "fields": [
+            "English",
+            "Linguistics",
+            "Philology"
+          ]
+        },
+        {
+          "name": "Faculty : Information Technologies",
+          "fields": [
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Mathematics and Computer Science",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Faculty : Sport Management",
+          "fields": [
+            "Physical Education",
+            "Sports",
+            "Sports Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor, Bachelor (Honours)",
+          "fields": [
+            "Accountancy",
+            "Agricultural Business",
+            "Business and Commerce",
+            "Computer Science",
+            "Economics",
+            "English",
+            "Information Technology",
+            "Marketing",
+            "Sports Management"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Business and Commerce",
+            "Computer Science",
+            "Economics",
+            "English",
+            "Information Technology",
+            "Sports Management"
+          ]
+        },
+        {
+          "name": "Ph.D.",
+          "fields": [
+            "International Business"
+          ]
+        }
+      ],
+      "accreditation": "National Entity for Accreditation and Quality Assurance in Higher Education (NEAQA)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Jovan Veselinović"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Marijana Joksimović"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2024-2025",
+        "Staff Full Time Total:": "75",
+        "Students Statistics Year:": "2024-2025",
+        "Students Total:": "406"
+      },
+      "history": "Created 1993",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "23185",
+      "iau_id": "IAU-023185",
+      "name": "Business Academy University",
+      "alt_name": "Univerzitet Privredna akademija",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyxRLiM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-023185",
+      "address": {
+        "Street": "Cvećarska 2",
+        "City": "Novi Sad",
+        "Post Code": "21107",
+        "WWW": "https://www.privrednaakademija.edu.rs"
+      },
+      "website": "https://www.privrednaakademija.edu.rs",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2000,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Serbian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Applied Management, Economy and Finance",
+          "fields": [
+            "Economics",
+            "Finance",
+            "Information Technology",
+            "Management"
+          ]
+        },
+        {
+          "name": "Faculty : Applied Sciences",
+          "fields": [
+            "Business Computing",
+            "Economics",
+            "Environmental Management",
+            "Food Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Contemporary Arts",
+          "fields": [
+            "Acting",
+            "Art Management",
+            "Design",
+            "Fashion Design",
+            "Fine Arts",
+            "Marketing",
+            "Painting and Drawing",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Faculty : Dentistry",
+          "fields": [
+            "Dentistry"
+          ]
+        },
+        {
+          "name": "Faculty : Economics and Engineering Management",
+          "fields": [
+            "Agricultural Business",
+            "Computer Science",
+            "Ecology",
+            "Economic and Finance Policy",
+            "Economics",
+            "Engineering Management",
+            "Environmental Engineering",
+            "European Union Law",
+            "International Economics",
+            "Road Transport",
+            "Software Engineering",
+            "Transport Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : European Faculty - KALLOS",
+          "fields": [
+            "Information Technology",
+            "Nursing",
+            "Occupational Therapy",
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "Faculty : European Legal and Political Studies",
+          "fields": [
+            "European Union Law",
+            "Law",
+            "Political Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Law, Economics and Judiciary",
+          "fields": [
+            "Civil Security",
+            "Commercial Law",
+            "Criminal Law",
+            "Criminology",
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Organizational Studies - EDUKA",
+          "fields": [
+            "Business and Commerce",
+            "Civil Security",
+            "Hotel Management",
+            "Management",
+            "Psychology",
+            "Sales Techniques"
+          ]
+        },
+        {
+          "name": "Faculty : Pharmacy",
+          "fields": [
+            "Biochemistry",
+            "Nursing",
+            "Pharmacy",
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "Faculty : Social Sciences",
+          "fields": [
+            "Economics",
+            "Information Technology",
+            "Management",
+            "Media Studies",
+            "Psychology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor, Bachelor (Honours)",
+          "fields": [
+            "Biochemistry",
+            "Dentistry",
+            "Ecology",
+            "Economics",
+            "Law",
+            "Management",
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Biochemistry",
+            "Dentistry",
+            "Ecology",
+            "Economics",
+            "Law",
+            "Management",
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Ph.D.",
+          "fields": [
+            "Acting",
+            "Commercial Law",
+            "Criminal Law",
+            "Dentistry",
+            "Design",
+            "Economics",
+            "Engineering Management",
+            "Law",
+            "Pharmacy",
+            "Software Engineering",
+            "Visual Arts"
+          ]
+        }
+      ],
+      "accreditation": "Commission for Accreditation and Quality Assurance.",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Milan Počuča"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Svetlana Marković"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Marijana Mladenov"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2000",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "23184",
+      "iau_id": "IAU-023184",
+      "name": "Educons University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyxRLiMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-023184",
+      "address": {
+        "Street": "Vojvode Putnika bb, Sremska Kamenica",
+        "City": "Novi Sad",
+        "Post Code": "21208",
+        "WWW": "Http://www.educons.edu.rs"
+      },
+      "website": "https://Http://www.educons.edu.rs",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2008,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Serbian"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Business and Service",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Faculty : European Legal and Political Studies",
+          "fields": [
+            "European Union Law",
+            "Political Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Sports and Tourism",
+          "fields": [
+            "Sports",
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor, Bachelor (Honours)",
+          "fields": [
+            "Business Administration",
+            "Crop Production",
+            "Environmental Studies",
+            "Painting and Drawing"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Business Administration",
+            "Crop Production",
+            "Environmental Studies",
+            "Painting and Drawing"
+          ]
+        },
+        {
+          "name": "Ph.D.",
+          "fields": [
+            "Agriculture",
+            "Economics",
+            "Environmental Studies",
+            "Painting and Drawing"
+          ]
+        }
+      ],
+      "accreditation": "Commission for Accreditation and Quality Assurance.",
+      "officers": [
+        {
+          "title": "International Relations Officer",
+          "name": "Slobodan Rakić"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2008.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "4908",
+      "iau_id": "IAU-004908",
+      "name": "European University",
+      "alt_name": "Evropski Univerzitet",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tI0RQLmBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004908",
+      "address": {
+        "Street": "Carigradska 28",
+        "City": "Beograd",
+        "Post Code": "101501",
+        "WWW": "https://www.eu.ac.rs"
+      },
+      "website": "https://www.eu.ac.rs",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1984,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Serbian"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Business in Services",
+          "fields": [
+            "Business and Commerce"
+          ]
+        },
+        {
+          "name": "Faculty : European Business and Marketing",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Cultural Studies",
+            "English",
+            "European Studies",
+            "Finance",
+            "French",
+            "Italian",
+            "Marketing",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : International Management",
+          "fields": [
+            "Business and Commerce",
+            "Small Business"
+          ]
+        },
+        {
+          "name": "Faculty : Small and Medium Size Business",
+          "fields": [
+            "Business and Commerce",
+            "Small Business"
+          ]
+        },
+        {
+          "name": "Faculty : Strategic and Operational Management",
+          "fields": [
+            "Management"
+          ]
+        },
+        {
+          "name": "Institute : American Business",
+          "fields": [
+            "MBA University"
+          ]
+        },
+        {
+          "name": "Institute : Management",
+          "fields": [
+            "Franco-American Institute"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor, Bachelor (Honours)",
+          "fields": [
+            "Business Administration",
+            "Economics",
+            "Engineering",
+            "European Studies",
+            "International Business",
+            "Management",
+            "Marketing",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Business Administration",
+            "Cultural Studies",
+            "European Studies",
+            "European Union Law",
+            "International Business",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Ph.D.",
+          "fields": [
+            "Business Administration",
+            "European Studies",
+            "International Business",
+            "International Relations and Diplomacy",
+            "Marketing"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Sports",
+      "officers": [],
+      "statistics": {},
+      "history": "Founded 1984 as Institute of American Business - MBA University. Acquired present status and title 2000.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "11534",
+      "iau_id": "IAU-011534",
+      "name": "Megatrend University",
+      "alt_name": "Megatrend Univerzitet",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyRVLFMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-011534",
+      "address": {
+        "Street": "Goce Delceva 8,",
+        "City": "Novi Beograd",
+        "Post Code": "11070",
+        "WWW": "http://www.megatrend-edu.rs"
+      },
+      "website": "http://www.megatrend-edu.rs",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1989,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Serbian"
+      ],
+      "faculties": [
+        {
+          "name": "College : Business Administration",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Graduate School : Arts and Design",
+          "fields": [
+            "Design",
+            "Fine Arts"
+          ]
+        },
+        {
+          "name": "Graduate School : Bio-Farming",
+          "fields": [
+            "Agriculture",
+            "Farm Management"
+          ]
+        },
+        {
+          "name": "Graduate School : Business Studies",
+          "fields": [
+            "Business Administration",
+            "Business and Commerce"
+          ]
+        },
+        {
+          "name": "Graduate School : Computer Science",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Graduate School : Culture and Media",
+          "fields": [
+            "Cultural Studies",
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "Graduate School : Management",
+          "fields": [
+            "Management"
+          ]
+        },
+        {
+          "name": "Graduate School : State Administration",
+          "fields": [
+            "Administration"
+          ]
+        },
+        {
+          "name": "Laboratory : Cosmology",
+          "fields": [
+            "Administration",
+            "Business Administration",
+            "Computer Science",
+            "Economics",
+            "International Economics",
+            "Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor, Bachelor (Honours)",
+          "fields": [
+            "Administration",
+            "Business Administration",
+            "Computer Science",
+            "Economics",
+            "International Economics",
+            "Management"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Administration",
+            "Business Administration",
+            "Computer Science",
+            "Economics",
+            "International Economics",
+            "Management"
+          ]
+        },
+        {
+          "name": "Ph.D.",
+          "fields": []
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Slobodan Pajovic"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Vladan Kutlašić"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Ana Jovancai"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1989.",
+      "periodicals": [
+        "Megatrend revija / Megatrend Review",
+        "Megatrend revija / Megatrend Review"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "23187",
+      "iau_id": "IAU-023187",
+      "name": "Metropolitan University",
+      "alt_name": "Univerzitet Metropolitan",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyxRLiM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-023187",
+      "address": {
+        "Street": "Tadeuša Košćuška 63",
+        "City": "Beograd",
+        "Post Code": "11000",
+        "WWW": "http://www.metropolitan.edu.rs"
+      },
+      "website": "http://www.metropolitan.edu.rs",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2005,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Serbian"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Digital Art",
+          "fields": [
+            "Graphic Design",
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Information Technologies",
+          "fields": [
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Management",
+          "fields": [
+            "Management",
+            "Management Systems",
+            "Marketing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor, Bachelor (Honours)",
+          "fields": [
+            "Information Technology",
+            "Management",
+            "Marketing",
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Information Technology",
+            "Management",
+            "Marketing",
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "Ph.D.",
+          "fields": [
+            "Information Technology",
+            "Management",
+            "Marketing",
+            "Media Studies"
+          ]
+        }
+      ],
+      "accreditation": "Commission for Accreditation and Quality Assurance",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Dragan Domazet"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2005.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20692",
+      "iau_id": "IAU-020692",
+      "name": "Singidunum University",
+      "alt_name": "Univerzitet Singidunum",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BWLjMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020692",
+      "address": {
+        "Street": "Danijelova 32Voždovac",
+        "City": "Beograd",
+        "WWW": "http://www.singidunum.ac.rs"
+      },
+      "website": "http://www.singidunum.ac.rs",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2005,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Serbian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Applied Ecology",
+          "fields": [
+            "Ecology"
+          ]
+        },
+        {
+          "name": "Faculty : Business Administration",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Faculty : Economics, Finance and Administration",
+          "fields": [
+            "Administration",
+            "Banking",
+            "Economics",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Faculty : Informatics and Computing",
+          "fields": [
+            "Computer Science",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Media and Communications",
+          "fields": [
+            "Communication Studies",
+            "Journalism",
+            "Media Studies",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Faculty : Physical Education and Sport Management",
+          "fields": [
+            "Physical Education",
+            "Sports Management"
+          ]
+        },
+        {
+          "name": "Faculty : Technical Science",
+          "fields": [
+            "Computer Engineering",
+            "Electrical Engineering",
+            "Engineering Management"
+          ]
+        },
+        {
+          "name": "Faculty : Tourism and Hospitality Management",
+          "fields": [
+            "Hotel and Restaurant",
+            "Hotel Management",
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor, Bachelor (Honours)",
+          "fields": [
+            "Business Administration",
+            "Computer Science",
+            "Economics",
+            "Electrical Engineering",
+            "Engineering",
+            "Hotel and Restaurant",
+            "Information Technology",
+            "Management",
+            "Marketing",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Business Administration",
+            "Computer Science",
+            "Economics",
+            "Electrical Engineering",
+            "Engineering",
+            "Hotel and Restaurant",
+            "Information Technology",
+            "Management",
+            "Marketing",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Ph.D.",
+          "fields": [
+            "Banking",
+            "Business Administration",
+            "Computer Science",
+            "Electrical Engineering",
+            "Engineering Management",
+            "Finance",
+            "Tourism"
+          ]
+        }
+      ],
+      "accreditation": "Commission for Accreditation and Quality Assurance.",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Milovan Stanišić"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Milan Milosavljević"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Nataša Sekulović"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2005.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "3917",
+      "iau_id": "IAU-003917",
+      "name": "State University of Novi Pazar",
+      "alt_name": "Drzavni Univerzitet u Novom Pazaru (SUNP)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sU0RRLVBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003917",
+      "address": {
+        "Street": "Vuka Karadžića bb",
+        "City": "Novi Pazar",
+        "Post Code": "RS-36300",
+        "WWW": "http://www.np.ac.rs"
+      },
+      "website": "http://www.np.ac.rs",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2006,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Serbian"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Arts",
+          "fields": [
+            "Design",
+            "Fine Arts",
+            "Graphic Arts",
+            "Graphic Design",
+            "Music"
+          ]
+        },
+        {
+          "name": "Department/Division : Biomedical Sciences",
+          "fields": [
+            "Biology",
+            "Physical Education",
+            "Rehabilitation and Therapy",
+            "Sports"
+          ]
+        },
+        {
+          "name": "Department/Division : Chemical-Technological Sciences",
+          "fields": [
+            "Agriculture",
+            "Biotechnology",
+            "Chemistry",
+            "Food Science",
+            "Food Technology"
+          ]
+        },
+        {
+          "name": "Department/Division : Economics",
+          "fields": [
+            "Economics"
+          ]
+        },
+        {
+          "name": "Department/Division : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Department/Division : Mathematical Science",
+          "fields": [
+            "Mathematical Physics",
+            "Mathematics and Computer Science",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Department/Division : Multidisciplinary Science",
+          "fields": [
+            "Energy Engineering",
+            "Higher Education",
+            "Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Philology",
+          "fields": [
+            "English",
+            "Literature",
+            "Serbocroatian"
+          ]
+        },
+        {
+          "name": "Department/Division : Philosophical Sciences",
+          "fields": [
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Department/Division : Technical Sciences",
+          "fields": [
+            "Architecture",
+            "Civil Engineering",
+            "Computer Science",
+            "Video"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor, Bachelor (Honours)",
+          "fields": [
+            "Architecture",
+            "Biology",
+            "Building Technologies",
+            "Chemistry",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Economics",
+            "Educational Administration",
+            "English",
+            "Food Technology",
+            "Higher Education",
+            "Law",
+            "Mathematics",
+            "Mathematics and Computer Science",
+            "Physics",
+            "Rehabilitation and Therapy",
+            "Serbocroatian",
+            "Sports"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Architecture",
+            "Biology",
+            "Building Technologies",
+            "Chemistry",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Economics",
+            "Educational Administration",
+            "English",
+            "Food Technology",
+            "Higher Education",
+            "Law",
+            "Mathematics",
+            "Mathematics and Computer Science",
+            "Physics",
+            "Rehabilitation and Therapy",
+            "Serbocroatian",
+            "Sports"
+          ]
+        },
+        {
+          "name": "Ph.D.",
+          "fields": [
+            "Architecture",
+            "Biotechnology",
+            "Computer Engineering",
+            "Mathematics",
+            "Physical Education",
+            "Sports"
+          ]
+        }
+      ],
+      "accreditation": "Commission for Accreditation and Quality Assurance.",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ćemal Dolićanin"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2006.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "22345",
+      "iau_id": "IAU-022345",
+      "name": "Union - Nikola Tesla University",
+      "alt_name": "Univerzitet Union Nikola Tesla",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyhTLSM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-022345",
+      "address": {
+        "Street": "Cara Dušana 62 - 64",
+        "City": "Beograd",
+        "Post Code": "11000",
+        "WWW": "http://unionnikolatesla.edu.rs"
+      },
+      "website": "http://unionnikolatesla.edu.rs",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2011,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Serbian"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Business",
+          "fields": [
+            "Business Administration",
+            "International Business",
+            "Management",
+            "Small Business"
+          ]
+        },
+        {
+          "name": "Faculty : Business Studies and Law",
+          "fields": [
+            "Business Administration",
+            "Economics",
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Construction Management",
+          "fields": [
+            "Architecture",
+            "Civil Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Diplomacy and Security",
+          "fields": [
+            "Civil Security",
+            "International Relations and Diplomacy",
+            "Military Science"
+          ]
+        },
+        {
+          "name": "Faculty : Ecology and Environmental Protection",
+          "fields": [
+            "Ecology",
+            "Environmental Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering Management",
+          "fields": [
+            "Dance",
+            "Economics",
+            "Engineering Management",
+            "Information Management",
+            "Management"
+          ]
+        },
+        {
+          "name": "Faculty : Management",
+          "fields": [
+            "Management"
+          ]
+        },
+        {
+          "name": "Faculty : Real Estate",
+          "fields": [
+            "Real Estate"
+          ]
+        },
+        {
+          "name": "Faculty : Sport",
+          "fields": [
+            "Sports",
+            "Sports Management"
+          ]
+        },
+        {
+          "name": "Faculty : Strategic and Operational Management",
+          "fields": [
+            "Engineering Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor, Bachelor (Honours)",
+          "fields": [
+            "Dance",
+            "Engineering Management",
+            "Management"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Architecture",
+            "Building Technologies",
+            "Business Administration",
+            "Civil Engineering",
+            "Dance",
+            "Ecology",
+            "Economics",
+            "Environmental Studies",
+            "Information Management",
+            "International Relations and Diplomacy",
+            "Management",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "Ph.D.",
+          "fields": [
+            "Civil Engineering",
+            "Environmental Studies"
+          ]
+        }
+      ],
+      "accreditation": "Commission for Accreditation and Quality Assurance.",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Slavko Božolović"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2011.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "23188",
+      "iau_id": "IAU-023188",
+      "name": "Union University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyxRLiNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-023188",
+      "address": {
+        "Street": "Kosančićev venac 2/5",
+        "City": "Beograd",
+        "Post Code": "11000",
+        "WWW": "http://www.union.edu.rs"
+      },
+      "website": "http://www.union.edu.rs",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2005,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Serbian"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Banking, Insurance and Finance",
+          "fields": [
+            "Banking",
+            "Finance",
+            "Insurance"
+          ]
+        },
+        {
+          "name": "Faculty : Computing",
+          "fields": [
+            "Computer Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Industrial Management",
+          "fields": [
+            "Industrial Management",
+            "Information Management"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Legal and Business Studies",
+          "fields": [
+            "Business Administration",
+            "Economics",
+            "Law",
+            "Marketing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor, Bachelor (Honours)",
+          "fields": [
+            "Industrial Management",
+            "Information Management"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Industrial Management",
+            "Information Management"
+          ]
+        },
+        {
+          "name": "Ph.D.",
+          "fields": []
+        }
+      ],
+      "accreditation": "Commission for Accreditation and Quality Assurance",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Zlatko Stefanovic"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Gordana Vukelić"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2005.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20704",
+      "iau_id": "IAU-020704",
+      "name": "University of Arts in Belgrade",
+      "alt_name": "Univerzitet Umetnosti u Beogradu",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BXLCMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020704",
+      "address": {
+        "Street": "PO Box 389Kosančićev venac 29",
+        "City": "Beograd",
+        "Post Code": "11 000",
+        "WWW": "http://www.arts.bg.ac.rs"
+      },
+      "website": "http://www.arts.bg.ac.rs",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1957,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "October to September (October-January; February-September)",
+      "languages": [
+        "Serbian"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Applied Arts",
+          "fields": [
+            "Ceramic Art",
+            "Fashion Design",
+            "Handicrafts",
+            "Industrial Design",
+            "Interior Design",
+            "Painting and Drawing",
+            "Photography",
+            "Restoration of Works of Art",
+            "Sculpture",
+            "Textile Design",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Faculty : Dramatic Arts",
+          "fields": [
+            "Acting",
+            "Cinema and Television",
+            "Film",
+            "Media Studies",
+            "Photography",
+            "Sound Engineering (Acoustics)",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Faculty : Fine Arts",
+          "fields": [
+            "Graphic Arts",
+            "Painting and Drawing",
+            "Sculpture"
+          ]
+        },
+        {
+          "name": "Faculty : Music",
+          "fields": [
+            "Conducting",
+            "Music",
+            "Music Theory and Composition",
+            "Musical Instruments",
+            "Musicology",
+            "Opera",
+            "Singing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor, Bachelor (Honours)",
+          "fields": [
+            "Cultural Studies",
+            "Fine Arts",
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Cultural Studies",
+            "Fine Arts",
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "Ph.D.",
+          "fields": [
+            "Fine Arts"
+          ]
+        }
+      ],
+      "accreditation": "Commission for Accreditation and Quality Assurance.",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Zoran Eric"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Olga Stankovic"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1957 as Academy of Arts, acquired present status and title 1973.",
+      "periodicals": [
+        "Zbornik FDU (Dramatic Art)",
+        "Zbornik FDU (Dramatic Art)"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20694",
+      "iau_id": "IAU-020694",
+      "name": "University of Belgrade",
+      "alt_name": "Univerzitet u Beogradu",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BWLjMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020694",
+      "address": {
+        "Street": "Studentski trg broj 1",
+        "City": "Beograd",
+        "Post Code": "11 000",
+        "WWW": "https://www.bg.ac.rs"
+      },
+      "website": "https://www.bg.ac.rs",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1808,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "October to September (October-February; February-September)",
+      "languages": [
+        "Serbian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Agriculture",
+          "fields": [
+            "Agricultural Economics",
+            "Agricultural Engineering",
+            "Agriculture",
+            "Cattle Breeding",
+            "Food Technology",
+            "Plant and Crop Protection",
+            "Soil Management"
+          ]
+        },
+        {
+          "name": "Faculty : Architecture",
+          "fields": [
+            "Architecture"
+          ]
+        },
+        {
+          "name": "Faculty : Biology",
+          "fields": [
+            "Biology",
+            "Ecology",
+            "Molecular Biology",
+            "Physiology"
+          ]
+        },
+        {
+          "name": "Faculty : Chemistry",
+          "fields": [
+            "Chemistry"
+          ]
+        },
+        {
+          "name": "Faculty : Civil Engineering",
+          "fields": [
+            "Civil Engineering",
+            "Geophysics",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "Faculty : Dental Medicine",
+          "fields": [
+            "Dentistry"
+          ]
+        },
+        {
+          "name": "Faculty : Economics",
+          "fields": [
+            "Accountancy",
+            "Business and Commerce",
+            "Economics",
+            "International Economics",
+            "Mathematics",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Faculty : Forestry",
+          "fields": [
+            "Forestry",
+            "Horticulture",
+            "Landscape Architecture",
+            "Soil Science",
+            "Wood Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Geography",
+          "fields": [
+            "Architecture and Planning",
+            "Demography and Population",
+            "Geography"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Civil Law",
+            "Criminal Law",
+            "Economic and Finance Policy",
+            "History of Law",
+            "International Law",
+            "International Relations and Diplomacy",
+            "Law",
+            "Public Law"
+          ]
+        },
+        {
+          "name": "Faculty : Mathematics",
+          "fields": [
+            "Computer Science",
+            "Mathematics"
+          ]
+        },
+        {
+          "name": "Faculty : Mechanical Engineering",
+          "fields": [
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Mining and Geology",
+          "fields": [
+            "Geology",
+            "Mining Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Organizational Sciences",
+          "fields": [
+            "Business Administration",
+            "Computer Engineering",
+            "Computer Science",
+            "Information Management",
+            "Information Sciences",
+            "Information Technology",
+            "Management",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Orthodox Theology",
+          "fields": [
+            "Theology"
+          ]
+        },
+        {
+          "name": "Faculty : Pharmacy",
+          "fields": [
+            "Biochemistry",
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Faculty : Philology",
+          "fields": [
+            "Linguistics",
+            "Literature",
+            "Philology"
+          ]
+        },
+        {
+          "name": "Faculty : Philosophy",
+          "fields": [
+            "Adult Education",
+            "Anthropology",
+            "Archaeology",
+            "Ethnology",
+            "History",
+            "Pedagogy",
+            "Philology",
+            "Philosophy",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Faculty : Physical Chemistry",
+          "fields": [
+            "Physical Chemistry"
+          ]
+        },
+        {
+          "name": "Faculty : Physics",
+          "fields": [
+            "Physics"
+          ]
+        },
+        {
+          "name": "Faculty : Political Science",
+          "fields": [
+            "Communication Studies",
+            "International Relations and Diplomacy",
+            "Journalism",
+            "Political Sciences",
+            "Social Welfare",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Faculty : Security Studies",
+          "fields": [
+            "Law",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Faculty : Special Education and Rehabilitation",
+          "fields": [
+            "Rehabilitation and Therapy",
+            "Special Education"
+          ]
+        },
+        {
+          "name": "Faculty : Sports and Physical Education",
+          "fields": [
+            "Physical Education",
+            "Sports"
+          ]
+        },
+        {
+          "name": "Faculty : Teacher Training",
+          "fields": [
+            "Education",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Faculty : Technical",
+          "fields": [
+            "Electronic Engineering",
+            "Information Management",
+            "Mechanical Engineering",
+            "Metallurgical Engineering",
+            "Mining Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Technology and Metallurgy",
+          "fields": [
+            "Biochemistry",
+            "Biotechnology",
+            "Chemical Engineering",
+            "Environmental Management",
+            "Environmental Studies",
+            "Graphic Design",
+            "Inorganic Chemistry",
+            "Materials Engineering",
+            "Metallurgical Engineering",
+            "Organic Chemistry",
+            "Polymer and Plastics Technology",
+            "Textile Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Transport and Traffic Engineering",
+          "fields": [
+            "Transport Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Veterinary Medicine",
+          "fields": [
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "School : Electrical Engineering",
+          "fields": [
+            "Electrical Engineering",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "School : Medicine",
+          "fields": [
+            "Medicine"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor, Bachelor (Honours)",
+          "fields": [
+            "Business Administration",
+            "Computer Engineering",
+            "Education",
+            "Electrical Engineering",
+            "Health Administration",
+            "International Studies",
+            "Management",
+            "Nursing",
+            "Philosophy",
+            "Political Sciences",
+            "Public Health",
+            "Religion",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Business Administration",
+            "Computer Engineering",
+            "Education",
+            "Electrical Engineering",
+            "Health Administration",
+            "International Studies",
+            "Management",
+            "Nursing",
+            "Philosophy",
+            "Political Sciences",
+            "Public Health",
+            "Religion",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Ph.D.",
+          "fields": [
+            "Biomedical Engineering",
+            "Computer Engineering",
+            "Electrical Engineering",
+            "History",
+            "Medicine",
+            "Natural Sciences",
+            "Philosophy",
+            "Technology"
+          ]
+        }
+      ],
+      "accreditation": "Commission for Accreditation and Quality Assurance.",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Vladan Đokić"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Marija Kostadinovic"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Branka Janda-Marković"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1808 as School, became Lyceum 1838, and College with Faculties of Philosophy, Law, and Technology 1863. Acquired present status and title 1905",
+      "periodicals": [
+        "Dijalektika",
+        "Dijalektika"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20697",
+      "iau_id": "IAU-020697",
+      "name": "University of Kragujevac",
+      "alt_name": "Univerzitet u Kragujevcu (UNIKG)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BWLjM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020697",
+      "address": {
+        "Street": "Jovana Cvijića B.B.",
+        "City": "Kragujevac",
+        "Post Code": "34000",
+        "WWW": "http://www.kg.ac.rs"
+      },
+      "website": "http://www.kg.ac.rs",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1976,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "October to June (October-January; February-June)",
+      "languages": [
+        "Serbian"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Agronomy",
+          "fields": [
+            "Agricultural Economics",
+            "Agriculture",
+            "Agronomy",
+            "Animal Husbandry",
+            "Environmental Management",
+            "Farm Management",
+            "Fruit Production",
+            "Soil Science",
+            "Vegetable Production"
+          ]
+        },
+        {
+          "name": "Faculty : Economics",
+          "fields": [
+            "Accountancy",
+            "Computer Science",
+            "Economics",
+            "Finance",
+            "Marketing",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Faculty : Hotel Management and Tourism",
+          "fields": [
+            "Hotel and Restaurant",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Administrative Law",
+            "Civil Law",
+            "Commercial Law",
+            "Criminal Law",
+            "History of Law",
+            "International Law",
+            "Labour Law",
+            "Law",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Mathematics and Natural Sciences",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Mathematics",
+            "Natural Sciences",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Faculty : Mechanical and Civil Engineering",
+          "fields": [
+            "Automotive Engineering",
+            "Building Technologies",
+            "Civil Engineering",
+            "Electronics and Automation",
+            "Energy Engineering",
+            "Machine Building",
+            "Mechanical Engineering",
+            "Mechanics",
+            "Production Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Mechanical Engineering",
+          "fields": [
+            "Building Technologies",
+            "Machine Building",
+            "Mechanical Engineering",
+            "Production Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Anatomy",
+            "Cardiology",
+            "Embryology and Reproduction Biology",
+            "Endocrinology",
+            "Ergotherapy",
+            "Medicine",
+            "Neurosciences",
+            "Rehabilitation and Therapy",
+            "Rheumatology",
+            "Sports Medicine",
+            "Surgery"
+          ]
+        },
+        {
+          "name": "Faculty : Pedagogy",
+          "fields": [
+            "Primary Education"
+          ]
+        },
+        {
+          "name": "Faculty : Philology and Arts",
+          "fields": [
+            "English",
+            "Fine Arts",
+            "French",
+            "German",
+            "Graphic Arts",
+            "Handicrafts",
+            "Music",
+            "Slavic Languages",
+            "Spanish"
+          ]
+        },
+        {
+          "name": "Faculty : Teacher Training",
+          "fields": [
+            "Primary Education"
+          ]
+        },
+        {
+          "name": "Faculty : Technology",
+          "fields": [
+            "Electrical Engineering",
+            "Mechanical Engineering",
+            "Technology",
+            "Technology Education"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor, Bachelor (Honours)",
+          "fields": [
+            "Agronomy",
+            "Biology",
+            "Business Administration",
+            "Chemistry",
+            "Ecology",
+            "Economics",
+            "Education",
+            "Electronics and Automation",
+            "Engineering Management",
+            "Food Technology",
+            "Industrial Engineering",
+            "Law",
+            "Management",
+            "Mathematics and Computer Science",
+            "Mechanical Engineering",
+            "Physics",
+            "Preschool Education",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Agronomy",
+            "Biology",
+            "Business Administration",
+            "Chemistry",
+            "Ecology",
+            "Economics",
+            "Education",
+            "Electronics and Automation",
+            "Engineering Management",
+            "Food Technology",
+            "Industrial Engineering",
+            "Law",
+            "Management",
+            "Mathematics and Computer Science",
+            "Mechanical Engineering",
+            "Physics",
+            "Preschool Education",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Ph.D.",
+          "fields": [
+            "Agronomy",
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Economics",
+            "Law",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Medicine",
+            "Physics",
+            "Teacher Training"
+          ]
+        }
+      ],
+      "accreditation": "Commission for Accreditation and Quality Assurance.",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Slobodan Arsenijević"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Zorica Avramović"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Olivera Mijatović"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2014-2015",
+        "Students Total:": "20000"
+      },
+      "history": "Founded 1976.",
+      "periodicals": [
+        "Bulletin Department Publications",
+        "Bulletin",
+        "Department Publications"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20698",
+      "iau_id": "IAU-020698",
+      "name": "University of Niš",
+      "alt_name": "Univerzitet u Nišu",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BWLjNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020698",
+      "address": {
+        "Street": "Univerzitetski trg 2",
+        "City": "Niš",
+        "Post Code": "18000",
+        "WWW": "http://www.ni.ac.rs"
+      },
+      "website": "http://www.ni.ac.rs",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1965,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "October to September",
+      "languages": [
+        "Serbian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Civil Engineering and Architecture",
+          "fields": [
+            "Architectural and Environmental Design",
+            "Architecture",
+            "Civil Engineering",
+            "Hydraulic Engineering",
+            "Structural Architecture"
+          ]
+        },
+        {
+          "name": "Faculty : Economics",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Economics",
+            "Finance",
+            "Insurance",
+            "International Business",
+            "Management",
+            "Marketing",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Electronic Engineering",
+          "fields": [
+            "Computer Engineering",
+            "Computer Science",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Electronics and Automation",
+            "Mathematics",
+            "Microelectronics",
+            "Power Engineering",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Fine Arts",
+          "fields": [
+            "Crafts and Trades",
+            "Fine Arts",
+            "Music",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Comparative Law",
+            "Criminal Law",
+            "History of Law",
+            "International Law",
+            "Labour Law",
+            "Law",
+            "Private Law",
+            "Public Law"
+          ]
+        },
+        {
+          "name": "Faculty : Mechanical Engineering",
+          "fields": [
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Dental Hygiene",
+            "Dental Technology",
+            "Dentistry",
+            "Environmental Engineering",
+            "Epidemiology",
+            "Medicine",
+            "Nursing",
+            "Pharmacy",
+            "Public Health",
+            "Toxicology"
+          ]
+        },
+        {
+          "name": "Faculty : Occupational Safety",
+          "fields": [
+            "Environmental Engineering",
+            "Fire Science",
+            "Safety Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Philosophy",
+          "fields": [
+            "Education",
+            "English",
+            "French",
+            "History",
+            "Journalism",
+            "Literature",
+            "Modern Languages",
+            "Pedagogy",
+            "Philosophy",
+            "Physical Education",
+            "Psychology",
+            "Russian",
+            "Serbocroatian",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Faculty : Science and Mathematics",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Geography",
+            "Mathematics",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Faculty : Sports and Physical Education",
+          "fields": [
+            "Arts and Humanities",
+            "Physical Education",
+            "Physical Therapy",
+            "Sports",
+            "Sports Medicine"
+          ]
+        },
+        {
+          "name": "Faculty : Teacher Training",
+          "fields": [
+            "Mathematics Education",
+            "Native Language Education",
+            "Natural Sciences",
+            "Physical Education",
+            "Social Studies",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Faculty : Technology",
+          "fields": [
+            "Biotechnology",
+            "Chemical Engineering",
+            "Food Technology",
+            "Polymer and Plastics Technology",
+            "Textile Technology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor, Bachelor (Honours)",
+          "fields": [
+            "Applied Chemistry",
+            "Applied Mathematics",
+            "Applied Physics",
+            "Architecture",
+            "Biology",
+            "Chemistry",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Ecology",
+            "Economics",
+            "Electrical Engineering",
+            "English",
+            "Environmental Engineering",
+            "Environmental Studies",
+            "Fire Science",
+            "Food Technology",
+            "Geography",
+            "Graphic Design",
+            "Health Administration",
+            "Information Technology",
+            "Journalism",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Music",
+            "Painting and Drawing",
+            "Pedagogy",
+            "Performing Arts",
+            "Philology",
+            "Philosophy",
+            "Physical Education",
+            "Physics",
+            "Preschool Education",
+            "Psychology",
+            "Sociology",
+            "Structural Architecture",
+            "Teacher Training",
+            "Technology",
+            "Telecommunications Engineering",
+            "Textile Technology",
+            "Tourism",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Applied Chemistry",
+            "Applied Mathematics",
+            "Applied Physics",
+            "Architecture",
+            "Biology",
+            "Chemistry",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Ecology",
+            "Economics",
+            "Electrical Engineering",
+            "English",
+            "Environmental Engineering",
+            "Environmental Studies",
+            "Fire Science",
+            "Food Technology",
+            "Geography",
+            "Graphic Design",
+            "Health Administration",
+            "Information Technology",
+            "Journalism",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Music",
+            "Painting and Drawing",
+            "Pedagogy",
+            "Performing Arts",
+            "Philology",
+            "Philosophy",
+            "Physical Education",
+            "Physics",
+            "Preschool Education",
+            "Psychology",
+            "Sociology",
+            "Structural Architecture",
+            "Teacher Training",
+            "Technology",
+            "Telecommunications Engineering",
+            "Textile Technology",
+            "Tourism",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Ph.D.",
+          "fields": [
+            "Architecture",
+            "Civil Engineering",
+            "Computer Science",
+            "Dentistry",
+            "Economics",
+            "Electrical Engineering",
+            "Environmental Engineering",
+            "History",
+            "Mechanical Engineering",
+            "Medicine",
+            "Pharmacy",
+            "Philology",
+            "Philosophy",
+            "Psychology",
+            "Public Health",
+            "Safety Engineering",
+            "Sports",
+            "Teacher Training",
+            "Technology"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Dragan Antić"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Dragoslav Djokić"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Vesna Lopicic"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1965, incorporating faculties formerly attached to the University of Belgrade.",
+      "periodicals": [
+        "Facta Universitatis Glasnik Univerziteta u Nišu Pregled predavanja Teme University of Niš",
+        "Facta Universitatis",
+        "Glasnik Univerziteta u Nišu",
+        "Pregled predavanja",
+        "Teme",
+        "University of Niš"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20699",
+      "iau_id": "IAU-020699",
+      "name": "University of Novi Sad",
+      "alt_name": "Univerzitet u Novom Sadu (UNS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BWLjNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020699",
+      "address": {
+        "Street": "Dr Zorana Đinđića 1",
+        "City": "Novi Sad",
+        "Province": "Vojvodina",
+        "Post Code": "21102",
+        "WWW": "https://www.uns.ac.rs"
+      },
+      "website": "https://www.uns.ac.rs",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1960,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "October to June (October-January; February-June)",
+      "languages": [
+        "Slovak",
+        "Serbian",
+        "Romanian",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Academy : Arts",
+          "fields": [
+            "Fine Arts",
+            "Music",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Chair : Entrepreneurial Studies",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Faculty : Agriculture",
+          "fields": [
+            "Agricultural Economics",
+            "Agricultural Equipment",
+            "Agriculture",
+            "Animal Husbandry",
+            "Fruit Production",
+            "Horticulture",
+            "Plant and Crop Protection",
+            "Veterinary Science",
+            "Viticulture",
+            "Water Management"
+          ]
+        },
+        {
+          "name": "Faculty : Civil Engineering",
+          "fields": [
+            "Architecture",
+            "Civil Engineering",
+            "Construction Engineering",
+            "Hydraulic Engineering",
+            "Mechanical Engineering",
+            "Road Engineering",
+            "Urban Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Economics",
+          "fields": [
+            "Accountancy",
+            "Agricultural Economics",
+            "Business and Commerce",
+            "Economics",
+            "Finance",
+            "Information Sciences",
+            "International Business",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Art Education",
+            "Arts and Humanities",
+            "Computer Science",
+            "Education",
+            "Humanities and Social Science Education",
+            "Literature",
+            "Media Studies",
+            "Modern Languages",
+            "Science Education"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Civil Law",
+            "Commercial Law",
+            "Constitutional Law",
+            "Criminal Law",
+            "History of Law",
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Medicine",
+            "Pharmacy",
+            "Stomatology"
+          ]
+        },
+        {
+          "name": "Faculty : Philosophy",
+          "fields": [
+            "Comparative Literature",
+            "English",
+            "French",
+            "French Studies",
+            "German",
+            "History",
+            "Hungarian",
+            "Pedagogy",
+            "Philosophy",
+            "Psychology",
+            "Romanian",
+            "Russian",
+            "Serbocroatian",
+            "Slavic Languages",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Faculty : Science",
+          "fields": [
+            "Biochemistry",
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Ecology",
+            "Environmental Studies",
+            "Geography",
+            "Mathematics",
+            "Natural Sciences",
+            "Physics",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Sport and Physical Education",
+          "fields": [
+            "Parks and Recreation",
+            "Physical Education",
+            "Physical Therapy",
+            "Sports"
+          ]
+        },
+        {
+          "name": "Faculty : Teacher Training",
+          "fields": [
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Faculty : Technical Engineering",
+          "fields": [
+            "Computer Science",
+            "Engineering",
+            "Industrial Engineering",
+            "Mechanical Engineering",
+            "Safety Engineering",
+            "Technology",
+            "Textile Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Technical Sciences",
+          "fields": [
+            "Architecture",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Electrical Engineering",
+            "Environmental Engineering",
+            "Mechanical Engineering",
+            "Technology",
+            "Transport Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Technology",
+          "fields": [
+            "Applied Chemistry",
+            "Biotechnology",
+            "Chemical Engineering",
+            "Petrology",
+            "Pharmacology",
+            "Polymer and Plastics Technology",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Institute : Food Technology",
+          "fields": [
+            "Food Technology"
+          ]
+        },
+        {
+          "name": "Institute : Lowland Forestry and Environment",
+          "fields": [
+            "Environmental Studies",
+            "Forestry"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor, Bachelor (Honours)",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Ph.D.",
+          "fields": [
+            "Law"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {
+        "Staff Statistics Year:": "2014-2015",
+        "Staff Full Time Total:": "3684",
+        "Students Statistics Year:": "2014-2015",
+        "Students Total:": "50750"
+      },
+      "history": "Founded 1960 with Faculties of Agriculture and Philosophy (established 1954/55 as faculties of the University of Belgrade).",
+      "periodicals": [
+        "Glas Univerziteta",
+        "Glas Univerziteta"
+      ],
+      "student_body": null
+    },
+    {
+      "id": "19902",
+      "iau_id": "IAU-019902",
+      "name": "University of Prishtina",
+      "alt_name": "Univerzitet u Prištini (UP)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RZLCMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019902",
+      "address": {
+        "Street": "Filipa Višnjiča bb",
+        "City": "Kosovska Mitrovica",
+        "Post Code": "38220",
+        "WWW": "https://pr.ac.rs"
+      },
+      "website": "https://pr.ac.rs",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1969,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "October to June (October-January; February-June)",
+      "languages": [
+        "Serbian"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Agriculture",
+          "fields": [
+            "Agricultural Economics",
+            "Agriculture",
+            "Agronomy",
+            "Animal Husbandry",
+            "Crop Production"
+          ]
+        },
+        {
+          "name": "Faculty : Arts",
+          "fields": [
+            "Acting",
+            "Design",
+            "Graphic Design",
+            "Music",
+            "Music Education",
+            "Musical Instruments",
+            "Painting and Drawing",
+            "Sculpture",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Faculty : Economics",
+          "fields": [
+            "Business and Commerce",
+            "Economics",
+            "International Economics"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Medical Sciences",
+          "fields": [
+            "Dentistry",
+            "Medicine",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Faculty : Natural Sciences and Mathematics",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Geography",
+            "Mathematics",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Faculty : Philosophy",
+          "fields": [
+            "Art History",
+            "English",
+            "History",
+            "Literature",
+            "Native Language",
+            "Pedagogy",
+            "Philosophy",
+            "Psychology",
+            "Russian",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Faculty : Sprts and Physical Education",
+          "fields": [
+            "Parks and Recreation",
+            "Physical Education",
+            "Sports"
+          ]
+        },
+        {
+          "name": "Faculty : Teachers Education",
+          "fields": [
+            "Education",
+            "Preschool Education",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Faculty : Technical Sciences",
+          "fields": [
+            "Architecture",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Electrical Engineering",
+            "Environmental Engineering",
+            "Industrial Engineering",
+            "Mechanical Engineering",
+            "Mining Engineering",
+            "Safety Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor, Bachelor (Honours)",
+          "fields": [
+            "Acting",
+            "Animal Husbandry",
+            "Architecture",
+            "Art History",
+            "Biology",
+            "Chemistry",
+            "Civil Engineering",
+            "Computer Science",
+            "Crop Production",
+            "Economics",
+            "Electrical Engineering",
+            "English",
+            "Environmental Engineering",
+            "Geography",
+            "Graphic Design",
+            "History",
+            "Industrial Engineering",
+            "Law",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Mining Engineering",
+            "Music",
+            "Music Education",
+            "Native Language",
+            "Nursing",
+            "Painting and Drawing",
+            "Pedagogy",
+            "Philosophy",
+            "Physical Education",
+            "Physics",
+            "Preschool Education",
+            "Psychology",
+            "Russian",
+            "Safety Engineering",
+            "Sculpture",
+            "Sociology",
+            "Sports",
+            "Teacher Training",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Animal Husbandry",
+            "Architecture",
+            "Biology",
+            "Chemistry",
+            "Civil Engineering",
+            "Computer Science",
+            "Crop Production",
+            "Dentistry",
+            "Economics",
+            "Electrical Engineering",
+            "English",
+            "Environmental Engineering",
+            "Geography",
+            "Graphic Design",
+            "History",
+            "International Economics",
+            "Law",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Medicine",
+            "Mining Engineering",
+            "Music",
+            "Native Language",
+            "Painting and Drawing",
+            "Parks and Recreation",
+            "Pedagogy",
+            "Physical Education",
+            "Physics",
+            "Preschool Education",
+            "Psychology",
+            "Russian",
+            "Safety Engineering",
+            "Sculpture",
+            "Sociology",
+            "Sports",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Ph.D.",
+          "fields": [
+            "Agricultural Economics",
+            "Agronomy",
+            "Biology",
+            "Chemistry",
+            "Economics",
+            "Education",
+            "Electrical Engineering",
+            "History",
+            "Law",
+            "Literature",
+            "Mechanical Engineering",
+            "Medicine",
+            "Pedagogy",
+            "Physical Education",
+            "Sociology"
+          ]
+        }
+      ],
+      "accreditation": "National Entity for Accreditation and Quality Assurance in Higher Education of Serbia - NEAQA",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Nebojša Arsić"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Mira Gurešić"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Valentina Draškić"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1969.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+{
+  "country_name": "Solomon Islands",
+  "country_id": "Solomon Islands",
+  "institutions": [
+    {
+      "id": "15528",
+      "iau_id": "IAU-015528",
+      "name": "Solomon Islands National University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzRVLENAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-015528",
+      "address": {
+        "Street": "PO Box G23",
+        "City": "Honiara",
+        "Province": "Guadalcanal",
+        "WWW": "https://www.sinu.edu.sb"
+      },
+      "website": "https://www.sinu.edu.sb",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1984,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "February to November",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Agriculture, Fisheries and Forestry",
+          "fields": [
+            "Agriculture",
+            "Environmental Studies",
+            "Fishery",
+            "Forestry"
+          ]
+        },
+        {
+          "name": "Faculty : Business and Tourism Studies",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Business and Commerce",
+            "Entrepreneurship",
+            "Hotel Management",
+            "Management",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Education and Humanities",
+          "fields": [
+            "Education",
+            "Educational Administration",
+            "Geography",
+            "Health Education",
+            "History",
+            "Physical Education",
+            "Primary Education",
+            "Secondary Education",
+            "Social Sciences",
+            "Vocational Education"
+          ]
+        },
+        {
+          "name": "Faculty : Nursing, Medicine and Health Science",
+          "fields": [
+            "Midwifery",
+            "Nursing",
+            "Public Health"
+          ]
+        },
+        {
+          "name": "Faculty : Science and Technology",
+          "fields": [
+            "Biological and Life Sciences",
+            "Chemistry",
+            "Computer Science",
+            "Mathematics",
+            "Physics"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Agriculture",
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Entrepreneurship",
+            "Fishery",
+            "Geography",
+            "Health Education",
+            "History",
+            "Hotel Management",
+            "Mathematics",
+            "Midwifery",
+            "Nursing",
+            "Physical Education",
+            "Physics",
+            "Primary Education",
+            "Secondary Education",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Educational Administration"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Transform Aqorau"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1984 as Solomon Islands College of Higher Education, amalgamating the Solomon Islands Teachers College, Honiara Technical Institute, School of Nursing and, in 1991, the National Forestry Institute. Acquired current title and status 2012.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20580",
+      "iau_id": "IAU-020580",
+      "name": "University of the South Pacific, Solomon Islands Campus",
+      "alt_name": "(USP)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BVLiNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020580",
+      "address": {
+        "Street": "PO Box 460",
+        "City": "Honiara",
+        "WWW": "https://www.usp.ac.fj/usp-solomon-islands"
+      },
+      "website": "https://www.usp.ac.fj/usp-solomon-islands",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1970,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "February to November (February-June; July-November)",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Institute : Marine Resources",
+          "fields": [
+            "Marine Biology",
+            "Marine Science and Oceanography"
+          ]
+        },
+        {
+          "name": "School : Agriculture",
+          "fields": [
+            "Agriculture"
+          ]
+        },
+        {
+          "name": "School : Humanities",
+          "fields": [
+            "Arts and Humanities"
+          ]
+        },
+        {
+          "name": "School : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "School : Pure and Applied Sciences",
+          "fields": [
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "School : Social and Economic Development",
+          "fields": [
+            "Development Studies",
+            "Social Sciences"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": []
+        },
+        {
+          "name": "Master's Degree",
+          "fields": []
+        },
+        {
+          "name": "Doctorate",
+          "fields": []
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Billy Fitoo"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1970. Develops Lifelong Education and promotes research on subjects of national interest.",
+      "periodicals": [],
+      "student_body": null
+    }
+  ]
+}

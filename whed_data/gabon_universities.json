@@ -1,0 +1,3864 @@
+{
+  "country_name": "Gabon",
+  "country_id": "Gabon",
+  "institutions": [
+    {
+      "id": "7877",
+      "iau_id": "IAU-007877",
+      "name": "African Institute of Computer Science",
+      "alt_name": "Institut africain d'Informatique (IAI)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tU0BXLVBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007877",
+      "address": {
+        "Street": "P.O. Box 2263",
+        "City": "Libreville",
+        "WWW": "https://www.iai-siege.com"
+      },
+      "website": "https://www.iai-siege.com",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1971,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "From October to July",
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Artificial Intelligence",
+          "fields": [
+            "Artificial Intelligence"
+          ]
+        },
+        {
+          "name": "Course/Programme : Big Data",
+          "fields": [
+            "Data Science"
+          ]
+        },
+        {
+          "name": "Course/Programme : Cybersecurity",
+          "fields": [
+            "Cybersecurity"
+          ]
+        },
+        {
+          "name": "Course/Programme : Data Engineering",
+          "fields": [
+            "Artificial Intelligence",
+            "Data Science"
+          ]
+        },
+        {
+          "name": "Course/Programme : DevOps",
+          "fields": [
+            "Software Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Diplôme d'Ingénieur",
+          "fields": [
+            "Computer Engineering"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Artificial Intelligence",
+            "Cybersecurity",
+            "Data Science",
+            "Software Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l'Économie numérique et des nouvelles Technologies de l'Information",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Teddy Alphonse Moukaga Moukaga"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1971 as Inter-states school involving Benin, Burkina Faso, Cameroon, Central African Republic, Chad, Congo, Côte d’ivoire, Gabon, Niger, Senegal, Togo",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "30591",
+      "iau_id": "IAU-030591",
+      "name": "African University of Management and Technologies",
+      "alt_name": "AUM Gabon (AUMT)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sU2BVLjMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-030591",
+      "address": {
+        "Street": "P.O. Box 16374Adresse Boulevard Léon MBA",
+        "City": "Libreville",
+        "WWW": "https://groupeaumt.com"
+      },
+      "website": "https://groupeaumt.com",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2013,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : Mouila",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Campus : Port-Gentil",
+          "fields": [
+            "Business Administration",
+            "Engineering",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Campus Abroad : Bangui (Central Africa)",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Campus Abroad : Brazzaville (Congo-Brazzaville)",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Campus Abroad : Kigali (Rwanda)",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Department/Division : Engineering and Technological Sciences",
+          "fields": [
+            "Engineering",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Department/Division : Science and Management",
+          "fields": [
+            "Business Administration"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Accountancy",
+            "Agricultural Engineering",
+            "Banking",
+            "Civil Engineering",
+            "Communication Studies",
+            "Electrical and Electronic Engineering",
+            "Electrical Engineering",
+            "Finance",
+            "Food Technology",
+            "Industrial Engineering",
+            "Insurance",
+            "Logistics Management",
+            "Marketing",
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Agricultural Engineering",
+            "Banking",
+            "Business Administration",
+            "Communication Studies",
+            "Engineering Management",
+            "Entrepreneurship",
+            "Finance",
+            "Food Technology",
+            "Heating and Refrigeration",
+            "Hygiene",
+            "Management",
+            "Marketing",
+            "Safety Engineering",
+            "Transport Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l'Enseignement supérieur et de la Recherche scientifique et de l’Innovation technologique",
+      "officers": [],
+      "statistics": {},
+      "history": "Founded 2013 as African University of Management (AUM)",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "24596",
+      "iau_id": "IAU-024596",
+      "name": "African University of Sciences",
+      "alt_name": "Université africaine des Sciences – UAS-GABON (UAS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBVLjM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024596",
+      "address": {
+        "Street": "P.O. Box 6421Quartier ACAEavant le pont NOMBA",
+        "City": "Libreville"
+      },
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2006,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "School : Business",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Finance",
+            "Human Resources",
+            "International Business",
+            "Logistics Management",
+            "Management",
+            "Marketing",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "School : Health",
+          "fields": [
+            "Dental Technology",
+            "Health Sciences",
+            "Medical Technology",
+            "Nursing",
+            "Obstetrics and Gynaecology",
+            "Optical Technology",
+            "Optics",
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "School : Journalism",
+          "fields": [
+            "Communication Studies",
+            "Journalism"
+          ]
+        },
+        {
+          "name": "School : Law",
+          "fields": [
+            "Commercial Law",
+            "Criminal Law",
+            "Fiscal Law",
+            "International Relations and Diplomacy",
+            "Labour Law",
+            "Law",
+            "Maritime Law",
+            "Private Law",
+            "Public Law"
+          ]
+        },
+        {
+          "name": "School : Polytechnic",
+          "fields": [
+            "Civil Engineering",
+            "Computer Engineering",
+            "Electrical and Electronic Engineering",
+            "Information Technology",
+            "Telecommunications Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Anaesthesiology",
+            "Dental Technology",
+            "Health Sciences",
+            "Law",
+            "Medical Technology",
+            "Nursing",
+            "Obstetrics and Gynaecology",
+            "Optical Technology",
+            "Optics",
+            "Physical Therapy",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Commercial Law",
+            "Communication Studies",
+            "Human Resources",
+            "Insurance",
+            "International Law",
+            "International Relations and Diplomacy",
+            "Law",
+            "Private Law",
+            "Public Law",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Doctorat",
+          "fields": [
+            "Communication Studies",
+            "Economics",
+            "Educational Sciences",
+            "Hotel Management",
+            "International Business",
+            "Journalism",
+            "Law",
+            "Management",
+            "Tourism"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l'Enseignement supérieur et de la Recherche scientifique et de l’Innovation technologique",
+      "officers": [],
+      "statistics": {},
+      "history": "Founded 2006. A delocalized institution that belongs to the Tunisia-based Groupe de l’Education et des Sciences (GES)",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "30595",
+      "iau_id": "IAU-030595",
+      "name": "Arts and Crafts School-University Institute of Health and Development Sciences",
+      "alt_name": "Ecole supérieure des Arts et Métiers-Institut universitaire des Sciences du Développement – Groupe ESAM/IUSD (ESAM/IUSD)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sU2BVLjM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-030595",
+      "address": {
+        "Street": "Cité DamaDerrière la pharmacie d'Awendjé",
+        "City": "Libreville"
+      },
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2002,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Accountancy and Finance",
+          "fields": [
+            "Accountancy",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Course/Programme : Accounting, Control, and Management Audit (Graduate)",
+          "fields": [
+            "Accountancy",
+            "Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Banking and Finance",
+          "fields": [
+            "Banking",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Course/Programme : Commercial Law",
+          "fields": [
+            "Commercial Law"
+          ]
+        },
+        {
+          "name": "Course/Programme : Corporate and Public Institutions Communication",
+          "fields": [
+            "Communication Studies"
+          ]
+        },
+        {
+          "name": "Course/Programme : Electrotechnics",
+          "fields": [
+            "Electrical and Electronic Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Financial Engineering (Graduate)",
+          "fields": [
+            "Finance"
+          ]
+        },
+        {
+          "name": "Course/Programme : Human Resources Management",
+          "fields": [
+            "Human Resources"
+          ]
+        },
+        {
+          "name": "Course/Programme : Human Resources Management (Graduate)",
+          "fields": [
+            "Human Resources"
+          ]
+        },
+        {
+          "name": "Course/Programme : Insurance",
+          "fields": [
+            "Insurance"
+          ]
+        },
+        {
+          "name": "Course/Programme : Journalism",
+          "fields": [
+            "Journalism"
+          ]
+        },
+        {
+          "name": "Course/Programme : Marketing and Commerce",
+          "fields": [
+            "Business and Commerce",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Course/Programme : Marketing and Commerce (Graduate)",
+          "fields": [
+            "Business and Commerce",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Course/Programme : Networks Administration and Security",
+          "fields": [
+            "Computer Networks",
+            "Cybersecurity"
+          ]
+        },
+        {
+          "name": "Course/Programme : Project Planning, Management and Evaluation (Graduate)",
+          "fields": [
+            "Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Software Engineering",
+          "fields": [
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Strategy of Corporate and Public Institutions Communication (Graduate)",
+          "fields": [
+            "Communication Studies"
+          ]
+        },
+        {
+          "name": "Course/Programme : Tourism and Environmental Management (Graduate)",
+          "fields": [
+            "Environmental Management",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Course/Programme : Tourism, Environmental and Hotel Management",
+          "fields": [
+            "Environmental Management",
+            "Hotel Management",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Course/Programme : Transit and Customs",
+          "fields": [
+            "Taxation"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business and Commerce",
+            "Commercial Law",
+            "Communication Studies",
+            "Computer Networks",
+            "Cybersecurity",
+            "Electrical and Electronic Engineering",
+            "Environmental Management",
+            "Finance",
+            "Hotel Management",
+            "Human Resources",
+            "Insurance",
+            "Journalism",
+            "Marketing",
+            "Software Engineering",
+            "Taxation",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Accountancy",
+            "Business and Commerce",
+            "Communication Studies",
+            "Environmental Management",
+            "Finance",
+            "Human Resources",
+            "Management",
+            "Marketing",
+            "Tourism"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l'Enseignement supérieur et de la Recherche scientifique et de l’Innovation technologique",
+      "officers": [],
+      "statistics": {},
+      "history": "Founded 2002",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "24589",
+      "iau_id": "IAU-024589",
+      "name": "BGFI Business School",
+      "alt_name": "(BBS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBVLiNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024589",
+      "address": {
+        "Street": "Quartier Saint BenoîtP.O. Box 25172",
+        "City": "Libreville",
+        "WWW": "https://www.bbs-school.net"
+      },
+      "website": "https://www.bbs-school.net",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2008,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Accounting, Control, and Audit",
+          "fields": [
+            "Accountancy"
+          ]
+        },
+        {
+          "name": "Course/Programme : Actuarial Science and Big Data",
+          "fields": [
+            "Actuarial Science",
+            "Data Science"
+          ]
+        },
+        {
+          "name": "Course/Programme : Banking, Finance, and Insurance (Banking, Finance, and Insurance)",
+          "fields": [
+            "Banking",
+            "Finance",
+            "Insurance"
+          ]
+        },
+        {
+          "name": "Course/Programme : Banking, Finance, and Insurance (Insurance)",
+          "fields": [
+            "Insurance"
+          ]
+        },
+        {
+          "name": "Course/Programme : Business Law",
+          "fields": [
+            "Commercial Law"
+          ]
+        },
+        {
+          "name": "Course/Programme : Business Management and Business Development",
+          "fields": [
+            "Business Administration",
+            "Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : IT and Electronic Payments",
+          "fields": [
+            "Information Technology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business and Commerce",
+            "Commercial Law",
+            "Finance",
+            "Information Technology",
+            "Insurance",
+            "Management"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Commercial Law",
+            "Finance",
+            "Information Technology",
+            "Insurance",
+            "Management"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l'Enseignement supérieur et de la Recherche scientifique et de l’Innovation technologique",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Pamphile Mezui Mbeng"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2008",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "24592",
+      "iau_id": "IAU-024592",
+      "name": "EM Gabon-University",
+      "alt_name": "EM Gabon-Université – Groupe EM Gabon-Université (EM-Gabon)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBVLjMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024592",
+      "address": {
+        "Street": "P.O. Box 9985Campus Mindoube 2Rond-point pavéRue André Ndjibi",
+        "City": "Libreville",
+        "WWW": "https://em-gabon.com"
+      },
+      "website": "https://em-gabon.com",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2010,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Institute : Agronomy and Food Security (Gabon)",
+          "fields": [
+            "Agronomy",
+            "Food Science",
+            "Food Technology"
+          ]
+        },
+        {
+          "name": "Institute : Audiovisual and Cinema (Philippe Maury)",
+          "fields": [
+            "Cinema and Television",
+            "Mass Communication",
+            "Sound Engineering (Acoustics)"
+          ]
+        },
+        {
+          "name": "Institute : Journalism and Communication (Libreville)",
+          "fields": [
+            "Communication Studies",
+            "Journalism",
+            "Mass Communication"
+          ]
+        },
+        {
+          "name": "Institute : Law and Political Science",
+          "fields": [
+            "Commercial Law",
+            "Criminal Law",
+            "Fiscal Law",
+            "Law",
+            "Notary Studies",
+            "Political Sciences",
+            "Private Law",
+            "Public Law"
+          ]
+        },
+        {
+          "name": "School : Business",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Business and Commerce",
+            "Commercial Law",
+            "Communication Studies",
+            "Finance",
+            "Hotel and Restaurant",
+            "Human Resources",
+            "Insurance",
+            "International Business",
+            "Logistics Management",
+            "Management",
+            "Marine Transport",
+            "Marketing",
+            "Media Studies",
+            "Public Administration",
+            "Taxation",
+            "Tourism",
+            "Transport Management",
+            "Waste Management",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "School : Engineering",
+          "fields": [
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Networks",
+            "Electrical Engineering",
+            "Energy Engineering",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "School : Health Sciences",
+          "fields": [
+            "Biomedical Engineering",
+            "Biomedicine",
+            "Dietetics",
+            "Health Sciences",
+            "Hygiene",
+            "Nursing",
+            "Nursing and Midwifery",
+            "Nutrition",
+            "Occupational Health",
+            "Pharmacy",
+            "Public Health"
+          ]
+        },
+        {
+          "name": "School : Social, Health and Engineering Sciences (Doctoral)",
+          "fields": [
+            "Engineering",
+            "Health Sciences",
+            "Social Sciences"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Agricultural Business",
+            "Agronomy",
+            "Animal Husbandry",
+            "Biomedical Engineering",
+            "Biomedicine",
+            "Business Administration",
+            "Chemical Engineering",
+            "Cinema and Television",
+            "Civil Engineering",
+            "Commercial Law",
+            "Communication Studies",
+            "Computer Engineering",
+            "Computer Networks",
+            "Electrical Engineering",
+            "Energy Engineering",
+            "Fiscal Law",
+            "Food Science",
+            "Food Technology",
+            "Journalism",
+            "Management",
+            "Mechanical Engineering",
+            "Metallurgical Engineering",
+            "Midwifery",
+            "Mining Engineering",
+            "Notary Studies",
+            "Nursing",
+            "Pharmacy",
+            "Physical Therapy",
+            "Political Sciences",
+            "Private Law",
+            "Public Administration",
+            "Public Health",
+            "Public Law",
+            "Speech Therapy and Audiology",
+            "Telecommunications Engineering",
+            "Vegetable Production"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Administration",
+            "Advertising and Publicity",
+            "Agricultural Business",
+            "Agronomy",
+            "Animal Husbandry",
+            "Biomedicine",
+            "Biotechnology",
+            "Business Administration",
+            "Chemical Engineering",
+            "Cinema and Television",
+            "Civil Engineering",
+            "Commercial Law",
+            "Communication Studies",
+            "Computer Engineering",
+            "Computer Networks",
+            "Economics",
+            "Electrical Engineering",
+            "Energy Engineering",
+            "Fiscal Law",
+            "Food Science",
+            "Food Technology",
+            "Government",
+            "Human Rights",
+            "International Law",
+            "International Relations and Diplomacy",
+            "Law",
+            "Management",
+            "Mass Communication",
+            "Mechanical Engineering",
+            "Metallurgical Engineering",
+            "Mining Engineering",
+            "Multimedia",
+            "Notary Studies",
+            "Nursing",
+            "Pharmacy",
+            "Physical Therapy",
+            "Political Sciences",
+            "Private Law",
+            "Public Administration",
+            "Public Health",
+            "Public Law",
+            "Telecommunications Engineering",
+            "Vegetable Production"
+          ]
+        },
+        {
+          "name": "Doctorat",
+          "fields": [
+            "Advertising and Publicity",
+            "Business Administration",
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Communication Studies",
+            "Computer Engineering",
+            "Computer Networks",
+            "Economics",
+            "Electrical Engineering",
+            "Energy Engineering",
+            "Law",
+            "Management",
+            "Mass Communication",
+            "Mechanical Engineering",
+            "Metallurgical Engineering",
+            "Mining Engineering",
+            "Multimedia",
+            "Political Sciences",
+            "Telecommunications Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l'Enseignement supérieur et de la Recherche scientifique et de l’Innovation technologique",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Daniel Franck Idiata"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Vincent de Paul Athiaro"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Houda Hamid"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2010 as Ecole de Management du Gabon (EM-Gabon), acquired current title 2018",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "24590",
+      "iau_id": "IAU-024590",
+      "name": "Franco-American Academy of Management",
+      "alt_name": "Académie Franco-Américaine de Management (AFRAM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBVLjNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024590",
+      "address": {
+        "Street": "P.O. Box 20430rue André Mintsa, Batterie IV",
+        "City": "Libreville"
+      },
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2003,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Computer Science",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Department/Division : Economics",
+          "fields": [
+            "Economics"
+          ]
+        },
+        {
+          "name": "Department/Division : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Department/Division : Management",
+          "fields": [
+            "Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Quality, Hygiene Safety and Environment",
+          "fields": [
+            "Environmental Studies",
+            "Welfare and Protective Services"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Accountancy",
+            "Computer Engineering",
+            "Computer Science",
+            "E-Business/Commerce",
+            "Ecology",
+            "Economics",
+            "Entrepreneurship",
+            "Environmental Studies",
+            "Finance",
+            "Fiscal Law",
+            "Human Resources",
+            "Hygiene",
+            "Information Technology",
+            "Insurance",
+            "International Economics",
+            "Law",
+            "Logistics Management",
+            "Management",
+            "Marketing",
+            "Statistics",
+            "Surveying and Mapping",
+            "Transport Management",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Accountancy",
+            "Entrepreneurship",
+            "Environmental Studies",
+            "Finance",
+            "Hygiene",
+            "Law",
+            "Logistics Management",
+            "Management",
+            "Welfare and Protective Services"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l'Enseignement supérieur et de la Recherche scientifique et de l’Innovation technologique",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Emilien Okossi Nouho"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2003",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "30628",
+      "iau_id": "IAU-030628",
+      "name": "Institute of Economics, Business, Information Technology and Communication",
+      "alt_name": "Institut supérieur des Sciences économiques, commerciales, de l’Informatique et de la Communication – ISSEC-IC Gabon (ISSEC-IC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sU2BWLENAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-030628",
+      "address": {
+        "Street": "P.O. Box 12706Derrière l'ENS",
+        "City": "Libreville"
+      },
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2004,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Journalism and Media Studies",
+          "fields": [
+            "Journalism",
+            "Media Studies",
+            "Radio and Television Broadcasting"
+          ]
+        },
+        {
+          "name": "Department/Division : Management and Finance",
+          "fields": [
+            "Business Administration",
+            "Finance",
+            "Health Sciences",
+            "Law",
+            "Management",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Department/Division : Planning and Land Registry Professions",
+          "fields": [
+            "Architecture and Planning",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "Department/Division : Science",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Geology",
+            "Mathematics",
+            "Physics"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Accountancy",
+            "Architecture",
+            "Banking",
+            "Commercial Law",
+            "Development Studies",
+            "Environmental Studies",
+            "Finance",
+            "Health Sciences",
+            "Human Resources",
+            "Insurance",
+            "Journalism",
+            "Logistics Management",
+            "Marketing",
+            "Surveying and Mapping",
+            "Town Planning",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Commercial Law",
+            "Development Studies",
+            "Environmental Studies",
+            "Finance",
+            "Health Sciences",
+            "Human Resources",
+            "Insurance",
+            "Journalism",
+            "Logistics Management",
+            "Management",
+            "Marketing",
+            "Welfare and Protective Services"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l'Enseignement supérieur et de la Recherche scientifique et de l’Innovation technologique",
+      "officers": [],
+      "statistics": {},
+      "history": "Founded 2004",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "30599",
+      "iau_id": "IAU-030599",
+      "name": "Institute of Engineering",
+      "alt_name": "Institut supérieur d’Ingénierie (ISI)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sU2BVLjNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-030599",
+      "address": {
+        "City": "Libreville",
+        "WWW": "http://www.isi-gab.com"
+      },
+      "website": "http://www.isi-gab.com",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2009,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : Port-Gentil",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Commercial Law",
+            "Communication Studies",
+            "Economics",
+            "Finance",
+            "Human Resources",
+            "Hygiene",
+            "Industrial and Production Economics",
+            "Industrial Management",
+            "Information Technology",
+            "Insurance",
+            "Logistics Management",
+            "Management",
+            "Marketing",
+            "Taxation",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Department/Division : Management (Classical)",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Commercial Law",
+            "Communication Studies",
+            "Economics",
+            "Finance",
+            "Human Resources",
+            "Hygiene",
+            "Industrial and Production Economics",
+            "Industrial Management",
+            "Information Technology",
+            "Insurance",
+            "Logistics Management",
+            "Management",
+            "Marketing",
+            "Taxation",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Department/Division : Science",
+          "fields": [
+            "Biomedical Engineering",
+            "Computer Engineering",
+            "Electronic Engineering",
+            "Maintenance Technology",
+            "Mining Engineering",
+            "Petroleum and Gas Engineering",
+            "Production Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Biomedical Engineering",
+            "Business and Commerce",
+            "Communication Studies",
+            "Economics",
+            "Environmental Studies",
+            "Human Resources",
+            "Hygiene",
+            "Industrial and Production Economics",
+            "Insurance",
+            "Logistics Management",
+            "Management",
+            "Marketing",
+            "Mining Engineering",
+            "Petroleum and Gas Engineering",
+            "Production Engineering",
+            "Safety Engineering",
+            "Taxation",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Biomedical Engineering",
+            "Business and Commerce",
+            "Communication Studies",
+            "Economics",
+            "Environmental Studies",
+            "Human Resources",
+            "Hygiene",
+            "Industrial and Production Economics",
+            "Insurance",
+            "Logistics Management",
+            "Management",
+            "Marketing",
+            "Mining Engineering",
+            "Petroleum and Gas Engineering",
+            "Production Engineering",
+            "Safety Engineering",
+            "Taxation",
+            "Welfare and Protective Services"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l'Enseignement supérieur et de la Recherche scientifique et de l’Innovation technologique",
+      "officers": [],
+      "statistics": {},
+      "history": "Founded 2009",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "30616",
+      "iau_id": "IAU-030616",
+      "name": "Institute of Management and Applied Sciences",
+      "alt_name": "Institut du Management et des Sciences appliquées – IMSA Gabon (IMSA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sU2BWLDM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-030616",
+      "address": {
+        "Street": "Cité Damas, N° 693, près de l’Ecole PubliqueP.O. Box 6745",
+        "City": "Libreville",
+        "WWW": "https://imsa-school.com"
+      },
+      "website": "https://imsa-school.com",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2017,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Biological and Environmental Engineering",
+          "fields": [
+            "Agricultural Business",
+            "Aquaculture",
+            "Biomedicine",
+            "Environmental Studies",
+            "Fishery",
+            "Food Technology",
+            "Hygiene",
+            "Measurement and Precision Engineering",
+            "Public Health",
+            "Safety Engineering"
+          ]
+        },
+        {
+          "name": "Department/Division : Computer and Industrial Engineering",
+          "fields": [
+            "Computer Engineering",
+            "Computer Networks",
+            "Computer Science",
+            "Industrial Engineering",
+            "Industrial Maintenance",
+            "Information Technology",
+            "Software Engineering",
+            "Surveying and Mapping",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Department/Division : E-learning",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Communication Studies",
+            "Finance",
+            "Human Resources",
+            "Insurance",
+            "Law",
+            "Logistics Management",
+            "Management",
+            "Marketing",
+            "Safety Engineering",
+            "Transport and Communications"
+          ]
+        },
+        {
+          "name": "Department/Division : Management and Law",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Communication Studies",
+            "Finance",
+            "Human Resources",
+            "Insurance",
+            "Law",
+            "Logistics Management",
+            "Management",
+            "Marketing",
+            "Safety Engineering",
+            "Transport and Communications"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Agriculture",
+            "Business Administration",
+            "Engineering",
+            "Environmental Studies"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Agriculture",
+            "Business Administration",
+            "Engineering",
+            "Environmental Studies"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l'Enseignement supérieur et de la Recherche scientifique et de l’Innovation technologique",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Romuald Akendengue"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2017",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "30605",
+      "iau_id": "IAU-030605",
+      "name": "Institute of Management Studies",
+      "alt_name": "Institut des hautes Etudes de Management – Groupe IHEM (IHEM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sU2BWLCM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-030605",
+      "address": {
+        "Street": "Campus A sis à STFOP.O. Box 26764",
+        "City": "Libreville",
+        "WWW": "http://www.groupeihem.com"
+      },
+      "website": "http://www.groupeihem.com",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2005,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Campus Abroad : Dakar (Senegal)",
+          "fields": [
+            "Biomedicine",
+            "Medical Technology",
+            "Midwifery",
+            "Nursing",
+            "Pharmacy",
+            "Public Health"
+          ]
+        },
+        {
+          "name": "Campus Abroad : Douala (Cameroon)",
+          "fields": [
+            "Biomedicine",
+            "Medical Technology",
+            "Midwifery",
+            "Nursing",
+            "Pharmacy",
+            "Public Health"
+          ]
+        },
+        {
+          "name": "School : Health Sciences",
+          "fields": [
+            "Biomedicine",
+            "Medical Technology",
+            "Midwifery",
+            "Nursing",
+            "Pharmacy",
+            "Public Health"
+          ]
+        },
+        {
+          "name": "School : Industrial Engineering",
+          "fields": [
+            "Computer Engineering",
+            "Industrial Engineering"
+          ]
+        },
+        {
+          "name": "School : Management Sciences",
+          "fields": [
+            "Accountancy",
+            "Archiving",
+            "Banking",
+            "Business and Commerce",
+            "Commercial Law",
+            "Communication Studies",
+            "Documentation Techniques",
+            "Environmental Studies",
+            "Finance",
+            "Health Administration",
+            "Health Sciences",
+            "Human Resources",
+            "Hygiene",
+            "Insurance",
+            "Law",
+            "Logistics Management",
+            "Management",
+            "Marketing",
+            "Real Estate",
+            "Sustainable Development",
+            "Taxation",
+            "Tourism",
+            "Transport Management",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "School : Management Sciences (Doctoral)",
+          "fields": [
+            "Business Administration"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Accountancy",
+            "Archiving",
+            "Banking",
+            "Biomedicine",
+            "Business and Commerce",
+            "Business Computing",
+            "Commercial Law",
+            "Communication Studies",
+            "Computer Engineering",
+            "Documentation Techniques",
+            "Environmental Studies",
+            "Finance",
+            "Health Administration",
+            "Health Sciences",
+            "Human Resources",
+            "Hygiene",
+            "Industrial Engineering",
+            "Insurance",
+            "Law",
+            "Logistics Management",
+            "Management",
+            "Marketing",
+            "Medical Technology",
+            "Midwifery",
+            "Nursing",
+            "Pharmacy",
+            "Public Health",
+            "Real Estate",
+            "Sustainable Development",
+            "Taxation",
+            "Tourism",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Accountancy",
+            "Archiving",
+            "Banking",
+            "Biomedicine",
+            "Business and Commerce",
+            "Business Computing",
+            "Commercial Law",
+            "Communication Studies",
+            "Documentation Techniques",
+            "Environmental Studies",
+            "Finance",
+            "Health Administration",
+            "Health Sciences",
+            "Human Resources",
+            "Hygiene",
+            "Insurance",
+            "Law",
+            "Logistics Management",
+            "Management",
+            "Marketing",
+            "Medical Technology",
+            "Midwifery",
+            "Nursing",
+            "Pharmacy",
+            "Public Health",
+            "Real Estate",
+            "Sustainable Development",
+            "Taxation",
+            "Tourism",
+            "Transport Management",
+            "Welfare and Protective Services"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l'Enseignement supérieur et de la Recherche scientifique et de l’Innovation technologique",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Constant Oyono"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2005",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "30583",
+      "iau_id": "IAU-030583",
+      "name": "Institute of Technology",
+      "alt_name": "Institut supérieur de Technologie – IST Gabon (IST)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sU2BVLiMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-030583",
+      "address": {
+        "Street": "BikeleCitée des mines GABON Permanence à Oloumi (ancien site basile Ondimba)",
+        "City": "Libreville",
+        "WWW": "https://ist.univ-lbv.com"
+      },
+      "website": "https://ist.univ-lbv.com",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1994,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Management",
+          "fields": [
+            "Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Technology",
+          "fields": [
+            "Technology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Artificial Intelligence",
+            "Automation",
+            "Banking",
+            "Computer Science",
+            "Data Science",
+            "E-Business/Commerce",
+            "Finance",
+            "Human Resources",
+            "Information Technology",
+            "Insurance",
+            "Labour Law",
+            "Logistics Management",
+            "Maintenance Technology",
+            "Marketing",
+            "Network Technology",
+            "Public Administration",
+            "Software Engineering",
+            "Taxation",
+            "Telecommunications Technology"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Computer Graphics",
+            "Human Resources",
+            "Labour Law",
+            "Logistics Management",
+            "Management",
+            "Surveying and Mapping",
+            "Taxation"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l’Enseignement supérieur et de la Recherche scientifique",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Jean-Paul Mamboundou"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1994",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "30646",
+      "iau_id": "IAU-030646",
+      "name": "International University of Libreville",
+      "alt_name": "Université internationale de Libreville – Université internationale de Libreville - Institut international Berthe et Jean (UIL-BJ) (UIL)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sU2BWLSM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-030646",
+      "address": {
+        "Street": "PK 23P.O. Box 20411",
+        "City": "Essassa",
+        "WWW": "https://uil-universite.com"
+      },
+      "website": "https://uil-universite.com",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2013,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Law and Political Science",
+          "fields": [
+            "Commercial Law",
+            "Criminal Law",
+            "Criminology",
+            "Development Studies",
+            "Economics",
+            "Fiscal Law",
+            "Industrial Management",
+            "International Law",
+            "Law",
+            "Maritime Law",
+            "Political Sciences",
+            "Private Law",
+            "Public Law"
+          ]
+        },
+        {
+          "name": "Institute : Biomedical Research and Biotechnology",
+          "fields": [
+            "Biomedicine",
+            "Biotechnology"
+          ]
+        },
+        {
+          "name": "Institute : Management and Applied Economics",
+          "fields": [
+            "Banking",
+            "Business Administration",
+            "Finance",
+            "Management"
+          ]
+        },
+        {
+          "name": "School : Medicine and Pharmacy",
+          "fields": [
+            "Medicine",
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "School : Polytechnics",
+          "fields": [
+            "Automation",
+            "Computer Engineering",
+            "Computer Science",
+            "Electrical Engineering",
+            "Industrial Engineering",
+            "Industrial Maintenance",
+            "Multimedia",
+            "Network Technology",
+            "Telecommunications Technology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Business Administration",
+            "Law",
+            "Management",
+            "Political Sciences"
+          ]
+        },
+        {
+          "name": "Diplôme d'Ingénieur",
+          "fields": [
+            "Business and Commerce",
+            "Computer Networks",
+            "Electrical and Electronic Engineering",
+            "Mechanical Engineering",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Administrative Law",
+            "Biomedicine",
+            "Biotechnology",
+            "Business Administration",
+            "Business and Commerce",
+            "Commercial Law",
+            "Criminal Law",
+            "Criminology",
+            "Finance",
+            "Fiscal Law",
+            "Human Rights",
+            "International Relations and Diplomacy",
+            "Law",
+            "Logistics Management",
+            "Management",
+            "Political Sciences",
+            "Private Law",
+            "Public Law",
+            "Sustainable Development",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Doctorat",
+          "fields": [
+            "Biomedicine",
+            "Biotechnology",
+            "Civil Law",
+            "Criminal Law",
+            "Criminology",
+            "International Relations and Diplomacy",
+            "Law",
+            "Medicine",
+            "Pharmacy",
+            "Political Sciences",
+            "Private Law",
+            "Public Law"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l'Enseignement supérieur et de la Recherche scientifique et de l’Innovation technologique",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Jacques François Mavoungou"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2013, opened 2014. Is part of the Institut international Berthe et Jean (IIBJ)",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "30601",
+      "iau_id": "IAU-030601",
+      "name": "Libreville International Business School",
+      "alt_name": "Groupe LIBS (LIBS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sU2BWLCMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-030601",
+      "address": {
+        "Street": "Cité Damasen face du Complexe scolaire Sacré-cœurP.O. Box 8631",
+        "City": "Libreville"
+      },
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2012,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Business Administration and Management",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Department/Division : Health Sciences",
+          "fields": [
+            "Health Sciences"
+          ]
+        },
+        {
+          "name": "Department/Division : IT and Digital",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Department/Division : Law",
+          "fields": [
+            "Accountancy",
+            "Agricultural Business",
+            "Agricultural Management",
+            "Business and Commerce",
+            "Communication Studies",
+            "Data Science",
+            "Environmental Studies",
+            "Finance",
+            "Hotel and Restaurant",
+            "Human Resources",
+            "Hygiene",
+            "Law",
+            "Management",
+            "Marketing",
+            "Social Welfare",
+            "Tourism",
+            "Welfare and Protective Services"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Accountancy",
+            "Agricultural Business",
+            "Agricultural Management",
+            "Business and Commerce",
+            "Communication Studies",
+            "Data Science",
+            "Environmental Studies",
+            "Finance",
+            "Hotel and Restaurant",
+            "Human Resources",
+            "Hygiene",
+            "Law",
+            "Management",
+            "Marketing",
+            "Social Welfare",
+            "Tourism",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Banking",
+            "Commercial Law",
+            "Cybersecurity",
+            "Entrepreneurship",
+            "Finance",
+            "Health Sciences",
+            "Human Resources",
+            "Hygiene",
+            "Insurance",
+            "International Business",
+            "Management",
+            "Marketing",
+            "Social Welfare",
+            "Welfare and Protective Services"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l'Enseignement supérieur et de la Recherche scientifique et de l’Innovation technologique",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Patrice Moundounga Mouity"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2012",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "30584",
+      "iau_id": "IAU-030584",
+      "name": "National Institute of Management Sciences",
+      "alt_name": "Institut national des Sciences de Gestion – INSG Gabon (INSG)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sU2BVLiMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-030584",
+      "address": {
+        "Street": "Gros-Bouquet",
+        "City": "Libreville"
+      },
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1973,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Accountancy",
+          "fields": [
+            "Accountancy"
+          ]
+        },
+        {
+          "name": "Department/Division : Commerce",
+          "fields": [
+            "Business and Commerce"
+          ]
+        },
+        {
+          "name": "Department/Division : Finance",
+          "fields": [
+            "Finance"
+          ]
+        },
+        {
+          "name": "Department/Division : Management",
+          "fields": [
+            "Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Accountancy",
+            "Agricultural Business",
+            "Business and Commerce",
+            "Business Computing",
+            "Communication Studies",
+            "Finance",
+            "Industrial Management",
+            "International Business",
+            "Logistics Management",
+            "Management",
+            "Marketing",
+            "Sustainable Development"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Accountancy",
+            "Actuarial Science",
+            "Administration",
+            "Business Administration",
+            "Business and Commerce",
+            "Business Computing",
+            "Entrepreneurship",
+            "Environmental Management",
+            "Finance",
+            "Human Resources",
+            "International Business",
+            "Management",
+            "Marketing",
+            "Sustainable Development"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l'Enseignement supérieur et de la Recherche scientifique et de l’Innovation technologique",
+      "officers": [],
+      "statistics": {},
+      "history": "Founded 1973",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "4114",
+      "iau_id": "IAU-004114",
+      "name": "National School of Forestry and Water Management",
+      "alt_name": "Ecole nationale des Eaux et Forêts – ENEF Gabon (ENEF)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIyRRLWBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004114",
+      "address": {
+        "Street": "P.O. Box 3960Commune d'Akanda, Cap Estérias",
+        "City": "Libreville"
+      },
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1953,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to July: (September-April; April-July)",
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Fisheries, Aquaculture and Aquatic Ecosystem Management",
+          "fields": [
+            "Aquaculture",
+            "Ecology",
+            "Environmental Management",
+            "Fishery"
+          ]
+        },
+        {
+          "name": "Course/Programme : Forest Geomatics",
+          "fields": [
+            "Forestry",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "Course/Programme : Sustainable Forest Management and Exploitation",
+          "fields": [
+            "Forest Management",
+            "Forest Products"
+          ]
+        },
+        {
+          "name": "Course/Programme : Wildlife and Protected Areas",
+          "fields": [
+            "Wildlife"
+          ]
+        },
+        {
+          "name": "Course/Programme : Wood Processing and Industries",
+          "fields": [
+            "Wood Technology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Environmental Management",
+            "Forest Management",
+            "Wood Technology"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Environmental Management",
+            "Forest Management",
+            "Wood Technology"
+          ]
+        }
+      ],
+      "accreditation": "Ministère des Eaux et Forêts",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Bruno Koumankali"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1953 as a Forestry Training Center. Became the Forestry School 1959, then the National Institute of Forestry Studies (INEF) 1967, and acquired current title 1976",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "19792",
+      "iau_id": "IAU-019792",
+      "name": "Omar Bongo University",
+      "alt_name": "Université Omar Bongo (UOB)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RXLjMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019792",
+      "address": {
+        "Street": "P.O. Box 13131",
+        "City": "Libreville",
+        "Province": "Estuaire",
+        "WWW": "https://univuob.org"
+      },
+      "website": "https://univuob.org",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1970,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "October to July (October-March; April-July)",
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Arts and Humanities",
+          "fields": [
+            "American Studies",
+            "Anthropology",
+            "Archaeology",
+            "Communication Studies",
+            "English",
+            "English Studies",
+            "Geography (Human)",
+            "German",
+            "Germanic Studies",
+            "Hispanic American Studies",
+            "History",
+            "Latin American Studies",
+            "Linguistics",
+            "Literature",
+            "Philosophy",
+            "Portuguese",
+            "Psychology",
+            "Social Sciences",
+            "Sociology",
+            "Spanish",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Law and Economics",
+          "fields": [
+            "Business Administration",
+            "Economics",
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Science",
+          "fields": [
+            "Mathematics",
+            "Natural Sciences"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Anthropology",
+            "Applied Mathematics",
+            "Archaeology",
+            "Arts and Humanities",
+            "Biological and Life Sciences",
+            "Communication Studies",
+            "Comparative Literature",
+            "Documentation Techniques",
+            "Earth Sciences",
+            "Econometrics",
+            "Economics",
+            "English",
+            "English Studies",
+            "Foreign Languages Education",
+            "French Studies",
+            "Geography",
+            "Geography (Human)",
+            "Germanic Studies",
+            "Heritage Preservation",
+            "History",
+            "Information Sciences",
+            "International Economics",
+            "International Relations and Diplomacy",
+            "Latin American Studies",
+            "Literature",
+            "Management",
+            "Modern Languages",
+            "Philosophy",
+            "Political Sciences",
+            "Private Law",
+            "Psychology",
+            "Public Law",
+            "Real Estate",
+            "Science Education",
+            "Sociology",
+            "Surveying and Mapping",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "African Studies",
+            "Ancient Civilizations",
+            "Anthropology",
+            "Archaeology",
+            "Arts and Humanities",
+            "Coastal Studies",
+            "Commercial Law",
+            "Communication Studies",
+            "Constitutional Law",
+            "Cultural Studies",
+            "Development Studies",
+            "Economics",
+            "Educational Psychology",
+            "English Studies",
+            "Environmental Studies",
+            "Geography",
+            "Geography (Human)",
+            "History",
+            "Industrial and Organizational Psychology",
+            "Information Sciences",
+            "International Relations and Diplomacy",
+            "Journalism",
+            "Linguistics",
+            "Literature",
+            "Logic",
+            "Metaphysics",
+            "Philosophy",
+            "Political Sciences",
+            "Private Law",
+            "Psychiatry and Mental Health",
+            "Psychology",
+            "Public Law",
+            "Regional Planning",
+            "Social Psychology",
+            "Social Sciences",
+            "Sociology",
+            "Surveying and Mapping",
+            "Sustainable Development",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Doctorat",
+          "fields": [
+            "Archaeology",
+            "History",
+            "Law",
+            "Linguistics",
+            "Sociology"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l'Enseignement supérieur, de la Recherche scientifique et du Développement technologique",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Jean-Jacques Tony Ekomie"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1970 incorporating institutions which were previously part of the Fondation de l'Enseignement supérieur en Afrique Centrale (FESAC) as Université nationale du Gabon (UNG). Renamed 1978 as Université Omar Bongo (UOB). Acquired present status 2002",
+      "periodicals": [
+        "Annales de l'Université Omar Bongo",
+        "Annales de l'Université Omar Bongo"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "30619",
+      "iau_id": "IAU-030619",
+      "name": "Pan-African Institute for Applied Studies",
+      "alt_name": "Institut panafricain d’Etudes appliquées – IPEA Gabon (IPEA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sU2BWLDNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-030619",
+      "address": {
+        "Street": "Charbonnage, ancien lycée khadafiP.O. Box 9031",
+        "City": "Libreville"
+      },
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2016,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Information and New Technology Sciences",
+          "fields": [
+            "Computer Networks",
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Department/Division : Law",
+          "fields": [
+            "Commercial Law",
+            "Public Law"
+          ]
+        },
+        {
+          "name": "Department/Division : Management",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Communication Studies",
+            "Environmental Studies",
+            "Finance",
+            "Hygiene",
+            "Insurance",
+            "Logistics Management",
+            "Management",
+            "Marketing",
+            "Transport Management",
+            "Welfare and Protective Services"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Commercial Law",
+            "Communication Studies",
+            "Computer Networks",
+            "Computer Science",
+            "Environmental Studies",
+            "Finance",
+            "Hygiene",
+            "Insurance",
+            "Logistics Management",
+            "Management",
+            "Marketing",
+            "Public Law",
+            "Transport Management",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Commercial Law",
+            "Communication Studies",
+            "Computer Networks",
+            "Computer Science",
+            "Environmental Studies",
+            "Finance",
+            "Hygiene",
+            "Insurance",
+            "Logistics Management",
+            "Marketing",
+            "Public Law",
+            "Transport Management",
+            "Welfare and Protective Services"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l'Enseignement supérieur et de la Recherche scientifique et de l’Innovation technologique",
+      "officers": [],
+      "statistics": {},
+      "history": "Founded 2016",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "24593",
+      "iau_id": "IAU-024593",
+      "name": "Saint-Exupery French-Gabonese University",
+      "alt_name": "Université Franco-gabonaise Saint-Exupéry (UFGSE)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBVLjMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024593",
+      "address": {
+        "Street": "P.O. Box 4082Descente de l'Union Multipress",
+        "City": "Libreville"
+      },
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2012,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Cultural Studies, Communication Studies and International Relations",
+          "fields": [
+            "Communication Studies",
+            "Cultural Studies",
+            "International Relations and Diplomacy",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Department/Division : Engineering",
+          "fields": [
+            "Civil Engineering",
+            "Electrical and Electronic Engineering",
+            "Mechanical Engineering",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Department/Division : Political Sciences and Local Government",
+          "fields": [
+            "Banking",
+            "Commercial Law",
+            "Economics",
+            "Finance",
+            "Government",
+            "Insurance",
+            "Political Sciences",
+            "Private Law",
+            "Public Administration",
+            "Public Law"
+          ]
+        },
+        {
+          "name": "Department/Division : Sustainable Development",
+          "fields": [
+            "Cosmetology",
+            "Environmental Studies",
+            "Food Technology",
+            "Forestry",
+            "Hygiene",
+            "Logistics Management",
+            "Taxation",
+            "Transport Management",
+            "Welfare and Protective Services"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Administration",
+            "Banking",
+            "Commercial Law",
+            "Communication Studies",
+            "Cosmetology",
+            "Cultural Studies",
+            "Finance",
+            "Food Technology",
+            "Government",
+            "Insurance",
+            "International Relations and Diplomacy",
+            "Logistics Management",
+            "Political Sciences",
+            "Private Law",
+            "Public Law",
+            "Sustainable Development",
+            "Taxation",
+            "Transport and Communications"
+          ]
+        },
+        {
+          "name": "Diplôme d'Ingénieur",
+          "fields": [
+            "Civil Engineering",
+            "Computer Engineering",
+            "Electrical Engineering",
+            "Mechanical Engineering",
+            "Robotics"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Accountancy",
+            "Communication Studies",
+            "Cultural Studies",
+            "Economics",
+            "Finance",
+            "Information Sciences",
+            "International Relations and Diplomacy",
+            "Political Sciences",
+            "Sustainable Development"
+          ]
+        },
+        {
+          "name": "Doctorat",
+          "fields": [
+            "Accountancy",
+            "Communication Studies",
+            "Cultural Studies",
+            "Economics",
+            "Finance",
+            "Information Sciences",
+            "International Relations and Diplomacy",
+            "Political Sciences",
+            "Sustainable Development"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l'Enseignement supérieur et de la Recherche scientifique et de l’Innovation technologique",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Raymond Mayer"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2012",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "30610",
+      "iau_id": "IAU-030610",
+      "name": "School of Commerce and Technology",
+      "alt_name": "Ecole supérieure de Commerce et de Technologie – ESCT Gabon (ESCT)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sU2BWLDNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-030610",
+      "address": {
+        "Street": "Descente SOS Médecin",
+        "City": "Libreville",
+        "WWW": "https://esctgabon.com"
+      },
+      "website": "https://esctgabon.com",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2009,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Archiving and Electronic Document Management",
+          "fields": [
+            "Archiving"
+          ]
+        },
+        {
+          "name": "Course/Programme : Banking, Finance and Insurance",
+          "fields": [
+            "Banking",
+            "Finance",
+            "Insurance"
+          ]
+        },
+        {
+          "name": "Course/Programme : Business Information Technology (Graduate)",
+          "fields": [
+            "Business Computing"
+          ]
+        },
+        {
+          "name": "Course/Programme : Business Management and Administration (Graduate)",
+          "fields": [
+            "Business Administration",
+            "Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : E-Commerce and Digital Marketing",
+          "fields": [
+            "E-Business/Commerce",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Course/Programme : E-Commerce and Digital Marketing (Graduate)",
+          "fields": [
+            "E-Business/Commerce",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Course/Programme : Entrepreneurship",
+          "fields": [
+            "Entrepreneurship"
+          ]
+        },
+        {
+          "name": "Course/Programme : Finance, Accounting and Management",
+          "fields": [
+            "Accountancy",
+            "Finance",
+            "Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Network Systems Administration and Security",
+          "fields": [
+            "Cybersecurity",
+            "Network Technology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Accountancy",
+            "Archiving",
+            "Banking",
+            "Cybersecurity",
+            "E-Business/Commerce",
+            "Entrepreneurship",
+            "Finance",
+            "Insurance",
+            "Management",
+            "Marketing",
+            "Network Technology"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Business Administration",
+            "Business Computing",
+            "E-Business/Commerce",
+            "Management",
+            "Marketing"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l'Enseignement supérieur et de la Recherche scientifique et de l’Innovation technologique",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Yvon Nicaise Tchibinda"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2009",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "24594",
+      "iau_id": "IAU-024594",
+      "name": "School of Informatics Management and Computer Sciences",
+      "alt_name": "Ecole Supérieure de Gestion d'Informatique et des Sciences (ESGIS Libreville)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBVLjMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024594",
+      "address": {
+        "Street": "P.O. Box 1359Quartier GLASS à 150 m de l’Hotel Meridien",
+        "City": "Libreville",
+        "WWW": "https://www.esgis.org"
+      },
+      "website": "https://www.esgis.org",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2012,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Economics and Management",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Department/Division : Legal, Political and Administrative Sciences",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Department/Division : Science and Technology",
+          "fields": [
+            "Computer Science"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Accountancy",
+            "Artificial Intelligence",
+            "Business Administration",
+            "Communication Studies",
+            "Computer Networks",
+            "Computer Science",
+            "Data Science",
+            "Human Resources",
+            "International Business",
+            "Logistics Management",
+            "Marketing",
+            "Private Law",
+            "Public Law",
+            "Software Engineering",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Accountancy",
+            "Artificial Intelligence",
+            "Business Administration",
+            "Communication Studies",
+            "Computer Networks",
+            "Computer Science",
+            "Data Science",
+            "Human Resources",
+            "International Business",
+            "Logistics Management",
+            "Marketing",
+            "Private Law",
+            "Public Law",
+            "Software Engineering",
+            "Transport Management"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l'Enseignement supérieur et de la Recherche scientifique et de l’Innovation technologique",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Marcel Macy Akakpo"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2012",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "30594",
+      "iau_id": "IAU-030594",
+      "name": "School of the Sea",
+      "alt_name": "Ecole supérieure de la Mer – Ecole supérieure de la Mer d’Abidjan au Gabon (ESMAG) (ESM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sU2BVLjMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-030594",
+      "address": {
+        "Street": "P.O. Box 12102Carrefour Acaé - près de l'Hotel Boulevard",
+        "City": "Libreville"
+      },
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2013,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Fishery and Aquaculture",
+          "fields": [
+            "Aquaculture",
+            "Fishery"
+          ]
+        },
+        {
+          "name": "Course/Programme : Human Resources Management",
+          "fields": [
+            "Human Resources"
+          ]
+        },
+        {
+          "name": "Course/Programme : International Business",
+          "fields": [
+            "International Business"
+          ]
+        },
+        {
+          "name": "Course/Programme : International Business (Graduate)",
+          "fields": [
+            "International Business"
+          ]
+        },
+        {
+          "name": "Course/Programme : Logistics and Total Quality (Graduate)",
+          "fields": [
+            "Logistics Management",
+            "Safety Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Marine and Port Activities Management",
+          "fields": [
+            "Marine Transport",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Marine and Port Activities Management (Graduate)",
+          "fields": [
+            "Marine Transport",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Maritime and Port Law",
+          "fields": [
+            "Maritime Law",
+            "Private Law"
+          ]
+        },
+        {
+          "name": "Course/Programme : Maritime and Port Law (Graduate)",
+          "fields": [
+            "Maritime Law",
+            "Private Law"
+          ]
+        },
+        {
+          "name": "Course/Programme : Mining, Geology, Petroleum",
+          "fields": [
+            "Geology",
+            "Mining Engineering",
+            "Petroleum and Gas Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Petroleum Engineering (Graduate)",
+          "fields": [
+            "Petroleum and Gas Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Quality - Hygiene - Safety - Environment (Graduate)",
+          "fields": [
+            "Hygiene",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Course/Programme : Quality Management (Graduate)",
+          "fields": [
+            "Safety Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : River and Coastal Management",
+          "fields": [
+            "Coastal Studies",
+            "Hydraulic Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Transit and Customs",
+          "fields": [
+            "Taxation"
+          ]
+        },
+        {
+          "name": "Course/Programme : Transport and Logistics",
+          "fields": [
+            "Logistics Management",
+            "Transport Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Aquaculture",
+            "Coastal Studies",
+            "Fishery",
+            "Geology",
+            "Human Resources",
+            "Hydraulic Engineering",
+            "International Business",
+            "Logistics Management",
+            "Marine Transport",
+            "Maritime Law",
+            "Mining Engineering",
+            "Petroleum and Gas Engineering",
+            "Private Law",
+            "Taxation",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Hygiene",
+            "International Business",
+            "Logistics Management",
+            "Marine Transport",
+            "Maritime Law",
+            "Petroleum and Gas Engineering",
+            "Safety Engineering",
+            "Transport Management"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l'Enseignement supérieur et de la Recherche scientifique et de l’Innovation technologique",
+      "officers": [],
+      "statistics": {},
+      "history": "Founded 2013",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "24584",
+      "iau_id": "IAU-024584",
+      "name": "Teacher Training School of Libreville",
+      "alt_name": "Ecole normale supérieure de Libreville – ENS Libreville (ENS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBVLiMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024584",
+      "address": {
+        "Street": "Quartier Derrière l’Ecole normale",
+        "City": "Libreville",
+        "WWW": "https://enslibreville.org"
+      },
+      "website": "https://enslibreville.org",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1971,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Unit : Educational Computing and Documentation",
+          "fields": [
+            "Documentation Techniques",
+            "Educational Technology"
+          ]
+        },
+        {
+          "name": "Unit : Educational Sciences",
+          "fields": [
+            "Educational Psychology",
+            "Educational Sciences",
+            "Special Education",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Unit : Letters, Languages ​​and Arts",
+          "fields": [
+            "Art Education",
+            "English",
+            "French Studies",
+            "German",
+            "Humanities and Social Science Education",
+            "Spanish"
+          ]
+        },
+        {
+          "name": "Unit : Science and Technology",
+          "fields": [
+            "Biological and Life Sciences",
+            "Biology",
+            "Earth Sciences",
+            "Geology",
+            "Mathematics"
+          ]
+        },
+        {
+          "name": "Unit : Society and Civilization",
+          "fields": [
+            "Civics",
+            "Economics",
+            "Geography (Human)",
+            "History",
+            "Philosophy",
+            "Social Sciences"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Art Education",
+            "Civics",
+            "Documentation Techniques",
+            "Educational and Student Counselling",
+            "Educational Psychology",
+            "Educational Technology",
+            "Foreign Languages Education",
+            "Humanities and Social Science Education",
+            "Science Education",
+            "Secondary Education",
+            "Special Education"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Art Education",
+            "Civics",
+            "Documentation Techniques",
+            "Educational and Student Counselling",
+            "Educational Psychology",
+            "Educational Technology",
+            "Foreign Languages Education",
+            "Humanities and Social Science Education",
+            "Science Education",
+            "Secondary Education",
+            "Special Education",
+            "Teacher Training"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l'Enseignement supérieur et de la Recherche scientifique et de l’Innovation technologique",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Fidèle Allogho-Nkoghe"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2014-2015",
+        "Staff Full Time Total:": "190",
+        "Students Statistics Year:": "2014-2014",
+        "Students Total:": "2772"
+      },
+      "history": "Founded 1971",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "24587",
+      "iau_id": "IAU-024587",
+      "name": "Technical Teachers Training School",
+      "alt_name": "Ecole normale supérieure de l'Enseignement technique (ENSET)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBVLiM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024587",
+      "address": {
+        "Street": "P.O. Box 3989Avenue des grandes écoles",
+        "City": "Libreville"
+      },
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1972,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Industrial Sciences and Technology",
+          "fields": [
+            "Automotive Engineering",
+            "Civil Engineering",
+            "Construction Engineering",
+            "Electronics and Automation",
+            "Heating and Refrigeration",
+            "Maintenance Technology",
+            "Mechanical Engineering",
+            "Wood Technology"
+          ]
+        },
+        {
+          "name": "Department/Division : Management Sciences and Technology",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business and Commerce",
+            "Communication Studies",
+            "Finance",
+            "Human Resources",
+            "Insurance",
+            "Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Civil Engineering",
+            "Communication Studies",
+            "Construction Engineering",
+            "Electrical and Electronic Engineering",
+            "Electronic Engineering",
+            "Heating and Refrigeration",
+            "Insurance",
+            "Maintenance Technology",
+            "Management",
+            "Mechanical Engineering",
+            "Wood Technology"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Accountancy",
+            "Business and Commerce",
+            "Civil Engineering",
+            "Communication Studies",
+            "Economics",
+            "Electrical Engineering",
+            "Finance",
+            "Law",
+            "Marketing",
+            "Mechanical Engineering",
+            "Wood Technology"
+          ]
+        },
+        {
+          "name": "Doctorat",
+          "fields": [
+            "Education",
+            "Engineering",
+            "Environmental Studies",
+            "Technology"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l'Enseignement supérieur et de la Recherche scientifique et de l’Innovation technologique",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Guy Richard Kibouka"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1972",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "30585",
+      "iau_id": "IAU-030585",
+      "name": "University Institute of Organizational Sciences",
+      "alt_name": "Institut universitaire des Sciences de l'Organisation – Institut universitaire des Sciences de l’Organisation, Sophie Ntoutoume Emane (IUSO)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sU2BVLiM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-030585",
+      "address": {
+        "Street": "P.O. Box 17014",
+        "City": "Libreville",
+        "WWW": "https://iuso-sne.com"
+      },
+      "website": "https://iuso-sne.com",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1984,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Information and Communication Sciences",
+          "fields": [
+            "Communication Studies",
+            "Documentation Techniques",
+            "Information Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Legal and Administrative Careers",
+          "fields": [
+            "Government",
+            "Law"
+          ]
+        },
+        {
+          "name": "Department/Division : Management Sciences",
+          "fields": [
+            "Entrepreneurship",
+            "Health Administration",
+            "Human Resources",
+            "Sports Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Tertiary Sciences and Technologies",
+          "fields": [
+            "Business Administration",
+            "Business and Commerce",
+            "Insurance",
+            "Management",
+            "Secretarial Studies"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Communication Studies",
+            "Documentation Techniques",
+            "Entrepreneurship",
+            "Health Administration",
+            "Human Resources",
+            "Information Management",
+            "Information Sciences",
+            "Management",
+            "Mass Communication",
+            "Media Studies",
+            "Secretarial Studies",
+            "Sports Management",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Communication Studies",
+            "Documentation Techniques",
+            "Information Management",
+            "Management",
+            "Media Studies",
+            "Translation and Interpretation"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l'Enseignement supérieur et de la Recherche scientifique et de l’Innovation technologique",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Aristide Edzegue Mendame"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1984 as École Nationale Supérieure de Secrétariat (ENSS), acquired current status 2006, acquired current title 2008",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "24595",
+      "iau_id": "IAU-024595",
+      "name": "University of Applied Computer Science-School of Computer Science and Management",
+      "alt_name": "Université des Sciences d'Informatique appliquée-Ecole supérieure des Sciences d’Informatique et de Gestion (ESSIG-USIA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBVLjM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024595",
+      "address": {
+        "Street": "P.O. Box 26692OzangueFace à la Gaboprix",
+        "City": "Libreville"
+      },
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2006,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Accountancy and Audit",
+          "fields": [
+            "Accountancy"
+          ]
+        },
+        {
+          "name": "Course/Programme : Architecture",
+          "fields": [
+            "Architecture"
+          ]
+        },
+        {
+          "name": "Course/Programme : Banking",
+          "fields": [
+            "Banking"
+          ]
+        },
+        {
+          "name": "Course/Programme : Banking and insurance",
+          "fields": [
+            "Banking",
+            "Insurance"
+          ]
+        },
+        {
+          "name": "Course/Programme : Civil Engineering",
+          "fields": [
+            "Civil Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Coastal Management",
+          "fields": [
+            "Coastal Studies"
+          ]
+        },
+        {
+          "name": "Course/Programme : Commerce and Distribution",
+          "fields": [
+            "Business and Commerce"
+          ]
+        },
+        {
+          "name": "Course/Programme : Commercial Action",
+          "fields": [
+            "Sales Techniques"
+          ]
+        },
+        {
+          "name": "Course/Programme : Commercial and Technical Sciences Law",
+          "fields": [
+            "Commercial Law",
+            "Private Law"
+          ]
+        },
+        {
+          "name": "Course/Programme : Communication and Business Development",
+          "fields": [
+            "Business Administration",
+            "Communication Studies"
+          ]
+        },
+        {
+          "name": "Course/Programme : Computer Systems Maintenance",
+          "fields": [
+            "Electrical and Electronic Equipment and Maintenance"
+          ]
+        },
+        {
+          "name": "Course/Programme : Corporate Communication",
+          "fields": [
+            "Communication Studies"
+          ]
+        },
+        {
+          "name": "Course/Programme : Development and Networks",
+          "fields": [
+            "Computer Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Diplomacy and International Relations",
+          "fields": [
+            "International Relations and Diplomacy"
+          ]
+        },
+        {
+          "name": "Course/Programme : Environnmental Management",
+          "fields": [
+            "Environmental Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Financial Accountancy",
+          "fields": [
+            "Accountancy"
+          ]
+        },
+        {
+          "name": "Course/Programme : Geometry Topographer",
+          "fields": [
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "Course/Programme : Human Resources Management",
+          "fields": [
+            "Human Resources"
+          ]
+        },
+        {
+          "name": "Course/Programme : Hygiene-Quality-Safety and Environment",
+          "fields": [
+            "Environmental Studies",
+            "Hygiene",
+            "Safety Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Insurance",
+          "fields": [
+            "Insurance"
+          ]
+        },
+        {
+          "name": "Course/Programme : Journalism",
+          "fields": [
+            "Journalism"
+          ]
+        },
+        {
+          "name": "Course/Programme : Journalism and Corporate Communication",
+          "fields": [
+            "Communication Studies",
+            "Journalism"
+          ]
+        },
+        {
+          "name": "Course/Programme : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Course/Programme : Local Business Networks Administration",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Course/Programme : Logistics and Transport",
+          "fields": [
+            "Transport and Communications",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Management of Communication",
+          "fields": [
+            "Communication Studies"
+          ]
+        },
+        {
+          "name": "Course/Programme : Project Management",
+          "fields": [
+            "Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Quality Management",
+          "fields": [
+            "Safety Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : School Organizations Management",
+          "fields": [
+            "Educational Administration"
+          ]
+        },
+        {
+          "name": "Course/Programme : Technology and Management Strategy",
+          "fields": [
+            "Engineering Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Telecommunications Engineering",
+          "fields": [
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Tourism",
+          "fields": [
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Course/Programme : Tourism and Hospitality Management",
+          "fields": [
+            "Hotel Management",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Course/Programme : Transport and Customs",
+          "fields": [
+            "Taxation",
+            "Transport and Communications"
+          ]
+        },
+        {
+          "name": "Course/Programme : Transport-Customs-Environmental Management",
+          "fields": [
+            "Environmental Management",
+            "Taxation",
+            "Transport Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Accountancy",
+            "Business and Commerce",
+            "Communication Studies",
+            "Computer Networks",
+            "Computer Science",
+            "Finance",
+            "Human Resources",
+            "Insurance",
+            "Journalism",
+            "Logistics Management",
+            "Regional Planning",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Accountancy",
+            "Business and Commerce",
+            "Communication Studies",
+            "Computer Networks",
+            "Cybersecurity",
+            "Educational Administration",
+            "Human Resources",
+            "International Business",
+            "Logistics Management",
+            "Management",
+            "Marketing",
+            "Transport Management"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l'Enseignement supérieur et de la Recherche scientifique et de l’Innovation technologique",
+      "officers": [],
+      "statistics": {},
+      "history": "Founded 2006 as Ecole supérieure des Sciences d’Informatique et de Gestion (ESSIG), acquired current title 2008 following creation of the Université des Sciences d'Informatique appliquée (USIA)",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "19679",
+      "iau_id": "IAU-019679",
+      "name": "University of Health Sciences",
+      "alt_name": "Université des Sciences de la Santé (USS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RWLVNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019679",
+      "address": {
+        "Street": "Boulevard de l'indépendanceOwendoP.O. Box 18231",
+        "City": "Libreville"
+      },
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2002,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Anaesthesiology",
+            "Community Health",
+            "Medicine",
+            "Natural Sciences",
+            "Obstetrics and Gynaecology",
+            "Paediatrics",
+            "Social and Preventive Medicine",
+            "Surgery"
+          ]
+        },
+        {
+          "name": "Faculty : Midwifery and Nursing Sciences",
+          "fields": [
+            "Internal Medicine",
+            "Natural Sciences",
+            "Nursing",
+            "Nursing and Midwifery",
+            "Obstetrics and Gynaecology",
+            "Paediatrics"
+          ]
+        },
+        {
+          "name": "Faculty : Pharmacy",
+          "fields": [
+            "Biological and Life Sciences",
+            "Chemistry",
+            "Medical Science",
+            "Pharmacology",
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Institute : Medical Biology",
+          "fields": [
+            "Bacteriology",
+            "Biochemistry",
+            "Biological and Life Sciences",
+            "Biology",
+            "Cell Biology",
+            "Chemistry",
+            "Genetics",
+            "Haematology",
+            "Immunology",
+            "Molecular Biology",
+            "Parasitology",
+            "Physiology",
+            "Virology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Anaesthesiology",
+            "Biology",
+            "Medical Technology",
+            "Medicine",
+            "Nursing and Midwifery",
+            "Pharmacy",
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "Docteur en Médecine",
+          "fields": [
+            "Medicine",
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Medicine",
+            "Pharmacy"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l'Enseignement supérieur et de la Recherche scientifique et de l’Innovation technologique",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Jean-Bruno Boguikouma"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2002",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "19682",
+      "iau_id": "IAU-019682",
+      "name": "University of Science and Techniques of Masuku",
+      "alt_name": "Université des Sciences et Techniques de Masuku (USTM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RWLiMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019682",
+      "address": {
+        "Street": "P.O. Box 901",
+        "City": "Franceville",
+        "WWW": "https://univ-masuku.org"
+      },
+      "website": "https://univ-masuku.org",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1986,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Ogoouée-Lolo (Provincial)",
+          "fields": [
+            "CUPOL"
+          ]
+        },
+        {
+          "name": "Faculty : Sciences",
+          "fields": [
+            "Biochemistry",
+            "Biology",
+            "Cell Biology",
+            "Chemistry",
+            "Computer Science",
+            "Earth Sciences",
+            "Ecology",
+            "Environmental Studies",
+            "Geology",
+            "Mathematics",
+            "Physics",
+            "Physiology"
+          ]
+        },
+        {
+          "name": "Institute : Agronomy and Biotechnology",
+          "fields": [
+            "Agricultural Economics",
+            "Animal Husbandry",
+            "Biotechnology"
+          ]
+        },
+        {
+          "name": "School : Basic and Applied Sciences (Doctoral)",
+          "fields": [
+            "ED-SFA"
+          ]
+        },
+        {
+          "name": "School : Medicine and Health Sciences",
+          "fields": [
+            "Health Sciences",
+            "Medicine"
+          ]
+        },
+        {
+          "name": "School : Polytechnic",
+          "fields": [
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Networks",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Electronics and Automation",
+            "Industrial Engineering",
+            "Industrial Maintenance",
+            "Industrial Management",
+            "Maintenance Technology",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "School : Veterinary Sciences and Medicine",
+          "fields": [
+            "Veterinary Science"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Agricultural Business",
+            "Agronomy",
+            "Animal Husbandry",
+            "Aquaculture",
+            "Biology",
+            "Chemistry",
+            "Crop Production",
+            "Electrical Engineering",
+            "Fishery",
+            "Food Technology",
+            "Geology",
+            "Industrial Engineering",
+            "Mathematics",
+            "Physics",
+            "Vegetable Production",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Diplôme d'Ingénieur",
+          "fields": [
+            "Agricultural Engineering",
+            "Animal Husbandry",
+            "Automation",
+            "Biotechnology",
+            "Computer Engineering",
+            "Electrical Engineering",
+            "Forestry",
+            "Mechanical Engineering",
+            "Telecommunications Engineering",
+            "Vegetable Production"
+          ]
+        },
+        {
+          "name": "Docteur en Médecine",
+          "fields": [
+            "Medicine",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Agricultural Business",
+            "Agricultural Economics",
+            "Agricultural Engineering",
+            "Industrial Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l'Enseignement supérieur, de la Recherche scientifique et du Développement technologique",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Bill Raphaël Bikanga"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Mathieu Moussavou"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1986, incorporating Faculty of Sciences of Université Omar Bongo (UOB) and Ecole Nationale Supérieure d’Ingénieurs de Libreville (ENSIL)",
+      "periodicals": [],
+      "student_body": "co-ed"
+    }
+  ]
+}

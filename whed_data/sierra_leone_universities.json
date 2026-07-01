@@ -1,0 +1,543 @@
+{
+  "country_name": "Sierra Leone",
+  "country_id": "Sierra Leone",
+  "institutions": [
+    {
+      "id": "12748",
+      "iau_id": "IAU-012748",
+      "name": "Njala University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyhXLSNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-012748",
+      "address": {
+        "Street": "Private Mail Bag",
+        "City": "Freetown",
+        "WWW": "http://njala.edu.sl"
+      },
+      "website": "http://njala.edu.sl",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1964,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "October to June (October-December; January-March; April-June)",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "School : Agriculture",
+          "fields": [
+            "Agricultural Business",
+            "Agricultural Economics",
+            "Agricultural Management",
+            "Agriculture",
+            "Agronomy",
+            "Animal Husbandry",
+            "Clothing and Sewing",
+            "Crop Production",
+            "Dietetics",
+            "Food Technology",
+            "Forestry",
+            "Home Economics",
+            "Horticulture",
+            "Nutrition",
+            "Plant and Crop Protection",
+            "Rural Studies",
+            "Soil Science",
+            "Textile Design",
+            "Zoology"
+          ]
+        },
+        {
+          "name": "School : Community Health Sciences",
+          "fields": [
+            "Community Health",
+            "Epidemiology",
+            "Food Science",
+            "Health Sciences",
+            "Hygiene",
+            "Laboratory Techniques",
+            "Nursing",
+            "Pharmacy",
+            "Public Health",
+            "Traditional and Complementary Medicine and Therapy",
+            "Water Management"
+          ]
+        },
+        {
+          "name": "School : Education",
+          "fields": [
+            "Adult Education",
+            "Agricultural Education",
+            "Applied Linguistics",
+            "Art Education",
+            "Cultural Studies",
+            "Curriculum",
+            "Educational Administration",
+            "Educational and Student Counselling",
+            "Educational Testing and Evaluation",
+            "Health Education",
+            "Linguistics",
+            "Literature",
+            "Modern Languages",
+            "Physical Education",
+            "Preschool Education",
+            "Primary Education",
+            "Science Education",
+            "Secondary Education",
+            "Sports Management",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "School : Environmental Sciences",
+          "fields": [
+            "Biological and Life Sciences",
+            "Biology",
+            "Chemistry",
+            "Development Studies",
+            "Ecology",
+            "Environmental Management",
+            "Environmental Studies",
+            "Geography",
+            "Surveying and Mapping",
+            "Wildlife"
+          ]
+        },
+        {
+          "name": "School : Forestry and Horticulture",
+          "fields": [
+            "Aquaculture",
+            "Fishery",
+            "Forestry",
+            "Horticulture",
+            "Tourism",
+            "Wildlife",
+            "Wood Technology"
+          ]
+        },
+        {
+          "name": "School : Medical Sciences",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "School : Natural Resources Management",
+          "fields": [
+            "Natural Resources"
+          ]
+        },
+        {
+          "name": "School : Social Sciences",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Agricultural Business",
+            "Agricultural Economics",
+            "Banking",
+            "Business Administration",
+            "Christian Religious Studies",
+            "Development Studies",
+            "Economics",
+            "Finance",
+            "Government",
+            "Human Resources",
+            "Islamic Studies",
+            "Management",
+            "Marketing",
+            "Peace and Disarmament",
+            "Public Administration",
+            "Religious Studies",
+            "Rural Studies",
+            "Secretarial Studies",
+            "Social Sciences",
+            "Social Welfare",
+            "Social Work",
+            "Sociology",
+            "Taxation"
+          ]
+        },
+        {
+          "name": "School : Technology",
+          "fields": [
+            "Agricultural Engineering",
+            "Agricultural Equipment",
+            "Business Computing",
+            "Computer Engineering",
+            "Computer Science",
+            "Data Science",
+            "Electrical and Electronic Engineering",
+            "Energy Engineering",
+            "Farm Management",
+            "Harvest Technology",
+            "Hydraulic Engineering",
+            "Industrial Arts Education",
+            "Industrial Design",
+            "Industrial Engineering",
+            "Mathematics",
+            "Mathematics and Computer Science",
+            "Metallurgical Engineering",
+            "Mining Engineering",
+            "Physical Engineering",
+            "Physics",
+            "Radiophysics",
+            "Soil Management",
+            "Statistics",
+            "Telecommunications Engineering",
+            "Waste Management",
+            "Water Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Agricultural Economics",
+            "Agronomy",
+            "Business Administration",
+            "Crop Production",
+            "Development Studies",
+            "Economics",
+            "Education",
+            "Finance",
+            "Fishery",
+            "Forestry",
+            "Human Resources",
+            "Marketing",
+            "Peace and Disarmament",
+            "Rural Studies",
+            "Science Education",
+            "Soil Science",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Agricultural Economics",
+            "Agronomy",
+            "Business Administration",
+            "Crop Production",
+            "Development Studies",
+            "Economics",
+            "Education",
+            "Finance",
+            "Fishery",
+            "Forestry",
+            "Human Resources",
+            "Marketing",
+            "Peace and Disarmament",
+            "Rural Studies",
+            "Science Education",
+            "Soil Science",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Doctor's Degree",
+          "fields": []
+        }
+      ],
+      "accreditation": "Tertiary Education Commission",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ernest Ndomahina"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Aly Turay"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1964. Became a Constituent College of University of Sierra Leone 1966. Merged with Bo Teacher's College and obtained current status of University 2005 under the Universities Act 2005. Previously known as Njala University College",
+      "periodicals": [
+        "Education and Agricultural Development in Sierra Leone Handbook",
+        "Education and Agricultural Development in Sierra Leone",
+        "Handbook"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "24470",
+      "iau_id": "IAU-024470",
+      "name": "University of Makeni",
+      "alt_name": "(UNIMAK)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBULVNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024470",
+      "address": {
+        "Street": "PO Box 2The Fatima College CampusAzzolini Highway",
+        "City": "Makeni",
+        "Province": "Northern Province",
+        "WWW": "http://unimak.edu.sl"
+      },
+      "website": "http://unimak.edu.sl",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Development Studies",
+          "fields": [
+            "Development Studies"
+          ]
+        },
+        {
+          "name": "Department/Division : Mental Health",
+          "fields": [
+            "Psychiatry and Mental Health"
+          ]
+        },
+        {
+          "name": "Faculty : Agriculture and Food Sciences",
+          "fields": [
+            "Agriculture",
+            "Food Science"
+          ]
+        },
+        {
+          "name": "Faculty : Commerce and Management",
+          "fields": [
+            "Banking",
+            "Business and Commerce",
+            "Economics",
+            "Finance",
+            "Human Resources",
+            "Management",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Education",
+            "Educational Administration",
+            "Educational and Student Counselling",
+            "Educational Testing and Evaluation",
+            "Linguistics",
+            "Mathematics Education",
+            "Modern Languages",
+            "Special Education",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Faculty : Mass Communication and Information Technology",
+          "fields": [
+            "Information Technology",
+            "Mass Communication"
+          ]
+        },
+        {
+          "name": "Faculty : Philosophy and Humanities",
+          "fields": [
+            "Arts and Humanities",
+            "Philosophy",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Faculty : Religious Studies",
+          "fields": [
+            "Religious Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Social Sciences",
+          "fields": [
+            "Law",
+            "Public Administration",
+            "Public Health",
+            "Social Sciences"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Postgraduate Diploma",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Business Administration",
+            "Environmental Studies"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Joseph Turay"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Chernor M.B. Jalloh"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2015-2016",
+        "Students Total:": "1252"
+      },
+      "history": "2005 as The Fatima Institute. Acquired present title and status 2009.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20488",
+      "iau_id": "IAU-020488",
+      "name": "University of Sierra Leone",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BULiNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020488",
+      "address": {
+        "Street": "A. J. Momoh StreetTower Hill",
+        "City": "Freetown",
+        "WWW": "http://www.usl.edu.sl"
+      },
+      "website": "http://www.usl.edu.sl",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2005,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "October to June (October-December; January-March; April-June)",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "College : Fourah Bay",
+          "fields": [
+            "Adult Education",
+            "Architecture",
+            "Arts and Humanities",
+            "Engineering",
+            "Law",
+            "Library Science",
+            "Mass Communication",
+            "Natural Sciences",
+            "Preschool Education",
+            "Social Sciences",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "College : Medicine and Allied Sciences",
+          "fields": [
+            "Health Sciences",
+            "Medical Technology",
+            "Medicine",
+            "Nursing",
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Institute : Public Administration and Management",
+          "fields": [
+            "Accountancy",
+            "Applied Mathematics",
+            "Business and Commerce",
+            "Child Care and Development",
+            "Cultural Studies",
+            "Demography and Population",
+            "Engineering",
+            "Finance",
+            "Fishery",
+            "Management",
+            "Marine Biology",
+            "Mathematics",
+            "Peace and Disarmament",
+            "Public Administration",
+            "Statistics"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Adult Education",
+            "Education",
+            "Preschool Education"
+          ]
+        },
+        {
+          "name": "Postgraduate Diploma",
+          "fields": [
+            "Adult Education",
+            "Education",
+            "Preschool Education"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Accountancy",
+            "Applied Mathematics",
+            "Business Administration",
+            "Finance",
+            "Government",
+            "Management",
+            "Mathematics",
+            "Natural Sciences",
+            "Political Sciences",
+            "Public Administration",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Doctor's Degree",
+          "fields": [
+            "Applied Mathematics",
+            "Statistics"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Foday Sahr"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Sorie N. Dumbuya"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Tonya Musa"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2005 through regrouping of Fourah Bay College (founded 1827), the Institute of Public Administration and Management (IPAM) (founded 1980) and the College of Medicine and Allied Health Sciences (COMAHS) (founded in 1988).",
+      "periodicals": [
+        "Bulletin of African Studies Journal of Pure and Applied Sciences",
+        "Bulletin of African Studies",
+        "Journal of Pure and Applied Sciences"
+      ],
+      "student_body": "co-ed"
+    }
+  ]
+}

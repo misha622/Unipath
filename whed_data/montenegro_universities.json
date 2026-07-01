@@ -1,0 +1,766 @@
+{
+  "country_name": "Montenegro",
+  "country_id": "Montenegro",
+  "institutions": [
+    {
+      "id": "6244",
+      "iau_id": "IAU-006244",
+      "name": "Faculty for Business Management",
+      "alt_name": "Fakultet za poslovni menadžment",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tQyhULWBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-006244",
+      "address": {
+        "Street": "Oktoih 1",
+        "City": "Podgorica",
+        "Post Code": "81000",
+        "WWW": "https://www.udg.edu.me"
+      },
+      "website": "https://www.udg.edu.me",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "September to June",
+      "languages": [
+        "Montenegrin",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Applied Sciences",
+          "fields": [
+            "Electrical Engineering",
+            "Mathematics",
+            "Psychology",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "Faculty : Art",
+          "fields": [
+            "Art History",
+            "Communication Arts",
+            "Fine Arts",
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Culture and Tourism",
+          "fields": [
+            "Chinese",
+            "Hotel Management",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Desing and Multimedia",
+          "fields": [
+            "Fashion Design",
+            "Graphic Design"
+          ]
+        },
+        {
+          "name": "Faculty : Food Technology, Food safety and Ecology",
+          "fields": [
+            "Ecology",
+            "Food Science",
+            "Food Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Humanistic study",
+          "fields": [
+            "Civil Security",
+            "Communication Studies",
+            "European Studies",
+            "International Relations and Diplomacy",
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Information Systems and Technology",
+          "fields": [
+            "Information Management",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Faculty : International Economics, Finance and Business",
+          "fields": [
+            "Business Administration",
+            "Business and Commerce",
+            "Entrepreneurship",
+            "Finance",
+            "Health Administration",
+            "International Economics",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Civil Law",
+            "Criminal Law",
+            "International Law",
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Philology",
+          "fields": [
+            "English"
+          ]
+        },
+        {
+          "name": "Faculty : Polytechnic",
+          "fields": [
+            "Architecture",
+            "Civil Engineering",
+            "Design"
+          ]
+        },
+        {
+          "name": "Faculty : Sports Management",
+          "fields": [
+            "Sports Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Engineering",
+            "Fine Arts",
+            "Information Technology",
+            "International Business",
+            "International Relations and Diplomacy",
+            "Law",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Specialist Diploma",
+          "fields": [
+            "Economics"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "American Studies",
+            "Architecture",
+            "Civil Engineering",
+            "Criminal Law",
+            "Economics",
+            "Engineering",
+            "Environmental Management",
+            "European Union Law",
+            "Gender Studies",
+            "Insurance",
+            "International Relations and Diplomacy",
+            "Law",
+            "Real Estate",
+            "Town Planning",
+            "Urban Studies"
+          ]
+        },
+        {
+          "name": "Doctorate",
+          "fields": [
+            "Art History",
+            "Information Technology",
+            "International Economics",
+            "Law"
+          ]
+        }
+      ],
+      "accreditation": "Ministarstvo prosvjete i nauke (Ministry of Education and Science)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Veselin Vukotic"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Bojana Malisic"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2024-2025",
+        "Staff Full Time Total:": "258",
+        "Students Statistics Year:": "2024-2025",
+        "Students Total:": "3778"
+      },
+      "history": "Created 2010 incorporating Fakultet pravnih nauka (Faculty of Law), Fakultet za humanističke studije (Faculty of Humanities), Fakultet za međunarodnu ekonomiju, finansije i biznis (Faculty of International Economics, Finance and Business) and Fakultet za informacione sisteme i tehnologije (Faculty of Information Systems and Technologies)",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "6241",
+      "iau_id": "IAU-006241",
+      "name": "Faculty for Public Administration and European Studies",
+      "alt_name": "Fakultet za državne i evropske studije",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tQyhULDBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-006241",
+      "address": {
+        "Street": "Maršala Tita br. 7",
+        "City": "Bar",
+        "Post Code": "85000",
+        "WWW": "http://www.fpm.me"
+      },
+      "website": "http://www.fpm.me",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2005,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [],
+      "faculties": [
+        {
+          "name": "Department/Division : Engineering, Technology and Computer Sciences",
+          "fields": [
+            "Business Computing"
+          ]
+        },
+        {
+          "name": "Department/Division : Management, Marketing and Finance",
+          "fields": [
+            "Business and Commerce",
+            "Finance",
+            "Insurance",
+            "Management",
+            "Marketing",
+            "Taxation"
+          ]
+        },
+        {
+          "name": "Department/Division : Social, Law and Economics Sciences",
+          "fields": [
+            "Civil Security",
+            "Commercial Law",
+            "Economics",
+            "Industrial and Organizational Psychology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Business and Commerce",
+            "Business Computing",
+            "Civil Security",
+            "Commercial Law",
+            "Finance",
+            "Industrial and Organizational Psychology",
+            "Insurance",
+            "Management",
+            "Taxation"
+          ]
+        },
+        {
+          "name": "Specialist Diploma",
+          "fields": [
+            "Business and Commerce",
+            "Civil Security",
+            "Finance",
+            "Insurance",
+            "Management",
+            "Taxation"
+          ]
+        }
+      ],
+      "accreditation": "Ministarstvo prosvjete i nauke (Ministry of Science and Education)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Milenko Radoman"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Dragan Vojvodic"
+        }
+      ],
+      "statistics": {},
+      "history": "founded 2005.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "23183",
+      "iau_id": "IAU-023183",
+      "name": "Faculty of Management - Herceg Novi",
+      "alt_name": "Fakultet za menadžment - Herceg Novi",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyxRLiMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-023183",
+      "address": {
+        "Street": "Ul. Vaka Đurovića bb",
+        "City": "Podgorica",
+        "Post Code": "81000",
+        "WWW": "http://www.fdes.me/"
+      },
+      "website": "http://www.fdes.me/",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [],
+      "faculties": [
+        {
+          "name": "Course/Programme : Administrative Studies",
+          "fields": [
+            "European Union Law",
+            "Government",
+            "Law",
+            "Political Sciences",
+            "Public Administration",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Course/Programme : European Studies",
+          "fields": [
+            "Economics",
+            "European Studies",
+            "European Union Law",
+            "Finance",
+            "International Relations and Diplomacy"
+          ]
+        },
+        {
+          "name": "Course/Programme : Public Administration and European Studies",
+          "fields": [
+            "Economics",
+            "English",
+            "European Studies",
+            "European Union Law",
+            "Finance",
+            "International Law",
+            "Political Sciences",
+            "Public Administration",
+            "Public Law",
+            "Sociology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "European Studies",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "Specialist Diploma",
+          "fields": [
+            "European Studies",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "European Studies",
+            "Public Administration"
+          ]
+        }
+      ],
+      "accreditation": "Ministarstvo prosvjete i nauke (Ministry of Education and Science)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Đorđije Blažić"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Ivan Radević"
+        }
+      ],
+      "statistics": {},
+      "history": "Created 2005. Acquired current status 2006.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "23186",
+      "iau_id": "IAU-023186",
+      "name": "Faculty of Mediterranean Business studies - Tivat",
+      "alt_name": "Fakultet za Mediteranske poslovne studije (FMS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyxRLiM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-023186",
+      "address": {
+        "Street": "Zemunska 143, Meljine",
+        "City": "Herceg Novi",
+        "Province": "Montenegro",
+        "Post Code": "85348",
+        "WWW": "https://www.fm-hn.com"
+      },
+      "website": "https://www.fm-hn.com",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2009,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "September to June",
+      "languages": [
+        "Montenegrin"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Management",
+          "fields": [
+            "Business Administration",
+            "Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Management"
+          ]
+        },
+        {
+          "name": "Specialist Diploma",
+          "fields": [
+            "Business Administration",
+            "Management"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Business Administration",
+            "Management"
+          ]
+        }
+      ],
+      "accreditation": "Savjet za visoko obrazovanje Crne Gore (Council for Higher Education)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Irena Petrušić"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Ruzica Marjanovic"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2009.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "6243",
+      "iau_id": "IAU-006243",
+      "name": "Faculty of Traffic and Communication Management",
+      "alt_name": "Fakultet za menadžment u saobraćaju i komunikacijama",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tQyhULFBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-006243",
+      "address": {
+        "Street": "Zgrada stare Opštine Tivat",
+        "City": "Tivat",
+        "Post Code": "83320",
+        "WWW": "http://www.fms-tivat.me"
+      },
+      "website": "http://www.fms-tivat.me",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [],
+      "faculties": [
+        {
+          "name": "Course/Programme : Business Management in Nautical Tourism",
+          "fields": [
+            "Business Administration",
+            "Insurance",
+            "Management",
+            "Nautical Science",
+            "Taxation",
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Insurance",
+            "Management",
+            "Nautical Science",
+            "Taxation",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Specialist Diploma",
+          "fields": [
+            "Tourism"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Simo Elaković"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Marko Nikić"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Milica Nikić"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2014",
+        "Students Total:": "293"
+      },
+      "history": "Founded in 2009.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20689",
+      "iau_id": "IAU-020689",
+      "name": "Mediterranean University",
+      "alt_name": "Univerzitet Mediteran",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BWLiNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020689",
+      "address": {
+        "Street": "Donje Luge bb",
+        "City": "Berane",
+        "Post Code": "84300",
+        "WWW": "http://www.fskl.me"
+      },
+      "website": "http://www.fskl.me",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [],
+      "faculties": [
+        {
+          "name": "Department/Division : E-Communications",
+          "fields": [
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Department/Division : Logistics",
+          "fields": [
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Transport",
+          "fields": [
+            "Air Transport",
+            "Postal Services",
+            "Railway Transport",
+            "Road Transport",
+            "Transport Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Telecommunications Engineering",
+            "Transport and Communications",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Specialist Diploma",
+          "fields": [
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Transport and Communications"
+          ]
+        }
+      ],
+      "accreditation": "Ministarstvo prosvjete i nauke",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Vujadin Vešović"
+        }
+      ],
+      "statistics": {},
+      "history": "Created 2008.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20686",
+      "iau_id": "IAU-020686",
+      "name": "University of Montenegro",
+      "alt_name": "Univerzitet Crne Gore (UCG)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BWLiM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020686",
+      "address": {
+        "Street": "Josipa Broza bb",
+        "City": "Podgorica",
+        "Post Code": "81 000",
+        "WWW": "https://www.unimediteran.net"
+      },
+      "website": "https://www.unimediteran.net",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "September to June",
+      "languages": [
+        "Bosnian"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Economics and business",
+          "fields": [
+            "Banking",
+            "Business and Commerce",
+            "Economics",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Foreign Languages",
+          "fields": [
+            "American Studies",
+            "English",
+            "Italian"
+          ]
+        },
+        {
+          "name": "Faculty : Information Technologies",
+          "fields": [
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Commercial Law",
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Montenegro Tourism School",
+          "fields": [
+            "Business Administration",
+            "Finance",
+            "Hotel Management",
+            "Marketing",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Visual Arts",
+          "fields": [
+            "Cinema and Television",
+            "Communication Arts",
+            "Visual Arts"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Banking",
+            "Cinema and Television",
+            "English",
+            "Information Technology",
+            "Italian",
+            "Law",
+            "Marketing",
+            "Tourism",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Specialist Diploma",
+          "fields": [
+            "Banking",
+            "Cinema and Television",
+            "Commercial Law",
+            "Criminal Law",
+            "English",
+            "Information Technology",
+            "Italian",
+            "Management",
+            "Marketing",
+            "Tourism",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Banking",
+            "Cinema and Television",
+            "Information Technology",
+            "Law",
+            "Marketing",
+            "Tourism",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Doctorate",
+          "fields": [
+            "Tourism"
+          ]
+        }
+      ],
+      "accreditation": "Ministarstvo prosvjete i nauke (Ministry of Education and Science)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Savo Marković"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Darko Lacmanović"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Radislav Jovović"
+        }
+      ],
+      "statistics": {},
+      "history": "Created 2006. Montenegro's first private university",
+      "periodicals": [],
+      "student_body": "co-ed"
+    }
+  ]
+}

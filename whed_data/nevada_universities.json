@@ -1,0 +1,2248 @@
+{
+  "country_name": "Nevada",
+  "country_id": "United States of America - Nevada",
+  "institutions": [
+    {
+      "id": "29767",
+      "iau_id": "IAU-029767",
+      "name": "Arizona College of Nursing-Las Vegas",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0RXLUM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-029767",
+      "address": {
+        "Street": "8363 West Sunset Road, Suite 200",
+        "City": "Las Vegas",
+        "Province": "Nevada",
+        "Post Code": "89113",
+        "WWW": "https://www.arizonacollege.edu/las-vegas-nursing-school"
+      },
+      "website": "https://www.arizonacollege.edu/las-vegas-nursing-school",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2013,
+      "type": null,
+      "funding": "Private-for-profit",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Nursing"
+          ]
+        }
+      ],
+      "accreditation": "Accrediting Bureau of Health Education Schools",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Catherine Chege"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2022-2023",
+        "Staff Full Time Total:": "78",
+        "Students Statistics Year:": "2022-2023",
+        "Students Total:": "1142"
+      },
+      "history": "Founded 2013",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "29770",
+      "iau_id": "IAU-029278-029770",
+      "name": "Chamberlain University – Chamberlain University-Nevada",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0RXLVNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-029278-029770",
+      "address": {
+        "Street": "9901 Covington Cross Drive",
+        "City": "Las Vegas",
+        "Province": "Nevada",
+        "Post Code": "89144",
+        "WWW": "https://www.chamberlain.edu/nursing-school/nevada/las-vegas"
+      },
+      "website": "https://www.chamberlain.edu/nursing-school/nevada/las-vegas",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private-for-profit",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Nursing"
+          ]
+        }
+      ],
+      "accreditation": "Higher Learning Commission",
+      "officers": [],
+      "statistics": {
+        "Students Statistics Year:": "2022-2023",
+        "Students Total:": "567"
+      },
+      "history": "A campus of Chamberlain University, with the main campus located in Addison, Illinois.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "3027",
+      "iau_id": "IAU-003027",
+      "name": "College of Southern Nevada",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sU2BSLVBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003027",
+      "address": {
+        "Street": "Charleston Campus6375 W. Charleston Blvd",
+        "City": "Las Vegas",
+        "Province": "Nevada",
+        "Post Code": "89146",
+        "WWW": "https://www.csn.edu"
+      },
+      "website": "https://www.csn.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1971,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Workforce and Economic Development",
+          "fields": [
+            "Adult Education",
+            "Banking",
+            "Cardiology",
+            "Insurance",
+            "Occupational Health",
+            "Real Estate",
+            "Sales Techniques",
+            "Social Problems",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "School : Advanced and Applied Technologies",
+          "fields": [
+            "Architectural and Environmental Design",
+            "Automotive Engineering",
+            "Computer Science",
+            "Construction Engineering",
+            "Engineering",
+            "Film",
+            "Heating and Refrigeration",
+            "Horticulture",
+            "Information Technology",
+            "Media Studies",
+            "Metal Techniques",
+            "Photography",
+            "Technology",
+            "Transport Engineering",
+            "Video"
+          ]
+        },
+        {
+          "name": "School : Arts and Letters",
+          "fields": [
+            "Communication Studies",
+            "English",
+            "Fine Arts",
+            "Modern Languages"
+          ]
+        },
+        {
+          "name": "School : Business, Hospitality and Public Services",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Cooking and Catering",
+            "Criminology",
+            "Finance",
+            "Fire Science",
+            "Hotel Management",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "School : Education, Behavioural and Social Sciences",
+          "fields": [
+            "Anthropology",
+            "Education",
+            "History",
+            "Philosophy",
+            "Political Sciences",
+            "Psychiatry and Mental Health",
+            "Psychology",
+            "Social Sciences",
+            "Sociology",
+            "Women's Studies"
+          ]
+        },
+        {
+          "name": "School : Health Sciences",
+          "fields": [
+            "Dental Hygiene",
+            "Laboratory Techniques",
+            "Medical Auxiliaries",
+            "Nursing",
+            "Ophthalmology",
+            "Physical Therapy",
+            "Radiology",
+            "Respiratory Therapy",
+            "Surgery"
+          ]
+        },
+        {
+          "name": "School : Science, Engineering & Mathematics",
+          "fields": [
+            "Biology",
+            "Environmental Studies",
+            "Mathematics",
+            "Physics"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Associate Degree",
+          "fields": [
+            "Cooking and Catering",
+            "Dental Hygiene",
+            "Education of the Handicapped",
+            "Environmental Management",
+            "Environmental Studies",
+            "Fire Science",
+            "Management",
+            "Medical Technology",
+            "Nursing",
+            "Respiratory Therapy",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Cooking and Catering",
+            "Dental Hygiene",
+            "Education of the Handicapped",
+            "Environmental Management",
+            "Environmental Studies",
+            "Fire Science",
+            "Management",
+            "Medical Technology",
+            "Nursing",
+            "Respiratory Therapy",
+            "Tourism"
+          ]
+        }
+      ],
+      "accreditation": "Northwest Commission on Colleges and Universities",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Federico Zaragoza"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "James McCoy"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2022-2023",
+        "Staff Full Time Total:": "1576",
+        "Students Statistics Year:": "2022-2023",
+        "Students Total:": "28901"
+      },
+      "history": "Founded 1971",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "27055",
+      "iau_id": "IAU-003701-027055",
+      "name": "DeVry University Illinois – DeVry University Nevada",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzxQLTM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003701-027055",
+      "address": {
+        "Street": "2490 Paseo Verde Pkwy, Suite 150",
+        "City": "Henderson",
+        "Province": "Nevada",
+        "Post Code": "98074",
+        "WWW": "https://www.devry.edu/about/campus-locations/nevada/henderson.html"
+      },
+      "website": "https://www.devry.edu/about/campus-locations/nevada/henderson.html",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private-for-profit",
+      "academic_year": "August-December; January-April; May-August",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Accounting",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Business",
+          "fields": [
+            "Business Administration",
+            "Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Healthcare",
+          "fields": [
+            "Health Administration",
+            "Medical Technology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Liberal Arts",
+          "fields": [
+            "Communication Arts",
+            "Justice Administration"
+          ]
+        },
+        {
+          "name": "Course/Programme : Media Arts",
+          "fields": [
+            "Computer Graphics",
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Course/Programme : Technology",
+          "fields": [
+            "Information Sciences",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Graduate School : Keller Graduate School of Management",
+          "fields": [
+            "Business Administration",
+            "Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Associate Degree",
+          "fields": [
+            "Computer Science",
+            "Information Management",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Business Administration",
+            "Communication Studies",
+            "Computer Engineering",
+            "Computer Science",
+            "Criminology",
+            "Engineering",
+            "Health Administration",
+            "Management",
+            "Medical Technology",
+            "Software Engineering",
+            "Technology",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Post-bachelor's Diploma/Certificate",
+          "fields": [
+            "Business Administration",
+            "Human Resources",
+            "Management"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Computer Networks",
+            "Finance",
+            "Health Administration",
+            "Human Resources",
+            "Information Technology",
+            "Public Administration"
+          ]
+        }
+      ],
+      "accreditation": "Higher Learning Commission",
+      "officers": [],
+      "statistics": {},
+      "history": "Founded in 1931 as De Forest's Training, Inc. Merged with Keller Graduate School of Management in 2002. Acquired current title and accreditation status in 2002. Focusing on business and management.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "6772",
+      "iau_id": "IAU-006772",
+      "name": "Great Basin College",
+      "alt_name": "(GBC)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tQzxXLEBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-006772",
+      "address": {
+        "Street": "1500 College Parkway",
+        "City": "Elko",
+        "Province": "Nevada",
+        "Post Code": "89801",
+        "WWW": "https://www.gbcnv.edu"
+      },
+      "website": "https://www.gbcnv.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1967,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Arts and Science",
+          "fields": [
+            "Biology",
+            "Engineering",
+            "English",
+            "Environmental Studies",
+            "Geography",
+            "Geology",
+            "Natural Resources",
+            "Physics",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "Department/Division : Business",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Human Resources",
+            "Management",
+            "Real Estate"
+          ]
+        },
+        {
+          "name": "Department/Division : Computer Technologies",
+          "fields": [
+            "Computer Engineering",
+            "Computer Graphics",
+            "Computer Networks",
+            "Computer Science",
+            "Information Technology",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "Department/Division : Education",
+          "fields": [
+            "Education",
+            "Physical Education",
+            "Preschool Education",
+            "Primary Education",
+            "Secondary Education"
+          ]
+        },
+        {
+          "name": "Department/Division : English",
+          "fields": [
+            "Communication Studies",
+            "English",
+            "Journalism",
+            "Library Science",
+            "Literacy Education"
+          ]
+        },
+        {
+          "name": "Department/Division : Fine Arts and Humanities",
+          "fields": [
+            "Arts and Humanities",
+            "Dance",
+            "Film",
+            "Fine Arts",
+            "French",
+            "German",
+            "Music",
+            "Philosophy",
+            "Spanish",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Department/Division : Health Sciences",
+          "fields": [
+            "Medical Auxiliaries",
+            "Medical Technology",
+            "Nursing",
+            "Radiology"
+          ]
+        },
+        {
+          "name": "Department/Division : Human and Social Services",
+          "fields": [
+            "Social and Community Services",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Department/Division : Mathematics",
+          "fields": [
+            "Mathematics",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Department/Division : Social Sciences",
+          "fields": [
+            "Criminology",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Department/Division : Technology/Industry",
+          "fields": [
+            "Automotive Engineering",
+            "Construction Engineering",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Heating and Refrigeration",
+            "Industrial Engineering",
+            "Industrial Maintenance",
+            "Management",
+            "Metal Techniques",
+            "Mining Engineering",
+            "Technology",
+            "Wood Technology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Associate Degree",
+          "fields": [
+            "Biology",
+            "English",
+            "Information Technology",
+            "Management",
+            "Medical Technology",
+            "Natural Resources",
+            "Nursing",
+            "Preschool Education",
+            "Primary Education",
+            "Secondary Education",
+            "Social and Community Services",
+            "Social Sciences",
+            "Social Work",
+            "Surveying and Mapping",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Biology",
+            "English",
+            "Information Technology",
+            "Management",
+            "Medical Technology",
+            "Natural Resources",
+            "Nursing",
+            "Preschool Education",
+            "Primary Education",
+            "Secondary Education",
+            "Social and Community Services",
+            "Social Sciences",
+            "Social Work",
+            "Surveying and Mapping",
+            "Technology"
+          ]
+        }
+      ],
+      "accreditation": "Northwest Commission on Colleges and Universities",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Joyce Helens"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Jake Rivera"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2022-2023",
+        "Staff Full Time Total:": "197",
+        "Students Statistics Year:": "2022-2023",
+        "Students Total:": "3197"
+      },
+      "history": "Founded 1967.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "12607",
+      "iau_id": "IAU-012607",
+      "name": "Nevada State University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyhWLCM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-012607",
+      "address": {
+        "Street": "1300 Nevada State Drive",
+        "City": "Henderson",
+        "Province": "Nevada",
+        "Post Code": "89002",
+        "WWW": "https://nevadastate.edu"
+      },
+      "website": "https://nevadastate.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "School : Education",
+          "fields": [
+            "Bilingual and Bicultural Education",
+            "Education",
+            "Primary Education",
+            "Science Education",
+            "Secondary Education",
+            "Speech Therapy and Audiology",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "School : Liberal Arts, Sciences, & Business",
+          "fields": [
+            "Biology",
+            "Business Administration",
+            "Communication Studies",
+            "Criminology",
+            "English",
+            "Environmental Studies",
+            "Ethnology",
+            "Mathematics",
+            "Multimedia",
+            "Psychology",
+            "Sociology",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "School : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Bilingual and Bicultural Education",
+            "Biology",
+            "Business Administration",
+            "Communication Studies",
+            "Computer Engineering",
+            "Criminology",
+            "Education",
+            "Education of the Handicapped",
+            "Electrical Engineering",
+            "English",
+            "Environmental Studies",
+            "Health Sciences",
+            "History",
+            "Humanities and Social Science Education",
+            "Information Technology",
+            "Management",
+            "Mathematics",
+            "Mathematics Education",
+            "Natural Resources",
+            "Preschool Education",
+            "Primary Education",
+            "Psychology",
+            "Public Administration",
+            "Science Education",
+            "Secondary Education",
+            "Speech Therapy and Audiology",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Speech Therapy and Audiology"
+          ]
+        }
+      ],
+      "accreditation": "Northwest Commission on Colleges and Universities",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "DeRionne P. Pollard"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Vickie Shields"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2022-2023",
+        "Staff Full Time Total:": "449",
+        "Students Statistics Year:": "2022-2023",
+        "Students Total:": "7169"
+      },
+      "history": "Founded as Nevada State College, 2002. Acquired present title 2023",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20511",
+      "iau_id": "IAU-020511",
+      "name": "Roseman University of Health Sciences",
+      "alt_name": "(USN)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BVLDMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020511",
+      "address": {
+        "Street": "11 Sunset Way",
+        "City": "Henderson",
+        "Province": "Nevada",
+        "Post Code": "89014",
+        "WWW": "https://www.roseman.edu"
+      },
+      "website": "https://www.roseman.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "July to June",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "College : Dental Medicine",
+          "fields": [
+            "Dentistry",
+            "Orthodontics"
+          ]
+        },
+        {
+          "name": "College : Medicine",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "College : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "College : Pharmacy",
+          "fields": [
+            "Pharmacy"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Biomedicine",
+            "Nursing",
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Doctor's Degrees (Professional Practice)",
+          "fields": [
+            "Dentistry",
+            "Medicine",
+            "Pharmacy"
+          ]
+        }
+      ],
+      "accreditation": "Northwest Commission on Colleges and Universities",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Renee E. Coffman"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Karin Esposito"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2022-2023",
+        "Staff Full Time Total:": "226",
+        "Students Statistics Year:": "2022-2023",
+        "Students Total:": "1479"
+      },
+      "history": "Founded in 1999 as the Nevada College of Pharmacy. Acquired current title and status 2004. Formerly known as University of Southern Nevada.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "23165",
+      "iau_id": "IAU-023165",
+      "name": "Touro University Nevada",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyxRLUM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-023165",
+      "address": {
+        "Street": "874 American Pacific Drive",
+        "City": "Henderson",
+        "Province": "Nevada",
+        "Post Code": "89014",
+        "WWW": "https://tun.touro.edu"
+      },
+      "website": "https://tun.touro.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2004,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "College : Health and Human Services",
+          "fields": [
+            "Education",
+            "Health Sciences",
+            "Medical Auxiliaries",
+            "Nursing",
+            "Occupational Therapy",
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "College : Osteopathic Medicine",
+          "fields": [
+            "Osteopathy"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Associate Degree",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Education",
+            "Educational and Student Counselling",
+            "Health Sciences",
+            "Medical Auxiliaries",
+            "Nursing",
+            "Occupational Therapy"
+          ]
+        },
+        {
+          "name": "Doctor's Degrees (Professional Practice)",
+          "fields": [
+            "Education",
+            "Medical Auxiliaries",
+            "Nursing",
+            "Osteopathy",
+            "Physical Therapy"
+          ]
+        }
+      ],
+      "accreditation": "Middle States Commission on Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Alan Kadish"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Andrew Priest"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2022-2023",
+        "Staff Full Time Total:": "164",
+        "Students Statistics Year:": "2022-2023",
+        "Students Total:": "1560"
+      },
+      "history": "Founded 2004",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "29785",
+      "iau_id": "IAU-029785",
+      "name": "Truckee Meadows Community College",
+      "alt_name": "(TMCC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0RXLiM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-029785",
+      "address": {
+        "Street": "7000 Dandini Boulevard",
+        "City": "Reno",
+        "Province": "Nevada",
+        "Post Code": "89512",
+        "WWW": "https://www.tmcc.edu"
+      },
+      "website": "https://www.tmcc.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1971,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Area : Architecture, Construction, and Building Trades",
+          "fields": [
+            "Architecture"
+          ]
+        },
+        {
+          "name": "Area : Business, Entrepreneurship, and Professional Services",
+          "fields": [
+            "Accountancy",
+            "Cooking and Catering",
+            "Entrepreneurship",
+            "Hotel Management",
+            "Law",
+            "Office Management",
+            "Real Estate",
+            "Retailing and Wholesaling",
+            "Small Business",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Area : Computer and Information Technology",
+          "fields": [
+            "Computer Engineering",
+            "Computer Science",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Area : Culinary & Hospitality",
+          "fields": [
+            "Cooking and Catering",
+            "Hotel and Restaurant",
+            "Hotel Management",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Area : Education and Child Development",
+          "fields": [
+            "Education",
+            "Educational Administration",
+            "Preschool Education",
+            "Primary Education",
+            "Secondary Education",
+            "Technology Education"
+          ]
+        },
+        {
+          "name": "Area : General Education",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Area : Graphic Arts and Media",
+          "fields": [
+            "Graphic Arts",
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "Area : Health Care and Veterinary Medicine",
+          "fields": [
+            "Arts and Humanities",
+            "Dental Science",
+            "Dietetics",
+            "Fine Arts",
+            "Health Sciences",
+            "Kinesiology",
+            "Medical Technology",
+            "Natural Sciences",
+            "Nursing",
+            "Veterinary Science",
+            "Wildlife"
+          ]
+        },
+        {
+          "name": "Area : Languages and Communications",
+          "fields": [
+            "Communication Studies",
+            "English",
+            "Spanish"
+          ]
+        },
+        {
+          "name": "Area : Law and Public Safety",
+          "fields": [
+            "Criminology",
+            "Fire Science",
+            "Law",
+            "Political Sciences",
+            "Protective Services"
+          ]
+        },
+        {
+          "name": "Area : Manufacturing and Production",
+          "fields": [
+            "Automation",
+            "Computer Science",
+            "Energy Engineering",
+            "Industrial Engineering",
+            "Industrial Maintenance",
+            "Logistics Management",
+            "Metal Techniques",
+            "Robotics"
+          ]
+        },
+        {
+          "name": "Area : Science, Technology, Engineering, and Mathematics",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Engineering",
+            "Environmental Studies",
+            "Mathematics",
+            "Wildlife"
+          ]
+        },
+        {
+          "name": "Area : Society, Social Sciences, and Human Services",
+          "fields": [
+            "Anthropology",
+            "Data Science",
+            "Development Studies",
+            "Dietetics",
+            "Family Studies",
+            "Fire Science",
+            "Health Sciences",
+            "History",
+            "Kinesiology",
+            "Nursing",
+            "Psychology",
+            "Public Health",
+            "Social Work",
+            "Spanish"
+          ]
+        },
+        {
+          "name": "Area : Transportation and Logistics",
+          "fields": [
+            "Automotive Engineering",
+            "Logistics Management",
+            "Petroleum and Gas Engineering"
+          ]
+        },
+        {
+          "name": "Area : Visual & Performing Arts",
+          "fields": [
+            "Performing Arts",
+            "Visual Arts"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Associate Degree",
+          "fields": [
+            "Architecture",
+            "Dental Hygiene",
+            "Logistics Management",
+            "Nursing",
+            "Protective Services",
+            "Technology Education"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Architecture",
+            "Dental Hygiene",
+            "Logistics Management",
+            "Nursing",
+            "Protective Services",
+            "Technology Education"
+          ]
+        }
+      ],
+      "accreditation": "Northwest Commission on Colleges and Universities",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Karin Hilgersom"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Jeffrey Alexander"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2022-2023",
+        "Staff Full Time Total:": "660",
+        "Students Statistics Year:": "2022-2023",
+        "Students Total:": "9651"
+      },
+      "history": "Founded 1971",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20326",
+      "iau_id": "IAU-020326",
+      "name": "University of Nevada-Las Vegas",
+      "alt_name": "(UNLV)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BTLEM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020326",
+      "address": {
+        "Street": "4505 s. Maryland Parkway",
+        "City": "Las Vegas",
+        "Province": "Nevada",
+        "Post Code": "89154",
+        "WWW": "https://www.unlv.edu"
+      },
+      "website": "https://www.unlv.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1957,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "August to May (August-December; January-May). Also Summer Session (June-August)",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "College : Education",
+          "fields": [
+            "Curriculum",
+            "Education",
+            "Educational Administration",
+            "Educational and Student Counselling",
+            "Educational Psychology",
+            "Foreign Languages Education",
+            "Native Language Education",
+            "Preschool Education",
+            "Primary Education",
+            "Secondary Education",
+            "Special Education",
+            "Sports",
+            "Sports Management"
+          ]
+        },
+        {
+          "name": "College : Engineering",
+          "fields": [
+            "Aeronautical and Aerospace Engineering",
+            "Biomedical Engineering",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Construction Engineering",
+            "Data Science",
+            "Design",
+            "Electrical Engineering",
+            "Engineering Management",
+            "Environmental Engineering",
+            "Mechanical Engineering",
+            "Military Science"
+          ]
+        },
+        {
+          "name": "College : Fine Arts",
+          "fields": [
+            "Architecture",
+            "Art History",
+            "Dance",
+            "Display and Stage Design",
+            "Film",
+            "Fine Arts",
+            "Interior Design",
+            "Jazz and Popular Music",
+            "Landscape Architecture",
+            "Music",
+            "Music Education",
+            "Music Theory and Composition",
+            "Musical Instruments",
+            "Painting and Drawing",
+            "Sculpture",
+            "Singing",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "College : Hospitality",
+          "fields": [
+            "Cooking and Catering",
+            "Hotel Management",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "College : Liberal Arts",
+          "fields": [
+            "African American Studies",
+            "Anthropology",
+            "Asian Studies",
+            "Clinical Psychology",
+            "English",
+            "Gender Studies",
+            "Hispanic American Studies",
+            "History",
+            "Indigenous Studies",
+            "Latin American Studies",
+            "Literature",
+            "Modern Languages",
+            "Native American Studies",
+            "Neurosciences",
+            "Philosophy",
+            "Political Sciences",
+            "Psychology",
+            "Sociology",
+            "Translation and Interpretation",
+            "Women's Studies",
+            "Writing"
+          ]
+        },
+        {
+          "name": "College : Sciences",
+          "fields": [
+            "Applied Mathematics",
+            "Astronomy and Space Science",
+            "Biochemistry",
+            "Biology",
+            "Cell Biology",
+            "Chemistry",
+            "Earth Sciences",
+            "Ecology",
+            "Environmental Studies",
+            "Geography",
+            "Geology",
+            "Mathematics",
+            "Mathematics Education",
+            "Microbiology",
+            "Molecular Biology",
+            "Neurosciences",
+            "Physics",
+            "Physiology",
+            "Water Management"
+          ]
+        },
+        {
+          "name": "College : Urban Affairs",
+          "fields": [
+            "Communication Studies",
+            "Criminal Law",
+            "Environmental Studies",
+            "Family Studies",
+            "Journalism",
+            "Management",
+            "Media Studies",
+            "Public Administration",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "School : Business",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Economics",
+            "Finance",
+            "Health Administration",
+            "Hotel Management",
+            "Information Technology",
+            "International Business",
+            "Management",
+            "Marketing",
+            "Real Estate",
+            "Small Business"
+          ]
+        },
+        {
+          "name": "School : Dental Medicine",
+          "fields": [
+            "Dentistry",
+            "Orthodontics"
+          ]
+        },
+        {
+          "name": "School : Integrated Health Sciences",
+          "fields": [
+            "Dietetics",
+            "Health Administration",
+            "Health Sciences",
+            "Kinesiology",
+            "Medical Technology",
+            "Neurosciences",
+            "Nutrition",
+            "Occupational Health",
+            "Occupational Therapy",
+            "Physical Therapy",
+            "Physics"
+          ]
+        },
+        {
+          "name": "School : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "School : Medicine",
+          "fields": [
+            "Medicine",
+            "Neurosciences"
+          ]
+        },
+        {
+          "name": "School : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "School : Public Health",
+          "fields": [
+            "Environmental Management",
+            "Epidemiology",
+            "Health Administration",
+            "Health Education",
+            "Occupational Health",
+            "Public Health"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "African American Studies",
+            "Anthropology",
+            "Architecture",
+            "Art History",
+            "Asian Studies",
+            "Biochemistry",
+            "Biology",
+            "Business Administration",
+            "Cell Biology",
+            "Chemistry",
+            "Civil Engineering",
+            "Communication Studies",
+            "Computer Engineering",
+            "Computer Science",
+            "Construction Engineering",
+            "Criminology",
+            "Dance",
+            "Design",
+            "Earth Sciences",
+            "Economics",
+            "Electrical Engineering",
+            "English",
+            "Entrepreneurship",
+            "Environmental Studies",
+            "Film",
+            "Fine Arts",
+            "Gender Studies",
+            "Geology",
+            "Graphic Design",
+            "Health Administration",
+            "Health Sciences",
+            "History",
+            "Hotel Management",
+            "Information Technology",
+            "Interior Design",
+            "International Business",
+            "Jazz and Popular Music",
+            "Journalism",
+            "Kinesiology",
+            "Landscape Architecture",
+            "Latin American Studies",
+            "Management",
+            "Marketing",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Media Studies",
+            "Medical Technology",
+            "Microbiology",
+            "Molecular Biology",
+            "Music",
+            "Nursing",
+            "Nutrition",
+            "Occupational Health",
+            "Painting and Drawing",
+            "Philosophy",
+            "Photography",
+            "Physics",
+            "Political Sciences",
+            "Preschool Education",
+            "Primary Education",
+            "Printing and Printmaking",
+            "Psychology",
+            "Public Health",
+            "Real Estate",
+            "Sculpture",
+            "Secondary Education",
+            "Social and Community Services",
+            "Social Sciences",
+            "Social Work",
+            "Sociology",
+            "Special Education",
+            "Theatre",
+            "Urban Studies",
+            "Writing"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Accountancy",
+            "Aeronautical and Aerospace Engineering",
+            "Anthropology",
+            "Architecture",
+            "Astronomy and Space Science",
+            "Biochemistry",
+            "Biology",
+            "Business Administration",
+            "Business Computing",
+            "Chemistry",
+            "Civil Engineering",
+            "Clinical Psychology",
+            "Communication Studies",
+            "Computer Science",
+            "Construction Engineering",
+            "Criminology",
+            "Curriculum",
+            "Earth Sciences",
+            "Economics",
+            "Education",
+            "Educational Administration",
+            "Educational and Student Counselling",
+            "Educational Psychology",
+            "Electrical Engineering",
+            "Engineering",
+            "English",
+            "Environmental Engineering",
+            "Family Studies",
+            "Finance",
+            "Fine Arts",
+            "Health Administration",
+            "Health Sciences",
+            "Higher Education",
+            "History",
+            "Hotel Management",
+            "Information Technology",
+            "Journalism",
+            "Kinesiology",
+            "Leadership",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Media Studies",
+            "Music",
+            "Nuclear Engineering",
+            "Nursing",
+            "Nutrition",
+            "Oral Pathology",
+            "Physics",
+            "Physiology",
+            "Political Sciences",
+            "Preschool Education",
+            "Primary Education",
+            "Protective Services",
+            "Public Administration",
+            "Public Health",
+            "Secondary Education",
+            "Social Work",
+            "Spanish",
+            "Special Education",
+            "Sports",
+            "Sports Management",
+            "Theatre",
+            "Water Management",
+            "Writing"
+          ]
+        },
+        {
+          "name": "Certificate of Advanced Study",
+          "fields": [
+            "Design",
+            "Education",
+            "Energy Engineering",
+            "Nuclear Engineering",
+            "Nursing",
+            "Psychology",
+            "Teacher Training",
+            "Writing"
+          ]
+        },
+        {
+          "name": "Doctor's Degrees (Professional Practice)",
+          "fields": [
+            "Biomedicine",
+            "Computer Science",
+            "Curriculum",
+            "Dentistry",
+            "Education",
+            "Educational Administration",
+            "Information Technology",
+            "Law",
+            "Medical Technology",
+            "Medicine",
+            "Music",
+            "Nursing",
+            "Occupational Therapy",
+            "Physical Therapy",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "Education Specialist Degree",
+          "fields": [
+            "Curriculum",
+            "Educational Psychology"
+          ]
+        },
+        {
+          "name": "Doctor's Degree (Research/Scholarship)",
+          "fields": [
+            "Anthropology",
+            "Astronomy and Space Science",
+            "Biological and Life Sciences",
+            "Chemistry",
+            "Civil Engineering",
+            "Clinical Psychology",
+            "Computer Science",
+            "Criminal Law",
+            "Criminology",
+            "Curriculum",
+            "Earth Sciences",
+            "Educational Psychology",
+            "Educational Technology",
+            "Electrical Engineering",
+            "English",
+            "Environmental Engineering",
+            "Environmental Studies",
+            "Experimental Psychology",
+            "Health Education",
+            "Higher Education",
+            "History",
+            "Hotel and Restaurant",
+            "Human Resources",
+            "Leadership",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Neurosciences",
+            "Oral Pathology",
+            "Philosophy",
+            "Physical Therapy",
+            "Physics",
+            "Political Sciences",
+            "Psychology",
+            "Public Administration",
+            "Public Health",
+            "Sociology",
+            "Special Education",
+            "Teacher Training",
+            "Water Management",
+            "Writing"
+          ]
+        }
+      ],
+      "accreditation": "Northwest Commission on Colleges and Universities",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Keith E. Whitfield"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Chris L. Heavey"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2022-2023",
+        "Staff Full Time Total:": "2592",
+        "Students Statistics Year:": "2023-2024",
+        "Students Total:": "30679"
+      },
+      "history": "Founded 1957.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20327",
+      "iau_id": "IAU-020327",
+      "name": "University of Nevada-Reno",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BTLEM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020327",
+      "address": {
+        "Street": "1664 North Virginia Street",
+        "City": "Reno",
+        "Province": "Nevada",
+        "Post Code": "89557",
+        "WWW": "https://www.unr.edu"
+      },
+      "website": "https://www.unr.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1874,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "August to May. Also Summer Session (May-August)",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "College : Agriculture, Biotechnology and Natural Resources",
+          "fields": [
+            "Agriculture",
+            "Biochemistry",
+            "Biotechnology",
+            "Dietetics",
+            "Ecology",
+            "Environmental Studies",
+            "Forest Management",
+            "Hydraulic Engineering",
+            "Molecular Biology",
+            "Nutrition",
+            "Veterinary Science",
+            "Wildlife"
+          ]
+        },
+        {
+          "name": "College : Business",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Economics",
+            "Finance",
+            "International Business",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "College : Education & Human Development",
+          "fields": [
+            "Education",
+            "Educational and Student Counselling",
+            "Educational Psychology",
+            "Family Studies",
+            "Preschool Education",
+            "Primary Education",
+            "Special Education",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "College : Engineering",
+          "fields": [
+            "Biomedical Engineering",
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Electrical Engineering",
+            "Engineering",
+            "Environmental Engineering",
+            "Mechanical Engineering",
+            "Metallurgical Engineering",
+            "Mining Engineering"
+          ]
+        },
+        {
+          "name": "College : Liberal Arts",
+          "fields": [
+            "Anthropology",
+            "Art Education",
+            "Arts and Humanities",
+            "Communication Studies",
+            "Criminology",
+            "Dance",
+            "English",
+            "Fine Arts",
+            "History",
+            "Literature",
+            "Military Science",
+            "Modern Languages",
+            "Music",
+            "Philosophy",
+            "Political Sciences",
+            "Psychology",
+            "Sociology",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "College : Science",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Earth Sciences",
+            "Geography",
+            "Geological Engineering",
+            "Mathematics",
+            "Mining Engineering",
+            "Physics",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Department/Division : Health Sciences",
+          "fields": [
+            "Community Health",
+            "Medicine",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "School : Journalism",
+          "fields": [
+            "Journalism"
+          ]
+        },
+        {
+          "name": "School : Medicine",
+          "fields": [
+            "Medicine",
+            "Speech Therapy and Audiology"
+          ]
+        },
+        {
+          "name": "School : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "School : Public Health",
+          "fields": [
+            "Public Health"
+          ]
+        },
+        {
+          "name": "School : Social Work",
+          "fields": [
+            "Social Work"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Agricultural Economics",
+            "Agriculture",
+            "Anthropology",
+            "Art History",
+            "Biochemistry",
+            "Biomedical Engineering",
+            "Biotechnology",
+            "Business Administration",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civil Engineering",
+            "Communication Studies",
+            "Computer Engineering",
+            "Criminology",
+            "Dance",
+            "Development Studies",
+            "Ecology",
+            "Economics",
+            "Electrical Engineering",
+            "English",
+            "Environmental Engineering",
+            "Environmental Studies",
+            "Family Studies",
+            "Finance",
+            "Fine Arts",
+            "Forest Management",
+            "French",
+            "Gender Studies",
+            "Geography",
+            "Geological Engineering",
+            "Geology",
+            "Geophysics",
+            "History",
+            "Immunology",
+            "Information Technology",
+            "International Business",
+            "International Studies",
+            "Journalism",
+            "Kinesiology",
+            "Linguistics",
+            "Management",
+            "Marketing",
+            "Materials Engineering",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Metallurgical Engineering",
+            "Meteorology",
+            "Mining Engineering",
+            "Molecular Biology",
+            "Music",
+            "Neurosciences",
+            "Nursing",
+            "Nutrition",
+            "Philosophy",
+            "Physical Engineering",
+            "Physics",
+            "Political Sciences",
+            "Preschool Education",
+            "Primary Education",
+            "Psychology",
+            "Public Health",
+            "Secondary Education",
+            "Social Work",
+            "Sociology",
+            "Spanish",
+            "Speech Therapy and Audiology",
+            "Teacher Training",
+            "Theatre",
+            "Veterinary Science",
+            "Water Science",
+            "Wildlife"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Accountancy",
+            "Animal Husbandry",
+            "Anthropology",
+            "Architecture and Planning",
+            "Behavioural Sciences",
+            "Biochemistry",
+            "Biology",
+            "Biomedical Engineering",
+            "Biotechnology",
+            "Business Administration",
+            "Cell Biology",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civil Engineering",
+            "Communication Studies",
+            "Computer Engineering",
+            "Computer Science",
+            "Criminology",
+            "Curriculum",
+            "Development Studies",
+            "Earth Sciences",
+            "Ecology",
+            "Economics",
+            "Education",
+            "Educational Administration",
+            "Educational and Student Counselling",
+            "Electrical Engineering",
+            "English",
+            "Environmental Engineering",
+            "Environmental Studies",
+            "Family Studies",
+            "Finance",
+            "Fine Arts",
+            "Gender Studies",
+            "Geography",
+            "Geological Engineering",
+            "Geology",
+            "Geophysics",
+            "Higher Education",
+            "History",
+            "Information Technology",
+            "Journalism",
+            "Justice Administration",
+            "Kinesiology",
+            "Law",
+            "Literature",
+            "Materials Engineering",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Metallurgical Engineering",
+            "Meteorology",
+            "Mining Engineering",
+            "Modern Languages",
+            "Molecular Biology",
+            "Music",
+            "Music Education",
+            "Natural Resources",
+            "Neurosciences",
+            "Nursing",
+            "Nutrition",
+            "Philosophy",
+            "Physics",
+            "Political Sciences",
+            "Primary Education",
+            "Psychology",
+            "Public Administration",
+            "Public Health",
+            "Secondary Education",
+            "Social Work",
+            "Sociology",
+            "Spanish",
+            "Special Education",
+            "Speech Therapy and Audiology",
+            "Statistics",
+            "Visual Arts",
+            "Water Science",
+            "Writing"
+          ]
+        },
+        {
+          "name": "Doctor's Degrees (Professional Practice)",
+          "fields": [
+            "Medicine",
+            "Music",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Doctor's Degree (Research/Scholarship)",
+          "fields": [
+            "Anthropology",
+            "Applied Physics",
+            "Biochemistry",
+            "Biology",
+            "Biomedical Engineering",
+            "Business Administration",
+            "Cell Biology",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Cultural Studies",
+            "Curriculum",
+            "Development Studies",
+            "Earth Sciences",
+            "Ecology",
+            "Economics",
+            "Education",
+            "Educational Administration",
+            "Educational Psychology",
+            "Electrical Engineering",
+            "Engineering",
+            "English",
+            "Environmental Engineering",
+            "Environmental Studies",
+            "Family Studies",
+            "Geography",
+            "Geological Engineering",
+            "Geology",
+            "Geophysics",
+            "History",
+            "Law",
+            "Literacy Education",
+            "Materials Engineering",
+            "Mathematics",
+            "Mathematics Education",
+            "Mechanical Engineering",
+            "Medicine",
+            "Meteorology",
+            "Mining Engineering",
+            "Molecular Biology",
+            "Music",
+            "Natural Resources",
+            "Neurosciences",
+            "Pharmacology",
+            "Physics",
+            "Physiology",
+            "Political Sciences",
+            "Psychology",
+            "Public Health",
+            "Science Education",
+            "Social Psychology",
+            "Special Education",
+            "Speech Therapy and Audiology",
+            "Statistics",
+            "Technology Education",
+            "Water Science"
+          ]
+        }
+      ],
+      "accreditation": "Northwest Commission on Colleges and Universities",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Brian Sandoval"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Jeff Thompson"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2022-2023",
+        "Staff Full Time Total:": "1842",
+        "Students Statistics Year:": "2022-2023",
+        "Students Total:": "20945"
+      },
+      "history": "Founded 1874. A State and Grant institution.",
+      "periodicals": [
+        "Nevada Review of Business and Economics",
+        "Nevada Review of Business and Economics"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "23164",
+      "iau_id": "IAU-023164",
+      "name": "Western Nevada College",
+      "alt_name": "(WNC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyxRLUMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-023164",
+      "address": {
+        "Street": "2201 West College Parkway",
+        "City": "Carson City",
+        "Province": "Nevada",
+        "Post Code": "89703",
+        "WWW": "https://wnc.edu"
+      },
+      "website": "https://wnc.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1971,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Liberal Arts",
+          "fields": [
+            "Accountancy",
+            "Arts and Humanities",
+            "Business Administration",
+            "Communication Studies",
+            "Economics",
+            "Education",
+            "Engineering",
+            "English",
+            "Fine Arts",
+            "History",
+            "Information Technology",
+            "Marketing",
+            "Mathematics",
+            "Natural Sciences",
+            "Performing Arts",
+            "Psychology",
+            "Social Sciences",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Department/Division : Nursing and Allied Health",
+          "fields": [
+            "Health Sciences",
+            "Medical Auxiliaries",
+            "Medical Technology",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Department/Division : Workforce, Career & Technical Education",
+          "fields": [
+            "Accountancy",
+            "Automotive Engineering",
+            "Business Administration",
+            "Computer Science",
+            "Construction Engineering",
+            "Criminology",
+            "Education",
+            "Graphic Design",
+            "Information Technology",
+            "Machine Building",
+            "Management",
+            "Special Education",
+            "Technology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Associate Degree",
+          "fields": [
+            "Construction Engineering",
+            "Management"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Construction Engineering",
+            "Management"
+          ]
+        }
+      ],
+      "accreditation": "Northwest Commission on Colleges and Universities",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "J. Kyle Dalpe"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Dana Ryan"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2022-2023",
+        "Staff Full Time Total:": "275",
+        "Students Statistics Year:": "2022-2023",
+        "Students Total:": "3582"
+      },
+      "history": "Founded 1971",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "29786",
+      "iau_id": "IAU-029786",
+      "name": "Wongu University of Oriental Medicine",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0RXLiM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-029786",
+      "address": {
+        "Street": "8620 South Eastern Avenue",
+        "City": "Las Vegas",
+        "Province": "Nevada",
+        "Post Code": "89123-2836",
+        "WWW": "https://wongu.edu"
+      },
+      "website": "https://wongu.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2012,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Oriental Medicine",
+          "fields": [
+            "Acupuncture and Oriental Medicine"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Acupuncture and Oriental Medicine"
+          ]
+        }
+      ],
+      "accreditation": "Accreditation Commission for Acupuncture and Oriental Medicine",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Sang Hyun Lee"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2022-2023",
+        "Students Total:": "30"
+      },
+      "history": "Founded 2012",
+      "periodicals": [],
+      "student_body": "co-ed"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "country_name": "German-speaking Community",
+  "country_id": "Belgium - German-speaking Community",
+  "institutions": [
+    {
+      "id": "26952",
+      "iau_id": "IAU-026952",
+      "name": "Autonomous University of East Belgium",
+      "alt_name": "Autonome Hochschule Ostbelgien",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzhZLTMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-026952",
+      "address": {
+        "Street": "Monschauer Straße 57",
+        "City": "Eupen",
+        "Post Code": "4700",
+        "WWW": "https://www.ahs-ostbelgien.be"
+      },
+      "website": "https://www.ahs-ostbelgien.be",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "German"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Business",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Insurance"
+          ]
+        },
+        {
+          "name": "Course/Programme : Education",
+          "fields": [
+            "Preschool Education",
+            "Primary Education"
+          ]
+        },
+        {
+          "name": "Course/Programme : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Course/Programme : Social Work",
+          "fields": [
+            "Social Work"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Insurance",
+            "Nursing",
+            "Preschool Education",
+            "Primary Education",
+            "Social Work"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of the German-speaking Community, Department VET and Organisation of Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Cornelia Keutgen"
+        }
+      ],
+      "statistics": {},
+      "history": "Created 2005 as Autonome Hochschule in der Deutschsprachigen Gemeinschaft (Autonomous University of the German-Speaking Community) and acquired current title 2020",
+      "periodicals": [],
+      "student_body": null
+    }
+  ]
+}

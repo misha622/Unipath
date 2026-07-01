@@ -1,0 +1,3443 @@
+{
+  "country_name": "Cyprus",
+  "country_id": "Cyprus",
+  "institutions": [
+    {
+      "id": "26005",
+      "iau_id": "IAU-026005",
+      "name": "ACC Akademia College",
+      "alt_name": "(AKC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzhQLCM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-026005",
+      "address": {
+        "Street": "30 Archbishop Kyprianos Street",
+        "City": "Limassol",
+        "Post Code": "3036",
+        "WWW": "https://www.cut.ac.cy"
+      },
+      "website": "https://www.cut.ac.cy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2003,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Language",
+          "fields": [
+            "French",
+            "German",
+            "Greek",
+            "Italian",
+            "Russian",
+            "Spanish"
+          ]
+        },
+        {
+          "name": "Department/Division : Agricultural Sciences, Biotechnology and Food Science",
+          "fields": [
+            "Agriculture",
+            "Animal Husbandry",
+            "Biotechnology",
+            "Crop Production",
+            "Fishery",
+            "Food Science"
+          ]
+        },
+        {
+          "name": "Department/Division : Civil Engineering and Geomatics",
+          "fields": [
+            "Civil Engineering",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "Department/Division : Commerce, Finance and Shipping",
+          "fields": [
+            "Business and Commerce",
+            "Economics",
+            "Finance",
+            "Marine Transport",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Communication and Internet Studies",
+          "fields": [
+            "Communication Studies",
+            "Information Management",
+            "Information Technology",
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "Department/Division : Electrical Engineering, Computer Engineering and Informatics",
+          "fields": [
+            "Computer Engineering",
+            "Electrical Engineering"
+          ]
+        },
+        {
+          "name": "Department/Division : Environmental Science and Technology",
+          "fields": [
+            "Environmental Management",
+            "Environmental Studies"
+          ]
+        },
+        {
+          "name": "Department/Division : Hotel and Tourism Management",
+          "fields": [
+            "Hotel Management",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Department/Division : Mechanical Engineering and Material Science and Engineering",
+          "fields": [
+            "Materials Engineering",
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "Department/Division : Multimedia and Graphic Arts",
+          "fields": [
+            "Communication Studies",
+            "Fine Arts",
+            "Graphic Arts",
+            "Multimedia"
+          ]
+        },
+        {
+          "name": "Department/Division : Nursing",
+          "fields": [
+            "Nursing",
+            "Public Health"
+          ]
+        },
+        {
+          "name": "Department/Division : Rehabilitation Sciences",
+          "fields": [
+            "Rehabilitation and Therapy"
+          ]
+        },
+        {
+          "name": "Institute : Environmental and Public Health",
+          "fields": [
+            "Public Health"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ptychio / Bachelor's Degree",
+          "fields": [
+            "Banking",
+            "Design",
+            "Energy Engineering",
+            "Epidemiology",
+            "Finance",
+            "Graphic Design",
+            "Hotel Management",
+            "Information Technology",
+            "Journalism",
+            "Mechanical Engineering",
+            "Multimedia",
+            "Public Health",
+            "Tourism",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Magister Artium / Magister Scientae",
+          "fields": [
+            "Banking",
+            "Design",
+            "Energy Engineering",
+            "Epidemiology",
+            "Finance",
+            "Graphic Design",
+            "Hotel Management",
+            "Information Technology",
+            "Journalism",
+            "Mechanical Engineering",
+            "Multimedia",
+            "Public Health",
+            "Tourism",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Didactoriko",
+          "fields": [
+            "Computer Engineering",
+            "Mechanical Engineering",
+            "Public Health"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education, Culture, Sport and Youth",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Panayiotis Zaphiris"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Costas Hoppas"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Nicolas Tsapatsoulis"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Dia Evagorou"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Marinos Voukis"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2024-2025",
+        "Students Total:": "3500"
+      },
+      "history": "Founded 2003. Admitted its first students 2007",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "22808",
+      "iau_id": "IAU-022808",
+      "name": "Aigaia School of Art and Design",
+      "alt_name": "Aigaia Sxoli Kalon ke Efarmosmenon",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyhYLCNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-022808",
+      "address": {
+        "Street": "P.O. Box 12794",
+        "City": "Nicosia",
+        "Province": "Latsia",
+        "Post Code": "2252",
+        "WWW": "https://www.ouc.ac.cy/index.php/en"
+      },
+      "website": "https://www.ouc.ac.cy/index.php/en",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2002,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to July",
+      "languages": [
+        "Greek",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Economics and Management",
+          "fields": [
+            "Banking",
+            "Business Administration",
+            "Educational Administration",
+            "Educational Sciences",
+            "European Union Law",
+            "Health Administration",
+            "Management Systems",
+            "Police Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Humanities and Social Sciences",
+          "fields": [
+            "Arts and Humanities",
+            "Continuing Education",
+            "Cultural Studies",
+            "Development Studies",
+            "Greek",
+            "Information Management",
+            "Journalism",
+            "Performing Arts",
+            "Social Sciences",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Faculty : Pure and Applied Sciences",
+          "fields": [
+            "Computer Science",
+            "Environmental Management",
+            "Information Technology",
+            "Medical Technology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ptychio / Bachelor's Degree",
+          "fields": [
+            "Business Administration",
+            "Cultural Studies",
+            "Economics",
+            "Law"
+          ]
+        },
+        {
+          "name": "Magister Artium / Magister Scientae",
+          "fields": [
+            "Accountancy",
+            "Art Management",
+            "Business Administration",
+            "Business Computing",
+            "Cognitive Sciences",
+            "Computer Networks",
+            "Continuing Education",
+            "Criminal Law",
+            "Cybersecurity",
+            "Educational Administration",
+            "Educational Sciences",
+            "Environmental Engineering",
+            "Environmental Management",
+            "Ethics",
+            "European Union Law",
+            "Finance",
+            "Greek",
+            "Health Administration",
+            "History",
+            "Insurance",
+            "Literature",
+            "Management",
+            "Medical Technology",
+            "Political Sciences",
+            "Technology",
+            "Theatre"
+          ]
+        },
+        {
+          "name": "Didactoriko",
+          "fields": [
+            "Artificial Intelligence",
+            "Business Administration",
+            "Chemical Engineering",
+            "Commercial Law",
+            "Computer Science",
+            "Curriculum",
+            "Cybersecurity",
+            "Data Science",
+            "Economics",
+            "Educational Administration",
+            "Educational Sciences",
+            "Environmental Engineering",
+            "Environmental Studies",
+            "European Union Law",
+            "Greek",
+            "Health Administration",
+            "History",
+            "Law",
+            "Linguistics",
+            "Literature",
+            "Management",
+            "Marketing",
+            "Political Sciences",
+            "Public Administration",
+            "Telecommunications Engineering",
+            "Theatre"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education, Sport and Youth",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Stavros Stavrou"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Vayos Liapis"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Nearchos Nearchou"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2024-2025",
+        "Staff Full Time Total:": "249",
+        "Students Statistics Year:": "2024-2025",
+        "Students Total:": "3250",
+        "Students Distance:": "4484"
+      },
+      "history": "Founded 2002. It is the only university dedicated exclusively to open and distance education and plays a key role in promoting lifelong learning",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "824",
+      "iau_id": "IAU-000824",
+      "name": "Alexander College",
+      "alt_name": "(ACC)",
+      "detail_url": "https://whed.net/detail_institution.php?Jjo2MF0uIyhUCmAK",
+      "iau_link": "https://www.whed.net/institutions/IAU-000824",
+      "address": {
+        "Street": "1 Panepistimiou AvenueUniversity House \"Anastasios G. Leventis\"P.O. Box 20537, Aglatzia",
+        "City": "Nicosia",
+        "Post Code": "2109",
+        "WWW": "https://www.ucy.ac.cy"
+      },
+      "website": "https://www.ucy.ac.cy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to May (September-December; January-May)",
+      "languages": [
+        "Turkish",
+        "Greek"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Applied Neuroscience",
+          "fields": [
+            "Neurosciences"
+          ]
+        },
+        {
+          "name": "Centre : Banking and Financial Research",
+          "fields": [
+            "Banking",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Centre : Biomedical Engineering Research (BERC)",
+          "fields": [
+            "Biomedical Engineering"
+          ]
+        },
+        {
+          "name": "Centre : Economics",
+          "fields": [
+            "Economics"
+          ]
+        },
+        {
+          "name": "Centre : EMPHASIS Research",
+          "fields": [
+            "Electronic Engineering",
+            "Microwaves",
+            "Nanotechnology"
+          ]
+        },
+        {
+          "name": "Centre : FOSS Research for Sustainable Energy",
+          "fields": [
+            "Energy Engineering",
+            "Sustainable Development"
+          ]
+        },
+        {
+          "name": "Centre : Gender Studies",
+          "fields": [
+            "Gender Studies"
+          ]
+        },
+        {
+          "name": "Centre : KIOS Research and Innovation",
+          "fields": [
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Centre : Language",
+          "fields": [
+            "Modern Languages"
+          ]
+        },
+        {
+          "name": "Centre : Medieval Arts and Rituals (CeMAR)",
+          "fields": [
+            "Fine Arts",
+            "Medieval Studies"
+          ]
+        },
+        {
+          "name": "Centre : Molecular Medicine Research - Cy-Biobank",
+          "fields": [
+            "Medicine",
+            "Molecular Biology"
+          ]
+        },
+        {
+          "name": "Centre : Nireas International Water Research",
+          "fields": [
+            "Water Management"
+          ]
+        },
+        {
+          "name": "Centre : Oceanography",
+          "fields": [
+            "Marine Science and Oceanography"
+          ]
+        },
+        {
+          "name": "Faculty : Economics and Management",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Economics",
+            "Finance",
+            "Management",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Architecture",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Electrical Engineering",
+            "English",
+            "Environmental Engineering",
+            "French",
+            "Mechanical Engineering",
+            "Production Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Humanities",
+          "fields": [
+            "Arts and Humanities",
+            "English Studies",
+            "European Studies",
+            "French Studies",
+            "Middle Eastern Studies",
+            "Modern Languages",
+            "Turkish"
+          ]
+        },
+        {
+          "name": "Faculty : Letters",
+          "fields": [
+            "Ancient Civilizations",
+            "Archaeology",
+            "Arts and Humanities",
+            "Classical Languages",
+            "Greek",
+            "History",
+            "Philosophy"
+          ]
+        },
+        {
+          "name": "Faculty : Pure and Applied Sciences",
+          "fields": [
+            "Biological and Life Sciences",
+            "Chemistry",
+            "Computer Science",
+            "Mathematics",
+            "Physics",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Faculty : Social Sciences and Education",
+          "fields": [
+            "Education",
+            "Law",
+            "Political Sciences",
+            "Psychology",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Research Division : Archaeological  (ARU)",
+          "fields": [
+            "Ancient Civilizations",
+            "Mediterranean Studies"
+          ]
+        },
+        {
+          "name": "School : Medicine",
+          "fields": [
+            "Medicine"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ptychio / Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Archaeology",
+            "Architecture",
+            "Biology",
+            "Business Administration",
+            "Chemistry",
+            "Civil Engineering",
+            "Classical Languages",
+            "Computer Engineering",
+            "Computer Science",
+            "Economics",
+            "Electrical Engineering",
+            "English",
+            "Environmental Engineering",
+            "European Studies",
+            "Finance",
+            "French",
+            "Greek",
+            "Greek (Classical)",
+            "History",
+            "International Studies",
+            "Journalism",
+            "Literature",
+            "Management",
+            "Marketing",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Oriental Studies",
+            "Philosophy",
+            "Physics",
+            "Political Sciences",
+            "Preschool Education",
+            "Primary Education",
+            "Production Engineering",
+            "Psychology",
+            "Public Administration",
+            "Sociology",
+            "Statistics",
+            "Turkish"
+          ]
+        },
+        {
+          "name": "Magister Artium / Magister Scientae",
+          "fields": [
+            "Accountancy",
+            "Ancient Civilizations",
+            "Applied Linguistics",
+            "Architecture",
+            "Banking",
+            "Biology",
+            "Business Administration",
+            "Chemistry",
+            "Civil Engineering",
+            "Classical Languages",
+            "Cognitive Sciences",
+            "Computer Engineering",
+            "Cultural Studies",
+            "Curriculum",
+            "Developmental Psychology",
+            "Economics",
+            "Education",
+            "Educational Administration",
+            "Educational Psychology",
+            "Electrical Engineering",
+            "English",
+            "Environmental Engineering",
+            "Finance",
+            "French",
+            "Greek",
+            "Greek (Classical)",
+            "Information Technology",
+            "Law",
+            "Linguistics",
+            "Literature",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Medicine",
+            "Mediterranean Studies",
+            "Molecular Biology",
+            "Natural Sciences",
+            "Oriental Studies",
+            "Pedagogy",
+            "Philology",
+            "Physics",
+            "Political Sciences",
+            "Production Engineering",
+            "Psychology",
+            "Statistics",
+            "Translation and Interpretation",
+            "Turkish"
+          ]
+        },
+        {
+          "name": "Didactoriko",
+          "fields": [
+            "Accountancy",
+            "Ancient Civilizations",
+            "Applied Linguistics",
+            "Applied Mathematics",
+            "Archaeology",
+            "Architecture",
+            "Biological and Life Sciences",
+            "Chemistry",
+            "Civil Engineering",
+            "Classical Languages",
+            "Clinical Psychology",
+            "Computer Engineering",
+            "Computer Science",
+            "Contemporary History",
+            "Cultural Studies",
+            "Curriculum",
+            "Developmental Psychology",
+            "Economics",
+            "Education",
+            "Educational Administration",
+            "Educational Psychology",
+            "Electrical Engineering",
+            "English",
+            "Environmental Engineering",
+            "Finance",
+            "French",
+            "Gender Studies",
+            "Greek (Classical)",
+            "History",
+            "Literature",
+            "Mathematics",
+            "Mathematics Education",
+            "Mechanical Engineering",
+            "Mediterranean Studies",
+            "Middle Eastern Studies",
+            "Molecular Biology",
+            "Natural Sciences",
+            "Oriental Studies",
+            "Philology",
+            "Philosophy",
+            "Physics",
+            "Political Sciences",
+            "Production Engineering",
+            "Social Sciences",
+            "Sociology",
+            "Special Education",
+            "Statistics",
+            "Turkish"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education, Sport and Youth",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Tasos Christofides"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Menelaos Menelaou"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Elena Avgoustidou-Kyriacou"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2020-2021",
+        "Students Total:": "6919"
+      },
+      "history": "University of Cyprus (UCY) was the first university to be established on the island, in 1989, accepting its first students in 1992. Based in the capital of Cyprus, Nicosia, UCY is globally networked and actively contributes to European and international scientific developments",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "25989",
+      "iau_id": "IAU-025989",
+      "name": "American College",
+      "alt_name": "(AC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRZLiNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025989",
+      "address": {
+        "Street": "Eleftheria Avenue 116P.O. Box 36118",
+        "City": "Deryneia",
+        "Post Code": "5386",
+        "WWW": "https://www.akc.ac.cy"
+      },
+      "website": "https://www.akc.ac.cy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Business Administration",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Course/Programme : Hotel Administration",
+          "fields": [
+            "Hotel Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Higher Certificate and Diploma",
+          "fields": [
+            "Hotel Management"
+          ]
+        },
+        {
+          "name": "Ptychio / Bachelor's Degree",
+          "fields": [
+            "Business Administration"
+          ]
+        }
+      ],
+      "accreditation": "Cyprus Agency of Quality Assurance &Accreditation in Higher Education (CYQAA)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Costas Charalambous"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Eirini Daskalaki"
+        }
+      ],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "1101",
+      "iau_id": "IAU-001101",
+      "name": "ARTE Music Academy",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sMyRQLDBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-001101",
+      "address": {
+        "Street": "81, Agion Omologiton, 1081",
+        "City": "Nicosia",
+        "Post Code": "1080",
+        "WWW": "http://www.aigaia.com.cy"
+      },
+      "website": "http://www.aigaia.com.cy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2005,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Applied Arts and Design",
+          "fields": [
+            "Design",
+            "Fashion Design",
+            "Graphic Design",
+            "Industrial Design",
+            "Jewellery Art",
+            "Textile Design"
+          ]
+        },
+        {
+          "name": "Department/Division : Fine Arts",
+          "fields": [
+            "Ceramic Art",
+            "Fine Arts",
+            "Painting and Drawing",
+            "Performing Arts",
+            "Photography",
+            "Printing and Printmaking",
+            "Sculpture",
+            "Video",
+            "Visual Arts"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Higher Certificate and Diploma",
+          "fields": [
+            "Fashion Design",
+            "Fine Arts",
+            "Photography",
+            "Textile Design",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Ptychio / Bachelor's Degree",
+          "fields": [
+            "Visual Arts"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Culture; EDEXCEL, UK",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Alexia Iliadou Chatzistefanou"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2005",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "22795",
+      "iau_id": "IAU-022795",
+      "name": "Atlantis College",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyhXLjM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-022795",
+      "address": {
+        "Street": "P.O. Box 450812 Artas Street",
+        "City": "Aradippou",
+        "Province": "Larnaca",
+        "Post Code": "7102",
+        "WWW": "http://www.alexander.ac.cy"
+      },
+      "website": "http://www.alexander.ac.cy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1991,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English",
+        "Greek"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Arts and Creative Industries",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Business and Law",
+          "fields": [
+            "Fine Arts"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ptychio / Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Computer Engineering",
+            "Computer Science",
+            "Fashion Design",
+            "Finance",
+            "Graphic Design",
+            "Hotel and Restaurant",
+            "Interior Design",
+            "Law",
+            "Management",
+            "Photography"
+          ]
+        },
+        {
+          "name": "Magister Artium / Magister Scientae",
+          "fields": [
+            "Management"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education, Culture, Sport and Youth",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Andy Loppas"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Nikodemos Loizou"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1991",
+      "periodicals": [
+        "Av proyectos British Journal of Photography Computer Arts Criminal Justice Matters Elephant EVolo Frame Harvard Business Review Icon International Journal of leadership in education: Theory and practice Landscape architecture magazine Mark: Another achitecture National Geographic New Law Journal Professional Photographer Scape: the international magazine for landscape architecture and Urbanism The economist Topos: the international review of landscape architecture and Urban design Turning Pro Vogue",
+        "Av proyectos",
+        "British Journal of Photography",
+        "Computer Arts",
+        "Criminal Justice Matters",
+        "Elephant",
+        "EVolo",
+        "Frame",
+        "Harvard Business Review",
+        "Icon",
+        "International Journal of leadership in education: Theory and practice",
+        "Landscape architecture magazine",
+        "Mark: Another achitecture",
+        "National Geographic",
+        "New Law Journal",
+        "Professional Photographer",
+        "Scape: the international magazine for landscape architecture and Urbanism",
+        "The economist",
+        "Topos: the international review of landscape architecture and Urban design",
+        "Turning Pro",
+        "Vogue"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "1868",
+      "iau_id": "IAU-001868",
+      "name": "C.D.A. College",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sM0BWLmBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-001868",
+      "address": {
+        "Street": "3 Omirou Avenue",
+        "City": "Nicosia",
+        "Post Code": "1097",
+        "WWW": "http://www.ac.ac.cy"
+      },
+      "website": "http://www.ac.ac.cy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Business Administration",
+          "fields": [
+            "Business Administration",
+            "Business Computing",
+            "Computer Science",
+            "Human Resources",
+            "International Business",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Course/Programme : Hotel Management",
+          "fields": [
+            "Cooking and Catering",
+            "Hotel Management",
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ptychio / Bachelor's Degree",
+          "fields": [
+            "Business Administration",
+            "Business Computing",
+            "Computer Science",
+            "Cooking and Catering",
+            "Hotel Management",
+            "Human Resources",
+            "International Business",
+            "Marketing",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Magister Artium / Magister Scientae",
+          "fields": [
+            "Business Administration"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education, Culture, Sport and Youth",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Marios Americanos"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Lakis Agathocleous"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Tasos Anastasiou"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded in 1975. A private institution",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "2008",
+      "iau_id": "IAU-002008",
+      "name": "Casa College",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sQ2BQLmBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-002008",
+      "address": {
+        "Street": "Anastasiou Leventi 34–36",
+        "City": "Nicosia",
+        "Post Code": "1097",
+        "WWW": "http://www.artemusic.org"
+      },
+      "website": "http://www.artemusic.org",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2002,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Music",
+          "fields": [
+            "Music"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ptychio / Bachelor's Degree",
+          "fields": [
+            "Music"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education, Culture, Sport and Youth",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Pitsa Spyridaki"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2002",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "22800",
+      "iau_id": "IAU-022800",
+      "name": "City Unity College Nicosia",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyhYLCNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-022800",
+      "address": {
+        "Street": "40, 1st April street",
+        "City": "Liopetri",
+        "Post Code": "5326",
+        "WWW": "http://www.atlantiscollege.com"
+      },
+      "website": "http://www.atlantiscollege.com",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Business Administration",
+          "fields": [
+            "Business Administration"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ptychio / Bachelor's Degree",
+          "fields": [
+            "Business Administration"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education, Culture, Sport and Youth",
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "3043",
+      "iau_id": "IAU-003043",
+      "name": "College of Tourism and Hotel Management",
+      "alt_name": "Kollegio Tourismou kai Dieuthynsis Xenodochion",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sU2BULFBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003043",
+      "address": {
+        "Street": "2, Evagorou Ave. Eleftherias Square",
+        "City": "Nicosia",
+        "Post Code": "1515",
+        "WWW": "http://www.cdacollege.ac.cy"
+      },
+      "website": "http://www.cdacollege.ac.cy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Accounting and Finance",
+          "fields": [
+            "Accountancy",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Course/Programme : Beauty Therapy",
+          "fields": [
+            "Cosmetology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Business Administration",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Course/Programme : Police Studies and Criminology",
+          "fields": [
+            "Criminology",
+            "Police Studies"
+          ]
+        },
+        {
+          "name": "Course/Programme : Travel and Tourism Management",
+          "fields": [
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ptychio / Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Cosmetology",
+            "Criminology",
+            "Finance",
+            "Hotel Management",
+            "Police Studies",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Magister Artium / Magister Scientae",
+          "fields": [
+            "Business Administration"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education, Culture, Sport and Youth",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "D. A. Christoforou"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded in 1976. Acquired status with restructuring and expansion in 1978",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "16404",
+      "iau_id": "IAU-016404",
+      "name": "CTL Eurocollege",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhULCMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016404",
+      "address": {
+        "Street": "3 Jean Moreas Street",
+        "City": "Nicosia",
+        "Post Code": "1075",
+        "WWW": "http://www.casacollege.ac.cy"
+      },
+      "website": "http://www.casacollege.ac.cy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1961,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English",
+        "Greek"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Business Studies",
+          "fields": [
+            "Business and Commerce"
+          ]
+        },
+        {
+          "name": "Course/Programme : Hotel Administration",
+          "fields": [
+            "Hotel Management",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Course/Programme : Secretarial Studies",
+          "fields": [
+            "English",
+            "Secretarial Studies"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ptychio / Bachelor's Degree",
+          "fields": [
+            "Business Administration",
+            "Hotel Management"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education, Culture, Sport and Youth",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Yiannis Saveriades"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Vania Makridou"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Maria Yiannoullou"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1961",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "25993",
+      "iau_id": "IAU-025993",
+      "name": "Cyprus Academy of Arts",
+      "alt_name": "(CAA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRZLjMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025993",
+      "address": {
+        "Street": "19 Stasinou Street",
+        "City": "Nicosia",
+        "Post Code": "2404",
+        "WWW": "http://cityu.ac.cy"
+      },
+      "website": "http://cityu.ac.cy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Business and Finance",
+          "fields": [
+            "Business Administration",
+            "Finance",
+            "Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Computer Science",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Department/Division : Hospitality and Tourism Management",
+          "fields": [
+            "Hotel Management",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Department/Division : Psychology",
+          "fields": [
+            "Psychology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ptychio / Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Economics",
+            "Finance",
+            "Management",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Magister Artium / Magister Scientae",
+          "fields": [
+            "Business Administration",
+            "Finance",
+            "Hotel Management",
+            "Law",
+            "Psychology",
+            "Tourism"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education, Culture, Sport and Youth",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Elias Philippou"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Kyriaki Rousou"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded as White City College 2012. Acquired present title 2014",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "26000",
+      "iau_id": "IAU-026000",
+      "name": "Cyprus College",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzhQLCNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-026000",
+      "address": {
+        "Street": "29 Onasagorou Street",
+        "City": "Nicosia",
+        "Post Code": "1011",
+        "WWW": "http://www.cothm.ac.cy"
+      },
+      "website": "http://www.cothm.ac.cy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1987,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Accounting and Finance",
+          "fields": [
+            "Accountancy",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Course/Programme : Business Administration",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Course/Programme : Events Management",
+          "fields": [
+            "Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Hospitality Management",
+          "fields": [
+            "Hotel Management",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Course/Programme : Hotel Administration",
+          "fields": [
+            "Hotel Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Information Technology",
+          "fields": [
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Course/Programme : International Business Studies",
+          "fields": [
+            "International Business"
+          ]
+        },
+        {
+          "name": "Course/Programme : Leisure Management",
+          "fields": [
+            "Leisure Studies"
+          ]
+        },
+        {
+          "name": "Course/Programme : Travel and Tourism Administration",
+          "fields": [
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ptychio / Bachelor's Degree",
+          "fields": [
+            "Business Administration",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Magister Artium / Magister Scientae",
+          "fields": [
+            "Business Administration"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education, Culture, Sport and Youth",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Savvas Adamides"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1987",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "4867",
+      "iau_id": "IAU-004867",
+      "name": "European University Cyprus",
+      "alt_name": "(EUC)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tI0BWLVBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004867",
+      "address": {
+        "Street": "PO Box 28069",
+        "City": "Limassol",
+        "Post Code": "3077",
+        "WWW": "http://www.ctleuro.ac.cy"
+      },
+      "website": "http://www.ctleuro.ac.cy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Accounting",
+          "fields": [
+            "Accountancy"
+          ]
+        },
+        {
+          "name": "Course/Programme : Business",
+          "fields": [
+            "Business Administration",
+            "E-Business/Commerce"
+          ]
+        },
+        {
+          "name": "Course/Programme : Computing",
+          "fields": [
+            "Computer Science",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Hospitality and Tourism",
+          "fields": [
+            "Hotel Management",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Course/Programme : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Course/Programme : Office Administration",
+          "fields": [
+            "Administration"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ptychio / Bachelor's Degree",
+          "fields": [
+            "Business Administration",
+            "Computer Science",
+            "Hotel Management"
+          ]
+        },
+        {
+          "name": "Magister Artium / Magister Scientae",
+          "fields": [
+            "Business Administration"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education, Culture, Sport and Youth",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Andreas Papathomas"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Angela Neokleous"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Murali Krishna Alanki"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded as the CTL Academy in 1966. Acquired present status and title in 1991",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "22804",
+      "iau_id": "IAU-022804",
+      "name": "Frederick Institute of Technology",
+      "alt_name": "(FIT)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyhYLCMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-022804",
+      "address": {
+        "Street": "55 Gladstonos Street",
+        "City": "Limassol",
+        "Province": "Pentadromos",
+        "Post Code": "3040",
+        "WWW": "http://caa.ac.cy"
+      },
+      "website": "http://caa.ac.cy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Art, Media & Design",
+          "fields": [
+            "Graphic Design",
+            "Photography",
+            "Visual Arts"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ptychio / Bachelor's Degree",
+          "fields": [
+            "Graphic Design",
+            "Photography",
+            "Visual Arts"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education, Culture, Sport and Youth",
+      "officers": [],
+      "statistics": {},
+      "history": "A partner institution of The University for the Creative Arts, UK",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "6420",
+      "iau_id": "IAU-006420",
+      "name": "Frederick University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tQzBSLGBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-006420",
+      "address": {
+        "Street": "6, Diogenous Street",
+        "City": "Lefkosia",
+        "Province": "Engomi",
+        "Post Code": "1516",
+        "WWW": "http://www.cycollege.ac.cy"
+      },
+      "website": "http://www.cycollege.ac.cy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1961,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Greek"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : Limassol",
+          "fields": [
+            "Business Administration",
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Campus : Nicosia",
+          "fields": [
+            "Business Administration",
+            "Cosmetology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Higher Certificate and Diploma",
+          "fields": [
+            "Business Administration",
+            "Computer Networks",
+            "Cosmetology",
+            "E-Business/Commerce",
+            "Electrical and Electronic Equipment and Maintenance",
+            "Marketing",
+            "Mass Communication",
+            "Medical Auxiliaries",
+            "Secretarial Studies",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Ptychio / Bachelor's Degree",
+          "fields": [
+            "Cosmetology"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education, Culture, Sport and Youth",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Nasios Orinos"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Maria Kleouvoulou"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Stella Constantinou"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1961",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "6676",
+      "iau_id": "IAU-006676",
+      "name": "Global College",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tQzhXLUBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-006676",
+      "address": {
+        "Street": "6 Diogenis Street",
+        "City": "Nicosia-Cyprus",
+        "Province": "Engomi",
+        "Post Code": "2404",
+        "WWW": "http://www.euc.ac.cy"
+      },
+      "website": "http://www.euc.ac.cy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1961,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "From October to July (October-January, January-May, June-July)",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "School : Arts and Education Sciences",
+          "fields": [
+            "Art Education",
+            "Computer Science",
+            "Educational Administration",
+            "Educational Sciences",
+            "Educational Technology",
+            "Graphic Design",
+            "Music",
+            "Music Education",
+            "Preschool Education",
+            "Primary Education",
+            "Special Education"
+          ]
+        },
+        {
+          "name": "School : Business Administration",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Economics",
+            "Finance",
+            "Hotel and Restaurant",
+            "Human Resources",
+            "Industrial Management",
+            "Management",
+            "Marketing",
+            "Sports Management"
+          ]
+        },
+        {
+          "name": "School : Humanities and Social Sciences",
+          "fields": [
+            "Clinical Psychology",
+            "Educational and Student Counselling",
+            "English",
+            "Mass Communication",
+            "Psychology",
+            "Public Administration",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "School : Law",
+          "fields": [
+            "International Law",
+            "Law",
+            "Private Law",
+            "Public Law"
+          ]
+        },
+        {
+          "name": "School : Medicine",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "School : Science",
+          "fields": [
+            "Biological and Life Sciences",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Dietetics",
+            "Electrical and Electronic Engineering",
+            "Information Technology",
+            "Mathematics",
+            "Midwifery",
+            "Nursing",
+            "Occupational Health",
+            "Pharmacy",
+            "Physical Education",
+            "Physical Therapy",
+            "Public Health",
+            "Speech Therapy and Audiology",
+            "Sports"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ptychio / Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Biological and Life Sciences",
+            "Business and Commerce",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Dietetics",
+            "Economics",
+            "Electrical and Electronic Engineering",
+            "English",
+            "Finance",
+            "Graphic Design",
+            "Hotel and Restaurant",
+            "Industrial Management",
+            "Law",
+            "Management",
+            "Marketing",
+            "Mass Communication",
+            "Mathematics",
+            "Medicine",
+            "Music",
+            "Nursing",
+            "Occupational Therapy",
+            "Pharmacy",
+            "Physical Education",
+            "Physical Therapy",
+            "Preschool Education",
+            "Primary Education",
+            "Psychology",
+            "Public Administration",
+            "Social Work",
+            "Speech Therapy and Audiology",
+            "Sports Management"
+          ]
+        },
+        {
+          "name": "Magister Artium / Magister Scientae",
+          "fields": [
+            "Accountancy",
+            "Art Education",
+            "Business Administration",
+            "Computer Science",
+            "Dietetics",
+            "Educational Administration",
+            "Educational and Student Counselling",
+            "Educational Technology",
+            "English",
+            "Finance",
+            "Human Resources",
+            "Industrial Management",
+            "Information Technology",
+            "International Law",
+            "Management",
+            "Marketing",
+            "Midwifery",
+            "Music Education",
+            "Nursing",
+            "Occupational Health",
+            "Physical Education",
+            "Preschool Education",
+            "Private Law",
+            "Psychology",
+            "Public Health",
+            "Public Law",
+            "Special Education",
+            "Speech Therapy and Audiology",
+            "Sports"
+          ]
+        },
+        {
+          "name": "Didactoriko",
+          "fields": [
+            "Business Administration",
+            "Computer Science",
+            "Educational Sciences",
+            "Law",
+            "Music Education",
+            "Nursing",
+            "Occupational Health",
+            "Physical Therapy",
+            "Public Health"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education, Culture, Sport and Youth",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Kostas Gouliamos"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Andreas Efstathiou"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Loizos Symeou"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Maria Th. Christodoulou"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1961 as Cyprus College. Acquired present status and title 2007",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "9513",
+      "iau_id": "IAU-009513",
+      "name": "Intercollege",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMzRRLFBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009513",
+      "address": {
+        "Street": "7, Y. Frederickou Street",
+        "City": "Nicosia",
+        "Province": "Palouriotissa",
+        "Post Code": "1036",
+        "WWW": "http://www.fit.ac.cy"
+      },
+      "website": "http://www.fit.ac.cy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1965,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : Limassol",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Course/Programme : Business Administration",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Course/Programme : Design",
+          "fields": [
+            "Design"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ptychio / Bachelor's Degree",
+          "fields": [
+            "Radio and Television Broadcasting"
+          ]
+        },
+        {
+          "name": "Magister Artium / Magister Scientae",
+          "fields": [
+            "Business Administration"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education, Culture, Sport and Youth",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Michael Frederickou"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1965",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "22782",
+      "iau_id": "IAU-022782",
+      "name": "InterNapa College",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyhXLiMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-022782",
+      "address": {
+        "Street": "7, Yiannis Frederickou Street",
+        "City": "Nicosia",
+        "Province": "Pallouriotissa",
+        "Post Code": "1036",
+        "WWW": "http://www.frederick.ac.cy"
+      },
+      "website": "http://www.frederick.ac.cy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "School : Architecture, Fine and Applied Arts",
+          "fields": [
+            "Architecture",
+            "Fine Arts",
+            "Graphic Design",
+            "Interior Design"
+          ]
+        },
+        {
+          "name": "School : Economics and Administration",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Economics",
+            "Finance",
+            "Marine Transport"
+          ]
+        },
+        {
+          "name": "School : Education",
+          "fields": [
+            "Preschool Education",
+            "Primary Education"
+          ]
+        },
+        {
+          "name": "School : Engineering and Applied Sciences",
+          "fields": [
+            "Automotive Engineering",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Electrical Engineering",
+            "Engineering",
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "School : Health Sciences",
+          "fields": [
+            "Health Administration",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "School : Humanities and Social Sciences",
+          "fields": [
+            "Arts and Humanities",
+            "Journalism",
+            "Social Sciences",
+            "Social Work"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ptychio / Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Education",
+            "Finance",
+            "Journalism",
+            "Law",
+            "Mechanical Engineering",
+            "Pharmacy",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Magister Artium / Magister Scientae",
+          "fields": [
+            "Business Administration",
+            "Design",
+            "Education",
+            "Electrical Engineering",
+            "Energy Engineering",
+            "Engineering Management",
+            "Health Administration",
+            "Petroleum and Gas Engineering",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Didactoriko",
+          "fields": [
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Education",
+            "Electrical Engineering",
+            "Engineering",
+            "Fine Arts",
+            "Health Administration",
+            "Management",
+            "Mechanical Engineering",
+            "Social Work"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education, Culture, Sport and Youth",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "George Demosthenous"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Alexandros Onoufriou"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded as Frederick Institute of Technology in 1965. Acquired present status and title in 2007",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "10295",
+      "iau_id": "IAU-010295",
+      "name": "KES College",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM2BSLjM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-010295",
+      "address": {
+        "Street": "245 Eleonon Street",
+        "City": "Nicosia",
+        "Province": "Strovolos",
+        "Post Code": "2048",
+        "WWW": "http://www.globalcollege.ac.cy"
+      },
+      "website": "http://www.globalcollege.ac.cy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1972,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Automotive Engineering",
+          "fields": [
+            "Electronics and Automation"
+          ]
+        },
+        {
+          "name": "Course/Programme : Computer Studies",
+          "fields": [
+            "Computer Science"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ptychio / Bachelor's Degree",
+          "fields": [
+            "Information Sciences"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education, Culture, Sport and Youth",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "George Critikos"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1972",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "22806",
+      "iau_id": "IAU-022806",
+      "name": "Larnaca College",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyhYLCM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-022806",
+      "address": {
+        "Street": "8 Markou Drakou Street",
+        "City": "Nicosia",
+        "Province": "Engomi",
+        "Post Code": "2409",
+        "WWW": "http://www.intercollege.ac.cy"
+      },
+      "website": "http://www.intercollege.ac.cy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1980,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Greek",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : Larnaka",
+          "fields": [
+            "Business Administration",
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Campus : Limassol",
+          "fields": [
+            "Business Administration",
+            "Hotel Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Business Administration",
+          "fields": [
+            "Business Administration",
+            "Economics",
+            "Finance",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Course/Programme : Business Information Technology",
+          "fields": [
+            "Business Computing"
+          ]
+        },
+        {
+          "name": "Course/Programme : Business Studies",
+          "fields": [
+            "Business and Commerce"
+          ]
+        },
+        {
+          "name": "Course/Programme : Computer Engineering",
+          "fields": [
+            "Computer Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Computing",
+          "fields": [
+            "Computer Science",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Graphic and Digital Design",
+          "fields": [
+            "Graphic Design"
+          ]
+        },
+        {
+          "name": "Course/Programme : Hotel Management",
+          "fields": [
+            "Hotel Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Pre-Primary Education",
+          "fields": [
+            "Preschool Education"
+          ]
+        },
+        {
+          "name": "Course/Programme : Sports Science",
+          "fields": [
+            "Sports",
+            "Sports Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ptychio / Bachelor's Degree",
+          "fields": [
+            "Cooking and Catering",
+            "Cosmetology",
+            "Hotel Management"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Culture. Council for Educational Evaluation - Accreditation (SEKAP)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Nicholas Kythreotis"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Andreas Chrysanthou"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1980",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "22807",
+      "iau_id": "IAU-022807",
+      "name": "Ledra College",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyhYLCM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-022807",
+      "address": {
+        "Street": "4 Griva Digeni AvenueP.O. Box 35004",
+        "City": "Sotira",
+        "Post Code": "5390",
+        "WWW": "http://www.internapa.ac.cy"
+      },
+      "website": "http://www.internapa.ac.cy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Business Administration",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Course/Programme : Chinese",
+          "fields": [
+            "Chinese"
+          ]
+        },
+        {
+          "name": "Course/Programme : Education",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Course/Programme : Food and Agribusiness Management",
+          "fields": [
+            "Agricultural Business",
+            "Food Science"
+          ]
+        },
+        {
+          "name": "Course/Programme : Hospitality and Tourism Management",
+          "fields": [
+            "Hotel and Restaurant",
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ptychio / Bachelor's Degree",
+          "fields": [
+            "Agricultural Business",
+            "Business Administration",
+            "Hotel Management",
+            "Tourism"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education, Culture, Sport and Youth",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "George Takkas"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Nicos Anastasiou"
+        }
+      ],
+      "statistics": {},
+      "history": "Established as G. Takkas Educational College in 2003. Earned present title in 2007. Offering programs in Hospitality & Tourism Management and Culinary Arts",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "11525",
+      "iau_id": "IAU-011525",
+      "name": "Mediterranean Institute of Management",
+      "alt_name": "Mesogeiako Instituto Diefthinsis (MIM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyRVLEM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-011525",
+      "address": {
+        "Street": "5 Kallipoleos Avenue",
+        "City": "Nicosia",
+        "Post Code": "1055",
+        "WWW": "http://www.kes.ac.cy"
+      },
+      "website": "http://www.kes.ac.cy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1971,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English",
+        "Greek"
+      ],
+      "faculties": [
+        {
+          "name": "School : Business and Administration Studies",
+          "fields": [
+            "Administration",
+            "Business Administration",
+            "Business and Commerce",
+            "Computer Science",
+            "Finance",
+            "Management",
+            "Marketing",
+            "Secretarial Studies"
+          ]
+        },
+        {
+          "name": "School : Culinary, Hospitality and Tourism",
+          "fields": [
+            "Cooking and Catering",
+            "Hotel and Restaurant",
+            "Hotel Management",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "School : Environmental Studies",
+          "fields": [
+            "Environmental Studies"
+          ]
+        },
+        {
+          "name": "School : Health Studies",
+          "fields": [
+            "Cosmetology",
+            "Health Sciences"
+          ]
+        },
+        {
+          "name": "School : Journalism and Media Studies",
+          "fields": [
+            "Journalism",
+            "Media Studies",
+            "Public Relations"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ptychio / Bachelor's Degree",
+          "fields": [
+            "Cooking and Catering",
+            "Cosmetology",
+            "Management"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education, Culture, Sport and Youth",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Theodoros P. Stylianou"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1971",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "22783",
+      "iau_id": "IAU-022783",
+      "name": "Mesoyios College",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyhXLiMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-022783",
+      "address": {
+        "Street": "Mehmet Ali 75",
+        "City": "Larnaca",
+        "Post Code": "6015",
+        "WWW": "http://www.larnacacollege.ac.cy"
+      },
+      "website": "http://www.larnacacollege.ac.cy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English",
+        "Greek"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Business Administration",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Department/Division : Tourism and Hospitality",
+          "fields": [
+            "Hotel and Restaurant",
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ptychio / Bachelor's Degree",
+          "fields": [
+            "Business Administration",
+            "Hotel Management"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education, Culture, Sport and Youth",
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "12585",
+      "iau_id": "IAU-012585",
+      "name": "Neapolis University Pafos",
+      "alt_name": "(NUP)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyhVLiM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-012585",
+      "address": {
+        "Street": "13 Lankada Street",
+        "City": "Nicosia",
+        "Province": "Strovolos",
+        "Post Code": "2023",
+        "WWW": "http://www.ledra.ac.cy"
+      },
+      "website": "http://www.ledra.ac.cy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2007,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English",
+        "Greek"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Digital Marketing",
+          "fields": [
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Course/Programme : Finance",
+          "fields": [
+            "Finance"
+          ]
+        },
+        {
+          "name": "Course/Programme : Mobile and Web Applications Development",
+          "fields": [
+            "Computer Engineering",
+            "Computer Science"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ptychio / Bachelor's Degree",
+          "fields": [
+            "Business Administration",
+            "Computer Science",
+            "Finance",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Magister Artium / Magister Scientae",
+          "fields": [
+            "International Relations and Diplomacy"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education, Culture, Sport and Youth",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "George Kakouris"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2007",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "13225",
+      "iau_id": "IAU-013225",
+      "name": "P.A. College",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyxSLEM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-013225",
+      "address": {
+        "Street": "77 Kallipoleos Avenue, POBox 20536",
+        "City": "Nicosia",
+        "Post Code": "1679",
+        "WWW": "http://www.mim.ac.cy"
+      },
+      "website": "http://www.mim.ac.cy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English",
+        "Greek"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Management",
+          "fields": [
+            "Management",
+            "Marketing",
+            "Public Administration"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Magister Artium / Magister Scientae",
+          "fields": [
+            "Business Administration",
+            "Public Administration"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education, Culture, Sport and Youth",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Akis Nicolaides"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Irene Demetriou- Ellina"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2015",
+        "Staff Full Time Male:": "3",
+        "Staff Full Time Female:": "10",
+        "Staff Full Time Total:": "3",
+        "Students Statistics Year:": "2015",
+        "Students Male:": "30",
+        "Students Female:": "35",
+        "Students Total:": "65",
+        "Students Part Time:": "35",
+        "Students Students with Disabilities:": "1"
+      },
+      "history": "Founded in 1976. Earned status as a public institution of tertiary education in 2013. A state institution",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "16534",
+      "iau_id": "IAU-016534",
+      "name": "Philips University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhVLFMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016534",
+      "address": {
+        "Street": "3-5-7 Dimostheni Mitsi",
+        "City": "Limassol",
+        "Post Code": "3022",
+        "WWW": "http://www.mesoyios.ac.cy"
+      },
+      "website": "http://www.mesoyios.ac.cy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English",
+        "Greek"
+      ],
+      "faculties": [
+        {
+          "name": "School : Business Administration",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Business Administration",
+            "Economics",
+            "Educational Sciences",
+            "Human Resources",
+            "Management",
+            "Public Relations",
+            "Secretarial Studies"
+          ]
+        },
+        {
+          "name": "School : Fine Arts",
+          "fields": [
+            "Music"
+          ]
+        },
+        {
+          "name": "School : Hospitality and Culinary Arts",
+          "fields": [
+            "Cooking and Catering",
+            "Hotel and Restaurant",
+            "Hotel Management"
+          ]
+        },
+        {
+          "name": "School : Science and Technology",
+          "fields": [
+            "Civil Engineering",
+            "Computer Networks",
+            "Computer Science",
+            "Information Technology",
+            "Mass Communication",
+            "Petroleum and Gas Engineering",
+            "Production Engineering",
+            "Robotics"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ptychio / Bachelor's Degree",
+          "fields": [
+            "Business Administration"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education, Culture, Sport and Youth",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Theofilos Antoniou"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Elena Karafotia"
+        }
+      ],
+      "statistics": {},
+      "history": "Created 1998 as the Mesoyios Institute of Career Advancement. Acquired current title and status 2013. Offering a range of academic degrees in Hospitality Studies, BSc in Computer Science, BA in Business Administration as well as vocational certificates and diplomas",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "15991",
+      "iau_id": "IAU-015991",
+      "name": "Susini College",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzRZLjMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-015991",
+      "address": {
+        "Street": "2 Danais Avenue",
+        "City": "Paphos",
+        "Post Code": "8042",
+        "WWW": "http://www.nup.ac.cy"
+      },
+      "website": "http://www.nup.ac.cy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Accountancy, Banking, and Finance",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Course/Programme : Architecture and Environmental Design",
+          "fields": [
+            "Architecture",
+            "Environmental Studies"
+          ]
+        },
+        {
+          "name": "Course/Programme : Business Administration",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Course/Programme : Construction Management",
+          "fields": [
+            "Construction Engineering",
+            "Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Educational Psychology",
+          "fields": [
+            "Educational Psychology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Psychology",
+          "fields": [
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Real Estate",
+          "fields": [
+            "Real Estate"
+          ]
+        },
+        {
+          "name": "Course/Programme : Real Estate, Valuation and Development",
+          "fields": [
+            "Real Estate"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ptychio / Bachelor's Degree",
+          "fields": [
+            "Architectural and Environmental Design",
+            "Business Administration",
+            "Economic and Finance Policy",
+            "Psychology",
+            "Real Estate"
+          ]
+        },
+        {
+          "name": "Magister Artium / Magister Scientae",
+          "fields": [
+            "Banking",
+            "Business Administration",
+            "Construction Engineering",
+            "Educational Psychology",
+            "Finance",
+            "Real Estate"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education, Culture, Sport and Youth",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Pantelis Sklias"
+        }
+      ],
+      "statistics": {},
+      "history": "Operating since 2010",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "16448",
+      "iau_id": "IAU-016448",
+      "name": "The Cyprus Institute",
+      "alt_name": "(CyI)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhULSNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016448",
+      "address": {
+        "Street": "P.O. Box 40763",
+        "City": "Larnaca",
+        "Post Code": "6307",
+        "WWW": "http://www.pacollege.ac.cy"
+      },
+      "website": "http://www.pacollege.ac.cy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Business Administration",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Course/Programme : Business Computing",
+          "fields": [
+            "Business Computing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ptychio / Bachelor's Degree",
+          "fields": [
+            "Business Administration",
+            "Business Computing"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education, Culture, Sport and Youth",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Andreas Z. Patsalides"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Filippos Loizou"
+        }
+      ],
+      "statistics": {},
+      "history": "Operating since 1983",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "16449",
+      "iau_id": "IAU-016449",
+      "name": "The Cyprus Institute of Marketing",
+      "alt_name": "(CIM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhULSNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016449",
+      "address": {
+        "Street": "4-6 Lamias StreetP.O.Box 28008, 2090 Strovolos",
+        "City": "Nicosia",
+        "Post Code": "2090",
+        "WWW": "https://philipsuni.ac.cy"
+      },
+      "website": "https://philipsuni.ac.cy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1978,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Accountancy and Finance",
+          "fields": [
+            "Accountancy",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Department/Division : Business Administration",
+          "fields": [
+            "Business Administration",
+            "Business and Commerce",
+            "Economics",
+            "Real Estate"
+          ]
+        },
+        {
+          "name": "Department/Division : Computer Science",
+          "fields": [
+            "Computer Engineering",
+            "Information Technology",
+            "Modern Languages",
+            "Multimedia"
+          ]
+        },
+        {
+          "name": "Department/Division : Language Studies and Communications",
+          "fields": [
+            "European Languages",
+            "Journalism",
+            "Public Relations"
+          ]
+        },
+        {
+          "name": "Department/Division : Law",
+          "fields": [
+            "Education",
+            "Law",
+            "Nursing",
+            "Psychology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ptychio / Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Communication Studies",
+            "Computer Science",
+            "European Languages",
+            "Finance",
+            "Information Technology",
+            "Law",
+            "Nursing",
+            "Primary Education",
+            "Public Relations"
+          ]
+        },
+        {
+          "name": "Magister Artium / Magister Scientae",
+          "fields": [
+            "Business Administration",
+            "Finance"
+          ]
+        }
+      ],
+      "accreditation": "National Accreditation Body of Cyprus (SEKAP); Ministry of Education, Culture, Sport and Youth",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Philippos Constantinou"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1978 as the Philips College. Acquired status 2000. Acquired current title 2018",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "22788",
+      "iau_id": "IAU-022788",
+      "name": "The Limassol College - T.L.C.",
+      "alt_name": "Rea School of Beauty (TLC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyhXLiNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-022788",
+      "address": {
+        "Street": "10 Tagmatarchou Pouliou StreetP.O. Box 51147",
+        "City": "Limasol",
+        "Post Code": "3502",
+        "WWW": "http://www.susini.ac.cy"
+      },
+      "website": "http://www.susini.ac.cy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "September to May (September - January; January - May)",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Aesthetics and Beauty Therapy",
+          "fields": [
+            "Cosmetology",
+            "Rehabilitation and Therapy",
+            "Traditional and Complementary Medicine and Therapy"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Higher Certificate and Diploma",
+          "fields": [
+            "Cosmetology"
+          ]
+        },
+        {
+          "name": "Ptychio / Bachelor's Degree",
+          "fields": [
+            "Cosmetology"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education, Culture, Sport and Youth",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Kyriacos J. Poupoutsis"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Phanie Antoniadou-Poupoutsi"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded in 1982. Specialising in Aesthetics & Beauty Therapy and Professional Make Up",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "25999",
+      "iau_id": "IAU-025999",
+      "name": "University of Central Lancashire - Cyprus",
+      "alt_name": "(UCLAN-Cyprus)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRZLjNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025999",
+      "address": {
+        "Street": "20 Konstantinou Kavafi Street",
+        "City": "Nicosia",
+        "Province": "Aglantzia",
+        "Post Code": "2121",
+        "WWW": "https://www.cyi.ac.cy"
+      },
+      "website": "https://www.cyi.ac.cy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2005,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Greek",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Digital Cultural Heritage",
+          "fields": [
+            "Cultural Studies"
+          ]
+        },
+        {
+          "name": "Course/Programme : Environment and Atmospheric Sciences",
+          "fields": [
+            "Environmental Management",
+            "Environmental Studies",
+            "Meteorology",
+            "Sustainable Development",
+            "Water Science"
+          ]
+        },
+        {
+          "name": "Course/Programme : High Performance Computing and Machine Learning",
+          "fields": [
+            "Artificial Intelligence",
+            "Computer Science",
+            "Data Science",
+            "Mathematics and Computer Science"
+          ]
+        },
+        {
+          "name": "Research Division : Computation-based Science and Technology",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Research Division : Science and Technology in Archaeology",
+          "fields": [
+            "Archaeology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Magister Artium / Magister Scientae",
+          "fields": [
+            "Computer Science",
+            "Environmental Studies",
+            "Heritage Preservation"
+          ]
+        },
+        {
+          "name": "Didactoriko",
+          "fields": [
+            "Computer Engineering",
+            "Environmental Studies",
+            "Heritage Preservation",
+            "Meteorology",
+            "Physics"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education, Culture, Sport and Youth",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Stavros Malas"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Michalis Yiangou"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2005. Programmes commenced 2010-2011. A research institute offering postgraduate programmes",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20338",
+      "iau_id": "IAU-020338",
+      "name": "University of Nicosia",
+      "alt_name": "(UNIC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BTLFNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020338",
+      "address": {
+        "Street": "25 Zannettos Street",
+        "City": "Nicosia",
+        "Post Code": "1100",
+        "WWW": "http://www.cima.ac.cy"
+      },
+      "website": "http://www.cima.ac.cy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1978,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "January to June (January-September; October-June)",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Banking",
+          "fields": [
+            "Banking"
+          ]
+        },
+        {
+          "name": "Course/Programme : Business Administration",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Finance",
+            "Human Resources",
+            "Insurance",
+            "International Business",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Course/Programme : European Studies",
+          "fields": [
+            "European Studies"
+          ]
+        },
+        {
+          "name": "Course/Programme : Financial and Computers Studies",
+          "fields": [
+            "Business Computing",
+            "Finance",
+            "Information Sciences"
+          ]
+        },
+        {
+          "name": "Course/Programme : Insurance",
+          "fields": [
+            "Insurance"
+          ]
+        },
+        {
+          "name": "Course/Programme : Shipping",
+          "fields": [
+            "Marine Transport",
+            "Maritime Law"
+          ]
+        },
+        {
+          "name": "Course/Programme : Tourism Management",
+          "fields": [
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Ptychio / Bachelor's Degree",
+          "fields": [
+            "Business and Commerce"
+          ]
+        },
+        {
+          "name": "Magister Artium / Magister Scientae",
+          "fields": [
+            "Business Administration"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education, Culture, Sport and Youth",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Theo Hadjiyannis"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Yangos Hadjiyannis"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Christia Koursarou"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1978",
+      "periodicals": [
+        "The Global Market",
+        "The Global Market"
+      ],
+      "student_body": "co-ed"
+    }
+  ]
+}

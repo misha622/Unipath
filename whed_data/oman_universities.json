@@ -1,0 +1,4953 @@
+{
+  "country_name": "Oman",
+  "country_id": "Oman",
+  "institutions": [
+    {
+      "id": "25460",
+      "iau_id": "IAU-025460",
+      "name": "A'Sharqiyah University",
+      "alt_name": "(ASU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRULUNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025460",
+      "address": {
+        "Street": "P.O. Box 44",
+        "City": "Sohar",
+        "Post Code": "311",
+        "WWW": "https://www.su.edu.om"
+      },
+      "website": "https://www.su.edu.om",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2001,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Business",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Business Computing",
+            "Commercial Law",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Computing and Information Technology",
+          "fields": [
+            "Business Computing",
+            "Computer Engineering",
+            "Computer Networks",
+            "Computer Science",
+            "Multimedia",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Education and Arts",
+          "fields": [
+            "Arabic",
+            "Curriculum",
+            "Education",
+            "Educational Administration",
+            "Mathematics Education",
+            "Music Education",
+            "Native Language Education",
+            "Physical Education",
+            "Science Education"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Electrical and Electronic Engineering",
+            "Environmental Engineering",
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Language Studies",
+          "fields": [
+            "English",
+            "Foreign Languages Education",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Public Law"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Arabic",
+            "Business and Commerce",
+            "Business Computing",
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Networks",
+            "Electrical and Electronic Engineering",
+            "Information Technology",
+            "Literacy Education",
+            "Management",
+            "Marketing",
+            "Mathematics Education",
+            "Mechanical Engineering",
+            "Media Studies",
+            "Music Education",
+            "Physical Education",
+            "Primary Education",
+            "Public Law",
+            "Software Engineering",
+            "Teacher Trainers Education"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Business Administration",
+            "Computer Science",
+            "Curriculum",
+            "Educational Administration",
+            "Environmental Engineering",
+            "Foreign Languages Education",
+            "Public Law"
+          ]
+        },
+        {
+          "name": "Doctorate",
+          "fields": [
+            "Educational Administration",
+            "Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education and Research Innovation - Oman Authority for Academic Accreditation and Quality Assurance",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Hamdan Al Fazari"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Awadh Ali Al-Ma'mari"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2023-2024",
+        "Students Total:": "11970"
+      },
+      "history": "Located in Sohar, Oman. First private University in Oman, founded 2001. Nationally accredited",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "25487",
+      "iau_id": "IAU-025487",
+      "name": "Al Buraimi University College",
+      "alt_name": "(BUC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRULiM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025487",
+      "address": {
+        "Street": "PO Box 33",
+        "City": "Birkat Al Mouz",
+        "Post Code": "616",
+        "WWW": "https://www.unizwa.edu.om"
+      },
+      "website": "https://www.unizwa.edu.om",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2004,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "September to August",
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "College : Arts and Sciences",
+          "fields": [
+            "Analytical Chemistry",
+            "Applied Chemistry",
+            "Applied Mathematics",
+            "Arabic",
+            "Art Education",
+            "Biological and Life Sciences",
+            "Biotechnology",
+            "Chemistry",
+            "Computer Education",
+            "Computer Networks",
+            "Computer Science",
+            "Curriculum",
+            "Education",
+            "Educational Administration",
+            "Educational and Student Counselling",
+            "English",
+            "Fashion Design",
+            "Foreign Languages Education",
+            "French",
+            "German",
+            "Jewellery Art",
+            "Mathematics",
+            "Multimedia",
+            "Organic Chemistry",
+            "Physics",
+            "Preschool Education",
+            "Science Education",
+            "Software Engineering",
+            "Special Education",
+            "Statistics",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "College : Economics, Administration and Information Systems",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Finance",
+            "International Business",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "College : Engineering and Architecture",
+          "fields": [
+            "Architecture",
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Electrical Engineering",
+            "Environmental Engineering",
+            "Interior Design"
+          ]
+        },
+        {
+          "name": "College : Health Sciences",
+          "fields": [
+            "Nursing",
+            "Occupational Therapy",
+            "Pharmacy",
+            "Physical Therapy",
+            "Speech Therapy and Audiology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Arabic",
+            "Art Education",
+            "Biotechnology",
+            "Business Administration",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civil Engineering",
+            "Computer Education",
+            "Computer Engineering",
+            "Computer Science",
+            "Economics",
+            "Education",
+            "Electrical Engineering",
+            "English",
+            "Environmental Engineering",
+            "Fashion Design",
+            "Finance",
+            "Fine Arts",
+            "Foreign Languages Education",
+            "German",
+            "Information Sciences",
+            "Interior Design",
+            "International Business",
+            "Jewellery Art",
+            "Management",
+            "Marketing",
+            "Mathematics",
+            "Mathematics and Computer Science",
+            "Modern Languages",
+            "Natural Sciences",
+            "Nursing",
+            "Occupational Therapy",
+            "Parks and Recreation",
+            "Pharmacy",
+            "Physical Therapy",
+            "Physics",
+            "Preschool Education",
+            "Science Education",
+            "Special Education",
+            "Speech Therapy and Audiology",
+            "Statistics",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Accountancy",
+            "Analytical Chemistry",
+            "Applied Chemistry",
+            "Applied Mathematics",
+            "Arabic",
+            "Biological and Life Sciences",
+            "Business Administration",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civil Engineering",
+            "Computer Networks",
+            "Computer Science",
+            "Curriculum",
+            "Economics",
+            "Education",
+            "Educational Administration",
+            "Educational and Student Counselling",
+            "English",
+            "Foreign Languages Education",
+            "Information Sciences",
+            "Multimedia",
+            "Organic Chemistry",
+            "Software Engineering",
+            "Teacher Training",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Doctorate",
+          "fields": [
+            "Chemistry",
+            "Educational Administration"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ahmad bin Khalfan Al Rawahi"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Bader Al Sulaimani"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2024-2025",
+        "Staff Full Time Total:": "286",
+        "Students Statistics Year:": "2024-2025",
+        "Students Total:": "6876"
+      },
+      "history": "Founded 2004",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "25455",
+      "iau_id": "IAU-025455",
+      "name": "Al Dakhiliya Nursing Institute",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRULTM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025455",
+      "address": {
+        "Street": "P.O. Box 42",
+        "City": "Ibra",
+        "Post Code": "400",
+        "WWW": "http://www.asu.edu.om"
+      },
+      "website": "http://www.asu.edu.om",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2009,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Professional Development and Continuous Learning",
+          "fields": [
+            "Arabic",
+            "Computer Science",
+            "English",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "College : Applied and Health Sciences",
+          "fields": [
+            "Fishery",
+            "Food Science",
+            "Marine Science and Oceanography",
+            "Nutrition"
+          ]
+        },
+        {
+          "name": "College : Business Administration",
+          "fields": [
+            "Accountancy",
+            "Arts and Humanities",
+            "Business Administration",
+            "Finance",
+            "Information Technology",
+            "Management"
+          ]
+        },
+        {
+          "name": "College : Engineering",
+          "fields": [
+            "Civil Engineering",
+            "Electronic Engineering",
+            "Environmental Engineering",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Department/Division : Language and Foundation Studies",
+          "fields": [
+            "English"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Arts and Humanities",
+            "Civil Engineering",
+            "Construction Engineering",
+            "Electronic Engineering",
+            "Environmental Engineering",
+            "Finance",
+            "Fishery",
+            "Food Science",
+            "Information Technology",
+            "Management",
+            "Marine Science and Oceanography",
+            "Nutrition",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Business Administration"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Abood Al Sawafi"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Fouad Chedid"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2009",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "25453",
+      "iau_id": "IAU-025453",
+      "name": "Al Dhahira Nursing Institute",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRULTMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025453",
+      "address": {
+        "Street": "P.O. Box 77",
+        "City": "Al Buraimi",
+        "Post Code": "512",
+        "WWW": "https://buc.edu.om"
+      },
+      "website": "https://buc.edu.om",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2003,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Foundation",
+          "fields": [
+            "English"
+          ]
+        },
+        {
+          "name": "Course/Programme : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Department/Division : Business Administration and Accounting",
+          "fields": [
+            "Accountancy",
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Department/Division : English Language and Literature",
+          "fields": [
+            "English",
+            "Literature",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Department/Division : Information Technology",
+          "fields": [
+            "Information Technology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "English",
+            "Finance",
+            "Human Resources",
+            "Information Technology",
+            "Law",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Advanced Diploma",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "English",
+            "Finance",
+            "Human Resources",
+            "Information Technology",
+            "Law",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "English",
+            "Finance",
+            "Human Resources",
+            "Information Technology",
+            "Law",
+            "Software Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Yasser Fouad Selim"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Ali Al Abri"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2003",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "25450",
+      "iau_id": "IAU-025450",
+      "name": "Al Rustaq Nursing Institute",
+      "alt_name": "(RNI)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRULTNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025450",
+      "address": {
+        "Street": "P.O. Box 455",
+        "City": "Nizwa",
+        "Post Code": "611"
+      },
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1997,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Midwifery",
+          "fields": [
+            "Midwifery"
+          ]
+        },
+        {
+          "name": "Course/Programme : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Nursing"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Health",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Visitacion O. Bumalay"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1997",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "754",
+      "iau_id": "IAU-000754",
+      "name": "Al Zahra College for Women",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?Jjo2MF0tUzRUCmAK",
+      "iau_link": "https://www.whed.net/institutions/IAU-000754",
+      "address": {
+        "Street": "P.O. Box 75",
+        "City": "Ibri",
+        "Province": "Al-Dhahira",
+        "Post Code": "516"
+      },
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1996,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Midwifery",
+          "fields": [
+            "Midwifery"
+          ]
+        },
+        {
+          "name": "Course/Programme : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Nursing"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Health",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Khamis Abdullah Al-Mezeini"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1996",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "25465",
+      "iau_id": "IAU-025465",
+      "name": "Arab Open University",
+      "alt_name": "(AOU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRULUM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025465",
+      "address": {
+        "Street": "P.O. Box 2",
+        "City": "Rustaq"
+      },
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1994,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Nursing"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Health",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Said Amer Al-Ghenaimi"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1994",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "25482",
+      "iau_id": "IAU-025482",
+      "name": "Bayan College",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRULiMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025482",
+      "address": {
+        "Street": "PO Box 3365",
+        "City": "Muscat",
+        "Post Code": "111",
+        "WWW": "https://www.zcw.edu.om"
+      },
+      "website": "https://www.zcw.edu.om",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1999,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Accountancy",
+          "fields": [
+            "Accountancy"
+          ]
+        },
+        {
+          "name": "Course/Programme : Business Administration",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Course/Programme : Computer Science",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Course/Programme : English Language and Literature",
+          "fields": [
+            "English",
+            "Literature"
+          ]
+        },
+        {
+          "name": "Course/Programme : Finance and Banking",
+          "fields": [
+            "Banking",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Course/Programme : Graphic Design",
+          "fields": [
+            "Graphic Design"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma",
+          "fields": [
+            "Computer Science",
+            "English",
+            "Law",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Computer Science",
+            "English",
+            "Law",
+            "Translation and Interpretation"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Musallam bin Ali bin Salim Al Mani"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1999.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "25470",
+      "iau_id": "IAU-025470",
+      "name": "College of Banking and Financial Studies",
+      "alt_name": "(CBFS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRULVNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025470",
+      "address": {
+        "Street": "P.O. Box 1596",
+        "City": "Muscat/Qurm",
+        "Province": "Al Azaiba",
+        "Post Code": "130",
+        "WWW": "https://www.aou.edu.om"
+      },
+      "website": "https://www.aou.edu.om",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2008,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English",
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : General Foundation",
+          "fields": [
+            "English",
+            "Mathematics and Computer Science"
+          ]
+        },
+        {
+          "name": "Department/Division : Business Studies",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Department/Division : Computer Studies",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Department/Division : Education Studies",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Department/Division : Language Studies",
+          "fields": [
+            "Modern Languages"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma",
+          "fields": [
+            "Business Administration",
+            "Computer Science",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Business Computing",
+            "Computer Networks",
+            "Computer Science",
+            "Economics",
+            "Education",
+            "Information Technology",
+            "Law",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Business Administration",
+            "Educational Administration",
+            "Educational Technology"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Moosa Al Kindi"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2008",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "3721",
+      "iau_id": "IAU-003721",
+      "name": "Dhofar University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sUzxSLDBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003721",
+      "address": {
+        "Street": "P.O. Box 1842P.C. 130Al-Athaibah",
+        "City": "Halban",
+        "Post Code": "130",
+        "WWW": "http://www.bayancollege.edu.om"
+      },
+      "website": "http://www.bayancollege.edu.om",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2006,
+      "type": null,
+      "funding": "Private-for-profit",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : English Studies",
+          "fields": [
+            "English",
+            "Literature",
+            "Writing"
+          ]
+        },
+        {
+          "name": "Department/Division : Media Studies",
+          "fields": [
+            "Advertising and Publicity",
+            "Journalism",
+            "Public Relations",
+            "Radio and Television Broadcasting"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma",
+          "fields": [
+            "Advertising and Publicity",
+            "English",
+            "Journalism",
+            "Literature",
+            "Public Relations",
+            "Radio and Television Broadcasting",
+            "Writing"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Advertising and Publicity",
+            "English",
+            "Journalism",
+            "Literature",
+            "Public Relations",
+            "Radio and Television Broadcasting",
+            "Writing"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Modi Juma Saleh Al Ghailani"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2006",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "25461",
+      "iau_id": "IAU-025461",
+      "name": "German University of Technology in Oman",
+      "alt_name": "(GUtech)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRULUMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025461",
+      "address": {
+        "Street": "PO Box 3122",
+        "City": "Ruwi",
+        "Post Code": "112",
+        "WWW": "https://www.cbfs.edu.om"
+      },
+      "website": "https://www.cbfs.edu.om",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1983,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Executive Education and Training",
+          "fields": [
+            "Insurance"
+          ]
+        },
+        {
+          "name": "Department/Division : Insurance",
+          "fields": [
+            "Insurance"
+          ]
+        },
+        {
+          "name": "Department/Division : Islamic Finance",
+          "fields": [
+            "Finance"
+          ]
+        },
+        {
+          "name": "Department/Division : Postgraduate Studies and Research",
+          "fields": [
+            "Business Administration",
+            "Human Resources"
+          ]
+        },
+        {
+          "name": "Department/Division : Professional Studies",
+          "fields": [
+            "Accountancy",
+            "Insurance",
+            "Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Undergraduate Studies",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Finance",
+            "Human Resources",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Department/Division : Youth Entrepreneuship Support Initiative",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Finance"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Finance"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Zahran Salim Al Salti"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1983",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "25440",
+      "iau_id": "IAU-025440",
+      "name": "Higher College of Technology",
+      "alt_name": "(HCT)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRULSNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025440",
+      "address": {
+        "Street": "P.O. Box 2509",
+        "City": "Salalah",
+        "Post Code": "211",
+        "WWW": "http://www.du.edu.om"
+      },
+      "website": "http://www.du.edu.om",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2004,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "College : Arts and Applied Sciences",
+          "fields": [
+            "Arabic",
+            "Chemistry",
+            "Computer Science",
+            "Education",
+            "English",
+            "Mathematics",
+            "Physics",
+            "Social Work",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "College : Commerce and Business Administration",
+          "fields": [
+            "Accountancy",
+            "Finance",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "College : Engineering",
+          "fields": [
+            "Chemical Engineering",
+            "Computer Engineering",
+            "Electrical Engineering",
+            "Graphic Design",
+            "Interior Design",
+            "Mechanical Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma",
+          "fields": [
+            "Accountancy",
+            "Arabic",
+            "Computer Education",
+            "Computer Engineering",
+            "English",
+            "Finance",
+            "Foreign Languages Education",
+            "Insurance",
+            "Law",
+            "Management",
+            "Marketing",
+            "Mathematics",
+            "Mathematics Education",
+            "Physics",
+            "Science Education",
+            "Social Work",
+            "Teacher Training",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Arabic",
+            "Computer Education",
+            "Computer Engineering",
+            "English",
+            "Finance",
+            "Foreign Languages Education",
+            "Insurance",
+            "Law",
+            "Management",
+            "Marketing",
+            "Mathematics",
+            "Mathematics Education",
+            "Physics",
+            "Science Education",
+            "Social Work",
+            "Teacher Training",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Educational Administration",
+            "Educational and Student Counselling",
+            "English",
+            "Foreign Languages Education",
+            "Information Technology"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Hassan Said Mahad Kashoob"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Abdulrahman Ba Omar"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2004.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "25442",
+      "iau_id": "IAU-025442",
+      "name": "Ibra College of Technology",
+      "alt_name": "(ICT)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRULSMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025442",
+      "address": {
+        "Street": "P.O. Box 1816Athaibah",
+        "City": "Muscat",
+        "Post Code": "130",
+        "WWW": "https://www.gutech.edu.om"
+      },
+      "website": "https://www.gutech.edu.om",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2007,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Business and Economics",
+          "fields": [
+            "Service Trades",
+            "Tourism",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering and Computer Science",
+          "fields": [
+            "Computer Science",
+            "Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Sciences",
+          "fields": [
+            "Earth Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Urban Planning and Architecture",
+          "fields": [
+            "Architecture",
+            "Town Planning"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Architectural and Environmental Design",
+            "Artificial Intelligence",
+            "Computer Science",
+            "Cybersecurity",
+            "Earth Sciences",
+            "Engineering",
+            "Environmental Engineering",
+            "International Business",
+            "Logistics Management",
+            "Mechanical Engineering",
+            "Service Trades",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Architecture",
+            "Business Administration",
+            "Chemical Engineering",
+            "Computer Science",
+            "Earth Sciences",
+            "Industrial Engineering",
+            "Production Engineering",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "Doctorate",
+          "fields": [
+            "Earth Sciences"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education; Accreditation, Certification and Quality Assurance Institute (ACQUIN)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Michael Braun"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Armin Eberlein"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Hussain Sulaiman Al Salmi"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2007 in collaboration with RWTH Aachen University in Germany, and still affiliated to this institution today",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "25447",
+      "iau_id": "IAU-025447",
+      "name": "Ibra Nursing Institute",
+      "alt_name": "(IBRANI)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRULSM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025447",
+      "address": {
+        "Street": "PO Box 74",
+        "City": "Al-Khuwair",
+        "Post Code": "133",
+        "WWW": "http://www.hct.edu.om"
+      },
+      "website": "http://www.hct.edu.om",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1984,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Applied Sciences",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Environmental Studies",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Department/Division : Business Studies",
+          "fields": [
+            "Accountancy",
+            "Human Resources",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Department/Division : Engineering",
+          "fields": [
+            "Civil Engineering",
+            "Structural Architecture",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "Department/Division : Fashion Design",
+          "fields": [
+            "Fashion Design"
+          ]
+        },
+        {
+          "name": "Department/Division : Information Technology",
+          "fields": [
+            "Information Technology",
+            "Mathematics",
+            "Multimedia"
+          ]
+        },
+        {
+          "name": "Department/Division : Pharmacy",
+          "fields": [
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Department/Division : Photography",
+          "fields": [
+            "Photography"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma",
+          "fields": [
+            "Accountancy",
+            "Applied Chemistry",
+            "Biology",
+            "Civil Engineering",
+            "Computer Networks",
+            "Information Technology",
+            "Laboratory Techniques",
+            "Multimedia",
+            "Structural Architecture",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "Advanced Diploma",
+          "fields": [
+            "Accountancy",
+            "Applied Chemistry",
+            "Biology",
+            "Civil Engineering",
+            "Computer Networks",
+            "Information Technology",
+            "Laboratory Techniques",
+            "Multimedia",
+            "Structural Architecture",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Applied Chemistry",
+            "Biology",
+            "Civil Engineering",
+            "Computer Networks",
+            "Information Technology",
+            "Laboratory Techniques",
+            "Multimedia",
+            "Structural Architecture",
+            "Surveying and Mapping"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Manpower",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Khalid Abdulaziz Ambusaidi"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Khalid Salim Abdullah Al Abri"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1984 as Oman Technical Industrial College, acquired current status and title 2001",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "7705",
+      "iau_id": "IAU-007705",
+      "name": "Ibri College of Applied Sciences",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tUzxQLTBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007705",
+      "address": {
+        "Street": "P.O. Box 327",
+        "City": "Ibra",
+        "Post Code": "400",
+        "WWW": "https://www.ict.edu.om"
+      },
+      "website": "https://www.ict.edu.om",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1982,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Educational Technology",
+          "fields": [
+            "Computer Engineering"
+          ]
+        },
+        {
+          "name": "Centre : English Language",
+          "fields": [
+            "English"
+          ]
+        },
+        {
+          "name": "Department/Division : Business Studies",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Department/Division : Engineering",
+          "fields": [
+            "Engineering"
+          ]
+        },
+        {
+          "name": "Department/Division : Information Technology",
+          "fields": [
+            "Computer Engineering",
+            "Information Technology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma",
+          "fields": [
+            "Accountancy",
+            "Computer Engineering",
+            "Computer Networks",
+            "Data Science",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Finance",
+            "Human Resources",
+            "Information Technology",
+            "Mechanical Engineering",
+            "Power Engineering",
+            "Structural Architecture",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Advanced Diploma",
+          "fields": [
+            "Accountancy",
+            "Computer Engineering",
+            "Computer Networks",
+            "Data Science",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Finance",
+            "Human Resources",
+            "Information Technology",
+            "Mechanical Engineering",
+            "Power Engineering",
+            "Structural Architecture",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Computer Engineering",
+            "Computer Networks",
+            "Data Science",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Finance",
+            "Human Resources",
+            "Information Technology",
+            "Mechanical Engineering",
+            "Power Engineering",
+            "Structural Architecture",
+            "Telecommunications Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Manpower",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Azzah Ahmed Said Al-Maskari"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2016-2017",
+        "Staff Full Time Total:": "292",
+        "Students Statistics Year:": "2016-2017",
+        "Students Total:": "4263"
+      },
+      "history": "Founded 1982, governed by the Ministry of Manpower since 2001",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "25443",
+      "iau_id": "IAU-025443",
+      "name": "Ibri College of Technology",
+      "alt_name": "(IBRICT)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRULSMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025443",
+      "address": {
+        "Street": "P.O. Box 407",
+        "City": "Ibra",
+        "Post Code": "400"
+      },
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1993,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Nursing"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Health",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Huda Abu Hamdeh"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1993",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "25457",
+      "iau_id": "IAU-025457",
+      "name": "Institute of Health Sciences",
+      "alt_name": "(IHS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRULTM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025457",
+      "address": {
+        "Street": "PO Box 14",
+        "City": "Ibri",
+        "Post Code": "516",
+        "WWW": "http://ibri.cas.edu.om"
+      },
+      "website": "http://ibri.cas.edu.om",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1995,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Design",
+          "fields": [
+            "Design"
+          ]
+        },
+        {
+          "name": "Course/Programme : Information Technology",
+          "fields": [
+            "Information Technology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Design",
+            "Information Technology"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Rashid Al Hinai"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1995. Formerly College of Education - Ibri. Acquired present status 2007.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "25474",
+      "iau_id": "IAU-025474",
+      "name": "International College of Engineering and Management",
+      "alt_name": "(ICEM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRULVMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025474",
+      "address": {
+        "Street": "P.O. Box 466Al Aqder",
+        "City": "Ibri",
+        "Post Code": "516",
+        "WWW": "https://www.ibrict.edu.om"
+      },
+      "website": "https://www.ibrict.edu.om",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2007,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Educational Technology",
+          "fields": [
+            "English"
+          ]
+        },
+        {
+          "name": "Centre : English Language",
+          "fields": [
+            "English"
+          ]
+        },
+        {
+          "name": "Department/Division : Business Studies",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Human Resources"
+          ]
+        },
+        {
+          "name": "Department/Division : Engineering",
+          "fields": [
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Industrial Engineering",
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "Department/Division : Information Technology",
+          "fields": [
+            "Information Technology",
+            "Mathematics"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Advanced Diploma",
+          "fields": [
+            "Business Administration",
+            "Computer Networks",
+            "Mathematics",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Business Administration",
+            "Computer Networks",
+            "Mathematics",
+            "Software Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Manpower",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Said Masoud Kashoob"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Khalifa Al Shuhomi"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2007",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "25481",
+      "iau_id": "IAU-025481",
+      "name": "International Maritime College Oman",
+      "alt_name": "(IMCO)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRULiMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025481",
+      "address": {
+        "Street": "P.O. Box 3720",
+        "City": "Muscat",
+        "Province": "Ruwi",
+        "Post Code": "112"
+      },
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1982,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Medical Laboratory Sciences",
+          "fields": [
+            "Laboratory Techniques"
+          ]
+        },
+        {
+          "name": "Course/Programme : Oral Health",
+          "fields": [
+            "Oral Pathology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Physiotherapy",
+          "fields": [
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "Course/Programme : Radiography",
+          "fields": [
+            "Radiology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Laboratory Techniques",
+            "Oral Pathology",
+            "Physical Therapy",
+            "Radiology"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Health",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ahmed Salim Abdulla Al-Abri"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1982",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "11308",
+      "iau_id": "IAU-011308",
+      "name": "Majan College",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyRTLCNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-011308",
+      "address": {
+        "Street": "P.O. Box 2511",
+        "City": "Al Irfaan",
+        "Post Code": "111",
+        "WWW": "https://www.icem.edu.om"
+      },
+      "website": "https://www.icem.edu.om",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1995,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Fire Safety Engineering",
+          "fields": [
+            "Safety Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Fire Safety Management",
+          "fields": [
+            "Fire Science"
+          ]
+        },
+        {
+          "name": "Course/Programme : Health, Safety, Environmental Management",
+          "fields": [
+            "Environmental Management",
+            "Health Sciences",
+            "Protective Services"
+          ]
+        },
+        {
+          "name": "Course/Programme : Mechanical Engineering (Well Engineering)",
+          "fields": [
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Facilities Management",
+          "fields": [
+            "Industrial Management",
+            "Occupational Health"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Environmental Management",
+            "Fire Science",
+            "Health Sciences",
+            "Industrial Management",
+            "Mechanical Engineering",
+            "Occupational Health",
+            "Protective Services",
+            "Safety Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ahmad Izzat Jamrah"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1995",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "25486",
+      "iau_id": "IAU-025486",
+      "name": "Mazoon College",
+      "alt_name": "(MUC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRULiM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025486",
+      "address": {
+        "Street": "P.O. Box 532",
+        "City": "Sohar",
+        "Province": "Falaj Al Qabail",
+        "Post Code": "322",
+        "WWW": "http://www.imco.edu.om"
+      },
+      "website": "http://www.imco.edu.om",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2005,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Engineering in Process Engineering",
+          "fields": [
+            "Production Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Logistics and Transport Management",
+          "fields": [
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Marine Engineering (Marine Engineering Officer)",
+          "fields": [
+            "Marine Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Nautical Studies (Deck Officer)",
+          "fields": [
+            "Nautical Science"
+          ]
+        },
+        {
+          "name": "Course/Programme : Postgraduate Studies",
+          "fields": [
+            "Marine Transport"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Marine Engineering",
+            "Nautical Science",
+            "Production Engineering",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Marine Transport"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Hilal Ali Azzan Al Hadhrami"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2005",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "11647",
+      "iau_id": "IAU-011647",
+      "name": "Middle East College",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyRWLSM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-011647",
+      "address": {
+        "Street": "Mutrah, Way No. 2621,Building No. 1986PO Box 710",
+        "City": "Ruwi",
+        "Province": "Muscat",
+        "Post Code": "112",
+        "WWW": "http://www.majancollege.edu.om"
+      },
+      "website": "http://www.majancollege.edu.om",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1995,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Business Administration",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "E-Business/Commerce",
+            "Finance",
+            "Human Resources",
+            "Marketing",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : English Language",
+          "fields": [
+            "English"
+          ]
+        },
+        {
+          "name": "Faculty : Information Technology",
+          "fields": [
+            "Computer Networks",
+            "Computer Science",
+            "Information Technology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Computer Science",
+            "E-Business/Commerce",
+            "English",
+            "Finance",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": []
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Maha Kobeil"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1995.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "11990",
+      "iau_id": "IAU-011990",
+      "name": "Modern College of Business and Science",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyRZLjNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-011990",
+      "address": {
+        "Street": "P.O. Box 101Airport Heights - Seeb",
+        "City": "Muscat",
+        "Post Code": "133",
+        "WWW": "http://muc.edu.om"
+      },
+      "website": "http://muc.edu.om",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1997,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Business Administration and Economics",
+          "fields": [
+            "Business Administration",
+            "Economics"
+          ]
+        },
+        {
+          "name": "Department/Division : Computer Science and Information Technology",
+          "fields": [
+            "Computer Science",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Department/Division : English Language",
+          "fields": [
+            "English"
+          ]
+        },
+        {
+          "name": "Department/Division : General Foundation",
+          "fields": [
+            "English"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Computer Science",
+            "Criminal Law",
+            "Economics",
+            "English",
+            "Finance",
+            "Information Management",
+            "Information Technology",
+            "International Economics",
+            "Leadership",
+            "Management",
+            "Marketing",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "English",
+            "Literature"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Said Eid Younes"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1997",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "25480",
+      "iau_id": "IAU-025480",
+      "name": "Modern College of Business and Science",
+      "alt_name": "(MCBS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRULiNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025480",
+      "address": {
+        "Street": "Wilayat A’Seeb, Al Rusayl, Knowledge Oasis MuscatPO Box 79",
+        "City": "Al Rusayl",
+        "Post Code": "124",
+        "WWW": "http://www.mec.edu.om"
+      },
+      "website": "http://www.mec.edu.om",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Postgraduate Studies",
+          "fields": [
+            "Business Administration",
+            "Engineering",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Department/Division : Civil Engineering",
+          "fields": [
+            "Civil Engineering",
+            "Construction Engineering",
+            "Environmental Engineering",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "Department/Division : Computing",
+          "fields": [
+            "Computer Engineering",
+            "Computer Networks",
+            "Computer Science",
+            "Data Science",
+            "Management Systems",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Department/Division : Electronics and Communications  Engineering",
+          "fields": [
+            "Electronic Engineering",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Department/Division : Management Studies",
+          "fields": [
+            "Accountancy",
+            "Finance",
+            "Human Resources",
+            "Management Systems"
+          ]
+        },
+        {
+          "name": "Department/Division : Mechanical Engineering",
+          "fields": [
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "Department/Division : Records Management and Archival Studies",
+          "fields": [
+            "Archiving",
+            "Documentation Techniques",
+            "Information Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Archiving",
+            "Business Administration",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Networks",
+            "Computer Science",
+            "Construction Engineering",
+            "Data Science",
+            "Documentation Techniques",
+            "Electronic Engineering",
+            "Engineering",
+            "Environmental Engineering",
+            "Finance",
+            "Human Resources",
+            "Information Management",
+            "Library Science",
+            "Management Systems",
+            "Mechanical Engineering",
+            "Software Engineering",
+            "Surveying and Mapping",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Business Administration",
+            "Construction Engineering",
+            "Electronic Engineering",
+            "Information Technology"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Kiran G.R"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Ali Said Ali Al Araimi"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2012-2013",
+        "Staff Full Time Total:": "17",
+        "Students Statistics Year:": "2012-2013",
+        "Students Total:": "4280"
+      },
+      "history": "Created 2002.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "25467",
+      "iau_id": "IAU-025467",
+      "name": "Muscat College",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRULUM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025467",
+      "address": {
+        "Street": "PO Box 100",
+        "City": "Muscat",
+        "Province": "133",
+        "WWW": "http://www.mcbs.edu.om/en"
+      },
+      "website": "http://www.mcbs.edu.om/en",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : ESL (English as a Second Language)",
+          "fields": [
+            "English"
+          ]
+        },
+        {
+          "name": "Department/Division : Business and Economics",
+          "fields": [
+            "Air Transport",
+            "Business Administration",
+            "Economics",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Mathematics and Computer Science",
+          "fields": [
+            "Computer Science",
+            "Information Management",
+            "Information Sciences",
+            "Information Technology",
+            "Mathematics"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Air Transport",
+            "Commercial Law",
+            "Computer Science",
+            "Information Management",
+            "Transport Management"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ahmed Mohammed Al-Naamany"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded in 1996.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "27636",
+      "iau_id": "IAU-027636",
+      "name": "National University of Science and Technology",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzxWLFM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-027636",
+      "address": {
+        "Street": "Bawshar streetP.O. Box 100",
+        "City": "Muscat",
+        "Province": "Al-Khuwair",
+        "Post Code": "133",
+        "WWW": "http://www.mcbs.edu.om"
+      },
+      "website": "http://www.mcbs.edu.om",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1996,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English",
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : English as a Second Language and Academic Preparation (CEAP)",
+          "fields": [
+            "English"
+          ]
+        },
+        {
+          "name": "Department/Division : Business and Economics",
+          "fields": [
+            "Business Administration",
+            "Economics"
+          ]
+        },
+        {
+          "name": "Department/Division : General Education",
+          "fields": [
+            "Mathematics and Computer Science"
+          ]
+        },
+        {
+          "name": "Department/Division : Mathematics and Computer Science",
+          "fields": [
+            "Mathematics and Computer Science"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Air Transport",
+            "Commercial Law",
+            "Computer Science",
+            "Economics",
+            "Finance",
+            "Information Technology",
+            "Marketing",
+            "Occupational Health",
+            "Statistics",
+            "Transport and Communications",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Banking",
+            "Finance",
+            "Information Technology"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education; Oman Accreditation Council",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ahmed Mohammed Al-Naamany"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1996. An affiliation with the University of Missouri, St. Louis, (UMSL), USA",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "12745",
+      "iau_id": "IAU-012745",
+      "name": "Nizwa College of Applied Sciences",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyhXLSM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-012745",
+      "address": {
+        "Street": "P.O. Box 2910",
+        "City": "Ruwi",
+        "Post Code": "112",
+        "WWW": "http://www.muscatcollege.edu.om"
+      },
+      "website": "http://www.muscatcollege.edu.om",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1996,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "Conservatory : Computer Science/Software Engineering",
+          "fields": [
+            "Computer Science",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Computer Science/Computer Systems and Networking",
+          "fields": [
+            "Computer Networks",
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Course/Programme : Project Management",
+          "fields": [
+            "Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Computer Networks",
+            "Computer Science",
+            "Management",
+            "Software Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Yasmin Shannan Al Bulushi"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1996",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "25451",
+      "iau_id": "IAU-025451",
+      "name": "North Batinah Nursing Institute",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRULTMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025451",
+      "address": {
+        "Street": "University Headquarters - Bousher CampusPO Box 620",
+        "City": "Muscat",
+        "Province": "Azaiba",
+        "WWW": "https://nu.edu.om"
+      },
+      "website": "https://nu.edu.om",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "Sept - Jan; Feb - June",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "College : Engineering",
+          "fields": [
+            "Biomedical Engineering",
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Electrical and Electronic Engineering",
+            "Electronics and Automation",
+            "Information Technology",
+            "Mechanical Engineering",
+            "Petroleum and Gas Engineering",
+            "Telecommunications Engineering",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "College : Medicine and Health Sciences",
+          "fields": [
+            "Health Sciences",
+            "Medicine"
+          ]
+        },
+        {
+          "name": "College : Pharmacy",
+          "fields": [
+            "Pharmacy"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Business Computing",
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Electrical and Electronic Engineering",
+            "Mechanical Engineering",
+            "Medicine",
+            "Pharmacy",
+            "Power Engineering",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Chemical Engineering",
+            "Electrical Engineering",
+            "Electronics and Automation",
+            "Engineering Management",
+            "Information Technology",
+            "Transport Management"
+          ]
+        }
+      ],
+      "accreditation": "Oman Authority for Academic Accreditation (OAAA); Accreditation Board for Engineering and Technology (ABET);",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ali Al Bimani"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Salim Al Araimi"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Asemeh Pousti"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2019-2020",
+        "Staff Full Time Male:": "66",
+        "Staff Full Time Female:": "21",
+        "Staff Full Time Total:": "87",
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "3759",
+        "Students Foreign Total:": "555"
+      },
+      "history": "Created in 1996 as Caledonian College of Engineering, acquired current status and title in 2018 following merger with Oman Medical College (created 2001) and the Department of Pharmacy within Oman Medical College.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "25483",
+      "iau_id": "IAU-025483",
+      "name": "Oman College of Management and Technology",
+      "alt_name": "(OCMT)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRULiMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025483",
+      "address": {
+        "Street": "PO Box 699",
+        "City": "Nizwa",
+        "Post Code": "611",
+        "WWW": "https://nizwa.cas.edu.om"
+      },
+      "website": "https://nizwa.cas.edu.om",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1990,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Communication Studies",
+          "fields": [
+            "Communication Studies"
+          ]
+        },
+        {
+          "name": "Department/Division : Design",
+          "fields": [
+            "Design"
+          ]
+        },
+        {
+          "name": "Department/Division : English",
+          "fields": [
+            "English"
+          ]
+        },
+        {
+          "name": "Department/Division : International Business Administration",
+          "fields": [
+            "International Business"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Communication Studies",
+            "International Business"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Said bin Khalaf Al Nabhani"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1990. Formerly College of Education - Nizwa. Acquired present status 2007.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "25479",
+      "iau_id": "IAU-025479",
+      "name": "Oman Dental College",
+      "alt_name": "(ODC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRULVNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025479",
+      "address": {
+        "Street": "P.O. Box 887",
+        "City": "Sohar",
+        "Post Code": "311"
+      },
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1996,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Midwifery",
+          "fields": [
+            "Midwifery"
+          ]
+        },
+        {
+          "name": "Course/Programme : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Nursing"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Health",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Fatma Hamood Al Muqbali"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1996",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "25454",
+      "iau_id": "IAU-025454",
+      "name": "Oman Health Information Management Institute",
+      "alt_name": "(OHIMI)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRULTMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025454",
+      "address": {
+        "Street": "P.O. Box 680",
+        "City": "Barka",
+        "Post Code": "320",
+        "WWW": "http://ocmtbeta.iitcoman.com"
+      },
+      "website": "http://ocmtbeta.iitcoman.com",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2004,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : General Foundation",
+          "fields": [
+            "English"
+          ]
+        },
+        {
+          "name": "Department/Division : Administrative and Financial Sciences",
+          "fields": [
+            "Administration",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Department/Division : Computer Sciences",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Department/Division : Interior Design",
+          "fields": [
+            "Interior Design"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Computer Science",
+            "E-Business/Commerce",
+            "Finance",
+            "Information Technology",
+            "Interior Design",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Computer Science",
+            "E-Business/Commerce",
+            "Finance",
+            "Information Technology",
+            "Interior Design",
+            "Marketing"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Waleed Hmedat"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2004",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "25456",
+      "iau_id": "IAU-025456",
+      "name": "Oman Nursing Institute",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRULTM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025456",
+      "address": {
+        "Street": "P.O. Box 835",
+        "City": "Muscat",
+        "Province": "Mina Al Fahal",
+        "Post Code": "116",
+        "WWW": "https://www.odc.edu.om"
+      },
+      "website": "https://www.odc.edu.om",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2006,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Dental Surgery",
+          "fields": [
+            "Dentistry"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Dentistry"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Rahul Arora"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2006. Has an academic affiliation with the University Complutense of Madrid (UCM).",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "25459",
+      "iau_id": "IAU-025459",
+      "name": "Oman Pharmacy Institute",
+      "alt_name": "Oman Assistant Pharmacy Institute (OPI)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRULTNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025459",
+      "address": {
+        "Street": "P.O. Box 100",
+        "City": "Muscat",
+        "Post Code": "393",
+        "WWW": "http://www.ohimi.net"
+      },
+      "website": "http://www.ohimi.net",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2002,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Health Information Management",
+          "fields": [
+            "Information Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma",
+          "fields": [
+            "Information Management"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Information Management"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Health",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Salim bin Abdullah Al Salmi"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Mona Salem Humaid Al Jasassi"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2002",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "25458",
+      "iau_id": "IAU-025458",
+      "name": "Oman Specialized Nursing Institute",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRULTNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025458",
+      "address": {
+        "Street": "P.O. Box 3720 Ruwi",
+        "City": "Muscat /Wattayah",
+        "Post Code": "112"
+      },
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2000,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Nursing"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Health",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Salem Said Jaroof Al Touby"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2000, merged with Muscat Nursing Institute 2012",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "25485",
+      "iau_id": "IAU-025485",
+      "name": "Oman Tourism College",
+      "alt_name": "(OTC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRULiM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025485",
+      "address": {
+        "Street": "P.O. Box 1928",
+        "City": "Matrah",
+        "Post Code": "114"
+      },
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1991,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Pharmacy",
+          "fields": [
+            "Pharmacy"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Pharmacy"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Health; Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Moustafa Fahmy Abdel-Kreem"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1991",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "14148",
+      "iau_id": "IAU-014148",
+      "name": "Rustaq College of Education",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzBRLSNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-014148",
+      "address": {
+        "Street": "P.O. Box 634",
+        "City": "Mutrah - Al-Wataya",
+        "Province": "Hai Mina",
+        "Post Code": "114"
+      },
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2001,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Community Health",
+          "fields": [
+            "Community Health"
+          ]
+        },
+        {
+          "name": "Course/Programme : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Midwifery"
+          ]
+        },
+        {
+          "name": "Postgraduate Diploma",
+          "fields": [
+            "Community Health",
+            "Epidemiology",
+            "Health Administration",
+            "Health Sciences",
+            "Midwifery",
+            "Nephrology",
+            "Nursing",
+            "Paediatrics",
+            "Psychiatry and Mental Health"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Health",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Abdullah Rashid Al-Battashi"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2001",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "14333",
+      "iau_id": "IAU-014333",
+      "name": "Salalah College of Applied Sciences",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzBTLFMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-014333",
+      "address": {
+        "Street": "P.O. Box 2008, C.P.O",
+        "City": "Seeb",
+        "Post Code": "111",
+        "WWW": "http://www.otc.edu.om"
+      },
+      "website": "http://www.otc.edu.om",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2001,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Hospitality and Training",
+          "fields": [
+            "Hotel and Restaurant"
+          ]
+        },
+        {
+          "name": "Department/Division : Language Studies",
+          "fields": [
+            "Modern Languages"
+          ]
+        },
+        {
+          "name": "Department/Division : Tourism and Management",
+          "fields": [
+            "Management",
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma",
+          "fields": [
+            "Hotel and Restaurant",
+            "Management",
+            "Marketing",
+            "Public Relations",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Hotel and Restaurant",
+            "Management",
+            "Marketing",
+            "Public Relations",
+            "Tourism"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Abdulkarim bin Sultan Al Mughairi"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2001",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "25441",
+      "iau_id": "IAU-025441",
+      "name": "Salalah College of Technology",
+      "alt_name": "(SCT)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRULSMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025441",
+      "address": {
+        "Street": "PO Box 10",
+        "City": "Al Rustaq",
+        "Post Code": "329",
+        "WWW": "https://rustaq.cas.edu.om"
+      },
+      "website": "https://rustaq.cas.edu.om",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1987,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : English",
+          "fields": [
+            "English"
+          ]
+        },
+        {
+          "name": "Department/Division : Information Technology",
+          "fields": [
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Department/Division : International Business Administration",
+          "fields": [
+            "International Business"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "English",
+            "Information Technology",
+            "International Business"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ahmed Humaid Al Badri"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1987. Formerly College of Education - Al Rustaq. Acquired present status 2007. Formerly known as Rustaq College of Applied Sciences",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "25448",
+      "iau_id": "IAU-025448",
+      "name": "Salalah Nursing Institute",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRULSNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025448",
+      "address": {
+        "Street": "PO Box 347",
+        "City": "Salalah",
+        "Post Code": "215",
+        "WWW": "https://salalah.cas.edu.om"
+      },
+      "website": "https://salalah.cas.edu.om",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1996,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Communication Studies",
+          "fields": [
+            "Mass Communication"
+          ]
+        },
+        {
+          "name": "Department/Division : Information Technology",
+          "fields": [
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Department/Division : International Business Administration",
+          "fields": [
+            "International Business"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Business Administration",
+            "Information Technology",
+            "Mass Communication"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ahmed Balkhair"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1996. Formerly College of Education - Salalah. Acquired present status 2007.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "25466",
+      "iau_id": "IAU-025466",
+      "name": "Scientific College of Design",
+      "alt_name": "(SCD)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRULUM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025466",
+      "address": {
+        "Street": "Thumrait Rd. SalalahDhofar",
+        "City": "Salalah",
+        "Post Code": "608",
+        "WWW": "https://www.sct.edu.om"
+      },
+      "website": "https://www.sct.edu.om",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1979,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Business Studies",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Department/Division : Engineering",
+          "fields": [
+            "Engineering"
+          ]
+        },
+        {
+          "name": "Department/Division : Information Technology",
+          "fields": [
+            "Information Technology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma",
+          "fields": [
+            "Accountancy",
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Electrical Engineering",
+            "Human Resources",
+            "Industrial Engineering",
+            "Mechanical Engineering",
+            "Power Engineering",
+            "Structural Architecture",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "Advanced Diploma",
+          "fields": [
+            "Accountancy",
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Electrical Engineering",
+            "Human Resources",
+            "Industrial Engineering",
+            "Mechanical Engineering",
+            "Power Engineering",
+            "Structural Architecture",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Electrical Engineering",
+            "Human Resources",
+            "Industrial Engineering",
+            "Mechanical Engineering",
+            "Power Engineering",
+            "Structural Architecture",
+            "Surveying and Mapping"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Manpower",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Hamdan Al Manthari"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1979",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "25446",
+      "iau_id": "IAU-025446",
+      "name": "Shinas College of Technology",
+      "alt_name": "(ShCT)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRULSM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025446",
+      "address": {
+        "Street": "P.O. Box 2935",
+        "City": "Salalah",
+        "Province": "Dhofar",
+        "Post Code": "211"
+      },
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1991,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Nursing"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Health",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Muna Shaaban Ajzoon"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1991",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "15514",
+      "iau_id": "IAU-015514",
+      "name": "Sohar College of Applied Sciences",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzRVLDMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-015514",
+      "address": {
+        "Street": "PO Box 1656, PC 114",
+        "City": "Muscat",
+        "WWW": "https://scd.edu.om"
+      },
+      "website": "https://scd.edu.om",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2004,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "October to July",
+      "languages": [
+        "English",
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Architecture and Interior Design",
+          "fields": [
+            "Architecture",
+            "Interior Design"
+          ]
+        },
+        {
+          "name": "Department/Division : English Language Basic Sciences and Humanities",
+          "fields": [
+            "Arts and Humanities",
+            "English",
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "Department/Division : Fashion Design",
+          "fields": [
+            "Fashion Design"
+          ]
+        },
+        {
+          "name": "Department/Division : Fine Arts",
+          "fields": [
+            "Fine Arts"
+          ]
+        },
+        {
+          "name": "Department/Division : Graphic Design",
+          "fields": [
+            "Graphic Design"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Architecture",
+            "Computer Graphics",
+            "Fashion Design",
+            "Fine Arts",
+            "Graphic Design",
+            "Interior Design",
+            "Photography",
+            "Printing and Printmaking",
+            "Visual Arts"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Fine Arts",
+            "Interior Design"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Mona Ismail"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Imad Adel"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2020-2021",
+        "Staff Full Time Total:": "23",
+        "Students Statistics Year:": "2020-2021",
+        "Students Total:": "1222"
+      },
+      "history": "Founded 2004",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "25449",
+      "iau_id": "IAU-025449",
+      "name": "Sohar Nursing Institute",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRULSNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025449",
+      "address": {
+        "Street": "Al-AqurP.O. Box 77",
+        "City": "Shinas",
+        "Post Code": "324",
+        "WWW": "https://www.shct.edu.om"
+      },
+      "website": "https://www.shct.edu.om",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2005,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : English Language",
+          "fields": [
+            "English"
+          ]
+        },
+        {
+          "name": "Department/Division : Business Studies",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Department/Division : Engineering",
+          "fields": [
+            "Engineering"
+          ]
+        },
+        {
+          "name": "Department/Division : Informational Technology",
+          "fields": [
+            "Information Technology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Advanced Diploma",
+          "fields": [
+            "Accountancy",
+            "Civil Engineering",
+            "Computer Networks",
+            "Data Science",
+            "Electrical Engineering",
+            "Human Resources",
+            "Information Technology",
+            "Mechanical Engineering",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Civil Engineering",
+            "Computer Networks",
+            "Data Science",
+            "Electrical Engineering",
+            "Human Resources",
+            "Information Technology",
+            "Mechanical Engineering",
+            "Software Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Manpower",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ahmed Mohammed Al-Mamari"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2005",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "15941",
+      "iau_id": "IAU-015941",
+      "name": "Sultan Qaboos University",
+      "alt_name": "(SQU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzRZLSMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-015941",
+      "address": {
+        "Street": "PO Box 135",
+        "City": "Sohar",
+        "Post Code": "311",
+        "WWW": "https://sohar.cas.edu.om"
+      },
+      "website": "https://sohar.cas.edu.om",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1994,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Engineering",
+          "fields": [
+            "Engineering"
+          ]
+        },
+        {
+          "name": "Department/Division : Information Technology",
+          "fields": [
+            "Information Technology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Engineering",
+            "Information Technology"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [],
+      "statistics": {},
+      "history": "Founded 1994. Formerly College of Education - Sohar. Acquired present status 2007.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "15977",
+      "iau_id": "IAU-015977",
+      "name": "Sur College of Applied Sciences",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzRZLVM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-015977",
+      "address": {
+        "Street": "P.O. Box 299",
+        "City": "Sohar",
+        "Province": "Al Batinah North Governorate",
+        "Post Code": "311"
+      },
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1991,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Nursing"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Health",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ahmed Mahmoud Faraj"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1991",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "25452",
+      "iau_id": "IAU-025452",
+      "name": "Sur Nursing Institute",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRULTMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025452",
+      "address": {
+        "Street": "P.O. Box 34, Al-Khod",
+        "City": "Muscat",
+        "Post Code": "123",
+        "WWW": "http://www.squ.edu.om"
+      },
+      "website": "http://www.squ.edu.om",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1980,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June (September-January; February-June)",
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Community Services and Continuing Education",
+          "fields": [
+            "Continuing Education",
+            "Social and Community Services"
+          ]
+        },
+        {
+          "name": "Centre : Educational Technology",
+          "fields": [
+            "Educational Technology"
+          ]
+        },
+        {
+          "name": "Centre : Human Resource and Staff Development",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Centre : Information Systems",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Centre : Language",
+          "fields": [
+            "Linguistics",
+            "Modern Languages"
+          ]
+        },
+        {
+          "name": "College : Agriculture and Marine Sciences",
+          "fields": [
+            "Agricultural Engineering",
+            "Agriculture",
+            "Animal Husbandry",
+            "Crop Production",
+            "Economics",
+            "Fishery",
+            "Food Science",
+            "Marine Science and Oceanography",
+            "Natural Resources",
+            "Nutrition",
+            "Soil Management",
+            "Veterinary Science",
+            "Water Management",
+            "Water Science"
+          ]
+        },
+        {
+          "name": "College : Arts and Social Sciences",
+          "fields": [
+            "Arabic",
+            "Archaeology",
+            "Arts and Humanities",
+            "Communication Studies",
+            "English",
+            "Geography",
+            "History",
+            "Information Sciences",
+            "Journalism",
+            "Library Science",
+            "Social and Community Services",
+            "Social Sciences",
+            "Sociology",
+            "Theatre",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "College : Economics and Political Sciences",
+          "fields": [
+            "Accountancy",
+            "Business Computing",
+            "Economics",
+            "Finance",
+            "Management",
+            "Marketing",
+            "Statistics",
+            "Systems Analysis"
+          ]
+        },
+        {
+          "name": "College : Education",
+          "fields": [
+            "Art Education",
+            "Curriculum",
+            "Education",
+            "Educational Administration",
+            "Educational Psychology",
+            "Educational Technology",
+            "Islamic Studies",
+            "Pedagogy",
+            "Physical Education",
+            "Preschool Education",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "College : Engineering",
+          "fields": [
+            "Architecture",
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Electrical Engineering",
+            "Engineering",
+            "Industrial Engineering",
+            "Mechanical Engineering",
+            "Mining Engineering",
+            "Petroleum and Gas Engineering"
+          ]
+        },
+        {
+          "name": "College : Law",
+          "fields": [
+            "Criminal Law",
+            "Law",
+            "Public Law"
+          ]
+        },
+        {
+          "name": "College : Medicine and Health Sciences",
+          "fields": [
+            "Anaesthesiology",
+            "Anatomy",
+            "Behavioural Sciences",
+            "Biochemistry",
+            "Child Care and Development",
+            "Community Health",
+            "Epidemiology",
+            "Haematology",
+            "Health Sciences",
+            "Immunology",
+            "Medicine",
+            "Microbiology",
+            "Obstetrics and Gynaecology",
+            "Ophthalmology",
+            "Oral Pathology",
+            "Paediatrics",
+            "Pathology",
+            "Pharmacology",
+            "Physiology",
+            "Radiology",
+            "Statistics",
+            "Surgery"
+          ]
+        },
+        {
+          "name": "College : Nursing",
+          "fields": [
+            "Community Health",
+            "Nursing",
+            "Psychiatry and Mental Health"
+          ]
+        },
+        {
+          "name": "College : Science",
+          "fields": [
+            "Applied Chemistry",
+            "Biology",
+            "Biotechnology",
+            "Chemistry",
+            "Computer Science",
+            "Earth Sciences",
+            "Geophysics",
+            "Laboratory Techniques",
+            "Mathematics",
+            "Medical Technology",
+            "Natural Sciences",
+            "Physics",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Research Division : Communication",
+          "fields": [
+            "Seismology"
+          ]
+        },
+        {
+          "name": "Research Division : Earthquake Monitoring",
+          "fields": [
+            "Seismology"
+          ]
+        },
+        {
+          "name": "Research Division : Environmental Studies and Research",
+          "fields": [
+            "Environmental Studies"
+          ]
+        },
+        {
+          "name": "Research Division : Oil and Gas",
+          "fields": [
+            "Geography",
+            "Information Technology",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "Research Division : Omani",
+          "fields": [
+            "Geography",
+            "Information Technology",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "Research Division : Remote Sensing and Geographical Information System",
+          "fields": [
+            "Geography",
+            "Information Technology",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "Research Division : Water Science",
+          "fields": [
+            "Water Science"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Agriculture",
+            "Economics",
+            "Education",
+            "Engineering",
+            "Law",
+            "Marine Science and Oceanography",
+            "Medicine",
+            "Natural Sciences",
+            "Nursing",
+            "Political Sciences",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Postgraduate Diploma",
+          "fields": [
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Advertising and Publicity",
+            "Agricultural Engineering",
+            "Anatomy",
+            "Applied Mathematics",
+            "Arabic",
+            "Architecture",
+            "Biochemistry",
+            "Biology",
+            "Business Administration",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civil Engineering",
+            "Commercial Law",
+            "Communication Arts",
+            "Computer Engineering",
+            "Computer Networks",
+            "Computer Science",
+            "Criminal Law",
+            "Crop Production",
+            "Curriculum",
+            "Educational Administration",
+            "Electrical Engineering",
+            "Environmental Studies",
+            "Foreign Languages Education",
+            "Geography",
+            "Humanities and Social Science Education",
+            "Industrial Engineering",
+            "Information Sciences",
+            "International Relations and Diplomacy",
+            "Irrigation",
+            "Journalism",
+            "Marine Science and Oceanography",
+            "Mass Communication",
+            "Mathematics",
+            "Mathematics Education",
+            "Mechanical Engineering",
+            "Media Studies",
+            "Microbiology",
+            "Molecular Biology",
+            "Natural Resources",
+            "Nursing",
+            "Petroleum and Gas Engineering",
+            "Physics",
+            "Physiology",
+            "Power Engineering",
+            "Private Law",
+            "Psychology",
+            "Public Law",
+            "Public Relations",
+            "Science Education",
+            "Social Work",
+            "Sociology",
+            "Soil Management",
+            "Soil Science",
+            "Sports Management",
+            "Statistics",
+            "Teacher Training",
+            "Tourism",
+            "Water Management",
+            "Water Science"
+          ]
+        },
+        {
+          "name": "Doctorate",
+          "fields": [
+            "Applied Mathematics",
+            "Arabic",
+            "Biochemistry",
+            "Biology",
+            "Chemical Engineering",
+            "Chemistry",
+            "Civil Engineering",
+            "Computer Science",
+            "Crop Production",
+            "Curriculum",
+            "Education",
+            "Educational Administration",
+            "Electrical Engineering",
+            "Epidemiology",
+            "Fishery",
+            "Foreign Languages Education",
+            "Genetics",
+            "Harvest Technology",
+            "Humanities and Social Science Education",
+            "Industrial Engineering",
+            "Information Sciences",
+            "Irrigation",
+            "Marine Science and Oceanography",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Natural Resources",
+            "Petroleum and Gas Engineering",
+            "Physics",
+            "Physiology",
+            "Statistics",
+            "Teacher Training",
+            "Water Management",
+            "Water Science"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ali Al-Bimani"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Fahad Al-Wadhahi"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1980 with construction starting 1983. First students admitted 1986. An autonomous institution.",
+      "periodicals": [
+        "Journal for Scientific Research - Agricultural Science Journal for Scientific Research - Medical Science Journal for Scientific Research - Science and Technology Journal of Scientific Research - Engineering",
+        "Journal for Scientific Research - Agricultural Science",
+        "Journal for Scientific Research - Medical Science",
+        "Journal for Scientific Research - Science and Technology",
+        "Journal of Scientific Research - Engineering"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "25462",
+      "iau_id": "IAU-025462",
+      "name": "University of Buraimi",
+      "alt_name": "(UOB)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRULUMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025462",
+      "address": {
+        "Street": "PO Box 484",
+        "City": "Sur",
+        "Post Code": "411",
+        "WWW": "https://sur.cas.edu.om"
+      },
+      "website": "https://sur.cas.edu.om",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1987,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Applied Biotechnology",
+          "fields": [
+            "Biotechnology"
+          ]
+        },
+        {
+          "name": "Department/Division : English",
+          "fields": [
+            "English"
+          ]
+        },
+        {
+          "name": "Department/Division : Information Technology",
+          "fields": [
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Department/Division : Mass Communication Department",
+          "fields": [
+            "Communication Studies"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Biotechnology",
+            "Communication Studies",
+            "Information Technology"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Salma Al-Musharafi"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1987. Formerly College of Education - Sur. Acquired present status 2007.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "31021",
+      "iau_id": "IAU-031021",
+      "name": "University of Technology and Applied Sciences",
+      "alt_name": "(UTAS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sUyRQLEMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-031021",
+      "address": {
+        "Street": "P.O. Box 618",
+        "City": "Sur",
+        "Province": "Governorate of South Sharqiya",
+        "Post Code": "411"
+      },
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1991,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Nursing"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Health",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Nadia Mohammed Mahmoud"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1991",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "25445",
+      "iau_id": "IAU-031021-025445",
+      "name": "University of Technology and Applied Sciences – University of Technology and Applied Sciences - Musanna",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRULSM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-031021-025445",
+      "address": {
+        "Street": "P.O. Box 890",
+        "City": "Al Buraimi",
+        "Post Code": "512",
+        "WWW": "https://www.uob.edu.om"
+      },
+      "website": "https://www.uob.edu.om",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2010,
+      "type": null,
+      "funding": "Private-for-profit",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Foundation Studies",
+          "fields": [
+            "English",
+            "Information Technology",
+            "Mathematics"
+          ]
+        },
+        {
+          "name": "College : Business",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "College : Engineering",
+          "fields": [
+            "Engineering"
+          ]
+        },
+        {
+          "name": "College : Health Sciences",
+          "fields": [
+            "Health Sciences"
+          ]
+        },
+        {
+          "name": "College : Law",
+          "fields": [
+            "Law"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Banking",
+            "Business Administration",
+            "Civil Engineering",
+            "Computer Engineering",
+            "E-Business/Commerce",
+            "Finance",
+            "Information Technology",
+            "Interior Design",
+            "International Business",
+            "Management",
+            "Mechanical Engineering",
+            "Nursing",
+            "Optometry",
+            "Structural Architecture",
+            "Telecommunications Engineering",
+            "Transport Management"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Nabil Hassen El Kadhi"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Khalid Juma Shaheen Al Balushi"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2010",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "25444",
+      "iau_id": "IAU-031021-025444",
+      "name": "University of Technology and Applied Sciences – University of Technology and Applied Sciences - Nizwa",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRULSMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-031021-025444",
+      "address": {
+        "Street": "PO Box 74, Al Khuwair",
+        "City": "Muscat",
+        "Post Code": "133",
+        "WWW": "https://www.utas.edu.om"
+      },
+      "website": "https://www.utas.edu.om",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "College : Applied Sciences and Pharmacy",
+          "fields": [
+            "Applied Chemistry",
+            "Biology",
+            "Biotechnology",
+            "Environmental Studies",
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "College : Computing and Information Sciences",
+          "fields": [
+            "Artificial Intelligence",
+            "Computer Networks",
+            "Computer Science",
+            "Cybersecurity",
+            "Information Sciences",
+            "Software Engineering",
+            "Telecommunications Technology"
+          ]
+        },
+        {
+          "name": "College : Creative Industries",
+          "fields": [
+            "Advertising and Publicity",
+            "Design",
+            "Fashion Design",
+            "Graphic Design",
+            "Interior Design",
+            "Journalism",
+            "Mass Communication",
+            "Multimedia",
+            "Photography",
+            "Public Relations"
+          ]
+        },
+        {
+          "name": "College : Economics and Business Administration",
+          "fields": [
+            "Accountancy",
+            "Business Computing",
+            "E-Business/Commerce",
+            "Hotel Management",
+            "Human Resources",
+            "Logistics Management",
+            "Marketing",
+            "Retailing and Wholesaling",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "College : Education",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "English",
+            "Foreign Languages Education",
+            "Mathematics",
+            "Mathematics Education",
+            "Physics",
+            "Science Education"
+          ]
+        },
+        {
+          "name": "College : Engineering and Technology",
+          "fields": [
+            "Architecture",
+            "Biomedical Engineering",
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Construction Engineering",
+            "Electrical Engineering",
+            "Mechanical Engineering",
+            "Petroleum and Gas Engineering",
+            "Surveying and Mapping",
+            "Telecommunications Technology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma",
+          "fields": [
+            "Accountancy",
+            "Advertising and Publicity",
+            "Applied Chemistry",
+            "Artificial Intelligence",
+            "Biology",
+            "Biomedical Engineering",
+            "Biotechnology",
+            "Business Computing",
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Networks",
+            "Computer Science",
+            "Construction Engineering",
+            "Cybersecurity",
+            "E-Business/Commerce",
+            "Electrical Engineering",
+            "Environmental Studies",
+            "Fashion Design",
+            "Foreign Languages Education",
+            "Graphic Design",
+            "Human Resources",
+            "Information Sciences",
+            "Interior Design",
+            "Journalism",
+            "Marketing",
+            "Mathematics Education",
+            "Mechanical Engineering",
+            "Multimedia",
+            "Public Relations",
+            "Science Education",
+            "Software Engineering",
+            "Surveying and Mapping",
+            "Telecommunications Technology",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Advanced Diploma",
+          "fields": [
+            "Accountancy",
+            "Advertising and Publicity",
+            "Applied Chemistry",
+            "Artificial Intelligence",
+            "Biology",
+            "Biomedical Engineering",
+            "Biotechnology",
+            "Business Computing",
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Networks",
+            "Computer Science",
+            "Construction Engineering",
+            "Cybersecurity",
+            "E-Business/Commerce",
+            "Electrical Engineering",
+            "Environmental Studies",
+            "Fashion Design",
+            "Foreign Languages Education",
+            "Graphic Design",
+            "Human Resources",
+            "Information Sciences",
+            "Interior Design",
+            "Journalism",
+            "Marketing",
+            "Mathematics Education",
+            "Mechanical Engineering",
+            "Multimedia",
+            "Public Relations",
+            "Science Education",
+            "Software Engineering",
+            "Surveying and Mapping",
+            "Telecommunications Technology",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Advertising and Publicity",
+            "Applied Chemistry",
+            "Artificial Intelligence",
+            "Biology",
+            "Biomedical Engineering",
+            "Biotechnology",
+            "Business Computing",
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Networks",
+            "Computer Science",
+            "Construction Engineering",
+            "Cybersecurity",
+            "E-Business/Commerce",
+            "Electrical Engineering",
+            "Environmental Studies",
+            "Fashion Design",
+            "Foreign Languages Education",
+            "Graphic Design",
+            "Human Resources",
+            "Information Sciences",
+            "Interior Design",
+            "Journalism",
+            "Marketing",
+            "Mathematics Education",
+            "Mechanical Engineering",
+            "Multimedia",
+            "Public Relations",
+            "Science Education",
+            "Software Engineering",
+            "Surveying and Mapping",
+            "Telecommunications Technology",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Education",
+            "Energy Engineering",
+            "Food Science",
+            "Leadership",
+            "Mining Engineering",
+            "Taxation"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Said Hamed Al Rubaie"
+        }
+      ],
+      "statistics": {},
+      "history": "Created 2020 following merger between the College of Technology and the College of Applied Sciences.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "21122",
+      "iau_id": "IAU-021122",
+      "name": "Waljat College of Applied Sciences",
+      "alt_name": "(WCAS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyRRLEMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-021122",
+      "address": {
+        "Street": "PO Box 191",
+        "City": "Muladdah",
+        "Province": "Musanna",
+        "Post Code": "314",
+        "WWW": "https://www.utas.edu.om/mussana"
+      },
+      "website": "https://www.utas.edu.om/mussana",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1993,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Business Studies",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Hotel Management",
+            "Human Resources",
+            "Logistics Management",
+            "Marketing",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Department/Division : Engineering",
+          "fields": [
+            "Engineering"
+          ]
+        },
+        {
+          "name": "Department/Division : Information Technology",
+          "fields": [
+            "Artificial Intelligence",
+            "Computer Networks",
+            "Cybersecurity",
+            "Information Technology",
+            "Software Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diploma",
+          "fields": [
+            "Accountancy",
+            "Artificial Intelligence",
+            "Business Administration",
+            "Computer Networks",
+            "Cybersecurity",
+            "Engineering",
+            "Hotel Management",
+            "Human Resources",
+            "Information Technology",
+            "Logistics Management",
+            "Marketing",
+            "Software Engineering",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Advanced Diploma",
+          "fields": [
+            "Accountancy",
+            "Artificial Intelligence",
+            "Business Administration",
+            "Computer Networks",
+            "Cybersecurity",
+            "Engineering",
+            "Hotel Management",
+            "Human Resources",
+            "Information Technology",
+            "Logistics Management",
+            "Marketing",
+            "Software Engineering",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Artificial Intelligence",
+            "Business Administration",
+            "Computer Networks",
+            "Cybersecurity",
+            "Engineering",
+            "Hotel Management",
+            "Human Resources",
+            "Information Technology",
+            "Logistics Management",
+            "Marketing",
+            "Software Engineering",
+            "Tourism"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Manpower",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Nasser Salim Al-Bimani"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1993 through the upgrade of a vocational training institute into a fullly-fledged technical college called Al Musanna College of Technology. In 2020 became a constituent branch of the University of Technology and Applied Sciences.",
+      "periodicals": [],
+      "student_body": null
+    }
+  ]
+}

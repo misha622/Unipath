@@ -1,0 +1,181 @@
+{
+  "country_name": "Luxembourg",
+  "country_id": "Luxembourg",
+  "institutions": [
+    {
+      "id": "19698",
+      "iau_id": "IAU-019698",
+      "name": "University of Luxembourg",
+      "alt_name": "Université du Luxembourg (UL)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RWLjNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019698",
+      "address": {
+        "Street": "Maison du Savoir2, Avenue de l'Université",
+        "City": "Esch-sur-Alzette",
+        "Post Code": "4365",
+        "WWW": "https://www.uni.lu"
+      },
+      "website": "https://www.uni.lu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1848,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June (September-January; February-June)",
+      "languages": [
+        "French",
+        "English",
+        "German"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Faculty of Language and Literature, Humanities, Arts and Education",
+          "fields": [
+            "Architecture",
+            "Arts and Humanities",
+            "Education",
+            "Educational Sciences",
+            "English",
+            "European Studies",
+            "French",
+            "Geography",
+            "German",
+            "History",
+            "Literature",
+            "Philosophy",
+            "Psychology",
+            "Secondary Education",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Law, Economics and Finance",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Civil Law",
+            "Commercial Law",
+            "Criminal Law",
+            "Economics",
+            "European Union Law",
+            "Finance",
+            "International Law",
+            "Law",
+            "Management",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Faculty : Science, Technology and Communication",
+          "fields": [
+            "Animal Husbandry",
+            "Biomedicine",
+            "Civil Engineering",
+            "Computer Science",
+            "Engineering",
+            "Environmental Studies",
+            "Information Technology",
+            "Mathematics",
+            "Natural Sciences",
+            "Physics",
+            "Technology",
+            "Veterinary Science"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Biology",
+            "Computer Science",
+            "Cultural Studies",
+            "Economics",
+            "Educational Sciences",
+            "Engineering",
+            "History",
+            "Law",
+            "Management",
+            "Mathematics",
+            "Medicine",
+            "Pharmacy",
+            "Philosophy",
+            "Physics",
+            "Psychology",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Accountancy",
+            "Civil Engineering",
+            "Computer Science",
+            "Environmental Studies",
+            "Finance",
+            "Geography",
+            "Gerontology",
+            "Government",
+            "History",
+            "Law",
+            "Mathematics",
+            "Modern Languages",
+            "Philosophy",
+            "Physics",
+            "Power Engineering",
+            "Psychology",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Doctorat",
+          "fields": [
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Economics",
+            "Educational Sciences",
+            "Engineering",
+            "Finance",
+            "Geography",
+            "History",
+            "Law",
+            "Linguistics",
+            "Literature",
+            "Management",
+            "Mathematics",
+            "Philosophy",
+            "Physics",
+            "Political Sciences",
+            "Psychology",
+            "Social Sciences"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Jens Kreisel"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Marc Grabowski"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Philippe Hiligsmann"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Marie-Hélène Jobin"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1848 as Cours supérieur. Centre Universitaire established 1968. Acquired present status and title 2003. An autonomous public institution.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    }
+  ]
+}

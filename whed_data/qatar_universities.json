@@ -1,0 +1,525 @@
+{
+  "country_name": "Qatar",
+  "country_id": "Qatar",
+  "institutions": [
+    {
+      "id": "26033",
+      "iau_id": "IAU-026033",
+      "name": "Community College of Qatar",
+      "alt_name": "(CCQ)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzhQLFMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-026033",
+      "address": {
+        "Street": "PO Box 2713",
+        "City": "Doha",
+        "WWW": "https://www.qu.edu.qa"
+      },
+      "website": "https://www.qu.edu.qa",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1973,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June (September-January; February-June)",
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Biomedical Research Center",
+          "fields": [
+            "Biomedicine"
+          ]
+        },
+        {
+          "name": "Centre : Centre for Advanced Materials",
+          "fields": [
+            "Materials Engineering"
+          ]
+        },
+        {
+          "name": "Centre : Environmental Studies",
+          "fields": [
+            "Environmental Studies"
+          ]
+        },
+        {
+          "name": "Centre : Gas Processing",
+          "fields": [
+            "Petroleum and Gas Engineering"
+          ]
+        },
+        {
+          "name": "Centre : KINDI Center for Computing Research",
+          "fields": [
+            "Computer Engineering",
+            "Computer Science",
+            "Information Sciences"
+          ]
+        },
+        {
+          "name": "Centre : Laboratory Animal Research Center",
+          "fields": [
+            "Biological and Life Sciences"
+          ]
+        },
+        {
+          "name": "Centre : Qatar Transportation and Traffic Safety Center",
+          "fields": [
+            "Road Transport",
+            "Transport Engineering"
+          ]
+        },
+        {
+          "name": "College : Arts and Sciences",
+          "fields": [
+            "Arabic",
+            "Biological and Life Sciences",
+            "Chemistry",
+            "Earth Sciences",
+            "Information Sciences",
+            "Mass Communication",
+            "Mathematics",
+            "Modern Languages",
+            "Physics",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "College : Business and Economics",
+          "fields": [
+            "Accountancy",
+            "Business Computing",
+            "Economics",
+            "Finance",
+            "Information Technology",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "College : Education",
+          "fields": [
+            "Education",
+            "Educational Sciences",
+            "Physical Education",
+            "Preschool Education",
+            "Primary Education",
+            "Secondary Education",
+            "Sports"
+          ]
+        },
+        {
+          "name": "College : Engineering",
+          "fields": [
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Electrical Engineering",
+            "Industrial Engineering",
+            "Mechanical Engineering",
+            "Structural Architecture"
+          ]
+        },
+        {
+          "name": "College : Health Sciences",
+          "fields": [
+            "Biological and Life Sciences",
+            "Nutrition",
+            "Physical Therapy",
+            "Public Health"
+          ]
+        },
+        {
+          "name": "College : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "College : Medicine",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "College : Pharmacy",
+          "fields": [
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "College : Sharia and Islamic Studies",
+          "fields": [
+            "Islamic Law",
+            "Islamic Studies",
+            "Law"
+          ]
+        },
+        {
+          "name": "Institute : Social and Economic Survey Research Institute",
+          "fields": [
+            "Social Sciences"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor of Education",
+          "fields": [
+            "Physical Education",
+            "Primary Education",
+            "Secondary Education",
+            "Special Education"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Arabic",
+            "Architecture",
+            "Arts and Humanities",
+            "Biology",
+            "Biomedicine",
+            "Biotechnology",
+            "Business Computing",
+            "Chemistry",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Development Studies",
+            "Economics",
+            "Electrical Engineering",
+            "Engineering",
+            "English",
+            "Finance",
+            "History",
+            "Industrial Engineering",
+            "International Studies",
+            "Islamic Law",
+            "Islamic Studies",
+            "Law",
+            "Management",
+            "Marine Science and Oceanography",
+            "Marketing",
+            "Mass Communication",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Medicine",
+            "Nutrition",
+            "Pharmacy",
+            "Psychology",
+            "Public Health",
+            "Rehabilitation and Therapy",
+            "Social Work",
+            "Sociology",
+            "Sports",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Diploma in Education",
+          "fields": [
+            "Preschool Education",
+            "Primary Education",
+            "Secondary Education",
+            "Special Education"
+          ]
+        },
+        {
+          "name": "MBA",
+          "fields": [
+            "Business and Commerce"
+          ]
+        },
+        {
+          "name": "Master's degree",
+          "fields": [
+            "Accountancy",
+            "Arabic",
+            "Biomedicine",
+            "Civil Engineering",
+            "Computer Science",
+            "Curriculum",
+            "Educational Administration",
+            "Electrical Engineering",
+            "Engineering Management",
+            "Environmental Engineering",
+            "Environmental Studies",
+            "Islamic Law",
+            "Islamic Studies",
+            "Koran",
+            "Marketing",
+            "Materials Engineering",
+            "Mechanical Engineering",
+            "Pharmacy",
+            "Private Law",
+            "Public Health",
+            "Public Law",
+            "Regional Studies",
+            "Special Education",
+            "Statistics",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "PhD",
+          "fields": [
+            "Architecture",
+            "Biological and Life Sciences",
+            "Biomedicine",
+            "Business Administration",
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Electrical Engineering",
+            "Engineering Management",
+            "Environmental Engineering",
+            "Industrial Engineering",
+            "Materials Engineering",
+            "Mechanical Engineering",
+            "Medicine",
+            "Pharmacy",
+            "Regional Studies",
+            "Town Planning"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Higher Education (MOEHE)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Omar Al-Ansari"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Khalid Al-Khater"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Cesar Wazen"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2024-2025",
+        "Students Total:": "23000"
+      },
+      "history": "Founded 1973 as Faculties of Education, acquired present status and title 1977. A State institution with academic and financial autonomy. Financially supported by the government",
+      "periodicals": [
+        "Book of Abstracts (Engineering) Bulletin of the Faculty of Education Bulletin of the Faculty of Humanities and Social Sciences Bulletin of the Faculty of Islamic Studies Engineering Journal of Qatar University Fruits of Knowledge (Public lectures) Journal of Administrative Sciences and Economics Qatar University Science Journal",
+        "Book of Abstracts (Engineering)",
+        "Bulletin of the Faculty of Education",
+        "Bulletin of the Faculty of Humanities and Social Sciences",
+        "Bulletin of the Faculty of Islamic Studies",
+        "Engineering Journal of Qatar University",
+        "Fruits of Knowledge (Public lectures)",
+        "Journal of Administrative Sciences and Economics",
+        "Qatar University Science Journal"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "26034",
+      "iau_id": "IAU-026034",
+      "name": "Doha Institute for Graduate Studies",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzhQLFMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-026034",
+      "address": {
+        "Street": "C Ring CampusPO Box 7344, C-Ring",
+        "City": "Doha",
+        "WWW": "https://www.ccq.edu.qa"
+      },
+      "website": "https://www.ccq.edu.qa",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Bachelor Studies",
+          "fields": [
+            "Computer Networks",
+            "Electrical Engineering",
+            "Human Resources",
+            "Logistics Management",
+            "Management",
+            "Mechanical Engineering",
+            "Public Administration"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Computer Networks",
+            "Electrical Engineering",
+            "Human Resources",
+            "Logistics Management",
+            "Management",
+            "Mechanical Engineering",
+            "Public Administration"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Higher Education (MOEHE)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Khalid Mohamed Al-Horr"
+        }
+      ],
+      "statistics": {},
+      "history": "Created 2010",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "26031",
+      "iau_id": "IAU-026031",
+      "name": "Hamad Bin Khalifa University",
+      "alt_name": "(HBKU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzhQLFMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-026031",
+      "address": {
+        "Street": "Al Tarfa Street, Zone 70PO Box 200592Al Daayan-Wadi Al Banaat",
+        "City": "Doha",
+        "WWW": "https://www.dohainstitute.edu.qa"
+      },
+      "website": "https://www.dohainstitute.edu.qa",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Conflict and Humanitarian Studies",
+          "fields": [
+            "Civil Security",
+            "Peace and Disarmament"
+          ]
+        },
+        {
+          "name": "School : Doctoral Studies",
+          "fields": [
+            "Anthropology",
+            "Comparative Literature",
+            "Economics",
+            "History",
+            "International Relations and Diplomacy",
+            "Linguistics",
+            "Media Studies",
+            "Political Sciences",
+            "Public Administration",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "School : Economics, Administration and Public Policy",
+          "fields": [
+            "Economics",
+            "Public Administration",
+            "Social Policy"
+          ]
+        },
+        {
+          "name": "School : Social Sciences and Humanities",
+          "fields": [
+            "Anthropology",
+            "Arabic",
+            "Comparative Literature",
+            "Cultural Studies",
+            "History",
+            "Human Rights",
+            "International Relations and Diplomacy",
+            "Journalism",
+            "Linguistics",
+            "Literature",
+            "Media Studies",
+            "Philosophy",
+            "Political Sciences",
+            "Psychology",
+            "Social Work",
+            "Sociology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Master's degree",
+          "fields": [
+            "Anthropology",
+            "Arabic",
+            "Civil Security",
+            "Comparative Literature",
+            "Cultural Studies",
+            "Economics",
+            "History",
+            "Human Rights",
+            "International Relations and Diplomacy",
+            "Journalism",
+            "Linguistics",
+            "Peace and Disarmament",
+            "Philosophy",
+            "Psychology",
+            "Public Administration",
+            "Social Policy",
+            "Social Work",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "PhD",
+          "fields": [
+            "Anthropology",
+            "Comparative Literature",
+            "Economics",
+            "History",
+            "International Relations and Diplomacy",
+            "Linguistics",
+            "Media Studies",
+            "Peace and Disarmament",
+            "Political Sciences",
+            "Public Administration",
+            "Sociology"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education and Higher Education (MOEHE)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Abdelwahab El Affendi"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Hend Al Muftah"
+        }
+      ],
+      "statistics": {},
+      "history": "Created 2011 by the Arab Center for Research and Policy Studies as a result of the need to prepare a new generation of enlightened young Arab scholars, critical thinkers, and future leaders. First student intake in 2015. A graduate institute.",
+      "periodicals": [],
+      "student_body": null
+    }
+  ]
+}

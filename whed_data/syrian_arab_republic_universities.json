@@ -1,0 +1,4096 @@
+{
+  "country_name": "Syrian Arab Republic",
+  "country_id": "Syrian Arab Republic",
+  "institutions": [
+    {
+      "id": "742",
+      "iau_id": "IAU-000742",
+      "name": "Al Andalus University for Medical Sciences",
+      "alt_name": "(AU)",
+      "detail_url": "https://whed.net/detail_institution.php?Jjo2MF0tUzBSCmAK",
+      "iau_link": "https://www.whed.net/institutions/IAU-000742",
+      "address": {
+        "City": "Al-Qadamous",
+        "WWW": "https://au.edu.sy"
+      },
+      "website": "https://au.edu.sy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2005,
+      "type": null,
+      "funding": "Private-for-profit",
+      "academic_year": null,
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Biomedical Engineering",
+          "fields": [
+            "Biomedical Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Dentistry",
+          "fields": [
+            "Dentistry"
+          ]
+        },
+        {
+          "name": "Faculty : Hospital Management",
+          "fields": [
+            "Health Administration"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Faculty : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Faculty : Pharmacy",
+          "fields": [
+            "Pharmacy"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's/Licence Degree",
+          "fields": [
+            "Health Administration",
+            "Medicine",
+            "Nursing",
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": []
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Mohammed A’amer Al-Mardini"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2005",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "27465",
+      "iau_id": "IAU-027465",
+      "name": "Al Jazeera Private University",
+      "alt_name": "(JPU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzxULUM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-027465",
+      "address": {
+        "Street": "Khaled bin Alwaleed",
+        "City": "Damascus",
+        "Province": "Damascus",
+        "WWW": "https://jude.edu.sy"
+      },
+      "website": "https://jude.edu.sy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2007,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "October - August",
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Architectural Engineering",
+          "fields": [
+            "Architecture"
+          ]
+        },
+        {
+          "name": "Faculty : Business Administration",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Faculty : Civil Engineering",
+          "fields": [
+            "Business Administration",
+            "Civil Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Information Technology",
+          "fields": [
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Pharmacy",
+          "fields": [
+            "Pharmacy"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's/Licence Degree",
+          "fields": [
+            "Architecture",
+            "Business Administration",
+            "Civil Engineering",
+            "Information Technology",
+            "Pharmacy"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Izzat Kassem"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Abboud Alsaleh"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2007",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "20003",
+      "iau_id": "IAU-020003",
+      "name": "Al-Furat University",
+      "alt_name": "Euphrates University",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BQLCMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020003",
+      "address": {
+        "City": "Deir Ezzor",
+        "WWW": "http://alfuratuniv.edu.sy"
+      },
+      "website": "http://alfuratuniv.edu.sy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2006,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "College : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "College : Petrochemical Engineering",
+          "fields": [
+            "Petroleum and Gas Engineering"
+          ]
+        },
+        {
+          "name": "College : Science",
+          "fields": [
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Agricultural Engineering",
+          "fields": [
+            "Agricultural Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Arts and Humanities",
+          "fields": [
+            "Arts and Humanities"
+          ]
+        },
+        {
+          "name": "Faculty : Civil Engineering",
+          "fields": [
+            "Civil Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Economics",
+          "fields": [
+            "Economics"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Faculty : Mechanical Engineering",
+          "fields": [
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "School : Law",
+          "fields": [
+            "Law"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's/Licence Degree",
+          "fields": [
+            "Agricultural Engineering",
+            "Arts and Humanities",
+            "Civil Engineering",
+            "Economics",
+            "Education",
+            "Law",
+            "Mechanical Engineering",
+            "Medicine",
+            "Natural Sciences",
+            "Nursing",
+            "Petroleum and Gas Engineering"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Agriculture"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education.",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Jacques Hanin Mardini"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2006",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "23927",
+      "iau_id": "IAU-023927",
+      "name": "Al-Hawash Private University",
+      "alt_name": "(HPU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyxZLEM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-023927",
+      "address": {
+        "Street": "P.O. Box 99, Al-Hawash",
+        "City": "Homs",
+        "WWW": "http://www.hpu.sy"
+      },
+      "website": "http://www.hpu.sy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Cosmetology",
+          "fields": [
+            "Cosmetology"
+          ]
+        },
+        {
+          "name": "Faculty : Dentistry",
+          "fields": [
+            "Dentistry"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Faculty : Pharmacy",
+          "fields": [
+            "Pharmacy"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's/Licence Degree",
+          "fields": [
+            "Cosmetology",
+            "Dentistry",
+            "Engineering",
+            "Pharmacy"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education in the Syrian Arab Republic",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Hiam Albeshara"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Oxana Wahbi"
+        }
+      ],
+      "statistics": {},
+      "history": "Created in 2007 as Al-Hawash Private University for Pharmacy and Cosmetology by Presidential Decree No 258. Acquired current title and status by Presidential Decree No 183 in 2012",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "27472",
+      "iau_id": "IAU-027472",
+      "name": "Al-Manara Private University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzxULVMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-027472",
+      "address": {
+        "Street": "10th Project, Behind Orange Mall",
+        "City": "Lattakia",
+        "WWW": "http://www.manara.edu.sy"
+      },
+      "website": "http://www.manara.edu.sy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2016,
+      "type": null,
+      "funding": "Private-for-profit",
+      "academic_year": null,
+      "languages": [
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Architecture",
+          "fields": [
+            "Architecture"
+          ]
+        },
+        {
+          "name": "Faculty : Business Administration",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Faculty : Dentistry",
+          "fields": [
+            "Dentistry"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences",
+          "fields": [
+            "Health Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Performing Arts",
+          "fields": [
+            "Performing Arts"
+          ]
+        },
+        {
+          "name": "Faculty : Pharmacy",
+          "fields": [
+            "Pharmacy"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's/Licence Degree",
+          "fields": [
+            "Architecture",
+            "Business Administration",
+            "Dentistry",
+            "Engineering",
+            "Health Sciences",
+            "Performing Arts",
+            "Pharmacy"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Safwan Adnan Al-Assaf"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Zeinab Muhammad"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2020-2021",
+        "Staff Full Time Total:": "177"
+      },
+      "history": "Founded 2016",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "27470",
+      "iau_id": "IAU-027470",
+      "name": "Al-Rasheed International University for Science and Technology",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzxULVNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-027470",
+      "address": {
+        "Street": "Sakhr Alley. Equipping - opposite the Four Seasons Hotel",
+        "City": "Damascus",
+        "WWW": "https://ru.edu.sy"
+      },
+      "website": "https://ru.edu.sy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2007,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "College : Management Sciences",
+          "fields": [
+            "Management"
+          ]
+        },
+        {
+          "name": "College : Medical Science",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "College : Technology and Informatics Engineering",
+          "fields": [
+            "Computer Engineering",
+            "Mechanical Engineering",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Dentistry",
+          "fields": [
+            "Dentistry"
+          ]
+        },
+        {
+          "name": "Faculty : Pharmacy",
+          "fields": [
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "School : Architecture",
+          "fields": [
+            "Architecture"
+          ]
+        },
+        {
+          "name": "School : Law",
+          "fields": [
+            "Law"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's/Licence Degree",
+          "fields": [
+            "Architecture",
+            "Computer Engineering",
+            "Dentistry",
+            "Law",
+            "Management",
+            "Mechanical Engineering",
+            "Medicine",
+            "Pharmacy",
+            "Telecommunications Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Sawsan Haider Al-Mady"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2007 and opened its doors to receive its first batch at the beginning of the 2012-2013",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "6880",
+      "iau_id": "IAU-006880",
+      "name": "Al-Shahba University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tQ0BYLGBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-006880",
+      "address": {
+        "Street": "New Shahba - Karawan Street",
+        "City": "Aleppo",
+        "WWW": "https://su.edu.sy"
+      },
+      "website": "https://su.edu.sy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2005,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Business and Management",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Commercial Law",
+            "Finance",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Dentistry",
+          "fields": [
+            "Dentistry"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering and Information Technology",
+          "fields": [
+            "Computer Engineering",
+            "Information Technology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's/Licence Degree",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Commercial Law",
+            "Computer Engineering",
+            "Dentistry",
+            "Finance",
+            "Information Technology",
+            "Management",
+            "Marketing"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Mayada Aladdin Zaitoun"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2005 as Arab American University for Science and Technology. Became Gulf University, in 2007. Acquired present title 2012",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "26953",
+      "iau_id": "IAU-026953",
+      "name": "Al-Sham Private University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzhZLTMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-026953",
+      "address": {
+        "Street": "Al-Baramkeh next to Tishreen Sports city",
+        "City": "Damascus",
+        "WWW": "http://www.aspu.edu.sy"
+      },
+      "website": "http://www.aspu.edu.sy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Administrative Sciences",
+          "fields": [
+            "Administration"
+          ]
+        },
+        {
+          "name": "Faculty : Dentistry",
+          "fields": [
+            "Dentistry"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : International Relations and Diplomacy",
+          "fields": [
+            "International Relations and Diplomacy"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Faculty : Pharmacy",
+          "fields": [
+            "Pharmacy"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's/Licence Degree",
+          "fields": [
+            "Administration",
+            "Dentistry",
+            "Engineering",
+            "International Relations and Diplomacy",
+            "Law",
+            "Medicine",
+            "Pharmacy"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Sherif Al-Ashqar"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Mohammed Khaled Najati"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Rania Al Zrair"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Maysa Akil"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2019-2020",
+        "Staff Full Time Total:": "228",
+        "Students Statistics Year:": "2019-2020",
+        "Students Total:": "3846"
+      },
+      "history": "Founded in 2011",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "27468",
+      "iau_id": "IAU-027468",
+      "name": "Al-Wataniya Private University",
+      "alt_name": "(WPU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzxULUNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-027468",
+      "address": {
+        "Street": "International Highway (Hama-Homs)",
+        "City": "Hama",
+        "WWW": "https://www.wpu.edu.sy"
+      },
+      "website": "https://www.wpu.edu.sy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2007,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Architecture",
+          "fields": [
+            "Architecture"
+          ]
+        },
+        {
+          "name": "Faculty : Dentistry",
+          "fields": [
+            "Dentistry"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Pharmacy",
+          "fields": [
+            "Pharmacy"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's/Licence Degree",
+          "fields": [
+            "Architecture",
+            "Dentistry",
+            "Engineering",
+            "Pharmacy"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ahed Khezam"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2007",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "16382",
+      "iau_id": "IAU-016382",
+      "name": "Arab International University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhTLiMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016382",
+      "address": {
+        "Street": "Al-Mazzeh Highway",
+        "City": "Damascus",
+        "WWW": "https://www.aiu.edu.sy"
+      },
+      "website": "https://www.aiu.edu.sy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2006,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English",
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Architecture",
+          "fields": [
+            "Architecture"
+          ]
+        },
+        {
+          "name": "Faculty : Business Administration",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Finance",
+            "Insurance",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Civil Engineering",
+          "fields": [
+            "Civil Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Dentistry",
+          "fields": [
+            "Dentistry"
+          ]
+        },
+        {
+          "name": "Faculty : Fine Arts",
+          "fields": [
+            "Fashion Design",
+            "Fine Arts",
+            "Interior Design"
+          ]
+        },
+        {
+          "name": "Faculty : Informatics and Communication Engineering",
+          "fields": [
+            "Computer Engineering",
+            "Computer Science",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Pharmacy",
+          "fields": [
+            "Pharmacy"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's/Licence Degree",
+          "fields": [
+            "Accountancy",
+            "Architecture",
+            "Banking",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Dentistry",
+            "Fashion Design",
+            "Finance",
+            "Fine Arts",
+            "Insurance",
+            "Interior Design",
+            "Law",
+            "Management",
+            "Marketing",
+            "Pharmacy",
+            "Telecommunications Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Tamer Al Hajeh"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2006",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "27467",
+      "iau_id": "IAU-027467",
+      "name": "Arab University for Science and Technology",
+      "alt_name": "(AUST)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzxULUM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-027467",
+      "address": {
+        "Street": "P.O. Box 134",
+        "City": "Hama",
+        "WWW": "https://aust.edu.sy"
+      },
+      "website": "https://aust.edu.sy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2007,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "College : Petroleum Engineering",
+          "fields": [
+            "Petroleum and Gas Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Chemical Engineering",
+          "fields": [
+            "Chemical Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Computer Engineering",
+          "fields": [
+            "Computer Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Dentistry",
+          "fields": [
+            "Dentistry"
+          ]
+        },
+        {
+          "name": "Faculty : Pharmacy",
+          "fields": [
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Faculty : Translation and Languages",
+          "fields": [
+            "Arabic",
+            "English",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "School : Architecture",
+          "fields": [
+            "Architecture"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's/Licence Degree",
+          "fields": [
+            "Arabic",
+            "Architecture",
+            "Chemical Engineering",
+            "Computer Engineering",
+            "Dentistry",
+            "English",
+            "Petroleum and Gas Engineering",
+            "Pharmacy",
+            "Translation and Interpretation"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Mohammed Yahya Mualla"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2007",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "9836",
+      "iau_id": "IAU-009836",
+      "name": "Cordoba Private University",
+      "alt_name": "(CPU)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uM0BTLUBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009836",
+      "address": {
+        "Street": "Mouhandcien",
+        "City": "Aleppo",
+        "WWW": "http://main.cpu.edu.sy"
+      },
+      "website": "http://main.cpu.edu.sy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Administration and Finance",
+          "fields": [
+            "Banking",
+            "Business Administration",
+            "E-Business/Commerce",
+            "Finance",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Architecture",
+          "fields": [
+            "Architecture"
+          ]
+        },
+        {
+          "name": "Faculty : Dentistry",
+          "fields": [
+            "Dentistry"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering and Technology",
+          "fields": [
+            "Engineering",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Languages and Humanities",
+          "fields": [
+            "English",
+            "Literature"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's/Licence Degree",
+          "fields": [
+            "Architecture",
+            "Banking",
+            "Business Administration",
+            "Dentistry",
+            "E-Business/Commerce",
+            "Engineering",
+            "English",
+            "Finance",
+            "Information Technology",
+            "Literature",
+            "Marketing"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ahmad Yasser Dhashwali"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded as Mamoun University for Science and Technology (MUST), 2003. Acquired present title, 2014",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "27466",
+      "iau_id": "IAU-027466",
+      "name": "Ebla Private University",
+      "alt_name": "(EPU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzxULUM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-027466",
+      "address": {
+        "Street": "P.O. Box 5, Saraqeb",
+        "City": "Idleb",
+        "WWW": "http://www.ebla.edu.sy"
+      },
+      "website": "http://www.ebla.edu.sy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2008,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Administrative Sciences",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Business Administration",
+            "Finance",
+            "Management"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Architecture",
+            "Computer Science",
+            "Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Languages and Humanities",
+          "fields": [
+            "Arabic",
+            "Arts and Humanities",
+            "English"
+          ]
+        },
+        {
+          "name": "Faculty : Pharmacy",
+          "fields": [
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Faculty : Political Sciences",
+          "fields": [
+            "Political Sciences"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's/Licence Degree",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Arabic",
+            "Architecture",
+            "Arts and Humanities",
+            "Business Administration",
+            "Computer Science",
+            "Engineering",
+            "English",
+            "Finance",
+            "Management",
+            "Pharmacy",
+            "Political Sciences"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Sabri Hasan"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2008",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "27446",
+      "iau_id": "IAU-027446",
+      "name": "Hama University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzxULSM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-027446",
+      "address": {
+        "Street": "Assi Square - Old Town Building",
+        "City": "Hama",
+        "WWW": "https://hama-univ.edu.sy"
+      },
+      "website": "https://hama-univ.edu.sy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2014,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Agriculture",
+          "fields": [
+            "Agriculture"
+          ]
+        },
+        {
+          "name": "Faculty : Applied Science",
+          "fields": [
+            "Applied Chemistry",
+            "Applied Physics"
+          ]
+        },
+        {
+          "name": "Faculty : Architecture",
+          "fields": [
+            "Architecture"
+          ]
+        },
+        {
+          "name": "Faculty : Arts and Humanities",
+          "fields": [
+            "Arts and Humanities"
+          ]
+        },
+        {
+          "name": "Faculty : Civil Engineering",
+          "fields": [
+            "Civil Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Dentistry",
+          "fields": [
+            "Dentistry"
+          ]
+        },
+        {
+          "name": "Faculty : Economics",
+          "fields": [
+            "Economics"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Faculty : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Faculty : Pharmacy",
+          "fields": [
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Faculty : Physical Education",
+          "fields": [
+            "Physical Education"
+          ]
+        },
+        {
+          "name": "Faculty : Science",
+          "fields": [
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "Institute : Higher Institute of Languages",
+          "fields": [
+            "Arabic",
+            "English"
+          ]
+        },
+        {
+          "name": "Institute : Technical Institute of Agricultural Studies",
+          "fields": [
+            "Agriculture"
+          ]
+        },
+        {
+          "name": "Institute : Technical Institute of Computer",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Institute : Technical Institute of Dentistry",
+          "fields": [
+            "Dentistry"
+          ]
+        },
+        {
+          "name": "Institute : Technical Institute of Emergency Medical Services",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Institute : Technical Institute of Veterinary Medicine",
+          "fields": [
+            "Veterinary Science"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's/Licence Degree",
+          "fields": [
+            "Agriculture",
+            "Applied Chemistry",
+            "Applied Physics",
+            "Architecture",
+            "Arts and Humanities",
+            "Civil Engineering",
+            "Computer Science",
+            "Dentistry",
+            "Economics",
+            "Education",
+            "Medicine",
+            "Natural Sciences",
+            "Nursing",
+            "Pharmacy",
+            "Physical Education",
+            "Veterinary Science"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Mohamed Ziad Mamdouh Sultan"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2014",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "7306",
+      "iau_id": "IAU-007306",
+      "name": "Higher Institute of Applied Sciences and Technology",
+      "alt_name": "(HIAST)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tUyxQLUBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007306",
+      "address": {
+        "Street": "P.O. Box 31983",
+        "City": "Damascus",
+        "WWW": "https://hiast.edu.sy"
+      },
+      "website": "https://hiast.edu.sy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1983,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Welding Technology",
+          "fields": [
+            "Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Business Administration",
+          "fields": [
+            "Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Electronic Engineering",
+          "fields": [
+            "Electronic Engineering",
+            "Electronics and Automation",
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "Department/Division : Information Technology",
+          "fields": [
+            "Computer Engineering",
+            "Computer Science",
+            "Information Technology",
+            "Systems Analysis"
+          ]
+        },
+        {
+          "name": "Department/Division : Mathematics",
+          "fields": [
+            "Mathematics"
+          ]
+        },
+        {
+          "name": "Department/Division : Physics",
+          "fields": [
+            "Physics"
+          ]
+        },
+        {
+          "name": "Department/Division : Telecommunication",
+          "fields": [
+            "Electronic Engineering",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Laboratory : Environmental Studies",
+          "fields": [
+            "Computer Science",
+            "Electronics and Automation",
+            "Management",
+            "Telecommunications Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's/Licence Degree",
+          "fields": [
+            "Computer Science",
+            "Electronics and Automation",
+            "Management",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Computer Science",
+            "Electronics and Automation",
+            "Information Technology",
+            "Materials Engineering",
+            "Optics"
+          ]
+        },
+        {
+          "name": "Doctorate",
+          "fields": [
+            "Applied Physics",
+            "Computer Science",
+            "Electronics and Automation",
+            "Information Technology"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Maher Suleiman"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1983",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "7308",
+      "iau_id": "IAU-007308",
+      "name": "Higher Institute of Business Administration",
+      "alt_name": "(HIBA)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tUyxQLmBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007308",
+      "address": {
+        "Street": "P.O. Box 12890Masaken Barzeh Mosbak Suna'a",
+        "City": "Damascus",
+        "WWW": "http://www.hiba.edu.sy"
+      },
+      "website": "http://www.hiba.edu.sy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2001,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Management",
+          "fields": [
+            "Banking",
+            "Business Administration",
+            "Finance",
+            "Human Resources",
+            "Management",
+            "Marketing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's/Licence Degree",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Banking",
+            "Business Administration",
+            "Finance",
+            "Human Resources",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Doctorate",
+          "fields": [
+            "Management"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education And Scientific Research",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Hayan Dib"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2001",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "9833",
+      "iau_id": "IAU-009833",
+      "name": "Homs University",
+      "alt_name": "Jami't Homs",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uM0BTLFBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009833",
+      "address": {
+        "Street": "Damascus Road",
+        "City": "Homs",
+        "WWW": "https://homs-univ.edu.sy"
+      },
+      "website": "https://homs-univ.edu.sy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1979,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to July (September-January; February-June)",
+      "languages": [
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "College : Health Sciences",
+          "fields": [
+            "Health Sciences"
+          ]
+        },
+        {
+          "name": "College : Music Education",
+          "fields": [
+            "Music",
+            "Music Education"
+          ]
+        },
+        {
+          "name": "College : Science",
+          "fields": [
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "College : Tourism",
+          "fields": [
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Arts and Humanities",
+          "fields": [
+            "Arts and Humanities",
+            "Education",
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Economics",
+          "fields": [
+            "Economics"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Agriculture",
+            "Architecture",
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Electrical Engineering",
+            "Mechanical Engineering",
+            "Petroleum and Gas Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Medical Science",
+          "fields": [
+            "Dentistry",
+            "Health Sciences",
+            "Medicine",
+            "Nursing",
+            "Pharmacy",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Faculty : Physical Education",
+          "fields": [
+            "Physical Education"
+          ]
+        },
+        {
+          "name": "School : Law",
+          "fields": [
+            "Law"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's/Licence Degree",
+          "fields": [
+            "Agriculture",
+            "Architecture",
+            "Arts and Humanities",
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Dentistry",
+            "Economics",
+            "Education",
+            "Electrical Engineering",
+            "Health Sciences",
+            "Law",
+            "Mechanical Engineering",
+            "Medicine",
+            "Music",
+            "Music Education",
+            "Natural Sciences",
+            "Nursing",
+            "Petroleum and Gas Engineering",
+            "Pharmacy",
+            "Physical Education",
+            "Tourism",
+            "Veterinary Science"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Tarek Houssam El Deen"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1979 as Jami't Al-Ba'ath (Al-Baath University) incorporating the Faculty of Veterinary Medicine in Hama City, the Higher Institute for Chemical and Petroleum Engineering and the Faculty of Science in Homs City. Acquired current title in 2025 following Decree 99/2025.",
+      "periodicals": [
+        "Journal of Al-Baath University",
+        "Journal of Al-Baath University"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "27434",
+      "iau_id": "IAU-027434",
+      "name": "Ibn Hayyan University College",
+      "alt_name": "(IHUC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzxULFMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-027434",
+      "address": {
+        "City": "Karbala",
+        "WWW": "http://ihuc.edu.iq"
+      },
+      "website": "http://ihuc.edu.iq",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2013,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Dentistry",
+          "fields": [
+            "Dentistry"
+          ]
+        },
+        {
+          "name": "Department/Division : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Department/Division : Pharmacy",
+          "fields": [
+            "Pharmacy"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's/Licence Degree",
+          "fields": [
+            "Dentistry",
+            "Nursing",
+            "Pharmacy"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education and Scientific Research",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Majid Al-Nujaidi"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2013",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "9584",
+      "iau_id": "IAU-009584",
+      "name": "International University for Science and Technology",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMzRYLWBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009584",
+      "address": {
+        "Street": "Daraa Highway",
+        "City": "Ghabageb",
+        "WWW": "https://iust.edu.sy"
+      },
+      "website": "https://iust.edu.sy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2006,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English",
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "College : Arts and Sciences",
+          "fields": [
+            "English",
+            "Graphic Design",
+            "Interior Design",
+            "Literature",
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "College : Business Administration and Finance",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Finance",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "College : Dentistry",
+          "fields": [
+            "Dentistry"
+          ]
+        },
+        {
+          "name": "College : Engineering and Technology",
+          "fields": [
+            "Architecture",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Electrical Engineering",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "College : Information Technology",
+          "fields": [
+            "Computer Science",
+            "Information Technology",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "College : Pharmacy",
+          "fields": [
+            "Pharmacy"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's/Licence Degree",
+          "fields": [
+            "Accountancy",
+            "Architecture",
+            "Banking",
+            "Business Administration",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Science",
+            "Dentistry",
+            "Electrical Engineering",
+            "English",
+            "Finance",
+            "Graphic Design",
+            "Information Technology",
+            "Interior Design",
+            "Literature",
+            "Marketing",
+            "Natural Sciences",
+            "Pharmacy",
+            "Software Engineering",
+            "Telecommunications Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Faisal Al-Abbas"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Sharif Adnan Al-Ashkar"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2006",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "9834",
+      "iau_id": "IAU-009834",
+      "name": "Ittihad Private University",
+      "alt_name": "(IPU)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uM0BTLWBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009834",
+      "address": {
+        "Street": "P.O. Box 50",
+        "City": "Raqqa",
+        "WWW": "http://www.ipu.edu.sy"
+      },
+      "website": "http://www.ipu.edu.sy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2003,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Architecture",
+          "fields": [
+            "Architecture"
+          ]
+        },
+        {
+          "name": "Faculty : Business Administration",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Faculty : Computer Engineering",
+          "fields": [
+            "Computer Engineering",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Marketing, Management and Tourism",
+          "fields": [
+            "Management",
+            "Marketing",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Pharmacy",
+          "fields": [
+            "Pharmacy"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's/Licence Degree",
+          "fields": [
+            "Architecture",
+            "Business Administration",
+            "Computer Engineering",
+            "Management",
+            "Marketing",
+            "Pharmacy",
+            "Telecommunications Engineering",
+            "Tourism"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Zakwan Qurait"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Nidal Al-Alou"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2003",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "27469",
+      "iau_id": "IAU-027469",
+      "name": "Levant University for Sharia Sciences",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzxULUNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-027469",
+      "address": {
+        "City": "Al-Fath",
+        "WWW": "http://www.shifa-sy.com"
+      },
+      "website": "http://www.shifa-sy.com",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "College : Arabic Language",
+          "fields": [
+            "Arabic"
+          ]
+        },
+        {
+          "name": "College : Fundamentals of Religion and Philosophy",
+          "fields": [
+            "Islamic Theology",
+            "Philosophy",
+            "Religion"
+          ]
+        },
+        {
+          "name": "College : Islamic and Arabic Studie",
+          "fields": [
+            "Islamic Studies"
+          ]
+        },
+        {
+          "name": "College : Sharia and Law",
+          "fields": [
+            "Islamic Law",
+            "Law"
+          ]
+        },
+        {
+          "name": "Department/Division : Economics , Administrative Science, Finance and Islamic Banking",
+          "fields": [
+            "Administration",
+            "Banking",
+            "Economics",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Department/Division : Education",
+          "fields": [
+            "Education"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's/Licence Degree",
+          "fields": [
+            "Arabic",
+            "Islamic Law",
+            "Islamic Studies",
+            "Islamic Theology",
+            "Law",
+            "Philosophy",
+            "Religion"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Administration",
+            "Arabic",
+            "Banking",
+            "Economics",
+            "Finance",
+            "Islamic Law",
+            "Islamic Studies",
+            "Islamic Theology",
+            "Law",
+            "Media Studies",
+            "Philosophy",
+            "Religion"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Tayseer Abu Khshareef"
+        }
+      ],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "27471",
+      "iau_id": "IAU-027471",
+      "name": "Qasioun University for Science and Technology",
+      "alt_name": "(QPU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzxULVMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-027471",
+      "address": {
+        "Street": "Highway (Damascus - Daraa)",
+        "City": "Damascus",
+        "WWW": "http://www.qpu.edu.sy"
+      },
+      "website": "http://www.qpu.edu.sy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2014,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "College : Business and Economics",
+          "fields": [
+            "Administration",
+            "Economics"
+          ]
+        },
+        {
+          "name": "College : College of Arts",
+          "fields": [
+            "English"
+          ]
+        },
+        {
+          "name": "College : Computer Engineering",
+          "fields": [
+            "Computer Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Communication Engineering",
+          "fields": [
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Dentistry",
+          "fields": [
+            "Dentistry"
+          ]
+        },
+        {
+          "name": "Faculty : Pharmacy",
+          "fields": [
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "School : Architecture",
+          "fields": [
+            "Architecture"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's/Licence Degree",
+          "fields": [
+            "Administration",
+            "Architecture",
+            "Computer Engineering",
+            "Dentistry",
+            "Economics",
+            "English",
+            "Pharmacy",
+            "Telecommunications Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Sateh Badawi"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2014",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "16036",
+      "iau_id": "IAU-016036",
+      "name": "Syrian Private University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMzhQLFM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-016036",
+      "address": {
+        "Street": "P.O. Box 36822Daraa International Highway, beyond the town of Al-Kiswa, Khayara Danoun",
+        "City": "Damascus",
+        "WWW": "https://www.spu.edu.sy"
+      },
+      "website": "https://www.spu.edu.sy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2005,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Business Administration",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Faculty : Computer Engineering and Informatics",
+          "fields": [
+            "Computer Engineering",
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Faculty : Dentistry",
+          "fields": [
+            "Dentistry"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Faculty : Petroleum Engineering",
+          "fields": [
+            "Petroleum and Gas Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Pharmacy",
+          "fields": [
+            "Pharmacy"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's/Licence Degree",
+          "fields": [
+            "Business Administration",
+            "Computer Engineering",
+            "Computer Science",
+            "Dentistry",
+            "Medicine",
+            "Petroleum and Gas Engineering",
+            "Pharmacy"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Nazir Ibrahim"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2005",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "746",
+      "iau_id": "IAU-000746",
+      "name": "Syrian Virtual University",
+      "alt_name": "Al Jami'ah Al-Iftiradiyah Al-Suriyah (SVU)",
+      "detail_url": "https://whed.net/detail_institution.php?Jjo2MF0tUzBWCmAK",
+      "iau_link": "https://www.whed.net/institutions/IAU-000746",
+      "address": {
+        "Street": "P.O. Box 35329",
+        "City": "Damascus",
+        "WWW": "https://www.svuonline.org"
+      },
+      "website": "https://www.svuonline.org",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2002,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Humanities",
+          "fields": [
+            "Educational Technology",
+            "Law",
+            "Mass Communication"
+          ]
+        },
+        {
+          "name": "Faculty : Information Technology and Communications",
+          "fields": [
+            "Computer Networks",
+            "Computer Science",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Management Sciences",
+          "fields": [
+            "Administration",
+            "Business Administration",
+            "Industrial Management",
+            "Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's/Licence Degree",
+          "fields": [
+            "Computer Science",
+            "Information Technology",
+            "Law",
+            "Management",
+            "Mass Communication"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Business Administration",
+            "Computer Science",
+            "Educational Technology",
+            "Industrial Management",
+            "International Law",
+            "Law"
+          ]
+        },
+        {
+          "name": "Doctorate",
+          "fields": [
+            "Administration",
+            "Educational Technology",
+            "Information Technology"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Khalil Ajami"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Zain Juneidi"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Yassar Brick"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2002",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "27445",
+      "iau_id": "IAU-027445",
+      "name": "Tartus University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzxULSM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-027445",
+      "address": {
+        "Street": "near Al-Bassel Hospital",
+        "City": "Tartus",
+        "WWW": "http://tartous-univ.edu.sy"
+      },
+      "website": "http://tartous-univ.edu.sy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2015,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "College : El Hatma",
+          "fields": [
+            "Literature"
+          ]
+        },
+        {
+          "name": "College : Literature",
+          "fields": [
+            "Literature"
+          ]
+        },
+        {
+          "name": "College : Medicine",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "College : Pharmacy and Dentistry",
+          "fields": [
+            "Dentistry",
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "College : Science",
+          "fields": [
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "College : Technical Engineering",
+          "fields": [
+            "Engineering"
+          ]
+        },
+        {
+          "name": "College : Tourism",
+          "fields": [
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Economics",
+          "fields": [
+            "Economics"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Faculty : Information and Communication Technology Engineering",
+          "fields": [
+            "Artificial Intelligence",
+            "Computer Engineering",
+            "Computer Networks",
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Institute : Higher Institute of Languages",
+          "fields": [
+            "Arabic",
+            "English"
+          ]
+        },
+        {
+          "name": "Institute : Solar Technical Institute",
+          "fields": [
+            "Energy Engineering"
+          ]
+        },
+        {
+          "name": "Institute : Technical Institute for Maritime transport",
+          "fields": [
+            "Marine Transport"
+          ]
+        },
+        {
+          "name": "School : Architecture",
+          "fields": [
+            "Architecture"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's/Licence Degree",
+          "fields": [
+            "Arabic",
+            "Architecture",
+            "Artificial Intelligence",
+            "Computer Engineering",
+            "Computer Networks",
+            "Computer Science",
+            "Dentistry",
+            "Economics",
+            "Education",
+            "Energy Engineering",
+            "Engineering",
+            "English",
+            "Literature",
+            "Marine Transport",
+            "Medicine",
+            "Natural Sciences",
+            "Pharmacy",
+            "Tourism"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Muhammad Essam Al-Daly"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2015",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "9838",
+      "iau_id": "IAU-009838",
+      "name": "Tishreen University",
+      "alt_name": "Jami't Tishreen",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uM0BTLmBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009838",
+      "address": {
+        "Street": "P.O. Box 2230",
+        "City": "Lattakia",
+        "WWW": "https://tishreen.edu.sy"
+      },
+      "website": "https://tishreen.edu.sy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1971,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "October to May (October-January; January-May)",
+      "languages": [
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Agriculture",
+          "fields": [
+            "Agricultural Economics",
+            "Agriculture",
+            "Animal Husbandry",
+            "Crop Production",
+            "Environmental Studies",
+            "Forest Biology",
+            "Horticulture",
+            "Immunology",
+            "Natural Sciences",
+            "Nutrition",
+            "Rural Studies",
+            "Soil Science"
+          ]
+        },
+        {
+          "name": "Faculty : Arts and Humanities",
+          "fields": [
+            "Arabic",
+            "Arts and Humanities",
+            "English",
+            "French",
+            "Geography",
+            "History",
+            "Philosophy",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Civil Engineering",
+          "fields": [
+            "Civil Engineering",
+            "Construction Engineering",
+            "Engineering Management",
+            "Environmental Engineering",
+            "Geological Engineering",
+            "Hydraulic Engineering",
+            "Natural Sciences",
+            "Surveying and Mapping",
+            "Transport and Communications"
+          ]
+        },
+        {
+          "name": "Faculty : Computer Engineering",
+          "fields": [
+            "Computer Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Dentistry",
+          "fields": [
+            "Anatomy",
+            "Biology",
+            "Dental Hygiene",
+            "Dental Technology",
+            "Dentistry",
+            "Oral Pathology",
+            "Orthodontics"
+          ]
+        },
+        {
+          "name": "Faculty : Economics",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Economics",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Faculty : Electrical and Mechanical Engineering",
+          "fields": [
+            "Electrical and Electronic Engineering",
+            "Electrical Engineering",
+            "Energy Engineering",
+            "Engineering Drawing and Design",
+            "Mechanical Engineering",
+            "Natural Sciences",
+            "Power Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Fine Arts",
+          "fields": [
+            "Arts and Humanities"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Anatomy",
+            "Biochemistry",
+            "Cardiology",
+            "Dermatology",
+            "Epidemiology",
+            "Medicine",
+            "Microbiology",
+            "Obstetrics and Gynaecology",
+            "Pathology",
+            "Pharmacology",
+            "Public Health",
+            "Surgery"
+          ]
+        },
+        {
+          "name": "Faculty : Nursing",
+          "fields": [
+            "Family Studies",
+            "Natural Sciences",
+            "Nursing",
+            "Nutrition",
+            "Obstetrics and Gynaecology",
+            "Public Health",
+            "Rehabilitation and Therapy",
+            "Social and Preventive Medicine"
+          ]
+        },
+        {
+          "name": "Faculty : Pharmacy",
+          "fields": [
+            "Pharmacology",
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Faculty : Physical Education",
+          "fields": [
+            "Physical Education"
+          ]
+        },
+        {
+          "name": "Faculty : Science",
+          "fields": [
+            "Chemistry",
+            "Geology",
+            "Mathematics",
+            "Natural Sciences",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Faculty : Technical Engineering",
+          "fields": [
+            "Engineering",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Institute : Agriculture",
+          "fields": [
+            "Agriculture",
+            "Animal Husbandry",
+            "Crop Production"
+          ]
+        },
+        {
+          "name": "Institute : Commerce",
+          "fields": [
+            "Accountancy",
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Institute : Computer Science",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Institute : Engineering",
+          "fields": [
+            "Building Technologies",
+            "Engineering",
+            "Engineering Drawing and Design",
+            "Environmental Engineering",
+            "Irrigation",
+            "Surveying and Mapping",
+            "Telecommunications Engineering",
+            "Transport Engineering"
+          ]
+        },
+        {
+          "name": "Institute : Environmental Research",
+          "fields": [
+            "Environmental Studies"
+          ]
+        },
+        {
+          "name": "Institute : Languages",
+          "fields": [
+            "Arabic",
+            "English",
+            "French",
+            "Modern Languages",
+            "Persian"
+          ]
+        },
+        {
+          "name": "Institute : Marine Research",
+          "fields": [
+            "Chemistry",
+            "Environmental Studies",
+            "Marine Biology",
+            "Marine Science and Oceanography",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Institute : Medicine",
+          "fields": [
+            "Anaesthesiology",
+            "Laboratory Techniques",
+            "Medicine",
+            "Nursing",
+            "Physical Therapy",
+            "Radiology"
+          ]
+        },
+        {
+          "name": "Institute : Secretarial Studies",
+          "fields": [
+            "Secretarial Studies"
+          ]
+        },
+        {
+          "name": "School : Architecture",
+          "fields": [
+            "Architectural and Environmental Design",
+            "Architecture"
+          ]
+        },
+        {
+          "name": "School : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's/Licence Degree",
+          "fields": [
+            "Accountancy",
+            "Agricultural Economics",
+            "Agriculture",
+            "Anaesthesiology",
+            "Anatomy",
+            "Animal Husbandry",
+            "Arabic",
+            "Architectural and Environmental Design",
+            "Architecture",
+            "Arts and Humanities",
+            "Biochemistry",
+            "Biology",
+            "Building Technologies",
+            "Business Administration",
+            "Cardiology",
+            "Chemistry",
+            "Civil Engineering",
+            "Computer Science",
+            "Construction Engineering",
+            "Crop Production",
+            "Dental Hygiene",
+            "Dental Technology",
+            "Dentistry",
+            "Dermatology",
+            "Economics",
+            "Education",
+            "Electrical and Electronic Engineering",
+            "Electrical Engineering",
+            "Energy Engineering",
+            "Engineering",
+            "Engineering Drawing and Design",
+            "Engineering Management",
+            "English",
+            "Environmental Engineering",
+            "Environmental Studies",
+            "Epidemiology",
+            "Family Studies",
+            "Forest Biology",
+            "French",
+            "Geography",
+            "Geological Engineering",
+            "Geology",
+            "History",
+            "Horticulture",
+            "Hydraulic Engineering",
+            "Immunology",
+            "Irrigation",
+            "Laboratory Techniques",
+            "Marine Biology",
+            "Marine Science and Oceanography",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Medicine",
+            "Microbiology",
+            "Modern Languages",
+            "Natural Sciences",
+            "Nursing",
+            "Nutrition",
+            "Obstetrics and Gynaecology",
+            "Oral Pathology",
+            "Orthodontics",
+            "Pathology",
+            "Pharmacology",
+            "Pharmacy",
+            "Philosophy",
+            "Physical Education",
+            "Physical Therapy",
+            "Physics",
+            "Power Engineering",
+            "Public Health",
+            "Radiology",
+            "Rehabilitation and Therapy",
+            "Rural Studies",
+            "Secretarial Studies",
+            "Social and Preventive Medicine",
+            "Social Sciences",
+            "Soil Science",
+            "Statistics",
+            "Surgery",
+            "Surveying and Mapping",
+            "Technology",
+            "Telecommunications Engineering",
+            "Transport and Communications",
+            "Transport Engineering"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Arabic",
+            "Dentistry",
+            "Literature",
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Doctorate",
+          "fields": [
+            "Arabic",
+            "Dentistry",
+            "Literature",
+            "Medicine"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Bassam Hassan"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Yousef Shaheen"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1971 as Lattakia University, acquired present title 1976",
+      "periodicals": [
+        "Tishreen University Journal for Studies and Research",
+        "Tishreen University Journal for Studies and Research"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "9859",
+      "iau_id": "IAU-009859",
+      "name": "University of Aleppo",
+      "alt_name": "Jamit Halab – Université d'Alep",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uM0BVLjBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009859",
+      "address": {
+        "Street": "P.O. Box 12212",
+        "City": "Aleppo",
+        "WWW": "https://alepuniv.edu.sy"
+      },
+      "website": "https://alepuniv.edu.sy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1946,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June (September-February; February-June)",
+      "languages": [
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "College : Applied Technologies",
+          "fields": [
+            "Electrical and Electronic Equipment and Maintenance",
+            "Heating and Refrigeration"
+          ]
+        },
+        {
+          "name": "Faculty : Agriculture",
+          "fields": [
+            "Agriculture"
+          ]
+        },
+        {
+          "name": "Faculty : Applied Fine Arts",
+          "fields": [
+            "Fine Arts",
+            "Graphic Arts",
+            "Painting and Drawing",
+            "Photography",
+            "Sculpture"
+          ]
+        },
+        {
+          "name": "Faculty : Arts and Humanities",
+          "fields": [
+            "Arabic",
+            "Arts and Humanities",
+            "History",
+            "Modern Languages",
+            "Philosophy",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Faculty : Civil Engineering",
+          "fields": [
+            "Civil Engineering",
+            "Construction Engineering",
+            "Engineering Management",
+            "Environmental Engineering",
+            "Hydraulic Engineering",
+            "Natural Sciences",
+            "Surveying and Mapping",
+            "Transport Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Computer Engineering",
+          "fields": [
+            "Computer Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Dentistry",
+          "fields": [
+            "Biology",
+            "Dentistry",
+            "Oral Pathology",
+            "Orthodontics",
+            "Periodontics",
+            "Surgery"
+          ]
+        },
+        {
+          "name": "Faculty : Economics",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Economics",
+            "Finance",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Faculty : Electrical and Electronic Engineering",
+          "fields": [
+            "Computer Engineering",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Electronics and Automation",
+            "Medical Technology",
+            "Power Engineering",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Mechanical Engineering",
+          "fields": [
+            "Aeronautical and Aerospace Engineering",
+            "Agricultural Engineering",
+            "Industrial Engineering",
+            "Materials Engineering",
+            "Mechanical Engineering",
+            "Natural Sciences",
+            "Nuclear Engineering",
+            "Power Engineering",
+            "Production Engineering",
+            "Textile Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Anaesthesiology",
+            "Anatomy",
+            "Biochemistry",
+            "Dermatology",
+            "Medicine",
+            "Microbiology",
+            "Obstetrics and Gynaecology",
+            "Ophthalmology",
+            "Otorhinolaryngology",
+            "Paediatrics",
+            "Pathology",
+            "Pharmacology",
+            "Physiology",
+            "Public Health",
+            "Radiology",
+            "Surgery"
+          ]
+        },
+        {
+          "name": "Faculty : Nursing",
+          "fields": [
+            "Nursing",
+            "Psychiatry and Mental Health",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Faculty : Pharmacy",
+          "fields": [
+            "Analytical Chemistry",
+            "Biochemistry",
+            "Microbiology",
+            "Pharmacology",
+            "Pharmacy",
+            "Toxicology"
+          ]
+        },
+        {
+          "name": "Faculty : Science",
+          "fields": [
+            "Botany",
+            "Chemistry",
+            "Geology",
+            "Mathematics",
+            "Natural Sciences",
+            "Physics",
+            "Statistics",
+            "Zoology"
+          ]
+        },
+        {
+          "name": "Faculty : Shariaa",
+          "fields": [
+            "Islamic Law"
+          ]
+        },
+        {
+          "name": "Institute : Agriculture",
+          "fields": [
+            "Agriculture"
+          ]
+        },
+        {
+          "name": "Institute : Computer Science",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Institute : Engineering",
+          "fields": [
+            "Building Technologies",
+            "Construction Engineering",
+            "Interior Design",
+            "Sanitary Engineering"
+          ]
+        },
+        {
+          "name": "Institute : Finance and Accountancy",
+          "fields": [
+            "Accountancy",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Institute : History of Arab Science",
+          "fields": [
+            "History",
+            "Medicine",
+            "Middle Eastern Studies",
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "Institute : Languages",
+          "fields": [
+            "Arabic",
+            "English",
+            "French",
+            "German",
+            "Italian",
+            "Japanese",
+            "Modern Languages",
+            "Persian",
+            "Russian",
+            "Spanish",
+            "Turkish"
+          ]
+        },
+        {
+          "name": "Institute : Marketing and Business Administration",
+          "fields": [
+            "Business Administration",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Institute : Mechanical and Electrical Engineering",
+          "fields": [
+            "Electrical Engineering",
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "Institute : Medical Technology",
+          "fields": [
+            "Medical Technology"
+          ]
+        },
+        {
+          "name": "Institute : Prosthodontics",
+          "fields": [
+            "Orthodontics"
+          ]
+        },
+        {
+          "name": "School : Architecture",
+          "fields": [
+            "Architectural and Environmental Design",
+            "Architecture",
+            "Construction Engineering",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "School : Law",
+          "fields": [
+            "Commercial Law",
+            "Criminal Law",
+            "International Law",
+            "Law",
+            "Private Law",
+            "Public Law"
+          ]
+        },
+        {
+          "name": "School : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's/Licence Degree",
+          "fields": [
+            "Accountancy",
+            "Aeronautical and Aerospace Engineering",
+            "Agricultural Engineering",
+            "Agriculture",
+            "Anaesthesiology",
+            "Analytical Chemistry",
+            "Anatomy",
+            "Arabic",
+            "Architectural and Environmental Design",
+            "Architecture",
+            "Arts and Humanities",
+            "Banking",
+            "Biochemistry",
+            "Biology",
+            "Botany",
+            "Building Technologies",
+            "Business Administration",
+            "Chemistry",
+            "Civil Engineering",
+            "Commercial Law",
+            "Computer Engineering",
+            "Computer Science",
+            "Construction Engineering",
+            "Criminal Law",
+            "Dentistry",
+            "Dermatology",
+            "Economics",
+            "Education",
+            "Electrical and Electronic Equipment and Maintenance",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Electronics and Automation",
+            "Engineering Management",
+            "English",
+            "Environmental Engineering",
+            "Finance",
+            "Fine Arts",
+            "French",
+            "Geology",
+            "German",
+            "Graphic Arts",
+            "Heating and Refrigeration",
+            "History",
+            "Hydraulic Engineering",
+            "Industrial Engineering",
+            "Interior Design",
+            "International Law",
+            "Islamic Law",
+            "Italian",
+            "Japanese",
+            "Law",
+            "Marketing",
+            "Materials Engineering",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Medical Technology",
+            "Medicine",
+            "Microbiology",
+            "Middle Eastern Studies",
+            "Modern Languages",
+            "Natural Sciences",
+            "Nuclear Engineering",
+            "Nursing",
+            "Obstetrics and Gynaecology",
+            "Ophthalmology",
+            "Oral Pathology",
+            "Orthodontics",
+            "Otorhinolaryngology",
+            "Paediatrics",
+            "Painting and Drawing",
+            "Pathology",
+            "Periodontics",
+            "Persian",
+            "Pharmacology",
+            "Pharmacy",
+            "Photography",
+            "Physics",
+            "Physiology",
+            "Power Engineering",
+            "Private Law",
+            "Production Engineering",
+            "Psychiatry and Mental Health",
+            "Psychology",
+            "Public Health",
+            "Public Law",
+            "Radiology",
+            "Russian",
+            "Sanitary Engineering",
+            "Sculpture",
+            "Spanish",
+            "Statistics",
+            "Surgery",
+            "Surveying and Mapping",
+            "Telecommunications Engineering",
+            "Textile Technology",
+            "Town Planning",
+            "Toxicology",
+            "Transport Engineering",
+            "Turkish",
+            "Zoology"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Arts and Humanities",
+            "Computer Engineering",
+            "Education",
+            "Engineering",
+            "Law",
+            "Medicine",
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Doctorate",
+          "fields": [
+            "Arts and Humanities",
+            "Computer Science",
+            "Education",
+            "Engineering",
+            "Law",
+            "Medicine",
+            "Pharmacy"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Maher Karman"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Khairuddin Tarsha Kurdi"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Nawar Kaadan"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1946 as Faculty of Engineering of Damascus University. Became University 1958-1959",
+      "periodicals": [
+        "Adiyat Halab Journal for the History of Arab Science Newsletter of the History of Arab Science Institute Research Journal Scientific Journal of Aleppo",
+        "Adiyat Halab",
+        "Journal for the History of Arab Science",
+        "Newsletter of the History of Arab Science Institute",
+        "Research Journal",
+        "Scientific Journal of Aleppo"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "9837",
+      "iau_id": "IAU-009837",
+      "name": "University of Damascus",
+      "alt_name": "Jami't Dimasa",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uM0BTLVBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009837",
+      "address": {
+        "City": "Damascus",
+        "WWW": "https://www.damascusuniversity.edu.sy"
+      },
+      "website": "https://www.damascusuniversity.edu.sy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1903,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to May (September-December; February-May)",
+      "languages": [
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Agriculture",
+          "fields": [
+            "Agriculture",
+            "Animal Husbandry",
+            "Horticulture"
+          ]
+        },
+        {
+          "name": "Faculty : Architecture",
+          "fields": [
+            "Architecture"
+          ]
+        },
+        {
+          "name": "Faculty : Civil Engineering",
+          "fields": [
+            "Civil Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Dentistry",
+          "fields": [
+            "Dentistry"
+          ]
+        },
+        {
+          "name": "Faculty : Economics and Commerce",
+          "fields": [
+            "Business and Commerce",
+            "Economics"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Faculty : Fine Arts",
+          "fields": [
+            "Fine Arts"
+          ]
+        },
+        {
+          "name": "Faculty : Islamic Studies",
+          "fields": [
+            "Islamic Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Letters",
+          "fields": [
+            "Arabic",
+            "Arts and Humanities",
+            "English",
+            "French",
+            "Geography",
+            "History",
+            "Japanese",
+            "Journalism",
+            "Library Science",
+            "Persian",
+            "Philosophy",
+            "Social Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Mechanical and Electrical Engineering",
+          "fields": [
+            "Electrical Engineering",
+            "Mechanical Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Faculty : Pharmacy",
+          "fields": [
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Faculty : Political Science",
+          "fields": [
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Science",
+          "fields": [
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "Institute : Administrative Development",
+          "fields": [
+            "Development Studies"
+          ]
+        },
+        {
+          "name": "Institute : Language Institute",
+          "fields": [
+            "Arabic",
+            "English",
+            "French",
+            "German",
+            "Hebrew",
+            "Italian",
+            "Japanese",
+            "Persian",
+            "Russian",
+            "Spanish",
+            "Turkish"
+          ]
+        },
+        {
+          "name": "Institute : Laser Research and Application",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Institute : Seismic Research",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "School : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's/Licence Degree",
+          "fields": [
+            "Agriculture",
+            "Animal Husbandry",
+            "Arabic",
+            "Architecture",
+            "Arts and Humanities",
+            "Business and Commerce",
+            "Civil Engineering",
+            "Dentistry",
+            "Development Studies",
+            "Economics",
+            "Education",
+            "Electrical Engineering",
+            "English",
+            "Fine Arts",
+            "French",
+            "Geography",
+            "German",
+            "Hebrew",
+            "History",
+            "Horticulture",
+            "Islamic Studies",
+            "Italian",
+            "Japanese",
+            "Journalism",
+            "Law",
+            "Library Science",
+            "Mechanical Engineering",
+            "Medicine",
+            "Natural Sciences",
+            "Nursing",
+            "Persian",
+            "Pharmacy",
+            "Philosophy",
+            "Russian",
+            "Social Studies",
+            "Spanish",
+            "Turkish"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Agriculture",
+            "Arts and Humanities",
+            "Chemistry",
+            "Dentistry",
+            "Economics",
+            "Electrical Engineering",
+            "Law",
+            "Mechanical Engineering",
+            "Medicine",
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Doctorate",
+          "fields": [
+            "Agriculture",
+            "Arts and Humanities",
+            "Chemistry",
+            "Dentistry",
+            "Economics",
+            "Electrical Engineering",
+            "Law",
+            "Mechanical Engineering",
+            "Medicine",
+            "Pharmacy"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Mustafa Saem Aldahr"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Mohammed Hajem Esmael Alwady"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Mayssa Sioufi"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1903 in Damascus as Medical Institute. Institute of Law founded in Beirut 1912, both re-established in Damascus 1919, and Arabic replaced Turkish as medium of instruction. Merged to become the Syrian University 1923. New Faculties established 1946 and Technological Institute incorporated as Faculty 1972. Present title acquired 1958",
+      "periodicals": [
+        "Aljami'a Journal Historical Studies Statistical Abstract",
+        "Aljami'a Journal",
+        "Historical Studies",
+        "Statistical Abstract"
+      ],
+      "student_body": null
+    },
+    {
+      "id": "9835",
+      "iau_id": "IAU-009835",
+      "name": "University of Kalamoon",
+      "alt_name": "Jami't Al-kalamoon Al-khassa",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uM0BTLTBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009835",
+      "address": {
+        "Street": "P.O. Box 222",
+        "City": "Deir Atiyah",
+        "WWW": "http://uok.edu.sy"
+      },
+      "website": "http://uok.edu.sy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2003,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Applied Sciences",
+          "fields": [
+            "Applied Mathematics",
+            "Applied Physics",
+            "Biotechnology",
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Faculty : Business and Management",
+          "fields": [
+            "Banking",
+            "Finance",
+            "Information Management",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Civil and Architectural Engineering",
+          "fields": [
+            "Architecture",
+            "Civil Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Dentistry",
+          "fields": [
+            "Dentistry",
+            "Orthodontics",
+            "Periodontics"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Architecture",
+            "Computer Engineering",
+            "Computer Networks",
+            "Electronic Engineering",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences",
+          "fields": [
+            "Food Science",
+            "Nutrition",
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "Faculty : Law and Human Sciences",
+          "fields": [
+            "Arts and Humanities",
+            "Law"
+          ]
+        },
+        {
+          "name": "Faculty : Media and Applied Arts",
+          "fields": [
+            "Fashion Design",
+            "Graphic Design",
+            "Interior Design",
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Faculty : Pharmacy",
+          "fields": [
+            "Analytical Chemistry",
+            "Biochemistry",
+            "Microbiology",
+            "Pharmacology",
+            "Pharmacy",
+            "Toxicology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's/Licence Degree",
+          "fields": [
+            "Analytical Chemistry",
+            "Applied Mathematics",
+            "Applied Physics",
+            "Architecture",
+            "Arts and Humanities",
+            "Banking",
+            "Biochemistry",
+            "Biotechnology",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Networks",
+            "Computer Science",
+            "Dentistry",
+            "Electronic Engineering",
+            "Fashion Design",
+            "Finance",
+            "Food Science",
+            "Graphic Design",
+            "Information Management",
+            "Information Technology",
+            "Interior Design",
+            "International Relations and Diplomacy",
+            "Law",
+            "Management",
+            "Marketing",
+            "Media Studies",
+            "Microbiology",
+            "Nutrition",
+            "Orthodontics",
+            "Periodontics",
+            "Pharmacology",
+            "Pharmacy",
+            "Physical Therapy",
+            "Toxicology"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Said Younes"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2003",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "21109",
+      "iau_id": "IAU-021109",
+      "name": "Wadi International University",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyRRLCNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-021109",
+      "address": {
+        "Street": "P.O. Box 34219Wadi al-Nasara",
+        "City": "Homs",
+        "WWW": "https://wiu.edu.sy"
+      },
+      "website": "https://wiu.edu.sy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2005,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Arabic",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Administrative and Economic Sciences",
+          "fields": [
+            "Banking",
+            "Business Administration",
+            "E-Business/Commerce",
+            "Economics",
+            "Finance",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Dentistry",
+          "fields": [
+            "Dentistry"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Architecture",
+            "Business Computing",
+            "Computer Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Faculty : Pharmacy",
+          "fields": [
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "School : Law",
+          "fields": [
+            "Law"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's/Licence Degree",
+          "fields": [
+            "Architecture",
+            "Banking",
+            "Business Administration",
+            "Business Computing",
+            "Computer Engineering",
+            "Dentistry",
+            "E-Business/Commerce",
+            "Economics",
+            "Finance",
+            "Law",
+            "Management",
+            "Marketing",
+            "Medicine",
+            "Pharmacy"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Bashir Elias"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2005",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "21671",
+      "iau_id": "IAU-021671",
+      "name": "Yarmouk Private University",
+      "alt_name": "(YPU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQyRWLVMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-021671",
+      "address": {
+        "Street": "Mazzeh Highway - next to Al-Jalaa HotelBuilding No. 33",
+        "City": "Damascus",
+        "WWW": "http://www.ypu.edu.sy"
+      },
+      "website": "http://www.ypu.edu.sy",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2007,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English",
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Language",
+          "fields": [
+            "English"
+          ]
+        },
+        {
+          "name": "Faculty : Administrative and Financial Sciences",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Commercial Law",
+            "Finance",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Civil and Environmental Engineering",
+          "fields": [
+            "Architecture",
+            "Civil Engineering",
+            "Environmental Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Informatics and Communications Engineering",
+          "fields": [
+            "Computer Engineering",
+            "Software Engineering",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Management and Finance",
+          "fields": [
+            "Finance",
+            "Management"
+          ]
+        },
+        {
+          "name": "School : Architecture",
+          "fields": [
+            "Architecture"
+          ]
+        },
+        {
+          "name": "School : Design and Applied Science",
+          "fields": [
+            "Design",
+            "Fine Arts"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's/Licence Degree",
+          "fields": [
+            "Accountancy",
+            "Architecture",
+            "Banking",
+            "Civil Engineering",
+            "Commercial Law",
+            "Computer Engineering",
+            "Design",
+            "English",
+            "Environmental Engineering",
+            "Finance",
+            "Fine Arts",
+            "Management",
+            "Marketing",
+            "Software Engineering",
+            "Telecommunications Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Adel Safar"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2007",
+      "periodicals": [],
+      "student_body": "co-ed"
+    }
+  ]
+}

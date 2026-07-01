@@ -1,0 +1,3486 @@
+{
+  "country_name": "Benin",
+  "country_id": "Benin",
+  "institutions": [
+    {
+      "id": "19542",
+      "iau_id": "IAU-019542",
+      "name": "Abomey-Calavi University",
+      "alt_name": "Université d'Abomey-Calavi (UAC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RVLSMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019542",
+      "address": {
+        "Street": "Université d'Abomey-Calavi",
+        "City": "Cotonou",
+        "Province": "Littoral",
+        "WWW": "https://uac.bj"
+      },
+      "website": "https://uac.bj",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1970,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "French",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : Porto-Novo",
+          "fields": [
+            "English",
+            "French",
+            "French Studies",
+            "Geography",
+            "German",
+            "History",
+            "Philosophy",
+            "Spanish"
+          ]
+        },
+        {
+          "name": "Centre : Population Training and Research",
+          "fields": [
+            "Regional Planning"
+          ]
+        },
+        {
+          "name": "Centre : Training and Research in Environmental and Sustainable Development",
+          "fields": [
+            "Environmental Studies",
+            "Sustainable Development"
+          ]
+        },
+        {
+          "name": "Faculty : Agronomical Sciences",
+          "fields": [
+            "Agricultural Business",
+            "Agricultural Economics",
+            "Animal Husbandry",
+            "Crop Production",
+            "Fishery",
+            "Forest Management",
+            "Nutrition"
+          ]
+        },
+        {
+          "name": "Faculty : Economics and Management",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Econometrics"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences",
+          "fields": [
+            "Dietetics",
+            "General Medicine",
+            "Pharmacy",
+            "Physical Therapy",
+            "Social Welfare"
+          ]
+        },
+        {
+          "name": "Faculty : Humanities and Social Sciences",
+          "fields": [
+            "Archaeology",
+            "Geography",
+            "Industrial and Organizational Psychology",
+            "Philosophy",
+            "Psychology",
+            "Science Education",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Faculty : Law and Political Science",
+          "fields": [
+            "Law",
+            "Political Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Letters, Arts, and Social Sciences",
+          "fields": [
+            "Anthropology",
+            "English",
+            "Geography"
+          ]
+        },
+        {
+          "name": "Faculty : Letters, Languages, Arts, and Communications",
+          "fields": [
+            "Communication Studies",
+            "English",
+            "German",
+            "Literature",
+            "Spanish"
+          ]
+        },
+        {
+          "name": "Faculty : Technical Sciences",
+          "fields": [
+            "Biology",
+            "Genetics",
+            "Marine Biology",
+            "Mathematics and Computer Science",
+            "Microbiology",
+            "Physical Chemistry"
+          ]
+        },
+        {
+          "name": "Institute : Confucius",
+          "fields": [
+            "Chinese",
+            "Grammar"
+          ]
+        },
+        {
+          "name": "Institute : Crafts, Archaeology, and Culture",
+          "fields": [
+            "Cultural Studies",
+            "Film",
+            "Fine Arts",
+            "Musicology",
+            "Performing Arts"
+          ]
+        },
+        {
+          "name": "Institute : Information Technology Research and Training",
+          "fields": [
+            "Artificial Intelligence",
+            "Data Science",
+            "Multimedia",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Institute : Living Environment",
+          "fields": [
+            "Ecology",
+            "Environmental Management",
+            "Regional Planning"
+          ]
+        },
+        {
+          "name": "Institute : Mathematics and Physical Sciences",
+          "fields": [
+            "Chemistry",
+            "Engineering",
+            "Mathematics",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Institute : Medicine and Health",
+          "fields": [
+            "Nursing",
+            "Obstetrics and Gynaecology"
+          ]
+        },
+        {
+          "name": "Institute : National Institute of Water",
+          "fields": [
+            "Ecology",
+            "Environmental Engineering",
+            "Natural Resources",
+            "Sanitary Engineering",
+            "Water Management",
+            "Water Science"
+          ]
+        },
+        {
+          "name": "Institute : Public Health",
+          "fields": [
+            "Public Health"
+          ]
+        },
+        {
+          "name": "Institute : Sports and Physical Education",
+          "fields": [
+            "Adult Education",
+            "Parks and Recreation",
+            "Physical Education",
+            "Social and Community Services",
+            "Sports"
+          ]
+        },
+        {
+          "name": "School : Administration and Magistracy",
+          "fields": [
+            "Administrative Law",
+            "Business Administration",
+            "Information Sciences",
+            "Office Management"
+          ]
+        },
+        {
+          "name": "School : African Heritage",
+          "fields": [
+            "African Studies",
+            "Cultural Studies"
+          ]
+        },
+        {
+          "name": "School : Applied Economics and Management",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Computer Networks",
+            "Demography and Population",
+            "Finance",
+            "Human Resources",
+            "Insurance",
+            "Logistics Management",
+            "Management",
+            "Management Systems",
+            "Marketing",
+            "Regional Studies",
+            "Statistics",
+            "Sustainable Development",
+            "Systems Analysis"
+          ]
+        },
+        {
+          "name": "School : Engineering",
+          "fields": [
+            "Agricultural Engineering",
+            "Animal Husbandry",
+            "Biomedical Engineering",
+            "Biomedicine",
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Electrical Engineering",
+            "Environmental Management",
+            "Mechanical Engineering",
+            "Radiology",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "School : Information and Communication Sciences and Techniques",
+          "fields": [
+            "Industrial and Organizational Psychology",
+            "Journalism"
+          ]
+        },
+        {
+          "name": "School : International Commerce",
+          "fields": [
+            "International Business",
+            "International Economics",
+            "International Relations and Diplomacy"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Accountancy",
+            "Animal Husbandry",
+            "Artificial Intelligence",
+            "Banking",
+            "Biomedicine",
+            "Computer Networks",
+            "Computer Science",
+            "Cultural Studies",
+            "Data Science",
+            "Demography and Population",
+            "Dietetics",
+            "Ecology",
+            "Environmental Engineering",
+            "Environmental Management",
+            "Finance",
+            "Food Science",
+            "Food Technology",
+            "Human Resources",
+            "Insurance",
+            "Law",
+            "Logistics Management",
+            "Management",
+            "Marketing",
+            "Natural Resources",
+            "Nursing",
+            "Obstetrics and Gynaecology",
+            "Physical Therapy",
+            "Political Sciences",
+            "Public Health",
+            "Radiology",
+            "Regional Studies",
+            "Sanitary Engineering",
+            "Social Welfare",
+            "Social Work",
+            "Software Engineering",
+            "Statistics",
+            "Sustainable Development",
+            "Systems Analysis",
+            "Transport Management",
+            "Water Management",
+            "Water Science"
+          ]
+        },
+        {
+          "name": "Doctorat en Médecine",
+          "fields": [
+            "Anatomy",
+            "Community Health",
+            "Medicine",
+            "Public Health"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Aquaculture",
+            "Biochemistry",
+            "Biotechnology",
+            "Commercial Law",
+            "Community Health",
+            "Computer Science",
+            "Environmental Management",
+            "Epidemiology",
+            "Food Science",
+            "Health Administration",
+            "Information Technology",
+            "Justice Administration",
+            "Microbiology",
+            "Nutrition",
+            "Plant and Crop Protection",
+            "Private Law",
+            "Public Health",
+            "Public Law",
+            "Radiology",
+            "Social Sciences",
+            "Software Engineering",
+            "Taxation",
+            "Water Management",
+            "Water Science"
+          ]
+        },
+        {
+          "name": "Doctorat",
+          "fields": [
+            "General Medicine",
+            "Law",
+            "Pharmacy",
+            "Public Health"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education and Scientific Research (MESRS); African and Malagasy Council for Higher Education (CAMES)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Félicien Avlessi"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Carine Kelome"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1970 as Université du Dahomey and incorporating departments of former Institut d'Enseignement supérieur du Bénin, which was established in 1962. Acquired present status in 1976, and present title 2000.",
+      "periodicals": [
+        "Annales de la Faculté des Lettres, Arts et Sciences Humaines Annales de la Faculté des Sciences Agronomiques Bénin Médical Cahiers d'Etudes linguistiques Revue générale des Sciences juridiques, économiques et politiques",
+        "Annales de la Faculté des Lettres, Arts et Sciences Humaines",
+        "Annales de la Faculté des Sciences Agronomiques",
+        "Bénin Médical",
+        "Cahiers d'Etudes linguistiques",
+        "Revue générale des Sciences juridiques, économiques et politiques"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "8218",
+      "iau_id": "IAU-008218",
+      "name": "Adonaï Institute of Management Studies",
+      "alt_name": "Institut supérieur de Management Adonaï (ISM Adonaï)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uIyhRLmBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-008218",
+      "address": {
+        "Street": "Saint Jean, behind the Gazette du Golfe",
+        "City": "Cotonou",
+        "Province": "Littoral",
+        "WWW": "https://www.ismadonai.net/fr/"
+      },
+      "website": "https://www.ismadonai.net/fr/",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2006,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Postgraduate",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Commercial Law",
+            "Entrepreneurship",
+            "Human Resources",
+            "Logistics Management",
+            "Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Undergraduate",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Commercial Law",
+            "Computer Science",
+            "Economics",
+            "Entrepreneurship",
+            "Human Resources",
+            "International Relations and Diplomacy",
+            "Journalism",
+            "Logistics Management",
+            "Management",
+            "Marketing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Commercial Law",
+            "Computer Science",
+            "Economics",
+            "Entrepreneurship",
+            "Human Resources",
+            "International Relations and Diplomacy",
+            "Journalism",
+            "Logistics Management",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Commercial Law",
+            "Entrepreneurship",
+            "Human Resources",
+            "Logistics Management",
+            "Marketing"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education and Scientific Research (MESRS); African and Malagasy Council for Higher Education (CAMES)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Charles Codjo Kouphin"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2006.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "19493",
+      "iau_id": "IAU-019493",
+      "name": "African University of Technology and Management",
+      "alt_name": "Université Africaine de Technologie et de Management (UATM/GASA-Formation)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RULjMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019493",
+      "address": {
+        "Street": "04 BP 13612ème rue à gauche apres le CEG GbégameyCadjehoun",
+        "City": "Cotonou",
+        "Province": "Littoral",
+        "WWW": "https://uatm-gasa.com/"
+      },
+      "website": "https://uatm-gasa.com/",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1997,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Unit : Agronomy",
+          "fields": [
+            "Agricultural Economics",
+            "Agricultural Management",
+            "Agronomy",
+            "Animal Husbandry",
+            "Horticulture",
+            "Natural Resources"
+          ]
+        },
+        {
+          "name": "Unit : Economics and Management",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business and Commerce",
+            "Entrepreneurship",
+            "Finance",
+            "Human Resources",
+            "Insurance",
+            "International Business",
+            "Logistics Management",
+            "Management",
+            "Marketing",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Unit : Juridical and Political Sciences",
+          "fields": [
+            "Commercial Law",
+            "Communication Studies",
+            "International Relations and Diplomacy",
+            "Private Law",
+            "Public Law"
+          ]
+        },
+        {
+          "name": "Unit : Science and Technology",
+          "fields": [
+            "Biotechnology",
+            "Computer Science",
+            "Industrial Engineering",
+            "Software Engineering",
+            "Telecommunications Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Animal Husbandry",
+            "Banking",
+            "Biotechnology",
+            "Computer Science",
+            "Entrepreneurship",
+            "Finance",
+            "Horticulture",
+            "Human Resources",
+            "Industrial Engineering",
+            "International Relations and Diplomacy",
+            "Law",
+            "Logistics Management",
+            "Marketing",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Animal Husbandry",
+            "Banking",
+            "Biotechnology",
+            "Computer Science",
+            "Entrepreneurship",
+            "Finance",
+            "Horticulture",
+            "Human Resources",
+            "Industrial Engineering",
+            "International Relations and Diplomacy",
+            "Law",
+            "Logistics Management",
+            "Marketing",
+            "Telecommunications Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education and Scientific Research (MESRS)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Théophane Ayi"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1997. Acquired current status 2006.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "19515",
+      "iau_id": "IAU-019515",
+      "name": "Catholic University of Western Africa - Cotonou Academic Unit",
+      "alt_name": "Université Catholique de l'Afrique de l'Ouest - Unité Universitaire de Cotonou (UCAO/UUC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RVLDM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019515",
+      "address": {
+        "Street": "Paroisse Bon PasteurCadjèhoun04 BP 928",
+        "City": "Cotonou",
+        "Province": "Littoral",
+        "WWW": "https://www.ucaobenin.org/"
+      },
+      "website": "https://www.ucaobenin.org/",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2002,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Agronomy and Environment",
+          "fields": [
+            "Agricultural Business",
+            "Agricultural Management",
+            "Agriculture",
+            "Agronomy",
+            "Animal Husbandry",
+            "Environmental Management",
+            "Environmental Studies",
+            "Horticulture"
+          ]
+        },
+        {
+          "name": "Faculty : Electrical and Computer Engineering",
+          "fields": [
+            "Computer Networks",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Electronics and Automation",
+            "Industrial Maintenance",
+            "Production Engineering",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Law and Economics",
+          "fields": [
+            "Commercial Law",
+            "Communication Arts",
+            "Economics",
+            "Environmental Studies",
+            "Human Rights",
+            "Law"
+          ]
+        },
+        {
+          "name": "School : Management and Applied Economics",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Communication Arts",
+            "Human Resources",
+            "Information Technology",
+            "International Business",
+            "Logistics Management",
+            "Management",
+            "Marketing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Accountancy",
+            "Agricultural Business",
+            "Agricultural Management",
+            "Animal Husbandry",
+            "Banking",
+            "Commercial Law",
+            "Computer Networks",
+            "Economics",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Environmental Management",
+            "Horticulture",
+            "Human Resources",
+            "International Business",
+            "Law",
+            "Logistics Management",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Accountancy",
+            "Agricultural Business",
+            "Agricultural Management",
+            "Agriculture",
+            "Banking",
+            "Commercial Law",
+            "Electronic Engineering",
+            "Environmental Management",
+            "Environmental Studies",
+            "Horticulture",
+            "Human Resources",
+            "Human Rights",
+            "Information Technology",
+            "International Business",
+            "Law",
+            "Logistics Management",
+            "Marketing",
+            "Natural Resources",
+            "Telecommunications Engineering",
+            "Urban Studies"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education and Scientific Research (MESRS)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Fabien Akpa Yedo"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Benoît N’Bessa"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2002. Acquired international organisation status 2009.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "24554",
+      "iau_id": "IAU-024554",
+      "name": "Cotonou International Institute of Management",
+      "alt_name": "Institut International de Management de Cotonou – IIM Cotonou (IIM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBVLTMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024554",
+      "address": {
+        "Street": "Immeuble «Nina Mèches»01 BP 6829",
+        "City": "Cotonou",
+        "WWW": "http://iim-cotonou.org"
+      },
+      "website": "http://iim-cotonou.org",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2006,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Audit and Corporate Finance",
+          "fields": [
+            "Accountancy",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Course/Programme : Business Administration",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Course/Programme : Communication and Marketing",
+          "fields": [
+            "Communication Studies",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Course/Programme : Human Resources",
+          "fields": [
+            "Human Resources"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Accountancy",
+            "Commercial Law",
+            "Communication Studies",
+            "Economics",
+            "Finance",
+            "Human Resources",
+            "Industrial Management",
+            "Management",
+            "Marketing",
+            "Political Sciences",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Accountancy",
+            "Commercial Law",
+            "Communication Studies",
+            "Economics",
+            "Finance",
+            "Human Resources",
+            "Industrial Management",
+            "Management",
+            "Marketing",
+            "Political Sciences",
+            "Public Administration"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education and Scientific Research (MESRS)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Bassabi Kagbara"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2006.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "24559",
+      "iau_id": "IAU-024559",
+      "name": "Esperanza - School of Entrepreneurship and Prosperity",
+      "alt_name": "Esperanza - Ecole Supérieure d' Entrepreneuriat et de la Prospérité",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBVLTNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024559",
+      "address": {
+        "Street": "Carré 267 Rue de l'Afrique Scoa Gbéto",
+        "City": "Cotonou",
+        "Province": "Littoral",
+        "WWW": "https://www.esperanzabenin.com/"
+      },
+      "website": "https://www.esperanzabenin.com/",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2011,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English",
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Management Science",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business and Commerce",
+            "Finance",
+            "Insurance",
+            "Management",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "Faculty : Vocational Studies",
+          "fields": [
+            "Hotel Management",
+            "International Relations and Diplomacy",
+            "Management",
+            "Mass Communication",
+            "Public Relations",
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Business and Commerce",
+            "Finance",
+            "Human Resources",
+            "Management",
+            "Marketing",
+            "Multimedia",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Entrepreneurship",
+            "Hotel Management",
+            "Management",
+            "Tourism"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education and Scientific Research (MESRS)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Pierre d'Alcantara Zocli"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2011.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "27009",
+      "iau_id": "IAU-027009",
+      "name": "Higher Institute of Communication and Management",
+      "alt_name": "Institut Supérieur de Communication et de Gestion (ISCG-Bénin)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzxQLCNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-027009",
+      "address": {
+        "Street": "Rue 1142",
+        "City": "Cotonou",
+        "Province": "Littoral",
+        "WWW": "https://www.iscg.edu.bj"
+      },
+      "website": "https://www.iscg.edu.bj",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English",
+        "French"
+      ],
+      "faculties": [],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Computer Science",
+            "Criminology",
+            "Economics",
+            "Environmental Studies",
+            "Finance",
+            "Geography",
+            "Human Resources",
+            "Information Technology",
+            "International Relations and Diplomacy",
+            "Law",
+            "Logistics Management",
+            "Management",
+            "Marketing",
+            "Mass Communication",
+            "Microbiology",
+            "Political Sciences",
+            "Public Administration",
+            "Regional Planning"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Human Resources",
+            "Logistics Management",
+            "Marketing"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l'Enseignement Supérieur et de la Recherche Scientifique (MESRS)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Patrick Adjamonsi"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Biaou Joab"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Saheed Lateef"
+        }
+      ],
+      "statistics": {},
+      "history": "Created 2013 by Dr Patrick Adjamonsi, ISCG-Bénin is an independent communication, management and technology focused university.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "24555",
+      "iau_id": "IAU-024555",
+      "name": "Institute of Audiovisual Studies",
+      "alt_name": "Institut Supérieur des Métiers de l’Audiovisuel (ISMA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBVLTM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024555",
+      "address": {
+        "Street": "Lot 1804 Parcelle \"A\" Fidjrossè01 BP 6174",
+        "City": "Cotonou",
+        "Province": "Littoral",
+        "WWW": "https://isma-benin.org/"
+      },
+      "website": "https://isma-benin.org/",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2006,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Audiovisual Journalism",
+          "fields": [
+            "Journalism"
+          ]
+        },
+        {
+          "name": "Course/Programme : Cinema and Television",
+          "fields": [
+            "Cinema and Television"
+          ]
+        },
+        {
+          "name": "Course/Programme : Editing and Post-production",
+          "fields": [
+            "Cinema and Television"
+          ]
+        },
+        {
+          "name": "Course/Programme : Equipment Engineering",
+          "fields": [
+            "Cinema and Television"
+          ]
+        },
+        {
+          "name": "Course/Programme : Image and Light",
+          "fields": [
+            "Cinema and Television",
+            "Photography"
+          ]
+        },
+        {
+          "name": "Course/Programme : Production Management",
+          "fields": [
+            "Cinema and Television",
+            "Film",
+            "Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Sound and Mixing",
+          "fields": [
+            "Multimedia",
+            "Music",
+            "Sound Engineering (Acoustics)"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Cinema and Television",
+            "Film",
+            "Journalism",
+            "Management",
+            "Multimedia",
+            "Music",
+            "Photography",
+            "Sound Engineering (Acoustics)"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Cinema and Television",
+            "Film",
+            "Journalism",
+            "Management",
+            "Multimedia",
+            "Music",
+            "Photography",
+            "Sound Engineering (Acoustics)"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education and Scientific Research (MESRS)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Marcellin Zannou"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2006.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "24571",
+      "iau_id": "IAU-024571",
+      "name": "Institute of Expertise and Management",
+      "alt_name": "Institut Supérieur d'Expertise et de Gestion (ISEG)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBVLVMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024571",
+      "address": {
+        "Street": "Cotonou quartier Gbêdjromèdé,2ème rue à gauche après le carrefour 16 ampoules,en venant de Jéricho,03 BP : 2502",
+        "City": "Cotonou",
+        "Province": "Littoral",
+        "WWW": "https://isegbenin.org/"
+      },
+      "website": "https://isegbenin.org/",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2011,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Accounting, Controlling and Audit",
+          "fields": [
+            "Accountancy",
+            "Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Banking and Finance",
+          "fields": [
+            "Banking",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Course/Programme : Human Resources Management",
+          "fields": [
+            "Human Resources"
+          ]
+        },
+        {
+          "name": "Course/Programme : Marketing and Communication Studies",
+          "fields": [
+            "Communication Studies",
+            "Marketing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Communication Studies",
+            "Human Resources",
+            "Insurance",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Communication Studies",
+            "Human Resources",
+            "Insurance",
+            "Management",
+            "Marketing"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education and Scientific Research (MESRS)",
+      "officers": [],
+      "statistics": {},
+      "history": "Founded 2011.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "24557",
+      "iau_id": "IAU-024557",
+      "name": "IRGIB Africa",
+      "alt_name": "Génie Industriel des Biotechnologies et Sciences Appliquées (IRGIB-Africa)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBVLTM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024557",
+      "address": {
+        "Street": "Rue 1886",
+        "City": "Cotonou",
+        "Province": "Littoral",
+        "WWW": "https://irgibafrica.university"
+      },
+      "website": "https://irgibafrica.university",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2005,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Biomedical Science",
+          "fields": [
+            "Biomedicine",
+            "Biotechnology"
+          ]
+        },
+        {
+          "name": "Department/Division : Biotechnology",
+          "fields": [
+            "Biotechnology",
+            "Food Technology",
+            "Hygiene"
+          ]
+        },
+        {
+          "name": "Department/Division : Business Administration",
+          "fields": [
+            "Communication Arts",
+            "Finance",
+            "Human Resources",
+            "Information Management",
+            "Logistics Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Department/Division : Chemical Engineering",
+          "fields": [
+            "Chemical Engineering",
+            "Food Technology",
+            "Petroleum and Gas Engineering"
+          ]
+        },
+        {
+          "name": "Department/Division : Computer Science and Telecommunications",
+          "fields": [
+            "Artificial Intelligence",
+            "Computer Networks",
+            "Computer Science",
+            "Data Science",
+            "Information Technology",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Department/Division : Industrial Engineering",
+          "fields": [
+            "Laboratory Techniques",
+            "Mechatronics",
+            "Robotics"
+          ]
+        },
+        {
+          "name": "Department/Division : Justice",
+          "fields": [
+            "Criminology",
+            "International Relations and Diplomacy",
+            "Law",
+            "Political Sciences"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Artificial Intelligence",
+            "Biomedicine",
+            "Biotechnology",
+            "Chemical Engineering",
+            "Communication Arts",
+            "Computer Networks",
+            "Computer Science",
+            "Criminology",
+            "Data Science",
+            "Finance",
+            "Food Technology",
+            "Human Resources",
+            "Hygiene",
+            "Information Management",
+            "Information Technology",
+            "International Relations and Diplomacy",
+            "Laboratory Techniques",
+            "Law",
+            "Logistics Management",
+            "Marketing",
+            "Mechatronics",
+            "Petroleum and Gas Engineering",
+            "Political Sciences",
+            "Robotics",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Artificial Intelligence",
+            "Biomedicine",
+            "Biotechnology",
+            "Chemical Engineering",
+            "Communication Arts",
+            "Computer Networks",
+            "Computer Science",
+            "Criminology",
+            "Data Science",
+            "Finance",
+            "Food Technology",
+            "Human Resources",
+            "Hygiene",
+            "Information Management",
+            "Information Technology",
+            "International Relations and Diplomacy",
+            "Laboratory Techniques",
+            "Law",
+            "Logistics Management",
+            "Marketing",
+            "Mechatronics",
+            "Petroleum and Gas Engineering",
+            "Political Sciences",
+            "Robotics",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Doctorat",
+          "fields": [
+            "Artificial Intelligence",
+            "Biomedicine",
+            "Biotechnology",
+            "Chemical Engineering",
+            "Communication Arts",
+            "Computer Networks",
+            "Computer Science",
+            "Criminology",
+            "Data Science",
+            "Finance",
+            "Food Technology",
+            "Human Resources",
+            "Hygiene",
+            "Information Management",
+            "Information Technology",
+            "International Relations and Diplomacy",
+            "Laboratory Techniques",
+            "Law",
+            "Logistics Management",
+            "Marketing",
+            "Mechatronics",
+            "Petroleum and Gas Engineering",
+            "Political Sciences",
+            "Robotics",
+            "Telecommunications Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education and Scientific Research (MESRS)",
+      "officers": [
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Thomas Carrena"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2005, officially opened 2006.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "30769",
+      "iau_id": "IAU-030769",
+      "name": "John Paul II Institute",
+      "alt_name": "Institut Jean-Paul II – Institut pontifical théologique Jean-Paul-II pour les Sciences du Mariage et de la Famille",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sU2BXLUNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-030769",
+      "address": {
+        "Street": "04 BP 1217",
+        "City": "Cotonou"
+      },
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1997,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Marriage and Family Studies",
+          "fields": [
+            "Family Studies",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Philosophy",
+          "fields": [
+            "Philosophy"
+          ]
+        },
+        {
+          "name": "Course/Programme : Psychology and Educational Sciences",
+          "fields": [
+            "Educational Sciences",
+            "Psychology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Educational Sciences",
+            "Family Studies",
+            "Philosophy",
+            "Psychology",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Family Studies",
+            "Sociology"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education and Scientific Research (MESRS)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Théophile Akoha"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1997",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "24552",
+      "iau_id": "IAU-024552",
+      "name": "Le Berger School of Vocational Education",
+      "alt_name": "Ecole Supérieure d'Enseignement Professionnel - Le Berger (ESEP - Le Berger)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBVLTMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024552",
+      "address": {
+        "Street": "Akpakpa",
+        "City": "Cotonou",
+        "WWW": "https://esepleberger.edu.bj/"
+      },
+      "website": "https://esepleberger.edu.bj/",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1999,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Campus : Marketing and Commercial Action",
+          "fields": [
+            "Business and Commerce",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Course/Programme : Banking and Corporate Finance",
+          "fields": [
+            "Banking",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Course/Programme : Banking and Insurance",
+          "fields": [
+            "Banking",
+            "Insurance"
+          ]
+        },
+        {
+          "name": "Course/Programme : Business Computing and NITC",
+          "fields": [
+            "Business Computing",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Commercial Management",
+          "fields": [
+            "Business and Commerce",
+            "Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Corporate Communication",
+          "fields": [
+            "Communication Studies"
+          ]
+        },
+        {
+          "name": "Course/Programme : Electronics",
+          "fields": [
+            "Electronic Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Finance, Accountancy and Management",
+          "fields": [
+            "Accountancy",
+            "Finance",
+            "Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Human Resources Management",
+          "fields": [
+            "Human Resources"
+          ]
+        },
+        {
+          "name": "Course/Programme : Industrial Informatics and Maintenance",
+          "fields": [
+            "Computer Science",
+            "Electrical and Electronic Equipment and Maintenance"
+          ]
+        },
+        {
+          "name": "Course/Programme : Insurance",
+          "fields": [
+            "Insurance"
+          ]
+        },
+        {
+          "name": "Course/Programme : Secretarial Studies",
+          "fields": [
+            "Secretarial Studies"
+          ]
+        },
+        {
+          "name": "Course/Programme : Telecommunications Engineering",
+          "fields": [
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Tourism and Leisure Studies",
+          "fields": [
+            "Leisure Studies",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Course/Programme : Transport and Logistics",
+          "fields": [
+            "Transport Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Banking",
+            "Commercial Law",
+            "Computer Science",
+            "Economics",
+            "Electrical Engineering",
+            "Entrepreneurship",
+            "Finance",
+            "Human Resources",
+            "Information Technology",
+            "International Relations and Diplomacy",
+            "Logistics Management",
+            "Marketing",
+            "Mass Communication",
+            "Public Administration",
+            "Sociology",
+            "Tourism"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education and Scientific Research (MESRS)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Germain Ganlonon"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Edouard Aho"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Alexis Agbessi"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1999.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "24570",
+      "iau_id": "IAU-024570",
+      "name": "Les Cours Sonou University",
+      "alt_name": "Université Les Cours Sonou",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBVLVNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024570",
+      "address": {
+        "Street": "Course Sonou BuildingParcelle B, Lot 66 du R.F.U CabomaLittoral 03 BP 2101",
+        "City": "Cotonou",
+        "Province": "Littoral",
+        "WWW": "https://lescoursonou-university.org/"
+      },
+      "website": "https://lescoursonou-university.org/",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2007,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : 1st Cycle Training",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business and Commerce",
+            "Business Computing",
+            "Communication Studies",
+            "Finance",
+            "Human Resources",
+            "Insurance",
+            "Management",
+            "Marketing",
+            "Secretarial Studies"
+          ]
+        },
+        {
+          "name": "Department/Division : 2nd Cycle Training",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Business and Commerce",
+            "Communication Studies",
+            "Economics",
+            "Finance",
+            "Human Resources",
+            "Insurance",
+            "International Relations and Diplomacy",
+            "Management",
+            "Marketing",
+            "Political Sciences"
+          ]
+        },
+        {
+          "name": "Department/Division : 3rd Cycle Training",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Human Resources",
+            "Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Actuarial Science",
+            "Banking",
+            "Business Administration",
+            "Communication Arts",
+            "Computer Networks",
+            "Electrical Engineering",
+            "Energy Engineering",
+            "Entrepreneurship",
+            "Finance",
+            "Human Resources",
+            "Industrial Engineering",
+            "Information Technology",
+            "International Relations and Diplomacy",
+            "Journalism",
+            "Logistics Management",
+            "Management",
+            "Marketing",
+            "Multimedia",
+            "Office Management",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Accountancy",
+            "Actuarial Science",
+            "Computer Networks",
+            "Electrical Engineering",
+            "Energy Engineering",
+            "Human Resources",
+            "Information Technology",
+            "International Relations and Diplomacy",
+            "Logistics Management",
+            "Management",
+            "Multimedia",
+            "Tourism"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education and Scientific Research (MESRS)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Fabrice Sonou"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2007.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "30756",
+      "iau_id": "IAU-030756",
+      "name": "National University of Agriculture",
+      "alt_name": "Université nationale d’Agriculture (UNA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sU2BXLTM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-030756",
+      "address": {
+        "Street": "01 BP 55",
+        "City": "Porto-Novo",
+        "WWW": "https://una.bj"
+      },
+      "website": "https://una.bj",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2013,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Graduate School : Agricultural and Water Sciences (Doctoral)",
+          "fields": [
+            "Agriculture",
+            "Water Science"
+          ]
+        },
+        {
+          "name": "School : Agribusiness and Agricultural Policies",
+          "fields": [
+            "Agricultural Business",
+            "Agricultural Management",
+            "Agriculture",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "School : Agricultural Product Conservation and Processing Sciences and Techniques",
+          "fields": [
+            "Agriculture",
+            "Biological and Life Sciences",
+            "Food Science",
+            "Nutrition",
+            "Packaging Technology"
+          ]
+        },
+        {
+          "name": "School : Aquaculture",
+          "fields": [
+            "Aquaculture"
+          ]
+        },
+        {
+          "name": "School : Horticulture and Green Space Planning",
+          "fields": [
+            "Horticulture"
+          ]
+        },
+        {
+          "name": "School : Livestock Systems Management and Operations",
+          "fields": [
+            "Animal Husbandry",
+            "Dairy",
+            "Meat and Poultry"
+          ]
+        },
+        {
+          "name": "School : Plant and Seed Management and Production",
+          "fields": [
+            "Biotechnology",
+            "Crop Production",
+            "Ecology",
+            "Plant and Crop Protection",
+            "Soil Conservation",
+            "Soil Management"
+          ]
+        },
+        {
+          "name": "School : Rural Engineering",
+          "fields": [
+            "Agricultural Engineering",
+            "Agricultural Equipment"
+          ]
+        },
+        {
+          "name": "School : Rural Sociology and Agricultural Extension",
+          "fields": [
+            "Rural Studies",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "School : Tropical Forestry",
+          "fields": [
+            "Forestry",
+            "Tropical Agriculture"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Agricultural Business",
+            "Agricultural Equipment",
+            "Agricultural Management",
+            "Agriculture",
+            "Apiculture",
+            "Aquaculture",
+            "Biotechnology",
+            "Crop Production",
+            "Dairy",
+            "Ecology",
+            "Farm Management",
+            "Finance",
+            "Fishery",
+            "Forest Management",
+            "Forestry",
+            "Horticulture",
+            "Marketing",
+            "Meat and Poultry",
+            "Natural Resources",
+            "Nutrition",
+            "Plant and Crop Protection",
+            "Rural Planning",
+            "Rural Studies",
+            "Safety Engineering",
+            "Sanitary Engineering",
+            "Soil Conservation",
+            "Soil Management",
+            "Sustainable Development",
+            "Wildlife"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Agricultural Business",
+            "Agricultural Equipment",
+            "Agricultural Management",
+            "Agriculture",
+            "Apiculture",
+            "Aquaculture",
+            "Biotechnology",
+            "Crop Production",
+            "Dairy",
+            "Ecology",
+            "Farm Management",
+            "Finance",
+            "Fishery",
+            "Forest Management",
+            "Forestry",
+            "Horticulture",
+            "Marketing",
+            "Meat and Poultry",
+            "Natural Resources",
+            "Nutrition",
+            "Plant and Crop Protection",
+            "Rural Planning",
+            "Rural Studies",
+            "Safety Engineering",
+            "Sanitary Engineering",
+            "Soil Conservation",
+            "Soil Management",
+            "Sustainable Development",
+            "Wildlife"
+          ]
+        },
+        {
+          "name": "Doctorat",
+          "fields": [
+            "Agricultural Economics",
+            "Agricultural Engineering",
+            "Animal Husbandry",
+            "Botany",
+            "Fishery",
+            "Food Science",
+            "Forestry",
+            "Horticulture",
+            "Nutrition",
+            "Rural Studies"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education and Scientific Research (MESRS)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Bruno Djossa"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2013 as Université d’Agriculture de Kétou (UAK), acquired current title 2016",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "30755",
+      "iau_id": "IAU-030755",
+      "name": "National University of Science, Technology, Engineering and Mathematics",
+      "alt_name": "Université nationale des Sciences, Technologies, Ingénierie et Mathématiques (UNSTIM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sU2BXLTM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-030755",
+      "address": {
+        "Street": "Hôtel de villeP.O. Box 486Sogbo-Aliho",
+        "City": "Abomey",
+        "WWW": "https://www.unstim.bj"
+      },
+      "website": "https://www.unstim.bj",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2016,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "College : Teacher Training (ENS/Nati)",
+          "fields": [
+            "Computer Education",
+            "Mathematics Education",
+            "Science Education",
+            "Technology Education"
+          ]
+        },
+        {
+          "name": "Faculty : Science and Technology (FAST/Natitingou)",
+          "fields": [
+            "Chemistry",
+            "Mathematics and Computer Science",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Institute : Industrial Technology (INST)",
+          "fields": [
+            "Civil Engineering",
+            "Computer Engineering",
+            "Electrical and Electronic Engineering",
+            "Electronic Engineering",
+            "Energy Engineering",
+            "Industrial Maintenance",
+            "Mechanical Engineering",
+            "Mechanical Equipment and Maintenance",
+            "Production Engineering",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Institute : Preparatory Classes for Engineering Studies (INSPEI)",
+          "fields": [
+            "Engineering",
+            "Technology"
+          ]
+        },
+        {
+          "name": "School : Applied Biosciences and Biotechnologies (ENSBBA)",
+          "fields": [
+            "Bioengineering",
+            "Biotechnology",
+            "Dietetics",
+            "Genetics",
+            "Nutrition"
+          ]
+        },
+        {
+          "name": "School : Energy and Process Engineering (ENSGEP)",
+          "fields": [
+            "Heating and Refrigeration",
+            "Mechanical Equipment and Maintenance"
+          ]
+        },
+        {
+          "name": "School : Public Works (ENSTP)",
+          "fields": [
+            "Architecture",
+            "Civil Engineering",
+            "Hydraulic Engineering",
+            "Sanitary Engineering",
+            "Surveying and Mapping",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "School : Technical Education (ENSET)",
+          "fields": [
+            "Agricultural Education",
+            "Business Education",
+            "Home Economics Education",
+            "Technology Education"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Agricultural Education",
+            "Architecture",
+            "Bioengineering",
+            "Biotechnology",
+            "Business Education",
+            "Chemistry",
+            "Civil Engineering",
+            "Computer Education",
+            "Computer Engineering",
+            "Dietetics",
+            "Electrical and Electronic Engineering",
+            "Energy Engineering",
+            "Genetics",
+            "Heating and Refrigeration",
+            "Home Economics Education",
+            "Hydraulic Engineering",
+            "Industrial Maintenance",
+            "Mathematics and Computer Science",
+            "Mathematics Education",
+            "Mechanical Engineering",
+            "Mechanical Equipment and Maintenance",
+            "Nutrition",
+            "Physics",
+            "Production Engineering",
+            "Sanitary Engineering",
+            "Science Education",
+            "Surveying and Mapping",
+            "Technology",
+            "Technology Education",
+            "Telecommunications Engineering",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Bioengineering",
+            "Biotechnology",
+            "Civil Engineering",
+            "Energy Engineering",
+            "Industrial Engineering",
+            "Mechanical Engineering",
+            "Production Engineering"
+          ]
+        },
+        {
+          "name": "Doctorat",
+          "fields": [
+            "Biological and Life Sciences",
+            "Chemistry",
+            "Engineering",
+            "Materials Engineering",
+            "Mathematics and Computer Science",
+            "Natural Sciences"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education and Scientific Research (MESRS)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Edmond Codjo Adjovi"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2016",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "30110",
+      "iau_id": "IAU-030110",
+      "name": "Obiang Nguema Mbasogo International Polytechnic University",
+      "alt_name": "Université polytechnique internationale Obiang Nguema Mbasogo (UPI-ONM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sU2BRLDNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-030110",
+      "address": {
+        "Street": "RNIE1 / Rue 142AImmeuble GlèlèPlace de l’Etoile Rouge",
+        "City": "Cotonou",
+        "Province": "Littoral",
+        "WWW": "https://www.upi-onm.com"
+      },
+      "website": "https://www.upi-onm.com",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1992,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Institute : Audit and Expertise",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Economics",
+            "English",
+            "Finance",
+            "Information Management",
+            "Law",
+            "Taxation"
+          ]
+        },
+        {
+          "name": "Institute : Business Administration",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Computing",
+            "Human Resources",
+            "Information Technology",
+            "International Business",
+            "Logistics Management",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "School : Agronomy",
+          "fields": [
+            "Agricultural Economics",
+            "Agronomy",
+            "Animal Husbandry",
+            "Nutrition",
+            "Vegetable Production"
+          ]
+        },
+        {
+          "name": "School : Audiovisual and Communication Techniques",
+          "fields": [
+            "Multimedia"
+          ]
+        },
+        {
+          "name": "School : Civil Engineering",
+          "fields": [
+            "Civil Engineering"
+          ]
+        },
+        {
+          "name": "School : Law",
+          "fields": [
+            "Administrative Law",
+            "Criminal Law",
+            "Law",
+            "Private Law",
+            "Public Law"
+          ]
+        },
+        {
+          "name": "School : Management",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Finance",
+            "Human Resources",
+            "Information Technology",
+            "Logistics Management",
+            "Management",
+            "Marketing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Business Computing",
+            "Communication Studies",
+            "Computer Engineering",
+            "Computer Networks",
+            "Finance",
+            "Human Resources",
+            "Insurance",
+            "Logistics Management",
+            "Management",
+            "Marketing",
+            "Telecommunications Engineering",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Business and Commerce",
+            "Business Computing",
+            "Communication Studies",
+            "Computer Engineering",
+            "Computer Networks",
+            "Finance",
+            "Human Resources",
+            "Labour and Industrial Relations",
+            "Logistics Management",
+            "Management",
+            "Marketing",
+            "Small Business",
+            "Telecommunications Engineering",
+            "Transport Management"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education and Scientific Research (MESRS)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Valère Kakaï Glèlè"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1992 as Complexe polytechnique international du Bénin (CEPIB), acquired current status and title 1998",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "24553",
+      "iau_id": "IAU-024553",
+      "name": "Panafrican University Institute",
+      "alt_name": "Institut Universitaire Panafricain (IUP)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBVLTMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024553",
+      "address": {
+        "Street": "Place de l’IndépendanceAvakpa-Tokpa01 BP 3950",
+        "City": "Porto-Novo",
+        "Province": "Ouémé",
+        "WWW": "https://iup-universite.com/"
+      },
+      "website": "https://iup-universite.com/",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2011,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : General Administration and International Relations",
+          "fields": [
+            "Administration",
+            "Business Administration",
+            "Communication Studies",
+            "International Relations and Diplomacy",
+            "Political Sciences"
+          ]
+        },
+        {
+          "name": "Department/Division : Journalism and Multimedia",
+          "fields": [
+            "Journalism",
+            "Multimedia",
+            "Radio and Television Broadcasting"
+          ]
+        },
+        {
+          "name": "Department/Division : Linguistics and Modern Letters",
+          "fields": [
+            "African Languages",
+            "English",
+            "French",
+            "German"
+          ]
+        },
+        {
+          "name": "Department/Division : Management Sciences",
+          "fields": [
+            "Accountancy",
+            "Human Resources",
+            "Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Translation and Interpreting",
+          "fields": [
+            "Translation and Interpretation"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Business Administration",
+            "Communication Studies",
+            "English",
+            "French",
+            "German",
+            "Human Resources",
+            "International Relations and Diplomacy",
+            "Journalism",
+            "Management",
+            "Multimedia",
+            "Political Sciences",
+            "Radio and Television Broadcasting"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "African Languages",
+            "Communication Studies",
+            "English",
+            "French",
+            "International Relations and Diplomacy",
+            "Political Sciences",
+            "Translation and Interpretation"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education and Scientific Research (MESRS)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Théophile Ggègninou Kodjo-Sonou"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Lucien M. Dossou-Kpanou"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2011. Formerly known as Institut d'Enseignement supérieur Sonou d'Afrique (IESSAF-Porto-Novo).",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "19635",
+      "iau_id": "IAU-019635",
+      "name": "Parakou University",
+      "alt_name": "Université de Parakou (UP)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RWLFM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019635",
+      "address": {
+        "Street": "CDE Road",
+        "City": "Parakou",
+        "Province": "Borgou",
+        "WWW": "https://www.univ-parakou.bj"
+      },
+      "website": "https://www.univ-parakou.bj",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2001,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Agronomy",
+          "fields": [
+            "Agriculture",
+            "Animal Husbandry",
+            "Aquaculture",
+            "Crop Production",
+            "Fishery",
+            "Food Science",
+            "Forestry",
+            "Plant and Crop Protection",
+            "Rural Studies",
+            "Sustainable Development",
+            "Water Management",
+            "Wildlife"
+          ]
+        },
+        {
+          "name": "Faculty : Economy and Management",
+          "fields": [
+            "Accountancy",
+            "Agricultural Business",
+            "Business Administration",
+            "Economics",
+            "Entrepreneurship",
+            "Finance",
+            "International Business",
+            "Marketing",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "Faculty : Law and Political Science",
+          "fields": [
+            "International Relations and Diplomacy",
+            "Political Sciences",
+            "Private Law",
+            "Public Law"
+          ]
+        },
+        {
+          "name": "Faculty : Letters, Arts, and Humanities",
+          "fields": [
+            "English Studies",
+            "Geography (Human)",
+            "German",
+            "Literature",
+            "Sociology",
+            "Spanish"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "General Medicine",
+            "Health Education"
+          ]
+        },
+        {
+          "name": "Institute : University Institute of Technology",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Business and Commerce",
+            "Human Resources",
+            "Information Management",
+            "Information Technology",
+            "Logistics Management",
+            "Management",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "School : Agriculture and Water Sciences",
+          "fields": [
+            "Animal Husbandry",
+            "Demography and Population",
+            "Ecology",
+            "Environmental Management",
+            "Forestry",
+            "Natural Resources",
+            "Plant and Crop Protection",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "School : Planning, Statistics, and Demographics",
+          "fields": [
+            "Demography and Population",
+            "Statistics",
+            "Urban Studies"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Accountancy",
+            "Agricultural Business",
+            "Agriculture",
+            "Aquaculture",
+            "Banking",
+            "Business Administration",
+            "Crop Production",
+            "Demography and Population",
+            "Economics",
+            "English Studies",
+            "Entrepreneurship",
+            "Finance",
+            "Fishery",
+            "Food Science",
+            "Geography (Human)",
+            "German",
+            "Information Technology",
+            "International Business",
+            "International Relations and Diplomacy",
+            "Literature",
+            "Logistics Management",
+            "Management",
+            "Marketing",
+            "Plant and Crop Protection",
+            "Political Sciences",
+            "Private Law",
+            "Public Administration",
+            "Public Law",
+            "Rural Studies",
+            "Sociology",
+            "Spanish",
+            "Statistics",
+            "Sustainable Development",
+            "Urban Studies"
+          ]
+        },
+        {
+          "name": "Doctorat en Médecine",
+          "fields": [
+            "General Medicine"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Accountancy",
+            "Agricultural Business",
+            "Agriculture",
+            "Animal Husbandry",
+            "Aquaculture",
+            "Banking",
+            "Business Administration",
+            "Business and Commerce",
+            "Demography and Population",
+            "Ecology",
+            "Economics",
+            "English Studies",
+            "Entrepreneurship",
+            "Environmental Management",
+            "Finance",
+            "Food Science",
+            "Forestry",
+            "Geography (Human)",
+            "Human Resources",
+            "Information Management",
+            "Information Technology",
+            "International Business",
+            "International Relations and Diplomacy",
+            "Logistics Management",
+            "Management",
+            "Marketing",
+            "Natural Resources",
+            "Plant and Crop Protection",
+            "Political Sciences",
+            "Private Law",
+            "Public Administration",
+            "Public Law",
+            "Rural Studies",
+            "Sociology",
+            "Software Engineering",
+            "Statistics",
+            "Sustainable Development",
+            "Water Management",
+            "Wildlife"
+          ]
+        },
+        {
+          "name": "Doctorat",
+          "fields": [
+            "Animal Husbandry",
+            "Crop Production",
+            "Demography and Population",
+            "Ecology",
+            "Environmental Management",
+            "Forestry",
+            "Natural Resources"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education and Scientific Research (MESRS)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Bertrand Sogbossi Bocco"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Marc-Abel Ayedoun"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Nestor Sokpon"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2001 by Ministerial decree to accommodate the influx of upper six formers (holders of Baccalaureat) wishing to gain admission into higher institutions under adequate conditions.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "13515",
+      "iau_id": "IAU-013515",
+      "name": "Pigier Benin",
+      "alt_name": "Pigier Bénin",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyxVLDM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-013515",
+      "address": {
+        "Street": "Carré 1270Rue 320Agontikon-Ayidote",
+        "City": "Cotonou",
+        "Province": "Littoral",
+        "WWW": "https://pigier-benin.com/"
+      },
+      "website": "https://pigier-benin.com/",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1994,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Audit and Management Control",
+          "fields": [
+            "Accountancy",
+            "Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Audit and Management Control (Postgraduate)",
+          "fields": [
+            "Accountancy",
+            "Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Banking and Corporate Finance",
+          "fields": [
+            "Banking",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Course/Programme : Bilingual Executive Assistant",
+          "fields": [
+            "Secretarial Studies"
+          ]
+        },
+        {
+          "name": "Course/Programme : Business Management (Postgraduate)",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Course/Programme : Communication and Marketing (Postgraduate)",
+          "fields": [
+            "Communication Studies",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Course/Programme : Finance (Postgraduate)",
+          "fields": [
+            "Finance"
+          ]
+        },
+        {
+          "name": "Course/Programme : Human Resources Management",
+          "fields": [
+            "Human Resources"
+          ]
+        },
+        {
+          "name": "Course/Programme : Human Resources Management (Postgraduate)",
+          "fields": [
+            "Human Resources"
+          ]
+        },
+        {
+          "name": "Course/Programme : Negotiation and Multimedia Communication",
+          "fields": [
+            "Communication Studies",
+            "Multimedia"
+          ]
+        },
+        {
+          "name": "Course/Programme : Networks and Software Engineering",
+          "fields": [
+            "Computer Networks",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Quality and Project Management (Postgraduate)",
+          "fields": [
+            "Industrial Management",
+            "Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Taxation and Business Law (Postgraduate)",
+          "fields": [
+            "Commercial Law",
+            "Taxation"
+          ]
+        },
+        {
+          "name": "Course/Programme : Transport and Logistics Management",
+          "fields": [
+            "Transport and Communications",
+            "Transport Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Commercial Law",
+            "Communication Arts",
+            "Computer Networks",
+            "Entrepreneurship",
+            "Human Resources",
+            "International Business",
+            "Logistics Management",
+            "Marketing",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Accountancy",
+            "Artificial Intelligence",
+            "Business Administration",
+            "Business and Commerce",
+            "Computer Networks",
+            "Finance",
+            "Human Resources",
+            "Logistics Management",
+            "Management",
+            "Marketing",
+            "Software Engineering",
+            "Taxation"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education and Scientific Research (MESRS)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Victor V. Assogba"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Gérard Akindes"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1994.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "24564",
+      "iau_id": "IAU-024564",
+      "name": "Sainte Félicité School",
+      "alt_name": "Ecole supérieure Sainte Félicité (ESSF)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBVLUMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024564",
+      "address": {
+        "Street": "Route Inter-état Cotonou-CalaviEn face de l´Eglise Protestante et Méthodiste",
+        "City": "Godomey-Houédonou",
+        "WWW": "https://www.saintefeliciteuniversity.bj/"
+      },
+      "website": "https://www.saintefeliciteuniversity.bj/",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2006,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Industrial Sector Studies",
+          "fields": [
+            "Biomedical Engineering",
+            "Business Computing",
+            "Computer Engineering",
+            "Computer Science",
+            "Electronic Engineering",
+            "Electronics and Automation",
+            "Maintenance Technology",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Department/Division : Tertiary Sector Studies",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business and Commerce",
+            "Communication Studies",
+            "Finance",
+            "Hotel Management",
+            "Human Resources",
+            "Insurance",
+            "Law",
+            "Management",
+            "Marketing",
+            "Public Relations",
+            "Safety Engineering",
+            "Secretarial Studies",
+            "Tourism",
+            "Transport Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Biochemistry",
+            "Business Administration",
+            "Computer Engineering",
+            "Computer Science",
+            "Economics",
+            "Finance",
+            "French",
+            "Human Resources",
+            "Information Technology",
+            "International Relations and Diplomacy",
+            "Logistics Management",
+            "Management",
+            "Marketing",
+            "Mass Communication",
+            "Microbiology",
+            "Political Sciences",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Computer Engineering",
+            "Computer Science",
+            "Economics",
+            "Finance",
+            "Human Resources",
+            "Information Technology",
+            "Logistics Management",
+            "Management",
+            "Marketing",
+            "Political Sciences",
+            "Transport Management"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education and Scientific Research (MESRS)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "René-Kinée Allamagbo"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Houessou Chantal"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2006.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "24560",
+      "iau_id": "IAU-024560",
+      "name": "School of Administration and Economics",
+      "alt_name": "Ecole Supérieur d'Administration et d'Economie (ESAE)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBVLUNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024560",
+      "address": {
+        "Street": "Corner of Avenue des Amazones and Rue 220,Gbèdjromédé",
+        "City": "Cotonou",
+        "WWW": "https://esae.bj/"
+      },
+      "website": "https://esae.bj/",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2011,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Administration",
+            "Banking",
+            "Economics",
+            "Finance",
+            "Human Resources",
+            "Journalism",
+            "Law",
+            "Logistics Management",
+            "Management"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Administration",
+            "Banking",
+            "Finance",
+            "Human Resources",
+            "Journalism",
+            "Logistics Management",
+            "Management"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education and Scientific Research (MESRS)",
+      "officers": [],
+      "statistics": {},
+      "history": "Founded 2011.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "4286",
+      "iau_id": "IAU-004286",
+      "name": "School of Business Computing and Sciences Management",
+      "alt_name": "Ecole supérieure de Gestion d'Informatique et des Sciences (ESGIS Cotonou)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIyhYLUBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004286",
+      "address": {
+        "Street": "Bd de l’Ouémé Jérico06 P.O. Box 3233",
+        "City": "Cotonou",
+        "WWW": "http://www.esgis.org"
+      },
+      "website": "http://www.esgis.org",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2006,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Accountancy",
+          "fields": [
+            "Accountancy"
+          ]
+        },
+        {
+          "name": "Course/Programme : Business Administration",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Course/Programme : Computer Engineering",
+          "fields": [
+            "Computer Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Computer Science",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Course/Programme : Economics",
+          "fields": [
+            "Economics"
+          ]
+        },
+        {
+          "name": "Course/Programme : Human Resource Management",
+          "fields": [
+            "Human Resources"
+          ]
+        },
+        {
+          "name": "Course/Programme : International Management",
+          "fields": [
+            "Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : International Relations",
+          "fields": [
+            "International Relations and Diplomacy"
+          ]
+        },
+        {
+          "name": "Course/Programme : Postgraduate Studies",
+          "fields": [
+            "Business Administration",
+            "Computer Science",
+            "International Relations and Diplomacy"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Communication Studies",
+            "Computer Networks",
+            "Computer Science",
+            "Finance",
+            "Human Resources",
+            "International Business",
+            "Management",
+            "Marketing",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Communication Studies",
+            "Computer Networks",
+            "Computer Science",
+            "Finance",
+            "Human Resources",
+            "International Business",
+            "Management",
+            "Marketing",
+            "Telecommunications Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education and Scientific Research (MESRS)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Marcel Macy Akakpo"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2006.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "7054",
+      "iau_id": "IAU-007054",
+      "name": "School of Commerce and Management",
+      "alt_name": "Haute Ecole de Commerce et de Management (HECM)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tU2BVLWBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007054",
+      "address": {
+        "Street": "01 BP 3842Lot 485 Bar Tito",
+        "City": "Cotonou",
+        "WWW": "https://www.hecm-afrique.net"
+      },
+      "website": "https://www.hecm-afrique.net",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1999,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Agricultural Engineering",
+            "Banking",
+            "Biomedicine",
+            "Computer Engineering",
+            "Entrepreneurship",
+            "Finance",
+            "Human Resources",
+            "Information Technology",
+            "Journalism",
+            "Logistics Management",
+            "Marketing",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Banking",
+            "Computer Engineering",
+            "Entrepreneurship",
+            "Finance",
+            "Human Resources",
+            "Marketing"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education and Scientific Research (MESRS); African and Malagasy Council for Higher Education (CAMES)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Natondé Ake"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1999.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "24558",
+      "iau_id": "IAU-024558",
+      "name": "School of Management",
+      "alt_name": "Ecole Supérieure de Management – ESM-Benin University (ESM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBVLTNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024558",
+      "address": {
+        "Street": "CEG AnavieHounsa Carrefour",
+        "City": "Porto-Novo",
+        "WWW": "https://esm-benin.com"
+      },
+      "website": "https://esm-benin.com",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2007,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English",
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Management and Social Sciences",
+          "fields": [
+            "Accountancy",
+            "Advertising and Publicity",
+            "Banking",
+            "Business Administration",
+            "Economics",
+            "Hotel Management",
+            "Human Resources",
+            "Industrial Management",
+            "Insurance",
+            "International Relations and Diplomacy",
+            "Journalism",
+            "Mass Communication",
+            "Tourism",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Faculty : Natural and Applied Science",
+          "fields": [
+            "Computer Science",
+            "Information Technology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Master",
+          "fields": [
+            "Accountancy",
+            "Advertising and Publicity",
+            "Banking",
+            "Business Administration",
+            "Computer Science",
+            "Economics",
+            "Hotel Management",
+            "Human Resources",
+            "Industrial Management",
+            "Information Technology",
+            "Insurance",
+            "International Relations and Diplomacy",
+            "Journalism",
+            "Management",
+            "Mass Communication",
+            "Tourism",
+            "Transport Management"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education and Scientific Research (MESRS)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Isidor Hounhuèdo"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2007.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "30774",
+      "iau_id": "IAU-030774",
+      "name": "School of Technology and Management",
+      "alt_name": "Ecole supérieure de Technologie et de Gestion (ESTG-BENIN)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sU2BXLVMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-030774",
+      "address": {
+        "Street": "397, Fidjrossè Kpota",
+        "City": "Cotonou",
+        "WWW": "https://estg-benin.com"
+      },
+      "website": "https://estg-benin.com",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2013,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Communication",
+          "fields": [
+            "Communication Studies"
+          ]
+        },
+        {
+          "name": "Course/Programme : Finance",
+          "fields": [
+            "Finance"
+          ]
+        },
+        {
+          "name": "Course/Programme : IT",
+          "fields": [
+            "Computer Science",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Management",
+          "fields": [
+            "Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Marketing",
+          "fields": [
+            "Marketing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business and Commerce",
+            "Communication Studies",
+            "Finance",
+            "Human Resources",
+            "Information Technology",
+            "Insurance",
+            "Logistics Management",
+            "Management",
+            "Marketing",
+            "Software Engineering",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business and Commerce",
+            "Communication Studies",
+            "Entrepreneurship",
+            "Finance",
+            "Human Resources",
+            "Insurance",
+            "Management",
+            "Marketing"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education and Scientific Research (MESRS)",
+      "officers": [],
+      "statistics": {},
+      "history": "Founded 2013",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "4284",
+      "iau_id": "IAU-004284",
+      "name": "Verechaguine A.K. School of Civil Engineering",
+      "alt_name": "Ecole supérieure de Génie Civil Verechaguine (ESGC VAK)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIyhYLWBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004284",
+      "address": {
+        "Street": "Rue 617A",
+        "City": "Cotonou",
+        "Province": "Littoral",
+        "WWW": "https://esgcvak.com/"
+      },
+      "website": "https://esgcvak.com/",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1998,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Civil Engineering",
+          "fields": [
+            "Civil Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Environmental Protection",
+          "fields": [
+            "Environmental Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Surveying and Mapping",
+          "fields": [
+            "Surveying and Mapping"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Civil Engineering",
+            "Environmental Management",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Civil Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education and Scientific Research (MESRS); Department of Private Higher Education Institutions",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Alexandre Aïsse"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1998.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    }
+  ]
+}

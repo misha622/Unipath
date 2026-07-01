@@ -1,0 +1,2467 @@
+{
+  "country_name": "Rwanda",
+  "country_id": "Rwanda",
+  "institutions": [
+    {
+      "id": "19490",
+      "iau_id": "IAU-019490",
+      "name": "Adventist University of Central Africa",
+      "alt_name": "(AUCA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RULjNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019490",
+      "address": {
+        "Street": "P.O. BOX 4285KK 737 Street, Gikondo",
+        "City": "Kigali",
+        "WWW": "https://ur.ac.rw"
+      },
+      "website": "https://ur.ac.rw",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to May",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "College : Agriculture, Animal Sciences and Veterinary Medicine",
+          "fields": [
+            "Agricultural Business",
+            "Agricultural Economics",
+            "Agricultural Engineering",
+            "Agricultural Equipment",
+            "Agriculture",
+            "Animal Husbandry",
+            "Biology",
+            "Crop Production",
+            "Food Science",
+            "Forestry",
+            "Horticulture",
+            "Irrigation",
+            "Rural Planning",
+            "Rural Studies",
+            "Soil Management",
+            "Soil Science",
+            "Veterinary Science",
+            "Water Management"
+          ]
+        },
+        {
+          "name": "College : Arts and Social Sciences",
+          "fields": [
+            "Administration",
+            "Arts and Humanities",
+            "Communication Arts",
+            "Development Studies",
+            "English",
+            "French",
+            "Government",
+            "Journalism",
+            "Law",
+            "Linguistics",
+            "Literature",
+            "Peace and Disarmament",
+            "Political Sciences",
+            "Publishing and Book Trade",
+            "Social Sciences",
+            "Swahili",
+            "Translation and Interpretation"
+          ]
+        },
+        {
+          "name": "College : Business and Economics",
+          "fields": [
+            "Accountancy",
+            "Actuarial Science",
+            "Banking",
+            "Business Administration",
+            "Business Computing",
+            "Economics",
+            "Finance",
+            "Human Resources",
+            "Insurance",
+            "International Economics",
+            "Marketing",
+            "Statistics",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "College : Education",
+          "fields": [
+            "Business Education",
+            "Education",
+            "Foreign Languages Education",
+            "Humanities and Social Science Education",
+            "Mathematics Education",
+            "Physical Education",
+            "Preschool Education",
+            "Primary Education",
+            "Science Education",
+            "Secondary Education",
+            "Special Education"
+          ]
+        },
+        {
+          "name": "College : Medicine and Health Sciences",
+          "fields": [
+            "Anaesthesiology",
+            "Clinical Psychology",
+            "Community Health",
+            "Dentistry",
+            "Dietetics",
+            "Health Sciences",
+            "Medical Auxiliaries",
+            "Medical Technology",
+            "Medicine",
+            "Midwifery",
+            "Nursing",
+            "Nutrition",
+            "Ophthalmology",
+            "Pharmacy",
+            "Physical Therapy",
+            "Public Health"
+          ]
+        },
+        {
+          "name": "College : Science and Technology",
+          "fields": [
+            "Applied Chemistry",
+            "Applied Mathematics",
+            "Applied Physics",
+            "Architecture",
+            "Biology",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Electrical and Electronic Engineering",
+            "Engineering",
+            "Food Science",
+            "Food Technology",
+            "Geology",
+            "Industrial Management",
+            "Information Technology",
+            "Mechanical Engineering",
+            "Mining Engineering",
+            "Natural Sciences",
+            "Real Estate",
+            "Technology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Animal Husbandry",
+            "Applied Chemistry",
+            "Applied Mathematics",
+            "Arts and Humanities",
+            "Biology",
+            "Computer Science",
+            "Dentistry",
+            "Engineering",
+            "Food Science",
+            "Food Technology",
+            "History",
+            "Horticulture",
+            "Information Sciences",
+            "Information Technology",
+            "Irrigation",
+            "Logistics Management",
+            "Natural Sciences",
+            "Police Studies",
+            "Social Sciences",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Bachelor Honours Degree",
+          "fields": [
+            "Accountancy",
+            "Actuarial Science",
+            "Administration",
+            "Agricultural Business",
+            "Agricultural Economics",
+            "Agricultural Engineering",
+            "Agricultural Equipment",
+            "Agriculture",
+            "Anaesthesiology",
+            "Animal Husbandry",
+            "Applied Chemistry",
+            "Applied Mathematics",
+            "Applied Physics",
+            "Architecture",
+            "Arts and Humanities",
+            "Banking",
+            "Biochemistry",
+            "Biology",
+            "Biomedicine",
+            "Biotechnology",
+            "Botany",
+            "Business Administration",
+            "Business Computing",
+            "Business Education",
+            "Chemistry",
+            "Civil Engineering",
+            "Clinical Psychology",
+            "Communication Arts",
+            "Community Health",
+            "Computer Engineering",
+            "Crop Production",
+            "Design",
+            "Development Studies",
+            "Dietetics",
+            "Economics",
+            "Education",
+            "Electrical and Electronic Engineering",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Engineering",
+            "English",
+            "Environmental Management",
+            "Finance",
+            "Food Science",
+            "Food Technology",
+            "Foreign Languages Education",
+            "Forestry",
+            "French",
+            "Geography",
+            "Geology",
+            "Health Sciences",
+            "Horticulture",
+            "Human Resources",
+            "Humanities and Social Science Education",
+            "Industrial Management",
+            "Information Technology",
+            "Insurance",
+            "International Economics",
+            "Irrigation",
+            "Journalism",
+            "Law",
+            "Linguistics",
+            "Literature",
+            "Marketing",
+            "Mathematics Education",
+            "Mechanical Engineering",
+            "Medical Auxiliaries",
+            "Medical Technology",
+            "Medicine",
+            "Midwifery",
+            "Military Science",
+            "Mining Engineering",
+            "Native Language Education",
+            "Natural Sciences",
+            "Nursing",
+            "Nutrition",
+            "Occupational Therapy",
+            "Ophthalmology",
+            "Performing Arts",
+            "Pharmacy",
+            "Physical Education",
+            "Physical Therapy",
+            "Physics",
+            "Political Sciences",
+            "Primary Education",
+            "Production Engineering",
+            "Public Health",
+            "Publishing and Book Trade",
+            "Real Estate",
+            "Religious Studies",
+            "Rural Planning",
+            "Rural Studies",
+            "Science Education",
+            "Secondary Education",
+            "Social Sciences",
+            "Social Work",
+            "Sociology",
+            "Soil Management",
+            "Soil Science",
+            "Special Education",
+            "Statistics",
+            "Surveying and Mapping",
+            "Swahili",
+            "Technology",
+            "Telecommunications Engineering",
+            "Translation and Interpretation",
+            "Transport Engineering",
+            "Transport Management",
+            "Water Management",
+            "Zoology"
+          ]
+        },
+        {
+          "name": "Bachelor of Medicine and Surgery",
+          "fields": [
+            "Dentistry",
+            "Medicine",
+            "Veterinary Science"
+          ]
+        },
+        {
+          "name": "Postgraduate Certificate",
+          "fields": [
+            "Higher Education Teacher Training",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Postgraduate Diploma",
+          "fields": [
+            "Education",
+            "Educational and Student Counselling",
+            "Medicine",
+            "Technology Education",
+            "Vocational Education"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Accountancy",
+            "Agricultural Business",
+            "Agricultural Engineering",
+            "Anaesthesiology",
+            "Anatomy",
+            "Animal Husbandry",
+            "Business Administration",
+            "Chemistry",
+            "Clinical Psychology",
+            "Commercial Law",
+            "Computer Engineering",
+            "Crop Production",
+            "Curriculum",
+            "Data Science",
+            "Development Studies",
+            "Economics",
+            "Education",
+            "Educational Administration",
+            "Electrical Engineering",
+            "Energy Engineering",
+            "Entrepreneurship",
+            "Environmental Management",
+            "Environmental Studies",
+            "Epidemiology",
+            "Forestry",
+            "Gender Studies",
+            "Government",
+            "Health Administration",
+            "History of Law",
+            "Information Sciences",
+            "Information Technology",
+            "Internal Medicine",
+            "International Law",
+            "Medical Technology",
+            "Medicine",
+            "Meteorology",
+            "Midwifery",
+            "Natural Resources",
+            "Neurology",
+            "Nursing",
+            "Orthopaedics",
+            "Otorhinolaryngology",
+            "Paediatrics",
+            "Peace and Disarmament",
+            "Pharmacy",
+            "Physics",
+            "Psychiatry and Mental Health",
+            "Public Administration",
+            "Public Health",
+            "Radiology",
+            "Road Engineering",
+            "Social Sciences",
+            "Soil Science",
+            "Special Education",
+            "Surgery",
+            "Surveying and Mapping",
+            "Sustainable Development",
+            "Telecommunications Engineering",
+            "Telecommunications Technology",
+            "Translation and Interpretation",
+            "Transport Economics",
+            "Transport Engineering",
+            "Urology",
+            "Water Management",
+            "Water Science"
+          ]
+        },
+        {
+          "name": "PhD",
+          "fields": [
+            "Accountancy",
+            "Actuarial Science",
+            "Agricultural Engineering",
+            "Agriculture",
+            "Applied Mathematics",
+            "Banking",
+            "Biochemistry",
+            "Biological and Life Sciences",
+            "Biology",
+            "Biotechnology",
+            "Chemistry",
+            "Clinical Psychology",
+            "Commercial Law",
+            "Computer Science",
+            "Criminal Law",
+            "Curriculum",
+            "Demography and Population",
+            "Development Studies",
+            "Econometrics",
+            "Economics",
+            "Education",
+            "Educational Psychology",
+            "Entrepreneurship",
+            "Environmental Engineering",
+            "Environmental Management",
+            "Epidemiology",
+            "Finance",
+            "Forestry",
+            "Gender Studies",
+            "Government",
+            "Health Administration",
+            "History",
+            "Human Resources",
+            "Human Rights",
+            "Information Technology",
+            "Inorganic Chemistry",
+            "International Law",
+            "International Relations and Diplomacy",
+            "Leadership",
+            "Linguistics",
+            "Literature",
+            "Management",
+            "Marketing",
+            "Mathematics",
+            "Medicine",
+            "Microbiology",
+            "Nursing",
+            "Organic Chemistry",
+            "Peace and Disarmament",
+            "Pharmacy",
+            "Physical Chemistry",
+            "Physical Therapy",
+            "Physics",
+            "Political Sciences",
+            "Public Administration",
+            "Public Health",
+            "Road Engineering",
+            "Social Sciences",
+            "Social Work",
+            "Software Engineering",
+            "Soil Science",
+            "Statistics",
+            "Translation and Interpretation",
+            "Veterinary Science"
+          ]
+        }
+      ],
+      "accreditation": "Higher Education Council (HEC)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Muganga Didas Kayihura"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Raymond Ndikumana"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Ignatius Kabagambe"
+        }
+      ],
+      "statistics": {},
+      "history": "The University of Rwanda (UR) was established in 2013 through a merger of the former seven Public Higher Learning Institutions - the National University of Rwanda (NUR), Kigali Institute of Science and Technology (KIST), Kigali Institute of Education (KIE), Institute of Agriculture and Animal Husbandry (ISAE), Kigali Health Institute (KHI), School of Finance and Banking (SFB) and Umutara Polytechnic (UP). Later, it also integrated 3 Nursing Schools.The oldest of these institutions that merged to form UR was the National University of Rwanda created in 1963. UR is the largest and most comprehensive university in Rwanda with about 31,760 students (2015/2016) registered in its six colleges: College of Arts and Social Sciences (CASS), College of Agriculture, Animal Sciences and Veterinary Medicine (CAVM), College of Business and Economics (CBE), College of Education (CE), College of Medicine and Health Sciences (CMHS) and College of Science and Technology (CST). UR offers courses on 14 campuses scattered around Rwanda.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "30566",
+      "iau_id": "IAU-030566",
+      "name": "African Institute for Mathematical Sciences",
+      "alt_name": "(AIMS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sU2BVLUM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-030566",
+      "address": {
+        "Street": "P.O. Box 2461",
+        "City": "Kigali",
+        "WWW": "https://www.auca.ac.rw"
+      },
+      "website": "https://www.auca.ac.rw",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1978,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "September to August",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "College : Health Sciences",
+          "fields": [
+            "Midwifery",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Faculty : Business Administration",
+          "fields": [
+            "Accountancy",
+            "Finance",
+            "Human Resources",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Education",
+            "Educational Administration",
+            "Educational Technology",
+            "English",
+            "Mathematics Education",
+            "Phonetics"
+          ]
+        },
+        {
+          "name": "Faculty : Information Technology",
+          "fields": [
+            "Computer Networks",
+            "Information Management",
+            "Information Technology",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Theology",
+          "fields": [
+            "Theology"
+          ]
+        },
+        {
+          "name": "School : Medicine",
+          "fields": [
+            "Medicine"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Business Education",
+            "Computer Education",
+            "Education",
+            "Educational Psychology",
+            "English",
+            "Foreign Languages Education",
+            "French",
+            "Mathematics Education",
+            "Religious Education",
+            "Science Education"
+          ]
+        },
+        {
+          "name": "Bachelor Honours Degree",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Computer Networks",
+            "Education",
+            "Finance",
+            "Information Management",
+            "Information Technology",
+            "Management",
+            "Marketing",
+            "Midwifery",
+            "Nursing",
+            "Software Engineering",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Bachelor of Medicine and Surgery",
+          "fields": [
+            "Medicine",
+            "Surgery"
+          ]
+        },
+        {
+          "name": "Postgraduate Diploma",
+          "fields": [
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Curriculum",
+            "Education",
+            "Educational Administration",
+            "Finance",
+            "Human Resources",
+            "Management"
+          ]
+        }
+      ],
+      "accreditation": "Adventist Accrediting Association; Higher Education Council (HEC)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Eustace Penniecook"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Etienne Niyomugaba"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Théogène Niyonzima"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Ferdinand Mbonaruza"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1978. Officially opened in 1984. AUCA has three campuses:  two in Kigali the capital - Masoro campus (Main), Gishushu campus for Science and Technology, and Ngoma Nursing campus in the Western Province. AUCA is the first private university to be established in Rwanda, and it enjoys a track record reputation in quality teaching since then, locally and regionally. AUCA hosts one of the prestigious medical schools, the Adventist School of Medicine of East-Central Africa (ASOME), at its Masoro campus in Kigali city. ASOME started its first cohort of medical students in March 2021.",
+      "periodicals": [
+        "Adventist University of Central Africa Journal",
+        "Adventist University of Central Africa Journal"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "30477",
+      "iau_id": "IAU-030477",
+      "name": "African Leadership University",
+      "alt_name": "(ALU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sU2BULVM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-030477",
+      "address": {
+        "Street": "KN3 Road, Remera",
+        "City": "Kigali",
+        "WWW": "https://aims.ac.rw"
+      },
+      "website": "https://aims.ac.rw",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2016,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Mathematics",
+          "fields": [
+            "Mathematics"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Master",
+          "fields": [
+            "Mathematics"
+          ]
+        }
+      ],
+      "accreditation": "Higher Education Council (HEC)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Sam Yala"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Blaise Tchapnda"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2016",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "2025",
+      "iau_id": "IAU-002025",
+      "name": "Catholic University of Rwanda",
+      "alt_name": "(CUR)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sQ2BSLTBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-002025",
+      "address": {
+        "Street": "BumbogoKigali Innovation City, Next to Azam",
+        "City": "Kigali",
+        "WWW": "https://www.alueducation.com"
+      },
+      "website": "https://www.alueducation.com",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "January - April; May - August; September - December",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Undergraduate",
+          "fields": [
+            "International Business",
+            "Leadership",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "School : Postgraduate School of Business",
+          "fields": [
+            "Institutional Administration",
+            "International Business",
+            "Leadership",
+            "Management Systems",
+            "Private Administration",
+            "Public Administration"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor Honours Degree",
+          "fields": [
+            "Computer Science",
+            "Entrepreneurship",
+            "International Business",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Postgraduate Diploma",
+          "fields": [
+            "Leadership",
+            "Management"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Business Administration"
+          ]
+        }
+      ],
+      "accreditation": "Higher Education Council (HEC)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Thwala Nhlanhla"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Elizabeth Babalola"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Lucie Kabatesi"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2024-2025",
+        "Staff Full Time Male:": "9",
+        "Staff Full Time Female:": "1",
+        "Staff Full Time Total:": "10",
+        "Students Statistics Year:": "2024-2025",
+        "Students Total:": "2838",
+        "Students Foreign Total:": "1083"
+      },
+      "history": "Created 2016",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "30563",
+      "iau_id": "IAU-030563",
+      "name": "East African Christian College",
+      "alt_name": "(EACC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sU2BVLUMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-030563",
+      "address": {
+        "Street": "P.O. Box 49",
+        "City": "Butaré",
+        "WWW": "https://www.cur.ac.rw"
+      },
+      "website": "https://www.cur.ac.rw",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2010,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Catechesis and Religious Science",
+          "fields": [
+            "Religious Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Commerce",
+          "fields": [
+            "Accountancy",
+            "Business and Commerce",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Computer Education",
+            "Education",
+            "Educational Administration",
+            "Educational Sciences",
+            "Mathematics Education"
+          ]
+        },
+        {
+          "name": "Faculty : Public Health and Human Nutrition",
+          "fields": [
+            "Midwifery",
+            "Nursing",
+            "Nutrition",
+            "Public Health"
+          ]
+        },
+        {
+          "name": "Faculty : Science and Technology",
+          "fields": [
+            "Natural Sciences",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Social Work and Welfare Development",
+          "fields": [
+            "Family Studies",
+            "Social Work",
+            "Welfare and Protective Services"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Business Education",
+            "Computer Education",
+            "English",
+            "Management",
+            "Mathematics Education",
+            "Science Education",
+            "Swahili"
+          ]
+        },
+        {
+          "name": "Bachelor Honours Degree",
+          "fields": [
+            "Banking",
+            "Biomedicine",
+            "Business and Commerce",
+            "Computer Education",
+            "Education",
+            "Educational Administration",
+            "Engineering Management",
+            "Family Studies",
+            "Mathematics Education",
+            "Nutrition",
+            "Public Health",
+            "Religious Studies",
+            "Social Welfare",
+            "Welfare and Protective Services"
+          ]
+        },
+        {
+          "name": "Postgraduate Diploma",
+          "fields": [
+            "Education"
+          ]
+        }
+      ],
+      "accreditation": "Higher Education Council (HEC)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Laurent Ntaganda"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2010.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "24176",
+      "iau_id": "IAU-024176",
+      "name": "East African University Rwanda",
+      "alt_name": "(EAUR)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBRLVM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024176",
+      "address": {
+        "Street": "Kabuga",
+        "City": "Kigali",
+        "WWW": "https://eacc.ac.rw"
+      },
+      "website": "https://eacc.ac.rw",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2018,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Business Management and Economics",
+          "fields": [
+            "Business Administration",
+            "Economics"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Business Education",
+            "Education",
+            "Foreign Languages Education",
+            "Mathematics Education",
+            "Native Language Education",
+            "Science Education"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences",
+          "fields": [
+            "Midwifery",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Faculty : Theology and Religion",
+          "fields": [
+            "Religious Studies",
+            "Theology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Business Administration",
+            "Economics",
+            "Midwifery",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Bachelor Honours Degree",
+          "fields": [
+            "Business Education",
+            "Education",
+            "Foreign Languages Education",
+            "Native Language Education",
+            "Science Education"
+          ]
+        },
+        {
+          "name": "Postgraduate Diploma",
+          "fields": [
+            "Education",
+            "Theology"
+          ]
+        }
+      ],
+      "accreditation": "Higher Education Council (HEC)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Papias Musafiri Malimba"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2018.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "7902",
+      "iau_id": "IAU-007902",
+      "name": "INES-Ruhengeri",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tU0RQLEBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007902",
+      "address": {
+        "Street": "P.O. Box 179EN 16 AV",
+        "City": "Nyagatare",
+        "Province": "Eastern Province",
+        "WWW": "https://eaur.ac.rw"
+      },
+      "website": "https://eaur.ac.rw",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2015,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "School : Business Administration and Management Studies",
+          "fields": [
+            "Business Administration",
+            "Management"
+          ]
+        },
+        {
+          "name": "School : Education",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "School : Film",
+          "fields": [
+            "Film"
+          ]
+        },
+        {
+          "name": "School : Industrial Art and Design",
+          "fields": [
+            "Design",
+            "Fine Arts",
+            "Industrial Design"
+          ]
+        },
+        {
+          "name": "School : Mass Communication",
+          "fields": [
+            "Mass Communication"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor Honours Degree",
+          "fields": [
+            "Accountancy",
+            "Biology",
+            "Business Administration",
+            "Chemistry",
+            "Computer Education",
+            "Design",
+            "Economics",
+            "Film",
+            "Finance",
+            "Fine Arts",
+            "Geography",
+            "History",
+            "Hotel Management",
+            "Human Resources",
+            "Industrial Design",
+            "Leisure Studies",
+            "Management",
+            "Marketing",
+            "Mass Communication",
+            "Mathematics and Computer Science",
+            "Mathematics Education",
+            "Physics",
+            "Tourism"
+          ]
+        }
+      ],
+      "accreditation": "Higher Education Council (HEC)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Callixte Kabera"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Enock Nyisingize"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2015.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "8227",
+      "iau_id": "IAU-008227",
+      "name": "Institute of Legal Practice and Development",
+      "alt_name": "Institut supérieur de Pratique et de Développement du Droit (ILPD)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uIyhSLVBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-008227",
+      "address": {
+        "Street": "Musanze Street, NM 155",
+        "City": "Musanze",
+        "Province": "Province du Nord",
+        "WWW": "https://www.ines.ac.rw"
+      },
+      "website": "https://www.ines.ac.rw",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2003,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Economics, Social Sciences and Management",
+          "fields": [
+            "Agricultural Economics",
+            "Economics",
+            "Entrepreneurship",
+            "Finance",
+            "International Economics",
+            "Management",
+            "Public Administration",
+            "Real Estate",
+            "Social Sciences",
+            "Taxation"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Applied Linguistics",
+            "Education",
+            "English",
+            "French"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering and Technology",
+          "fields": [
+            "Architecture",
+            "Biotechnology",
+            "Building Technologies",
+            "Civil Engineering",
+            "Engineering",
+            "Food Science",
+            "Food Technology",
+            "Hydraulic Engineering",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences",
+          "fields": [
+            "Biomedicine",
+            "Health Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Law and Public Administration",
+          "fields": [
+            "Law",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "Faculty : Sciences and Information Technology",
+          "fields": [
+            "Computer Science",
+            "Economics",
+            "Electrical Engineering",
+            "Information Sciences",
+            "Information Technology",
+            "Library Science",
+            "Statistics",
+            "Surveying and Mapping"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Advanced Diploma",
+          "fields": [
+            "Architecture",
+            "Biomedicine",
+            "Biotechnology",
+            "Civil Engineering",
+            "Computer Networks",
+            "Computer Science",
+            "Economics",
+            "English",
+            "Entrepreneurship",
+            "Food Technology",
+            "French",
+            "Government",
+            "Hydraulic Engineering",
+            "Information Sciences",
+            "Information Technology",
+            "Law",
+            "Library Science",
+            "Management",
+            "Public Administration",
+            "Real Estate",
+            "Software Engineering",
+            "Statistics",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "Bachelor Honours Degree",
+          "fields": [
+            "Architecture",
+            "Biomedicine",
+            "Biotechnology",
+            "Civil Engineering",
+            "Computer Networks",
+            "Computer Science",
+            "Economics",
+            "English",
+            "Entrepreneurship",
+            "Food Technology",
+            "French",
+            "Government",
+            "Hydraulic Engineering",
+            "Information Sciences",
+            "Information Technology",
+            "Law",
+            "Library Science",
+            "Management",
+            "Public Administration",
+            "Real Estate",
+            "Software Engineering",
+            "Statistics",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Anaesthesiology",
+            "Biomedicine",
+            "Entrepreneurship",
+            "Finance",
+            "Haematology",
+            "Management",
+            "Microbiology",
+            "Midwifery",
+            "Nursing",
+            "Pharmacy",
+            "Software Engineering",
+            "Taxation"
+          ]
+        }
+      ],
+      "accreditation": "Higher Education Council (HEC)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Jean Bosco Baribeshya"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Charline Uwilingiyimana"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Mireille Biraro"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2003",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "19514",
+      "iau_id": "IAU-019514",
+      "name": "Kabgayi Catholic Institute",
+      "alt_name": "Institut catholique de Kabgayi – Kaminuza Gatolika ya Kabgayi (ICK)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RVLDMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019514",
+      "address": {
+        "Street": "P.O. Box 49Avenue des sports",
+        "City": "Nyanza",
+        "Province": "Southern Province",
+        "WWW": "https://www.ilpd.ac.rw"
+      },
+      "website": "https://www.ilpd.ac.rw",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2006,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English",
+        "Kinyarwanda"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Continuing Legal Education",
+          "fields": [
+            "Commercial Law",
+            "Criminal Law",
+            "Human Rights",
+            "Law"
+          ]
+        },
+        {
+          "name": "Course/Programme : Legal Practice",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Course/Programme : Legislative Drafting",
+          "fields": [
+            "Law"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Postgraduate Diploma",
+          "fields": [
+            "Law"
+          ]
+        }
+      ],
+      "accreditation": "Higher Education Council (HEC)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Aimé Muyoboke Karimunda"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Yves Sezirahiga"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2006",
+      "periodicals": [
+        "Rule of Law Quick Scan Series",
+        "Rule of Law Quick Scan Series"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "24191",
+      "iau_id": "IAU-024191",
+      "name": "Kibogora Polytechnic",
+      "alt_name": "(KP)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBRLjMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024191",
+      "address": {
+        "Street": "P.O. Box 62Muhanga",
+        "City": "Gitarama",
+        "Province": "Southern Province",
+        "WWW": "https://www.uck.ac.rw"
+      },
+      "website": "https://www.uck.ac.rw",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2002,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "January to December",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Research and Professional Development",
+          "fields": [
+            "Communication Studies",
+            "Development Studies",
+            "Information Technology",
+            "Management",
+            "Modern Languages"
+          ]
+        },
+        {
+          "name": "Faculty : Development Sciences",
+          "fields": [
+            "Environmental Management",
+            "Rural Planning",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "Faculty : Journamism and Communication Studies",
+          "fields": [
+            "Communication Studies",
+            "Journalism",
+            "Library Science",
+            "Public Relations"
+          ]
+        },
+        {
+          "name": "Faculty : Social, Economic Sciences and Management",
+          "fields": [
+            "Agricultural Economics",
+            "Anthropology",
+            "Economics",
+            "Management",
+            "Social Sciences",
+            "Sociology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor Honours Degree",
+          "fields": [
+            "Accountancy",
+            "Development Studies",
+            "Economics",
+            "Education",
+            "Environmental Management",
+            "Finance",
+            "French",
+            "Geography",
+            "History",
+            "Journalism",
+            "Management",
+            "Public Relations",
+            "Rural Studies",
+            "Sociology",
+            "Swahili",
+            "Urban Studies"
+          ]
+        },
+        {
+          "name": "Postgraduate Diploma",
+          "fields": [
+            "Education",
+            "Educational Administration"
+          ]
+        }
+      ],
+      "accreditation": "Higher Education Council (HEC)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Fidèle Dushimimana"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Prudence Bicamumpaka"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2002. Started as Université Catholique de Kabgayi became Institut Catholique de Kabgayi, 2010.",
+      "periodicals": [
+        "L'Etoile (The Star)",
+        "L'Etoile (The Star)"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "19759",
+      "iau_id": "IAU-019759",
+      "name": "Kigali Independent University",
+      "alt_name": "Université libre de Kigali (ULK)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RXLTNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019759",
+      "address": {
+        "Street": "P.O. Box 50",
+        "City": "Nyamasheke",
+        "WWW": "https://www.kp.ac.rw"
+      },
+      "website": "https://www.kp.ac.rw",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2012,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Business and Development Studies",
+          "fields": [
+            "Development Studies",
+            "Economics",
+            "Finance",
+            "Rural Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "African Languages",
+            "Biology",
+            "Business Education",
+            "Chemistry",
+            "Education",
+            "English",
+            "Foreign Languages Education",
+            "French",
+            "History",
+            "Humanities and Social Science Education",
+            "Mathematics Education",
+            "Natural Sciences",
+            "Physics",
+            "Science Education",
+            "Swahili"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences",
+          "fields": [
+            "Biomedicine",
+            "Medical Technology",
+            "Midwifery",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Faculty : Theology",
+          "fields": [
+            "Theology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Advanced Diploma",
+          "fields": [
+            "Biomedicine",
+            "Midwifery",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Business and Commerce",
+            "Business Education",
+            "Dentistry",
+            "Economics",
+            "Finance",
+            "Management",
+            "Midwifery",
+            "Nursing",
+            "Rural Planning"
+          ]
+        },
+        {
+          "name": "Bachelor Honours Degree",
+          "fields": [
+            "Biology",
+            "Biomedicine",
+            "Business Education",
+            "Chemistry",
+            "Education",
+            "English",
+            "French",
+            "Geography",
+            "History",
+            "Mathematics Education",
+            "Medical Technology",
+            "Nursing",
+            "Physics",
+            "Science Education",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Postgraduate Diploma",
+          "fields": [
+            "Education",
+            "Theology"
+          ]
+        }
+      ],
+      "accreditation": "Higher Education Council (HEC)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Mukamusoni Dariya"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2012. Acquired present status, 2015.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "30559",
+      "iau_id": "IAU-030559",
+      "name": "Mount Kigali University",
+      "alt_name": "(MKU)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sU2BVLTNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-030559",
+      "address": {
+        "Street": "BP 2280",
+        "City": "Kigali",
+        "WWW": "https://ulk.ac.rw"
+      },
+      "website": "https://ulk.ac.rw",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1996,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Institute : Polytechnic",
+          "fields": [
+            "Civil Engineering",
+            "Electrical Engineering",
+            "Electronic Engineering"
+          ]
+        },
+        {
+          "name": "School : Economics and Business Studies",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Development Studies",
+            "Economics",
+            "Finance",
+            "Rural Studies"
+          ]
+        },
+        {
+          "name": "School : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "School : Science and Technology",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "School : Social Sciences",
+          "fields": [
+            "Demography and Population",
+            "Development Studies",
+            "International Relations and Diplomacy",
+            "Social Sciences",
+            "Sociology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor Honours Degree",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Computer Science",
+            "Demography and Population",
+            "Development Studies",
+            "Economics",
+            "Finance",
+            "International Relations and Diplomacy",
+            "Law",
+            "Management",
+            "Rural Studies",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Commercial Law",
+            "Computer Engineering",
+            "Computer Science",
+            "Development Studies",
+            "Economics",
+            "Finance",
+            "Government",
+            "International Economics",
+            "International Law",
+            "Law",
+            "Public Law"
+          ]
+        }
+      ],
+      "accreditation": "Higher Education Council (HEC)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Sikubwabo Cyprien"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Martins Onyekwelu Onuorah"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Kalala Alexandre Sebuhura"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1996. Acquired present status 2002.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "8127",
+      "iau_id": "IAU-008127",
+      "name": "Protestant University of Rwanda",
+      "alt_name": "Université Protestante du Rwanda (PUR)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uIyRSLVBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-008127",
+      "address": {
+        "Street": "P.O. Box 575",
+        "City": "Kigali",
+        "WWW": "https://mkur.ac.rw"
+      },
+      "website": "https://mkur.ac.rw",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "School : Business and Economics",
+          "fields": [
+            "Business Administration",
+            "Economics"
+          ]
+        },
+        {
+          "name": "School : Computing, Informatics and Media Studies",
+          "fields": [
+            "Computer Engineering",
+            "Computer Science",
+            "Media Studies"
+          ]
+        },
+        {
+          "name": "School : Education",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "School : Health Sciences",
+          "fields": [
+            "Health Sciences"
+          ]
+        },
+        {
+          "name": "School : Hospitality, Travel and Tourism Management",
+          "fields": [
+            "Hotel Management",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "School : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "School : Nursing",
+          "fields": [
+            "Dental Studies",
+            "Dental Technology",
+            "Midwifery",
+            "Nursing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Business Administration",
+            "Communication Studies",
+            "Computer Science",
+            "Dental Studies",
+            "Dental Technology",
+            "Film",
+            "Hotel Management",
+            "Information Sciences",
+            "Information Technology",
+            "Law",
+            "Management",
+            "Media Studies",
+            "Medical Technology",
+            "Midwifery",
+            "Nursing",
+            "Public Health",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Bachelor Honours Degree",
+          "fields": [
+            "Biology",
+            "Business Education",
+            "Chemistry",
+            "Economics",
+            "Education",
+            "History",
+            "Humanities and Social Science Education",
+            "Mathematics",
+            "Mathematics Education",
+            "Physics",
+            "Science Education",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Postgraduate Diploma",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Business Administration",
+            "Communication Studies",
+            "Educational Administration",
+            "Finance",
+            "Hotel Management",
+            "Information Technology",
+            "Journalism",
+            "Management",
+            "Media Studies",
+            "Public Health",
+            "Tourism"
+          ]
+        }
+      ],
+      "accreditation": "Higher Education Council (HEC)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Martin Kimemia Gathiru"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Ruth Thinguri"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded as a campus of Mount Kenya University (MKU), 2010. Became an autonomous university and acquired present title in 2023.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "29746",
+      "iau_id": "IAU-029746",
+      "name": "University of Global Health Equity",
+      "alt_name": "(UGHE)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ0RXLSM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-029746",
+      "address": {
+        "Street": "P.O. Box 619",
+        "City": "Huye",
+        "WWW": "https://pur.ac.rw"
+      },
+      "website": "https://pur.ac.rw",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1990,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English",
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Architecture and Green Technology",
+          "fields": [
+            "Architecture",
+            "Environmental Engineering",
+            "Water Management"
+          ]
+        },
+        {
+          "name": "Faculty : Development Studies",
+          "fields": [
+            "Development Studies",
+            "Environmental Management",
+            "Natural Resources",
+            "Peace and Disarmament",
+            "Rural Studies",
+            "Urban Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Education",
+            "Educational Psychology",
+            "Educational Sciences",
+            "Pedagogy"
+          ]
+        },
+        {
+          "name": "Faculty : Theology and Religious Studies",
+          "fields": [
+            "Religious Studies",
+            "Theology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Architecture",
+            "Economics",
+            "Education",
+            "Educational Administration",
+            "Educational Psychology",
+            "English",
+            "French",
+            "Geography",
+            "History",
+            "Mathematics Education",
+            "Native Language Education",
+            "Pedagogy",
+            "Religious Studies",
+            "Swahili",
+            "Theology",
+            "Water Management"
+          ]
+        },
+        {
+          "name": "Bachelor Honours Degree",
+          "fields": [
+            "Business Education",
+            "Community Health",
+            "Development Studies",
+            "Education",
+            "English",
+            "Environmental Management",
+            "Geography",
+            "History",
+            "Mathematics Education",
+            "Native Language Education",
+            "Natural Resources",
+            "Peace and Disarmament",
+            "Religious Studies",
+            "Rural Studies",
+            "Swahili",
+            "Theology",
+            "Town Planning",
+            "Urban Studies"
+          ]
+        },
+        {
+          "name": "Postgraduate Certificate",
+          "fields": [
+            "Pastoral Studies",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Postgraduate Diploma",
+          "fields": [
+            "Education",
+            "Pastoral Studies",
+            "Theology"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Christian Religious Studies",
+            "Community Development",
+            "Leadership",
+            "Theology"
+          ]
+        }
+      ],
+      "accreditation": "Higher Education Council (HEC)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Olu O. Ojedokun"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Viateur Habarurema"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1990 as Faculty of Protestant Theology of Butare (Faculté de Théologie Protestante de Butare). Became Protestant Institute of Arts and Social Sciences in 2010.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "25102",
+      "iau_id": "IAU-025102",
+      "name": "University of Kigali",
+      "alt_name": "(UoK)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRRLCMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025102",
+      "address": {
+        "Street": "P.O. Box 6955Kigali Heights Plot 772KG 7 Avenue, 5th Floor",
+        "City": "Kigali",
+        "Province": "Northen Province",
+        "Post Code": "6955",
+        "WWW": "https://ughe.org"
+      },
+      "website": "https://ughe.org",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "School of Medicine: January - December MGHD: September - August",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Educational Development and Quality",
+          "fields": [
+            "Educational Sciences"
+          ]
+        },
+        {
+          "name": "Centre : Gender Equity",
+          "fields": [
+            "Public Health"
+          ]
+        },
+        {
+          "name": "Centre : Global Surgery",
+          "fields": [
+            "Health Sciences",
+            "Public Health"
+          ]
+        },
+        {
+          "name": "Centre : Leadership in Global Health Equity",
+          "fields": [
+            "Health Sciences"
+          ]
+        },
+        {
+          "name": "Centre : Nursing and Midwifery",
+          "fields": [
+            "Midwifery",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Centre : One Health",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Centre : Population Health",
+          "fields": [
+            "Community Health",
+            "Public Health"
+          ]
+        },
+        {
+          "name": "Institute : Global Health",
+          "fields": [
+            "Health Administration",
+            "Public Health"
+          ]
+        },
+        {
+          "name": "Institute : Global Health Equity Research",
+          "fields": [
+            "Health Sciences"
+          ]
+        },
+        {
+          "name": "School : Medicine",
+          "fields": [
+            "Medicine",
+            "Surgery"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor of Medicine and Surgery",
+          "fields": [
+            "Medicine",
+            "Surgery"
+          ]
+        },
+        {
+          "name": "Postgraduate Certificate",
+          "fields": [
+            "Health Sciences"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Health Administration",
+            "Health Sciences",
+            "Medical Science",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "PhD",
+          "fields": [
+            "Medical Science"
+          ]
+        }
+      ],
+      "accreditation": "Higher Education Council (HEC), Rwanda; East African Committee, Joint National Medical and Dental Councils",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Philip Cotton"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Abebe Bekele"
+        }
+      ],
+      "statistics": {},
+      "history": "Created 2014",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "7993",
+      "iau_id": "IAU-007993",
+      "name": "University of Lay Adventist of Kigali",
+      "alt_name": "Université des Laïcs Adventistes de Kigali (UNILAK)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tU0RZLFBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007993",
+      "address": {
+        "Street": "KG 7 Ave",
+        "City": "Kigali",
+        "WWW": "https://uok.ac.rw"
+      },
+      "website": "https://uok.ac.rw",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2013,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "School : Business Management and Economics",
+          "fields": [
+            "Business Administration",
+            "Economics",
+            "Management"
+          ]
+        },
+        {
+          "name": "School : Computing and Information Technology",
+          "fields": [
+            "Business Computing",
+            "Computer Science",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "School : Education",
+          "fields": [
+            "Education",
+            "Educational Administration"
+          ]
+        },
+        {
+          "name": "School : Graduate Studies",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "School : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "School : Professional and Executive Programmes",
+          "fields": [
+            "Accountancy",
+            "Real Estate"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Government",
+            "Information Technology",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "Bachelor Honours Degree",
+          "fields": [
+            "Accountancy",
+            "Architecture",
+            "Business Administration",
+            "Business and Commerce",
+            "Child Care and Development",
+            "Computer Science",
+            "Economics",
+            "Finance",
+            "Information Technology",
+            "Law",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Postgraduate Diploma",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Business and Commerce",
+            "Economics",
+            "Education",
+            "Educational Administration",
+            "Finance",
+            "Human Resources",
+            "Information Technology",
+            "Logistics Management",
+            "Management",
+            "Public Administration"
+          ]
+        }
+      ],
+      "accreditation": "Higher Education Council (HEC)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "George Kimathi"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2013.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "8106",
+      "iau_id": "IAU-008106",
+      "name": "University of Technology and Arts of Byumba",
+      "alt_name": "(UTAB)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uIyRQLUBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-008106",
+      "address": {
+        "Street": "P.O. Box 6392Street KK 508 ST",
+        "City": "Kigali",
+        "WWW": "https://unilak.ac.rw"
+      },
+      "website": "https://unilak.ac.rw",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1997,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Computing and Information Sciences",
+          "fields": [
+            "Development Studies",
+            "Information Management",
+            "Information Technology",
+            "Management",
+            "Rural Studies",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Economic Sciences and Management",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Finance",
+            "Human Resources",
+            "Management"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Faculty : Environmental Studies",
+          "fields": [
+            "Environmental Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Law",
+            "Private Law",
+            "Public Law",
+            "Welfare and Protective Services"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Business Education",
+            "Criminal Law",
+            "Economics",
+            "Education",
+            "Environmental Management",
+            "Finance",
+            "Geography",
+            "Human Resources",
+            "Information Management",
+            "Information Technology",
+            "Law",
+            "Marketing",
+            "Mathematics and Computer Science",
+            "Mathematics Education",
+            "Rural Studies",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Bachelor Honours Degree",
+          "fields": [
+            "Economics",
+            "Environmental Management",
+            "Information Management",
+            "Information Technology",
+            "Law",
+            "Management",
+            "Rural Studies"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Computer Engineering",
+            "Criminal Law",
+            "Development Studies",
+            "Entrepreneurship",
+            "Environmental Studies",
+            "Finance",
+            "Human Resources",
+            "Information Management",
+            "Information Technology",
+            "International Law",
+            "Law",
+            "Management",
+            "Marketing"
+          ]
+        }
+      ],
+      "accreditation": "Higher Education Council (HEC)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Jean Ngamije"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Emmanuel Hakizimana"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Richard Niyonkuru"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1997 as Independent Institute of Lay Adventist of Kigali (INILAK). Acquired present status 2009.",
+      "periodicals": [
+        "East African Journal of Science and Technology (EAJST)",
+        "East African Journal of Science and Technology (EAJST)"
+      ],
+      "student_body": "co-ed"
+    }
+  ]
+}

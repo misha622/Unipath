@@ -1,0 +1,1024 @@
+{
+  "country_name": "Maldives",
+  "country_id": "Maldives",
+  "institutions": [
+    {
+      "id": "25415",
+      "iau_id": "IAU-025415",
+      "name": "Avid College",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRULDM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025415",
+      "address": {
+        "Street": "Central AdministrationRah’ dhebai Hingun",
+        "City": "Male'",
+        "Post Code": "20371",
+        "WWW": "https://mnu.edu.mv"
+      },
+      "website": "https://mnu.edu.mv",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "February to December",
+      "languages": [
+        "Dhivehi",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Foundation Studies",
+          "fields": [
+            "Arts and Humanities",
+            "Business and Commerce",
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "Centre : Maritimes Studies",
+          "fields": [
+            "Marine Engineering",
+            "Marine Transport",
+            "Primary Education"
+          ]
+        },
+        {
+          "name": "Centre : Security and Strategic Studies",
+          "fields": [
+            "Civil Security",
+            "Criminal Law",
+            "Cybersecurity",
+            "International Relations and Diplomacy",
+            "Military Science"
+          ]
+        },
+        {
+          "name": "College : Fisheries and Ocean Sciences",
+          "fields": [
+            "Aquaculture",
+            "Fishery",
+            "Marine Biology",
+            "Marine Science and Oceanography"
+          ]
+        },
+        {
+          "name": "Faculty : Arts",
+          "fields": [
+            "English",
+            "Journalism",
+            "Native Language",
+            "Political Sciences",
+            "Psychology",
+            "Social Policy"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Business Education",
+            "Education",
+            "Educational Administration",
+            "Educational Testing and Evaluation",
+            "Foreign Languages Education",
+            "Mathematics Education",
+            "Native Language Education",
+            "Physical Education",
+            "Preschool Education",
+            "Primary Education",
+            "Science Education",
+            "Secondary Education",
+            "Special Education",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering, Science and Technology",
+          "fields": [
+            "Architecture",
+            "Civil Engineering",
+            "Computer Science",
+            "Electrical and Electronic Engineering",
+            "Environmental Management",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Health Sciences",
+          "fields": [
+            "Clinical Psychology",
+            "Health Administration",
+            "Laboratory Techniques",
+            "Nursing",
+            "Occupational Health",
+            "Pharmacy",
+            "Physical Therapy",
+            "Psychology",
+            "Public Health",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Faculty : Hospitality and Tourism Studies",
+          "fields": [
+            "Cooking and Catering",
+            "Hotel and Restaurant",
+            "Hotel Management",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Shari'ah and Law",
+          "fields": [
+            "Islamic Law",
+            "Islamic Studies",
+            "Law"
+          ]
+        },
+        {
+          "name": "School : Business",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Business and Commerce",
+            "Economics",
+            "Human Resources",
+            "Management",
+            "Marketing",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "School : Medicine",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "School : Nursing",
+          "fields": [
+            "Nursing",
+            "Nursing and Midwifery"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Associate Degree",
+          "fields": [
+            "Primary Education"
+          ]
+        },
+        {
+          "name": "Bachelor's degree",
+          "fields": [
+            "Accountancy",
+            "Architecture",
+            "Business and Commerce",
+            "Computer Science",
+            "Economics",
+            "Electrical and Electronic Engineering",
+            "English",
+            "Environmental Management",
+            "Foreign Languages Education",
+            "Health Administration",
+            "Hotel and Restaurant",
+            "Hotel Management",
+            "Human Resources",
+            "Information Management",
+            "Information Technology",
+            "Islamic Law",
+            "Islamic Studies",
+            "Journalism",
+            "Laboratory Techniques",
+            "Mathematics Education",
+            "Native Language",
+            "Native Language Education",
+            "Nursing",
+            "Pharmacy",
+            "Physical Education",
+            "Political Sciences",
+            "Primary Education",
+            "Psychology",
+            "Public Relations",
+            "Secondary Education",
+            "Social Work",
+            "Special Education",
+            "Statistics",
+            "Teacher Training",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Bachelor's Honours degree",
+          "fields": [
+            "Civil Engineering",
+            "Education",
+            "Electrical and Electronic Engineering",
+            "Foreign Languages Education",
+            "Islamic Law",
+            "Islamic Theology",
+            "Law",
+            "Medical Science",
+            "Native Language Education",
+            "Preschool Education",
+            "Psychology",
+            "Religious Education",
+            "Special Education"
+          ]
+        },
+        {
+          "name": "Graduate Diploma / Post Graduate Diploma",
+          "fields": [
+            "Education",
+            "Higher Education"
+          ]
+        },
+        {
+          "name": "Master's degree",
+          "fields": [
+            "Business Administration",
+            "Cultural Studies",
+            "Education",
+            "Educational Administration",
+            "Educational Testing and Evaluation",
+            "Electronic Engineering",
+            "Geological Engineering",
+            "International Relations and Diplomacy",
+            "Islamic Law",
+            "Native Language",
+            "Nursing",
+            "Political Sciences",
+            "Psychology",
+            "Public Health",
+            "Social Policy",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "PhD",
+          "fields": [
+            "Applied Linguistics",
+            "Applied Mathematics",
+            "Biology",
+            "Chemical Engineering",
+            "Chemistry",
+            "Computer Engineering",
+            "Computer Science",
+            "Education",
+            "Electrical Engineering",
+            "Environmental Engineering",
+            "Islamic Studies",
+            "Materials Engineering",
+            "Mechanical Engineering",
+            "Physics",
+            "Public Health"
+          ]
+        }
+      ],
+      "accreditation": "Maldives Qualifications Authority",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Aishath Shehenaz Adam"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Ali Fawaz Shareef"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Hushama Saeed"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2024-2025",
+        "Staff Full Time Total:": "40",
+        "Students Statistics Year:": "2024-2025",
+        "Students Total:": "3180"
+      },
+      "history": "Created 1973 as the Allied Health Services Training Centre. Became the Maldives College of Higher Education in 1998 and acquired current title and status 2011.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "25416",
+      "iau_id": "IAU-025416",
+      "name": "Cyryx College",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRULDM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025416",
+      "address": {
+        "Street": "VC QI Campus, RahDhebai Hingun",
+        "City": "Malé",
+        "Post Code": "20373",
+        "WWW": "https://villacollege.edu.mv"
+      },
+      "website": "https://villacollege.edu.mv",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Dhivehi"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Business Management",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Business and Commerce",
+            "Finance",
+            "Human Resources",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Education",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Faculty : Information and Communications Technology",
+          "fields": [
+            "Computer Science",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Faculty : Marine Studies",
+          "fields": [
+            "Marine Science and Oceanography"
+          ]
+        },
+        {
+          "name": "Faculty : Shariah and Law",
+          "fields": [
+            "Islamic Law",
+            "Law"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's degree",
+          "fields": [
+            "Foreign Languages Education",
+            "Human Resources",
+            "Islamic Law",
+            "Mathematics Education",
+            "Native Language",
+            "Preschool Education",
+            "Primary Education",
+            "Religious Education"
+          ]
+        },
+        {
+          "name": "Bachelor's Honours degree",
+          "fields": [
+            "Accountancy",
+            "Business and Commerce",
+            "Computer Science",
+            "Finance",
+            "Human Resources",
+            "Islamic Law",
+            "Law",
+            "Management",
+            "Marketing",
+            "Preschool Education",
+            "Primary Education"
+          ]
+        },
+        {
+          "name": "Graduate Diploma / Post Graduate Diploma",
+          "fields": [
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Master's degree",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Education",
+            "Information Technology",
+            "Islamic Law",
+            "Public Health"
+          ]
+        }
+      ],
+      "accreditation": "Maldives Qualifications Authority",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ahmed Anwar"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Abdulla Sadig"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Mariyam Nazviya"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2025-2026",
+        "Students Total:": "3500"
+      },
+      "history": "Created 2007",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "25417",
+      "iau_id": "IAU-025417",
+      "name": "Islamic University of Maldives",
+      "alt_name": "(IUM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRULDM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025417",
+      "address": {
+        "Street": "G. Jawaahiru AsseyriAmeeneemagu",
+        "City": "Malé",
+        "Post Code": "20350",
+        "WWW": "https://www.avidcollege.edu.mv"
+      },
+      "website": "https://www.avidcollege.edu.mv",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "January to December",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Research and Innovation",
+          "fields": [
+            "Operations Research"
+          ]
+        },
+        {
+          "name": "Faculty : Business Management",
+          "fields": [
+            "Business Administration",
+            "Human Resources",
+            "Management",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Education",
+          "fields": [
+            "Educational Administration",
+            "Native Language Education",
+            "Preschool Education",
+            "Primary Education",
+            "Special Education"
+          ]
+        },
+        {
+          "name": "Faculty : Humanities and Social Sciences",
+          "fields": [
+            "Occupational Health",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Faculty : Islamic Studies",
+          "fields": [
+            "Islamic Law",
+            "Islamic Studies",
+            "Koran",
+            "Religious Education"
+          ]
+        },
+        {
+          "name": "School : Aviation",
+          "fields": [
+            "Air Transport"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Associate Degree",
+          "fields": [
+            "Business Administration",
+            "Human Resources",
+            "Information Technology",
+            "Islamic Law",
+            "Law",
+            "Management",
+            "Office Management"
+          ]
+        },
+        {
+          "name": "Bachelor's degree",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Business Education",
+            "Finance",
+            "Human Resources",
+            "Islamic Law",
+            "Law",
+            "Management",
+            "Office Management",
+            "Special Education"
+          ]
+        },
+        {
+          "name": "Graduate Diploma / Post Graduate Diploma",
+          "fields": [
+            "Leadership",
+            "Management"
+          ]
+        },
+        {
+          "name": "Master's degree",
+          "fields": [
+            "Education",
+            "Educational Administration",
+            "Human Resources",
+            "Islamic Law",
+            "Islamic Studies",
+            "Management",
+            "Native Language Education",
+            "Operations Research",
+            "Preschool Education",
+            "Primary Education",
+            "Public Administration",
+            "Secondary Education",
+            "Special Education"
+          ]
+        }
+      ],
+      "accreditation": "Maldives Qualifications Authority",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Mariyam Waseema"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Ali Rasheed"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2022-2023",
+        "Staff Full Time Total:": "8",
+        "Students Statistics Year:": "2022-2023",
+        "Students Total:": "243"
+      },
+      "history": "Create 2005 Avid Training Centre and aquired current title and status 2013.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "25418",
+      "iau_id": "IAU-025418",
+      "name": "Maldives Business School",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRULDNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025418",
+      "address": {
+        "Street": "Bodurasgefaanu Magu",
+        "City": "Malé",
+        "WWW": "https://cyryxcollege.edu.mv"
+      },
+      "website": "https://cyryxcollege.edu.mv",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [],
+      "faculties": [
+        {
+          "name": "School : Business",
+          "fields": [
+            "Business Administration",
+            "Finance",
+            "Human Resources",
+            "Marketing",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "School : Humanities and Education",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "School : Information Technology",
+          "fields": [
+            "Computer Networks",
+            "Information Technology",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "School : Multimedia Arts and Design",
+          "fields": [
+            "Computer Graphics",
+            "Multimedia"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Associate Degree",
+          "fields": [
+            "Business and Commerce",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Bachelor's degree",
+          "fields": [
+            "Finance",
+            "Human Resources",
+            "Information Technology",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Bachelor's Honours degree",
+          "fields": [
+            "Human Resources",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Master's degree",
+          "fields": [
+            "Business Administration",
+            "Public Administration"
+          ]
+        }
+      ],
+      "accreditation": "Maldives Qualifications Authority",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Jothi Stalin"
+        }
+      ],
+      "statistics": {},
+      "history": "Created 1993. Acquired current status 2009.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "25419",
+      "iau_id": "IAU-025419",
+      "name": "Mandhu College",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRULDNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025419",
+      "address": {
+        "Street": "King Fahd BuildingViolet Magu",
+        "City": "Malé",
+        "Post Code": "20037",
+        "WWW": "https://www.ium.edu.mv"
+      },
+      "website": "https://www.ium.edu.mv",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English",
+        "Arabic",
+        "Dhivehi"
+      ],
+      "faculties": [
+        {
+          "name": "College : Arabic",
+          "fields": [
+            "Arabic"
+          ]
+        },
+        {
+          "name": "College : Economics and Management Studies",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Finance",
+            "Human Resources",
+            "Management",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "College : Education",
+          "fields": [
+            "Education",
+            "Educational Research",
+            "Foreign Languages Education",
+            "Higher Education Teacher Training",
+            "Koran",
+            "Preschool Education",
+            "Primary Education",
+            "Religious Education"
+          ]
+        },
+        {
+          "name": "College : Islamic Revealed Knowledge and Human Sciences",
+          "fields": [
+            "History",
+            "Islamic Studies",
+            "Journalism"
+          ]
+        },
+        {
+          "name": "College : Quran and Sunnah",
+          "fields": [
+            "Koran"
+          ]
+        },
+        {
+          "name": "College : Shariah and Law",
+          "fields": [
+            "Comparative Law",
+            "Islamic Law"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's degree",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Arabic",
+            "Banking",
+            "Finance",
+            "Government",
+            "History",
+            "Human Resources",
+            "Islamic Law",
+            "Islamic Studies",
+            "Koran",
+            "Preschool Education",
+            "Primary Education"
+          ]
+        },
+        {
+          "name": "Bachelor's Honours degree",
+          "fields": [
+            "Islamic Law",
+            "Islamic Studies"
+          ]
+        },
+        {
+          "name": "Graduate Diploma / Post Graduate Diploma",
+          "fields": [
+            "Higher Education Teacher Training"
+          ]
+        },
+        {
+          "name": "Master's degree",
+          "fields": [
+            "Arabic",
+            "Business Administration",
+            "Comparative Law",
+            "Educational Administration",
+            "Educational Research",
+            "Finance",
+            "Foreign Languages Education",
+            "Higher Education Teacher Training",
+            "Islamic Law",
+            "Islamic Studies",
+            "Journalism",
+            "Koran",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "PhD",
+          "fields": [
+            "Education",
+            "Islamic Law",
+            "Leadership",
+            "Management"
+          ]
+        }
+      ],
+      "accreditation": "Maldives Qualifications Authority",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Dr. Ali Zahir"
+        }
+      ],
+      "statistics": {},
+      "history": "Created 2004 as the College of Islamic Studies. Acquired current title and status in 2015.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "25422",
+      "iau_id": "IAU-025422",
+      "name": "Mianz International College",
+      "alt_name": "MI College",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRULEMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025422",
+      "address": {
+        "Street": "Ma. Mary, Nikagas Magu",
+        "City": "Malé",
+        "Province": "20175",
+        "WWW": "https://www.businessschool.mv"
+      },
+      "website": "https://www.businessschool.mv",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [],
+      "faculties": [
+        {
+          "name": "Course/Programme : Business Administration",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Human Resources",
+            "Management",
+            "Marketing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's degree",
+          "fields": [
+            "Accountancy",
+            "Human Resources",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Graduate Diploma / Post Graduate Diploma",
+          "fields": [
+            "Management"
+          ]
+        },
+        {
+          "name": "Master's degree",
+          "fields": [
+            "Business Administration"
+          ]
+        }
+      ],
+      "accreditation": "Maldives Qualifications Authority",
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "25423",
+      "iau_id": "IAU-025423",
+      "name": "Zikura International College",
+      "alt_name": "ZI College",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzRULEMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-025423",
+      "address": {
+        "Street": "G.Pentagreen, Majeedhee Magu",
+        "City": "Malé",
+        "Post Code": "20138",
+        "WWW": "https://www.mandhucollege.edu.mv"
+      },
+      "website": "https://www.mandhucollege.edu.mv",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "January - December",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "School : Business and Information Technology",
+          "fields": [
+            "Business Administration",
+            "Business and Commerce",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "School : General Studies",
+          "fields": [
+            "Business Administration",
+            "Education"
+          ]
+        },
+        {
+          "name": "School : Graduate Studies",
+          "fields": [
+            "Business Administration",
+            "Education"
+          ]
+        },
+        {
+          "name": "School : Humanities",
+          "fields": [
+            "Education",
+            "Law",
+            "Native Language Education",
+            "Primary Education",
+            "Secondary Education"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Associate Degree",
+          "fields": [
+            "Business Administration",
+            "Information Technology",
+            "Primary Education"
+          ]
+        },
+        {
+          "name": "Bachelor's degree",
+          "fields": [
+            "Business and Commerce",
+            "Education",
+            "Information Technology",
+            "Law",
+            "Native Language Education",
+            "Primary Education",
+            "Secondary Education"
+          ]
+        },
+        {
+          "name": "Bachelor's Honours degree",
+          "fields": [
+            "Education"
+          ]
+        },
+        {
+          "name": "Graduate Diploma / Post Graduate Diploma",
+          "fields": [
+            "Business Administration",
+            "Education"
+          ]
+        },
+        {
+          "name": "Master's degree",
+          "fields": [
+            "Business Administration",
+            "Education"
+          ]
+        }
+      ],
+      "accreditation": "Maldives Qualifications Authority",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Ibrahim Ismail"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Aishath Shabana"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2018-2019",
+        "Staff Full Time Total:": "24",
+        "Students Statistics Year:": "2018-2019",
+        "Students Total:": "574"
+      },
+      "history": "Created 1998 as Mandhu Learning Centre and acquired current status and title in 2010. The College was the first private higher education institute to start operating in the country",
+      "periodicals": [],
+      "student_body": "co-ed"
+    }
+  ]
+}

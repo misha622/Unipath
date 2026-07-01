@@ -1,0 +1,218 @@
+{
+  "country_name": "Liechtenstein",
+  "country_id": "Liechtenstein",
+  "institutions": [
+    {
+      "id": "13754",
+      "iau_id": "IAU-013754",
+      "name": "Private University in the Principality of Liechtenstein",
+      "alt_name": "Private Universität im Fürstentum Liechtenstein (UFL)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sMyxXLTMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-013754",
+      "address": {
+        "Street": "Dorfstrasse 24",
+        "City": "Triesen",
+        "Post Code": "FL-9495",
+        "WWW": "https://www.ufl.li"
+      },
+      "website": "https://www.ufl.li",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2000,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "German"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Constitutional Law",
+            "European Union Law",
+            "International Law",
+            "Labour Law",
+            "Law",
+            "Private Law",
+            "Taxation"
+          ]
+        },
+        {
+          "name": "Faculty : Medical Science",
+          "fields": [
+            "Medicine"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Master",
+          "fields": [
+            "Civil Law",
+            "International Law",
+            "Law"
+          ]
+        },
+        {
+          "name": "Doctorate",
+          "fields": [
+            "Law",
+            "Medicine"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Barbara Gant"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Christoph Gassner"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Corinne Müller"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2000. Formerly known as Universität für Humanwissenschaften im Fürstentum Liechtenstein (University of Human Sciences)",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "19350",
+      "iau_id": "IAU-019350",
+      "name": "University of Liechtenstein",
+      "alt_name": "Universität Liechtenstein",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RTLTNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019350",
+      "address": {
+        "Street": "Fürst-Franz-Josef-Strasse",
+        "City": "Vaduz",
+        "Post Code": "9490",
+        "WWW": "https://www.uni.li"
+      },
+      "website": "https://www.uni.li",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1961,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "German",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Institute : Architecture and Planning",
+          "fields": [
+            "Architectural and Environmental Design",
+            "Landscape Architecture",
+            "Regional Planning",
+            "Rural Planning",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "Institute : Business Computing",
+          "fields": [
+            "Information Management",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Institute : Entrepreneurship",
+          "fields": [
+            "Business and Commerce",
+            "Business Computing",
+            "Human Resources",
+            "International Business",
+            "Leadership",
+            "Management",
+            "Management Systems",
+            "Small Business"
+          ]
+        },
+        {
+          "name": "Institute : Financial Services",
+          "fields": [
+            "Banking",
+            "Taxation"
+          ]
+        },
+        {
+          "name": "Research Division : Centre for Small and Medium Enterprises",
+          "fields": [
+            "KMU"
+          ]
+        },
+        {
+          "name": "Research Division : Liechtenstein Economic Institute and Research Centre",
+          "fields": [
+            "KOFL"
+          ]
+        },
+        {
+          "name": "School : Graduate School",
+          "fields": [
+            "Architecture",
+            "Banking",
+            "Economics",
+            "Finance",
+            "Information Technology",
+            "Management",
+            "Small Business"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor",
+          "fields": [
+            "Architecture",
+            "International Business",
+            "Management"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Architecture",
+            "Computer Science",
+            "Finance",
+            "Management"
+          ]
+        },
+        {
+          "name": "Doctorate",
+          "fields": [
+            "Architecture and Planning",
+            "Business and Commerce",
+            "Economics"
+          ]
+        }
+      ],
+      "accreditation": null,
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Christian Frommelt"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Trudi Ackermann"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1961 as Abendtechnikum Vaduz, acquired title of Hochschule Liechtenstein in 1992. Acquired current title and status 2011",
+      "periodicals": [],
+      "student_body": "co-ed"
+    }
+  ]
+}

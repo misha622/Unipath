@@ -1,0 +1,607 @@
+{
+  "country_name": "Barbados",
+  "country_id": "Barbados",
+  "institutions": [
+    {
+      "id": "27943",
+      "iau_id": "IAU-027943",
+      "name": "American University of Barbados",
+      "alt_name": "(AUB)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzxZLSMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-027943",
+      "address": {
+        "City": "Wildey",
+        "Province": "Saint Michael",
+        "WWW": "https://www.aubmed.org"
+      },
+      "website": "https://www.aubmed.org",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2011,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Medical Science Resource",
+          "fields": [
+            "Medicine",
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "Course/Programme : Medicine",
+          "fields": [
+            "Medicine",
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "Laboratory : Anatomy",
+          "fields": [
+            "Medicine"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Doctor of Medicine",
+          "fields": [
+            "Medicine"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Education, Science and Technology, Government of Barbados; Barbados Accreditation Council (BAC); Caribbean Accreditation Authority for Education in Medicine and Other Health Professions (CAAM-HP)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Syed M. Kazmi"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2011",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "20588",
+      "iau_id": "IAU-020588",
+      "name": "University of the West Indies - Cave Hill Campus",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQ2BVLiNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-020588",
+      "address": {
+        "City": "Bridgetown",
+        "WWW": "https://www.cavehill.uwi.edu"
+      },
+      "website": "https://www.cavehill.uwi.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1962,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "August to July",
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Academy : Sport",
+          "fields": [
+            "Sports"
+          ]
+        },
+        {
+          "name": "Centre : Caribbean Law Institute",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Centre : CLR James",
+          "fields": [
+            "Arts and Humanities",
+            "Fine Arts"
+          ]
+        },
+        {
+          "name": "Centre : Creative Imagination",
+          "fields": [
+            "Arts and Humanities",
+            "Fine Arts"
+          ]
+        },
+        {
+          "name": "Centre : English Language Learning",
+          "fields": [
+            "English"
+          ]
+        },
+        {
+          "name": "Centre : Resource Management and Environmental Studies",
+          "fields": [
+            "Environmental Management",
+            "Natural Resources"
+          ]
+        },
+        {
+          "name": "Centre : Shridath Ramphal",
+          "fields": [
+            "International Business"
+          ]
+        },
+        {
+          "name": "Centre : Social and Economic Studies",
+          "fields": [
+            "Economics",
+            "Social Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Culture, Creative and Performing Arts",
+          "fields": [
+            "Cultural Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Humanities and Education",
+          "fields": [
+            "Education",
+            "History",
+            "Linguistics",
+            "Literature",
+            "Modern Languages",
+            "Philosophy"
+          ]
+        },
+        {
+          "name": "Faculty : Law",
+          "fields": [
+            "Administrative Law",
+            "Commercial Law",
+            "Criminal Law",
+            "International Law",
+            "Law",
+            "Private Law",
+            "Public Law"
+          ]
+        },
+        {
+          "name": "Faculty : Medical Sciences",
+          "fields": [
+            "Anaesthesiology",
+            "Epidemiology",
+            "Medicine",
+            "Ophthalmology",
+            "Paediatrics",
+            "Psychiatry and Mental Health",
+            "Surgery"
+          ]
+        },
+        {
+          "name": "Faculty : Science and Technology",
+          "fields": [
+            "Biological and Life Sciences",
+            "Chemistry",
+            "Computer Science",
+            "Electronic Engineering",
+            "Mathematics",
+            "Natural Sciences",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Faculty : Social Sciences",
+          "fields": [
+            "Economics",
+            "Government",
+            "Management",
+            "Psychology",
+            "Social Work",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Institute : Gender and Development Studies",
+          "fields": [
+            "Development Studies",
+            "Gender Studies"
+          ]
+        },
+        {
+          "name": "Institute : Social and Economic Studies",
+          "fields": [
+            "Economics",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Research Division : Caribbean Lexicography",
+          "fields": [
+            "Richard and Jeannette Allsopp"
+          ]
+        },
+        {
+          "name": "Research Division : Chronic Disease",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "School : Business and Management",
+          "fields": [
+            "Business Administration"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Biochemistry",
+            "Biological and Life Sciences",
+            "Biology",
+            "Caribbean Studies",
+            "Chemistry",
+            "Computer Science",
+            "Criminology",
+            "Cultural Studies",
+            "Dance",
+            "Development Studies",
+            "Ecology",
+            "Economics",
+            "Education",
+            "Electrical and Electronic Equipment and Maintenance",
+            "Environmental Studies",
+            "Finance",
+            "Fine Arts",
+            "French",
+            "Gender Studies",
+            "Health Sciences",
+            "History",
+            "Hotel and Restaurant",
+            "Hotel Management",
+            "Information Technology",
+            "International Relations and Diplomacy",
+            "Labour and Industrial Relations",
+            "Law",
+            "Linguistics",
+            "Literature",
+            "Management",
+            "Mathematics",
+            "Medicine",
+            "Meteorology",
+            "Microbiology",
+            "Music",
+            "Music Education",
+            "Philosophy",
+            "Physics",
+            "Political Sciences",
+            "Preschool Education",
+            "Psychology",
+            "Public Administration",
+            "Social Sciences",
+            "Social Work",
+            "Sociology",
+            "Software Engineering",
+            "Spanish",
+            "Sports",
+            "Surgery",
+            "Theology",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Doctor of Medicine",
+          "fields": [
+            "Anaesthesiology",
+            "Community Health",
+            "Medicine",
+            "Obstetrics and Gynaecology",
+            "Ophthalmology",
+            "Orthopaedics",
+            "Paediatrics",
+            "Psychiatry and Mental Health",
+            "Surgery"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Accountancy",
+            "African Studies",
+            "Banking",
+            "Biochemistry",
+            "Biological and Life Sciences",
+            "Biology",
+            "Building Technologies",
+            "Business Administration",
+            "Caribbean Studies",
+            "Chemistry",
+            "Commercial Law",
+            "Computer Science",
+            "Cultural Studies",
+            "Development Studies",
+            "Ecology",
+            "Economic and Finance Policy",
+            "Economics",
+            "Education",
+            "Energy Engineering",
+            "Environmental Management",
+            "Environmental Studies",
+            "Finance",
+            "Fine Arts",
+            "Gender Studies",
+            "Government",
+            "Health Administration",
+            "Heritage Preservation",
+            "History",
+            "Hotel and Restaurant",
+            "Human Resources",
+            "Information Technology",
+            "International Business",
+            "Labour and Industrial Relations",
+            "Law",
+            "Linguistics",
+            "Literature",
+            "Management",
+            "Marketing",
+            "Mathematics",
+            "Medicine",
+            "Microbiology",
+            "Modern Languages",
+            "Natural Resources",
+            "Nursing",
+            "Performing Arts",
+            "Pharmacology",
+            "Philosophy",
+            "Physics",
+            "Political Sciences",
+            "Private Law",
+            "Psychology",
+            "Public Administration",
+            "Public Health",
+            "Public Law",
+            "Social Policy",
+            "Social Sciences",
+            "Social Work",
+            "Sociology",
+            "Sports Management",
+            "Tourism",
+            "Transport and Communications",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Ph.D.",
+          "fields": [
+            "Biochemistry",
+            "Biological and Life Sciences",
+            "Biology",
+            "Business Administration",
+            "Chemistry",
+            "Computer Science",
+            "Cultural Studies",
+            "Development Studies",
+            "Ecology",
+            "Economic and Finance Policy",
+            "Economics",
+            "Education",
+            "Environmental Studies",
+            "Finance",
+            "Gender Studies",
+            "Government",
+            "History",
+            "Law",
+            "Linguistics",
+            "Literature",
+            "Management",
+            "Mathematics",
+            "Medicine",
+            "Microbiology",
+            "Modern Languages",
+            "Natural Resources",
+            "Philosophy",
+            "Physics",
+            "Political Sciences",
+            "Psychology",
+            "Public Administration",
+            "Social Policy",
+            "Social Work",
+            "Sociology",
+            "Theology"
+          ]
+        }
+      ],
+      "accreditation": "Barbados Accreditation Council (BAC)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "R. Clive Landis"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Rommel Carter"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Anthony O. Fisher"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2020-2021",
+        "Students Total:": "8000"
+      },
+      "history": "Founded 1962 when the University of the West Indies (UWI) was granted its charter",
+      "periodicals": [
+        "Pelican",
+        "Pelican"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "27942",
+      "iau_id": "IAU-027942",
+      "name": "University of the West Indies Open Campus",
+      "alt_name": "UWI Open Campus (Open UWI)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzxZLSMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-027942",
+      "address": {
+        "Street": "Open Learning Centre, Open CampusThe University of the West IndiesP.O. Box 1314, BB 11000",
+        "City": "Bridgetown",
+        "WWW": "https://www.open.uwi.edu"
+      },
+      "website": "https://www.open.uwi.edu",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2008,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Academic Programming and Delivery",
+          "fields": [
+            "Accountancy",
+            "Adult Education",
+            "Banking",
+            "Business Administration",
+            "Child Care and Development",
+            "Continuing Education",
+            "Economics",
+            "Education",
+            "Educational Administration",
+            "Educational Sciences",
+            "Educational Technology",
+            "English",
+            "Finance",
+            "Foreign Languages Education",
+            "Hotel and Restaurant",
+            "Human Resources",
+            "Information Management",
+            "Law",
+            "Management",
+            "Marketing",
+            "Mathematics Education",
+            "Physical Education",
+            "Political Sciences",
+            "Preschool Education",
+            "Psychology",
+            "Public Administration",
+            "Secondary Education",
+            "Secretarial Studies",
+            "Social Work",
+            "Sociology",
+            "Sports",
+            "Teacher Training",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Department/Division : Consortium for Social Development and Research",
+          "fields": [
+            "Child Care and Development",
+            "Development Studies",
+            "Gender Studies",
+            "Labour and Industrial Relations",
+            "Preschool Education",
+            "Social Work"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Associate Degree",
+          "fields": [
+            "Business Administration",
+            "Law",
+            "Secretarial Studies",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Bachelor's Degree",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Economics",
+            "Educational Administration",
+            "Finance",
+            "Foreign Languages Education",
+            "Hotel and Restaurant",
+            "Human Resources",
+            "Management",
+            "Marketing",
+            "Mathematics Education",
+            "Physical Education",
+            "Political Sciences",
+            "Preschool Education",
+            "Psychology",
+            "Secondary Education",
+            "Social Work",
+            "Sociology",
+            "Sports",
+            "Teacher Training",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Master's Degree",
+          "fields": [
+            "Adult Education",
+            "Child Care and Development",
+            "Continuing Education",
+            "Education",
+            "Educational Administration",
+            "Educational Sciences",
+            "Educational Technology",
+            "English",
+            "Human Resources",
+            "Information Management",
+            "Management",
+            "Marketing",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "Ph.D.",
+          "fields": [
+            "Education",
+            "Educational Administration",
+            "Educational Technology",
+            "Teacher Training"
+          ]
+        }
+      ],
+      "accreditation": "Barbados Accreditation Council (BAC)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Luz M. Longsworth"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Karen Ford-Warner"
+        }
+      ],
+      "statistics": {
+        "Students Statistics Year:": "2020-2021",
+        "Students Total:": "20000"
+      },
+      "history": "Founded 2008, a campus of the University of the West Indies providing online, face-to face and blended education in 17 Caribbean countries",
+      "periodicals": [],
+      "student_body": null
+    }
+  ]
+}

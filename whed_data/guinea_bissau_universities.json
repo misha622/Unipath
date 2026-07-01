@@ -1,0 +1,520 @@
+{
+  "country_name": "Guinea-Bissau",
+  "country_id": "Guinea-Bissau",
+  "institutions": [
+    {
+      "id": "18531",
+      "iau_id": "IAU-018531",
+      "name": "Colinas University of Boé",
+      "alt_name": "Universidade Colinas de Boé – University Colinas of Boé (UCB)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BVLFMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018531",
+      "address": {
+        "Street": "CP 1340, Avenida 14 de Novembro, Entrada do Bairro de Hafia",
+        "City": "Bissau"
+      },
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2003,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "October to June",
+      "languages": [
+        "Portuguese"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Accountancy and Management",
+          "fields": [
+            "Accountancy",
+            "Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Computer Engineering",
+          "fields": [
+            "Computer Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Course/Programme : Public Administration and Social Economy",
+          "fields": [
+            "Economics",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "Course/Programme : Social Communication and Marketing",
+          "fields": [
+            "Communication Studies",
+            "Marketing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licenciatura",
+          "fields": []
+        }
+      ],
+      "accreditation": "Ministério da Educação (Ministry of Education)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Fafali Koudawo"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2003.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "24677",
+      "iau_id": "IAU-024677",
+      "name": "Faculty of Law of Guinea-Bissau",
+      "alt_name": "Faculdade de Direito da Guiné-Bissau – Faculdade de Direito de Bissau (FDB)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBWLVM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024677",
+      "address": {
+        "Street": "Complexo Escolar 14 de Novembro595 Bissau Codex",
+        "City": "Bissau"
+      },
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1990,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Portuguese"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Law",
+          "fields": [
+            "Law"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licenciatura",
+          "fields": []
+        }
+      ],
+      "accreditation": "Secretário de Estado do Ensino Superior e Investigação Científica (Secretary of State for Higher Education and Scientific Research)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "João Mendes Pereira"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1990. An autonomous Faculty under administrative authority of Universidade Lusófona da Guiné (ULG).",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "24673",
+      "iau_id": "IAU-024673",
+      "name": "Jean Piaget University of Guinea-Bissau",
+      "alt_name": "Universidade Jean Piaget da Guiné-Bissau – UniPiaget Guiné-Bissau",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBWLVMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024673",
+      "address": {
+        "Street": "Rua Victorino Costa (Ex-Lamine Injai)",
+        "City": "Bissau",
+        "WWW": "http://guine-bissau.unipiaget.org"
+      },
+      "website": "http://guine-bissau.unipiaget.org",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2010,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Portuguese"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Economics and Business",
+          "fields": [
+            "Administration",
+            "Economics",
+            "Management",
+            "Public Administration"
+          ]
+        },
+        {
+          "name": "Department/Division : Health Sciences",
+          "fields": [
+            "Health Sciences",
+            "Medicine",
+            "Nursing",
+            "Pharmacy",
+            "Physical Therapy"
+          ]
+        },
+        {
+          "name": "Department/Division : Political Science of Education",
+          "fields": [
+            "Education",
+            "Educational Sciences",
+            "International Relations and Diplomacy",
+            "Law"
+          ]
+        },
+        {
+          "name": "Department/Division : Sciences and Technologies",
+          "fields": [
+            "Architecture",
+            "Business Computing",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Geology",
+            "Mining Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licenciatura",
+          "fields": []
+        }
+      ],
+      "accreditation": "Ministério da Educação",
+      "officers": [],
+      "statistics": {},
+      "history": "Founded 2010.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "18700",
+      "iau_id": "IAU-018700",
+      "name": "Lusophone University of Guinea",
+      "alt_name": "Universidade Lusófona da Guiné – Universidade Amilcar Cabral (ULG)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0BXLCNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-018700",
+      "address": {
+        "Street": "Caixia postal 659Bairro D’ Ajuda (2ª Fase)Rua Vitorino Costa, nº 1 (Junto à Amura)",
+        "City": "Bissau",
+        "WWW": "http://ulg.grupolusofona.pt"
+      },
+      "website": "http://ulg.grupolusofona.pt",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1999,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "October to June",
+      "languages": [
+        "Portuguese"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Business Administration and Management",
+          "fields": [
+            "Business Administration",
+            "Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Computer Engineering",
+          "fields": [
+            "Computer Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Economics",
+          "fields": [
+            "Economics"
+          ]
+        },
+        {
+          "name": "Course/Programme : Educational Sciences",
+          "fields": [
+            "Educational Sciences"
+          ]
+        },
+        {
+          "name": "Course/Programme : Human Resource Management",
+          "fields": [
+            "Human Resources"
+          ]
+        },
+        {
+          "name": "Course/Programme : Law",
+          "fields": [
+            "Law"
+          ]
+        },
+        {
+          "name": "Course/Programme : Marine and Environmental Sciences",
+          "fields": [
+            "Environmental Studies",
+            "Marine Science and Oceanography"
+          ]
+        },
+        {
+          "name": "Course/Programme : Nursing",
+          "fields": [
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Course/Programme : Organizational Communication and Journalism",
+          "fields": [
+            "Communication Studies",
+            "Journalism"
+          ]
+        },
+        {
+          "name": "Course/Programme : Political Science and International Relations",
+          "fields": [
+            "International Relations and Diplomacy",
+            "Political Sciences"
+          ]
+        },
+        {
+          "name": "Course/Programme : Social Work",
+          "fields": [
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Course/Programme : Sociology",
+          "fields": [
+            "Sociology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Business Administration",
+            "Communication Studies",
+            "Computer Engineering",
+            "Economics",
+            "Educational Sciences",
+            "Environmental Studies",
+            "Human Resources",
+            "International Relations and Diplomacy",
+            "Journalism",
+            "Law",
+            "Management",
+            "Marine Science and Oceanography",
+            "Nursing",
+            "Political Sciences",
+            "Social Work",
+            "Sociology"
+          ]
+        }
+      ],
+      "accreditation": "Secretário de Estado do Ensino Superior e Investigação Científica (Secretary of State for Higher Education and Scientific Research)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Zaida Maria Lopes Pereira Correia"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Montenegro Fiúza"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1999 as Universidade Amilcar Cabral, placed under the administration of the Universidade Lusófona de Humanidades e Tecnologias (Lisboa, Portugal) and changed into a private institution 2008 (until 2011) and ceased activities until 2013, following restructurations initiated 2010",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "24681",
+      "iau_id": "IAU-024681",
+      "name": "National School of Administration",
+      "alt_name": "Escola Nacional de Administração (ENA-Bissau)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBWLiMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024681",
+      "address": {
+        "Street": "Zona Industrial de Brá",
+        "City": "Bilau"
+      },
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1982,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Portuguese"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Business and Organisational Management",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Business Administration",
+            "Economics",
+            "Finance",
+            "Human Resources",
+            "Management",
+            "Statistics"
+          ]
+        },
+        {
+          "name": "Course/Programme : Justice Administration",
+          "fields": [
+            "Accountancy",
+            "Justice Administration",
+            "Law"
+          ]
+        },
+        {
+          "name": "Course/Programme : Public Administration",
+          "fields": [
+            "Administration",
+            "Finance",
+            "Public Administration",
+            "Taxation"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licenciatura",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Management"
+          ]
+        }
+      ],
+      "accreditation": "Secretário de Estado do Ensino Superior e Investigação Científica (Secretary of State for Higher Education and Scientific Research)",
+      "officers": [],
+      "statistics": {},
+      "history": "Founded 1982 as Centro de Formação Administrativa, acquired current title and status 2010.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "24678",
+      "iau_id": "IAU-024678",
+      "name": "Raúl Diaz Arguelles Faculty of Medicine - National School of Health",
+      "alt_name": "Faculdade de Medicina Raúl Diaz Arguelles - Escola Nacional de Saúde – Faculdade de Medicina da Guiné Bissau",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBWLVNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024678",
+      "address": {
+        "City": "Bissau"
+      },
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1986,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Portuguese"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Health Sciences",
+          "fields": [
+            "Community Health",
+            "Health Sciences",
+            "Medical Auxiliaries",
+            "Midwifery",
+            "Nursing"
+          ]
+        },
+        {
+          "name": "Course/Programme : Medicine",
+          "fields": [
+            "Medicine"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licenciatura",
+          "fields": []
+        }
+      ],
+      "accreditation": "Ministério da Educação Nacional (Ministry of National Education); Ministra da Saúde Pública (Ministry of Health)",
+      "officers": [],
+      "statistics": {},
+      "history": "Founded 1986. Closed down during academic year 1998/1999 until 2006, when reopened as autonomous Faculty under the administrative authority of Universidade Lusófona da Guiné (ULG).",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "24683",
+      "iau_id": "IAU-024683",
+      "name": "School of Education",
+      "alt_name": "Escola Superior de Educação – Escola Normal Superior Tchico Té",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBWLiMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024683",
+      "address": {
+        "City": "Bissau"
+      },
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1979,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Portuguese"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Teacher Training",
+          "fields": [
+            "Primary Education",
+            "Secondary Education",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Institute : Camões Institute",
+          "fields": [
+            "Native Language Education",
+            "Portuguese"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licenciatura",
+          "fields": []
+        }
+      ],
+      "accreditation": "Secretário de Estado do Ensino Superior e Investigação Científica (Secretary of State for Higher Education and Scientific Research)",
+      "officers": [],
+      "statistics": {},
+      "history": "Founded 1979.",
+      "periodicals": [],
+      "student_body": null
+    }
+  ]
+}

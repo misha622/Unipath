@@ -1,0 +1,5543 @@
+{
+  "country_name": "Morocco",
+  "country_id": "Morocco",
+  "institutions": [
+    {
+      "id": "19481",
+      "iau_id": "IAU-019481",
+      "name": "Abdelmalek Essaâdi University",
+      "alt_name": "Université Abdelmalek Essaâdi",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RULiMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019481",
+      "address": {
+        "Street": "Lotissement Quaraouiyine - Route d'Ain Chkef",
+        "City": "Fès",
+        "Post Code": "30000",
+        "WWW": "https://upf.ac.ma"
+      },
+      "website": "https://upf.ac.ma",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2006,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Dentistry",
+          "fields": [
+            "Dentistry"
+          ]
+        },
+        {
+          "name": "Faculty : Engineering",
+          "fields": [
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Networks",
+            "Electronics and Automation",
+            "Energy Engineering",
+            "Engineering",
+            "Industrial Engineering",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Faculty : Paramedical Sciences and Health Techniques",
+          "fields": [
+            "Dietetics",
+            "Nursing",
+            "Nutrition",
+            "Psychology"
+          ]
+        },
+        {
+          "name": "Institute : Law and Social Studies",
+          "fields": [
+            "Commercial Law",
+            "Law"
+          ]
+        },
+        {
+          "name": "School : Architecture and Building Professions",
+          "fields": [
+            "Architecture",
+            "Design",
+            "Interior Design",
+            "Landscape Architecture",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "School : Business",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Finance",
+            "Hotel Management",
+            "Human Resources",
+            "International Business",
+            "Management",
+            "Marketing",
+            "Transport Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence professionnelle",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Business Administration",
+            "Finance",
+            "Human Resources",
+            "Insurance",
+            "International Business",
+            "Law",
+            "Logistics Management",
+            "Nursing",
+            "Nutrition",
+            "Political Sciences",
+            "Psychology",
+            "Sales Techniques",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Diplôme d'Ingénieur",
+          "fields": [
+            "Civil Engineering",
+            "Computer Engineering",
+            "Design",
+            "Energy Engineering",
+            "Engineering",
+            "Interior Design",
+            "Town Planning"
+          ]
+        },
+        {
+          "name": "Diplôme de Commerce et de Gestion",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Communication Studies",
+            "Finance",
+            "Human Resources",
+            "Logistics Management",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Business Administration",
+            "Clinical Psychology",
+            "Commercial Law",
+            "Computer Science",
+            "Data Science",
+            "Design",
+            "Development Studies",
+            "Health Administration",
+            "Interior Design",
+            "Notary Studies"
+          ]
+        },
+        {
+          "name": "Doctorat",
+          "fields": [
+            "Management",
+            "Sustainable Development"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l'Education Nationale, de la Formation professionnelle, de l'Enseignement Supérieur et de la Recherche Scientifique",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Mohammed Aziz Lahlou"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2006.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "24585",
+      "iau_id": "IAU-024585",
+      "name": "Abulcasis International University of Health Sciences",
+      "alt_name": "Université Internationale Abulcasis des Sciences de la Santé (UIASS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBVLiM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024585",
+      "address": {
+        "Street": "Km 13, route d’Amizmiz (Route du barrage lalla Takerkoust)",
+        "City": "Marrakech",
+        "Post Code": "42312",
+        "WWW": "https://upm.ac.ma"
+      },
+      "website": "https://upm.ac.ma",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2012,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "Campus Abroad : UPM Sénégal",
+          "fields": [
+            "Agricultural Engineering",
+            "Biomedicine",
+            "Business and Commerce",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Networks",
+            "Electronic Engineering",
+            "Energy Engineering",
+            "Hotel Management",
+            "Information Technology",
+            "Management",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Department/Division : Arts, Culture, Journalism and Medias Studies",
+          "fields": [
+            "Art Management",
+            "Communication Studies",
+            "Cultural Studies",
+            "Design",
+            "Interior Design",
+            "Journalism",
+            "Media Studies",
+            "Multimedia"
+          ]
+        },
+        {
+          "name": "Department/Division : Business et Governance",
+          "fields": [
+            "Business and Commerce",
+            "Commercial Law",
+            "Management",
+            "Marketing",
+            "Political Sciences"
+          ]
+        },
+        {
+          "name": "Department/Division : Engineering and Innovation",
+          "fields": [
+            "Agricultural Engineering",
+            "Artificial Intelligence",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Cybersecurity",
+            "Electronic Engineering",
+            "Engineering",
+            "Food Technology",
+            "Industrial Engineering",
+            "Information Technology",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Department/Division : Health Sciences",
+          "fields": [
+            "Biomedicine",
+            "Health Sciences",
+            "Medical Technology",
+            "Nursing",
+            "Physical Therapy",
+            "Psychology",
+            "Radiology",
+            "Social and Preventive Medicine"
+          ]
+        },
+        {
+          "name": "Department/Division : Sport",
+          "fields": [
+            "Sports",
+            "Sports Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Tourism, Hospitality, Art of Living",
+          "fields": [
+            "Cooking and Catering",
+            "Hotel and Restaurant",
+            "Hotel Management",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Faculty : Dentistry",
+          "fields": [
+            "Dentistry"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Faculty : Pharmacy",
+          "fields": [
+            "Pharmacy"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Biomedical Engineering",
+            "Biomedicine",
+            "Business and Commerce",
+            "Civil Engineering",
+            "Commercial Law",
+            "Communication Studies",
+            "Computer Engineering",
+            "Computer Science",
+            "Cooking and Catering",
+            "Cultural Studies",
+            "Dental Technology",
+            "Fine Arts",
+            "Health Sciences",
+            "Hotel Management",
+            "Journalism",
+            "Laboratory Techniques",
+            "Management",
+            "Media Studies",
+            "Midwifery",
+            "Multimedia",
+            "Nursing",
+            "Physical Therapy",
+            "Political Sciences",
+            "Psychology",
+            "Radiology",
+            "Social and Preventive Medicine",
+            "Software Engineering",
+            "Sports Management",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Diplôme d'Ingénieur",
+          "fields": [
+            "Aeronautical and Aerospace Engineering",
+            "Agricultural Engineering",
+            "Agricultural Management",
+            "Artificial Intelligence",
+            "Automation",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Networks",
+            "Cybersecurity",
+            "Electrical Engineering",
+            "Energy Engineering",
+            "Engineering",
+            "Engineering Management",
+            "Environmental Engineering",
+            "Food Technology",
+            "Industrial Engineering",
+            "Information Technology",
+            "Interior Design",
+            "Network Technology",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Commercial Law",
+            "Data Science",
+            "Dietetics",
+            "Environmental Management",
+            "Finance",
+            "Health Sciences",
+            "Hotel Management",
+            "Human Resources",
+            "International Business",
+            "Journalism",
+            "Management",
+            "Marketing",
+            "Media Studies",
+            "Medical Training",
+            "Multimedia",
+            "Nutrition",
+            "Physical Therapy",
+            "Public Administration",
+            "Sports Management",
+            "Tourism",
+            "Water Management"
+          ]
+        },
+        {
+          "name": "Doctorat",
+          "fields": [
+            "Engineering",
+            "Management"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l'Education Nationale, de la Formation professionnelle, de l'Enseignement Supérieur et de la Recherche Scientifique",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Mohamed Knidiri"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2012. Accredited since 2017. L’ESIAG – Ecole d’Informatique Appliquée à la Gestion (1987) is now part of UPM",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "30479",
+      "iau_id": "IAU-030479",
+      "name": "ADALIA Institute - School of Business and Management",
+      "alt_name": "ADALIA Institute – School of Business and Management",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sU2BULVNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-030479",
+      "address": {
+        "Street": "Centre National des Sports Moulay RachidKm 12, Route de Meknès",
+        "City": "Salé",
+        "WWW": "http://www.irfc.ma"
+      },
+      "website": "http://www.irfc.ma",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1980,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Sports Management",
+          "fields": [
+            "Physical Education",
+            "Sports",
+            "Sports Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Child Care and Development",
+            "Primary Education",
+            "Sports"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Sports Management"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l'Education Nationale, de la Formation professionnelle, de l'Enseignement Supérieur et de la Recherche Scientifique.",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Lahoucine Bahi"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1980.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "24195",
+      "iau_id": "IAU-024195",
+      "name": "AEROSUP - School of Aeronautics and Advanced Technology",
+      "alt_name": "Ecole supérieure de l 'Aeronautique et la Haute Technologie (AEROSUP)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBRLjM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024195",
+      "address": {
+        "Street": "BP 1243ème Base Militaire",
+        "City": "Kénitra"
+      },
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1964,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Public Administration",
+          "fields": [
+            "International Relations and Diplomacy",
+            "Public Administration"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Master",
+          "fields": [
+            "Administration"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l'Intérieur",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Rachid El Hamri"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1964. Acquired present title 2007.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "19496",
+      "iau_id": "IAU-019496",
+      "name": "Al Akhawayn University",
+      "alt_name": "Université Al Akhawayn (AUI)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RULjM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019496",
+      "address": {
+        "Street": "Rond point HECI Route d’El Jadida 1077 N° 3",
+        "City": "Casablanca",
+        "WWW": "https://www.groupeheci.ac.ma"
+      },
+      "website": "https://www.groupeheci.ac.ma",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1986,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Campus Abroad : Université internationale Abidjan (UIA) - Côte d'Ivoire",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Course/Programme : Banking",
+          "fields": [
+            "Banking"
+          ]
+        },
+        {
+          "name": "Course/Programme : Computer Science",
+          "fields": [
+            "Computer Science"
+          ]
+        },
+        {
+          "name": "Course/Programme : Finance and Banking (MBA)",
+          "fields": [
+            "Banking",
+            "Finance"
+          ]
+        },
+        {
+          "name": "Course/Programme : Management",
+          "fields": [
+            "Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Management (Doctorat)",
+          "fields": [
+            "Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Management (MBA)",
+          "fields": [
+            "Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Marketing (MBA)",
+          "fields": [
+            "Marketing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Business Administration",
+            "Finance",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Computer Science",
+            "Entrepreneurship",
+            "Finance",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Doctorat",
+          "fields": [
+            "Business Administration",
+            "Management"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education, Scientific Research and Innovation",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Fayçal Rhissassi"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1986.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "4276",
+      "iau_id": "IAU-004276",
+      "name": "ArtCom Sup - School of Design",
+      "alt_name": "Ecole supérieure de Design (ArtCom Sup)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIyhXLUBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004276",
+      "address": {
+        "Street": "Fès shore, ​Route de Sidi Hrazem",
+        "City": "Fès",
+        "Post Code": "30000",
+        "WWW": "https://esi2a.ma"
+      },
+      "website": "https://esi2a.ma",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2013,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Department/Division : Aeronautical Engineering",
+          "fields": [
+            "Aeronautical and Aerospace Engineering"
+          ]
+        },
+        {
+          "name": "Department/Division : Automotive Engineering",
+          "fields": [
+            "Automotive Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diplôme d'Ingénieur",
+          "fields": [
+            "Aeronautical and Aerospace Engineering",
+            "Automotive Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l’Education Nationale, de la Formation Professionnelle, de l’Enseignement Supérieur et de la Recherche Scientifique",
+      "officers": [
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Abdelkader Rabbi"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2013.",
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "4362",
+      "iau_id": "IAU-004362",
+      "name": "Atlantic Business School",
+      "alt_name": "(ABS)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIyxWLEBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004362",
+      "address": {
+        "Street": "Ksaibi, rue E, Lot. N°3, Mara 2",
+        "City": "Tanger",
+        "Post Code": "90000",
+        "WWW": "https://emcgi.ma"
+      },
+      "website": "https://emcgi.ma",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2008,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Finance",
+          "fields": [
+            "Finance"
+          ]
+        },
+        {
+          "name": "Course/Programme : Management",
+          "fields": [
+            "Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Marketing and Communication",
+          "fields": [
+            "Communication Studies",
+            "Marketing"
+          ]
+        }
+      ],
+      "degrees": [],
+      "accreditation": "Ministry of Higher Education, Scientific Research and Innovation",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Mahmoud Belamhitou"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2008.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "30406",
+      "iau_id": "IAU-030406",
+      "name": "Atlantic Engineering School",
+      "alt_name": "(AES)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sU2BULCM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-030406",
+      "address": {
+        "Street": "BP 6204Avenue Allal El FassiCité Al Irfane",
+        "City": "Rabat",
+        "Post Code": "10000",
+        "WWW": "http://www.esi.ac.ma"
+      },
+      "website": "http://www.esi.ac.ma",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1974,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to July",
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Data",
+          "fields": [
+            "Data Science",
+            "Engineering",
+            "Information Sciences"
+          ]
+        },
+        {
+          "name": "Course/Programme : Information Systems Management",
+          "fields": [
+            "Archiving",
+            "Engineering",
+            "Information Management",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Knowledge Management",
+          "fields": [
+            "Artificial Intelligence",
+            "Information Management",
+            "Information Sciences"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diplôme d'Ingénieur",
+          "fields": [
+            "Computer Science",
+            "Information Technology",
+            "Mathematics and Computer Science"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Information Management",
+            "Information Sciences"
+          ]
+        },
+        {
+          "name": "Doctorat",
+          "fields": [
+            "Computer Science",
+            "Documentation Techniques",
+            "Information Sciences"
+          ]
+        }
+      ],
+      "accreditation": "Haut Commissariat au Plan (HCP)",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Salah Eddine Bahji"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1974 to meet the needs of the country for professionnals by ensuring their training in the areas of Documentation Techniques, Information Sciences, Science and Librarianship.",
+      "periodicals": [
+        "Revue de la Science de l'information",
+        "Revue de la Science de l'information"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "19508",
+      "iau_id": "IAU-019508",
+      "name": "Cadi Ayyad University",
+      "alt_name": "Université Cadi Ayyad",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RVLCNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019508",
+      "address": {
+        "Street": "Complexe panorama, lot al Moustakbal, Av. Abou Bakr el Kadiri",
+        "City": "Casablanca",
+        "Province": "20000",
+        "WWW": "https://suprh.com"
+      },
+      "website": "https://suprh.com",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2008,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "October to June",
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Human Resources",
+          "fields": [
+            "Human Resources"
+          ]
+        },
+        {
+          "name": "Course/Programme : Management",
+          "fields": [
+            "Human Resources",
+            "Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Strategic Management of Enterprises and Organizations",
+          "fields": [
+            "Business and Commerce",
+            "Communication Studies",
+            "Finance",
+            "Human Resources",
+            "Management",
+            "Marketing"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Accountancy",
+            "Artificial Intelligence",
+            "Business Administration",
+            "Finance",
+            "Human Resources",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Accountancy",
+            "Artificial Intelligence",
+            "Finance",
+            "Human Resources",
+            "International Business",
+            "Logistics Management",
+            "Management",
+            "Marketing"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education, Scientific Research and Innovation",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Abdelhak Moutawakkil"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2008.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "4227",
+      "iau_id": "IAU-004227",
+      "name": "Casablanca School of Architecture and Landscape",
+      "alt_name": "Ecole d’Architecture et de Paysage de Casablanca (EAC)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIyhSLVBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004227",
+      "address": {
+        "Street": "2 Rue Melilla",
+        "City": "Tanger",
+        "Post Code": "90060",
+        "WWW": "https://ensit.ma"
+      },
+      "website": "https://ensit.ma",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2004,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Institute : Health Sciences",
+          "fields": [
+            "Health Sciences"
+          ]
+        },
+        {
+          "name": "School : Engineering",
+          "fields": [
+            "Civil Engineering",
+            "Computer Engineering",
+            "Computer Networks",
+            "Engineering",
+            "Industrial Engineering"
+          ]
+        },
+        {
+          "name": "School : Management",
+          "fields": [
+            "Finance",
+            "International Business",
+            "Logistics Management",
+            "Management",
+            "Marketing",
+            "Transport Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Business and Commerce",
+            "Finance",
+            "International Business",
+            "Logistics Management",
+            "Management",
+            "Marketing",
+            "Sales Techniques"
+          ]
+        },
+        {
+          "name": "Diplôme d'Ingénieur",
+          "fields": [
+            "Civil Engineering",
+            "Computer Engineering",
+            "Industrial Engineering"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Business Administration",
+            "Finance",
+            "Government",
+            "Human Resources",
+            "Logistics Management",
+            "Management"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education, Scientific Research and Innovation",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Hicham Radi"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2004.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "24591",
+      "iau_id": "IAU-024591",
+      "name": "Central School of Casablanca",
+      "alt_name": "Ecole Centrale de Casablanca (ECC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBVLjMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024591",
+      "address": {
+        "Street": "88 Avenue Ibn Sina, Hay Hassani",
+        "City": "Casablanca",
+        "WWW": "https://psychosup.net"
+      },
+      "website": "https://psychosup.net",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2003,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Psychology",
+          "fields": [
+            "Clinical Psychology",
+            "Educational Psychology",
+            "Human Resources",
+            "Industrial and Organizational Psychology",
+            "Neurology",
+            "Psychiatry and Mental Health",
+            "Psychoanalysis",
+            "Psychology",
+            "Psychometrics",
+            "Social Psychology",
+            "Sociology"
+          ]
+        }
+      ],
+      "degrees": [],
+      "accreditation": "Ministry of Higher Education, Scientific Research and Innovation",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Abdelkrim Belhaj"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2003.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "19534",
+      "iau_id": "IAU-019534",
+      "name": "Chouaïb Doukkali University",
+      "alt_name": "Université Chouaïb Doukkali",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RVLFMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019534",
+      "address": {
+        "Street": "BP 7731Km 8, route d'El Jadida, Laymoune",
+        "City": "Casablanca",
+        "Post Code": "20000",
+        "WWW": "https://www.esith.ac.ma"
+      },
+      "website": "https://www.esith.ac.ma",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June (September-January; February-June)",
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Computer Science and Systems Management",
+          "fields": [
+            "Computer Science",
+            "Industrial Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Distribution and Merchandising",
+          "fields": [
+            "Marketing",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : E-Logistics",
+          "fields": [
+            "E-Business/Commerce",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Executive MBA",
+          "fields": [
+            "Business Administration",
+            "Marketing",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Health, Safety and Environment",
+          "fields": [
+            "Environmental Management",
+            "Hygiene",
+            "Occupational Health"
+          ]
+        },
+        {
+          "name": "Course/Programme : Industrial Engineering",
+          "fields": [
+            "Clothing and Sewing",
+            "Industrial Engineering",
+            "International Business",
+            "Marketing",
+            "Textile Technology",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Industrial Engineering",
+          "fields": [
+            "Clothing and Sewing",
+            "Textile Design"
+          ]
+        },
+        {
+          "name": "Course/Programme : Management in Clothing Production",
+          "fields": [
+            "Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Purchasing and Sourcing Management",
+          "fields": [
+            "Management",
+            "Retailing and Wholesaling"
+          ]
+        },
+        {
+          "name": "Course/Programme : Supply Chain Management",
+          "fields": [
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Textile Production Management",
+          "fields": [
+            "Industrial Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Continuing Education",
+          "fields": [
+            "Hotel and Restaurant",
+            "Hygiene",
+            "Industrial Maintenance",
+            "Industrial Management",
+            "Management",
+            "Safety Engineering",
+            "Textile Technology",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Department/Division : Research and Development",
+          "fields": [
+            "Textile Design",
+            "Textile Technology",
+            "Transport Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Logistics Management",
+            "Management",
+            "Sales Techniques",
+            "Textile Design"
+          ]
+        },
+        {
+          "name": "Diplôme d'Ingénieur",
+          "fields": [
+            "Chemical Engineering",
+            "Computer Science",
+            "Industrial Engineering",
+            "Management Systems",
+            "Materials Engineering",
+            "Textile Technology",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Computer Science",
+            "E-Business/Commerce",
+            "Environmental Management",
+            "Industrial Management",
+            "Logistics Management",
+            "Marketing",
+            "Occupational Health",
+            "Safety Engineering",
+            "Textile Technology"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education, Scientific Research and Innovation",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Abderrahmane Farhate"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Touria Ait Ozzo"
+        }
+      ],
+      "statistics": {
+        "Staff Statistics Year:": "2022-2023",
+        "Staff Full Time Male:": "12",
+        "Staff Full Time Female:": "3",
+        "Staff Full Time Total:": "15",
+        "Students Statistics Year:": "2022-2023",
+        "Students Total:": "1250"
+      },
+      "history": "ESITH Casablanca was created in 1996 through a pioneering model of public-private partnership. ESITH belongs to the category of HEI known as the great schools of engineering in Morocco. It started with the main mission of meeting the needs of the Moroccan textile industry for highly qualified human capital. However, as it developed, it opened up to other programmes while remaining focused on industrial vocations such as industrial management, logistics and supply chain management. ESITH supports Research by fostering synergy between academia and industry in order to facilitate the transfer of know-how and innovation. The school's culture is based on quality teaching and proximity to industry, which explains its annual performance in terms of employability of graduates (92% six months after graduation). ESITH Casablanca supports private and public institutions in Morocco and abroad in their efforts to improve productivity and competitiveness thanks to a large team of professors-consultants who combine a strong experience of the industrial field with a solid scientific culture",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "4275",
+      "iau_id": "IAU-004275",
+      "name": "COM' Sup - School of Communication and Advertising",
+      "alt_name": "Ecole supérieure de Communication et de Publicité (COM' Sup)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIyhXLTBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004275",
+      "address": {
+        "Street": "BP 2626Route d'Imouzzer",
+        "City": "Fez",
+        "Province": "Fez-Meknes",
+        "Post Code": "30000",
+        "WWW": "https://www.usmba.ac.ma"
+      },
+      "website": "https://www.usmba.ac.ma",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1975,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "September to June (September-February; February-June).",
+      "languages": [
+        "Arabic",
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Arts and Humanities - Dhar El Mehraz",
+          "fields": [
+            "Arabic",
+            "Cultural Studies",
+            "English",
+            "French",
+            "Gender Studies",
+            "Geography",
+            "German",
+            "History",
+            "Islamic Studies",
+            "Linguistics",
+            "Literature",
+            "Philosophy",
+            "Psychology",
+            "Sociology",
+            "Spanish"
+          ]
+        },
+        {
+          "name": "Faculty : Arts and Humanities - Saïs",
+          "fields": [
+            "Arabic",
+            "Communication Studies",
+            "Comparative Religion",
+            "English",
+            "French",
+            "Geography",
+            "History",
+            "Islamic Studies",
+            "Linguistics",
+            "Literature",
+            "Sociology"
+          ]
+        },
+        {
+          "name": "Faculty : Chariaâ",
+          "fields": [
+            "Islamic Law",
+            "Islamic Theology"
+          ]
+        },
+        {
+          "name": "Faculty : Law, Economics and Social Sciences",
+          "fields": [
+            "Accountancy",
+            "Banking",
+            "Economics",
+            "Finance",
+            "Human Resources",
+            "Insurance",
+            "Law",
+            "Management",
+            "Notary Studies",
+            "Private Law",
+            "Public Law",
+            "Social Sciences"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine and Pharmacy",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Faculty : Polydisciplinary - Taza",
+          "fields": [
+            "Arabic",
+            "Biology",
+            "Earth Sciences",
+            "Economics",
+            "French",
+            "Geography",
+            "History",
+            "Mathematics",
+            "Physics",
+            "Private Law",
+            "Public Law"
+          ]
+        },
+        {
+          "name": "Faculty : Science - Fes Dhar el Mehraz",
+          "fields": [
+            "Biological and Life Sciences",
+            "Biology",
+            "Chemistry",
+            "Computer Science",
+            "Earth Sciences",
+            "Materials Engineering",
+            "Mathematics",
+            "Natural Sciences",
+            "Nuclear Engineering",
+            "Pharmacology",
+            "Physical Engineering",
+            "Physics",
+            "Physiology"
+          ]
+        },
+        {
+          "name": "Faculty : Science and Technology - Saïs",
+          "fields": [
+            "Biology",
+            "Biotechnology",
+            "Chemical Engineering",
+            "Chemistry",
+            "Electrical Engineering",
+            "Geology",
+            "Industrial Engineering",
+            "Materials Engineering",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Natural Sciences",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Institute : Sport Science",
+          "fields": [
+            "Physical Education",
+            "Sports",
+            "Sports Management"
+          ]
+        },
+        {
+          "name": "School : National School of Applied Sciences",
+          "fields": [
+            "Computer Engineering",
+            "Computer Networks",
+            "Industrial Engineering",
+            "Mechanical Engineering",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "School : National School of Business and Management",
+          "fields": [
+            "Accountancy",
+            "Business and Commerce",
+            "Communication Studies",
+            "Finance",
+            "International Business",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "School : Teacher Training",
+          "fields": [
+            "Mathematics Education",
+            "Physical Education",
+            "Science Education",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "School : Technology",
+          "fields": [
+            "Computer Engineering",
+            "Computer Networks",
+            "Electrical Engineering",
+            "Industrial Engineering",
+            "Maintenance Technology",
+            "Management",
+            "Mechanical Engineering",
+            "Production Engineering",
+            "Thermal Engineering",
+            "Transport Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diplôme universitaire de Technologie",
+          "fields": [
+            "Business Administration",
+            "Engineering",
+            "Technology",
+            "Transport and Communications"
+          ]
+        },
+        {
+          "name": "Licence",
+          "fields": [
+            "Accountancy",
+            "Arabic",
+            "Banking",
+            "Business Administration",
+            "Chemistry",
+            "Cultural Studies",
+            "Earth Sciences",
+            "Engineering",
+            "English",
+            "Finance",
+            "French",
+            "Geography",
+            "German",
+            "History",
+            "Insurance",
+            "Management",
+            "Mathematics",
+            "Mathematics and Computer Science",
+            "Natural Sciences",
+            "Philosophy",
+            "Physical Education",
+            "Physics",
+            "Private Law",
+            "Psychology",
+            "Public Law",
+            "Religious Studies",
+            "Social Work",
+            "Sociology",
+            "Spanish",
+            "Sports",
+            "Sports Management",
+            "Technology"
+          ]
+        },
+        {
+          "name": "Licence en Éducation",
+          "fields": [
+            "Mathematics Education",
+            "Physical Education",
+            "Science Education",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "Diplôme d'Ingénieur",
+          "fields": [
+            "Computer Engineering",
+            "Electronic Engineering",
+            "Food Technology",
+            "Industrial Engineering",
+            "Mechanical Engineering",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Diplôme de Commerce et de Gestion",
+          "fields": [
+            "Accountancy",
+            "Business and Commerce",
+            "Finance",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Accountancy",
+            "Administrative Law",
+            "Applied Mathematics",
+            "Biology",
+            "Biotechnology",
+            "Chemistry",
+            "Commercial Law",
+            "Computer Engineering",
+            "Criminal Law",
+            "Electrical Engineering",
+            "Electronics and Automation",
+            "Environmental Management",
+            "Environmental Studies",
+            "Finance",
+            "French",
+            "Gender Studies",
+            "Geography",
+            "Geology",
+            "Human Resources",
+            "Industrial Management",
+            "International Law",
+            "Islamic Law",
+            "Law",
+            "Linguistics",
+            "Literature",
+            "Management",
+            "Materials Engineering",
+            "Mathematics",
+            "Mechanical Engineering",
+            "Microelectronics",
+            "Natural Resources",
+            "Nuclear Engineering",
+            "Pharmacology",
+            "Physics",
+            "Physiology",
+            "Private Law",
+            "Software Engineering",
+            "Spanish"
+          ]
+        },
+        {
+          "name": "Doctorat",
+          "fields": [
+            "Cultural Studies",
+            "Economics",
+            "Education",
+            "Engineering",
+            "History",
+            "Law",
+            "Literature",
+            "Management",
+            "Mathematics and Computer Science",
+            "Medicine",
+            "Modern Languages",
+            "Natural Sciences",
+            "Psychology",
+            "Religion",
+            "Social Sciences",
+            "Sociology"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l'Education Nationale, de la Formation professionnelle, de l'Enseignement Supérieur et de la Recherche Scientifique",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Mustapha Ijjaali"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Abdelrhani Elachqar"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "EL Mestafa El Hadrami"
+        },
+        {
+          "title": "International Relations Officer",
+          "name": "Hajar Jellouli"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1975.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "3564",
+      "iau_id": "IAU-003564",
+      "name": "Dar El-Hadith El-Hassania Institute for Higher Islamic Studies",
+      "alt_name": "Dar-Al-Hadith Al-Hassania (DHH)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0sUzRWLWBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-003564",
+      "address": {
+        "Street": "87 Bd Nador, Quartier Polo",
+        "City": "Casablanca",
+        "WWW": "https://sist.ac.ma"
+      },
+      "website": "https://sist.ac.ma",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2001,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Business and Management",
+          "fields": [
+            "Business Administration",
+            "Entrepreneurship",
+            "Finance",
+            "Human Resources",
+            "Information Management",
+            "Logistics Management",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Course/Programme : Information System",
+          "fields": [
+            "Business Computing",
+            "Computer Networks",
+            "Information Technology",
+            "Software Engineering"
+          ]
+        }
+      ],
+      "degrees": [],
+      "accreditation": "Ministry of Higher Education, Scientific Research and Innovation",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Tarik Obaid"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2001, SIST is the first British University in Morocco, delivering programmes from Cardiff Metropolitan University. In November 2015, in recognition of the excellent relations and developments between the two institutions, SIST were awarded the status of Associate College of Cardiff Metropolitan University.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "30473",
+      "iau_id": "IAU-030473",
+      "name": "EDGE Business School",
+      "alt_name": "(EDGE)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sU2BULVMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-030473",
+      "address": {
+        "Street": "BP 591Avenue Mohamed V, Quartier Taqaddoum",
+        "City": "Béni Mellal",
+        "Post Code": "23000",
+        "WWW": "https://www.usms.ac.ma"
+      },
+      "website": "https://www.usms.ac.ma",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2007,
+      "type": null,
+      "funding": "Public",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Arts and Humanities - Béni Mellal",
+          "fields": [
+            "Arabic",
+            "Arts and Humanities",
+            "Cultural Studies",
+            "Demography and Population",
+            "English",
+            "Environmental Studies",
+            "Finance",
+            "French",
+            "Heritage Preservation",
+            "History",
+            "Journalism",
+            "Koran",
+            "Linguistics",
+            "Literature",
+            "Media Studies",
+            "Social Work"
+          ]
+        },
+        {
+          "name": "Faculty : Economics and Management - Béni Mellal",
+          "fields": [
+            "Economics",
+            "Management"
+          ]
+        },
+        {
+          "name": "Faculty : Medicine and Pharmacy - Béni Mellal",
+          "fields": [
+            "Medicine",
+            "Pharmacy"
+          ]
+        },
+        {
+          "name": "Faculty : Polydisciplinary - Béni Mellal",
+          "fields": [
+            "Arabic",
+            "Biological and Life Sciences",
+            "Chemistry",
+            "Computer Science",
+            "Economics",
+            "Geography",
+            "Management",
+            "Mathematics",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Faculty : Polydisciplinary - Khouribga",
+          "fields": [
+            "Economics",
+            "Management",
+            "Physics"
+          ]
+        },
+        {
+          "name": "Faculty : Science and Technology - Béni Mellal",
+          "fields": [
+            "Applied Mathematics",
+            "Bioengineering",
+            "Biology",
+            "Chemical Engineering",
+            "Computer Engineering",
+            "Electronic Engineering",
+            "Environmental Engineering",
+            "Food Technology",
+            "Materials Engineering",
+            "Mathematics and Computer Science",
+            "Mechanical Engineering",
+            "Natural Resources",
+            "Technology",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "School : Applied Science - ENSA Béni Mellal",
+          "fields": [
+            "Artificial Intelligence",
+            "Computer Science",
+            "Electrical Engineering",
+            "Energy Engineering",
+            "Food Science"
+          ]
+        },
+        {
+          "name": "School : Applied Sciences - ENSA Khourigba",
+          "fields": [
+            "Engineering",
+            "Mathematics and Computer Science",
+            "Natural Sciences"
+          ]
+        },
+        {
+          "name": "School : Business and Management - ENCG Béni Mellal",
+          "fields": [
+            "Business Administration",
+            "Human Resources",
+            "International Business",
+            "Logistics Management",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "School : Teacher Training - ENS Béni Mellal",
+          "fields": [
+            "Chemistry",
+            "Education",
+            "English",
+            "French",
+            "Mathematics Education",
+            "Native Language Education",
+            "Physics",
+            "Primary Education",
+            "Secondary Education",
+            "Teacher Training"
+          ]
+        },
+        {
+          "name": "School : Technology - EST Béni Mellal",
+          "fields": [
+            "Environmental Management",
+            "Human Resources",
+            "Irrigation",
+            "Management",
+            "Mechanical Engineering",
+            "Production Engineering"
+          ]
+        },
+        {
+          "name": "School : Technology - EST Fkih Ben Salah",
+          "fields": [
+            "Agricultural Engineering",
+            "Bioengineering",
+            "Civil Engineering",
+            "Computer Engineering",
+            "Food Science"
+          ]
+        },
+        {
+          "name": "School : Technology - EST Khénifra",
+          "fields": [
+            "Bioengineering",
+            "Computer Engineering",
+            "Environmental Management",
+            "Special Education",
+            "Water Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Accountancy",
+            "Agricultural Business",
+            "Agronomy",
+            "Analytical Chemistry",
+            "Applied Chemistry",
+            "Aquaculture",
+            "Arabic",
+            "Artificial Intelligence",
+            "Automation",
+            "Biology",
+            "Biomedicine",
+            "Biotechnology",
+            "Business and Commerce",
+            "Chemistry",
+            "Civil Engineering",
+            "Commercial Law",
+            "Computer Engineering",
+            "Computer Networks",
+            "Computer Science",
+            "Cultural Studies",
+            "Data Science",
+            "Demography and Population",
+            "Development Studies",
+            "Economics",
+            "Educational Psychology",
+            "Electrical Engineering",
+            "Electronic Engineering",
+            "Energy Engineering",
+            "English",
+            "Environmental Engineering",
+            "Environmental Management",
+            "Environmental Studies",
+            "Finance",
+            "Food Technology",
+            "Geology",
+            "Heritage Preservation",
+            "History",
+            "Industrial Engineering",
+            "Islamic Studies",
+            "Journalism",
+            "Koran",
+            "Linguistics",
+            "Literature",
+            "Marketing",
+            "Mathematics",
+            "Mathematics and Computer Science",
+            "Mathematics Education",
+            "Mechanical Engineering",
+            "Media Studies",
+            "Native Language Education",
+            "Natural Resources",
+            "Philosophy",
+            "Physics",
+            "Primary Education",
+            "Regional Planning",
+            "Regional Studies",
+            "Robotics",
+            "Science Education",
+            "Secondary Education",
+            "Social Work",
+            "Sociology",
+            "Sustainable Development",
+            "Teacher Training",
+            "Telecommunications Engineering",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Diplôme d'Ingénieur",
+          "fields": [
+            "Electrical Engineering",
+            "Food Technology",
+            "Mechanical Engineering",
+            "Physical Engineering",
+            "Production Engineering"
+          ]
+        },
+        {
+          "name": "Diplôme de Commerce et de Gestion",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Finance",
+            "Human Resources",
+            "International Business",
+            "Logistics Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Doctorat en Médicine, Médicine dentaire, Pharmacie",
+          "fields": [
+            "Medicine"
+          ]
+        },
+        {
+          "name": "Master en Sciences et Techniques",
+          "fields": [
+            "Artificial Intelligence",
+            "Bioengineering",
+            "Biotechnology",
+            "Computer Engineering",
+            "Computer Science",
+            "Environmental Engineering",
+            "Environmental Studies",
+            "Food Technology",
+            "Health Sciences",
+            "Materials Engineering",
+            "Mathematics",
+            "Mathematics and Computer Science",
+            "Neurosciences",
+            "Safety Engineering"
+          ]
+        },
+        {
+          "name": "Master spécialisé",
+          "fields": [
+            "Computer Engineering",
+            "Computer Networks",
+            "Finance",
+            "Forest Management",
+            "Industrial Engineering",
+            "Management",
+            "Safety Engineering",
+            "Surveying and Mapping"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Administration",
+            "Analytical Chemistry",
+            "Chemistry",
+            "Child Care and Development",
+            "Cinema and Television",
+            "Commercial Law",
+            "Computer Networks",
+            "Computer Science",
+            "Cultural Studies",
+            "Data Science",
+            "Demography and Population",
+            "Development Studies",
+            "Environmental Management",
+            "Environmental Studies",
+            "French",
+            "Geography",
+            "Geology",
+            "Health Sciences",
+            "Heritage Preservation",
+            "History",
+            "History of Societies",
+            "Human Resources",
+            "Information Technology",
+            "Islamic Studies",
+            "Korean",
+            "Landscape Architecture",
+            "Linguistics",
+            "Literature",
+            "Logistics Management",
+            "Modern Languages",
+            "Molecular Biology",
+            "Nanotechnology",
+            "Pedagogy",
+            "Physics",
+            "Religious Studies",
+            "Social Studies",
+            "Sociology",
+            "Telecommunications Engineering",
+            "Town Planning",
+            "Translation and Interpretation",
+            "Transport Management",
+            "Water Management"
+          ]
+        },
+        {
+          "name": "Doctorat",
+          "fields": [
+            "Applied Mathematics",
+            "Applied Physics"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l'Education Nationale, de la Formation professionnelle, de l'Enseignement Supérieur et de la Recherche Scientifique",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Mustapha Aboumaarouf"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Mohammed Sajieddine"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2007, incorporated Faculté des Lettres et des Sciences Humaines (1987), Faculté des Sciences et Techniques (1994), and Faculté Polydisciplinaire (2003/2004), Ecole Supérieure de Technologie (2012/2013).",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "4029",
+      "iau_id": "IAU-004029",
+      "name": "EHEB - School of Advanced Studies in Biotechnology and Health",
+      "alt_name": "Ecole des hautes Etudes de Biotechnologie et de Santé (EHEB)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tI2BSLjBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004029",
+      "address": {
+        "Street": "BD prince My AbdellahBP 595, Gueliz",
+        "City": "Marrakech",
+        "Post Code": "40000",
+        "WWW": "https://supdeco.ma"
+      },
+      "website": "https://supdeco.ma",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1987,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Fundamental Management",
+          "fields": [
+            "Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Service Marketing",
+          "fields": [
+            "Marketing",
+            "Service Trades"
+          ]
+        },
+        {
+          "name": "Course/Programme : Specialized Management",
+          "fields": [
+            "Finance",
+            "Human Resources",
+            "International Business",
+            "Management"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diplôme de Commerce et de Gestion",
+          "fields": [
+            "Accountancy",
+            "Finance",
+            "Human Resources",
+            "International Business",
+            "Logistics Management",
+            "Marketing"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l'Education Nationale, de la Formation professionnelle, de l'Enseignement Supérieur et de la Recherche Scientifique.",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Mohamed Kabbadj"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1987.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "24216",
+      "iau_id": "IAU-024216",
+      "name": "EHEI - School of Advanced Studies in Engineering",
+      "alt_name": "Ecole des hautes Etudes d'Ingénierie EHEI (EHEI Oujda)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBSLDM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024216",
+      "address": {
+        "Street": "98, Avenue Allal Ben Abdellah - Hassan",
+        "City": "Rabat",
+        "WWW": "https://supmti.ac.ma"
+      },
+      "website": "https://supmti.ac.ma",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2006,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Audit and Management Control",
+          "fields": [
+            "Accountancy",
+            "Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Business Administration",
+          "fields": [
+            "Business Administration"
+          ]
+        },
+        {
+          "name": "Course/Programme : Computer Systems Engineering",
+          "fields": [
+            "Computer Engineering",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Corporate Finance",
+          "fields": [
+            "Finance"
+          ]
+        },
+        {
+          "name": "Course/Programme : Embedded Systems Engineering",
+          "fields": [
+            "Computer Engineering",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Information Management and Industrial Engineering",
+          "fields": [
+            "Industrial Engineering",
+            "Information Management"
+          ]
+        },
+        {
+          "name": "Course/Programme : Information Systems Engineering",
+          "fields": [
+            "Computer Engineering",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Systems, Networks and Telecommunications Engineering",
+          "fields": [
+            "Computer Engineering",
+            "Computer Networks",
+            "Telecommunications Engineering"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Diplôme d'Ingénieur",
+          "fields": [
+            "Computer Engineering",
+            "Energy Engineering",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Accountancy",
+            "Business Administration",
+            "Computer Science",
+            "Data Science",
+            "Finance",
+            "Human Resources",
+            "Logistics Management",
+            "Marketing",
+            "Software Engineering"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education, Scientific Research and Innovation",
+      "officers": [
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Abderrahmane Kriouile"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2006. Accredited 2011.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "4017",
+      "iau_id": "IAU-004017",
+      "name": "EMAA Business School",
+      "alt_name": "Ecole de Management et d'Administration des Affaires (EMAA)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tI2BRLVBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004017",
+      "address": {
+        "Street": "Immeuble 4Avenue Cadi Iass, Maarif",
+        "City": "Casablanca",
+        "Post Code": "20333",
+        "WWW": "https://www.suptechnology.ma"
+      },
+      "website": "https://www.suptechnology.ma",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2006,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Computer Network and Sytems",
+          "fields": [
+            "Computer Networks",
+            "Systems Analysis"
+          ]
+        },
+        {
+          "name": "Course/Programme : Electronic Payment Transactions and Securing",
+          "fields": [
+            "Computer Engineering",
+            "Information Management",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Engineering (MIAGE)",
+          "fields": [
+            "Computer Engineering",
+            "Computer Networks",
+            "Information Technology",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Information Systems Governance",
+          "fields": [
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Mobile Engineering",
+          "fields": [
+            "Data Science",
+            "E-Business/Commerce",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Networks Engineering/ Systems and Security",
+          "fields": [
+            "Computer Engineering",
+            "Computer Networks",
+            "Systems Analysis"
+          ]
+        },
+        {
+          "name": "Course/Programme : New Technologies Networks",
+          "fields": [
+            "Computer Engineering",
+            "Computer Networks",
+            "Mathematics and Computer Science"
+          ]
+        },
+        {
+          "name": "Course/Programme : Software Engineering",
+          "fields": [
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Software Engineering",
+          "fields": [
+            "Software Engineering"
+          ]
+        }
+      ],
+      "degrees": [],
+      "accreditation": "Ministry of Higher Education, Scientific Research and Innovation",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Abdelaziz Doukkali"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Fayçal Chebihi"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Hanane Zemmama"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2006",
+      "periodicals": [],
+      "student_body": "male"
+    },
+    {
+      "id": "4068",
+      "iau_id": "IAU-004068",
+      "name": "EMBCI - Moroccan School of Banking and International Trade",
+      "alt_name": "Ecole marocaine de Banque et de Commerce international (EMBCI)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tI2BWLmBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004068",
+      "address": {
+        "Street": "28, Place du 11 Janvier, V.N.",
+        "City": "Fès",
+        "WWW": "https://supmanagement.ma"
+      },
+      "website": "https://supmanagement.ma",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1995,
+      "type": null,
+      "funding": "Private",
+      "academic_year": "October to June",
+      "languages": [
+        "French",
+        "English"
+      ],
+      "faculties": [
+        {
+          "name": "School : Business Administration",
+          "fields": [
+            "Business Administration",
+            "Business and Commerce",
+            "Communication Studies",
+            "Environmental Management",
+            "Finance",
+            "Human Resources",
+            "International Business",
+            "Islamic Law",
+            "Management",
+            "Marketing",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "School : Engineering",
+          "fields": [
+            "Artificial Intelligence",
+            "Computer Engineering",
+            "Computer Networks",
+            "Computer Science",
+            "Information Technology",
+            "Telecommunications Engineering"
+          ]
+        },
+        {
+          "name": "School : Health Sciences",
+          "fields": [
+            "Health Administration"
+          ]
+        },
+        {
+          "name": "School : Law, Diplomacy and Governance",
+          "fields": [
+            "Government",
+            "International Relations and Diplomacy",
+            "Law",
+            "Political Sciences"
+          ]
+        },
+        {
+          "name": "School : Renewable Energy",
+          "fields": [
+            "Ecology",
+            "Environmental Management"
+          ]
+        },
+        {
+          "name": "School : Tourism",
+          "fields": [
+            "Hotel Management",
+            "Leisure Studies",
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Artificial Intelligence",
+            "Computer Engineering",
+            "Computer Networks",
+            "Data Science",
+            "Finance",
+            "Hotel Management",
+            "Logistics Management",
+            "Management",
+            "Marketing",
+            "Tourism",
+            "Transport Management"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Accountancy",
+            "Artificial Intelligence",
+            "Computer Networks",
+            "Computer Science",
+            "Data Science",
+            "E-Business/Commerce",
+            "Ecology",
+            "Environmental Management",
+            "Finance",
+            "Government",
+            "Hotel Management",
+            "Human Resources",
+            "Information Technology",
+            "International Relations and Diplomacy",
+            "Logistics Management",
+            "Political Sciences",
+            "Telecommunications Engineering",
+            "Tourism",
+            "Transport Management"
+          ]
+        }
+      ],
+      "accreditation": "Ministry of Higher Education, Scientific Research and Innovation",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Abdesselam Idrissi Erkik"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1995.",
+      "periodicals": [
+        "Flash Managers International Eview of Management Science and Engineering Management",
+        "Flash Managers",
+        "International Eview of Management Science and Engineering Management"
+      ],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "4273",
+      "iau_id": "IAU-004273",
+      "name": "ESCA School of Management",
+      "alt_name": "ESCA Ecole de Management (ESCA)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIyhXLFBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004273",
+      "address": {
+        "Street": "N°67, Rue Khalid ibn OualidBouramana",
+        "City": "Fès",
+        "WWW": "https://suptema.net"
+      },
+      "website": "https://suptema.net",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2005,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Management",
+          "fields": [
+            "Finance",
+            "Human Resources",
+            "Management",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Course/Programme : Telecommunications and Networks Engineering",
+          "fields": [
+            "Computer Engineering",
+            "Computer Networks",
+            "Telecommunications Engineering"
+          ]
+        }
+      ],
+      "degrees": [],
+      "accreditation": "Ministry of Higher Education, Scientific Research and Innovation",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Jamal Kohen"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2005",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "4269",
+      "iau_id": "IAU-004269",
+      "name": "ESCGA Business School",
+      "alt_name": "Ecole supérieure de Commerce et de Gestion des Affaires (ESCGA Tanger)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIyhWLjBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004269",
+      "address": {
+        "Street": "Km 9 au sud de la route n°1 de Casablanca à Raba",
+        "City": "Casablanca",
+        "WWW": "https://supemir.com"
+      },
+      "website": "https://supemir.com",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2004,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Business Computing (IAG)",
+          "fields": [
+            "Business Computing"
+          ]
+        },
+        {
+          "name": "Course/Programme : Business Development and Digital Marketing",
+          "fields": [
+            "Business Administration",
+            "Marketing"
+          ]
+        },
+        {
+          "name": "Course/Programme : Computer Networks and Multimedia (IRM)",
+          "fields": [
+            "Computer Networks",
+            "Cybersecurity",
+            "Multimedia"
+          ]
+        },
+        {
+          "name": "Course/Programme : Energy",
+          "fields": [
+            "Energy Engineering"
+          ]
+        },
+        {
+          "name": "Course/Programme : Multimedia and Information Systems (MSI)",
+          "fields": [
+            "Information Technology",
+            "Multimedia"
+          ]
+        }
+      ],
+      "degrees": [],
+      "accreditation": "Ministry of Higher Education, Scientific Research and Innovation",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Roudab Noureddine"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2004.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "4277",
+      "iau_id": "IAU-004277",
+      "name": "ESDAV - School of Design and Visual Arts",
+      "alt_name": "Ecole supérieure de Design et des Arts Visuels (ESDAV)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIyhXLVBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004277",
+      "address": {
+        "Street": "BP 8143Bab Al Madina, Qr Tilila",
+        "City": "Agadir",
+        "WWW": "https://universiapolis.ma"
+      },
+      "website": "https://universiapolis.ma",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 1989,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "Arabic",
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Faculty : Rehabilitation Sciences and Health Technology",
+          "fields": [
+            "Health Sciences",
+            "Laboratory Techniques",
+            "Medical Technology",
+            "Nursing",
+            "Physical Therapy",
+            "Psychometrics",
+            "Rehabilitation and Therapy",
+            "Speech Therapy and Audiology"
+          ]
+        },
+        {
+          "name": "School : ISIAM Business School",
+          "fields": [
+            "Business Administration",
+            "Computer Science",
+            "Management"
+          ]
+        },
+        {
+          "name": "School : Law, Political Sciences and Humanities - Sup'H.Droit",
+          "fields": [
+            "International Relations and Diplomacy",
+            "Justice Administration",
+            "Law",
+            "Notary Studies",
+            "Political Sciences"
+          ]
+        },
+        {
+          "name": "School : Private Polytechnic School of Agadir",
+          "fields": [
+            "Engineering"
+          ]
+        },
+        {
+          "name": "School : Tourism and Hotel Management - SUPHCOM",
+          "fields": [
+            "Communication Studies",
+            "Hotel Management",
+            "Public Relations",
+            "Tourism"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Accountancy",
+            "Administration",
+            "Automotive Engineering",
+            "Business Administration",
+            "Business and Commerce",
+            "Commercial Law",
+            "Communication Studies",
+            "Electrical Engineering",
+            "Finance",
+            "Food Technology",
+            "Hotel Management",
+            "Human Resources",
+            "Industrial Engineering",
+            "International Relations and Diplomacy",
+            "Justice Administration",
+            "Laboratory Techniques",
+            "Law",
+            "Logistics Management",
+            "Management",
+            "Marketing",
+            "Mechanical Engineering",
+            "Medical Technology",
+            "Nursing",
+            "Physical Therapy",
+            "Political Sciences",
+            "Production Engineering",
+            "Psychometrics",
+            "Public Law",
+            "Rehabilitation and Therapy",
+            "Service Trades",
+            "Speech Therapy and Audiology",
+            "Taxation",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Diplôme d'Ingénieur",
+          "fields": [
+            "Artificial Intelligence",
+            "Automotive Engineering",
+            "Biomedical Engineering",
+            "Civil Engineering",
+            "Cybersecurity",
+            "Electrical Engineering",
+            "Energy Engineering",
+            "Engineering",
+            "Food Technology",
+            "Industrial Engineering",
+            "Logistics Management",
+            "Mechanical Engineering",
+            "Network Technology",
+            "Production Engineering",
+            "Software Engineering"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Accountancy",
+            "Business Computing",
+            "Civil Law",
+            "Commercial Law",
+            "Entrepreneurship",
+            "Finance",
+            "Health Administration",
+            "Hotel Management",
+            "Human Resources",
+            "International Business",
+            "International Relations and Diplomacy",
+            "Justice Administration",
+            "Law",
+            "Logic",
+            "Management",
+            "Marketing",
+            "Notary Studies",
+            "Nursing",
+            "Physical Therapy",
+            "Political Sciences",
+            "Public Relations",
+            "Real Estate",
+            "Regional Studies",
+            "Service Trades",
+            "Tourism"
+          ]
+        },
+        {
+          "name": "Doctorat",
+          "fields": [
+            "Management"
+          ]
+        }
+      ],
+      "accreditation": "Ministère de l'Education Nationale, de la Formation professionnelle, de l'Enseignement Supérieur et de la Recherche Scientifique",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Aziz Bouslikhane"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 1989.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "4325",
+      "iau_id": "IAU-004325",
+      "name": "ESEJE - School of Law and Economics",
+      "alt_name": "Ecole supérieure des Etudes Juridiques et Economiques (ESEJE)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIyxSLTBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004325",
+      "address": {
+        "Street": "BP 2509Abi Al Hassan Al Marini Street - Kasbah Al Shararda",
+        "City": "Fès",
+        "WWW": "https://uaq.ma"
+      },
+      "website": "https://uaq.ma",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": "Public",
+      "academic_year": "November to June (November-December; January-March; April-June)",
+      "languages": [
+        "Arabic"
+      ],
+      "faculties": [
+        {
+          "name": "Centre : Islamic Studies and Research",
+          "fields": [
+            "Islamic Studies"
+          ]
+        },
+        {
+          "name": "Faculty : Arabic and Arab Literature",
+          "fields": [
+            "Arabic",
+            "Literature"
+          ]
+        },
+        {
+          "name": "Faculty : Islamic Law",
+          "fields": [
+            "Islamic Law"
+          ]
+        },
+        {
+          "name": "Faculty : Islamic Law",
+          "fields": [
+            "Islamic Law"
+          ]
+        },
+        {
+          "name": "Faculty : Theology and Philosophy",
+          "fields": [
+            "Philosophy",
+            "Theology"
+          ]
+        }
+      ],
+      "degrees": [
+        {
+          "name": "Licence",
+          "fields": [
+            "Islamic Law"
+          ]
+        },
+        {
+          "name": "Master",
+          "fields": [
+            "Islamic Law"
+          ]
+        },
+        {
+          "name": "Doctorat",
+          "fields": []
+        }
+      ],
+      "accreditation": "Ministère de l'Education Nationale, de la Formation professionnelle, de l'Enseignement Supérieur et de la Recherche Scientifique. Ministry of Endowments and Islamic Affairs",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Amal Jallal"
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 859, reorganized 1788-89 by Mohammed III. Became State institution 1947.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "30471",
+      "iau_id": "IAU-030471",
+      "name": "ESIAI - School of Applied Engineering and Innovation",
+      "alt_name": "Ecole Supérieure d’Ingénierie Appliquée et Innovation (ESIAI)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sU2BULVMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-030471",
+      "address": {
+        "Street": "10 Rue El Yamama",
+        "City": "Rabat",
+        "WWW": "https://vinci.ma"
+      },
+      "website": "https://vinci.ma",
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": 2003,
+      "type": null,
+      "funding": "Private",
+      "academic_year": null,
+      "languages": [
+        "French"
+      ],
+      "faculties": [
+        {
+          "name": "Course/Programme : Computer Engineering",
+          "fields": [
+            "Computer Engineering",
+            "Computer Networks",
+            "Information Technology"
+          ]
+        },
+        {
+          "name": "Course/Programme : Telecommunications Engineering",
+          "fields": [
+            "Telecommunications Engineering"
+          ]
+        }
+      ],
+      "degrees": [],
+      "accreditation": "Ministry of Higher Education, Scientific Research and Innovation",
+      "officers": [
+        {
+          "title": "Head",
+          "name": "Amin Rachdi"
+        },
+        {
+          "title": "Senior Administrative Officer",
+          "name": "Karim Rachdi."
+        }
+      ],
+      "statistics": {},
+      "history": "Founded 2003. Acquired present status 2012.",
+      "periodicals": [],
+      "student_body": "co-ed"
+    },
+    {
+      "id": "4253",
+      "iau_id": "IAU-004253",
+      "name": "ESISA - School of Engineering in Applied Sciences",
+      "alt_name": "Ecole supérieure d'Ingénierie en Sciences Appliquées (ESISA)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIyhVLFBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004253",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "24598",
+      "iau_id": "IAU-024598",
+      "name": "ESISMP - School of Health Engineering and Project Management",
+      "alt_name": "Ecole supérieure d'Ingénierie de la Santé et de Management de Projets (ESISMP)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBVLjNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024598",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "4290",
+      "iau_id": "IAU-004290",
+      "name": "ESJC - School of Journalism and Communication",
+      "alt_name": "Ecole supérieure de Journalisme et de Communication (ESJC)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIyhZLGBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004290",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "30474",
+      "iau_id": "IAU-030474",
+      "name": "ESLSCA Business School",
+      "alt_name": "",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sU2BULVMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-030474",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "4297",
+      "iau_id": "IAU-004297",
+      "name": "ESMA - School of Management and Applied Computer Engineering",
+      "alt_name": "Ecole supérieure de Management et d'Ingénierie Informatique Appliqués – Ecole supérieure de Marrakech (ESMA)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIyhZLVBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004297",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "4298",
+      "iau_id": "IAU-004298",
+      "name": "ESMC Business School",
+      "alt_name": "Ecole supérieure de Management et de Communication (ESMC)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIyhZLmBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004298",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "4331",
+      "iau_id": "IAU-004331",
+      "name": "ESRIM - School of Computer Networks and Management",
+      "alt_name": "Ecole supérieure des Réseaux Informatiques et de Management (ESRIM)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIyxTLDBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004331",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "24224",
+      "iau_id": "IAU-024224",
+      "name": "ESRMI - Rabat School of Management and Engineering",
+      "alt_name": "Ecole supérieure de Rabat en Management et Ingénierie (ESRMI)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBSLEMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024224",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "24240",
+      "iau_id": "IAU-024240",
+      "name": "ESSCG - High School of Management",
+      "alt_name": "Ecole supérieure des Sciences commerciales et de Gestion (ESSCG)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBSLSNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024240",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "24197",
+      "iau_id": "IAU-024197",
+      "name": "ESSEM Business School",
+      "alt_name": "Ecole supérieure des Sciences Economiques et de Management de Casablanca (ESSEM BS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBRLjM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024197",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "24196",
+      "iau_id": "IAU-024196",
+      "name": "ESSS - School of Health Sciences",
+      "alt_name": "École supérieure des sciences de la Santé (ESSS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBRLjM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024196",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "24228",
+      "iau_id": "IAU-024228",
+      "name": "ESSTI - School of Science and Engineering Technology",
+      "alt_name": "Ecole supérieure des Sciences et Technologie de l’Ingénierie (ESSTI)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBSLENAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024228",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "4358",
+      "iau_id": "IAU-004358",
+      "name": "ESTEM - School of Information Technology, Telecommunication, Management and Civil Engineering",
+      "alt_name": "Ecole supérieure en Ingénierie de l’Information,Télécommunication, Management et Genie Civil (ESTEM)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIyxVLmBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004358",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "24586",
+      "iau_id": "IAU-024586",
+      "name": "Euro-Mediterranean University of Fès",
+      "alt_name": "Université Euro-Méditerranéenne de Fès (UEMF)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBVLiM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024586",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "24211",
+      "iau_id": "IAU-024211",
+      "name": "GEC Marrakech",
+      "alt_name": "Grande Ecole de Commerce de Marrakech (GECM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBSLDMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024211",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "19727",
+      "iau_id": "IAU-019727",
+      "name": "Hassan I University",
+      "alt_name": "Université Hassan 1er (UH1)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RXLEM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019727",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "7885",
+      "iau_id": "IAU-007885",
+      "name": "Hassan II Institute of Agronomy and Veterinary Medicine",
+      "alt_name": "Institut agronomique et vétérinaire Hassan II (IAV Hassan II)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tU0BYLTBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007885",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "19728",
+      "iau_id": "IAU-019728",
+      "name": "Hassan II University of Casablanca",
+      "alt_name": "Université Hassan II de Casablanca",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RXLENAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019728",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "4060",
+      "iau_id": "IAU-004060",
+      "name": "Hassania School of Civil Engineering",
+      "alt_name": "Ecole Hassania des Travaux publics (EHTP)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tI2BWLGBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004060",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "7946",
+      "iau_id": "IAU-007946",
+      "name": "HBF - Institute of Banking, Finance and Management Studies",
+      "alt_name": "Institut des hautes Etudes Bancaires Financières et Managériales (HBF)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tU0RULUBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007946",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "4024",
+      "iau_id": "IAU-004024",
+      "name": "HEC Rabat Business School",
+      "alt_name": "Ecole des hautes Etudes Commerciales du Maroc (HEC Rabat)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tI2BSLWBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004024",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "4028",
+      "iau_id": "IAU-004028",
+      "name": "HECF Business School",
+      "alt_name": "Ecole des hautes Etudes comptables et financières (HECF)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tI2BSLmBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004028",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "4034",
+      "iau_id": "IAU-004034",
+      "name": "HEEC - Business School Engineering School",
+      "alt_name": "Ecole des hautes Etudes économiques Commerciales et d’ingénierie HEEC – Ecole HEEC (HEEC)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tI2BTLWBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004034",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "7165",
+      "iau_id": "IAU-007165",
+      "name": "HEM Business & Engineering School",
+      "alt_name": "(HEM)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tUyRWLTBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007165",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "4033",
+      "iau_id": "IAU-004033",
+      "name": "HESTIM Engineering and Business School",
+      "alt_name": "Ecole des hautes Etudes des Sciences et Techniques de l'Ingénierie et du Management (HESTIM)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tI2BTLFBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004033",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "7208",
+      "iau_id": "IAU-007208",
+      "name": "High Technology School in Morocco",
+      "alt_name": "(High-Tech)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tUyhQLmBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007208",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "8200",
+      "iau_id": "IAU-008200",
+      "name": "Higher Institute of Agri-Food Technology and Applied Engineering",
+      "alt_name": "Institut supérieur de Formation en Technologie Agroalimentaire et Génie Appliquée (ISFORT Maroc)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uIyhQLGBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-008200",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "24066",
+      "iau_id": "IAU-024066",
+      "name": "Higher institute of Audiovisual and Film Professions",
+      "alt_name": "Institut supérieur des métiers de l'Audiovisuel et du Cinéma (ISMAC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBQLUM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024066",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "8215",
+      "iau_id": "IAU-008215",
+      "name": "Higher Institute of the Judiciary",
+      "alt_name": "Institut supérieur de la Magistrature (ISM)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uIyhRLTBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-008215",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "19733",
+      "iau_id": "IAU-019733",
+      "name": "Ibn Tofail University",
+      "alt_name": "Université Ibn Tofail (UIT)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RXLFMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019733",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "19734",
+      "iau_id": "IAU-019734",
+      "name": "Ibn Zohr University",
+      "alt_name": "Université Ibn Zohr (UIZ)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RXLFMwYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019734",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "4007",
+      "iau_id": "IAU-004007",
+      "name": "IEIGSI - School of Industrial Systems Engineering",
+      "alt_name": "Ecole d'Ingénierie en Génie des Systèmes Industriels de Casablanca (EIGSI Casablanca)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tI2BQLVBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004007",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "8260",
+      "iau_id": "IAU-008260",
+      "name": "IFJ SUP - Institute of Journalism and Information",
+      "alt_name": "Institut supérieur du Journalisme et de l'Information (IFJ SUP)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uIyhWLGBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-008260",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "8257",
+      "iau_id": "IAU-008257",
+      "name": "IGA - Institute of Applied Engineering",
+      "alt_name": "Institut supérieur du Génie appliqué (IGA)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uIyhVLVBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-008257",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "24208",
+      "iau_id": "IAU-024208",
+      "name": "IHEPS - Institute of Paramedical Studies of the South",
+      "alt_name": "Institut des hautes Etudes Paramédicales du Sud (IHEPS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBSLCNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024208",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "24223",
+      "iau_id": "IAU-024223",
+      "name": "INNOV INFO - School of Computing and Technology Innovation",
+      "alt_name": "Ecole Supérieure Privée de l'lnnovation lnformatique et Technologique – Maroc Ynov Campus (INNOV INFO)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBSLEMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024223",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "8184",
+      "iau_id": "IAU-008184",
+      "name": "Institute of Commercial Studies and Business Administration",
+      "alt_name": "Institut supérieur de Commerce et d'Administration des Entreprises (ISCAE-CASABLANCA)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uIyRYLWBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-008184",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "8166",
+      "iau_id": "IAU-008166",
+      "name": "Institute of Dramatic Arts and Cultural Animation",
+      "alt_name": "Institut supérieur d'Art dramatique et d'Animation culturelle (ISADAC)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uIyRWLUBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-008166",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "8212",
+      "iau_id": "IAU-008212",
+      "name": "Institute of Information and Communication",
+      "alt_name": "Institut supérieur de l'Information et de la Communication (ISIC)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uIyhRLEBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-008212",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "24239",
+      "iau_id": "IAU-024239",
+      "name": "Institute of Management and Media Studies",
+      "alt_name": "Institut supérieur de Management et de Médias SUPMM (SUP'MM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBSLFNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024239",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "24229",
+      "iau_id": "IAU-024229",
+      "name": "Institute of Management, Administration and Computer Engineering",
+      "alt_name": "Institut supérieur de Management d’Administration et de Génie Informatique (ISMAGI)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBSLENEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024229",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "24575",
+      "iau_id": "IAU-024575",
+      "name": "Institute of Marine Fisheries",
+      "alt_name": "Institut supérieur des Pêches maritimes (ISPM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBVLVM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024575",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "8239",
+      "iau_id": "IAU-008239",
+      "name": "Institute of Marine Studies",
+      "alt_name": "Institut supérieur des Etudes maritimes (ISEM)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uIyhTLjBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-008239",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "24579",
+      "iau_id": "IAU-024579",
+      "name": "Institute of Nursing and Health Techniques of Agadir",
+      "alt_name": "Institut supérieur des professions infirmières et techniques de santé d'Agadir (ISPITS Agadir)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBVLVNEYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024579",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "24580",
+      "iau_id": "IAU-024580",
+      "name": "Institute of Nursing and Health Techniques of Tetouan",
+      "alt_name": "Institut supérieur des professions infirmières et techniques de santé de Tétouan (ISPITS Tétouan)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBVLiNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024580",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "9555",
+      "iau_id": "IAU-009555",
+      "name": "International Institute for Higher Education in Morocco",
+      "alt_name": "(IIHEM)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uMzRVLTBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-009555",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "8264",
+      "iau_id": "IAU-008264",
+      "name": "International Institute of Tourism of Tangiers",
+      "alt_name": "Institut supérieur international du Tourisme de Tanger (ISITT)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uIyhWLWBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-008264",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "24242",
+      "iau_id": "IAU-024242",
+      "name": "International University of Casablanca",
+      "alt_name": "Université Internationale de Casablanca (UIC)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBSLSMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024242",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "19735",
+      "iau_id": "IAU-019735",
+      "name": "International University of Rabat",
+      "alt_name": "Université Internationale de Rabat (UIR)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RXLFM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019735",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "30296",
+      "iau_id": "IAU-030296",
+      "name": "ISGA - Institute of Engineering and Business",
+      "alt_name": "Institut supérieur d'ingénierie et des affaires (ISGA Casablanca)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sU2BSLjM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-030296",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "8240",
+      "iau_id": "IAU-008240",
+      "name": "ISHEDD - Institute of Advanced Studies in Sustainable Development",
+      "alt_name": "Institut supérieur des Hautes Etudes en développement durable (ISHEDD)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uIyhULGBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-008240",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "8259",
+      "iau_id": "IAU-008259",
+      "name": "ISJC - Institute of Journalism and Communication",
+      "alt_name": "Institut supérieur du Journalisme et de la Communication (ISJC)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uIyhVLjBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-008259",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "8261",
+      "iau_id": "IAU-008261",
+      "name": "ISTL - Institute of Transport and Logistics",
+      "alt_name": "Institut supérieur du transport et de la logistique (ISTL)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uIyhWLDBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-008261",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "4070",
+      "iau_id": "IAU-004070",
+      "name": "MedSup Management School",
+      "alt_name": "Ecole Supérieure du Management des Entreprises du Détroit (MEDSUP Management)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tI2BXLGBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004070",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "4086",
+      "iau_id": "IAU-004086",
+      "name": "Meknes National School of Agriculture",
+      "alt_name": "Ecole nationale d'Agriculture de Meknès",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tI2BYLUBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004086",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "19780",
+      "iau_id": "IAU-019780",
+      "name": "Mohammed I University - Oujda",
+      "alt_name": "Université Mohammed Premier - Oujda – Jamiât Muhammad Al-Awwal",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RXLiNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019780",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "19781",
+      "iau_id": "IAU-019781",
+      "name": "Mohammed V University of Rabat",
+      "alt_name": "Université Mohammed V de Rabat – Jamiât Mohammed Al-Khâmiss (UM5R)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RXLiMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019781",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "63",
+      "iau_id": "IAU-000063",
+      "name": "Mohammed VI International Academy of Civil Aviation",
+      "alt_name": "Académie internationale Mohammed VI de l'Aviation civile (AIAC)",
+      "detail_url": "https://whed.net/detail_institution.php?JTo2MF0tQyxgCmAK",
+      "iau_link": "https://www.whed.net/institutions/IAU-000063",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "24582",
+      "iau_id": "IAU-024582",
+      "name": "Mohammed VI University of Health Sciences",
+      "alt_name": "Université Mohammed VI des Sciences de la Santé (UM6SS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBVLiMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024582",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "24212",
+      "iau_id": "IAU-024212",
+      "name": "Moroccan School of Computer Science and Management",
+      "alt_name": "Ecole marocaine supérieure d’Informatique et de Gestion (EMSIG)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBSLDMoYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024212",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "4067",
+      "iau_id": "IAU-004067",
+      "name": "Moroccan School of Engineering",
+      "alt_name": "Ecole marocaine d'Ingénierie (EMG)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tI2BWLVBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004067",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "4069",
+      "iau_id": "IAU-004069",
+      "name": "Moroccan School of Engineering Science",
+      "alt_name": "Ecole marocaine des sciences de l'ingénieur (EMSI)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tI2BWLjBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004069",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "19786",
+      "iau_id": "IAU-019786",
+      "name": "Moulay Ismail University",
+      "alt_name": "Université Moulay Ismail (UMI)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RXLiM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019786",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "19788",
+      "iau_id": "IAU-019788",
+      "name": "Mundiapolis University",
+      "alt_name": "Université Mundiapolis (MUNDIAPOLIS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RXLiNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019788",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "4077",
+      "iau_id": "IAU-004077",
+      "name": "National High School of Management",
+      "alt_name": "École nationale supérieure de l'Administration (ENSA)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tI2BXLVBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004077",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "8080",
+      "iau_id": "IAU-008080",
+      "name": "National Institute of Archaeology and Cultural Heritage",
+      "alt_name": "Institut national des Sciences de l'Archéologie et du Patrimoine (INSAP)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uI2BYLGBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-008080",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "8071",
+      "iau_id": "IAU-008071",
+      "name": "National Institute of Fine Art",
+      "alt_name": "Institut national des Beaux-Arts (INBA Tétouan)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uI2BXLDBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-008071",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "8073",
+      "iau_id": "IAU-008073",
+      "name": "National Institute of Post and Telecommunications",
+      "alt_name": "Institut national des Postes et Télécommunications (INPT)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uI2BXLFBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-008073",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "8069",
+      "iau_id": "IAU-008069",
+      "name": "National Institute of Statistics and Applied Economics",
+      "alt_name": "Institut national de Statistique et d'Economie appliquée (INSEA)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uI2BWLjBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-008069",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "8055",
+      "iau_id": "IAU-008055",
+      "name": "National Institute of Urban and Territorial Planning",
+      "alt_name": "Institut national d'Aménagement et d'Urbanisme (INAU)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uI2BVLTBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-008055",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "4087",
+      "iau_id": "IAU-004087",
+      "name": "National School of Architecture",
+      "alt_name": "Ecole nationale d'Architecture (ENA)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tI2BYLVBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004087",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "4120",
+      "iau_id": "IAU-004120",
+      "name": "National School of Forestry Engineering",
+      "alt_name": "Ecole nationale forestière d'Ingénieurs (ENFI)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIyRSLGBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004120",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "4097",
+      "iau_id": "IAU-004097",
+      "name": "National School of Mines of Rabat",
+      "alt_name": "Ecole nationale supérieure des Mines de Rabat (ENSMR)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tI2BZLVBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004097",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "8054",
+      "iau_id": "IAU-008054",
+      "name": "National School of Public Health",
+      "alt_name": "Ecole nationale de santé publique (ENSP)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uI2BVLWBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-008054",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "8113",
+      "iau_id": "IAU-008113",
+      "name": "Private Polytechnic Institute of Casablanca",
+      "alt_name": "Institut polytechnique Privé de Casablanca",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uIyRRLFBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-008113",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "19758",
+      "iau_id": "IAU-019758",
+      "name": "Private University of Fez",
+      "alt_name": "Université Privée de Fès (UPF)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RXLTNAYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019758",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "24210",
+      "iau_id": "IAU-024210",
+      "name": "Private University of Marrakech",
+      "alt_name": "Université Privée de Marrakech (UPM)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBSLDNgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024210",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "8135",
+      "iau_id": "IAU-008135",
+      "name": "Royal Institute for Managerial Training in Youth and Sport",
+      "alt_name": "Institut royal de Formation des Cadres de la Jeunesse et des Sports (IRFCJS)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uIyRTLTBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-008135",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "8136",
+      "iau_id": "IAU-008136",
+      "name": "Royal Institute of Territorial Administration",
+      "alt_name": "Institut royal de l'Administration territoriale (IRAT)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0uIyRTLUBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-008136",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "4026",
+      "iau_id": "IAU-004026",
+      "name": "School of Advanced Business and Computer Studies",
+      "alt_name": "Ecole des hautes Etudes commerciales et informatiques – HECI Business School (HECI)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tI2BSLUBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004026",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "24203",
+      "iau_id": "IAU-024203",
+      "name": "School of Automotive and Aeronautical Engineering",
+      "alt_name": "Ecole supérieure d’Ingénierie Automobile et Aéronautique​ (ESI2A)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBSLCMsYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024203",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "24231",
+      "iau_id": "IAU-024231",
+      "name": "School of Commerce, Management and Computer Science",
+      "alt_name": "Ecole supérieure des Métiers de Commerce de Gestion et d’Informatique (EMCGI)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBSLFMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024231",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "4048",
+      "iau_id": "IAU-004048",
+      "name": "School of Information Sciences",
+      "alt_name": "Ecole des Sciences de l'Information (ESI)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tI2BULmBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004048",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "4299",
+      "iau_id": "IAU-004299",
+      "name": "School of Management and Human Resource Management",
+      "alt_name": "Ecole supérieure de Management et de Gestion des Ressources Humaines (SUP'RH)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIyhZLjBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004299",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "24235",
+      "iau_id": "IAU-024235",
+      "name": "School of New Sciences and Engineering",
+      "alt_name": "Ecole des Nouvelles Sciences et Ingénierie (ENSI)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBSLFM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024235",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "4303",
+      "iau_id": "IAU-004303",
+      "name": "School of Psychology",
+      "alt_name": "Ecole supérieure de Psychologie (ESP)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIyxQLFBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004303",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "4327",
+      "iau_id": "IAU-004327",
+      "name": "School of Textile and Clothing Industries",
+      "alt_name": "Ecole supérieure des Industries du Textile et de l'Habillement (ESITH)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIyxSLVBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004327",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "19841",
+      "iau_id": "IAU-019841",
+      "name": "Sidi Mohammed Ben Abdellah University - Fez",
+      "alt_name": "Université Sidi Mohammed Ben Abdellah-Fès (USMBA)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RYLSMkYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019841",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "7209",
+      "iau_id": "IAU-007209",
+      "name": "SIST- Superior Institutions of Science and Technology",
+      "alt_name": "Superior Institutions of Science and Technology (SIST)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tUyhQLjBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-007209",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "19845",
+      "iau_id": "IAU-019845",
+      "name": "Sultan Moulay Slimane University",
+      "alt_name": "Université Sultan Moulay Slimane (USMS)",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RYLSM0YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019845",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "4266",
+      "iau_id": "IAU-004266",
+      "name": "Sup de Co Marrakech",
+      "alt_name": "Sup de Co Marrakech - Ecole supérieure de Commerce de Marrakech (ESC)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIyhWLUBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004266",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "4294",
+      "iau_id": "IAU-004294",
+      "name": "Sup MTI - School of Management, Computer Science and Telecommunication",
+      "alt_name": "Ecole supérieure de Management d'Informatique et de Télécommunication (SupMTI - Rabat)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIyhZLWBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004294",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "4326",
+      "iau_id": "IAU-004326",
+      "name": "Sup Technology - School of Information and Communication Technologies",
+      "alt_name": "Ecole supérieure des Hautes Etudes en Technologies de l’Information et de la Communication (Sup’Technology)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIyxSLUBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004326",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "4296",
+      "iau_id": "IAU-004296",
+      "name": "Sup' Management",
+      "alt_name": "Ecole supérieure de Management de Commerce et d´Informatique (Sup' Management)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIyhZLUBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004296",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "4306",
+      "iau_id": "IAU-004306",
+      "name": "SUP'TEMA - School of Telecommunication and Management",
+      "alt_name": "École supérieure de Télécommunications et Management (SUP'TEMA)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIyxQLUBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004306",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "4329",
+      "iau_id": "IAU-004329",
+      "name": "SUPEMIR - School of Multimedia, Computer Science and Networks",
+      "alt_name": "Ecole supérieure des Multimedia, Informatique et Réseaux - SUPEMIR (SUPEMIR)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIyxSLjBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004329",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "24007",
+      "iau_id": "IAU-024007",
+      "name": "Universiapolis-International University of Agadir",
+      "alt_name": "Universiapolis-Université Internationale d’Agadir",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sQzBQLCM8YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-024007",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "19826",
+      "iau_id": "IAU-019826",
+      "name": "University of Al-Qarawiyyin",
+      "alt_name": "Université Quaraouiyine",
+      "detail_url": "https://whed.net/detail_institution.php?KDo2MF0sM0RYLEM4YApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-019826",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    },
+    {
+      "id": "4370",
+      "iau_id": "IAU-004370",
+      "name": "Vinci Institute of Computer Engineering and Telecommunications Networks",
+      "alt_name": "Institut supérieur Vinci d’ingénierie informatique et Réseaux de télécommmunications – Ecole supérieure VINCI (ISVIRT)",
+      "detail_url": "https://whed.net/detail_institution.php?Jzo2MF0tIyxXLGBgYApgCg==",
+      "iau_link": "https://www.whed.net/institutions/IAU-004370",
+      "address": null,
+      "website": null,
+      "email": null,
+      "phone": null,
+      "fax": null,
+      "founded": null,
+      "type": null,
+      "funding": null,
+      "academic_year": null,
+      "languages": [],
+      "faculties": [],
+      "degrees": [],
+      "accreditation": null,
+      "officers": [],
+      "statistics": {},
+      "history": null,
+      "periodicals": [],
+      "student_body": null
+    }
+  ]
+}
