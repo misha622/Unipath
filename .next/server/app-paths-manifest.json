@@ -1,3 +1,15 @@
 {
-  "/page": "app/page.js"
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/programs/route": "app/api/programs/route.js",
+  "/api/search/route": "app/api/search/route.js",
+  "/api/universities/route": "app/api/universities/route.js",
+  "/auth/page": "app/auth/page.js",
+  "/compare/page": "app/compare/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/exams/page": "app/exams/page.js",
+  "/explore/page": "app/explore/page.js",
+  "/page": "app/page.js",
+  "/wizard/page": "app/wizard/page.js",
+  "/universities/page": "app/universities/page.js",
+  "/uni/[slug]/page": "app/uni/[slug]/page.js"
 }
