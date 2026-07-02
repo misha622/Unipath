@@ -1,0 +1,11 @@
+2026-07-02 15:36:54,941 - INFO - Всего без website: 16233
+2026-07-02 15:36:54,941 - INFO - ====== WebDriver manager ======
+2026-07-02 15:36:56,330 - INFO - Get LATEST chromedriver version for google-chrome
+2026-07-02 15:36:57,434 - INFO - Get LATEST chromedriver version for google-chrome
+2026-07-02 15:36:58,698 - INFO - WebDriver version 149.0.7827.155 selected
+2026-07-02 15:36:58,705 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/149.0.7827.155/win64/chromedriver-win64.zip
+2026-07-02 15:36:58,706 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/149.0.7827.155/win64/chromedriver-win64.zip
+2026-07-02 15:36:59,215 - INFO - Driver downloading response is 200
+2026-07-02 15:37:01,491 - INFO - Driver has been saved in cache [C:\Users\user\.wdm\drivers\chromedriver\win64\149.0.7827.155]
+2026-07-02 15:37:02,781 - INFO - [1/16233] Aburayhan Institute of Higher Education...
+2026-07-02 15:38:49,121 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError("HTTPConnection(host='localhost', port=54439): Failed to establish a new connection: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение")': /session/e85d9a64ad9eb9765aedd506f9e32e53
