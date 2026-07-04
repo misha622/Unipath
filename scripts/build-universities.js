@@ -30,7 +30,13 @@ files.forEach(file => {
           u: inst.faculties || [],
           i: inst.iau_id || '',
           x: inst.iau_link || '',
-          o: inst.academic_year || ''
+          o: inst.academic_year || '',
+          // Новые поля
+          wiki: inst.wiki_url || '',
+          desc: inst.description || '',
+          students: inst.students || inst.statistics?.['Students Total:'] || '',
+          history: inst.history || '',
+          accreditation: inst.accreditation || '',
         });
       });
     }
@@ -45,6 +51,8 @@ export interface Univ {
   f: number | null; y: string; d: string;
   l: string[]; u: { name: string; fields: string[] }[];
   i: string; x: string; o: string;
+  wiki: string; desc: string; students: string;
+  history: string; accreditation: string;
 }
 
 export const universities: Univ[] = ${JSON.stringify(allUniversities)};

@@ -13,7 +13,17 @@ export async function GET(request: NextRequest) {
   const page = parseInt(searchParams.get('page') || '1')
   const perPage = parseInt(searchParams.get('perPage') || '100')
 
-  let filtered = universities
+  // Убираем дубликаты по iau_id
+  const seen = new Set<string>()
+  const uniqueUniversities = universities.filter(u => {
+  const key = u.i || u.n
+  if (seen.has(key)) return false
+  seen.add(key)
+  return true
+  })
+
+
+let filtered = uniqueUniversities
 
   if (country) {
     filtered = filtered.filter(u => u.c === country)
