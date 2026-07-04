@@ -1,7 +1,7 @@
 'use client'
 
 import { useState, useEffect, useCallback } from 'react'
-import { useRouter } from 'next/navigation'
+import { useRouter, useSearchParams } from 'next/navigation'
 import Link from 'next/link'
 import type { Univ } from '@/data/universities-whed'
 
@@ -27,8 +27,7 @@ const COUNTRIES = [
   'Taiwan', 'Tajikistan', 'Tanzania', 'Thailand', 'Togo', 'Tunisia', 'Turkey',
   'Uganda', 'Ukraine', 'United Arab Emirates', 'United Kingdom', 'Uruguay', 'USA', 'Uzbekistan',
   'Venezuela', 'Vietnam',
-  'Yemen',
-  'Zambia', 'Zimbabwe',
+  'Yemen', 'Zambia', 'Zimbabwe',
 ]
 
 const FUNDING_TYPES = ['', 'Public', 'Private']
@@ -51,6 +50,8 @@ const ALL_LANGUAGES = [
 
 export default function UniversitiesClient() {
   const router = useRouter()
+  const urlParams = useSearchParams()
+
   const [items, setItems] = useState<Univ[]>([])
   const [total, setTotal] = useState(0)
   const [totalPages, setTotalPages] = useState(0)
@@ -58,17 +59,36 @@ export default function UniversitiesClient() {
   const [loading, setLoading] = useState(true)
   const [selected, setSelected] = useState<Set<string>>(new Set())
 
-  const [search, setSearch] = useState('')
-  const [country, setCountry] = useState('')
-  const [funding, setFunding] = useState('')
-  const [language, setLanguage] = useState('')
-  const [foundedRange, setFoundedRange] = useState('0-9999')
+  const [search, setSearch] = useState(urlParams.get('search') || '')
+  const [country, setCountry] = useState(urlParams.get('country') || '')
+  const [funding, setFunding] = useState(urlParams.get('funding') || '')
+  const [language, setLanguage] = useState(urlParams.get('language') || '')
+  const [foundedRange, setFoundedRange] = useState(urlParams.get('founded') || '0-9999')
+  const [debouncedSearch, setDebouncedSearch] = useState(urlParams.get('search') || '')
+
+  // Debounce
+  useEffect(() => {
+    const timer = setTimeout(() => setDebouncedSearch(search), 300)
+    return () => clearTimeout(timer)
+  }, [search])
+
+  // Сохранение фильтров в URL
+  useEffect(() => {
+    const params = new URLSearchParams()
+    if (debouncedSearch) params.set('search', debouncedSearch)
+    if (country) params.set('country', country)
+    if (funding) params.set('funding', funding)
+    if (language) params.set('language', language)
+    if (foundedRange !== '0-9999') params.set('founded', foundedRange)
+    const qs = params.toString()
+    router.replace(`/universities${qs ? '?' + qs : ''}`, { scroll: false })
+  }, [debouncedSearch, country, funding, language, foundedRange])
 
   const fetchData = useCallback(async (p: number) => {
     setLoading(true)
     const [minYear, maxYear] = foundedRange.split('-').map(Number)
     const params = new URLSearchParams()
-    if (search) params.set('search', search)
+    if (debouncedSearch) params.set('search', debouncedSearch)
     if (country) params.set('country', country)
     if (funding) params.set('funding', funding)
     if (language) params.set('language', language)
@@ -84,7 +104,7 @@ export default function UniversitiesClient() {
     setTotalPages(data.totalPages)
     setPage(data.page)
     setLoading(false)
-  }, [search, country, funding, language, foundedRange])
+  }, [debouncedSearch, country, funding, language, foundedRange])
 
   useEffect(() => {
     fetchData(1)
@@ -131,38 +151,23 @@ export default function UniversitiesClient() {
           <p className="text-gray-600 text-sm">23 898 вузов из 252 стран</p>
         </div>
         {selected.size > 0 && (
-          <button
-            onClick={goCompare}
-            disabled={selected.size < 2}
-            className={`px-4 py-2 rounded-xl text-sm font-medium transition-all
-              ${selected.size >= 2
-                ? 'bg-brand-600 text-white hover:bg-brand-700 shadow-lg shadow-brand-200'
-                : 'bg-gray-200 text-gray-400 cursor-not-allowed'
-              }`}
-          >
+          <button onClick={goCompare} disabled={selected.size < 2}
+            className={`px-4 py-2 rounded-xl text-sm font-medium transition-all ${selected.size >= 2 ? 'bg-brand-600 text-white hover:bg-brand-700 shadow-lg shadow-brand-200' : 'bg-gray-200 text-gray-400 cursor-not-allowed'}`}>
             ⚖️ Сравнить ({selected.size})
           </button>
         )}
       </div>
 
-      {/* Поиск + Сброс */}
       <div className="flex gap-3 mb-4">
         <div className="relative flex-1">
           <span className="absolute left-3 top-1/2 -translate-y-1/2 text-gray-400 text-lg">🔍</span>
-          <input
-            type="text"
-            placeholder="Поиск университета или города..."
-            value={search}
+          <input type="text" placeholder="Поиск университета или города..." value={search}
             onChange={(e) => setSearch(e.target.value)}
-            className="w-full pl-10 pr-4 py-3 rounded-xl border border-gray-300 focus:outline-none focus:ring-2 focus:ring-brand-600 text-sm"
-          />
+            className="w-full pl-10 pr-4 py-3 rounded-xl border border-gray-300 focus:outline-none focus:ring-2 focus:ring-brand-600 text-sm" />
         </div>
-        <button onClick={resetFilters} className="px-5 py-3 border border-gray-300 rounded-xl text-sm font-medium text-gray-600 hover:bg-gray-50">
-          Сбросить всё
-        </button>
+        <button onClick={resetFilters} className="px-5 py-3 border border-gray-300 rounded-xl text-sm font-medium text-gray-600 hover:bg-gray-50">Сбросить всё</button>
       </div>
 
-      {/* Фильтры */}
       <div className="grid grid-cols-2 md:grid-cols-4 gap-3 mb-4">
         <div>
           <label className="block text-xs font-semibold text-gray-500 uppercase mb-1">Страна</label>
@@ -192,7 +197,6 @@ export default function UniversitiesClient() {
         </div>
       </div>
 
-      {/* Результаты */}
       <div className="flex justify-between items-center mb-4 pb-3 border-b border-gray-200">
         <span className="text-sm text-gray-600"><strong>{total.toLocaleString()}</strong> вузов найдено</span>
         {totalPages > 1 && <span className="text-sm text-gray-500">Стр. {page} из {totalPages}</span>}
@@ -209,16 +213,12 @@ export default function UniversitiesClient() {
               const isSelected = selected.has(u.n)
               return (
                 <div key={u.i || u.n}
-                  className={`bg-white rounded-xl border-2 p-4 transition-all cursor-pointer
-                    ${isSelected ? 'border-brand-500 shadow-md bg-brand-50' : 'border-gray-200 hover:shadow-md hover:border-gray-300'}`}
-                  onClick={() => toggleSelect(u.n)}
-                >
+                  className={`bg-white rounded-xl border-2 p-4 transition-all cursor-pointer ${isSelected ? 'border-brand-500 shadow-md bg-brand-50' : 'border-gray-200 hover:shadow-md hover:border-gray-300'}`}
+                  onClick={() => toggleSelect(u.n)}>
                   <div className="flex items-start gap-3">
-                    <input type="checkbox" checked={isSelected} onChange={() => toggleSelect(u.n)}
-                      className="mt-1 w-4 h-4 rounded border-gray-300 text-brand-600 focus:ring-brand-500"
-                      onClick={(e) => e.stopPropagation()} />
+                    <input type="checkbox" checked={isSelected} onChange={() => toggleSelect(u.n)} className="mt-1 w-4 h-4 rounded border-gray-300 text-brand-600 focus:ring-brand-500" onClick={(e) => e.stopPropagation()} />
                     <div className="flex-1 min-w-0">
-                      <h3 className="font-semibold text-gray-900 mb-1">{u.n}</h3>
+                      <Link href={`/uni/${encodeURIComponent(u.n)}`} className="font-semibold text-gray-900 mb-1 hover:text-brand-600 block" onClick={(e) => e.stopPropagation()}>{u.n}</Link>
                       {u.a && <p className="text-sm text-gray-500 mb-1">{u.a}</p>}
                       <div className="flex flex-wrap gap-2 text-xs text-gray-500 mb-2">
                         <span className="bg-brand-50 text-brand-700 px-2 py-0.5 rounded-full">{u.c}</span>
@@ -227,31 +227,13 @@ export default function UniversitiesClient() {
                         {u.f && <span className="bg-gray-100 px-2 py-0.5 rounded-full">Осн. {u.f}</span>}
                         {(u as any).students && <span className="bg-green-50 text-green-700 px-2 py-0.5 rounded-full">👥 {(u as any).students}</span>}
                       </div>
-                      {u.l && u.l.length > 0 && (
-                        <div className="flex flex-wrap gap-1 mb-2">
-                          {u.l.slice(0, 4).map((lang: string) => <span key={lang} className="text-xs bg-gray-50 text-gray-600 px-1.5 py-0.5 rounded">{lang}</span>)}
-                        </div>
-                      )}
-                      {u.u && u.u.length > 0 && (
-                        <p className="text-xs text-gray-500 mb-2">{u.u.slice(0, 3).map((f: any) => f.name).join(' • ')}{u.u.length > 3 && ` + ещё ${u.u.length - 3}`}</p>
-                      )}
-                      {(u as any).desc && (
-                        <p className="text-xs text-gray-500 mb-2 line-clamp-2">{(u as any).desc}</p>
-                      )}
-                      {(u as any).history && (
-                        <p className="text-xs text-gray-400 mb-2 line-clamp-2 italic">{(u as any).history}</p>
-                      )}
+                      {u.l && u.l.length > 0 && <div className="flex flex-wrap gap-1 mb-2">{u.l.slice(0, 4).map((lang: string) => <span key={lang} className="text-xs bg-gray-50 text-gray-600 px-1.5 py-0.5 rounded">{lang}</span>)}</div>}
+                      {u.u && u.u.length > 0 && <p className="text-xs text-gray-500 mb-2">{u.u.slice(0, 3).map((f: any) => f.name).join(' • ')}{u.u.length > 3 && ` + ещё ${u.u.length - 3}`}</p>}
+                      {(u as any).desc && <p className="text-xs text-gray-500 mb-2 line-clamp-2">{(u as any).desc}</p>}
+                      {(u as any).history && <p className="text-xs text-gray-400 mb-2 line-clamp-2 italic">{(u as any).history}</p>}
                       <div className="flex items-center gap-2 mt-1">
-                        {u.w && (
-                          <a href={u.w} target="_blank" rel="noopener noreferrer" className="text-xs text-brand-600 hover:underline" onClick={(e) => e.stopPropagation()}>
-                            🌐 Сайт
-                          </a>
-                        )}
-                        {(u as any).wiki && (
-                          <a href={(u as any).wiki} target="_blank" rel="noopener noreferrer" className="text-xs text-gray-400 hover:text-gray-600" onClick={(e) => e.stopPropagation()}>
-                            📖 Wiki
-                          </a>
-                        )}
+                        {u.w && <a href={u.w} target="_blank" rel="noopener noreferrer" className="text-xs text-brand-600 hover:underline" onClick={(e) => e.stopPropagation()}>🌐 Сайт</a>}
+                        {(u as any).wiki && <a href={(u as any).wiki} target="_blank" rel="noopener noreferrer" className="text-xs text-gray-400 hover:text-gray-600" onClick={(e) => e.stopPropagation()}>📖 Wiki</a>}
                       </div>
                     </div>
                   </div>

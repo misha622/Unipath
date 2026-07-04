@@ -2,14 +2,14 @@
   "/_not-found/page": "app/_not-found/page.js",
   "/api/programs/route": "app/api/programs/route.js",
   "/api/search/route": "app/api/search/route.js",
-  "/api/universities/route": "app/api/universities/route.js",
   "/auth/page": "app/auth/page.js",
-  "/explore/page": "app/explore/page.js",
-  "/exams/page": "app/exams/page.js",
+  "/api/universities/route": "app/api/universities/route.js",
   "/dashboard/page": "app/dashboard/page.js",
-  "/wizard/page": "app/wizard/page.js",
+  "/exams/page": "app/exams/page.js",
+  "/explore/page": "app/explore/page.js",
   "/page": "app/page.js",
-  "/universities/page": "app/universities/page.js",
+  "/wizard/page": "app/wizard/page.js",
   "/compare/page": "app/compare/page.js",
-  "/uni/[slug]/page": "app/uni/[slug]/page.js"
+  "/uni/[slug]/page": "app/uni/[slug]/page.js",
+  "/universities/page": "app/universities/page.js"
 }
