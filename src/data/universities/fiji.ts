@@ -1,0 +1,4 @@
+// Fiji — 3 universities
+import { Univ } from '../universities-whed';
+
+export const Fiji: Univ[] = [{"n":"Fiji National University","a":"(FNU)","c":"Fiji","t":"","r":"","s":"","w":"","e":"","p":"","f":null,"y":"","d":"","l":[],"u":[],"i":"IAU-006340","x":"https://www.whed.net/institutions/IAU-006340","o":"","wiki":"","desc":"","students":"","history":"","accreditation":""},{"n":"Fulton Adventist University","a":"","c":"Fiji","t":"","r":"","s":"","w":"","e":"","p":"","f":null,"y":"","d":"","l":[],"u":[],"i":"IAU-031241","x":"https://www.whed.net/institutions/IAU-031241","o":"","wiki":"","desc":"","students":"","history":"","accreditation":""},{"n":"Sangam School of Nursing","a":"Sangam Institute of Technology","c":"Fiji","t":"","r":"","s":"","w":"","e":"","p":"","f":null,"y":"","d":"","l":[],"u":[],"i":"IAU-014416","x":"https://www.whed.net/institutions/IAU-014416","o":"","wiki":"","desc":"","students":"","history":"","accreditation":""}];

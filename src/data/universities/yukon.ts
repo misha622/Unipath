@@ -1,0 +1,4 @@
+// Yukon — 1 universities
+import { Univ } from '../universities-whed';
+
+export const Yukon: Univ[] = [{"n":"Yukon College","a":"","c":"Yukon","t":"Whitehorse","r":"Yukon","s":"P.O. Box 2799,500 College Drive","w":"http://www.yukoncollege.yk.ca","e":"","p":"","f":1963,"y":"","d":"Public","l":["English"],"u":[{"name":"School : Health, Education and Human Services","fields":["Education","Health Sciences","Social Work","Welfare and Protective Services"]},{"name":"School : Liberal Arts","fields":["Arts and Humanities","Public Administration"]},{"name":"School : Management, Tourism and Hospitality","fields":["Hotel and Restaurant","Management","Tourism"]}],"i":"IAU-022843","x":"https://www.whed.net/institutions/IAU-022843","o":"","wiki":"","desc":"","students":"1223","history":"Founded 1963.","accreditation":""}];

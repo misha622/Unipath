@@ -1,0 +1,4 @@
+// Gambia (The) — 1 universities
+import { Univ } from '../universities-whed';
+
+export const Gambia__The_: Univ[] = [{"n":"University of the Gambia","a":"(UTG)","c":"Gambia (The)","t":"Banjul","r":"","s":"21 Kanifing Mosque RoadPO Box 2340, Kanifing SouthKMC","w":"https://iou.edu.gm","e":"","p":"","f":null,"y":"","d":"Private","l":["English"],"u":[{"name":"Faculty : Arabic and Islamic Studies","fields":["Arabic","Islamic Studies"]},{"name":"Faculty : Liberal Arts and Sciences","fields":["Business Administration","Education","Finance","Information Technology","Psychology"]}],"i":"IAU-020557","x":"https://www.whed.net/institutions/IAU-020557","o":"March to February","wiki":"","desc":"","students":"9744","history":"","accreditation":"National Accreditation and Quality Assurance Authority (NAQAA)"}];

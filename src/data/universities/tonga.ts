@@ -1,0 +1,4 @@
+// Tonga — 1 universities
+import { Univ } from '../universities-whed';
+
+export const Tonga: Univ[] = [{"n":"University of the South Pacific Tonga Centre","a":"(USP)","c":"Tonga","t":"Nuku'alofa","r":"","s":"PO Box 278","w":"https://www.usp.ac.fj/usp-tonga","e":"","p":"","f":1971,"y":"","d":"Public","l":["English"],"u":[{"name":"Centre : Extension Studies/Continuing Education","fields":["Agriculture","Arts and Humanities","Fine Arts","Law","Management","Natural Sciences"]}],"i":"IAU-020578","x":"https://www.whed.net/institutions/IAU-020578","o":"January to November (January-June; July-November)","wiki":"","desc":"","students":"","history":"Founded 1971. An extension centre of the University of South Pacific with responsibilities for Distance Education, Adult non-formal education, village and community development and appropriate technology.","accreditation":""}];
