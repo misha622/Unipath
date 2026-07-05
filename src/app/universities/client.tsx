@@ -25,12 +25,12 @@ const COUNTRIES = [
 
 const FUNDING_TYPES = ['', 'Public', 'Private']
 const FOUNDED_RANGES = [
-  { label: 'Любой', min: 0, max: 9999 },
-  { label: 'До 1800', min: 0, max: 1800 },
-  { label: '1800-1900', min: 1800, max: 1900 },
-  { label: '1900-1950', min: 1900, max: 1950 },
-  { label: '1950-2000', min: 1950, max: 2000 },
-  { label: 'После 2000', min: 2000, max: 9999 },
+  { label: 'Любой', labelEn: 'Any', min: 0, max: 9999 },
+  { label: 'До 1800', labelEn: 'Before 1800', min: 0, max: 1800 },
+  { label: '1800-1900', labelEn: '1800-1900', min: 1800, max: 1900 },
+  { label: '1900-1950', labelEn: '1900-1950', min: 1900, max: 1950 },
+  { label: '1950-2000', labelEn: '1950-2000', min: 1950, max: 2000 },
+  { label: 'После 2000', labelEn: 'After 2000', min: 2000, max: 9999 },
 ]
 
 const ALL_LANGUAGES = [
@@ -44,7 +44,7 @@ const ALL_LANGUAGES = [
 export default function UniversitiesClient() {
   const router = useRouter()
   const urlParams = useSearchParams()
-  const { t } = useLang()
+  const { t, lang } = useLang()
 
   const [items, setItems] = useState<Univ[]>([])
   const [total, setTotal] = useState(0)
@@ -60,6 +60,12 @@ export default function UniversitiesClient() {
   const [foundedRange, setFoundedRange] = useState(urlParams.get('founded') || '0-9999')
   const [debouncedSearch, setDebouncedSearch] = useState(urlParams.get('search') || '')
 
+  const [myIelts, setMyIelts] = useState(Number(urlParams.get('myIelts')) || 0)
+  const [myToefl, setMyToefl] = useState(Number(urlParams.get('myToefl')) || 0)
+  const [myGpa, setMyGpa] = useState(Number(urlParams.get('myGpa')) || 0)
+  const [myBudget, setMyBudget] = useState(Number(urlParams.get('myBudget')) || 0)
+  const [scoresOpen, setScoresOpen] = useState(!!(myIelts || myToefl || myGpa || myBudget))
+
   useEffect(() => {
     const timer = setTimeout(() => setDebouncedSearch(search), 300)
     return () => clearTimeout(timer)
@@ -72,8 +78,12 @@ export default function UniversitiesClient() {
     if (funding) params.set('funding', funding)
     if (language) params.set('language', language)
     if (foundedRange !== '0-9999') params.set('founded', foundedRange)
+    if (myIelts) params.set('myIelts', String(myIelts))
+    if (myToefl) params.set('myToefl', String(myToefl))
+    if (myGpa) params.set('myGpa', String(myGpa))
+    if (myBudget) params.set('myBudget', String(myBudget))
     router.replace(`/universities${params.toString() ? '?' + params.toString() : ''}`, { scroll: false })
-  }, [debouncedSearch, country, funding, language, foundedRange])
+  }, [debouncedSearch, country, funding, language, foundedRange, myIelts, myToefl, myGpa, myBudget])
 
   const fetchData = useCallback(async (p: number) => {
     setLoading(true)
@@ -104,7 +114,8 @@ export default function UniversitiesClient() {
   }
 
   const resetFilters = () => {
-    setSearch(''); setCountry(''); setFunding(''); setLanguage(''); setFoundedRange('0-9999'); setSelected(new Set())
+    setSearch(''); setCountry(''); setFunding(''); setLanguage(''); setFoundedRange('0-9999')
+    setMyIelts(0); setMyToefl(0); setMyGpa(0); setMyBudget(0); setSelected(new Set())
   }
 
   const toggleSelect = (name: string) => {
@@ -116,6 +127,15 @@ export default function UniversitiesClient() {
   const goCompare = () => {
     if (selected.size < 2) return
     router.push(`/compare?ids=${Array.from(selected).map(encodeURIComponent).join(',')}`)
+  }
+
+  const getMatchScore = (u: Univ) => {
+    let score = 0
+    let total = 0
+    if (myIelts > 0) { total++; if (u.l && u.l.includes('English')) score++ }
+    if (myBudget > 0) { total++; if (u.f === null || u.f === undefined) score += 0.5; else if ((u as any).costPerYear <= myBudget) score++ }
+    if (total === 0) return -1
+    return score / total
   }
 
   return (
@@ -143,6 +163,57 @@ export default function UniversitiesClient() {
         <button onClick={resetFilters} className="px-4 sm:px-5 py-2.5 sm:py-3 border border-gray-300 rounded-xl text-xs sm:text-sm font-medium text-gray-600 hover:bg-gray-50 whitespace-nowrap">{t.universities.reset}</button>
       </div>
 
+      {/* Баллы пользователя */}
+      <div className="bg-brand-50 rounded-xl p-3 sm:p-4 mb-4">
+        <button
+          onClick={() => setScoresOpen(!scoresOpen)}
+          className="text-sm font-semibold text-brand-700 cursor-pointer flex items-center gap-2 w-full text-left"
+        >
+          <span>{lang === 'ru' ? '📊 Мои баллы' : '📊 My Scores'}</span>
+          <span className="text-xs text-brand-500 font-normal">({scoresOpen ? (lang === 'ru' ? 'свернуть' : 'collapse') : (lang === 'ru' ? 'развернуть' : 'expand')})</span>
+          {(myIelts > 0 || myToefl > 0 || myGpa > 0 || myBudget > 0) && (
+            <span className="ml-auto text-xs bg-brand-200 text-brand-700 px-2 py-0.5 rounded-full">
+              {[myIelts && `IELTS ${myIelts}`, myToefl && `TOEFL ${myToefl}`, myGpa && `GPA ${myGpa}`, myBudget && `€${myBudget.toLocaleString()}`].filter(Boolean).join(' • ')}
+            </span>
+          )}
+        </button>
+        {scoresOpen && (
+          <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 mt-3">
+            <div>
+              <label className="block text-xs font-semibold text-gray-500 mb-1">IELTS</label>
+              <select value={myIelts} onChange={(e) => setMyIelts(Number(e.target.value))} className="w-full px-2 py-1.5 rounded-lg border border-gray-300 bg-white text-xs">
+                <option value="0">{lang === 'ru' ? 'Не сдавал' : 'Not taken'}</option>
+                {[5.0,5.5,6.0,6.5,7.0,7.5,8.0,8.5,9.0].map(s => <option key={s} value={s}>{s}</option>)}
+              </select>
+            </div>
+            <div>
+              <label className="block text-xs font-semibold text-gray-500 mb-1">TOEFL</label>
+              <select value={myToefl} onChange={(e) => setMyToefl(Number(e.target.value))} className="w-full px-2 py-1.5 rounded-lg border border-gray-300 bg-white text-xs">
+                <option value="0">{lang === 'ru' ? 'Не сдавал' : 'Not taken'}</option>
+                {[60,70,80,90,100,110,120].map(s => <option key={s} value={s}>{s}</option>)}
+              </select>
+            </div>
+            <div>
+              <label className="block text-xs font-semibold text-gray-500 mb-1">GPA (4.0)</label>
+              <select value={myGpa} onChange={(e) => setMyGpa(Number(e.target.value))} className="w-full px-2 py-1.5 rounded-lg border border-gray-300 bg-white text-xs">
+                <option value="0">{lang === 'ru' ? 'Не знаю' : 'Unknown'}</option>
+                {[2.0,2.5,3.0,3.3,3.5,3.7,4.0].map(s => <option key={s} value={s}>{s}</option>)}
+              </select>
+            </div>
+            <div>
+              <label className="block text-xs font-semibold text-gray-500 mb-1">{lang === 'ru' ? 'Бюджет (EUR/год)' : 'Budget (EUR/yr)'}</label>
+              <select value={myBudget} onChange={(e) => setMyBudget(Number(e.target.value))} className="w-full px-2 py-1.5 rounded-lg border border-gray-300 bg-white text-xs">
+                <option value="0">{lang === 'ru' ? 'Не важно' : 'Any'}</option>
+                <option value="5000">{lang === 'ru' ? 'До 5 000' : 'Up to 5,000'}</option>
+                <option value="10000">{lang === 'ru' ? 'До 10 000' : 'Up to 10,000'}</option>
+                <option value="20000">{lang === 'ru' ? 'До 20 000' : 'Up to 20,000'}</option>
+                <option value="50000">{lang === 'ru' ? 'До 50 000' : 'Up to 50,000'}</option>
+              </select>
+            </div>
+          </div>
+        )}
+      </div>
+
       <div className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-4 gap-2 sm:gap-3 mb-3 sm:mb-4">
         <div>
           <label className="block text-xs font-semibold text-gray-500 uppercase mb-1">{t.universities.country}</label>
@@ -168,7 +239,7 @@ export default function UniversitiesClient() {
         <div>
           <label className="block text-xs font-semibold text-gray-500 uppercase mb-1">{t.universities.founded}</label>
           <select value={foundedRange} onChange={(e) => setFoundedRange(e.target.value)} className="w-full px-2 sm:px-3 py-2 rounded-lg border border-gray-300 bg-white text-xs sm:text-sm">
-            {FOUNDED_RANGES.map(r => <option key={r.label} value={`${r.min}-${r.max}`}>{r.label}</option>)}
+            {FOUNDED_RANGES.map(r => <option key={r.label} value={`${r.min}-${r.max}`}>{lang === 'ru' ? r.label : r.labelEn}</option>)}
           </select>
         </div>
       </div>
@@ -187,6 +258,7 @@ export default function UniversitiesClient() {
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3 sm:gap-4">
             {items.map((u: Univ) => {
               const isSelected = selected.has(u.n)
+              const matchScore = getMatchScore(u)
               return (
                 <div key={u.i || u.n}
                   className={`bg-white rounded-xl border-2 p-3 sm:p-4 transition-all cursor-pointer ${isSelected ? 'border-brand-500 shadow-md bg-brand-50' : 'border-gray-200 hover:shadow-md hover:border-gray-300'}`}
@@ -194,7 +266,18 @@ export default function UniversitiesClient() {
                   <div className="flex items-start gap-2 sm:gap-3">
                     <input type="checkbox" checked={isSelected} onChange={() => toggleSelect(u.n)} className="mt-1 w-3.5 h-3.5 sm:w-4 sm:h-4 rounded border-gray-300 text-brand-600 focus:ring-brand-500" onClick={(e) => e.stopPropagation()} />
                     <div className="flex-1 min-w-0">
-                      <Link href={`/uni/${encodeURIComponent(u.n)}`} className="font-semibold text-gray-900 mb-0.5 hover:text-brand-600 block text-sm sm:text-base" onClick={(e) => e.stopPropagation()}>{u.n}</Link>
+                      <div className="flex items-center gap-2 mb-0.5">
+                        <Link href={`/uni/${encodeURIComponent(u.n)}`} className="font-semibold text-gray-900 hover:text-brand-600 block text-sm sm:text-base truncate" onClick={(e) => e.stopPropagation()}>{u.n}</Link>
+                        {matchScore >= 0 && (
+                          <span className={`shrink-0 px-1.5 py-0.5 rounded-full text-xs font-bold ${
+                            matchScore >= 0.8 ? 'bg-green-100 text-green-700' :
+                            matchScore >= 0.5 ? 'bg-yellow-100 text-yellow-700' :
+                            'bg-red-100 text-red-700'
+                          }`}>
+                            {Math.round(matchScore * 100)}%
+                          </span>
+                        )}
+                      </div>
                       {u.a && <p className="text-xs sm:text-sm text-gray-500 mb-1">{u.a}</p>}
                       <div className="flex flex-wrap gap-1 sm:gap-2 text-xs text-gray-500 mb-1.5 sm:mb-2">
                         <span className="bg-brand-50 text-brand-700 px-1.5 sm:px-2 py-0.5 rounded-full text-xs">{u.c}</span>
