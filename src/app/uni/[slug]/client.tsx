@@ -17,14 +17,17 @@ interface Univ {
 export default function UniClient({ slug }: { slug: string }) {
   const [uni, setUni] = useState<Univ | null>(null)
   const [loading, setLoading] = useState(true)
-  const { t } = useLang()
+  const { t, lang } = useLang()
 
   useEffect(() => {
     async function load() {
       const name = decodeURIComponent(slug)
       const res = await fetch(`/api/universities?search=${encodeURIComponent(name)}&perPage=1`)
       const data = await res.json()
-      setUni(data.items?.[0] || null)
+      const items = data.items || []
+// Выбираем лучший результат: с website и founded
+      const best = items.find((u: any) => u.w && u.f) || items[0] || null
+      setUni(best)
       setLoading(false)
     }
     load()
@@ -36,8 +39,8 @@ export default function UniClient({ slug }: { slug: string }) {
   return (
     <div className="max-w-4xl mx-auto px-4 py-8">
       <div className="flex items-center gap-2 text-sm text-gray-500 mb-6">
-        <Link href="/" className="hover:text-brand-600">{t.universities.back.split('← ')[1] || 'Home'}</Link><span>/</span>
-        <Link href="/universities" className="hover:text-brand-600">{t.universities.title.split(' ').slice(1).join(' ')}</Link><span>/</span>
+        <Link href="/" className="hover:text-brand-600">{lang === 'ru' ? 'Главная' : 'Home'}</Link><span>/</span>
+        <Link href="/universities" className="hover:text-brand-600">{lang === 'ru' ? 'Университеты' : 'Universities'}</Link><span>/</span>
         <span className="text-gray-900">{uni.n}</span>
       </div>
 
@@ -80,6 +83,20 @@ export default function UniClient({ slug }: { slug: string }) {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-3">{uni.u.map((fac, i) => (
             <div key={i} className="bg-white rounded-xl border border-gray-200 p-4"><h3 className="font-semibold text-gray-900 mb-1">{fac.name}</h3>{fac.fields?.length > 0 && <div className="flex flex-wrap gap-1 mt-2">{fac.fields.map(f => <span key={f} className="text-xs bg-gray-100 text-gray-600 px-2 py-0.5 rounded-full">{f}</span>)}</div>}</div>
           ))}</div>
+        </div>
+      )}
+
+      {/* Похожие вузы */}
+      {uni.c && (
+        <div className="mt-12 pt-8 border-t border-gray-200">
+          <h2 className="text-xl font-bold text-gray-900 mb-4">
+            {lang === 'ru' ? '🔍 Похожие вузы в' : '🔍 Similar universities in'} {uni.c}
+          </h2>
+          <p className="text-sm text-gray-500 mb-4">
+            <Link href={`/universities?country=${encodeURIComponent(uni.c)}`} className="text-brand-600 hover:underline">
+              {lang === 'ru' ? 'Посмотреть все вузы в' : 'View all universities in'} {uni.c} →
+            </Link>
+          </p>
         </div>
       )}
 

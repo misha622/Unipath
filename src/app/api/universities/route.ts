@@ -16,14 +16,24 @@ export async function GET(request: NextRequest) {
   // Убираем дубликаты по iau_id
   const seen = new Set<string>()
   const uniqueUniversities = universities.filter(u => {
-  const key = u.i || u.n
-  if (seen.has(key)) return false
-  seen.add(key)
-  return true
+    const key = u.i || u.n
+    if (seen.has(key)) return false
+    seen.add(key)
+    return true
   })
 
+  let filtered = uniqueUniversities
 
-let filtered = uniqueUniversities
+  // Для дубликатов — предпочитаем запись с website и founded
+  const deduped = new Map<string, Univ>()
+  filtered.forEach(u => {
+    const key = u.i || u.n
+    const existing = deduped.get(key)
+    if (!existing || ((u.w && !existing.w) || (u.f && !existing.f))) {
+      deduped.set(key, u)
+    }
+  })
+  filtered = Array.from(deduped.values())
 
   if (country) {
     filtered = filtered.filter(u => u.c === country)
